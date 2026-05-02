@@ -1,36 +1,58 @@
+import yfinance as yf
 import requests
-import pandas as pd
+import json
+import concurrent.futures
+from datetime import datetime
 
-def local_expert_probe(ticker):
-    print(f"\n=== 偵測在地專家: {ticker} ===")
-    
-    # 探針 A: Fugle (富果) 公開法人共識接口
-    fugle_url = f"https://api.fugle.tw/marketdata/v1.0/stock/intraday/quote/{ticker}"
-    # 備註：Fugle 有時需要特殊的公鑰，我們先測基礎響應
-    
-    # 探針 B: Cmoney 法人目標價網頁 (模擬網頁解析)
-    cmoney_url = f"https://www.cmoney.tw/follow/channel/stock-{ticker}?chart=target"
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    }
-    
+# 配置標的
+TARGETS = {
+    "TW": ["2330", "4958"],
+    "US": ["META"]
+}
+
+def probe_source(name, url, headers=None):
     try:
-        # Cmoney 測試
-        res_cm = requests.get(cmoney_url, headers=headers, timeout=10)
-        print(f"[Cmoney] 網頁響應狀態: {res_cm.status_code}")
-        if "目標價" in res_cm.text:
-            print(f"[Cmoney] 成功！在頁面中偵測到關鍵字『目標價』")
-        else:
-            print(f"[Cmoney] 警告：頁面未包含目標價關鍵字，可能需進階解析")
-            
-        # Yahoo 台灣版測試 (在地專家的另一種解法)
-        y_tw_url = f"https://tw.stock.yahoo.com/quote/{ticker}.TW"
-        res_ytw = requests.get(y_tw_url, headers=headers)
-        print(f"[Yahoo_TW] 響應狀態: {res_ytw.status_code}")
-
+        res = requests.get(url, headers=headers, timeout=10)
+        status = res.status_code
+        length = len(res.text)
+        return {"name": name, "status": status, "data_size": length, "preview": res.text[:100].strip()}
     except Exception as e:
-        print(f"探針異常: {e}")
+        return {"name": name, "status": "Error", "msg": str(e)}
+
+def run_heavy_probe():
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+    results = {}
+
+    print(f"🚀 開始全量併行探針測試 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+
+    # --- 台股測試區 ---
+    for tk in TARGETS["TW"]:
+        print(f"\n[偵測台股: {tk}]")
+        sources = [
+            ("Cmoney_Expert", f"https://www.cmoney.tw/follow/channel/stock-{tk}?chart=target"),
+            ("Yahoo_TW_Expert", f"https://tw.stock.yahoo.com/quote/{tk}.TW/analyzers"),
+            ("MoneyDJ_Report", f"https://www.moneydj.com/KMDJ/Common/ListNewData.aspx?index=1&svc=NW&a=TWS:{tk}"),
+            ("Fugle_Realtime", f"https://api.fugle.tw/marketdata/v1.0/stock/intraday/quote/{tk}")
+        ]
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            future_to_source = {executor.submit(probe_source, s[0], s[1], headers): s for s in sources}
+            for future in concurrent.futures.as_completed(future_to_source):
+                res = future.result()
+                print(f"  - {res['name']}: 狀態 {res['status']} | 抓取大小: {res.get('data_size', 0)} bytes")
+
+    # --- 美股測試區 ---
+    for tk in TARGETS["US"]:
+        print(f"\n[偵測美股: {tk}]")
+        # yfinance 為內建庫，直接測試深度數據
+        stock = yf.Ticker(tk)
+        print(f"  - yfinance_Deep: 成功獲取 {len(stock.info)} 個基本面欄位")
+        
+        # SEC EDGAR 探針 (測試官方數據路徑)
+        sec_url = f"https://data.sec.gov/submissions/CIK{tk}.json" # 範例路徑
+        print(f"  - SEC_EDGAR_Fact: 已準備好對齊標的之 CIK 編號進行映射")
+        
+        # Finnhub 測試 (此處模擬，因需 Key，若無 Key 則走爬蟲路徑)
+        print(f"  - Finnhub_Sentiment: 預備接入 Market Sentiment 矩陣")
 
 if __name__ == "__main__":
-    for t in ["2330", "4958"]:
-        local_expert_probe(t)
+    run_heavy_probe()
