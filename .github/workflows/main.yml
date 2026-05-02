@@ -1,0 +1,36 @@
+name: Financial Data Harvester
+
+on:
+  workflow_dispatch: # 讓你隨時可以「手動點火」執行
+  schedule:
+    - cron: '0 0 * * *' # 每天午夜自動執行一次
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install yfinance requests
+
+      - name: Run Harvester
+        env:
+          FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: python main_manager.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add data/*.json
+          git commit -m "Update financial data: $(date)" || exit 0
+          git push
