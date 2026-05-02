@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "4958",
     "market": "TW",
-    "ts": "2026-05-02T12:12:17.436193"
+    "ts": "2026-05-02T12:15:19.685841"
   },
   "financials": {
     "annual": {
@@ -21572,7 +21572,6 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "corporateActions": [],
     "regularMarketTime": 1777527002,
     "exchange": "TAI",
     "messageBoardId": "finmb_140596767",
@@ -21581,7 +21580,11 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
+    "regularMarketChangePercent": 9.921671,
+    "regularMarketPrice": 421.0,
+    "longName": "Zhen Ding Technology Holding Limited",
     "marketState": "CLOSED",
+    "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
     "hasPrePostMarketData": false,
     "firstTradeDateMilliseconds": 1324861200000,
     "regularMarketChange": 38.0,
@@ -21611,11 +21614,8 @@
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "2.0 - Buy",
+    "corporateActions": [],
     "cryptoTradeable": false,
-    "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
-    "longName": "Zhen Ding Technology Holding Limited",
-    "regularMarketChangePercent": 9.921671,
-    "regularMarketPrice": 421.0,
     "trailingPegRatio": null
   }
 }
