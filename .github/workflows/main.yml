@@ -1,36 +1,37 @@
-name: Financial Data Harvester
+name: Financial Data Harvester Pro
 
 on:
-  workflow_dispatch: # 讓你隨時可以「手動點火」執行
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # 每天午夜自動執行一次
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  run-harvester:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
-          pip install yfinance requests
+      - name: Install Deps
+        run: pip install --no-cache-dir yfinance requests pandas
 
-      - name: Run Harvester
+      - name: Execute Main
         env:
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
-        run: python main_manager.py
+        run: python main.py
 
-      - name: Commit and Push
+      - name: Push Data
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add data/*.json
-          git commit -m "Update financial data: $(date)" || exit 0
+          git config --global user.name "Financial-Bot"
+          git config --global user.email "bot@github.com"
+          git add data/
+          git commit -m "Full-Scale Update: $(date)" || echo "No changes to commit"
           git push
