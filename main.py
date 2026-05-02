@@ -6,7 +6,7 @@ import time
 import pandas as pd
 from datetime import datetime, date
 
-# --- 配置區 (標的隔離) ---
+# --- 配置區 ---
 TARGETS = {"TW": ["2330"], "US": ["META"]}
 DATA_DIR = "data"
 
@@ -14,26 +14,23 @@ def log(msg):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
 
 def init_env():
-    """環境自癒：自動重建資料目錄"""
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR, exist_ok=True)
-        log(f"📁 已重新建立數據保險箱: {DATA_DIR}")
+        log(f"📁 數據空間已重新初始化: {DATA_DIR}")
 
 def json_serial(obj):
-    """處理序列化地雷 (Timestamp/Date)"""
     if isinstance(obj, (datetime, date, pd.Timestamp)):
         return obj.isoformat()
     return str(obj)
 
 def df_to_dict(df, name=""):
-    """安全轉換 DataFrame 為字典"""
     try:
         if df is None or df.empty: return {}
         return json.loads(df.to_json(orient="index", date_format="iso"))
     except: return {}
 
 def safe_api(url, params=None, method="GET", data=None):
-    """具備重試機制的靜默請求 (Anti-Choke)"""
+    """聯集專用請求器：失敗僅記錄，不影響其他水源採集"""
     for _ in range(2):
         try:
             if method == "POST":
@@ -41,50 +38,43 @@ def safe_api(url, params=None, method="GET", data=None):
             else:
                 r = requests.get(url, params=params, timeout=25)
             if r.status_code == 200: return r.json()
+            if r.status_code in [402, 403, 422]: break # 權限或參數錯誤，跳過
         except: time.sleep(2)
     return None
 
 # =========================
-# 數據源插件 (Pluggable)
+# 水源模組：MOPS 原始爬蟲 (台股專用)
 # =========================
-def get_mops_summary(year="113", season="1"):
-    """MOPS 原始爬蟲插件：直接從官網抓取彙總表 (解決掐脖子問題)"""
+def scrape_mops_union(ticker):
+    """直接從 MOPS 官方源頭抓取彙總表，實現原始數據聯集"""
     url = "https://mops.twse.com.tw/mops/web/ajax_t163sb04"
     payload = {
         "encodeURIComponent": 1, "step": 1, "firstin": 1, "off": 1,
-        "TYPEK": "sii", "year": year, "season": season
+        "TYPEK": "sii", "year": "113", "season": "1"
     }
     try:
         res = requests.post(url, data=payload, timeout=20)
         tables = pd.read_html(res.text)
-        return tables
-    except: return []
-
-def calculate_sgr(info):
-    """可持續成長率: $SGR = ROE \times (1 - \text{Payout Ratio})$"""
-    try:
-        roe = info.get('returnOnEquity')
-        payout = info.get('payoutRatio')
-        if roe is not None and payout is not None:
-            sgr = roe * (1 - payout)
-            return {"sgr_raw": sgr, "sgr_pct": f"{round(sgr * 100, 2)}%"}
+        # 過濾出該標的的特定行 (聯集過濾邏輯)
+        for df in tables:
+            if '公司代碼' in df.columns and str(ticker) in df['公司代碼'].astype(str).values:
+                return json.loads(df[df['公司代碼'].astype(str) == str(ticker)].to_json(orient="records"))
     except: pass
-    return {"sgr_raw": None, "sgr_pct": "N/A"}
+    return []
 
 # =========================
-# 擷取主邏輯 (Invincible Edition)
+# 收割主邏輯 (Union Strategy)
 # =========================
-def harvest_invincible(ticker, is_tw=True):
-    log(f"🚀 啟動韌性採集: {ticker}")
+def harvest_union(ticker, is_tw=True):
+    log(f"🚀 啟動全量數據聯集採集: {ticker}")
     fmp_key = os.getenv("FMP_API_KEY")
     fm_token = os.getenv("FINMIND_TOKEN")
     
     symbol_yf = f"{ticker}.TW" if is_tw else ticker
     stock = yf.Ticker(symbol_yf)
 
-    # 1. 核心肉源 (yfinance) - 包含四大報表與季報
-    log(f"📊 抓取 {ticker} 核心財報與季報...")
-    financial_statements = {
+    # 1. 第一路水源: yfinance (基礎財報/年報/季報)
+    financials = {
         "annual": {
             "income": df_to_dict(stock.financials, "A-Income"),
             "balance": df_to_dict(stock.balance_sheet, "A-Balance"),
@@ -97,49 +87,50 @@ def harvest_invincible(ticker, is_tw=True):
         }
     }
 
-    # 2. 備援源 (FMP/FinMind/MOPS)
+    # 2. 第二路水源: FMP (官方文件校準路徑)
     fmp_v3 = "https://financialmodelingprep.com/api/v3"
-    supplementary = {
+    fmp_data = {
         "socie": safe_api(f"{fmp_v3}/statement-of-changes-in-equity/{ticker}", {"apikey": fmp_key}),
-        "dcf": safe_api(f"{fmp_v3}/discounted-cash-flow/{ticker}", {"apikey": fmp_key})
+        "dcf": safe_api(f"{fmp_v3}/discounted-cash-flow/{ticker}", {"apikey": fmp_key}),
+        "estimates": safe_api(f"{fmp_v3}/analyst-estimates/{ticker}", {"apikey": fmp_key})
     }
 
-    local_chip = {}
-    if is_tw:
-        # 整合 MOPS 原始數據 (僅示範路徑)
-        mops_data = get_mops_summary()
-        local_chip["mops_snapshot"] = "Detected" if len(mops_data) > 0 else "None"
-        
-        # FinMind 備援 (2026 探針版)
-        if fm_token:
-            fm_url = "https://api.finmindtrade.com/api/v4/data"
-            for ds in ["TaiwanStockMonthRevenue", "TaiwanStockInstitutionalInvestorsBuySell"]:
-                res = safe_api(fm_url, {"dataset": ds, "data_id": ticker, "token": fm_token.strip(), "start_date": "2026-01-01"})
-                local_chip[ds] = res.get("data", []) if res else []
+    # 3. 第三路水源: FinMind (在地籌碼/營收)
+    local_data = {}
+    if is_tw and fm_token:
+        fm_url = "https://api.finmindtrade.com/api/v4/data"
+        for ds in ["TaiwanStockMonthRevenue", "TaiwanStockInstitutionalInvestorsBuySell"]:
+            res = safe_api(fm_url, {"dataset": ds, "data_id": ticker, "token": fm_token.strip(), "start_date": "2026-01-01"})
+            local_data[ds] = res.get("data", []) if res else []
 
-    # 3. 數據整合與 SGR 運算
+    # 4. 第四路水源: MOPS 官方原始數據 (台股專用)
+    mops_data = scrape_mops_union(ticker) if is_tw else []
+
+    # 5. 數據大聯集封裝
     info = stock.info if hasattr(stock, 'info') else {}
     payload = {
         "metadata": {"ticker": ticker, "update_time": datetime.now().isoformat(), "is_tw": is_tw},
-        "valuation_logic": {
-            "sgr_model": calculate_sgr(info),
-            "target_price": info.get('targetMeanPrice'),
-            "fmp_forecasts": supplementary
+        "all_financial_sources": {
+            "yf_core": financials,
+            "fmp_extension": fmp_data,
+            "mops_official": mops_data
         },
-        "financial_statements": financial_statements,
-        "market_data": {"local_chip": local_chip},
+        "market_and_chip": {
+            "finmind_local": local_data,
+            "yf_history": df_to_dict(stock.history(period="6mo").reset_index(), "Price-Hist")
+        },
         "intelligence": {
             "news": stock.news if hasattr(stock, 'news') else [],
-            "info_snapshot": info
+            "snapshot": info
         }
     }
 
     with open(f"{DATA_DIR}/{ticker}.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2, default=json_serial)
-    log(f"✅ {ticker}.json 韌性入庫完成")
+    log(f"✅ {ticker}.json 聯集入庫成功 (包含 MOPS/FMP/FinMind/yf)")
 
 if __name__ == "__main__":
     init_env()
-    for t in TARGETS["TW"]: harvest_invincible(t, True)
-    for t in TARGETS["US"]: harvest_invincible(t, False)
-    log("🏁 收割任務順利完成")
+    for t in TARGETS["TW"]: harvest_union(t, True)
+    for t in TARGETS["US"]: harvest_union(t, False)
+    log("🏁 聯集收割任務完成")
