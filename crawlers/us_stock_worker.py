@@ -2,67 +2,64 @@ import os, requests, json
 import yfinance as yf
 from datetime import datetime
 
-# --- 美股多源並列聯集收割機 V4 ---
+# --- 美股權限修復與混合同步版 V5 ---
 TARGET = "META"
 FMP_KEY = os.getenv("FMP_API_KEY")
 BASE_DIR = "data/US/stocks"
 
 def log(msg):
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] [US-Union] {msg}")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] [US-Fix] {msg}")
 
-def fetch_fmp(endpoint, params={}):
+def fetch_fmp_safe(endpoint):
+    """測試 FMP 免費版支援的基礎接口"""
     if not FMP_KEY: return []
+    # 注意：免費版通常只支援基礎財務報表
     url = f"https://financialmodelingprep.com/api/v3/{endpoint}/{TARGET}"
-    params['apikey'] = FMP_KEY
     try:
-        r = requests.get(url, params=params, timeout=15)
-        log(f"📡 FMP {endpoint}: HTTP {r.status_code}")
+        r = requests.get(url, params={"apikey": FMP_KEY}, timeout=15)
+        if r.status_code == 403:
+            log(f"⚠️ FMP {endpoint} 被拒絕 (403): 權限不足，略過。")
+            return []
         return r.json() if r.status_code == 200 else []
-    except Exception as e:
-        log(f"💥 FMP {endpoint} 崩潰: {e}")
-        return []
+    except: return []
 
-def harvest_extreme_union():
-    log(f"🚀 啟動 {TARGET} 全量並列聯集任務...")
+def harvest_us_v5():
+    log(f"🚀 啟動 {TARGET} 權限修復採集...")
+
+    # --- 軌道 1: yfinance (強化 Headers 繞過) ---
+    log("🧵 執行 yfinance 強化軌道...")
+    # 使用自定義 Session 繞過 GitHub IP 限制嘗試
+    session = requests.Session()
+    session.headers.update({'User-Agent': 'Mozilla/5.0'})
+    yf_stock = yf.Ticker(TARGET, session=session)
     
-    # --- 軌道 1: yfinance (基礎肉源) ---
-    log("🧵 執行 yfinance 軌道...")
-    yf_stock = yf.Ticker(TARGET)
-    yf_data = {
-        "info": yf_stock.info if yf_stock.info else {},
-        "yf_news": yf_stock.news if hasattr(yf_stock, 'news') else []
-    }
-    log(f"✅ yfinance 完成 (新聞: {len(yf_data['yf_news'])} 筆)")
+    try:
+        yf_info = yf_stock.info
+        yf_news = yf_stock.news
+    except:
+        yf_info, yf_news = {}, []
 
-    # --- 軌道 2: FMP (核心深度肉源) ---
-    log("🧵 執行 FMP 專業軌道...")
-    fmp_union = {
-        "estimates": fetch_fmp("analyst-estimates"),        # 分析師預期
-        "insider": fetch_fmp("insider-trading"),            # 內部人
-        "institutional": fetch_fmp("institutional-holder"), # 13F 機構
-        "sec_filings": fetch_fmp("sec_filings"),            # SEC 連結
-        "metrics": fetch_fmp("key-metrics-ttm"),            # 深度指標
-        "segments": fetch_fmp("revenue-product-segmentation"), # 分段營收
-        "fmp_news": fetch_fmp("stock_news", {"limit": 15})   # 專業新聞
-    }
-    
-    # --- 最終聯集 (Merge) ---
-    full_payload = {
-        "metadata": {"ticker": TARGET, "ts": datetime.now().isoformat(), "source": "Parallel-Union-V4"},
-        "fundamental": yf_data["info"],
-        "deep_analysis": fmp_union,
-        "news_aggregate": {
-            "yahoo": yf_data["yf_news"],
-            "fmp": fmp_union["fmp_news"]
-        }
+    # --- 軌道 2: FMP (鎖定免費版可用接口) ---
+    log("🧵 執行 FMP 基礎軌道...")
+    fmp_data = {
+        "profile": fetch_fmp_safe("profile"),
+        "income_statement": fetch_fmp_safe("income-statement"), # 免費版核心
+        "enterprise_value": fetch_fmp_safe("enterprise-value")
     }
 
-    # 存檔
+    # 合併聯集
+    payload = {
+        "metadata": {"ticker": TARGET, "ts": datetime.now().isoformat(), "ver": "V5-Fix"},
+        "fundamental": yf_info if yf_info else (fmp_data["profile"][0] if fmp_data["profile"] else {}),
+        "financial_history": fmp_data["income_statement"],
+        "news_aggregate": yf_news if yf_news else []
+    }
+
     os.makedirs(BASE_DIR, exist_ok=True)
     with open(f"{BASE_DIR}/{TARGET}.json", "w", encoding="utf-8") as f:
-        json.dump(full_payload, f, ensure_ascii=False, indent=2)
+        json.dump(payload, f, ensure_ascii=False, indent=2)
     
-    log(f"🏁 {TARGET} 全量聯集入庫成功。")
+    log(f"🏁 {TARGET} 採集完成。FMP 報表筆數: {len(fmp_data['income_statement'])}")
 
 if __name__ == "__main__":
-    harvest_extreme_union()
+    harvest_us_v5()
