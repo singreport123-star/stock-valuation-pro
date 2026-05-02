@@ -1,23 +1,35 @@
-import requests
 import os
+import requests
+import json
+import concurrent.futures
 
-key = os.getenv('FMP_API_KEY')
-# 測試 v4 新版 DCF 與 v3 的關鍵指標 (通常比 profile 穩定)
-test_endpoints = [
-    f"https://financialmodelingprep.com/api/v4/advanced_discounted_cash_flow?symbol=META&apikey={key}",
-    f"https://financialmodelingprep.com/api/v3/key-metrics/META?limit=1&apikey={key}",
-    f"https://financialmodelingprep.com/api/v3/analyst-estimates/META?apikey={key}"
-]
+def fetch_fmp_stable(symbol, endpoint):
+    key = os.getenv('FMP_API_KEY')
+    url = f"https://financialmodelingprep.com/stable/{endpoint}?symbol={symbol}&apikey={key}"
+    try:
+        res = requests.get(url)
+        return res.json() if res.status_code == 200 else f"Error_{res.status_code}"
+    except: return "Conn_Error"
 
-print("🚀 FMP 路徑校準測試啟動...")
-for url in test_endpoints:
-    res = requests.get(url)
-    # 隱藏 API Key 顯示
-    clean_url = url.split('?')[0]
-    print(f"\nURL: {clean_url}")
-    print(f"Status: {res.status_code}")
-    # 若 200 則顯示內容，否則顯示原始 Error
-    if res.status_code == 200:
-        print(f"Success: 抓取到 {len(res.text)} bytes 數據")
-    else:
-        print(f"Error Response: {res.text}")
+def fetch_finmind_all(ticker):
+    token = os.getenv('FINMIND_TOKEN')
+    datasets = ["TaiwanStockMonthRevenue", "TaiwanStockInstitutionalInvestorsBuySell", "ConvertibleBondDailyTransaction"]
+    results = {}
+    for ds in datasets:
+        url = "https://api.finmindtrade.com/api/v4/data"
+        params = {"dataset": ds, "data_id": ticker, "token": token, "start_date": "2026-04-01"}
+        res = requests.get(url, params=params)
+        results[ds] = len(res.json().get('data', [])) if res.status_code == 200 else "Error"
+    return results
+
+if __name__ == "__main__":
+    print("🚀 啟動終極聯集探針 (Stable API 版)...")
+    results = {
+        "TW_2330": fetch_finmind_all("2330"),
+        "US_META_Stable": {
+            "profile": fetch_fmp_stable("META", "profile"),
+            "dcf": fetch_fmp_stable("META", "discounted-cash-flow"),
+            "estimates": fetch_fmp_stable("META", "analyst-estimates")
+        }
+    }
+    print(json.dumps(results, indent=2, ensure_ascii=False))
