@@ -1,47 +1,40 @@
 name: Financial Data Harvester Extreme
 
 on:
-  workflow_dispatch: # 支援手動立即點火測試
+  workflow_dispatch: # 手動立即執行
   schedule:
-    - cron: '0 22 * * *' # 每天台灣時間 06:00 自動執行
+    - cron: '0 22 * * *' # 台灣時間 06:00 自動執行
 
 permissions:
-  contents: write # 賦予機器人寫入倉庫的最高權限
+  contents: write # 賦予機器人寫入權限
 
 jobs:
-  run-ultimate-harvest:
+  run-harvest:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: 1. 複製倉庫代碼 (Checkout)
+      - name: 1. Checkout Code
         uses: actions/checkout@v3
 
-      - name: 2. 部署 Python 環境
+      - name: 2. Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: 3. 安裝必要套件
+      - name: 3. Install Industrial Deps
         run: |
-          pip install --no-cache-dir yfinance requests pandas
+          pip install --no-cache-dir yfinance requests pandas lxml
 
-      - name: 4. 執行數據收割程式 (Inject Secrets)
+      - name: 4. Execute Harvester
         env:
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
         run: python main.py
 
-      - name: 5. 診斷與資料入庫 (Git Push)
+      - name: 5. Git Sync Data
         run: |
-          git config --global user.name "Financial-Bot-Pro"
+          git config --global user.name "Financial-Bot-Architect"
           git config --global user.email "bot@github.com"
-          
-          # 檢查數據變動狀態
           git add data/
           git status
-          
-          # 提交變動，若資料未更新則不報錯
-          git commit -m "Auto Harvest: $(date +'%Y-%m-%d %H:%M:%S')" || echo "無資料變動，跳過提交"
-          
-          # 推送到 GitHub
+          git commit -m "Auto Harvest: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push
