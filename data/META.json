@@ -1,19 +1,8 @@
 {
   "metadata": {
     "ticker": "META",
-    "update_time": "2026-05-02T10:13:49.856777",
+    "update_time": "2026-05-02T10:20:04.840254",
     "is_tw": false
-  },
-  "valuation_logic": {
-    "sgr_model": {
-      "sgr_raw": 0.304141498472,
-      "sgr_pct": "30.41%"
-    },
-    "yf_target": 838.62305,
-    "fmp_forecasts": {
-      "dcf": null,
-      "estimates": null
-    }
   },
   "financial_statements": {
     "annual": {
@@ -3917,6 +3906,10 @@
     "local_chip": {}
   },
   "intelligence": {
+    "forecasts": {
+      "dcf": null,
+      "estimates": null
+    },
     "news": [
       {
         "id": "1449837f-2b61-4ae3-b431-4392d9465000",
@@ -4043,32 +4036,32 @@
         }
       },
       {
-        "id": "b4db6197-38d0-3d6f-816e-b009fdc66c00",
+        "id": "0e70a808-24ae-3e96-b2f0-06e2e941affe",
         "content": {
-          "id": "b4db6197-38d0-3d6f-816e-b009fdc66c00",
+          "id": "0e70a808-24ae-3e96-b2f0-06e2e941affe",
           "contentType": "STORY",
           "title": "Meta faces New Mexico trial that could force changes to Facebook, other platforms",
           "description": "",
-          "summary": "By Diana Novak Jones May 2 (Reuters) - A trial beginning in New Mexico on Monday could prompt a judge to order sweeping changes to how Facebook, Instagram and WhatsApp operate - a move Meta Platforms",
+          "summary": "A trial beginning in New Mexico on Monday could prompt a judge to order sweeping changes to how Facebook, Instagram and WhatsApp operate - a move Meta Platforms has warned could force it to withdraw from the state.  The case, which will be tried before a judge in Santa Fe, stems from ‌a lawsuit filed by New Mexico Attorney General Raúl Torrez, a Democrat, accusing the social media giant of designing its products to addict young users and failing to protect ‌children from sexual exploitation on its platforms.  At the heart of the trial is whether Meta’s platforms have created a “public nuisance” under New Mexico law.",
           "pubDate": "2026-05-02T10:03:51Z",
           "displayTime": "2026-05-02T10:03:51Z",
           "isHosted": true,
           "bypassModal": false,
           "previewUrl": null,
           "thumbnail": {
-            "originalUrl": "https://media.zenfs.com/en/reuters.com/93da05bbf16b53314cdd26908751059e",
+            "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/8f875ed37027002286be5e55f35c192e",
             "originalWidth": 800,
             "originalHeight": 533,
-            "caption": "FILE PHOTO: The logo of Meta is seen during the Viva Technology conference dedicated to innovation and startups at Porte de Versailles exhibition center in Paris, France, June 12, 2025. REUTERS/Benoit Tessier/File Photo",
+            "caption": "FILE PHOTO: VivaTech conference dedicated to innovation and startups in Paris",
             "resolutions": [
               {
-                "url": "https://s.yimg.com/uu/api/res/1.2/wg3nPD_0PiFiU8DNXRn55Q--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/93da05bbf16b53314cdd26908751059e",
+                "url": "https://s.yimg.com/uu/api/res/1.2/IMJD_3ztdzeXgUP4XrblYQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/8f875ed37027002286be5e55f35c192e",
                 "width": 800,
                 "height": 533,
                 "tag": "original"
               },
               {
-                "url": "https://s.yimg.com/uu/api/res/1.2/PmU4txm5pzh51ihvHRRXSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/93da05bbf16b53314cdd26908751059e",
+                "url": "https://s.yimg.com/uu/api/res/1.2/ZN6v8lEH0kHd0yFWaGFPiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/8f875ed37027002286be5e55f35c192e",
                 "width": 170,
                 "height": 128,
                 "tag": "170x128"
@@ -4077,17 +4070,17 @@
           },
           "provider": {
             "displayName": "Reuters",
-            "url": "https://www.reuters.com/",
-            "sourceId": "reuters.com"
+            "url": "http://www.reuters.com/",
+            "sourceId": "reuters-finance.com"
           },
           "canonicalUrl": {
-            "url": "https://finance.yahoo.com/news/meta-faces-mexico-trial-could-100351544.html",
+            "url": "https://finance.yahoo.com/sectors/technology/articles/meta-faces-mexico-trial-could-100351249.html",
             "site": "finance",
             "region": "US",
             "lang": "en-US"
           },
           "clickThroughUrl": {
-            "url": "https://finance.yahoo.com/news/meta-faces-mexico-trial-could-100351544.html",
+            "url": "https://finance.yahoo.com/sectors/technology/articles/meta-faces-mexico-trial-could-100351249.html",
             "site": "finance",
             "region": "US",
             "lang": "en-US"
@@ -4758,17 +4751,12 @@
       "customPriceAlertConfidence": "HIGH",
       "shortName": "Meta Platforms, Inc.",
       "longName": "Meta Platforms, Inc.",
-      "corporateActions": [],
-      "postMarketTime": 1777679997,
-      "regularMarketTime": 1777665601,
-      "exchange": "NMS",
-      "messageBoardId": "finmb_20765463",
-      "exchangeTimezoneName": "America/New_York",
-      "exchangeTimezoneShortName": "EDT",
+      "cryptoTradeable": false,
+      "marketState": "CLOSED",
       "gmtOffSetMilliseconds": -14400000,
       "market": "us_market",
       "esgPopulated": false,
-      "cryptoTradeable": false,
+      "regularMarketChangePercent": -0.517229,
       "hasPrePostMarketData": true,
       "firstTradeDateMilliseconds": 1337347800000,
       "postMarketChangePercent": 0.010908714,
@@ -4805,9 +4793,14 @@
       "prevName": "Facebook, Inc.",
       "nameChangeDate": "2026-05-01",
       "averageAnalystRating": "1.4 - Strong Buy",
-      "marketState": "CLOSED",
-      "regularMarketChangePercent": -0.517229,
       "regularMarketPrice": 608.745,
+      "exchange": "NMS",
+      "messageBoardId": "finmb_20765463",
+      "exchangeTimezoneName": "America/New_York",
+      "exchangeTimezoneShortName": "EDT",
+      "corporateActions": [],
+      "postMarketTime": 1777679997,
+      "regularMarketTime": 1777665601,
       "displayName": "Meta Platforms",
       "trailingPegRatio": 0.9273
     }
