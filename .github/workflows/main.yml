@@ -3,13 +3,13 @@ name: Ultimate-Financial-Data-Harvest
 on:
   workflow_dispatch: # 手動立即執行
   schedule:
-    - cron: '0 22 * * *' # 台灣時間 06:00 自動執行
+    - cron: '0 22 * * *' # 自動執行排程
 
 permissions:
   contents: write 
 
 jobs:
-  full-harvest:
+  full-harvest-and-analyze:
     runs-on: ubuntu-latest
     steps:
       - name: 1. Checkout Code
@@ -24,14 +24,14 @@ jobs:
         run: |
           pip install --no-cache-dir yfinance requests pandas lxml
 
-      - name: 4. Execute Macro Workers (Market Background)
+      - name: 4. Execute Macro Workers
         env:
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
         run: |
           python crawlers/tw_macro_worker.py
           python crawlers/us_macro_worker.py
 
-      - name: 5. Execute Stock Workers (Individual Depth)
+      - name: 5. Execute Stock Workers
         env:
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
@@ -46,3 +46,6 @@ jobs:
           git add data/
           git commit -m "Full-Union Harvest: $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push
+
+      - name: 7. 執行台美股自動化診斷
+        run: python analyzer.py
