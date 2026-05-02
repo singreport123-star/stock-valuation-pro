@@ -1,46 +1,36 @@
-import yfinance as yf
 import requests
-import json
-import datetime
+import pandas as pd
 
-def dual_stock_probe(ticker_list):
+def local_expert_probe(ticker):
+    print(f"\n=== 偵測在地專家: {ticker} ===")
+    
+    # 探針 A: Fugle (富果) 公開法人共識接口
+    fugle_url = f"https://api.fugle.tw/marketdata/v1.0/stock/intraday/quote/{ticker}"
+    # 備註：Fugle 有時需要特殊的公鑰，我們先測基礎響應
+    
+    # 探針 B: Cmoney 法人目標價網頁 (模擬網頁解析)
+    cmoney_url = f"https://www.cmoney.tw/follow/channel/stock-{ticker}?chart=target"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Referer': 'https://invest.cnyes.com/',
-        'Accept': 'application/json'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
-
-    for ticker in ticker_list:
-        print(f"\n{'='*20} 診斷標的: {ticker} {'='*20}")
-        
-        # 1. 全球專家 (Global)
-        yf_ticker = f"{ticker}.TW"
-        stock = yf.Ticker(yf_ticker)
-        info = stock.info
-        print(f"[Global] Yahoo 目標價: {info.get('targetMeanPrice', 'N/A')}")
-        print(f"[Global] 分析師人數: {info.get('numberOfAnalystOpinions', 'N/A')}")
-
-        # 2. 在地專家 (Local - Anue 修正版)
-        anue_url = f"https://invest.cnyes.com/api/v1/quote/TWS:{ticker}:STOCK/institutionalConsensus"
-        try:
-            res = requests.get(anue_url, headers=headers, timeout=10)
-            if res.status_code == 200:
-                local_data = res.json().get('data', {})
-                print(f"[Local] Anue 目標價 (中位數): {local_data.get('targetPriceMedium', 'N/A')}")
-                print(f"[Local] 本土券商評等數: {local_data.get('count', 'N/A')}")
-            else:
-                print(f"[Local] Anue 偵測失敗 (Status {res.status_code})")
-        except Exception as e:
-            print(f"[Local] Anue 連線異常: {e}")
-
-        # 3. 系統邏輯 (Internal - SGR 計算)
-        roe = info.get('returnOnEquity')
-        payout = info.get('payoutRatio')
-        if roe and payout:
-            sgr = roe * (1 - payout)
-            print(f"[Internal] 系統計算 SGR: {sgr*100:.2f}%")
+    
+    try:
+        # Cmoney 測試
+        res_cm = requests.get(cmoney_url, headers=headers, timeout=10)
+        print(f"[Cmoney] 網頁響應狀態: {res_cm.status_code}")
+        if "目標價" in res_cm.text:
+            print(f"[Cmoney] 成功！在頁面中偵測到關鍵字『目標價』")
         else:
-            print("[Internal] 數據不足，無法計算 SGR")
+            print(f"[Cmoney] 警告：頁面未包含目標價關鍵字，可能需進階解析")
+            
+        # Yahoo 台灣版測試 (在地專家的另一種解法)
+        y_tw_url = f"https://tw.stock.yahoo.com/quote/{ticker}.TW"
+        res_ytw = requests.get(y_tw_url, headers=headers)
+        print(f"[Yahoo_TW] 響應狀態: {res_ytw.status_code}")
+
+    except Exception as e:
+        print(f"探針異常: {e}")
 
 if __name__ == "__main__":
-    dual_stock_probe(["2330", "4958"])
+    for t in ["2330", "4958"]:
+        local_expert_probe(t)
