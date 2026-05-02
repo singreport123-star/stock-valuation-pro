@@ -1,41 +1,48 @@
-name: Financial-Data-Union-Harvest
+name: Ultimate-Financial-Data-Harvest
 
 on:
-  workflow_dispatch: # 手動觸發點火
+  workflow_dispatch: # 手動立即執行
+  schedule:
+    - cron: '0 22 * * *' # 台灣時間 06:00 自動執行
 
 permissions:
-  contents: write # 確保機器人有權限寫入 data/ 夾
+  contents: write 
 
 jobs:
-  union-harvest:
+  full-harvest:
     runs-on: ubuntu-latest
     steps:
-      - name: 1. 檢出程式碼
+      - name: 1. Checkout Code
         uses: actions/checkout@v3
 
-      - name: 2. 設置 Python 環境
+      - name: 2. Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: 3. 安裝工業級依賴
+      - name: 3. Install Requirements
         run: |
-          pip install yfinance requests pandas lxml
+          pip install --no-cache-dir yfinance requests pandas lxml
 
-      - name: 4. 執行美股收割任務 (META)
-        env:
-          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
-        run: python crawlers/us_stock_worker.py
-
-      - name: 5. 執行台股深度收割任務 (2330/4958)
+      - name: 4. Execute Macro Workers (Market Background)
         env:
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
-        run: python crawlers/tw_stock_worker.py
-
-      - name: 6. 自動同步數據入庫
         run: |
-          git config --global user.name "GitHub-Actions-Bot"
-          git config --global user.email "actions@github.com"
+          python crawlers/tw_macro_worker.py
+          python crawlers/us_macro_worker.py
+
+      - name: 5. Execute Stock Workers (Individual Depth)
+        env:
+          FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: |
+          python crawlers/tw_stock_worker.py
+          python crawlers/us_stock_worker.py
+
+      - name: 6. Sync Data to Repository
+        run: |
+          git config --global user.name "Financial-Bot-Architect"
+          git config --global user.email "bot@github.com"
           git add data/
-          git commit -m "Auto Update: TW/US Stock Union Data $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git commit -m "Full-Union Harvest: $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push
