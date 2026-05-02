@@ -1,40 +1,39 @@
-name: Financial Data Harvester Extreme
+name: Financial Data Harvester Union
 
 on:
-  workflow_dispatch: # 手動立即執行
+  workflow_dispatch:
   schedule:
-    - cron: '0 22 * * *' # 台灣時間 06:00 自動執行
+    - cron: '0 22 * * *'
 
 permissions:
-  contents: write # 賦予機器人寫入權限
+  contents: write
 
 jobs:
-  run-harvest:
+  run-union-harvest:
     runs-on: ubuntu-latest
     steps:
-      - name: 1. Checkout Code
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: 2. Setup Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: 3. Install Industrial Deps
+      - name: Install Industrial Deps
         run: |
           pip install --no-cache-dir yfinance requests pandas lxml
 
-      - name: 4. Execute Harvester
+      - name: Execute Union Harvest
         env:
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
         run: python main.py
 
-      - name: 5. Git Sync Data
+      - name: Sync to Repository
         run: |
           git config --global user.name "Financial-Bot-Architect"
           git config --global user.email "bot@github.com"
           git add data/
-          git status
-          git commit -m "Auto Harvest: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git commit -m "Union Data Update: $(date)" || echo "No changes"
           git push
