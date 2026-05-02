@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-02T12:15:21.376549",
+    "ts": "2026-05-02T22:33:51.079303",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -240,10 +240,12 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "CLOSED",
     "corporateActions": [],
     "postMarketTime": 1777679997,
     "regularMarketTime": 1777665601,
+    "regularMarketChangePercent": -0.517229,
+    "regularMarketPrice": 608.745,
+    "longName": "Meta Platforms, Inc.",
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -251,22 +253,6 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -0.517229,
-    "regularMarketPrice": 608.745,
-    "priceEpsCurrentYear": 19.68244,
-    "fiftyDayAverageChange": -21.56958,
-    "fiftyDayAverageChangePercent": -0.03422034,
-    "twoHundredDayAverageChange": -69.53589,
-    "twoHundredDayAverageChangePercent": -0.102517836,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-01",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
     "postMarketChangePercent": 0.010908714,
     "postMarketPrice": 608.8114,
     "postMarketChange": 0.06640625,
@@ -281,6 +267,17 @@
     "fiftyTwoWeekHighChangePercent": -0.23548509,
     "fiftyTwoWeekChangePercent": 1.5819192,
     "dividendDate": 1774483200,
+    "fiftyDayAverageChange": -21.56958,
+    "fiftyDayAverageChangePercent": -0.03422034,
+    "twoHundredDayAverageChange": -69.53589,
+    "twoHundredDayAverageChangePercent": -0.102517836,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-05-01",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
     "earningsTimestampEnd": 1785355200,
@@ -290,8 +287,11 @@
     "epsTrailingTwelveMonths": 27.52,
     "epsForward": 36.178,
     "epsCurrentYear": 30.92833,
+    "priceEpsCurrentYear": 19.68244,
     "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "marketState": "CLOSED",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.9273
   },
@@ -309,7 +309,7 @@
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.11,
+        "2025-06-30T00:00:00.000": 0.106993,
         "2025-03-31T00:00:00.000": 0.094549,
         "2024-12-31T00:00:00.000": null
       },
@@ -1766,571 +1766,32 @@
   },
   "news": [
     {
-      "id": "1449837f-2b61-4ae3-b431-4392d9465000",
+      "id": "021e4040-0524-38d7-a1dc-6a01162e295a",
       "content": {
-        "id": "1449837f-2b61-4ae3-b431-4392d9465000",
+        "id": "021e4040-0524-38d7-a1dc-6a01162e295a",
         "contentType": "STORY",
-        "title": "Earnings live updates: Oil majors report impact from Iran war, Reddit stock surges to end busy earnings week",
+        "title": "Missed Advanced Micro Devices' Big Move? Here's Why It's Still a Buy",
         "description": "",
-        "summary": "Earnings season is in full swing, with five of the \"Magnificent Seven\" reporting first quarter results this week",
-        "pubDate": "2026-04-27T11:14:14Z",
-        "displayTime": "2026-05-01T15:57:54Z",
+        "summary": "CEO Lisa Su: Customers are \"anxious\" to get the MI450 GPU in their data centers.",
+        "pubDate": "2026-05-02T17:57:00Z",
+        "displayTime": "2026-05-02T17:57:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/T1AFORyrEhevUToaheBxEA--~B/aD01NzYwO3c9ODY0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/ccceebc7-11df-4d43-8249-90c78ab0f357",
-          "originalWidth": 8640,
-          "originalHeight": 5760,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/T1AFORyrEhevUToaheBxEA--~B/aD01NzYwO3c9ODY0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/ccceebc7-11df-4d43-8249-90c78ab0f357",
-              "width": 8640,
-              "height": 5760,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1iz7lmjCrcVJ_3iS3CrftA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-04/ccceebc7-11df-4d43-8249-90c78ab0f357",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-eli-lilly-stock-jumps-as-weight-loss-drugs-boost-results-caterpillar-rises-google-surges-111414808.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-eli-lilly-stock-jumps-as-weight-loss-drugs-boost-results-caterpillar-rises-google-surges-111414808.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "0aabdec7-ea8f-4d2d-bdce-9a394aafd977",
-      "content": {
-        "id": "0aabdec7-ea8f-4d2d-bdce-9a394aafd977",
-        "contentType": "STORY",
-        "title": "Reddit stock surges after ad revenue jumps 74% in Q1",
-        "description": "",
-        "summary": "Reddit stock jumped after the online platform reported better-than-expected earnings and ad sales.",
-        "pubDate": "2026-05-01T15:30:31Z",
-        "displayTime": "2026-05-01T15:30:31Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2024-03/7f759b00-f039-11ee-b34f-acf2fec58f52",
-          "originalWidth": 5500,
-          "originalHeight": 3667,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WUuHX1Lm9B1PZreTF6EG1A--~B/aD0zNjY3O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-03/7f759b00-f039-11ee-b34f-acf2fec58f52",
-              "width": 5500,
-              "height": 3667,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XfivlGiBhT3Vvsb2a6Ko1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-03/7f759b00-f039-11ee-b34f-acf2fec58f52",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/article/reddit-stock-surges-after-ad-revenue-jumps-74-in-q1-153031425.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/article/reddit-stock-surges-after-ad-revenue-jumps-74-in-q1-153031425.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "0e70a808-24ae-3e96-b2f0-06e2e941affe",
-      "content": {
-        "id": "0e70a808-24ae-3e96-b2f0-06e2e941affe",
-        "contentType": "STORY",
-        "title": "Meta faces New Mexico trial that could force changes to Facebook, other platforms",
-        "description": "",
-        "summary": "A trial beginning in New Mexico on Monday could prompt a judge to order sweeping changes to how Facebook, Instagram and WhatsApp operate - a move Meta Platforms has warned could force it to withdraw from the state.  The case, which will be tried before a judge in Santa Fe, stems from ‌a lawsuit filed by New Mexico Attorney General Raúl Torrez, a Democrat, accusing the social media giant of designing its products to addict young users and failing to protect ‌children from sexual exploitation on its platforms.  At the heart of the trial is whether Meta’s platforms have created a “public nuisance” under New Mexico law.",
-        "pubDate": "2026-05-02T10:03:51Z",
-        "displayTime": "2026-05-02T10:03:51Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/8f875ed37027002286be5e55f35c192e",
-          "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "FILE PHOTO: VivaTech conference dedicated to innovation and startups in Paris",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IMJD_3ztdzeXgUP4XrblYQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/8f875ed37027002286be5e55f35c192e",
-              "width": 800,
-              "height": 533,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZN6v8lEH0kHd0yFWaGFPiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/8f875ed37027002286be5e55f35c192e",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-faces-mexico-trial-could-100351249.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-faces-mexico-trial-could-100351249.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2dc00caf-1f65-3ab3-be18-89a4d9254ee1",
-      "content": {
-        "id": "2dc00caf-1f65-3ab3-be18-89a4d9254ee1",
-        "contentType": "STORY",
-        "title": "California faces November showdown over proposed 5% billionaire wealth tax",
-        "description": "",
-        "summary": "Investing.com -- California voters are set to decide on a landmark tax initiative this November that could fundamentally reshape the state’s fiscal landscape.",
-        "pubDate": "2026-05-02T06:34:36Z",
-        "displayTime": "2026-05-02T06:34:36Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
-        },
-        "canonicalUrl": {
-          "url": "https://www.yahoo.com/news/articles/california-faces-november-showdown-over-063436343.html",
-          "site": "news",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://www.yahoo.com/news/articles/california-faces-november-showdown-over-063436343.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c05541d5-2fd3-34e5-86ac-4cd619d4fca3",
-      "content": {
-        "id": "c05541d5-2fd3-34e5-86ac-4cd619d4fca3",
-        "contentType": "STORY",
-        "title": "Here’s What Jim Cramer Had Said About Meta (META) Before Its Earnings",
-        "description": "",
-        "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Meta Platforms, Inc. (NASDAQ:META) is one of the stocks discussed by Jim Cramer. Cramer has continued to defend social media giant Meta Platforms, Inc. (NASDAQ:META) over the course of the past year. While the shares struggled in 2025’s […]",
-        "pubDate": "2026-05-02T06:11:31Z",
-        "displayTime": "2026-05-02T06:11:31Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631",
-          "originalWidth": 750,
-          "originalHeight": 563,
-          "caption": "Here's What Jim Cramer Had Said About Meta (META) Before Its Earnings ",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/E36Cwz0Ks290vMwF34DxLQ--~B/aD01NjM7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631",
-              "width": 750,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tRCAgpad.Gf.CTf0GLYsrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-had-said-meta-061131871.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-had-said-meta-061131871.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6ec0421b-94ab-35d2-8096-cc485979e37c",
-      "content": {
-        "id": "6ec0421b-94ab-35d2-8096-cc485979e37c",
-        "contentType": "STORY",
-        "title": "Why Meta (META) Shares Are Plunging Today",
-        "description": "",
-        "summary": "Shares of social network operator Meta Platforms (NASDAQ:META) fell 8.1% in the afternoon session after the company's forecast for a significant increase in spending overshadowed its strong first-quarter results.",
-        "pubDate": "2026-05-02T05:16:55Z",
-        "displayTime": "2026-05-02T05:16:55Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "META Cover Image",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Ol.OYXaTLDXSb6x604S3Pw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
-              "width": 1400,
-              "height": 700,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OJ.q7321ts98DrQRXKRU7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-meta-shares-plunging-051655623.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-meta-shares-plunging-051655623.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "db2fbf83-90fe-3029-8bd5-15f8b400546a",
-      "content": {
-        "id": "db2fbf83-90fe-3029-8bd5-15f8b400546a",
-        "contentType": "STORY",
-        "title": "How Surging AI Data Center Demand And Big-Name Deals At AMD (AMD) Has Changed Its Investment Story",
-        "description": "",
-        "summary": "In recent weeks, Advanced Micro Devices has drawn heightened attention as analysts project strong year-over-year gains in earnings and revenue ahead of its 5 May 2026 first-quarter results, largely tied to robust demand for EPYC server processors and Instinct accelerators in data centers. At the same time, large AI infrastructure contracts with customers such as OpenAI and Meta, alongside growing concerns about AI monetization and competition, have underscored both the potential and the...",
-        "pubDate": "2026-05-02T05:08:50Z",
-        "displayTime": "2026-05-02T05:08:50Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/a882d53b581ebe737458ea1484ce4133",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/qQQ8mpCpMuvTPXTeKADXJQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/a882d53b581ebe737458ea1484ce4133",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aVdcedGD2augY3NLPauTCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/a882d53b581ebe737458ea1484ce4133",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/surging-ai-data-center-demand-050850858.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/surging-ai-data-center-demand-050850858.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c0d8651d-5c09-3dc9-b721-f8fc95cd2504",
-      "content": {
-        "id": "c0d8651d-5c09-3dc9-b721-f8fc95cd2504",
-        "contentType": "STORY",
-        "title": "Meta Buys Robotics Startup Assured Robot Intelligence To Power Humanoid Push As $5 Trillion Market Race Heats Up",
-        "description": "",
-        "summary": "Meta Platforms (NASDAQ:META) acquired Assured Robot Intelligence, a humanoid robotics startup, for an undisclosed sum on Friday, adding the team to its Superintelligence Labs research division as it advances its humanoid robotics ambitions. The deal positions Meta directly in a rapidly commercializing humanoid robotics sector, where big tech, automakers and well-funded startups are competing to deploy physical AI at scale. Founders With Deep Robotics Pedigree ARI co-founder Lerrel Pinto previous",
-        "pubDate": "2026-05-02T04:36:33Z",
-        "displayTime": "2026-05-02T04:36:33Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Benzinga/753537f2659961eead523dfd11dde58b",
-          "originalWidth": 1000,
-          "originalHeight": 563,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Yg5Yph7Ski7IgzjBrOUmig--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/753537f2659961eead523dfd11dde58b",
-              "width": 1000,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/K1lmq.jpkc07VpyFZkXI8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/753537f2659961eead523dfd11dde58b",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "http://www.benzinga.com/",
-          "sourceId": "Benzinga"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-buys-robotics-startup-assured-043633924.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-buys-robotics-startup-assured-043633924.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "92693bc9-f24c-322e-a0d6-517be039e232",
-      "content": {
-        "id": "92693bc9-f24c-322e-a0d6-517be039e232",
-        "contentType": "STORY",
-        "title": "Bank of America resets Meta stock price target following earnings",
-        "description": "",
-        "summary": "Meta Platforms (META) delivered a quarter that most businesses would be happy to take. For perspective, Meta posted its Q1 earnings report on April 29, 2026, covering the quarter ended March 31, 2026. The headline numbers impressed, delivering another double beat, with operating income coming in ...",
-        "pubDate": "2026-05-02T03:33:00Z",
-        "displayTime": "2026-05-02T03:33:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/da630355a0007f2f5e1f0e60626072ba",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/0c1ba3e1b773e8bc44611683f9705bf2",
           "originalWidth": 1200,
-          "originalHeight": 675,
-          "caption": "",
+          "originalHeight": 800,
+          "caption": "AMD logo over image of headquarters. ",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SjLR0HzxFYbcdqeVd.dEnA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/da630355a0007f2f5e1f0e60626072ba",
+              "url": "https://s.yimg.com/uu/api/res/1.2/.H6CCM4oVL8yhDaver5hqg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0c1ba3e1b773e8bc44611683f9705bf2",
               "width": 1200,
-              "height": 675,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xMibkleleay78BH6DgVE4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/da630355a0007f2f5e1f0e60626072ba",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-meta-stock-price-target-following-earnings",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-meta-stock-033300244.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a7c51560-7f26-32c9-ad45-da65465f492f",
-      "content": {
-        "id": "a7c51560-7f26-32c9-ad45-da65465f492f",
-        "contentType": "STORY",
-        "title": "Amazon, Alphabet, Microsoft, Meta, and Apple Just Reported Earnings. I Think This Was the Best Report of Them All.",
-        "description": "",
-        "summary": "One of these tech giants posted accelerating growth and expanding margins -- and didn't need to commit hundreds of billions to AI infrastructure to do it.",
-        "pubDate": "2026-05-02T01:52:00Z",
-        "displayTime": "2026-05-02T01:52:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/2257b7f2d30d3dc3883c10712b22594b",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "A golden bull facing a laptop with stock charts on it.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4vCHbS2tGX_ff9eZFqww_w--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2257b7f2d30d3dc3883c10712b22594b",
-              "width": 1400,
-              "height": 700,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5KQ9qYtLIOmlkhZf.SAXSQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2257b7f2d30d3dc3883c10712b22594b",
+              "url": "https://s.yimg.com/uu/api/res/1.2/M.yeR4GBk_AmMjHA2Vsv8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0c1ba3e1b773e8bc44611683f9705bf2",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2343,13 +1804,571 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/01/amazon-alphabet-microsoft-meta-and-apple-just-repo/",
+          "url": "https://www.fool.com/investing/2026/05/02/missed-amd-big-move-why-stock-still-buy/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-microsoft-meta-apple-015200986.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/missed-advanced-micro-devices-big-175700941.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9f9e29da-a6c5-3136-87e7-6800f9ac3410",
+      "content": {
+        "id": "9f9e29da-a6c5-3136-87e7-6800f9ac3410",
+        "contentType": "STORY",
+        "title": "Here's the Real Problem With Meta's Latest Earnings Report",
+        "description": "",
+        "summary": "The headlines blame the spending plan. But I think there's an even bigger concern.",
+        "pubDate": "2026-05-02T15:56:00Z",
+        "displayTime": "2026-05-02T15:56:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/1ab093eb9894752c3c300d703b8dead5",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "A person looking at charts and AI data.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OrxfOEY9pU.ampzZJQLsmQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1ab093eb9894752c3c300d703b8dead5",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0Jtz4oyZJsvRmYARdPq3Jg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1ab093eb9894752c3c300d703b8dead5",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/05/02/heres-the-real-problem-with-metas-latest-earnings/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-real-problem-metas-latest-155600923.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5cec55a1-ed6c-3ba4-b74f-53f673921d72",
+      "content": {
+        "id": "5cec55a1-ed6c-3ba4-b74f-53f673921d72",
+        "contentType": "STORY",
+        "title": "Mark Cuban Upgrades TrumpRx to 'A-' — 'They're Doing A Good Job Actually' Says Denting Big Insurance Conglomerates Is A 'Win'",
+        "description": "",
+        "summary": "Mark Cuban isn't grading for style points—he's grading for impact. The billionaire co-founder of Cost Plus Drugs revisited TrumpRx and made clear what matters most: if it pressures the right players, it's working. From \"B\" To ‘A-' — Why The...",
+        "pubDate": "2026-05-02T15:46:11Z",
+        "displayTime": "2026-05-02T15:46:11Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/5aaeeac34396e259fc6f25627b0bfedd",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "Mark Cuban Upgrades TrumpRx to 'A-' — 'They're Doing A Good Job Actually' Says Denting Big Insurance Conglomerates Is A 'Win'",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/DhSmck8wjW50Iq2sfnWnfQ--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/5aaeeac34396e259fc6f25627b0bfedd",
+              "width": 1000,
+              "height": 667,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XMw55bIRBNVNXMqgoRu6hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/5aaeeac34396e259fc6f25627b0bfedd",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-upgrades-trumprx-theyre-154611156.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-upgrades-trumprx-theyre-154611156.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "94f58e6e-f0f0-32a1-90e9-70763a4e4705",
+      "content": {
+        "id": "94f58e6e-f0f0-32a1-90e9-70763a4e4705",
+        "contentType": "STORY",
+        "title": "Concentration Risk High as Top Two Stocks Steer U.S. Communication Services ETF Performance",
+        "description": "",
+        "summary": "The communication services sector is a concentration bet dressed up as diversification. After the 2018 GICS reshuffle pulled Meta, Alphabet, Netflix, and Disney out of technology and consumer discretionary, the sector became dominated by a handful of mega-cap platforms sitting alongside legacy telecom and traditional media. Anyone buying a passive sector fund here is mostly ... Concentration Risk High as Top Two Stocks Steer U.S. Communication Services ETF Performance",
+        "pubDate": "2026-05-02T14:58:07Z",
+        "displayTime": "2026-05-02T14:58:07Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b6ff1e9804834c8d5159dc6490464d70",
+          "originalWidth": 1500,
+          "originalHeight": 925,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zVqTDLe4z8szh2LVxtGSxw--~B/aD05MjU7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/b6ff1e9804834c8d5159dc6490464d70",
+              "width": 1500,
+              "height": 925,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GhblbrdM4TT4d0cqCZpW4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b6ff1e9804834c8d5159dc6490464d70",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/02/concentration-risk-high-as-top-two-stocks-steer-u-s-communication-services-etf-performance/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/concentration-risk-high-top-two-145807445.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3a83383c-a3ba-3da0-9d1c-63d586571ac7",
+      "content": {
+        "id": "3a83383c-a3ba-3da0-9d1c-63d586571ac7",
+        "contentType": "STORY",
+        "title": "The Shocking Similarity Between Micron and Nvidia as AI Turns Memory Into a Goldmine",
+        "description": "",
+        "summary": "Nvidia (NASDAQ:NVDA) led the first wave of AI enthusiasm with its powerful GPUs. Investors piled in as data centers raced to secure chips that could train and run ever-larger models. Yet as AI expands, the opportunity spreads beyond GPUs into unexpected corners of the stack. Memory — long viewed as a cyclical commodity prone to ... The Shocking Similarity Between Micron and Nvidia as AI Turns Memory Into a Goldmine",
+        "pubDate": "2026-05-02T14:51:55Z",
+        "displayTime": "2026-05-02T14:51:55Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/fe9c74e32591894a5bc026151a3a281b",
+          "originalWidth": 2000,
+          "originalHeight": 1200,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GIzQWJYnvigSlcho6IVzxA--~B/aD0xMjAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/fe9c74e32591894a5bc026151a3a281b",
+              "width": 2000,
+              "height": 1200,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sJ1HL4XhUX_FKVFW6Yx72g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fe9c74e32591894a5bc026151a3a281b",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/02/the-shocking-similarity-between-micron-and-nvidia-as-ai-turns-memory-into-a-goldmine/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shocking-similarity-between-micron-nvidia-145155230.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "1ebc68d5-83fa-3dc4-80ee-680642fa8cba",
+      "content": {
+        "id": "1ebc68d5-83fa-3dc4-80ee-680642fa8cba",
+        "contentType": "STORY",
+        "title": "USA Today Q1 Earnings Call Highlights",
+        "description": "",
+        "summary": "USA Today (NYSE:TDAY) reported what management described as its strongest start to the year in several years, citing improving revenue trends, rising digital contribution, and sharply higher profitability in the first quarter of 2026. Chairman and CEO Mike Reed said the company is “nearing” several",
+        "pubDate": "2026-05-02T14:27:03Z",
+        "displayTime": "2026-05-02T14:27:03Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/a3493e401cfd9f44b1fb84a7dffbd12a",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "USA Today logo",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZOGdUaDOfquaYpKk8pLpKA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/a3493e401cfd9f44b1fb84a7dffbd12a",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HSTFuP94ZlFZ1RODUknnKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/a3493e401cfd9f44b1fb84a7dffbd12a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "MarketBeat",
+          "url": "https://www.marketbeat.com/",
+          "sourceId": "marketbeat_955"
+        },
+        "canonicalUrl": {
+          "url": "https://www.marketbeat.com/instant-alerts/usa-today-q1-earnings-call-highlights-2026-05-02/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/usa-today-q1-earnings-call-142703193.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "626d5ba5-382a-3044-8f23-ec32a00c63c3",
+      "content": {
+        "id": "626d5ba5-382a-3044-8f23-ec32a00c63c3",
+        "contentType": "STORY",
+        "title": "A Florida Gen Xer With A Good Job Says 'I Feel Like I'm Drowning.' They Feel Like There's No Way Off The Hamster Wheel Because Of The Bills",
+        "description": "",
+        "summary": "A Florida-based Gen Xer with what they describe as a “pretty decent job” says the rising cost of living has left them feeling stuck and overwhelmed. “I feel like I’m drowning,” they wrote in a recent Reddit post, describing the...",
+        "pubDate": "2026-05-02T14:01:25Z",
+        "displayTime": "2026-05-02T14:01:25Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/5342d3a888bf5ec7136735b2bcef1d71",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "A Florida Gen Xer With A Good Job Says 'I Feel Like I'm Drowning.' They Feel Like There's No Way Off The Hamster Wheel Because Of The Bills",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KikzRWNU0NdQs2Bh_cCnIg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/5342d3a888bf5ec7136735b2bcef1d71",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/85QPHuvQycMCJvoUHUGKhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/5342d3a888bf5ec7136735b2bcef1d71",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/economy/articles/florida-gen-xer-good-job-140125585.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/articles/florida-gen-xer-good-job-140125585.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7099b05f-71ea-331c-b023-478475a1710c",
+      "content": {
+        "id": "7099b05f-71ea-331c-b023-478475a1710c",
+        "contentType": "STORY",
+        "title": "Google Just Warned of a Significant Increase in 2027 CapEx. Why GOOGL Stock Investors Don’t Seem to Care.",
+        "description": "",
+        "summary": "Alphabet is ramping capital spending to unprecedented levels, but investors are largely shrugging because earnings and Cloud momentum are strong enough to absorb the hit and still deliver double‑digit growth.",
+        "pubDate": "2026-05-02T14:00:02Z",
+        "displayTime": "2026-05-02T14:00:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/92ef183c42026825f0de825fd26975b4",
+          "originalWidth": 1600,
+          "originalHeight": 1067,
+          "caption": "Alphabet (Google) Image by Markus Mainka via Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zKnCU3Nv4ncmtOZuJuS3LQ--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/92ef183c42026825f0de825fd26975b4",
+              "width": 1600,
+              "height": 1067,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/X1BqoN2Y3a9zjkH6J3.u8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/92ef183c42026825f0de825fd26975b4",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/1664867/google-just-warned-of-a-significant-increase-in-2027-capex-why-googl-stock-investors-dont-seem-to-care",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/google-just-warned-significant-increase-140002109.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "61f955af-51e6-3f8e-b50b-3895d3225b50",
+      "content": {
+        "id": "61f955af-51e6-3f8e-b50b-3895d3225b50",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg sends startling message to Meta employees",
+        "description": "",
+        "summary": "Mark Zuckerberg held a company town hall on April 30 to address Meta employees directly about the layoffs. It was the first time he had spoken to staff about the cuts since Reuters first reported the plan in March. What he said did not reassure them. And what he did not say may have worried them ...",
+        "pubDate": "2026-05-02T13:33:00Z",
+        "displayTime": "2026-05-02T13:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/756db4f61f63c3504cc4ab51738acbf9",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/55HpjDU0koXXkLOs5l5nfA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/756db4f61f63c3504cc4ab51738acbf9",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/g8khMLuGzYvXDvPKR4yosw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/756db4f61f63c3504cc4ab51738acbf9",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/technology/mark-zuckerberg-sends-startling-message-to-meta-employees",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-startling-message-133300156.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c6a78e6e-43fe-379b-9fdb-3a5bbcd8ce70",
+      "content": {
+        "id": "c6a78e6e-43fe-379b-9fdb-3a5bbcd8ce70",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg Says Meta Layoffs Are Being Driven By Soaring AI Spending, Warns More Job Cuts May Follow: 'I Wish That I Can Tell You...'",
+        "description": "",
+        "summary": "Meta Platforms Inc. CEO Mark Zuckerberg told employees on Thursday that the company's aggressive artificial intelligence spending is directly contributing to planned layoffs. Meta's AI Investment Reshapes Workforce Priorities During a company town hall, Zuckerberg said Meta's expanding AI infrastructure budget is forcing difficult financial trade-offs between funding advanced compute systems and maintaining headcount, Reuters reported. Zuckerberg explained that Meta's two primary expenses are in",
+        "pubDate": "2026-05-02T13:31:10Z",
+        "displayTime": "2026-05-02T13:31:10Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Benzinga/453d1ad75c473c180b810803c9c38a35",
+          "originalWidth": 1024,
+          "originalHeight": 576,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/S0oMI9jpMqsNeHB.dZsvoA--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/453d1ad75c473c180b810803c9c38a35",
+              "width": 1024,
+              "height": 576,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Evsr7xdR_5adl_PvAFxylw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/453d1ad75c473c180b810803c9c38a35",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "http://www.benzinga.com/",
+          "sourceId": "Benzinga"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/mark-zuckerberg-says-meta-layoffs-133110471.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/mark-zuckerberg-says-meta-layoffs-133110471.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
