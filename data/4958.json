@@ -1,19 +1,8 @@
 {
   "metadata": {
     "ticker": "4958",
-    "update_time": "2026-05-02T09:46:08.630241",
+    "update_time": "2026-05-02T09:54:32.839720",
     "is_tw": true
-  },
-  "valuation_logic": {
-    "sgr_model": {
-      "sgr_raw": 0.019124520000000002,
-      "sgr_pct": "1.91%"
-    },
-    "yf_target": 269.0,
-    "fmp_forecasts": {
-      "dcf": null,
-      "estimates": null
-    }
   },
   "financial_statements": {
     "annual": {
@@ -23375,6 +23364,10 @@
     }
   },
   "intelligence": {
+    "forecasts": {
+      "dcf": null,
+      "estimates": null
+    },
     "news": [],
     "info_snapshot": {
       "address1": "Grand Pavilion, Hibiscus Way",
@@ -23575,12 +23568,10 @@
       "quoteSourceName": "Delayed Quote",
       "triggerable": false,
       "customPriceAlertConfidence": "LOW",
+      "longName": "Zhen Ding Technology Holding Limited",
       "marketState": "CLOSED",
-      "exchange": "TAI",
-      "regularMarketChangePercent": 9.921671,
-      "regularMarketPrice": 421.0,
-      "hasPrePostMarketData": false,
-      "firstTradeDateMilliseconds": 1324861200000,
+      "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
+      "cryptoTradeable": false,
       "regularMarketChange": 38.0,
       "regularMarketDayRange": "393.0 - 421.0",
       "fullExchangeName": "Taiwan",
@@ -23608,17 +23599,19 @@
       "sourceInterval": 20,
       "exchangeDataDelayedBy": 20,
       "averageAnalystRating": "2.0 - Buy",
-      "cryptoTradeable": false,
+      "hasPrePostMarketData": false,
+      "firstTradeDateMilliseconds": 1324861200000,
+      "corporateActions": [],
+      "regularMarketTime": 1777527002,
+      "exchange": "TAI",
       "messageBoardId": "finmb_140596767",
       "exchangeTimezoneName": "Asia/Taipei",
       "exchangeTimezoneShortName": "CST",
       "gmtOffSetMilliseconds": 28800000,
       "market": "tw_market",
       "esgPopulated": false,
-      "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
-      "longName": "Zhen Ding Technology Holding Limited",
-      "corporateActions": [],
-      "regularMarketTime": 1777527002,
+      "regularMarketChangePercent": 9.921671,
+      "regularMarketPrice": 421.0,
       "trailingPegRatio": null
     }
   }
