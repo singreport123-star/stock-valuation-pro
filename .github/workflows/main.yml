@@ -1,36 +1,41 @@
-name: US-Stock-Probe-Test
+name: Financial-Data-Union-Harvest
 
 on:
-  workflow_dispatch: # 允許手動點擊執行
+  workflow_dispatch: # 手動觸發點火
 
 permissions:
-  contents: write # 賦予寫入權限以便存儲 JSON 結果
+  contents: write # 確保機器人有權限寫入 data/ 夾
 
 jobs:
-  test-us-worker:
+  union-harvest:
     runs-on: ubuntu-latest
     steps:
       - name: 1. 檢出程式碼
         uses: actions/checkout@v3
 
-      - name: 2. 設置 Python
+      - name: 2. 設置 Python 環境
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: 3. 安裝必要依賴
+      - name: 3. 安裝工業級依賴
         run: |
           pip install yfinance requests pandas lxml
 
-      - name: 4. 執行美股衛星收割機
+      - name: 4. 執行美股收割任務 (META)
         env:
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
         run: python crawlers/us_stock_worker.py
 
-      - name: 5. 自動提交採集結果
+      - name: 5. 執行台股深度收割任務 (2330/4958)
+        env:
+          FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
+        run: python crawlers/tw_stock_worker.py
+
+      - name: 6. 自動同步數據入庫
         run: |
           git config --global user.name "GitHub-Actions-Bot"
           git config --global user.email "actions@github.com"
           git add data/
-          git commit -m "Probe: META Data Collection $(date)" || echo "No changes"
+          git commit -m "Auto Update: TW/US Stock Union Data $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push
