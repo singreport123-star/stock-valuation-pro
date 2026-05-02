@@ -1,69 +1,71 @@
-import os, requests, json
+import os
+import json
 import yfinance as yf
+import pandas as pd
 from datetime import datetime
 
-# --- 美股全量聯集：路由加固版 V8 ---
+# --- 美股全量聯集：yfinance 極限解鎖版 V9 ---
 TARGET = "META"
-FMP_KEY = os.getenv("FMP_API_KEY", "").strip()
-BASE_DIR = "data/US/stocks"
+BASE_DATA_DIR = "data/US/stocks"
 
 def log(msg):
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] [US-Union] {msg}")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] [US-Extreme] {msg}")
 
-def fetch_fmp_fixed(endpoint):
-    """修正 Legacy Endpoint 報錯：加入 period 參數並檢查路由"""
-    if not FMP_KEY: return []
-    # 根據官方建議，部分帳戶需明確指定 period
-    url = f"https://financialmodelingprep.com/api/v3/{endpoint}/{TARGET}"
-    params = {"apikey": FMP_KEY, "period": "annual", "limit": 5}
+def safe_to_dict(df):
+    """將 yfinance 的 DataFrame 安全轉為字典，若為空則回傳空列表"""
     try:
-        r = requests.get(url, params=params, timeout=15)
-        if r.status_code == 200:
-            data = r.json()
-            if isinstance(data, dict) and "Error Message" in data:
-                log(f"🚨 FMP {endpoint} 邏輯錯誤: {data['Error Message']}")
-                return []
-            log(f"✅ FMP {endpoint} 成功: {len(data) if isinstance(data, list) else 1} 筆")
-            return data
-        else:
-            log(f"🚨 FMP {endpoint} 失敗: HTTP {r.status_code}")
-            return []
-    except Exception as e:
-        log(f"💥 FMP {endpoint} 異常: {e}")
+        if df is not None and not df.empty:
+            return json.loads(df.to_json(orient="index"))
+        return []
+    except:
         return []
 
-def harvest_us_v8():
-    log(f"🚀 啟動 {TARGET} 路由修正收割任務...")
+def harvest_us_v9():
+    log(f"🚀 啟動 {TARGET} 全量數據提取 (切換 yfinance 深度路徑)...")
     
-    # 軌道 A: yfinance (並列)
-    yf_payload = {}
     try:
         stock = yf.Ticker(TARGET)
-        yf_payload = {"info": stock.info, "news": stock.news}
-        log(f"✅ yfinance 軌道完成 (新聞: {len(yf_payload['news'])} 筆)")
+        
+        # 1. 基礎指標與新聞
+        log("🧵 提取基礎指標與新聞...")
+        info = stock.info
+        news = stock.news
+        
+        # 2. 法定財務報表 (替代 FMP 403 區)
+        log("🧵 提取法定財報 (損益/資產/現金流)...")
+        financials = safe_to_dict(stock.quarterly_financials) # 季報
+        balance_sheet = safe_to_dict(stock.quarterly_balance_sheet)
+        cashflow = safe_to_dict(stock.quarterly_cashflow)
+        
+        # 3. 分析師預期與評價 (缺失補齊)
+        log("🧵 提取分析師評價與預估...")
+        recommendations = safe_to_dict(stock.recommendations)
+        calendar = stock.calendar # 財報日
+        
+        # 封裝全量聯集
+        full_payload = {
+            "metadata": {"ticker": TARGET, "ts": datetime.now().isoformat(), "ver": "V9-YF-Extreme"},
+            "fundamental_summary": info,
+            "financial_statements": {
+                "income": financials,
+                "balance": balance_sheet,
+                "cash_flow": cashflow
+            },
+            "market_consensus": {
+                "recommendations": recommendations,
+                "calendar": calendar
+            },
+            "news": news if news else []
+        }
+
+        os.makedirs(BASE_DATA_DIR, exist_ok=True)
+        with open(f"{BASE_DATA_DIR}/{TARGET}.json", "w", encoding="utf-8") as f:
+            json.dump(full_payload, f, ensure_ascii=False, indent=2)
+        
+        log(f"✅ {TARGET} 入庫成功。財報項目數: {len(financials) if isinstance(financials, dict) else 0}")
+
     except Exception as e:
-        log(f"❌ yfinance 異常: {e}")
-
-    # 軌道 B: FMP (法定財報重攻)
-    fmp_payload = {
-        "profile": fetch_fmp_fixed("profile"),
-        "income": fetch_fmp_fixed("income-statement"),
-        "balance": fetch_fmp_fixed("balance-sheet-statement"),
-        "cash_flow": fetch_fmp_fixed("cash-flow-statement")
-    }
-
-    # 全量合併
-    full_output = {
-        "metadata": {"ticker": TARGET, "ts": datetime.now().isoformat(), "ver": "V8-Fixed"},
-        "fundamental": yf_payload.get("info", {}),
-        "financial_statements": fmp_payload,
-        "news": yf_payload.get("news", [])
-    }
-
-    os.makedirs(BASE_DIR, exist_ok=True)
-    with open(f"{BASE_DIR}/{TARGET}.json", "w", encoding="utf-8") as f:
-        json.dump(full_output, f, ensure_ascii=False, indent=2)
-    log(f"🏁 {TARGET} 數據入庫完成。")
+        log(f"💥 採集過程發生災難性錯誤: {e}")
 
 if __name__ == "__main__":
-    harvest_us_v8()
+    harvest_us_v9()
