@@ -1,32 +1,29 @@
 import yfinance as yf
 import requests
-import json
+import pandas as pd
 
-def final_probe_with_fix():
-    print("=== 1. 美股深度確認 (META) - 資料量已達標 ===")
-    meta = yf.Ticker("META")
-    print(f"確認：機構持倉 {meta.info.get('heldPercentInstitutions')*100:.2f}%")
+def global_vision_probe():
+    ticker_tw = "2330.TW"
+    print(f"=== 1. 偵測 Yahoo 國際版對台股 ({ticker_tw}) 的預測欄位 ===")
+    stock = yf.Ticker(ticker_tw)
+    info = stock.info
+    
+    # 測試國際財經站對台股的分析師覆蓋
+    predictive_keys = ['targetMeanPrice', 'numberOfAnalystOpinions', 'recommendationKey']
+    for key in predictive_keys:
+        print(f"{key}: {info.get(key, 'N/A')}")
 
-    print("\n=== 2. 台股預測接口 (2330) - 增加標頭修復測試 ===")
-    anue_url = "https://invest.cnyes.com/api/v1/quote/TWS:2330:STOCK/institutionalConsensus"
+    print(f"\n=== 2. 偵測 SGR 模型數據 (自研預算路徑) ===")
+    # 嘗試從 Yahoo 抓取計算 SGR 所需的基本面
+    # SGR = ROE * (1 - Payout_Ratio)
+    roe = info.get('returnOnEquity', 'N/A')
+    payout = info.get('payoutRatio', 'N/A')
     
-    # 模擬更真實的瀏覽器行為，避開 500 錯誤
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Referer': 'https://invest.cnyes.com/twstock/TWS/2330',
-        'Origin': 'https://invest.cnyes.com'
-    }
-    
-    try:
-        res = requests.get(anue_url, headers=headers, timeout=10)
-        print(f"Anue 狀態碼: {res.status_code}")
-        if res.status_code == 200:
-            data = res.json()
-            print(f"成功抓取！目標價中位數: {data.get('data', {}).get('targetPriceMedium', 'N/A')}")
-        else:
-            print(f"失敗訊息: {res.text[:100]}")
-    except Exception as e:
-        print(f"連線異常: {e}")
+    if roe != 'N/A' and payout != 'N/A':
+        sgr = roe * (1 - payout)
+        print(f"成功取得財務數據！系統預算可持續成長率 (SGR): {sgr*100:.2f}%")
+    else:
+        print("無法從 Yahoo 取得 ROE/Payout，將需從 FinMind 歷史財報二次抓取。")
 
 if __name__ == "__main__":
-    final_probe_with_fix()
+    global_vision_probe()
