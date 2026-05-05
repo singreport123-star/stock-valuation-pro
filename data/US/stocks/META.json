@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-04T22:51:32.159117",
+    "ts": "2026-05-05T22:50:52.458017",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 608.745,
-    "open": 607.935,
-    "dayLow": 602.7501,
-    "dayHigh": 614.0,
-    "regularMarketPreviousClose": 608.745,
-    "regularMarketOpen": 607.935,
-    "regularMarketDayLow": 602.7501,
-    "regularMarketDayHigh": 614.0,
+    "previousClose": 610.462,
+    "open": 613.37,
+    "dayLow": 600.36,
+    "dayHigh": 614.34,
+    "regularMarketPreviousClose": 610.462,
+    "regularMarketOpen": 613.37,
+    "regularMarketDayLow": 600.36,
+    "regularMarketDayHigh": 614.34,
     "dividendRate": 2.1,
     "dividendYield": 0.34,
     "exDividendDate": 1773619200,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 22.180595,
-    "forwardPE": 16.872408,
-    "volume": 16126242,
-    "regularMarketVolume": 16126242,
-    "averageVolume": 15388446,
-    "averageVolume10days": 17190690,
-    "averageDailyVolume10Day": 17190690,
-    "bid": 611.07,
-    "ask": 616.0,
-    "bidSize": 2,
-    "askSize": 2,
-    "marketCap": 1549478920192,
+    "trailingPE": 21.974573,
+    "forwardPE": 16.721766,
+    "volume": 16969401,
+    "regularMarketVolume": 16969401,
+    "averageVolume": 15373215,
+    "averageVolume10days": 17559080,
+    "averageDailyVolume10Day": 17559080,
+    "bid": 600.0,
+    "ask": 604.92,
+    "bidSize": 1,
+    "askSize": 1,
+    "marketCap": 1535644663808,
     "nonDilutedMarketCap": 1545252494193,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.2081194,
-    "fiftyDayAverage": 630.3146,
-    "twoHundredDayAverage": 678.2809,
+    "priceToSalesTrailing12Months": 7.143763,
+    "fiftyDayAverage": 629.4096,
+    "twoHundredDayAverage": 677.8259,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.00344972,
+    "trailingAnnualDividendYield": 0.0034400176,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1550841544704,
+    "enterpriseValue": 1555067961344,
     "profitMargins": 0.32837,
     "floatShares": 2192766203,
     "sharesOutstanding": 2196045588,
@@ -184,35 +184,35 @@
     "dateShortInterest": 1776211200,
     "sharesPercentSharesOut": 0.0104,
     "heldPercentInsiders": 0.0011999999,
-    "heldPercentInstitutions": 0.78457,
+    "heldPercentInstitutions": 0.78494,
     "shortRatio": 1.48,
     "shortPercentOfFloat": 0.0121,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 85.867,
-    "priceToBook": 7.1087847,
+    "priceToBook": 7.045315,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.52,
+    "trailingEps": 27.53,
     "forwardEps": 36.178,
     "pegRatio": 0.93,
-    "enterpriseToRevenue": 7.214,
-    "enterpriseToEbitda": 14.188,
-    "52WeekChange": 0.015819192,
-    "SandP52WeekChange": 0.2795812,
+    "enterpriseToRevenue": 7.234,
+    "enterpriseToEbitda": 14.226,
+    "52WeekChange": 0.039331913,
+    "SandP52WeekChange": 0.2842635,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
-    "currentPrice": 610.41,
+    "currentPrice": 604.96,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 614.0,
-    "targetMeanPrice": 832.798,
-    "targetMedianPrice": 830.0,
-    "recommendationMean": 1.35938,
+    "targetMeanPrice": 828.9669,
+    "targetMedianPrice": 825.0,
+    "recommendationMean": 1.34921,
     "recommendationKey": "strong_buy",
-    "numberOfAnalystOpinions": 59,
+    "numberOfAnalystOpinions": 58,
     "totalCash": 81180000256,
     "totalCashPerShare": 31.98,
     "ebitda": 109308002304,
@@ -240,49 +240,50 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "POST",
+    "corporateActions": [],
+    "postMarketTime": 1778021450,
+    "regularMarketTime": 1778011201,
+    "regularMarketPrice": 604.96,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.52,
-    "epsForward": 36.178,
-    "epsCurrentYear": 30.90538,
-    "priceEpsCurrentYear": 19.750929,
-    "fiftyDayAverageChange": -19.904602,
-    "fiftyDayAverageChangePercent": -0.03157884,
-    "twoHundredDayAverageChange": -67.87091,
-    "twoHundredDayAverageChangePercent": -0.10006313,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-04",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
+    "marketState": "POST",
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.0951109,
-    "postMarketPrice": 609.8294,
-    "postMarketChange": -0.5805664,
-    "regularMarketChange": 1.664978,
-    "regularMarketDayRange": "602.7501 - 614.0",
+    "postMarketChangePercent": -0.34051797,
+    "postMarketPrice": 602.9,
+    "postMarketChange": -2.0599976,
+    "regularMarketChange": -5.501953,
+    "regularMarketDayRange": "600.36 - 614.34",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15388446,
-    "fiftyTwoWeekLowChange": 90.14996,
-    "fiftyTwoWeekLowChangePercent": 0.17327867,
+    "averageDailyVolume3Month": 15373215,
+    "fiftyTwoWeekLowChange": 84.70001,
+    "fiftyTwoWeekLowChangePercent": 0.16280323,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -185.84003,
-    "fiftyTwoWeekHighChangePercent": -0.23339407,
-    "fiftyTwoWeekChangePercent": 1.5819192,
+    "fiftyTwoWeekHighChange": -191.28998,
+    "fiftyTwoWeekHighChangePercent": -0.24023859,
+    "fiftyTwoWeekChangePercent": 3.9331913,
     "dividendDate": 1774483200,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
     "earningsTimestampEnd": 1785355200,
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
-    "corporateActions": [],
-    "postMarketTime": 1777935077,
-    "regularMarketTime": 1777924802,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 27.53,
+    "epsForward": 36.178,
+    "epsCurrentYear": 31.7925,
+    "priceEpsCurrentYear": 19.028389,
+    "fiftyDayAverageChange": -24.449585,
+    "fiftyDayAverageChangePercent": -0.038845267,
+    "twoHundredDayAverageChange": -72.865906,
+    "twoHundredDayAverageChangePercent": -0.107499436,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-05-05",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -290,10 +291,9 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 0.27350992,
-    "regularMarketPrice": 610.41,
+    "regularMarketChangePercent": -0.901277,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.9273
+    "trailingPegRatio": 0.9298
   },
   "financial_statements": {
     "income": {
@@ -1719,8 +1719,8 @@
     "recommendations": {
       "0": {
         "period": "0m",
-        "strongBuy": 9,
-        "buy": 47,
+        "strongBuy": 8,
+        "buy": 48,
         "hold": 7,
         "sell": 0,
         "strongSell": 0
@@ -1728,7 +1728,7 @@
       "1": {
         "period": "-1m",
         "strongBuy": 9,
-        "buy": 48,
+        "buy": 47,
         "hold": 7,
         "sell": 0,
         "strongSell": 0
@@ -1758,40 +1758,40 @@
       ],
       "Earnings High": 8.55,
       "Earnings Low": 6.8,
-      "Earnings Average": 7.405,
+      "Earnings Average": 7.42556,
       "Revenue High": 62812000000,
       "Revenue Low": 59289000000,
-      "Revenue Average": 60182135010
+      "Revenue Average": 60203812990
     }
   },
   "news": [
     {
-      "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
+      "id": "bdc031df-bb09-496c-a513-c91b6af6a3e4",
       "content": {
-        "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
+        "id": "bdc031df-bb09-496c-a513-c91b6af6a3e4",
         "contentType": "STORY",
-        "title": "Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues",
+        "title": "Jobs data live updates: Layoffs tick up amid high-profile job cuts at Coinbase, Meta, and other workplaces",
         "description": "",
-        "summary": "Tech stocks are in focus amid an earnings bonanza, layoffs, and AI spending plans.",
-        "pubDate": "2026-05-04T10:00:00Z",
-        "displayTime": "2026-05-04T20:53:25Z",
+        "summary": "The narrative about the state of the labor market — whether it remains in stasis or is beginning to heat up — will be shaped this week by a series of data drops.",
+        "pubDate": "2026-05-05T14:21:01Z",
+        "displayTime": "2026-05-05T22:30:41Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/GhEqfx2_R7t9tj3RG_Yw8g--~B/aD0zNDUyO3c9NTMzMTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/8e6e2173-5218-47cf-a7cc-fac542e98335",
-          "originalWidth": 5331,
-          "originalHeight": 3452,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/s_wMjC60_RD.sOvoA9X53w--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/9c715899-6ec2-4567-9ee1-f0559aa8c14e",
+          "originalWidth": 6000,
+          "originalHeight": 4000,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GhEqfx2_R7t9tj3RG_Yw8g--~B/aD0zNDUyO3c9NTMzMTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/8e6e2173-5218-47cf-a7cc-fac542e98335",
-              "width": 5331,
-              "height": 3452,
+              "url": "https://s.yimg.com/uu/api/res/1.2/s_wMjC60_RD.sOvoA9X53w--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/9c715899-6ec2-4567-9ee1-f0559aa8c14e",
+              "width": 6000,
+              "height": 4000,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/R8sGGghnw7HkVIPGaUgJOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-04/8e6e2173-5218-47cf-a7cc-fac542e98335",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Pa_u.8SvXt1LNyZnaB0jDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/9c715899-6ec2-4567-9ee1-f0559aa8c14e",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1804,13 +1804,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html",
+          "url": "https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html",
+          "url": "https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1824,36 +1824,93 @@
             "isPremiumFreeNews": false
           }
         },
-        "storyline": null
+        "storyline": {
+          "storylineItems": [
+            {
+              "content": {
+                "id": "df64c808-c728-4af9-a52a-a336cc86cd4f",
+                "contentType": "VIDEO",
+                "isHosted": true,
+                "title": "Micron stock is surging, hitting a new intraday record high. Why?",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/FkRIsrIZxDEklDS7exGIxQ--~B/aD0zMzc1O3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/73208597-3046-4883-9f3b-651a5b177680_079cbd74a9e338c0db0a83ef28eb960f6e81c18b4eb6a83566410b08a3a42747.net/images/2026-05/73208597-3046-4883-9f3b-651a5b177680",
+                  "originalWidth": 6000,
+                  "originalHeight": 3375,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance Video",
+                  "sourceId": "video.yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/video/micron-stock-is-surging-hitting-a-new-intraday-record-high-why-195211594.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/video/micron-stock-is-surging-hitting-a-new-intraday-record-high-why-195211594.html"
+                }
+              }
+            },
+            {
+              "content": {
+                "id": "dc2e3f32-0958-408e-bcaa-fec939dcdacc",
+                "contentType": "STORY",
+                "isHosted": true,
+                "title": "Job openings remained flat in March as layoffs ticked up",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/43n5VocyMx7AXubep1W.bQ--~B/aD0yNDkwO3c9MzczNDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/fd457472-4932-40e8-991c-ef24c4cf2fa1",
+                  "originalWidth": 3734,
+                  "originalHeight": 2490,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance",
+                  "sourceId": "yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/economy/article/job-openings-remained-flat-in-march-as-layoffs-ticked-up-141154030.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/economy/article/job-openings-remained-flat-in-march-as-layoffs-ticked-up-141154030.html"
+                }
+              }
+            }
+          ]
+        }
       }
     },
     {
-      "id": "3b6b83ec-a899-391c-8d77-1c72588f7695",
+      "id": "9a937a09-bc47-3eae-b2ad-79f6b691ec10",
       "content": {
-        "id": "3b6b83ec-a899-391c-8d77-1c72588f7695",
+        "id": "9a937a09-bc47-3eae-b2ad-79f6b691ec10",
         "contentType": "STORY",
-        "title": "New Mexico seeks $3.7 billion, changes to Meta platforms in youth harm trial",
+        "title": "David Sacks Says AI Could Drive 75% Of US GDP Growth As Morgan Stanley Sees Big Tech AI Capex Surging Past $800 Billion In 2026",
         "description": "",
-        "summary": "By Diana Novak Jones May 4 (Reuters) - The U.S. state of New Mexico on Monday asked a judge to declare Meta Platforms a public nuisance, order the company to pay $3.7 billion and overhaul its Facebook",
-        "pubDate": "2026-05-04T19:50:15Z",
-        "displayTime": "2026-05-04T19:50:15Z",
+        "summary": "On Sunday, former White House AI and crypto czar David Sacks said artificial intelligence is rapidly becoming one of the most powerful drivers of the U.S. economy as Morgan Stanley raised its forecast for hyperscaler AI infrastructure spending. Morgan Stanley Projects Massive AI Capex Boom From Big Tech Morgan Stanley now expects Amazon.com Inc., Alphabet Inc., Meta Platforms Inc., Microsoft Corp. and Oracle Corp. to collectively spend about $805 billion in capital expenditures in 2026, up from",
+        "pubDate": "2026-05-05T22:01:10Z",
+        "displayTime": "2026-05-05T22:01:10Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters.com/a9f6216739f0bcf25b2b7d2f123e07c6",
-          "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "Flowers for victims of social media harms are seen left outside the New York City headquarters of Meta, in New York City, New York , U.S., September 17, 2025. REUTERS/Mike Segar",
+          "originalUrl": "https://media.zenfs.com/en/Benzinga/c89dae28646d2d4c7ad94a89a9151613",
+          "originalWidth": 1024,
+          "originalHeight": 576,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/j0fXa3RorwcVNyNsJGgyLw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a9f6216739f0bcf25b2b7d2f123e07c6",
-              "width": 800,
-              "height": 533,
+              "url": "https://s.yimg.com/uu/api/res/1.2/rocFlFW6zYZbR7my7MyQKg--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/c89dae28646d2d4c7ad94a89a9151613",
+              "width": 1024,
+              "height": 576,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/PD_u4NSwMOPvpVfCm5Qxkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a9f6216739f0bcf25b2b7d2f123e07c6",
+              "url": "https://s.yimg.com/uu/api/res/1.2/v78dk1EZyVjAbsyqeUnhlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/c89dae28646d2d4c7ad94a89a9151613",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1861,18 +1918,18 @@
           ]
         },
         "provider": {
-          "displayName": "Reuters",
-          "url": "https://www.reuters.com/",
-          "sourceId": "reuters.com"
+          "displayName": "Benzinga",
+          "url": "http://www.benzinga.com/",
+          "sourceId": "Benzinga"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/news/mexico-seeks-changes-meta-platforms-100455041.html",
+          "url": "https://finance.yahoo.com/economy/articles/david-sacks-says-ai-could-220110765.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/mexico-seeks-changes-meta-platforms-100455041.html",
+          "url": "https://finance.yahoo.com/economy/articles/david-sacks-says-ai-could-220110765.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1890,94 +1947,32 @@
       }
     },
     {
-      "id": "531983f4-3924-34b2-9dd1-4c5e106235ee",
+      "id": "7ee7513c-0f11-385c-ab15-868d492e3d58",
       "content": {
-        "id": "531983f4-3924-34b2-9dd1-4c5e106235ee",
+        "id": "7ee7513c-0f11-385c-ab15-868d492e3d58",
         "contentType": "STORY",
-        "title": "Meta's Revenue Growth Is Impressive, but This Remains a Big Problem",
+        "title": "AMD Stock Jumps on Strong Earnings and Growing Confidence About AI",
         "description": "",
-        "summary": "The company recently hiked its capex guidance for the year.",
-        "pubDate": "2026-05-04T19:50:00Z",
-        "displayTime": "2026-05-04T19:50:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c6dfe404c00f0afd89470e3f0b0a4905",
-          "originalWidth": 1400,
-          "originalHeight": 787,
-          "caption": "Happy group of friends using phones technology.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/G12o.grOYpcaBbmTovgQWQ--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c6dfe404c00f0afd89470e3f0b0a4905",
-              "width": 1400,
-              "height": 787,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2Uqd_Y3qm3COZ1pAxgHJ_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c6dfe404c00f0afd89470e3f0b0a4905",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/04/metas-revenue-growth-is-impressive-but-this-remain/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/metas-revenue-growth-impressive-remains-195000653.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "1bc9f899-1dec-37bb-b1ab-a9648315267a",
-      "content": {
-        "id": "1bc9f899-1dec-37bb-b1ab-a9648315267a",
-        "contentType": "STORY",
-        "title": "Microsoft, Netflix, and 10 More Stocks Unfairly Punished On Earnings",
-        "description": "",
-        "summary": "Over the long-term, the stock market is very good at valuing companies.  Not every stock price reaction to recent earnings reports seems fair.  Through midday trading on Monday, more than 500 companies in the  had reported quarterly results.",
-        "pubDate": "2026-05-04T19:38:00Z",
-        "displayTime": "2026-05-04T19:38:00Z",
+        "summary": "AMD’s latest quarter was boosted by revenue growth of 57% in the company’s AI-driven data-center segment.",
+        "pubDate": "2026-05-05T21:38:00Z",
+        "displayTime": "2026-05-05T21:38:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/1bc9f899-1dec-37bb-b1ab-a9648315267a/microsoft-netflix-and-10.html",
+        "previewUrl": "https://finance.yahoo.com/m/7ee7513c-0f11-385c-ab15-868d492e3d58/amd-stock-jumps-on-strong.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/372b65f0f810422850066c1c61ecd491",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/ad45126dd27557ae3280e95915496442",
           "originalWidth": 1280,
           "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HvytId07STFPKrrFB4kI_A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/372b65f0f810422850066c1c61ecd491",
+              "url": "https://s.yimg.com/uu/api/res/1.2/o8Xe6XJiXlkS0mqXLraxvQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ad45126dd27557ae3280e95915496442",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3d0GBGJdZzeDpeKFfZzOOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/372b65f0f810422850066c1c61ecd491",
+              "url": "https://s.yimg.com/uu/api/res/1.2/xpHaIwn2Q6H2xnALVzKsmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/ad45126dd27557ae3280e95915496442",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1990,7 +1985,7 @@
           "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/microsoft-netflix-and-10-more-stocks-unfairly-punished-on-earnings-5af6cac4?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/advanced-micro-devices-earnings-stock-price-78a50ca6?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2009,94 +2004,32 @@
       }
     },
     {
-      "id": "ec79f518-7f15-30cb-a6cb-3d30844674df",
+      "id": "1d5cf384-47ac-3ca1-8345-03c6871fbd0d",
       "content": {
-        "id": "ec79f518-7f15-30cb-a6cb-3d30844674df",
+        "id": "1d5cf384-47ac-3ca1-8345-03c6871fbd0d",
         "contentType": "STORY",
-        "title": "Truist Reduces PT on Meta Platforms (META) Stock",
+        "title": "Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal",
         "description": "",
-        "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the Most Promising AI Stocks to Invest In. On April 30, Truist reduced its price objective on the company’s stock to $840 from $900, while keeping a “Buy” rating on the shares. The analyst believes that Meta Platforms, Inc. (NASDAQ:META) posted stronger-than-expected results for Q1 2026 and gave in-line guidance […]",
-        "pubDate": "2026-05-04T19:11:15Z",
-        "displayTime": "2026-05-04T19:11:15Z",
+        "summary": "(Bloomberg) -- Alphabet Inc. needs to borrow heavily to fund investments in artificial intelligence, and it’s increasingly tapping every market to do so. Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysChina’s Rare Sanctions Pushback Leaves Banks Caught in CrossfireUS and Iran Trade Fire in Gulf, Jolting Four-Week-Old TruceAnthropic Unveils AI Agents to Field Financial Services TasksWhite House Weighs AI Working Group, Model Testing, NYT ReportsThe parent of G",
+        "pubDate": "2026-05-05T20:53:28Z",
+        "displayTime": "2026-05-05T20:53:28Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/3bb8ee25366b0d99cae297f8032c1254",
-          "originalWidth": 768,
-          "originalHeight": 430,
-          "caption": "Truist Reduces PT on Meta Platforms (META) Stock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/bAtx_FOvs7EEHEVlgwBrGg--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3bb8ee25366b0d99cae297f8032c1254",
-              "width": 768,
-              "height": 430,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/D7dwTydHDHgySK2mbRkZ2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3bb8ee25366b0d99cae297f8032c1254",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/truist-reduces-pt-meta-platforms-191115702.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/truist-reduces-pt-meta-platforms-191115702.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f940f6a4-5493-39fa-9a50-395aa870189a",
-      "content": {
-        "id": "f940f6a4-5493-39fa-9a50-395aa870189a",
-        "contentType": "STORY",
-        "title": "Meta Platforms vs Snap: Who’s Really Winning Digital Ads?",
-        "description": "",
-        "summary": "Meta Platforms (NASDAQ:META) and Snap (NYSE:SNAP) just delivered earnings that frame two opposite paths through the digital ad market. Meta posted a 33.08% revenue surge powered by AI-driven ad pricing. Snap finally swung to a $45.21 million quarterly profit by leaning on subscriptions and small advertisers. Same industry, very different business stories. One Sells Pricing ... Meta Platforms vs Snap: Who’s Really Winning Digital Ads?",
-        "pubDate": "2026-05-04T19:00:16Z",
-        "displayTime": "2026-05-04T19:00:16Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/10593b666236fbeee6605d63dcb27c92",
-          "originalWidth": 1366,
-          "originalHeight": 768,
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/ea178563b3228caf220a61dae4a85465",
+          "originalWidth": 2010,
+          "originalHeight": 1446,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2Vf77IkmiK7a_RBnTfCT3g--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/10593b666236fbeee6605d63dcb27c92",
-              "width": 1366,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/JD3ecdTxcdc5lepo4eOsww--~B/aD0xNDQ2O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/ea178563b3228caf220a61dae4a85465",
+              "width": 2010,
+              "height": 1446,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JU._rfakiCznagu6zkcwEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/10593b666236fbeee6605d63dcb27c92",
+              "url": "https://s.yimg.com/uu/api/res/1.2/5oTlwlsVPT8DRCMdoO.64w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/ea178563b3228caf220a61dae4a85465",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2104,18 +2037,18 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/04/meta-platforms-vs-snap-whos-really-winning-digital-ads/",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-kicks-off-six-part-063629225.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-vs-snap-really-190016946.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-kicks-off-six-part-063629225.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2133,32 +2066,94 @@
       }
     },
     {
-      "id": "975e22cb-879d-317e-bc36-03b81b7037a1",
+      "id": "fdef2f30-2e49-3fab-84ae-689b6c08bcb3",
       "content": {
-        "id": "975e22cb-879d-317e-bc36-03b81b7037a1",
+        "id": "fdef2f30-2e49-3fab-84ae-689b6c08bcb3",
         "contentType": "STORY",
-        "title": "50% of Nvidia Employees Are Now Worth Over $25 Million: How Nvidia Created Thousands of Millionaires",
+        "title": "Even Laying Off 100% of Its Workers Won't Recoup This Company's AI Costs",
         "description": "",
-        "summary": "A recent episode of Motley Fool Money titled “Nvidia’s Next Big Market” highlighted a statistic that reframes how investors think about employee equity. At NVIDIA (NASDAQ:NVDA), roughly 50% of employees now have a net worth exceeding $25 million, based on a workforce of about 30,000 to 40,000 people. At the top end, management has reached centimillionaire ... 50% of Nvidia Employees Are Now Worth Over $25 Million: How Nvidia Created Thousands of Millionaires",
-        "pubDate": "2026-05-04T18:14:32Z",
-        "displayTime": "2026-05-04T18:14:32Z",
+        "summary": "Investors are wary of Meta's layoffs and big spending on AI.",
+        "pubDate": "2026-05-05T20:20:00Z",
+        "displayTime": "2026-05-05T20:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/88b81b0965b1b4854401fc4229449821",
-          "originalWidth": 2560,
-          "originalHeight": 1920,
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/231040b0125f6979e32f8d840f5ab50e",
+          "originalWidth": 1199,
+          "originalHeight": 800,
+          "caption": "A worried investor tracks the latest news on Meta stock.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/kBj0IoAf3N3YvO4uQt4xqQ--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/231040b0125f6979e32f8d840f5ab50e",
+              "width": 1199,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/u335k3BPyuErfB89BMFWHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/231040b0125f6979e32f8d840f5ab50e",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/05/05/laying-off-its-workers-wont-recoup-ai-costs/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/even-laying-off-100-workers-202000361.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2374d951-f689-3c96-a2a6-faf92fa6e305",
+      "content": {
+        "id": "2374d951-f689-3c96-a2a6-faf92fa6e305",
+        "contentType": "STORY",
+        "title": "Did Corning’s (GLW) Meta AI Deal and Springboard Update Just Shift Its Investment Narrative?",
+        "description": "",
+        "summary": "Corning Incorporated recently reported first-quarter 2026 results showing sales of US$4,144 million and net income of US$371 million, affirmed its US$0.28 quarterly dividend, issued second-quarter guidance, and filed an omnibus shelf registration covering multiple securities. A key highlight was Corning’s expanding role in AI data center infrastructure, including a multi‑year US$6 billion Meta Platforms agreement and an updated Springboard plan targeting large incremental sales by...",
+        "pubDate": "2026-05-05T20:10:43Z",
+        "displayTime": "2026-05-05T20:10:43Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8",
+          "originalWidth": 1194,
+          "originalHeight": 432,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pd.zV_WYCZSewbnIwurwnw--~B/aD0xOTIwO3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/88b81b0965b1b4854401fc4229449821",
-              "width": 2560,
-              "height": 1920,
+              "url": "https://s.yimg.com/uu/api/res/1.2/6uAsO.rEcrE.nmLBY.t5jw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8",
+              "width": 1194,
+              "height": 432,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/on6waAKPd1IVSDzkgbU3PQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/88b81b0965b1b4854401fc4229449821",
+              "url": "https://s.yimg.com/uu/api/res/1.2/rqlbN5RiPu1vlRU9ouAYXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2166,18 +2161,18 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/04/50-of-nvidia-employees-are-now-worth-over-25-million-how-nvidia-created-thousands-of-millionaires/",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/did-corning-glw-meta-ai-201043641.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/50-nvidia-employees-now-worth-181432523.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/did-corning-glw-meta-ai-201043641.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2195,32 +2190,180 @@
       }
     },
     {
-      "id": "c5c4384b-d65a-33ee-a59d-e2e99e6f29ba",
+      "id": "4aea562d-0718-3d7c-9a6d-6de07a0db4be",
       "content": {
-        "id": "c5c4384b-d65a-33ee-a59d-e2e99e6f29ba",
+        "id": "4aea562d-0718-3d7c-9a6d-6de07a0db4be",
         "contentType": "STORY",
-        "title": "Can Strong Data Center Revenues Boost AMD's Topline in Q1 Earnings?",
+        "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
         "description": "",
-        "summary": "Advanced Micro Devices eyes strong Q1 2026 results as Data Center revenues surge on EPYC and Instinct demand, fueled by AI and cloud expansion.",
-        "pubDate": "2026-05-04T18:03:00Z",
-        "displayTime": "2026-05-04T18:03:00Z",
+        "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
+        "pubDate": "2026-05-05T20:06:40Z",
+        "displayTime": "2026-05-05T20:06:40Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/364f75d8e1004d74234315bc706c9f42",
-          "originalWidth": 549,
-          "originalHeight": 250,
-          "caption": "Advanced Micro Devices, Inc. Revenue (TTM)",
+          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/9d86ebed06e5448df8e290e7e65a3fbd",
+          "originalWidth": 4000,
+          "originalHeight": 2667,
+          "caption": "Christophe Fouquet, chief executive officer of ASML Holding NV",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OZB5r4roVX6ul6XDAtMvQw--~B/aD0yNTA7dz01NDk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/364f75d8e1004d74234315bc706c9f42",
-              "width": 549,
-              "height": 250,
+              "url": "https://s.yimg.com/uu/api/res/1.2/I9Ea3sWzRbFgoaCYVs5BVg--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_finance_785/9d86ebed06e5448df8e290e7e65a3fbd",
+              "width": 4000,
+              "height": 2667,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9CG9JHs9Aqaln0UFWhPsPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/364f75d8e1004d74234315bc706c9f42",
+              "url": "https://s.yimg.com/uu/api/res/1.2/_ZGWCVPPfBUF4RMZ03XbgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/9d86ebed06e5448df8e290e7e65a3fbd",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TechCrunch",
+          "url": "https://techcrunch.com/",
+          "sourceId": "techcrunch_finance_785"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/asml-ceo-christophe-fouquet-no-200640845.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/asml-ceo-christophe-fouquet-no-200640845.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4ade9cd0-e105-3df6-bf5d-bb21e1983cbe",
+      "content": {
+        "id": "4ade9cd0-e105-3df6-bf5d-bb21e1983cbe",
+        "contentType": "STORY",
+        "title": "Meta plans advanced ‘agentic’ AI assistant for consumers",
+        "description": "",
+        "summary": "Meta is building a highly personalised AI assistant to carry out everyday tasks for its billions of users, as the company faces investor scrutiny...",
+        "pubDate": "2026-05-05T19:18:26Z",
+        "displayTime": "2026-05-05T19:18:26Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Financial Times",
+          "url": "https://www.ft.com/",
+          "sourceId": "financial_times_premium_news_167"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-plans-advanced-agentic-ai-191826270.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-plans-advanced-agentic-ai-191826270.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "66ce8089-79bf-333f-b44a-9f5eb6b1541d",
+      "content": {
+        "id": "66ce8089-79bf-333f-b44a-9f5eb6b1541d",
+        "contentType": "STORY",
+        "title": "Hon Hai Reports 29.7% Revenue Jump As AI Hardware Demand Holds",
+        "description": "",
+        "summary": "April revenue reached NT$832.1 billion as Hon Hai expects second-quarter sales to grow sequentially and year-over-year.",
+        "pubDate": "2026-05-05T18:22:09Z",
+        "displayTime": "2026-05-05T18:22:09Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/hon-hai-reports-29-7-182209805.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/hon-hai-reports-29-7-182209805.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "fae8a339-f0ca-320e-a5aa-6bafb1a047d3",
+      "content": {
+        "id": "fae8a339-f0ca-320e-a5aa-6bafb1a047d3",
+        "contentType": "STORY",
+        "title": "Reddit Trades at a Premium Valuation: Should You Still Buy the Stock?",
+        "description": "",
+        "summary": "RDDT trades at a steep premium, but rapid ad growth, rising ARPU, and AI-driven tools are powering momentum despite ongoing market and competitive pressures.",
+        "pubDate": "2026-05-05T18:14:00Z",
+        "displayTime": "2026-05-05T18:14:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/e8c9b95b961027bf698be3ac042eafa8",
+          "originalWidth": 620,
+          "originalHeight": 413,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KtnfrHpRBKLAQoClV0Msfg--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e8c9b95b961027bf698be3ac042eafa8",
+              "width": 620,
+              "height": 413,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pZRWhZDAMzB4uZXala3.Pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e8c9b95b961027bf698be3ac042eafa8",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2233,118 +2376,13 @@
           "sourceId": "zacks.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-data-center-revenues-boost-180300113.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-trades-premium-valuation-still-181400637.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-data-center-revenues-boost-180300113.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b33e718a-d98a-43d6-8888-c8e32cb7ec8f",
-      "content": {
-        "id": "b33e718a-d98a-43d6-8888-c8e32cb7ec8f",
-        "contentType": "VIDEO",
-        "title": "The FBI shut down a swarm of crypto scams. Here's what happened.",
-        "description": "<p>The US Federal Bureau of Investigation (FBI) shut down several crypto scam centers, leading to 276 arrests and $562 million saved. Scott Melker discusses the details in the video above.<br><br>\"<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/videos/series/daily-wolf/?fr=sycsrp_catchall\" data-i13n=\"slk:The Daily Wolf with Scott Melker;cpos:1;pos:1\">The Daily Wolf with Scott Melker</a>\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.<br><br>Make sure to also check out Yahoo Finance's new <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/markets/crypto/\" data-i13n=\"slk:crypto hub;cpos:2;pos:1\">crypto hub</a> to find the latest crypto-related news.</p>",
-        "summary": "The US Federal Bureau of Investigation (FBI) shut down several crypto scam centers, leading to 276 arrests and $562 million saved. Scott Melker discusses the details in the video above.\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
-        "pubDate": "2026-05-04T17:30:00Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/9xBw9KkqaiQDEpRWVX.4Cw--~B/aD0zMDc4O3c9NTQ3MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fb7c57a0-5dd8-11e9-bb77-06fd604060e8_664aa571db65f7243128070a926beeb7455211ecd632b98bbd5d18ae175dcc33.com/creatr-images/2019-04/fb7c57a0-5dd8-11e9-bb77-06fd604060e8",
-          "originalWidth": 5472,
-          "originalHeight": 3078,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9xBw9KkqaiQDEpRWVX.4Cw--~B/aD0zMDc4O3c9NTQ3MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fb7c57a0-5dd8-11e9-bb77-06fd604060e8_664aa571db65f7243128070a926beeb7455211ecd632b98bbd5d18ae175dcc33.com/creatr-images/2019-04/fb7c57a0-5dd8-11e9-bb77-06fd604060e8",
-              "width": 5472,
-              "height": 3078,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/h8GI0v562PT30M3JWbT6RA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fb7c57a0-5dd8-11e9-bb77-06fd604060e8_664aa571db65f7243128070a926beeb7455211ecd632b98bbd5d18ae175dcc33.com/creatr-images/2019-04/fb7c57a0-5dd8-11e9-bb77-06fd604060e8",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/fbi-shut-down-swarm-crypto-173000869.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/fbi-shut-down-swarm-crypto-173000869.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8a1fc77d-9ae5-3128-b253-c774389d7200",
-      "content": {
-        "id": "8a1fc77d-9ae5-3128-b253-c774389d7200",
-        "contentType": "STORY",
-        "title": "Cathie Wood Dumps $72 Million of AMD, Doubles Down on Alphabet and Meta",
-        "description": "",
-        "summary": "Cathie Wood's Latest Move Sparks Questions for Advanced Micro Devices Bulls",
-        "pubDate": "2026-05-04T17:21:08Z",
-        "displayTime": "2026-05-04T17:21:08Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-72-million-172108035.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-72-million-172108035.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-trades-premium-valuation-still-181400637.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
