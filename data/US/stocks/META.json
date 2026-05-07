@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-06T22:42:32.117716",
+    "ts": "2026-05-07T22:55:11.433812",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 604.96,
-    "open": 601.27,
-    "dayLow": 598.11,
-    "dayHigh": 619.95,
-    "regularMarketPreviousClose": 604.96,
-    "regularMarketOpen": 601.27,
-    "regularMarketDayLow": 598.11,
-    "regularMarketDayHigh": 619.95,
+    "previousClose": 612.88,
+    "open": 614.495,
+    "dayLow": 613.5401,
+    "dayHigh": 624.95,
+    "regularMarketPreviousClose": 612.88,
+    "regularMarketOpen": 614.495,
+    "regularMarketDayLow": 613.5401,
+    "regularMarketDayHigh": 624.95,
     "dividendRate": 2.1,
-    "dividendYield": 0.35,
+    "dividendYield": 0.34,
     "exDividendDate": 1773619200,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 22.262259,
-    "forwardPE": 16.940681,
-    "volume": 19857709,
-    "regularMarketVolume": 19857709,
-    "averageVolume": 15355970,
-    "averageVolume10days": 18405530,
-    "averageDailyVolume10Day": 18405530,
-    "bid": 600.0,
-    "ask": 613.23,
+    "trailingPE": 22.413153,
+    "forwardPE": 17.04556,
+    "volume": 11929063,
+    "regularMarketVolume": 11929063,
+    "averageVolume": 15431555,
+    "averageVolume10days": 19480640,
+    "averageDailyVolume10Day": 19480640,
+    "bid": 615.83,
+    "ask": 616.6,
     "bidSize": 1,
     "askSize": 1,
-    "marketCap": 1555748880384,
+    "marketCap": 1565724901376,
     "nonDilutedMarketCap": 1545252494193,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.237287,
-    "fiftyDayAverage": 628.7638,
-    "twoHundredDayAverage": 677.3293,
+    "priceToSalesTrailing12Months": 7.283695,
+    "fiftyDayAverage": 628.2354,
+    "twoHundredDayAverage": 676.82886,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0034713035,
+    "trailingAnnualDividendYield": 0.0034264454,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1541233573888,
+    "enterpriseValue": 1561337921536,
     "profitMargins": 0.32837,
     "floatShares": 2192766203,
     "sharesOutstanding": 2196045588,
@@ -184,31 +184,31 @@
     "dateShortInterest": 1776211200,
     "sharesPercentSharesOut": 0.0104,
     "heldPercentInsiders": 0.0011999999,
-    "heldPercentInstitutions": 0.78480005,
+    "heldPercentInstitutions": 0.78535,
     "shortRatio": 1.48,
     "shortPercentOfFloat": 0.0121,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 85.867,
-    "priceToBook": 7.1375504,
+    "priceToBook": 7.1833186,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.53,
-    "forwardEps": 36.178,
-    "pegRatio": 0.93,
-    "enterpriseToRevenue": 7.17,
-    "enterpriseToEbitda": 14.1,
-    "52WeekChange": 0.013655901,
-    "SandP52WeekChange": 0.28908885,
+    "trailingEps": 27.52,
+    "forwardEps": 36.18596,
+    "pegRatio": 0.89,
+    "enterpriseToRevenue": 7.263,
+    "enterpriseToEbitda": 14.284,
+    "52WeekChange": 0.024865746,
+    "SandP52WeekChange": 0.3003528,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
-    "currentPrice": 612.88,
+    "currentPrice": 616.81,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 614.0,
-    "targetMeanPrice": 828.9669,
+    "targetMeanPrice": 826.69104,
     "targetMedianPrice": 825.0,
     "recommendationMean": 1.34921,
     "recommendationKey": "strong_buy",
@@ -240,36 +240,51 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
+    "regularMarketChangePercent": 0.6412336,
+    "regularMarketPrice": 616.81,
+    "marketState": "POST",
     "corporateActions": [],
-    "postMarketTime": 1778107341,
-    "regularMarketTime": 1778097601,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": 1.3091745,
-    "regularMarketPrice": 612.88,
+    "postMarketTime": 1778194486,
+    "regularMarketTime": 1778184001,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
     "exchangeTimezoneShortName": "EDT",
     "gmtOffSetMilliseconds": -14400000,
-    "marketState": "POST",
+    "market": "us_market",
+    "esgPopulated": false,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "postMarketChangePercent": -0.35829866,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.09871108,
-    "postMarketPrice": 612.275,
-    "postMarketChange": -0.60498047,
-    "regularMarketChange": 7.919983,
-    "regularMarketDayRange": "598.11 - 619.95",
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-05-07",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "epsTrailingTwelveMonths": 27.52,
+    "epsForward": 36.18596,
+    "epsCurrentYear": 32.01814,
+    "priceEpsCurrentYear": 19.264393,
+    "fiftyDayAverageChange": -11.425415,
+    "fiftyDayAverageChangePercent": -0.018186519,
+    "twoHundredDayAverageChange": -60.01886,
+    "twoHundredDayAverageChangePercent": -0.088676564,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "postMarketPrice": 614.6,
+    "postMarketChange": -2.210022,
+    "regularMarketChange": 3.9299927,
+    "regularMarketDayRange": "613.5401 - 624.95",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15355970,
-    "fiftyTwoWeekLowChange": 92.619995,
-    "fiftyTwoWeekLowChangePercent": 0.17802636,
+    "averageDailyVolume3Month": 15431555,
+    "fiftyTwoWeekLowChange": 96.54999,
+    "fiftyTwoWeekLowChangePercent": 0.18558025,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -183.37,
-    "fiftyTwoWeekHighChangePercent": -0.23029199,
-    "fiftyTwoWeekChangePercent": 1.3655901,
+    "fiftyTwoWeekHighChange": -179.44,
+    "fiftyTwoWeekHighChangePercent": -0.22535636,
+    "fiftyTwoWeekChangePercent": 2.4865746,
     "dividendDate": 1774483200,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -277,21 +292,6 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.53,
-    "epsForward": 36.178,
-    "epsCurrentYear": 31.7925,
-    "priceEpsCurrentYear": 19.277502,
-    "fiftyDayAverageChange": -15.883789,
-    "fiftyDayAverageChangePercent": -0.025261933,
-    "twoHundredDayAverageChange": -64.44928,
-    "twoHundredDayAverageChangePercent": -0.095152065,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-06",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.9298
   },
@@ -1758,145 +1758,40 @@
       ],
       "Earnings High": 8.55,
       "Earnings Low": 6.8,
-      "Earnings Average": 7.42556,
+      "Earnings Average": 7.48333,
       "Revenue High": 62812000000,
-      "Revenue Low": 59289000000,
-      "Revenue Average": 60203812990
+      "Revenue Low": 59132000000,
+      "Revenue Average": 60195733560
     }
   },
   "news": [
     {
-      "id": "2a7477e6-2465-34d0-aa05-9bd0d8066bed",
+      "id": "bdc031df-bb09-496c-a513-c91b6af6a3e4",
       "content": {
-        "id": "2a7477e6-2465-34d0-aa05-9bd0d8066bed",
+        "id": "bdc031df-bb09-496c-a513-c91b6af6a3e4",
         "contentType": "STORY",
-        "title": "AppLovin shares surge after strong earnings fueled by high ad demand",
+        "title": "Jobs data live updates: Cloudflare, Upwork add to mounting tech layoffs as April jobs report looms",
         "description": "",
-        "summary": "Investing.com -- AppLovin, the artificial intelligence-based mobile advertising platform, reported better-than-expected first-quarter revenue and earnings, as demand for its advertising services and artificial-intelligence powered tools remained robust.",
-        "pubDate": "2026-05-06T21:55:19Z",
-        "displayTime": "2026-05-06T21:55:19Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-shares-surge-strong-earnings-215519637.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-shares-surge-strong-earnings-215519637.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2965ca6e-f889-376c-a00c-ec4a70da58a9",
-      "content": {
-        "id": "2965ca6e-f889-376c-a00c-ec4a70da58a9",
-        "contentType": "STORY",
-        "title": "The Best AI Stocks for Growth Investors to Buy in 2026",
-        "description": "",
-        "summary": "These tech behemoths are seeing impressive gains from their artificial intelligence (AI) investments.",
-        "pubDate": "2026-05-06T20:36:00Z",
-        "displayTime": "2026-05-06T20:36:00Z",
+        "summary": "The narrative about the state of the labor market — whether it remains in stasis or is beginning to heat up — will be shaped this week by a series of data drops.",
+        "pubDate": "2026-05-05T14:21:01Z",
+        "displayTime": "2026-05-07T22:04:31Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/7534bba6034083fee0040441cd8bf614",
-          "originalWidth": 1400,
-          "originalHeight": 918,
-          "caption": "Stacks of money sitting on a desk next to a phone and computer.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.MiZktPYsfXigAW5uikndw--~B/aD05MTg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7534bba6034083fee0040441cd8bf614",
-              "width": 1400,
-              "height": 918,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/yEeC41EuTVn_Ry7JhpvVHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7534bba6034083fee0040441cd8bf614",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/06/best-ai-stocks-growth-investors-to-buy-2026/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-ai-stocks-growth-investors-203600957.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "3fbc8b2f-7b7f-3a2a-b1a0-71b33ec1b6e5",
-      "content": {
-        "id": "3fbc8b2f-7b7f-3a2a-b1a0-71b33ec1b6e5",
-        "contentType": "STORY",
-        "title": "Cathie Wood sells another $15.6M of surging semiconductor stock",
-        "description": "",
-        "summary": "Sometimes the hardest part of investing isn't buying. It's not the patience asked of you before the market rewards your move. It’s not even what to invest in, as you may think. It's watching something you sold keep going up to the moon without you. And now you can only stay out and be a spectator. ...",
-        "pubDate": "2026-05-06T20:35:22Z",
-        "displayTime": "2026-05-06T20:35:22Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/92523a6a66fa4a9203834b8717036d96",
-          "originalWidth": 1200,
-          "originalHeight": 675,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/0Bii..4SKPJJUa0I6IBdGA--~B/aD01MzYwO3c9ODA0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/8be548d9-ada3-4c6c-bb57-5d0cec3ca619",
+          "originalWidth": 8040,
+          "originalHeight": 5360,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/FbgUTt8KjKfFJg_yuTem6A--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/92523a6a66fa4a9203834b8717036d96",
-              "width": 1200,
-              "height": 675,
+              "url": "https://s.yimg.com/uu/api/res/1.2/0Bii..4SKPJJUa0I6IBdGA--~B/aD01MzYwO3c9ODA0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/8be548d9-ada3-4c6c-bb57-5d0cec3ca619",
+              "width": 8040,
+              "height": 5360,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fPbijIf2mhTbk_799HOgNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/92523a6a66fa4a9203834b8717036d96",
+              "url": "https://s.yimg.com/uu/api/res/1.2/flhVInPtCKbtiqw4XxNZ_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/8be548d9-ada3-4c6c-bb57-5d0cec3ca619",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1904,18 +1799,80 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-another-15-6m-of-surging-semiconductor-stock",
+          "url": "https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-another-15-203522305.html",
+          "url": "https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "55088fd1-bd77-31a6-9d76-549debde7635",
+      "content": {
+        "id": "55088fd1-bd77-31a6-9d76-549debde7635",
+        "contentType": "STORY",
+        "title": "NVIDIA Corporation (NVDA): Should Not Be Touched?",
+        "description": "",
+        "summary": "We just covered Sell These 4 Stocks and Go All In on These 3 Stocks Before May 9th for 100x Returns? and NVIDIA Corporation (NASDAQ:NVDA) ranks 7th on this list. NVIDIA Corporation (NASDAQ:NVDA) remains the dominant force in AI, but several specific headwinds have led some social media stock experts to the conclusion that the […]",
+        "pubDate": "2026-05-07T22:45:38Z",
+        "displayTime": "2026-05-07T22:45:38Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/a28a9847196e20d557458644f8b04938",
+          "originalWidth": 1456,
+          "originalHeight": 816,
+          "caption": "Astera Labs Inc (ALAB) Gains Outperform Rating as GenAI Demand Drives Growth",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/aVUkt6YmU2kjIZatDh.BBA--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/a28a9847196e20d557458644f8b04938",
+              "width": 1456,
+              "height": 816,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zJCoUAPxGVxTkWb1mPDoeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a28a9847196e20d557458644f8b04938",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-not-touched-224538160.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-not-touched-224538160.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1933,32 +1890,94 @@
       }
     },
     {
-      "id": "c0571921-90fc-3872-bb45-d30c5a24eff3",
+      "id": "100c640a-7b42-318c-b412-173ddffc9c61",
       "content": {
-        "id": "c0571921-90fc-3872-bb45-d30c5a24eff3",
+        "id": "100c640a-7b42-318c-b412-173ddffc9c61",
         "contentType": "STORY",
-        "title": "Zuckerberg Just Put A Chunk of Meta's AI Bill On Wall Street's Credit Card",
+        "title": "Will Sui Succeed Where Libra Failed? Mysten Labs Co-Founder Details Zero-Fee Stablecoins and Gaming Push",
         "description": "",
-        "summary": "Meta Platforms AI bill just got so large that one of Silicon Valley's richest companies went back to Wall Street for help. On April 30, Meta sold $25 billion of senior unsecured bonds across six tranches. The deal came a day after the Mark Zuckerberg–led company raised its 2026 capital expenditure forecast by $10 billion, to a new range of $125 billion to $145 billion. The capex hike, tied to AI infrastructure, rattled shareholders: Meta shares fell 9% the day after the announcement, in the bigg",
-        "pubDate": "2026-05-06T20:30:18Z",
-        "displayTime": "2026-05-06T20:30:18Z",
+        "summary": "Mysten Labs co-founder Adeniyi Abiodun said the company built Sui to continue ambitions first explored during Meta’s Libra initiative. The company announced plans for fee-free ...",
+        "pubDate": "2026-05-07T21:55:15Z",
+        "displayTime": "2026-05-07T21:55:15Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Benzinga/bceb4e7cbdde4fff102a4794ad017e6a",
-          "originalWidth": 1024,
-          "originalHeight": 576,
+          "originalUrl": "https://media.zenfs.com/en/ccn_928/0928326d54282a3d3fdce484a075db71",
+          "originalWidth": 1920,
+          "originalHeight": 1200,
+          "caption": "Mysten Labs co-founder Adeniyi Abiodun says Sui continues Meta Libra’s vision — and has learned valuable lessons from its failure. | Source: CCN.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GR8cDJvvJpzpB48uxu46Nw--~B/aD0xMjAwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ccn_928/0928326d54282a3d3fdce484a075db71",
+              "width": 1920,
+              "height": 1200,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/BetFrI5ayz_ERnSRdCEtMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/0928326d54282a3d3fdce484a075db71",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "CCN",
+          "url": "https://www.ccn.com/",
+          "sourceId": "ccn_928"
+        },
+        "canonicalUrl": {
+          "url": "https://www.ccn.com/news/crypto/failed-libra-sui-mysten-labs-details-zero-fee-stablecoins-gaming/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/sui-succeed-where-libra-failed-215515490.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f10b4443-2259-3c88-b761-5321e0f00c73",
+      "content": {
+        "id": "f10b4443-2259-3c88-b761-5321e0f00c73",
+        "contentType": "STORY",
+        "title": "Tens of Thousands of Tech Workers Are Being Laid Off in 2026. The $725 Billion That Replaced Them Is Going to Four Companies.",
+        "description": "",
+        "summary": "You are being shown one number. Mark Zuckerberg told 8,000 Meta employees in early May that their jobs were a casualty of the company’s AI infrastructure budget. Amazon has cut roughly 30,000 roles in the last five months. Microsoft has shed about 125,000 through “voluntary” departures. Alphabet is in the middle of an ongoing 1,500. ... Tens of Thousands of Tech Workers Are Being Laid Off in 2026. The $725 Billion That Replaced Them Is Going to Four Companies.",
+        "pubDate": "2026-05-07T21:13:32Z",
+        "displayTime": "2026-05-07T21:13:32Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b49cbef136023beaafdd0f305ea9a3b0",
+          "originalWidth": 1366,
+          "originalHeight": 768,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wTiW8V.CNGWRPnHNipI0Hg--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/bceb4e7cbdde4fff102a4794ad017e6a",
-              "width": 1024,
-              "height": 576,
+              "url": "https://s.yimg.com/uu/api/res/1.2/R_Kncvf3BD829lBgnV0WcQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/b49cbef136023beaafdd0f305ea9a3b0",
+              "width": 1366,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xsupaIyMdTHwx1FwSkcUlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/bceb4e7cbdde4fff102a4794ad017e6a",
+              "url": "https://s.yimg.com/uu/api/res/1.2/yK7QSZy4bA9ZxgbZwHGyiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b49cbef136023beaafdd0f305ea9a3b0",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1966,18 +1985,18 @@
           ]
         },
         "provider": {
-          "displayName": "Benzinga",
-          "url": "http://www.benzinga.com/",
-          "sourceId": "Benzinga"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zuckerberg-just-put-chunk-metas-203018279.html",
+          "url": "https://247wallst.com/investing/2026/05/07/tens-of-thousands-of-tech-workers-are-being-laid-off-in-2026-the-725-billion-that-replaced-them-is-going-to-four-companies/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zuckerberg-just-put-chunk-metas-203018279.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/tens-thousands-tech-workers-being-211332017.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1995,75 +2014,32 @@
       }
     },
     {
-      "id": "a9642b88-cb65-3e71-98b3-3e82ca954964",
+      "id": "b99d053d-34d5-3f73-a477-1207406f188b",
       "content": {
-        "id": "a9642b88-cb65-3e71-98b3-3e82ca954964",
+        "id": "b99d053d-34d5-3f73-a477-1207406f188b",
         "contentType": "STORY",
-        "title": "Meta-Backed Scale AI Wins $500 Million Defense Department Deal",
+        "title": "Nebius Group N.V. (NBIS): Order Book Turning Heads in Finance World",
         "description": "",
-        "summary": "(Bloomberg) -- The Pentagon awarded a $500 million contract to Meta Platforms Inc.-backed Scale AI to help sift through data and assist in decision-making, the latest step in the US military’s effort to rely more on artificial intelligence.Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysUS Says Offensive Phase of Iran War Over as Ship Hit in StraitDOJ Plans Intervention in Trump Supreme Court Carroll AppealAnthropic Unveils AI Agents to Field Financial Service",
-        "pubDate": "2026-05-06T20:19:07Z",
-        "displayTime": "2026-05-06T20:19:07Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-backed-scale-ai-wins-201907348.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-backed-scale-ai-wins-201907348.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7b8b8cff-d48e-3cc1-8694-a4048d4512e4",
-      "content": {
-        "id": "7b8b8cff-d48e-3cc1-8694-a4048d4512e4",
-        "contentType": "STORY",
-        "title": "Snap flags ad revenue hit from Middle East conflict, slower North America growth",
-        "description": "",
-        "summary": "Snap said on Wednesday its first-quarter advertising revenue was impacted by the conflict in the Middle East and slowing ‌growth in North America, sending its shares 7% lower in extended trading.  Advertising revenue rose 3% to $1.24 billion in the quarter, driven by direct response ads, designed to prompt specific actions like app downloads or website visits.  The company said it had an estimated $20 ‌million to $25 million impact from ⁠the Middle East conflict during March and that it expects the geopolitical uncertainty to persist.",
-        "pubDate": "2026-05-06T20:13:19Z",
-        "displayTime": "2026-05-06T20:13:19Z",
+        "summary": "We just covered Sell These 4 Stocks and Go All In on These 3 Stocks Before May 9th for 100x Returns? and Nebius Group N.V. (NASDAQ:NBIS) ranks 2nd on this list. Nebius Group N.V. (NASDAQ:NBIS) is attracting interest from finance influencers on social media because of the sheer scale of the company’s order book with […]",
+        "pubDate": "2026-05-07T20:56:46Z",
+        "displayTime": "2026-05-07T20:56:46Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/7791a35d467e2d45d91a7bac3c2e2923",
-          "originalWidth": 800,
-          "originalHeight": 534,
-          "caption": "Illustration shows Snapchat app",
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/de77ec1fbe46c7869bd544717acf6801",
+          "originalWidth": 2795,
+          "originalHeight": 1374,
+          "caption": "Piper Sandler Maintains Overweight Rating on Blue Owl Capital (OWL)",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SJ3hisTTZwivh51uuuTjfA--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/7791a35d467e2d45d91a7bac3c2e2923",
-              "width": 800,
-              "height": 534,
+              "url": "https://s.yimg.com/uu/api/res/1.2/vUwUJEPa8LTAYVQ.R68fqQ--~B/aD0xMzc0O3c9Mjc5NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/de77ec1fbe46c7869bd544717acf6801",
+              "width": 2795,
+              "height": 1374,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/n4YC5eT7oTJuZPuwPkCD_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/7791a35d467e2d45d91a7bac3c2e2923",
+              "url": "https://s.yimg.com/uu/api/res/1.2/3frnbwTwR.YpJq5EmPqX4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/de77ec1fbe46c7869bd544717acf6801",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2071,18 +2047,18 @@
           ]
         },
         "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/snaps-quarterly-revenue-rises-daily-201319386.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-n-v-nbis-205646867.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/snaps-quarterly-revenue-rises-daily-201319386.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-n-v-nbis-205646867.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2100,32 +2076,32 @@
       }
     },
     {
-      "id": "21302029-0698-37d3-8713-fb054a7f654a",
+      "id": "99675d9b-d76c-3c51-ae05-bf1dbb6f6c53",
       "content": {
-        "id": "21302029-0698-37d3-8713-fb054a7f654a",
+        "id": "99675d9b-d76c-3c51-ae05-bf1dbb6f6c53",
         "contentType": "STORY",
-        "title": "Tesla, Meta, Microsoft Investors May Need A 'Self-Destruct' Switch, Not Blind Faith",
+        "title": "Wisconsin regulators order Alliant to create new data center electric rate",
         "description": "",
-        "summary": "Investors piling into the AI trade may need something less glamorous than another price target, product demo or promise about the future: a rule for when to stop trusting their favorite market narrative. That is the central argument from the investing blog Capital Blueprint, helmed by an independent market commentator using the name Jin, who says investors should build what Jin calls a \"self-destruct chip\" into their AI framework — clear conditions that force them to stop trusting a favorite nar",
-        "pubDate": "2026-05-06T19:30:19Z",
-        "displayTime": "2026-05-06T19:30:19Z",
+        "summary": "Wisconsin regulators approved Alliant Energy's plan to power Meta's Beaver Dam data center, but demand more transparency.",
+        "pubDate": "2026-05-07T20:23:31Z",
+        "displayTime": "2026-05-07T20:23:31Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Benzinga/dafcf2cdc916788fda3faf11477e8ff9",
-          "originalWidth": 1024,
-          "originalHeight": 576,
+          "originalUrl": "https://media.zenfs.com/en/milwaukee_journal_sentinel_natl_articles_362/482bc2698e040ee0d5b6647f90071d1e",
+          "originalWidth": 3840,
+          "originalHeight": 2160,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6rrItwlw8zrEtR6kRrxWUg--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/dafcf2cdc916788fda3faf11477e8ff9",
-              "width": 1024,
-              "height": 576,
+              "url": "https://s.yimg.com/uu/api/res/1.2/QIesaEqOjsIFGKwOEW819A--~B/aD0yMTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/milwaukee_journal_sentinel_natl_articles_362/482bc2698e040ee0d5b6647f90071d1e",
+              "width": 3840,
+              "height": 2160,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/n47SGTdeVJh.0G1AbjQrQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/dafcf2cdc916788fda3faf11477e8ff9",
+              "url": "https://s.yimg.com/uu/api/res/1.2/DicHPFurnuYxUAxkz4AQMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/milwaukee_journal_sentinel_natl_articles_362/482bc2698e040ee0d5b6647f90071d1e",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2133,18 +2109,18 @@
           ]
         },
         "provider": {
-          "displayName": "Benzinga",
-          "url": "http://www.benzinga.com/",
-          "sourceId": "Benzinga"
+          "displayName": "Milwaukee Journal Sentinel",
+          "url": "https://www.jsonline.com/",
+          "sourceId": "milwaukee_journal_sentinel_natl_articles_362"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-meta-microsoft-investors-may-193019224.html",
+          "url": "https://www.jsonline.com/story/money/business/energy/2026/05/07/wisconsin-orders-alliant-to-create-new-data-center-electric-rate/89976243007/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-meta-microsoft-investors-may-193019224.html",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/wisconsin-regulators-order-alliant-create-202331475.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2162,94 +2138,32 @@
       }
     },
     {
-      "id": "3711197d-291e-3b0a-978c-5c4e8ecb0b04",
+      "id": "9a69bb9a-eb08-3624-9059-b47553e98b44",
       "content": {
-        "id": "3711197d-291e-3b0a-978c-5c4e8ecb0b04",
+        "id": "9a69bb9a-eb08-3624-9059-b47553e98b44",
         "contentType": "STORY",
-        "title": "Meta asks California judge to throw out landmark social media addiction verdict",
+        "title": "How To Use IBD Sector Leaders Screen To Buy Stock Market Leaders On Pullbacks",
         "description": "",
-        "summary": "Meta Platforms has asked a Los Angeles judge to throw out a jury’s verdict finding the company liable for a woman’s ‌depression in a landmark trial over whether the company has harmed young users by ‌designing its platforms to be addictive.  In the filing, submitted on Monday but made public on Wednesday, Meta asked the judge ​who oversaw the trial to overturn the verdict and rule in its favor or order a new trial.  The jury in March found that Meta and YouTube parent Google had been negligent in the design of their platforms and had failed to warn users of their dangers.",
-        "pubDate": "2026-05-06T19:14:44Z",
-        "displayTime": "2026-05-06T19:14:44Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/5a6177ed631109b923f9de8366b1ed32",
-          "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "FILE PHOTO: VivaTech conference dedicated to innovation and startups in Paris",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/gWXt3jkKs4Bc75jCFJjSJg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/5a6177ed631109b923f9de8366b1ed32",
-              "width": 800,
-              "height": 533,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4BvRQnFm1qtB174raWYPCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/5a6177ed631109b923f9de8366b1ed32",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-asks-california-judge-throw-191444251.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-asks-california-judge-throw-191444251.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7ee7513c-0f11-385c-ab15-868d492e3d58",
-      "content": {
-        "id": "7ee7513c-0f11-385c-ab15-868d492e3d58",
-        "contentType": "STORY",
-        "title": "AMD Stock Spikes After Earnings. The Chip Maker Is on Track to Surpass a $600 Billion Market Cap.",
-        "description": "",
-        "summary": "AMD’s latest quarter was boosted by revenue growth of 57% in the company’s AI-driven data-center segment.",
-        "pubDate": "2026-05-06T19:14:00Z",
-        "displayTime": "2026-05-06T19:14:00Z",
+        "summary": "Several stock market leaders have emerged after the April 8 follow-through day. Some are starting to pull back in IBD Sector Leaders.",
+        "pubDate": "2026-05-07T19:50:58Z",
+        "displayTime": "2026-05-07T19:50:58Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/7ee7513c-0f11-385c-ab15-868d492e3d58/amd-stock-spikes-after.html",
+        "previewUrl": "https://finance.yahoo.com/m/9a69bb9a-eb08-3624-9059-b47553e98b44/how-to-use-ibd-sector-leaders.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/ad45126dd27557ae3280e95915496442",
-          "originalWidth": 1280,
-          "originalHeight": 640,
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/45e589cf57b3451603fbe0c30c124ed6",
+          "originalWidth": 1000,
+          "originalHeight": 563,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/o8Xe6XJiXlkS0mqXLraxvQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ad45126dd27557ae3280e95915496442",
-              "width": 1280,
-              "height": 640,
+              "url": "https://s.yimg.com/uu/api/res/1.2/sXTpfHUoNe9BNdytn6JOeg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/45e589cf57b3451603fbe0c30c124ed6",
+              "width": 1000,
+              "height": 563,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xpHaIwn2Q6H2xnALVzKsmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/ad45126dd27557ae3280e95915496442",
+              "url": "https://s.yimg.com/uu/api/res/1.2/EQvAArSqUtyun_t7565ofQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/45e589cf57b3451603fbe0c30c124ed6",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2257,12 +2171,12 @@
           ]
         },
         "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/advanced-micro-devices-earnings-stock-price-78a50ca6?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.investors.com/how-to-invest/investors-corner/stock-market-leaders-pullbacks-sector-leaders/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2281,32 +2195,137 @@
       }
     },
     {
-      "id": "68fbe1ca-1ed2-3d92-ad61-137030e947e5",
+      "id": "763452f2-eee5-391e-8784-145c1ec82058",
       "content": {
-        "id": "68fbe1ca-1ed2-3d92-ad61-137030e947e5",
+        "id": "763452f2-eee5-391e-8784-145c1ec82058",
         "contentType": "STORY",
-        "title": "CoreWeave’s Chip-Backed Loan Racks Up $19 Billion of Demand",
+        "title": "Sector Update: Tech Stocks Decline Late Afternoon",
         "description": "",
-        "summary": "(Bloomberg) -- CoreWeave Inc. racked up $19 billion of investor orders for a $3.1 billion loan backed by customer contracts for microchips, according to people familiar with the matter, the first of its kind to be broadly syndicated in the US leveraged loan market.Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysUS Says Offensive Phase of Iran War Over as Ship Hit in StraitDOJ Plans Intervention in Trump Supreme Court Carroll AppealAnthropic Unveils AI Agents t",
-        "pubDate": "2026-05-06T19:09:13Z",
-        "displayTime": "2026-05-06T19:09:13Z",
+        "summary": "Tech stocks were lower late Thursday afternoon, with the State Street Technology Select Sector SPDR",
+        "pubDate": "2026-05-07T19:41:48Z",
+        "displayTime": "2026-05-07T19:41:48Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": null,
         "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-chip-backed-loan-racks-190913629.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-decline-afternoon-194148540.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-chip-backed-loan-racks-190913629.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-decline-afternoon-194148540.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f91af49d-2b36-303a-babd-92e31e24e72c",
+      "content": {
+        "id": "f91af49d-2b36-303a-babd-92e31e24e72c",
+        "contentType": "STORY",
+        "title": "April Layoff Announcements Rise Amid Tech Job Cuts",
+        "description": "",
+        "summary": "US job cuts increased in April to the third-highest total for the month since 2009 as technology com",
+        "pubDate": "2026-05-07T18:25:42Z",
+        "displayTime": "2026-05-07T18:25:42Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/mt_newswires_premium_news_706/7ca213f6dd826726863dbec0174422ab",
+          "originalWidth": 1024,
+          "originalHeight": 683,
+          "caption": "layoff 4.jpg - Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rBgn5f4nzz_Mgg5FQOSwIQ--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/mt_newswires_premium_news_706/7ca213f6dd826726863dbec0174422ab",
+              "width": 1024,
+              "height": 683,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ctmzbjPyXsr.j0DWcTUCJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/7ca213f6dd826726863dbec0174422ab",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/april-layoff-announcements-rise-amid-182542606.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/april-layoff-announcements-rise-amid-182542606.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2c21b3bf-ce28-33db-afe6-051924449df7",
+      "content": {
+        "id": "2c21b3bf-ce28-33db-afe6-051924449df7",
+        "contentType": "STORY",
+        "title": "DeepL To Cut 25% Of Workforce As AI Reshapes Translation Market",
+        "description": "",
+        "summary": "DeepL is entering a leaner chapter as artificial intelligence starts to reshape the translation software market from the inside.  Chief Executive Officer Jarek Kutylowski attributed the move to what he described as a massive structural shift from artificial intelligence.  Kutylowski said adapting the company to work more effectively with AI means fewer layers, faster decisions and far less time spent on the back and forth that can slow large teams down.",
+        "pubDate": "2026-05-07T18:24:45Z",
+        "displayTime": "2026-05-07T18:24:45Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/deepl-cut-25-workforce-ai-182445900.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/deepl-cut-25-workforce-ai-182445900.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
