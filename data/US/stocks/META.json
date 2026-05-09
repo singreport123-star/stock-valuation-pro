@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-08T22:50:19.868855",
+    "ts": "2026-05-09T22:36:29.268790",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -150,31 +150,31 @@
     "exDividendDate": 1773619200,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 22.160305,
+    "trailingPE": 22.176428,
     "forwardPE": 16.847143,
     "volume": 13287103,
     "regularMarketVolume": 13287103,
-    "averageVolume": 15381191,
-    "averageVolume10days": 19544840,
-    "averageDailyVolume10Day": 19544840,
+    "averageVolume": 15360411,
+    "averageVolume10days": 19564920,
+    "averageDailyVolume10Day": 19564920,
     "bid": 609.61,
     "ask": 609.76,
     "bidSize": 1,
     "askSize": 3,
     "marketCap": 1547498946560,
-    "nonDilutedMarketCap": 1545252494193,
+    "nonDilutedMarketCap": 1547498998817,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "priceToSalesTrailing12Months": 7.1989083,
-    "fiftyDayAverage": 627.4978,
-    "twoHundredDayAverage": 676.38885,
+    "fiftyDayAverage": 626.5502,
+    "twoHundredDayAverage": 675.8691,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0034046138,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1571313942528,
+    "enterpriseValue": 1553087987712,
     "profitMargins": 0.32837,
     "floatShares": 2192766203,
     "sharesOutstanding": 2196045588,
@@ -183,8 +183,8 @@
     "sharesShortPreviousMonthDate": 1773360000,
     "dateShortInterest": 1776211200,
     "sharesPercentSharesOut": 0.0104,
-    "heldPercentInsiders": 0.0011999999,
-    "heldPercentInstitutions": 0.78551,
+    "heldPercentInsiders": 0.00112,
+    "heldPercentInstitutions": 0.80192,
     "shortRatio": 1.48,
     "shortPercentOfFloat": 0.0121,
     "impliedSharesOutstanding": 2538423304,
@@ -195,13 +195,13 @@
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.51,
+    "trailingEps": 27.49,
     "forwardEps": 36.18596,
     "pegRatio": 0.89,
-    "enterpriseToRevenue": 7.31,
-    "enterpriseToEbitda": 14.375,
-    "52WeekChange": 0.041047096,
-    "SandP52WeekChange": 0.29632986,
+    "enterpriseToRevenue": 7.225,
+    "enterpriseToEbitda": 14.208,
+    "52WeekChange": -0.046603978,
+    "SandP52WeekChange": 0.26603174,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
@@ -237,9 +237,12 @@
     "language": "en-US",
     "region": "US",
     "typeDisp": "Equity",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
+    "corporateActions": [],
+    "postMarketTime": 1778284791,
+    "regularMarketTime": 1778270400,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -247,21 +250,24 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.054133996,
-    "postMarketPrice": 609.3,
-    "postMarketChange": -0.3300171,
-    "regularMarketChange": -7.1799927,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "regularMarketChangePercent": -1.16405,
+    "regularMarketPrice": 609.63,
+    "marketState": "CLOSED",
+    "postMarketChangePercent": -0.016399387,
+    "postMarketPrice": 609.53,
+    "postMarketChange": -0.099975586,
+    "regularMarketChange": -7.17999,
     "regularMarketDayRange": "606.0601 - 616.77",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15381191,
+    "averageDailyVolume3Month": 15360411,
     "fiftyTwoWeekLowChange": 89.369995,
     "fiftyTwoWeekLowChangePercent": 0.17177948,
     "fiftyTwoWeekRange": "520.26 - 796.25",
     "fiftyTwoWeekHighChange": -186.62,
     "fiftyTwoWeekHighChangePercent": -0.23437361,
-    "fiftyTwoWeekChangePercent": 4.1047096,
+    "fiftyTwoWeekChangePercent": -4.6603975,
     "dividendDate": 1774483200,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -269,31 +275,25 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.51,
+    "epsTrailingTwelveMonths": 27.49,
     "epsForward": 36.18596,
     "epsCurrentYear": 32.01814,
-    "marketState": "POST",
-    "longName": "Meta Platforms, Inc.",
-    "shortName": "Meta Platforms, Inc.",
-    "regularMarketChangePercent": -1.1640525,
-    "regularMarketPrice": 609.63,
-    "corporateActions": [],
-    "postMarketTime": 1778280617,
-    "regularMarketTime": 1778270400,
     "priceEpsCurrentYear": 19.040146,
-    "fiftyDayAverageChange": -17.867798,
-    "fiftyDayAverageChangePercent": -0.028474677,
-    "twoHundredDayAverageChange": -66.75885,
-    "twoHundredDayAverageChangePercent": -0.09869892,
+    "fiftyDayAverageChange": -16.920166,
+    "fiftyDayAverageChangePercent": -0.027005285,
+    "twoHundredDayAverageChange": -66.239075,
+    "twoHundredDayAverageChangePercent": -0.09800578,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-08",
+    "nameChangeDate": "2026-05-09",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.9298
+    "trailingPegRatio": 0.8893
   },
   "financial_statements": {
     "income": {
@@ -1766,594 +1766,32 @@
   },
   "news": [
     {
-      "id": "6e5261bd-517a-4400-b24b-ca796fd0cdc4",
+      "id": "957423e0-94bc-3394-a8a5-d56703fb943b",
       "content": {
-        "id": "6e5261bd-517a-4400-b24b-ca796fd0cdc4",
+        "id": "957423e0-94bc-3394-a8a5-d56703fb943b",
         "contentType": "STORY",
-        "title": "CoreWeave stock sinks after forecast miss",
+        "title": "Goldman Sachs spots a troubling big tech trend",
         "description": "",
-        "summary": "CoreWeave shares sink as forecast dissapoints.",
-        "pubDate": "2026-05-08T13:14:01Z",
-        "displayTime": "2026-05-08T21:06:20Z",
+        "summary": "For years, investors in the biggest technology companies could count on one reliable outcome: the cash would come back to them. Profits piled up, balance sheets swelled, and buyback programs grew year after year, quietly supporting stock prices even when markets turned volatile. That dynamic is ...",
+        "pubDate": "2026-05-09T19:13:00Z",
+        "displayTime": "2026-05-09T19:13:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/qhmedLkcLK4QOQrFSO6_pA--~B/aD00NDYzO3c9NjY5NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/2d332a2e-1ce7-4096-9399-a6273decdfb0",
-          "originalWidth": 6694,
-          "originalHeight": 4463,
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/943dcf1a8f5f34a214c71246b494fbb0",
+          "originalWidth": 1200,
+          "originalHeight": 675,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/qhmedLkcLK4QOQrFSO6_pA--~B/aD00NDYzO3c9NjY5NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/2d332a2e-1ce7-4096-9399-a6273decdfb0",
-              "width": 6694,
-              "height": 4463,
+              "url": "https://s.yimg.com/uu/api/res/1.2/U99KS3.uHq9hbFANum0Cqw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/943dcf1a8f5f34a214c71246b494fbb0",
+              "width": 1200,
+              "height": 675,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rexohIPJsido9tC.p10vpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/2d332a2e-1ce7-4096-9399-a6273decdfb0",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/coreweave-stock-sinks-after-forecast-miss-131401648.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/coreweave-stock-sinks-after-forecast-miss-131401648.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "06945158-1fc0-4ca5-97fb-6e7edb4b06d6",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Coinbase & Cloudflare's AI-driven layoffs might not be rewarded",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Jdb8VHEriZlG_HNGYk4Q_w--~B/aD0zMzc1O3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0363b3be-3cfc-4af1-a9b8-3f6165817997_86ff4cc795440c7121d8a676f28a18ff54e6a899c0ea783ed414e871f02c2d61.net/images/2026-05/0363b3be-3cfc-4af1-a9b8-3f6165817997",
-                  "originalWidth": 6000,
-                  "originalHeight": 3375,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/coinbase-cloudflares-ai-driven-layoffs-183000309.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/coinbase-cloudflares-ai-driven-layoffs-183000309.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "4a29484f-3c7f-4ce6-af0a-95acce7750d6",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Should workers be worried about more AI layoffs? Acting Labor Secy. responds",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/fd5jsG5fhZXzhhZ95ZGfYQ--~B/aD0xODk4O3c9MzM3NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/8597e3b8-f8bd-474b-87c8-8a88728e3f8f_60ff8c691d581a50fd9d3897c2c76d553fcf9b1aced5a6231369ef09e5a2c1ce.net/images/2026-05/8597e3b8-f8bd-474b-87c8-8a88728e3f8f",
-                  "originalWidth": 3374,
-                  "originalHeight": 1898,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/workers-worried-more-ai-layoffs-173000000.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/workers-worried-more-ai-layoffs-173000000.html"
-                }
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "8b976516-ccbb-4eea-8310-c6b25c2ceb6a",
-      "content": {
-        "id": "8b976516-ccbb-4eea-8310-c6b25c2ceb6a",
-        "contentType": "STORY",
-        "title": "The AI arms race is eating into Big Tech's cash flow: Chart of the Day",
-        "description": "",
-        "summary": "The AI boom has made Big Tech richer, bigger, and suddenly much hungrier for cash.",
-        "pubDate": "2026-05-08T10:00:00Z",
-        "displayTime": "2026-05-08T10:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ukJtMPst.JrHjTFmCVJvpg--~B/aD0yNjM4O3c9Mzk1NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/6f163570-863c-491f-9fb9-035b439f55c4",
-          "originalWidth": 3957,
-          "originalHeight": 2638,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ukJtMPst.JrHjTFmCVJvpg--~B/aD0yNjM4O3c9Mzk1NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/6f163570-863c-491f-9fb9-035b439f55c4",
-              "width": 3957,
-              "height": 2638,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GypVFZeXNg3ZwIfxjgNVrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/6f163570-863c-491f-9fb9-035b439f55c4",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/the-ai-arms-race-is-eating-into-big-techs-cash-flow-chart-of-the-day-100000590.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/the-ai-arms-race-is-eating-into-big-techs-cash-flow-chart-of-the-day-100000590.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8d8adfce-faea-37f5-9c7b-d2f736f3fb62",
-      "content": {
-        "id": "8d8adfce-faea-37f5-9c7b-d2f736f3fb62",
-        "contentType": "STORY",
-        "title": "Tech Unemployment Ticks Up to 3.8% in April Amid AI-Driven Layoffs",
-        "description": "",
-        "summary": "The unemployment rate was unchanged at 4.3%.  Nike  will reduce its workforce by roughly 1,400 workers, or about 2%, mostly in its tech department, as it simplifies global operations.  Inflation and economic uncertainty linked to the Iran conflict is giving some chief executives and tech leaders reason to pull back or pause their IT hiring, said Janco Chief Executive  Victor Janulaitis.",
-        "pubDate": "2026-05-08T21:58:00Z",
-        "displayTime": "2026-05-08T21:58:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/8d8adfce-faea-37f5-9c7b-d2f736f3fb62/tech-unemployment-ticks-up-to.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/ab601d56a6a7eaa79ba0fdc895bff7dd",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vngl.01Mu9aYXOSGuo5llw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/ab601d56a6a7eaa79ba0fdc895bff7dd",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GSISwPmiW5K7MUG_lc09LQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ab601d56a6a7eaa79ba0fdc895bff7dd",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.wsj.com/cio-journal/tech-unemployment-ticks-up-to-3-8-in-april-amid-ai-driven-layoffs-214b0ca4?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ad55b0ae-ca00-390a-8d12-1e076c9eefb8",
-      "content": {
-        "id": "ad55b0ae-ca00-390a-8d12-1e076c9eefb8",
-        "contentType": "STORY",
-        "title": "In Rush to Buy CPUs, Intel Won’t Be the Only Winner",
-        "description": "",
-        "summary": "The rise of AI agents is swinging attention back to the main brain of data-center computing, the CPU.",
-        "pubDate": "2026-05-08T20:34:00Z",
-        "displayTime": "2026-05-08T20:34:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/ad55b0ae-ca00-390a-8d12-1e076c9eefb8/in-rush-to-buy-cpus-intel.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/9d0b15dfe9e3c88b8a85d729fcf6b284",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uXCGLDghPx3nmgQhkyCMDg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/9d0b15dfe9e3c88b8a85d729fcf6b284",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lCSGiPCHj.rUV_op1VxvUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/9d0b15dfe9e3c88b8a85d729fcf6b284",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/intel-stock-nvidia-ai-chips-1137af2c?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "cd265c61-fe54-3c83-b94a-ab6de8481b4a",
-      "content": {
-        "id": "cd265c61-fe54-3c83-b94a-ab6de8481b4a",
-        "contentType": "STORY",
-        "title": "Why Memory-Chip Stocks Are Top Of Mind For Investors",
-        "description": "",
-        "summary": "Memory-chip stocks rallied on Friday amid heightened spending on AI data centers. Micron stock and Sandisk both hit record highs.",
-        "pubDate": "2026-05-08T20:12:23Z",
-        "displayTime": "2026-05-08T20:12:23Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/cd265c61-fe54-3c83-b94a-ab6de8481b4a/why-memory-chip-stocks-are.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/236fda4d766ab4c7964ae0b3533cfb66",
-          "originalWidth": 1000,
-          "originalHeight": 563,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/eU3eUjLoxQFsZgGEDhMIfw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/236fda4d766ab4c7964ae0b3533cfb66",
-              "width": 1000,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zs.Her6TURqCWflFxVEyww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/236fda4d766ab4c7964ae0b3533cfb66",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.investors.com/news/technology/micron-stock-memory-chip-stocks-top-of-mind/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "798a194e-a936-318b-8188-ce92c46f264e",
-      "content": {
-        "id": "798a194e-a936-318b-8188-ce92c46f264e",
-        "contentType": "STORY",
-        "title": "Sector Update: Tech Stocks Gain Late Afternoon",
-        "description": "",
-        "summary": "Tech stocks were higher late Friday afternoon, with the State Street Technology Select Sector SPDR E",
-        "pubDate": "2026-05-08T19:54:53Z",
-        "displayTime": "2026-05-08T19:54:53Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-195453847.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-195453847.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ac014523-d0d7-33fc-bfb1-9cc2084edaf0",
-      "content": {
-        "id": "ac014523-d0d7-33fc-bfb1-9cc2084edaf0",
-        "contentType": "STORY",
-        "title": "Enbridge CEO says it's 'game on' for growth amid surging energy demand",
-        "description": "",
-        "summary": "'The best growth opportunities I have seen in 10 to 15 years,' says Greg Ebel",
-        "pubDate": "2026-05-08T19:48:21Z",
-        "displayTime": "2026-05-08T19:48:21Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/financial_post_articles_610/c4ea58b4447f2ef89bfafe3a6252d4a1",
-          "originalWidth": 1280,
-          "originalHeight": 960,
-          "caption": "1004 biz wire enbridge",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JnRj2iSil5qE2LQ7qwMysg--~B/aD05NjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/financial_post_articles_610/c4ea58b4447f2ef89bfafe3a6252d4a1",
-              "width": 1280,
-              "height": 960,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_XqxwzaVHyI2hqTXY_W3cQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/financial_post_articles_610/c4ea58b4447f2ef89bfafe3a6252d4a1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Financial Post",
-          "url": "https://financialpost.com/",
-          "sourceId": "financial_post_articles_610"
-        },
-        "canonicalUrl": {
-          "url": "https://financialpost.com/commodities/energy/oil-gas/enbridge-ceo-growth-surging-energy-demand",
-          "site": "finance",
-          "region": "CA",
-          "lang": "en-CA"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/enbridge-ceo-says-game-growth-194821934.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d222bebf-32a4-394d-a9e6-28329abef5e4",
-      "content": {
-        "id": "d222bebf-32a4-394d-a9e6-28329abef5e4",
-        "contentType": "STORY",
-        "title": "Update: Market Chatter: Apple, Meta Oppose Canadian Bill on Weakening Encryption",
-        "description": "",
-        "summary": "(Updates with Meta's statement in the fourth and fifth paragraphs.) Apple (AAPL) and Meta Platfor",
-        "pubDate": "2026-05-08T19:46:00Z",
-        "displayTime": "2026-05-08T19:46:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-apple-meta-oppose-194600204.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-apple-meta-oppose-194600204.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "618e1754-8848-37ef-baee-92e1ba92b3dc",
-      "content": {
-        "id": "618e1754-8848-37ef-baee-92e1ba92b3dc",
-        "contentType": "STORY",
-        "title": "Elizabeth Warren Wants Meta to Spill All on Stablecoin Plans Ahead of Clarity Act Votes",
-        "description": "",
-        "summary": "The Senate Democrat said Meta’s reported plans to partner with a third-party stablecoin issuer could undermine “competition, privacy… and financial stability.”",
-        "pubDate": "2026-05-08T19:38:44Z",
-        "displayTime": "2026-05-08T19:38:44Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/decrypt_157/ae7c33915466ef360377b00917d1eba4",
-          "originalWidth": 2560,
-          "originalHeight": 1440,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/eoPckEB.rvF99Ww4528sog--~B/aD0xNDQwO3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/decrypt_157/ae7c33915466ef360377b00917d1eba4",
-              "width": 2560,
-              "height": 1440,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4WAA0sZ9l6kyBk38njgv2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/ae7c33915466ef360377b00917d1eba4",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "decrypt",
-          "url": "https://decrypt.co/",
-          "sourceId": "decrypt_157"
-        },
-        "canonicalUrl": {
-          "url": "https://decrypt.co/367314/elizabeth-warren-meta-stablecoin-plans-clarity-act-votes",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/crypto/articles/elizabeth-warren-wants-meta-spill-193844697.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "3e1f6868-34e1-3776-9efe-836cf0fd72fb",
-      "content": {
-        "id": "3e1f6868-34e1-3776-9efe-836cf0fd72fb",
-        "contentType": "STORY",
-        "title": "Senator raises alarm over Meta's 'deeply troubling' crypto plans",
-        "description": "",
-        "summary": "Sen. Elizabeth Warren (D-Mass.) raised an alarm over Meta's (NASDAQ: META) upcoming stablecoin plans. In a letter to CEO Mark Zuckerberg on May 6, she demanded transparency over the company's plans to integrate a third-party stablecoin into its platform in the coming months. \"The lack of ...",
-        "pubDate": "2026-05-08T18:33:42Z",
-        "displayTime": "2026-05-08T18:33:42Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/9b5bcbb63edb4ace4a6e5a246ebff36e",
-          "originalWidth": 1536,
-          "originalHeight": 1040,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/V6s8B7Ci7NgqKgwu_xWdGw--~B/aD0xMDQwO3c9MTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/9b5bcbb63edb4ace4a6e5a246ebff36e",
-              "width": 1536,
-              "height": 1040,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/o_c29uav7Wb26r2gZxI8jA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9b5bcbb63edb4ace4a6e5a246ebff36e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/S0oVuXbAUrTVqph2zQO0LQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/943dcf1a8f5f34a214c71246b494fbb0",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2366,13 +1804,571 @@
           "sourceId": "thestreet_881"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/crypto/markets/senator-raises-alarm-over-metas-deeply-troubling-crypto-plans",
+          "url": "https://www.thestreet.com/technology/goldman-sachs-spots-a-troubling-big-tech-trend",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/crypto/articles/senator-raises-alarm-over-metas-183342325.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/goldman-sachs-spots-troubling-big-191300302.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ade9b792-96aa-3742-bd20-b613c876c045",
+      "content": {
+        "id": "ade9b792-96aa-3742-bd20-b613c876c045",
+        "contentType": "STORY",
+        "title": "Jim Cramer Says “I Wish I’d Bought Dell for My Charitable Trust a Hundred Points Ago”",
+        "description": "",
+        "summary": "Dell Technologies Inc. (NYSE:DELL) is one of the stocks Jim Cramer shared his thoughts on as he discussed Big Tech’s AI spending. Cramer mentioned the company during the episode and said: And look, it’s not just Meta. We all kick ourselves for missing out on winners that seem obvious in retrospect. I wish I’d bought […]",
+        "pubDate": "2026-05-09T18:47:51Z",
+        "displayTime": "2026-05-09T18:47:51Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/896fe714ab4458a81e2b3feb719665ee",
+          "originalWidth": 1920,
+          "originalHeight": 1280,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9W4D2iWoCPTnjYwy7iIgbQ--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/896fe714ab4458a81e2b3feb719665ee",
+              "width": 1920,
+              "height": 1280,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MEgEsREa6jHQRMhikvChWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/896fe714ab4458a81e2b3feb719665ee",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wish-d-184751465.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wish-d-184751465.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "da4f613a-bde6-3176-b058-3efc15a39b67",
+      "content": {
+        "id": "da4f613a-bde6-3176-b058-3efc15a39b67",
+        "contentType": "STORY",
+        "title": "Jim Cramer on Meta: “I Think It’s Time to Stop Worrying and Start Buying”",
+        "description": "",
+        "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the stocks Jim Cramer shared his thoughts on as he discussed Big Tech’s AI spending. Cramer highlighted the company’s growth, as he commented: This morning on Squawk on the Street, I said something I kind of want to take back. I was being smarmy about Meta Platforms, saying […]",
+        "pubDate": "2026-05-09T18:47:49Z",
+        "displayTime": "2026-05-09T18:47:49Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d",
+          "originalWidth": 1920,
+          "originalHeight": 1440,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/viIrbvBW19MWMVXKBlgCGw--~B/aD0xNDQwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d",
+              "width": 1920,
+              "height": 1440,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Zx5QkpRka04r5CYIQ43.xQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-meta-think-time-184749430.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-meta-think-time-184749430.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2d30bef0-2312-3be4-a12c-d3f0462d94f0",
+      "content": {
+        "id": "2d30bef0-2312-3be4-a12c-d3f0462d94f0",
+        "contentType": "STORY",
+        "title": "Apple dominated the 2026 chip war. Google’s partners are left to buy scraps",
+        "description": "",
+        "summary": "Apple (NASDAQ: AAPL) and Alphabet (NASDAQ: GOOGL) both just reported, and the contrast runs deeper than the headline numbers suggest. Apple posted its best March quarter ever. Alphabet delivered 63% Cloud growth. The real story sits one layer below: who controls the silicon underneath the next wave of AI hardware. Apple Locked the Foundry. Google ... Apple dominated the 2026 chip war. Google’s partners are left to buy scraps",
+        "pubDate": "2026-05-09T17:27:28Z",
+        "displayTime": "2026-05-09T17:27:28Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/e8a6ef1c2d3c81d88709da0f74bb4416",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_XhikDjoL3LDqb1wWL3OqA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/e8a6ef1c2d3c81d88709da0f74bb4416",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NJMpwt0AEYkw4GbvHDZrxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e8a6ef1c2d3c81d88709da0f74bb4416",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/09/apple-dominated-the-2026-chip-war-googles-partners-are-left-to-buy-scraps/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/apple-dominated-2026-chip-war-172728529.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "af96eea9-f42a-31e0-9180-a7c45e2de859",
+      "content": {
+        "id": "af96eea9-f42a-31e0-9180-a7c45e2de859",
+        "contentType": "STORY",
+        "title": "Micron Stock Is Up 700% Over the Past Year. Its Shares Still Look Relatively Cheap.",
+        "description": "",
+        "summary": "The memory company believes it's on the cusp of a multidecade growth cycle for artificial intelligence (AI) and robotics.",
+        "pubDate": "2026-05-09T14:20:00Z",
+        "displayTime": "2026-05-09T14:20:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/f4d3eb6a88f55dcdd8d346abdac0544b",
+          "originalWidth": 1199,
+          "originalHeight": 800,
+          "caption": "A person looking at a tablet.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/98S0VXfEtl8mD5TOjJW3zA--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f4d3eb6a88f55dcdd8d346abdac0544b",
+              "width": 1199,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3ZkVwXZCtmDuy4jJy6ccuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f4d3eb6a88f55dcdd8d346abdac0544b",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/05/09/micron-stock-is-up-700-over-the-past-year-its-shar/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-700-over-past-142000339.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "82e84a37-3aac-3921-a046-d089aa68043a",
+      "content": {
+        "id": "82e84a37-3aac-3921-a046-d089aa68043a",
+        "contentType": "STORY",
+        "title": "Virtuix Maps VR Growth Push as CEO Addresses Sharp Stock Slide",
+        "description": "",
+        "summary": "Virtuix (NASDAQ:VTIX) executives outlined the company’s consumer, enterprise and defense strategy during an investor webinar, while also addressing recent volatility in the company’s share price. Founder, CEO and Chairman Jan Goetgeluk said the stock’s recent decline was “gut-wrenching,” noting tha",
+        "pubDate": "2026-05-09T12:07:16Z",
+        "displayTime": "2026-05-09T12:07:16Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/c0b604f11a45f7f752d015665057eb22",
+          "originalWidth": 506,
+          "originalHeight": 337,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/G1nHVFggdc7YfXSxu9svdA--~B/aD0zMzc7dz01MDY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/c0b604f11a45f7f752d015665057eb22",
+              "width": 506,
+              "height": 337,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/4eeRmKG8FM6gBe2tYi5zTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/c0b604f11a45f7f752d015665057eb22",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "MarketBeat",
+          "url": "https://www.marketbeat.com/",
+          "sourceId": "marketbeat_955"
+        },
+        "canonicalUrl": {
+          "url": "https://www.marketbeat.com/instant-alerts/virtuix-maps-vr-growth-push-as-ceo-addresses-sharp-stock-slide-2026-05-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/virtuix-maps-vr-growth-push-120716202.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "29e0aba9-3a4d-3e1a-a9c0-f3c8590d6875",
+      "content": {
+        "id": "29e0aba9-3a4d-3e1a-a9c0-f3c8590d6875",
+        "contentType": "STORY",
+        "title": "Pentagon Boosts Meta-Backed Scale AI Contract To $500 Million Amid Military AI Push",
+        "description": "",
+        "summary": "The Pentagon's Chief Digital and Artificial Intelligence Office (CDAO) has awarded a major $500 million contract to Scale AI, a startup in which Meta Platforms holds a minority stake, to support data analysis and AI-driven decision-making. The award marks a...",
+        "pubDate": "2026-05-09T11:31:13Z",
+        "displayTime": "2026-05-09T11:31:13Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/5149d7c736000254c3cd94da7d3446db",
+          "originalWidth": 1024,
+          "originalHeight": 683,
+          "caption": "Pentagon Boosts Meta-Backed Scale AI Contract To $500 Million Amid Military AI Push",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mKaskrIi2Exh.ZXnkAv2qA--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/5149d7c736000254c3cd94da7d3446db",
+              "width": 1024,
+              "height": 683,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tRU1uOzAWwv2sxk9IHb7fg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/5149d7c736000254c3cd94da7d3446db",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/pentagon-boosts-meta-backed-scale-113113834.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/pentagon-boosts-meta-backed-scale-113113834.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bf4da216-0f62-36f8-b68d-d5ab16944bea",
+      "content": {
+        "id": "bf4da216-0f62-36f8-b68d-d5ab16944bea",
+        "contentType": "STORY",
+        "title": "NVIDIA: ‘The Party Is Going to End Soon’ According to CNBC",
+        "description": "",
+        "summary": "The Fast Money panel on CNBC zeroed in on the question every AI investor is asking: How much longer can NVIDIA (NASDAQ:NVDA) keep printing? One panelist captured the bear unease bluntly, saying investors can’t get past the worry that “the party is going to end soon.” The Bear Case: The Run Already Happened The skeptical ... NVIDIA: ‘The Party Is Going to End Soon’ According to CNBC",
+        "pubDate": "2026-05-09T11:30:55Z",
+        "displayTime": "2026-05-09T11:30:55Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/exVBUBnsikHWMEd.5bhCaw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ysh_JZNgD7xcdkzsPODAUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/09/nvidia-the-party-is-going-to-end-soon-according-to-cnbc/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-party-going-end-soon-113055294.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a4b50b99-9ba9-32b4-a669-3d16a339c2cd",
+      "content": {
+        "id": "a4b50b99-9ba9-32b4-a669-3d16a339c2cd",
+        "contentType": "STORY",
+        "title": "Missed April's AI Rally? These 3 Stocks Still Look Like Bargains.",
+        "description": "",
+        "summary": "Several megacaps are still well below their all-time highs.",
+        "pubDate": "2026-05-09T10:37:00Z",
+        "displayTime": "2026-05-09T10:37:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Investor looking at stock quotes.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1CFNcpgXL5S7zqM78h0Qsg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/hrDpM7JiNiDfm5X5fXWH2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/05/09/missed-aprils-ai-rally-these-3-stocks-still-look-l/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/missed-aprils-ai-rally-3-103700691.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7999bac1-6f67-3b86-a761-c93a7a0f7152",
+      "content": {
+        "id": "7999bac1-6f67-3b86-a761-c93a7a0f7152",
+        "contentType": "STORY",
+        "title": "Qualcomm’s CEO is working with ‘pretty much all’ major AI players on top-secret devices—and powering OpenAI’s first push into hardware",
+        "description": "",
+        "summary": "The phone is dying. Cristiano Amon knows what's replacing it—he just won't tell you yet.",
+        "pubDate": "2026-05-09T10:26:00Z",
+        "displayTime": "2026-05-09T10:26:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/fortune_175/bca9b03ad84979cf8af453409c313962",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "Cristiano Amon's pitch is that the smartphone-centric world Qualcomm helped build is coming to an end.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/BtwNOo9R1fVS6b7kODKQng--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/bca9b03ad84979cf8af453409c313962",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/s04yn26pbfzRYo4qBO2iyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/bca9b03ad84979cf8af453409c313962",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Fortune",
+          "url": "http://fortune.com/",
+          "sourceId": "fortune_175"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/qualcomm-ceo-working-pretty-much-102600275.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/qualcomm-ceo-working-pretty-much-102600275.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
