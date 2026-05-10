@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-09T22:36:29.268790",
+    "ts": "2026-05-10T22:39:46.026354",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -152,9 +152,9 @@
     "beta": 1.243,
     "trailingPE": 22.176428,
     "forwardPE": 16.847143,
-    "volume": 13287103,
-    "regularMarketVolume": 13287103,
-    "averageVolume": 15360411,
+    "volume": 13556963,
+    "regularMarketVolume": 13556963,
+    "averageVolume": 15440814,
     "averageVolume10days": 19564920,
     "averageDailyVolume10Day": 19564920,
     "bid": 609.61,
@@ -188,8 +188,8 @@
     "shortRatio": 1.48,
     "shortPercentOfFloat": 0.0121,
     "impliedSharesOutstanding": 2538423304,
-    "bookValue": 85.867,
-    "priceToBook": 7.099701,
+    "bookValue": 96.013,
+    "priceToBook": 6.3494525,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
@@ -240,6 +240,7 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
+    "marketState": "CLOSED",
     "corporateActions": [],
     "postMarketTime": 1778284791,
     "regularMarketTime": 1778270400,
@@ -250,23 +251,8 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "regularMarketChangePercent": -1.16405,
+    "regularMarketChangePercent": -1.1640525,
     "regularMarketPrice": 609.63,
-    "marketState": "CLOSED",
-    "postMarketChangePercent": -0.016399387,
-    "postMarketPrice": 609.53,
-    "postMarketChange": -0.099975586,
-    "regularMarketChange": -7.17999,
-    "regularMarketDayRange": "606.0601 - 616.77",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15360411,
-    "fiftyTwoWeekLowChange": 89.369995,
-    "fiftyTwoWeekLowChangePercent": 0.17177948,
-    "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -186.62,
-    "fiftyTwoWeekHighChangePercent": -0.23437361,
     "fiftyTwoWeekChangePercent": -4.6603975,
     "dividendDate": 1774483200,
     "earningsTimestamp": 1777492800,
@@ -287,11 +273,25 @@
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-09",
+    "nameChangeDate": "2026-05-10",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": -0.016399387,
+    "postMarketPrice": 609.53,
+    "postMarketChange": -0.099975586,
+    "regularMarketChange": -7.1799927,
+    "regularMarketDayRange": "606.0601 - 616.77",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 15440814,
+    "fiftyTwoWeekLowChange": 89.369995,
+    "fiftyTwoWeekLowChangePercent": 0.17177948,
+    "fiftyTwoWeekRange": "520.26 - 796.25",
+    "fiftyTwoWeekHighChange": -186.62,
+    "fiftyTwoWeekHighChangePercent": -0.23437361,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8893
   },
@@ -309,7 +309,7 @@
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.11,
+        "2025-06-30T00:00:00.000": 0.106993,
         "2025-03-31T00:00:00.000": 0.094549,
         "2024-12-31T00:00:00.000": null
       },
@@ -1766,32 +1766,156 @@
   },
   "news": [
     {
-      "id": "957423e0-94bc-3394-a8a5-d56703fb943b",
+      "id": "cb1c57e9-d7d0-4c95-a515-7d9c37d68d7f",
       "content": {
-        "id": "957423e0-94bc-3394-a8a5-d56703fb943b",
+        "id": "cb1c57e9-d7d0-4c95-a515-7d9c37d68d7f",
         "contentType": "STORY",
-        "title": "Goldman Sachs spots a troubling big tech trend",
+        "title": "Markets 'love chasing bottlenecks': Wall Street weighs epic run in AI stocks",
         "description": "",
-        "summary": "For years, investors in the biggest technology companies could count on one reliable outcome: the cash would come back to them. Profits piled up, balance sheets swelled, and buyback programs grew year after year, quietly supporting stock prices even when markets turned volatile. That dynamic is ...",
-        "pubDate": "2026-05-09T19:13:00Z",
-        "displayTime": "2026-05-09T19:13:00Z",
+        "summary": "Wall Street weighs the bottlenecks within the AI trade.",
+        "pubDate": "2026-05-10T10:42:48Z",
+        "displayTime": "2026-05-10T10:42:48Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/943dcf1a8f5f34a214c71246b494fbb0",
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/qrBTfDfY0Ojsa0bvA5nQcQ--~B/aD0zODU1O3c9NTc4MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/142672dc-17a3-4c44-af35-facdea1bc2ba",
+          "originalWidth": 5783,
+          "originalHeight": 3855,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/qrBTfDfY0Ojsa0bvA5nQcQ--~B/aD0zODU1O3c9NTc4MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/142672dc-17a3-4c44-af35-facdea1bc2ba",
+              "width": 5783,
+              "height": 3855,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/07q16QMEioyhgn1yXKeBzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/142672dc-17a3-4c44-af35-facdea1bc2ba",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/article/markets-love-chasing-bottlenecks-wall-street-weighs-epic-run-in-ai-stocks-104248168.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/article/markets-love-chasing-bottlenecks-wall-street-weighs-epic-run-in-ai-stocks-104248168.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c47c58e2-5472-4f50-a1da-9f3048d5f756",
+      "content": {
+        "id": "c47c58e2-5472-4f50-a1da-9f3048d5f756",
+        "contentType": "STORY",
+        "title": "The $1 trillion club's new members are powering the AI boom: Chart of the Day",
+        "description": "",
+        "summary": "Market royalty is getting a hardware makeover.",
+        "pubDate": "2026-05-10T10:42:34Z",
+        "displayTime": "2026-05-10T10:42:34Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/dbhxC2GeoQrFlWNwaaMu6A--~B/aD0yMDAxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/5fb915d9-faa7-4de5-9254-4b7b300fa4ab",
+          "originalWidth": 3000,
+          "originalHeight": 2001,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dbhxC2GeoQrFlWNwaaMu6A--~B/aD0yMDAxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/5fb915d9-faa7-4de5-9254-4b7b300fa4ab",
+              "width": 3000,
+              "height": 2001,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8A2Qu_hlfTXK5amnxpvyzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/5fb915d9-faa7-4de5-9254-4b7b300fa4ab",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "112a62e1-39a9-37ed-bd33-e436abac2b4e",
+      "content": {
+        "id": "112a62e1-39a9-37ed-bd33-e436abac2b4e",
+        "contentType": "STORY",
+        "title": "Goldman Sachs resets Broadcom stock forecast",
+        "description": "",
+        "summary": "Broadcom (AVGO) is a semiconductor giant with a vast product portfolio spanning wired infrastructure, wireless communications, enterprise storage, and industrial end markets. The company positioned itself as a major player in enterprise infrastructure software following its 2023 acquisition of ...",
+        "pubDate": "2026-05-10T18:33:00Z",
+        "displayTime": "2026-05-10T18:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/84e404aa189d657bf368a009568617fe",
           "originalWidth": 1200,
           "originalHeight": 675,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/U99KS3.uHq9hbFANum0Cqw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/943dcf1a8f5f34a214c71246b494fbb0",
+              "url": "https://s.yimg.com/uu/api/res/1.2/qh42i8z..ar96EnMfdjPEQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/84e404aa189d657bf368a009568617fe",
               "width": 1200,
               "height": 675,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/S0oVuXbAUrTVqph2zQO0LQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/943dcf1a8f5f34a214c71246b494fbb0",
+              "url": "https://s.yimg.com/uu/api/res/1.2/AYlUzvULHSFdMa8BCbU9dw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/84e404aa189d657bf368a009568617fe",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1804,13 +1928,13 @@
           "sourceId": "thestreet_881"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/technology/goldman-sachs-spots-a-troubling-big-tech-trend",
+          "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-reiterates-buy-rating-broadcom-stock",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/goldman-sachs-spots-troubling-big-191300302.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-resets-broadcom-stock-183300142.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1828,156 +1952,32 @@
       }
     },
     {
-      "id": "ade9b792-96aa-3742-bd20-b613c876c045",
+      "id": "e7ae9dc8-1b80-330b-8d03-63ae5a914dab",
       "content": {
-        "id": "ade9b792-96aa-3742-bd20-b613c876c045",
+        "id": "e7ae9dc8-1b80-330b-8d03-63ae5a914dab",
         "contentType": "STORY",
-        "title": "Jim Cramer Says “I Wish I’d Bought Dell for My Charitable Trust a Hundred Points Ago”",
+        "title": "The S&P 500 Just Did Something It’s Only Done 3 Times Before. Why Trump’s AI Rally Is in Danger",
         "description": "",
-        "summary": "Dell Technologies Inc. (NYSE:DELL) is one of the stocks Jim Cramer shared his thoughts on as he discussed Big Tech’s AI spending. Cramer mentioned the company during the episode and said: And look, it’s not just Meta. We all kick ourselves for missing out on winners that seem obvious in retrospect. I wish I’d bought […]",
-        "pubDate": "2026-05-09T18:47:51Z",
-        "displayTime": "2026-05-09T18:47:51Z",
+        "summary": "The stock market keeps climbing walls investors barely seem to notice anymore. The S&P 500 just hit another all-time high, extending a rally that has added nearly 50% since the tariff-driven panic low in April 2025. President Donald Trump’s tax cuts, deregulation push, and pro-business policies embedded in the One Big Beautiful Bill Act have ... The S&P 500 Just Did Something It’s Only Done 3 Times Before. Why Trump’s AI Rally Is in Danger",
+        "pubDate": "2026-05-10T18:03:25Z",
+        "displayTime": "2026-05-10T18:03:25Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/896fe714ab4458a81e2b3feb719665ee",
-          "originalWidth": 1920,
-          "originalHeight": 1280,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/d0d16415242544faeeb323be3ec44e09",
+          "originalWidth": 1500,
+          "originalHeight": 1000,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9W4D2iWoCPTnjYwy7iIgbQ--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/896fe714ab4458a81e2b3feb719665ee",
-              "width": 1920,
-              "height": 1280,
+              "url": "https://s.yimg.com/uu/api/res/1.2/OGwDCvnugDLI8Vmlr2QxlQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/d0d16415242544faeeb323be3ec44e09",
+              "width": 1500,
+              "height": 1000,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/MEgEsREa6jHQRMhikvChWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/896fe714ab4458a81e2b3feb719665ee",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wish-d-184751465.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wish-d-184751465.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "da4f613a-bde6-3176-b058-3efc15a39b67",
-      "content": {
-        "id": "da4f613a-bde6-3176-b058-3efc15a39b67",
-        "contentType": "STORY",
-        "title": "Jim Cramer on Meta: “I Think It’s Time to Stop Worrying and Start Buying”",
-        "description": "",
-        "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the stocks Jim Cramer shared his thoughts on as he discussed Big Tech’s AI spending. Cramer highlighted the company’s growth, as he commented: This morning on Squawk on the Street, I said something I kind of want to take back. I was being smarmy about Meta Platforms, saying […]",
-        "pubDate": "2026-05-09T18:47:49Z",
-        "displayTime": "2026-05-09T18:47:49Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d",
-          "originalWidth": 1920,
-          "originalHeight": 1440,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/viIrbvBW19MWMVXKBlgCGw--~B/aD0xNDQwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d",
-              "width": 1920,
-              "height": 1440,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Zx5QkpRka04r5CYIQ43.xQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-meta-think-time-184749430.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-meta-think-time-184749430.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2d30bef0-2312-3be4-a12c-d3f0462d94f0",
-      "content": {
-        "id": "2d30bef0-2312-3be4-a12c-d3f0462d94f0",
-        "contentType": "STORY",
-        "title": "Apple dominated the 2026 chip war. Google’s partners are left to buy scraps",
-        "description": "",
-        "summary": "Apple (NASDAQ: AAPL) and Alphabet (NASDAQ: GOOGL) both just reported, and the contrast runs deeper than the headline numbers suggest. Apple posted its best March quarter ever. Alphabet delivered 63% Cloud growth. The real story sits one layer below: who controls the silicon underneath the next wave of AI hardware. Apple Locked the Foundry. Google ... Apple dominated the 2026 chip war. Google’s partners are left to buy scraps",
-        "pubDate": "2026-05-09T17:27:28Z",
-        "displayTime": "2026-05-09T17:27:28Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/e8a6ef1c2d3c81d88709da0f74bb4416",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_XhikDjoL3LDqb1wWL3OqA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/e8a6ef1c2d3c81d88709da0f74bb4416",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NJMpwt0AEYkw4GbvHDZrxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e8a6ef1c2d3c81d88709da0f74bb4416",
+              "url": "https://s.yimg.com/uu/api/res/1.2/cLE2TdBCcsProbbXDARt_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d0d16415242544faeeb323be3ec44e09",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1990,13 +1990,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/09/apple-dominated-the-2026-chip-war-googles-partners-are-left-to-buy-scraps/",
+          "url": "https://247wallst.com/investing/2026/05/10/the-sp-500-just-did-something-its-only-done-3-times-before-why-trumps-ai-rally-is-in-danger/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/apple-dominated-2026-chip-war-172728529.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-just-did-something-180325357.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2014,342 +2014,32 @@
       }
     },
     {
-      "id": "af96eea9-f42a-31e0-9180-a7c45e2de859",
+      "id": "d4624282-028c-3751-b0b3-98a42b7322f6",
       "content": {
-        "id": "af96eea9-f42a-31e0-9180-a7c45e2de859",
+        "id": "d4624282-028c-3751-b0b3-98a42b7322f6",
         "contentType": "STORY",
-        "title": "Micron Stock Is Up 700% Over the Past Year. Its Shares Still Look Relatively Cheap.",
+        "title": "The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade—and it’s not all AI spending",
         "description": "",
-        "summary": "The memory company believes it's on the cusp of a multidecade growth cycle for artificial intelligence (AI) and robotics.",
-        "pubDate": "2026-05-09T14:20:00Z",
-        "displayTime": "2026-05-09T14:20:00Z",
+        "summary": "At the same time, AI capital spending, while overlapping with the energy transition somewhat, is also galloping ahead full speed.",
+        "pubDate": "2026-05-10T17:32:54Z",
+        "displayTime": "2026-05-10T17:32:54Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/f4d3eb6a88f55dcdd8d346abdac0544b",
-          "originalWidth": 1199,
-          "originalHeight": 800,
-          "caption": "A person looking at a tablet.",
+          "originalUrl": "https://media.zenfs.com/en/fortune_175/62ef43882138ca443c58919175ff5e3d",
+          "originalWidth": 2048,
+          "originalHeight": 1365,
+          "caption": "GE Vernova's 9HA gas turbine model is on display during the 7th China International Import Expo (CIIE) at the National Exhibition and Convention Center on November 8, 2024 in Shanghai, China.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/98S0VXfEtl8mD5TOjJW3zA--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f4d3eb6a88f55dcdd8d346abdac0544b",
-              "width": 1199,
-              "height": 800,
+              "url": "https://s.yimg.com/uu/api/res/1.2/RaaGJvbYBeVtDEoyGw8zAQ--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/62ef43882138ca443c58919175ff5e3d",
+              "width": 2048,
+              "height": 1365,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3ZkVwXZCtmDuy4jJy6ccuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f4d3eb6a88f55dcdd8d346abdac0544b",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/09/micron-stock-is-up-700-over-the-past-year-its-shar/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-700-over-past-142000339.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "82e84a37-3aac-3921-a046-d089aa68043a",
-      "content": {
-        "id": "82e84a37-3aac-3921-a046-d089aa68043a",
-        "contentType": "STORY",
-        "title": "Virtuix Maps VR Growth Push as CEO Addresses Sharp Stock Slide",
-        "description": "",
-        "summary": "Virtuix (NASDAQ:VTIX) executives outlined the company’s consumer, enterprise and defense strategy during an investor webinar, while also addressing recent volatility in the company’s share price. Founder, CEO and Chairman Jan Goetgeluk said the stock’s recent decline was “gut-wrenching,” noting tha",
-        "pubDate": "2026-05-09T12:07:16Z",
-        "displayTime": "2026-05-09T12:07:16Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/c0b604f11a45f7f752d015665057eb22",
-          "originalWidth": 506,
-          "originalHeight": 337,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/G1nHVFggdc7YfXSxu9svdA--~B/aD0zMzc7dz01MDY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/c0b604f11a45f7f752d015665057eb22",
-              "width": 506,
-              "height": 337,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4eeRmKG8FM6gBe2tYi5zTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/c0b604f11a45f7f752d015665057eb22",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "MarketBeat",
-          "url": "https://www.marketbeat.com/",
-          "sourceId": "marketbeat_955"
-        },
-        "canonicalUrl": {
-          "url": "https://www.marketbeat.com/instant-alerts/virtuix-maps-vr-growth-push-as-ceo-addresses-sharp-stock-slide-2026-05-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/virtuix-maps-vr-growth-push-120716202.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "29e0aba9-3a4d-3e1a-a9c0-f3c8590d6875",
-      "content": {
-        "id": "29e0aba9-3a4d-3e1a-a9c0-f3c8590d6875",
-        "contentType": "STORY",
-        "title": "Pentagon Boosts Meta-Backed Scale AI Contract To $500 Million Amid Military AI Push",
-        "description": "",
-        "summary": "The Pentagon's Chief Digital and Artificial Intelligence Office (CDAO) has awarded a major $500 million contract to Scale AI, a startup in which Meta Platforms holds a minority stake, to support data analysis and AI-driven decision-making. The award marks a...",
-        "pubDate": "2026-05-09T11:31:13Z",
-        "displayTime": "2026-05-09T11:31:13Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/5149d7c736000254c3cd94da7d3446db",
-          "originalWidth": 1024,
-          "originalHeight": 683,
-          "caption": "Pentagon Boosts Meta-Backed Scale AI Contract To $500 Million Amid Military AI Push",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mKaskrIi2Exh.ZXnkAv2qA--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/5149d7c736000254c3cd94da7d3446db",
-              "width": 1024,
-              "height": 683,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tRU1uOzAWwv2sxk9IHb7fg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/5149d7c736000254c3cd94da7d3446db",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/pentagon-boosts-meta-backed-scale-113113834.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/pentagon-boosts-meta-backed-scale-113113834.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "bf4da216-0f62-36f8-b68d-d5ab16944bea",
-      "content": {
-        "id": "bf4da216-0f62-36f8-b68d-d5ab16944bea",
-        "contentType": "STORY",
-        "title": "NVIDIA: ‘The Party Is Going to End Soon’ According to CNBC",
-        "description": "",
-        "summary": "The Fast Money panel on CNBC zeroed in on the question every AI investor is asking: How much longer can NVIDIA (NASDAQ:NVDA) keep printing? One panelist captured the bear unease bluntly, saying investors can’t get past the worry that “the party is going to end soon.” The Bear Case: The Run Already Happened The skeptical ... NVIDIA: ‘The Party Is Going to End Soon’ According to CNBC",
-        "pubDate": "2026-05-09T11:30:55Z",
-        "displayTime": "2026-05-09T11:30:55Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/exVBUBnsikHWMEd.5bhCaw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Ysh_JZNgD7xcdkzsPODAUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/09/nvidia-the-party-is-going-to-end-soon-according-to-cnbc/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-party-going-end-soon-113055294.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a4b50b99-9ba9-32b4-a669-3d16a339c2cd",
-      "content": {
-        "id": "a4b50b99-9ba9-32b4-a669-3d16a339c2cd",
-        "contentType": "STORY",
-        "title": "Missed April's AI Rally? These 3 Stocks Still Look Like Bargains.",
-        "description": "",
-        "summary": "Several megacaps are still well below their all-time highs.",
-        "pubDate": "2026-05-09T10:37:00Z",
-        "displayTime": "2026-05-09T10:37:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Investor looking at stock quotes.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1CFNcpgXL5S7zqM78h0Qsg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hrDpM7JiNiDfm5X5fXWH2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/09/missed-aprils-ai-rally-these-3-stocks-still-look-l/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/missed-aprils-ai-rally-3-103700691.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7999bac1-6f67-3b86-a761-c93a7a0f7152",
-      "content": {
-        "id": "7999bac1-6f67-3b86-a761-c93a7a0f7152",
-        "contentType": "STORY",
-        "title": "Qualcomm’s CEO is working with ‘pretty much all’ major AI players on top-secret devices—and powering OpenAI’s first push into hardware",
-        "description": "",
-        "summary": "The phone is dying. Cristiano Amon knows what's replacing it—he just won't tell you yet.",
-        "pubDate": "2026-05-09T10:26:00Z",
-        "displayTime": "2026-05-09T10:26:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/fortune_175/bca9b03ad84979cf8af453409c313962",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "caption": "Cristiano Amon's pitch is that the smartphone-centric world Qualcomm helped build is coming to an end.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BtwNOo9R1fVS6b7kODKQng--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/bca9b03ad84979cf8af453409c313962",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/s04yn26pbfzRYo4qBO2iyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/bca9b03ad84979cf8af453409c313962",
+              "url": "https://s.yimg.com/uu/api/res/1.2/QivFmOfQt5FSDrKx7MCMIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/62ef43882138ca443c58919175ff5e3d",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2362,13 +2052,304 @@
           "sourceId": "fortune_175"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/qualcomm-ceo-working-pretty-much-102600275.html",
+          "url": "https://finance.yahoo.com/economy/articles/global-economy-experiencing-largest-capex-173254033.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/qualcomm-ceo-working-pretty-much-102600275.html",
+          "url": "https://finance.yahoo.com/economy/articles/global-economy-experiencing-largest-capex-173254033.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9f36de68-abe5-3577-971e-910acf829558",
+      "content": {
+        "id": "9f36de68-abe5-3577-971e-910acf829558",
+        "contentType": "STORY",
+        "title": "NVIDIA’s Huang says AI will make intelligence a commodity for billions",
+        "description": "",
+        "summary": "Investing.com -- NVIDIA chief executive Jensen Huang said on Sunday that artificial intelligence will make intelligence itself a commodity accessible to anyone, from carpenters to shopkeepers, adding that the technology will reach billions of people who have never had access to computing power before.",
+        "pubDate": "2026-05-10T17:25:40Z",
+        "displayTime": "2026-05-10T17:25:40Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-huang-says-ai-intelligence-172540508.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-huang-says-ai-intelligence-172540508.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e822362f-2bbb-3d44-a3a6-7eb44179bcc0",
+      "content": {
+        "id": "e822362f-2bbb-3d44-a3a6-7eb44179bcc0",
+        "contentType": "STORY",
+        "title": "Is Meta Stock a Buy?",
+        "description": "",
+        "summary": "Meta has been ignored by the market in recent months.",
+        "pubDate": "2026-05-10T16:50:00Z",
+        "displayTime": "2026-05-10T16:50:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ac59b894a50a139484f173484b46dc82",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "A person smiles while looking at a tablet.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7rA5iN1tizXF96QB54f0nQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ac59b894a50a139484f173484b46dc82",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/E1ZmQMGCeSN_taiW3cbxnA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ac59b894a50a139484f173484b46dc82",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/05/10/is-meta-stock-a-buy/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-buy-165000026.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ba232de2-1dfa-3874-9929-2e078283b2d3",
+      "content": {
+        "id": "ba232de2-1dfa-3874-9929-2e078283b2d3",
+        "contentType": "STORY",
+        "title": "Prediction: AI Infrastructure Stocks Will Crush the S&P 500 in 2026",
+        "description": "",
+        "summary": "Some AI stocks are trading at very reasonable levels right now.",
+        "pubDate": "2026-05-10T16:35:00Z",
+        "displayTime": "2026-05-10T16:35:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a5caaa8f33589ea05016b7973b959343",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "An investor cheers while working at a laptop.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/srGYC5jkf3KszFi3Yp5fvQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a5caaa8f33589ea05016b7973b959343",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/aHy3psbzOVbjrxPaEhGtPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a5caaa8f33589ea05016b7973b959343",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/05/10/prediction-ai-infrastructure-stocks-will-crush-the/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/prediction-ai-infrastructure-stocks-crush-163500869.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a89c49a5-d4be-3851-9da6-65b968fbb4c8",
+      "content": {
+        "id": "a89c49a5-d4be-3851-9da6-65b968fbb4c8",
+        "contentType": "STORY",
+        "title": "Berkshire CEO has sobering message for tech stock investors",
+        "description": "",
+        "summary": "Berkshire Hathaway (BRK.A, BRK.B) CEO Greg Abel isn’t chasing the AI trade just because everyone else is. In his first annual meeting as Berkshire’s top honcho and Warren Buffett’s successor, he said that the company isn’t treating tech spending or tech stocks as a momentum game. That’s ...",
+        "pubDate": "2026-05-10T16:33:00Z",
+        "displayTime": "2026-05-10T16:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/d0d5b43028663cbc0a3f8025f25363e9",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/YJeI5o4lBdZK6IXKADVC4g--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/d0d5b43028663cbc0a3f8025f25363e9",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1xPY6kjm7lzP..HbTSR1bA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d0d5b43028663cbc0a3f8025f25363e9",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/berkshire-ceo-has-sobering-message-for-tech-stock-investors",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-ceo-sobering-message-tech-163300747.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a13a1ad0-169f-3bd8-b5ca-fc45611eca84",
+      "content": {
+        "id": "a13a1ad0-169f-3bd8-b5ca-fc45611eca84",
+        "contentType": "STORY",
+        "title": "Should You Buy CoreWeave (CRWV) on Post-Earnings Dip?",
+        "description": "",
+        "summary": "We just covered Cathie Wood’s 11 Biggest AI and Data Center Stock Picks. CoreWeave, Inc. (NASDAQ:CRWV) ranks #11 (see Cathie Wood’s 5 Biggest AI and Data Center Stock Picks). Cathie Wood’s Stake: $137,795,948 CoreWeave recently fell after the company issued weak quarterly outlook. However, long-term analysts believe its story remains intact. Wells Fargo kept its Overweight […]",
+        "pubDate": "2026-05-10T13:54:40Z",
+        "displayTime": "2026-05-10T13:54:40Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/1026e4e5a5f34083f0f4160101572196",
+          "originalWidth": 768,
+          "originalHeight": 512,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Yos0yBg_SI.CWh.r93lTsw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1026e4e5a5f34083f0f4160101572196",
+              "width": 768,
+              "height": 512,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZaOpEYdDyYuyk0Lobc9wKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1026e4e5a5f34083f0f4160101572196",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-coreweave-crwv-post-earnings-135440521.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-coreweave-crwv-post-earnings-135440521.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
