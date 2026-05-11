@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-10T22:39:46.026354",
+    "ts": "2026-05-11T22:48:20.498598",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,41 +137,41 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 616.81,
-    "open": 615.2,
-    "dayLow": 606.0601,
-    "dayHigh": 616.77,
-    "regularMarketPreviousClose": 616.81,
-    "regularMarketOpen": 615.2,
-    "regularMarketDayLow": 606.0601,
-    "regularMarketDayHigh": 616.77,
+    "previousClose": 609.63,
+    "open": 604.57,
+    "dayLow": 598.0801,
+    "dayHigh": 604.9069,
+    "regularMarketPreviousClose": 609.63,
+    "regularMarketOpen": 604.57,
+    "regularMarketDayLow": 598.0801,
+    "regularMarketDayHigh": 604.9069,
     "dividendRate": 2.1,
     "dividendYield": 0.34,
     "exDividendDate": 1773619200,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 22.176428,
-    "forwardPE": 16.847143,
-    "volume": 13556963,
-    "regularMarketVolume": 13556963,
-    "averageVolume": 15440814,
+    "trailingPE": 21.784649,
+    "forwardPE": 16.549513,
+    "volume": 14880586,
+    "regularMarketVolume": 14880586,
+    "averageVolume": 15459431,
     "averageVolume10days": 19564920,
     "averageDailyVolume10Day": 19564920,
-    "bid": 609.61,
-    "ask": 609.76,
-    "bidSize": 1,
-    "askSize": 3,
-    "marketCap": 1547498946560,
+    "bid": 597.19,
+    "ask": 603.88,
+    "bidSize": 15,
+    "askSize": 1,
+    "marketCap": 1520160079872,
     "nonDilutedMarketCap": 1547498998817,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.1989083,
+    "priceToSalesTrailing12Months": 7.071729,
     "fiftyDayAverage": 626.5502,
     "twoHundredDayAverage": 675.8691,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0034046138,
+    "trailingAnnualDividendYield": 0.0034447121,
     "currency": "USD",
     "tradeable": false,
     "enterpriseValue": 1553087987712,
@@ -189,7 +189,7 @@
     "shortPercentOfFloat": 0.0121,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.3494525,
+    "priceToBook": 6.2372804,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
@@ -205,7 +205,7 @@
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
-    "currentPrice": 609.63,
+    "currentPrice": 598.86,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 614.0,
     "targetMeanPrice": 826.69104,
@@ -240,10 +240,9 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "CLOSED",
     "corporateActions": [],
-    "postMarketTime": 1778284791,
-    "regularMarketTime": 1778270400,
+    "postMarketTime": 1778539696,
+    "regularMarketTime": 1778529601,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -251,8 +250,23 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -1.1640525,
-    "regularMarketPrice": 609.63,
+    "regularMarketChangePercent": -1.7666485,
+    "regularMarketPrice": 598.86,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "cryptoTradeable": false,
+    "postMarketChangePercent": 0.084327705,
+    "postMarketPrice": 599.365,
+    "postMarketChange": 0.5050049,
+    "regularMarketChange": -10.77002,
+    "regularMarketDayRange": "598.0801 - 604.9069",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 15459431,
+    "fiftyTwoWeekLowChange": 78.599976,
+    "fiftyTwoWeekLowChangePercent": 0.15107825,
+    "fiftyTwoWeekRange": "520.26 - 796.25",
+    "fiftyTwoWeekHighChange": -197.39001,
+    "fiftyTwoWeekHighChangePercent": -0.24789955,
     "fiftyTwoWeekChangePercent": -4.6603975,
     "dividendDate": 1774483200,
     "earningsTimestamp": 1777492800,
@@ -264,34 +278,20 @@
     "epsTrailingTwelveMonths": 27.49,
     "epsForward": 36.18596,
     "epsCurrentYear": 32.01814,
-    "priceEpsCurrentYear": 19.040146,
-    "fiftyDayAverageChange": -16.920166,
-    "fiftyDayAverageChangePercent": -0.027005285,
-    "twoHundredDayAverageChange": -66.239075,
-    "twoHundredDayAverageChangePercent": -0.09800578,
+    "priceEpsCurrentYear": 18.703772,
+    "fiftyDayAverageChange": -27.690186,
+    "fiftyDayAverageChangePercent": -0.044194683,
+    "twoHundredDayAverageChange": -77.009094,
+    "twoHundredDayAverageChangePercent": -0.11394084,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-10",
+    "nameChangeDate": "2026-05-11",
     "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.016399387,
-    "postMarketPrice": 609.53,
-    "postMarketChange": -0.099975586,
-    "regularMarketChange": -7.1799927,
-    "regularMarketDayRange": "606.0601 - 616.77",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15440814,
-    "fiftyTwoWeekLowChange": 89.369995,
-    "fiftyTwoWeekLowChangePercent": 0.17177948,
-    "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -186.62,
-    "fiftyTwoWeekHighChangePercent": -0.23437361,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
+    "marketState": "POST",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8893
   },
@@ -1766,32 +1766,32 @@
   },
   "news": [
     {
-      "id": "cb1c57e9-d7d0-4c95-a515-7d9c37d68d7f",
+      "id": "2602d022-020b-421d-b2bf-27b04802624d",
       "content": {
-        "id": "cb1c57e9-d7d0-4c95-a515-7d9c37d68d7f",
+        "id": "2602d022-020b-421d-b2bf-27b04802624d",
         "contentType": "STORY",
-        "title": "Markets 'love chasing bottlenecks': Wall Street weighs epic run in AI stocks",
+        "title": "By the numbers: Corporate profits haven't been this smoking hot in years",
         "description": "",
-        "summary": "Wall Street weighs the bottlenecks within the AI trade.",
-        "pubDate": "2026-05-10T10:42:48Z",
-        "displayTime": "2026-05-10T10:42:48Z",
+        "summary": "It has been a wow earnings season.",
+        "pubDate": "2026-05-11T17:52:43Z",
+        "displayTime": "2026-05-11T17:52:43Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/qrBTfDfY0Ojsa0bvA5nQcQ--~B/aD0zODU1O3c9NTc4MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/142672dc-17a3-4c44-af35-facdea1bc2ba",
-          "originalWidth": 5783,
-          "originalHeight": 3855,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Sq2Nvi9cYcveYvU7s8JbtQ--~B/aD0yMTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a2062be7-19a9-447f-bc10-76ade96be67c_b8c1f1fce27d1511625daa90d7ca3f552f25e61a2e979937d1dc890efa792ed1.net/images/2026-05/a2062be7-19a9-447f-bc10-76ade96be67c",
+          "originalWidth": 3840,
+          "originalHeight": 2160,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/qrBTfDfY0Ojsa0bvA5nQcQ--~B/aD0zODU1O3c9NTc4MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/142672dc-17a3-4c44-af35-facdea1bc2ba",
-              "width": 5783,
-              "height": 3855,
+              "url": "https://s.yimg.com/uu/api/res/1.2/Sq2Nvi9cYcveYvU7s8JbtQ--~B/aD0yMTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a2062be7-19a9-447f-bc10-76ade96be67c_b8c1f1fce27d1511625daa90d7ca3f552f25e61a2e979937d1dc890efa792ed1.net/images/2026-05/a2062be7-19a9-447f-bc10-76ade96be67c",
+              "width": 3840,
+              "height": 2160,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/07q16QMEioyhgn1yXKeBzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/142672dc-17a3-4c44-af35-facdea1bc2ba",
+              "url": "https://s.yimg.com/uu/api/res/1.2/mhmBfmFIUmDOiaD.zeVF2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a2062be7-19a9-447f-bc10-76ade96be67c_b8c1f1fce27d1511625daa90d7ca3f552f25e61a2e979937d1dc890efa792ed1.net/images/2026-05/a2062be7-19a9-447f-bc10-76ade96be67c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1804,13 +1804,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/markets-love-chasing-bottlenecks-wall-street-weighs-epic-run-in-ai-stocks-104248168.html",
+          "url": "https://finance.yahoo.com/news/by-the-numbers-corporate-profits-havent-been-this-smoking-hot-in-years-175243661.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/markets-love-chasing-bottlenecks-wall-street-weighs-epic-run-in-ai-stocks-104248168.html",
+          "url": "https://finance.yahoo.com/news/by-the-numbers-corporate-profits-havent-been-this-smoking-hot-in-years-175243661.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1824,284 +1824,93 @@
             "isPremiumFreeNews": false
           }
         },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c47c58e2-5472-4f50-a1da-9f3048d5f756",
-      "content": {
-        "id": "c47c58e2-5472-4f50-a1da-9f3048d5f756",
-        "contentType": "STORY",
-        "title": "The $1 trillion club's new members are powering the AI boom: Chart of the Day",
-        "description": "",
-        "summary": "Market royalty is getting a hardware makeover.",
-        "pubDate": "2026-05-10T10:42:34Z",
-        "displayTime": "2026-05-10T10:42:34Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/dbhxC2GeoQrFlWNwaaMu6A--~B/aD0yMDAxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/5fb915d9-faa7-4de5-9254-4b7b300fa4ab",
-          "originalWidth": 3000,
-          "originalHeight": 2001,
-          "caption": "",
-          "resolutions": [
+        "storyline": {
+          "storylineItems": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dbhxC2GeoQrFlWNwaaMu6A--~B/aD0yMDAxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/5fb915d9-faa7-4de5-9254-4b7b300fa4ab",
-              "width": 3000,
-              "height": 2001,
-              "tag": "original"
+              "content": {
+                "id": "fc7a2013-b3f8-44fe-b1a1-b88e0a8714be",
+                "contentType": "STORY",
+                "isHosted": true,
+                "title": "Circle CEO says AI-fueled layoffs are only the tip of the iceberg",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-08/21651d90-7771-11f0-a7b3-236b4ac9928f",
+                  "originalWidth": 6654,
+                  "originalHeight": 4436,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance",
+                  "sourceId": "yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/circle-ceo-says-ai-fueled-layoffs-are-only-the-tip-of-the-iceberg-174500668.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/circle-ceo-says-ai-fueled-layoffs-are-only-the-tip-of-the-iceberg-174500668.html"
+                }
+              }
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8A2Qu_hlfTXK5amnxpvyzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/5fb915d9-faa7-4de5-9254-4b7b300fa4ab",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
+              "content": {
+                "id": "c47c58e2-5472-4f50-a1da-9f3048d5f756",
+                "contentType": "STORY",
+                "isHosted": true,
+                "title": "The $1 trillion club's new members are powering the AI boom: Chart of the Day",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/dbhxC2GeoQrFlWNwaaMu6A--~B/aD0yMDAxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/5fb915d9-faa7-4de5-9254-4b7b300fa4ab",
+                  "originalWidth": 3000,
+                  "originalHeight": 2001,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance",
+                  "sourceId": "yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html"
+                }
+              }
             }
           ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
+        }
       }
     },
     {
-      "id": "112a62e1-39a9-37ed-bd33-e436abac2b4e",
+      "id": "058c31d7-a323-3ca4-bca0-c174bd2aac5a",
       "content": {
-        "id": "112a62e1-39a9-37ed-bd33-e436abac2b4e",
+        "id": "058c31d7-a323-3ca4-bca0-c174bd2aac5a",
         "contentType": "STORY",
-        "title": "Goldman Sachs resets Broadcom stock forecast",
+        "title": "Update: Market Chatter: Meta Platforms Sued by California County Over Alleged Scam Ad Profits",
         "description": "",
-        "summary": "Broadcom (AVGO) is a semiconductor giant with a vast product portfolio spanning wired infrastructure, wireless communications, enterprise storage, and industrial end markets. The company positioned itself as a major player in enterprise infrastructure software following its 2023 acquisition of ...",
-        "pubDate": "2026-05-10T18:33:00Z",
-        "displayTime": "2026-05-10T18:33:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/84e404aa189d657bf368a009568617fe",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/qh42i8z..ar96EnMfdjPEQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/84e404aa189d657bf368a009568617fe",
-              "width": 1200,
-              "height": 675,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AYlUzvULHSFdMa8BCbU9dw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/84e404aa189d657bf368a009568617fe",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-reiterates-buy-rating-broadcom-stock",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-resets-broadcom-stock-183300142.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e7ae9dc8-1b80-330b-8d03-63ae5a914dab",
-      "content": {
-        "id": "e7ae9dc8-1b80-330b-8d03-63ae5a914dab",
-        "contentType": "STORY",
-        "title": "The S&P 500 Just Did Something It’s Only Done 3 Times Before. Why Trump’s AI Rally Is in Danger",
-        "description": "",
-        "summary": "The stock market keeps climbing walls investors barely seem to notice anymore. The S&P 500 just hit another all-time high, extending a rally that has added nearly 50% since the tariff-driven panic low in April 2025. President Donald Trump’s tax cuts, deregulation push, and pro-business policies embedded in the One Big Beautiful Bill Act have ... The S&P 500 Just Did Something It’s Only Done 3 Times Before. Why Trump’s AI Rally Is in Danger",
-        "pubDate": "2026-05-10T18:03:25Z",
-        "displayTime": "2026-05-10T18:03:25Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/d0d16415242544faeeb323be3ec44e09",
-          "originalWidth": 1500,
-          "originalHeight": 1000,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OGwDCvnugDLI8Vmlr2QxlQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/d0d16415242544faeeb323be3ec44e09",
-              "width": 1500,
-              "height": 1000,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/cLE2TdBCcsProbbXDARt_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d0d16415242544faeeb323be3ec44e09",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/10/the-sp-500-just-did-something-its-only-done-3-times-before-why-trumps-ai-rally-is-in-danger/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-just-did-something-180325357.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d4624282-028c-3751-b0b3-98a42b7322f6",
-      "content": {
-        "id": "d4624282-028c-3751-b0b3-98a42b7322f6",
-        "contentType": "STORY",
-        "title": "The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade—and it’s not all AI spending",
-        "description": "",
-        "summary": "At the same time, AI capital spending, while overlapping with the energy transition somewhat, is also galloping ahead full speed.",
-        "pubDate": "2026-05-10T17:32:54Z",
-        "displayTime": "2026-05-10T17:32:54Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/fortune_175/62ef43882138ca443c58919175ff5e3d",
-          "originalWidth": 2048,
-          "originalHeight": 1365,
-          "caption": "GE Vernova's 9HA gas turbine model is on display during the 7th China International Import Expo (CIIE) at the National Exhibition and Convention Center on November 8, 2024 in Shanghai, China.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/RaaGJvbYBeVtDEoyGw8zAQ--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/62ef43882138ca443c58919175ff5e3d",
-              "width": 2048,
-              "height": 1365,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QivFmOfQt5FSDrKx7MCMIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/62ef43882138ca443c58919175ff5e3d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Fortune",
-          "url": "http://fortune.com/",
-          "sourceId": "fortune_175"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/economy/articles/global-economy-experiencing-largest-capex-173254033.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/articles/global-economy-experiencing-largest-capex-173254033.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9f36de68-abe5-3577-971e-910acf829558",
-      "content": {
-        "id": "9f36de68-abe5-3577-971e-910acf829558",
-        "contentType": "STORY",
-        "title": "NVIDIA’s Huang says AI will make intelligence a commodity for billions",
-        "description": "",
-        "summary": "Investing.com -- NVIDIA chief executive Jensen Huang said on Sunday that artificial intelligence will make intelligence itself a commodity accessible to anyone, from carpenters to shopkeepers, adding that the technology will reach billions of people who have never had access to computing power before.",
-        "pubDate": "2026-05-10T17:25:40Z",
-        "displayTime": "2026-05-10T17:25:40Z",
+        "summary": "(Updates with Meta's comment in 3rd to 5th paragraph) Meta Platforms (META) is being sued by Sant",
+        "pubDate": "2026-05-11T21:38:47Z",
+        "displayTime": "2026-05-11T21:38:47Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": null,
         "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-huang-says-ai-intelligence-172540508.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-sued-213847915.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-huang-says-ai-intelligence-172540508.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-sued-213847915.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2111,7 +1920,7 @@
         },
         "finance": {
           "premiumFinance": {
-            "isPremiumNews": false,
+            "isPremiumNews": true,
             "isPremiumFreeNews": false
           }
         },
@@ -2119,51 +1928,32 @@
       }
     },
     {
-      "id": "e822362f-2bbb-3d44-a3a6-7eb44179bcc0",
+      "id": "a77d01a9-7091-3288-8fda-683a1f3db285",
       "content": {
-        "id": "e822362f-2bbb-3d44-a3a6-7eb44179bcc0",
+        "id": "a77d01a9-7091-3288-8fda-683a1f3db285",
         "contentType": "STORY",
-        "title": "Is Meta Stock a Buy?",
+        "title": "Nvidia bull unveils bold new AI trade Wall Street hasn't named yet",
         "description": "",
-        "summary": "Meta has been ignored by the market in recent months.",
-        "pubDate": "2026-05-10T16:50:00Z",
-        "displayTime": "2026-05-10T16:50:00Z",
+        "summary": "Nvidia super bull spots mysterious new AI trend after 80x call",
+        "pubDate": "2026-05-11T21:26:14Z",
+        "displayTime": "2026-05-11T21:26:14Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ac59b894a50a139484f173484b46dc82",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "A person smiles while looking at a tablet.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/7rA5iN1tizXF96QB54f0nQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ac59b894a50a139484f173484b46dc82",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/E1ZmQMGCeSN_taiW3cbxnA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ac59b894a50a139484f173484b46dc82",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
+        "thumbnail": null,
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/10/is-meta-stock-a-buy/",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-bull-unveils-bold-ai-212614732.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-buy-165000026.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-bull-unveils-bold-ai-212614732.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2181,51 +1971,32 @@
       }
     },
     {
-      "id": "ba232de2-1dfa-3874-9929-2e078283b2d3",
+      "id": "2cba985f-67c2-36df-967a-81a2436d5a4d",
       "content": {
-        "id": "ba232de2-1dfa-3874-9929-2e078283b2d3",
+        "id": "2cba985f-67c2-36df-967a-81a2436d5a4d",
         "contentType": "STORY",
-        "title": "Prediction: AI Infrastructure Stocks Will Crush the S&P 500 in 2026",
+        "title": "Sector Update: Tech Stocks Rise Late Afternoon",
         "description": "",
-        "summary": "Some AI stocks are trading at very reasonable levels right now.",
-        "pubDate": "2026-05-10T16:35:00Z",
-        "displayTime": "2026-05-10T16:35:00Z",
+        "summary": "Tech stocks were higher late Monday afternoon, with the State Street Technology Select Sector SPDR E",
+        "pubDate": "2026-05-11T19:53:54Z",
+        "displayTime": "2026-05-11T19:53:54Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a5caaa8f33589ea05016b7973b959343",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "An investor cheers while working at a laptop.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/srGYC5jkf3KszFi3Yp5fvQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a5caaa8f33589ea05016b7973b959343",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aHy3psbzOVbjrxPaEhGtPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a5caaa8f33589ea05016b7973b959343",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
+        "thumbnail": null,
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/10/prediction-ai-infrastructure-stocks-will-crush-the/",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-195354616.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/prediction-ai-infrastructure-stocks-crush-163500869.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-195354616.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2235,7 +2006,7 @@
         },
         "finance": {
           "premiumFinance": {
-            "isPremiumNews": false,
+            "isPremiumNews": true,
             "isPremiumFreeNews": false
           }
         },
@@ -2243,32 +2014,32 @@
       }
     },
     {
-      "id": "a89c49a5-d4be-3851-9da6-65b968fbb4c8",
+      "id": "a065f4d2-a736-3aa9-9330-67d97e1155c6",
       "content": {
-        "id": "a89c49a5-d4be-3851-9da6-65b968fbb4c8",
+        "id": "a065f4d2-a736-3aa9-9330-67d97e1155c6",
         "contentType": "STORY",
-        "title": "Berkshire CEO has sobering message for tech stock investors",
+        "title": "Tech Dominates; Nvidia’s Market Value Exceeds Entire Healthcare Sector of S&P 500",
         "description": "",
-        "summary": "Berkshire Hathaway (BRK.A, BRK.B) CEO Greg Abel isn’t chasing the AI trade just because everyone else is. In his first annual meeting as Berkshire’s top honcho and Warren Buffett’s successor, he said that the company isn’t treating tech spending or tech stocks as a momentum game. That’s ...",
-        "pubDate": "2026-05-10T16:33:00Z",
-        "displayTime": "2026-05-10T16:33:00Z",
-        "isHosted": true,
+        "summary": "The tech sector has a record-high market cap of over $23 trillion, a 37% weighting in the S&P 500, the largest percentage ever.",
+        "pubDate": "2026-05-11T19:44:00Z",
+        "displayTime": "2026-05-11T19:44:00Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/a065f4d2-a736-3aa9-9330-67d97e1155c6/tech-dominates-nvidia%E2%80%99s.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/d0d5b43028663cbc0a3f8025f25363e9",
-          "originalWidth": 1200,
-          "originalHeight": 675,
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/ba70bde3b64a0e025759309117396369",
+          "originalWidth": 1280,
+          "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YJeI5o4lBdZK6IXKADVC4g--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/d0d5b43028663cbc0a3f8025f25363e9",
-              "width": 1200,
-              "height": 675,
+              "url": "https://s.yimg.com/uu/api/res/1.2/EJQGXHtyMcU58r9PVMjiCg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ba70bde3b64a0e025759309117396369",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1xPY6kjm7lzP..HbTSR1bA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d0d5b43028663cbc0a3f8025f25363e9",
+              "url": "https://s.yimg.com/uu/api/res/1.2/VPmoP3uPvmB56gh6HEE.JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/ba70bde3b64a0e025759309117396369",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2276,18 +2047,75 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/berkshire-ceo-has-sobering-message-for-tech-stock-investors",
+          "url": "https://www.barrons.com/articles/nvidia-tech-healthcare-stocks-9055406a?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "111e10ac-0c67-35bc-855f-6162b20523d7",
+      "content": {
+        "id": "111e10ac-0c67-35bc-855f-6162b20523d7",
+        "contentType": "STORY",
+        "title": "Musk, Cook Expected to Join Trump For Xi Summit in China",
+        "description": "",
+        "summary": "(Bloomberg) -- The White House is inviting Tesla Inc.’s Elon Musk, Apple Inc.’s Tim Cook, Boeing Co.’s Kelly Ortberg and executives from other large companies to accompany President Donald Trump on his trip to China this week, according to an official. Most Read from BloombergIran Makes New Offer on Uranium in Response to US, WSJ SaysInside a Year of Chaos and Conflict at Kevin Hart’s Media CompanyTrump Rejects New Iran Peace Offer as ‘Totally Unacceptable’Modi Asks Indians to Stop Buying Gold,",
+        "pubDate": "2026-05-11T19:34:30Z",
+        "displayTime": "2026-05-11T19:34:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/6a7303dc6f6c5f75080f2ff0b70b3c33",
+          "originalWidth": 2000,
+          "originalHeight": 1333,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ObO_l0a3Ij0krqT_BFEzJg--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/6a7303dc6f6c5f75080f2ff0b70b3c33",
+              "width": 2000,
+              "height": 1333,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/c_rPQR7HO6_kuTddEsr8QQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/6a7303dc6f6c5f75080f2ff0b70b3c33",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/musk-cook-set-join-trump-164927621.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-ceo-sobering-message-tech-163300747.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/musk-cook-set-join-trump-164927621.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2305,32 +2133,75 @@
       }
     },
     {
-      "id": "a13a1ad0-169f-3bd8-b5ca-fc45611eca84",
+      "id": "bd024bfd-66f0-3300-902d-7fcfe427d6aa",
       "content": {
-        "id": "a13a1ad0-169f-3bd8-b5ca-fc45611eca84",
+        "id": "bd024bfd-66f0-3300-902d-7fcfe427d6aa",
         "contentType": "STORY",
-        "title": "Should You Buy CoreWeave (CRWV) on Post-Earnings Dip?",
+        "title": "Meta Sued by California County Over ‘Scam’ Advertisements",
         "description": "",
-        "summary": "We just covered Cathie Wood’s 11 Biggest AI and Data Center Stock Picks. CoreWeave, Inc. (NASDAQ:CRWV) ranks #11 (see Cathie Wood’s 5 Biggest AI and Data Center Stock Picks). Cathie Wood’s Stake: $137,795,948 CoreWeave recently fell after the company issued weak quarterly outlook. However, long-term analysts believe its story remains intact. Wells Fargo kept its Overweight […]",
-        "pubDate": "2026-05-10T13:54:40Z",
-        "displayTime": "2026-05-10T13:54:40Z",
+        "summary": "(Bloomberg) -- Meta Platforms Inc. was sued by Santa Clara County, California, over allegations that the company “knowingly facilitates and profits from billions of scam advertisements” on its social networks, including Facebook and Instagram. Most Read from BloombergIran Makes New Offer on Uranium in Response to US, WSJ SaysInside a Year of Chaos and Conflict at Kevin Hart’s Media CompanyTrump Rejects New Iran Peace Offer as ‘Totally Unacceptable’Modi Asks Indians to Stop Buying Gold, Hitting J",
+        "pubDate": "2026-05-11T19:24:46Z",
+        "displayTime": "2026-05-11T19:24:46Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-sued-california-county-over-173859019.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-sued-california-county-over-173859019.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7e0c1a29-4cb1-300e-a459-f50a242dea7e",
+      "content": {
+        "id": "7e0c1a29-4cb1-300e-a459-f50a242dea7e",
+        "contentType": "STORY",
+        "title": "Big Tech Keeps Piling On AI Debt. Spending Is Set to Soar.",
+        "description": "",
+        "summary": "Gone are the days when operating cash flow could cover the bills. 2026 is shaping up to be a milestone year.",
+        "pubDate": "2026-05-11T19:07:00Z",
+        "displayTime": "2026-05-11T19:07:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/7e0c1a29-4cb1-300e-a459-f50a242dea7e/big-tech-keeps-piling-on-ai.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/1026e4e5a5f34083f0f4160101572196",
-          "originalWidth": 768,
-          "originalHeight": 512,
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/7cbf37a41f463c63fb27886a0c5a6536",
+          "originalWidth": 1280,
+          "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Yos0yBg_SI.CWh.r93lTsw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1026e4e5a5f34083f0f4160101572196",
-              "width": 768,
-              "height": 512,
+              "url": "https://s.yimg.com/uu/api/res/1.2/8ayNcKiqS32gZeX53tRJvw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7cbf37a41f463c63fb27886a0c5a6536",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZaOpEYdDyYuyk0Lobc9wKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1026e4e5a5f34083f0f4160101572196",
+              "url": "https://s.yimg.com/uu/api/res/1.2/lFG4xdckmKR9e6rnTGoigA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/7cbf37a41f463c63fb27886a0c5a6536",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2338,22 +2209,136 @@
           ]
         },
         "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-coreweave-crwv-post-earnings-135440521.html",
+          "url": "https://www.barrons.com/articles/ai-debt-big-tech-bonds-da5291dc?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "206eecc6-6626-3c78-ae1e-af42c7362b39",
+      "content": {
+        "id": "206eecc6-6626-3c78-ae1e-af42c7362b39",
+        "contentType": "STORY",
+        "title": "Nearly 40% of Trump’s China CEO Delegation Have Crypto Ties",
+        "description": "",
+        "summary": "Trump heads to Beijing with Musk, Cook, and Fink leading a 17-CEO delegation, where roughly 40% have crypto ties.",
+        "pubDate": "2026-05-11T18:50:51Z",
+        "displayTime": "2026-05-11T18:50:51Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/536067739ab67f56dc4931c8a7038b18",
+          "originalWidth": 5120,
+          "originalHeight": 2880,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ExlzxBXYkmZCtpnFr9I7iA--~B/aD0yODgwO3c9NTEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/536067739ab67f56dc4931c8a7038b18",
+              "width": 5120,
+              "height": 2880,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6S3cvBgAbE_amw7rLAc0Jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/536067739ab67f56dc4931c8a7038b18",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/",
+          "sourceId": "beincrypto_us_662"
+        },
+        "canonicalUrl": {
+          "url": "https://beincrypto.com/trump-china-ceo-delegation-crypto/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-coreweave-crwv-post-earnings-135440521.html",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/nearly-40-trump-china-ceo-185051821.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "964ea30d-37c8-3204-9790-488b99f1adf9",
+      "content": {
+        "id": "964ea30d-37c8-3204-9790-488b99f1adf9",
+        "contentType": "STORY",
+        "title": "Who’s Traveling to China With Trump in the U.S. Business Delegation?",
+        "description": "",
+        "summary": "More than a dozen top U.S. business leaders will travel to China for President Trump’s visit this week with Chinese President Xi Jinping, representing various American industries from finance to manufacturing.",
+        "pubDate": "2026-05-11T18:20:56Z",
+        "displayTime": "2026-05-11T18:20:56Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/964ea30d-37c8-3204-9790-488b99f1adf9/who%E2%80%99s-traveling-to-china-with.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/8e2a7d7f26c352bf8ce6a590288e9d74",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XoGbaK0tQUCSREdbQU6nBw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/8e2a7d7f26c352bf8ce6a590288e9d74",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bm9n8r2hEvJMLFhOCABV2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/8e2a7d7f26c352bf8ce6a590288e9d74",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-11-2026/card/who-s-traveling-to-china-with-trump-in-the-u-s-business-delegation--KyE7595H2fWPE2fK1TU2?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
