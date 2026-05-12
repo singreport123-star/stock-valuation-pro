@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-11T22:48:20.498598",
+    "ts": "2026-05-12T22:54:06.561712",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,59 +137,59 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 609.63,
-    "open": 604.57,
-    "dayLow": 598.0801,
-    "dayHigh": 604.9069,
-    "regularMarketPreviousClose": 609.63,
-    "regularMarketOpen": 604.57,
-    "regularMarketDayLow": 598.0801,
-    "regularMarketDayHigh": 604.9069,
+    "previousClose": 598.86,
+    "open": 594.415,
+    "dayLow": 592.65,
+    "dayHigh": 603.745,
+    "regularMarketPreviousClose": 598.86,
+    "regularMarketOpen": 594.415,
+    "regularMarketDayLow": 592.65,
+    "regularMarketDayHigh": 603.745,
     "dividendRate": 2.1,
-    "dividendYield": 0.34,
+    "dividendYield": 0.35,
     "exDividendDate": 1773619200,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 21.784649,
-    "forwardPE": 16.549513,
-    "volume": 14880586,
-    "regularMarketVolume": 14880586,
-    "averageVolume": 15459431,
-    "averageVolume10days": 19564920,
-    "averageDailyVolume10Day": 19564920,
-    "bid": 597.19,
-    "ask": 603.88,
-    "bidSize": 15,
+    "trailingPE": 21.93525,
+    "forwardPE": 16.663921,
+    "volume": 11241135,
+    "regularMarketVolume": 11241135,
+    "averageVolume": 15474548,
+    "averageVolume10days": 19871110,
+    "averageDailyVolume10Day": 19871110,
+    "bid": 602.58,
+    "ask": 603.17,
+    "bidSize": 1,
     "askSize": 1,
-    "marketCap": 1520160079872,
+    "marketCap": 1530669301760,
     "nonDilutedMarketCap": 1547498998817,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.071729,
-    "fiftyDayAverage": 626.5502,
-    "twoHundredDayAverage": 675.8691,
+    "priceToSalesTrailing12Months": 7.120618,
+    "fiftyDayAverage": 625.5638,
+    "twoHundredDayAverage": 675.2894,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0034447121,
+    "trailingAnnualDividendYield": 0.0035066626,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1553087987712,
+    "enterpriseValue": 1525749121024,
     "profitMargins": 0.32837,
     "floatShares": 2192766203,
     "sharesOutstanding": 2196045588,
-    "sharesShort": 26466970,
-    "sharesShortPriorMonth": 24310664,
-    "sharesShortPreviousMonthDate": 1773360000,
-    "dateShortInterest": 1776211200,
-    "sharesPercentSharesOut": 0.0104,
+    "sharesShort": 28980090,
+    "sharesShortPriorMonth": 26376854,
+    "sharesShortPreviousMonthDate": 1774915200,
+    "dateShortInterest": 1777507200,
+    "sharesPercentSharesOut": 0.0114,
     "heldPercentInsiders": 0.00112,
-    "heldPercentInstitutions": 0.80192,
-    "shortRatio": 1.48,
-    "shortPercentOfFloat": 0.0121,
+    "heldPercentInstitutions": 0.78473,
+    "shortRatio": 1.69,
+    "shortPercentOfFloat": 0.013200001,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.2372804,
+    "priceToBook": 6.2803993,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
@@ -198,14 +198,14 @@
     "trailingEps": 27.49,
     "forwardEps": 36.18596,
     "pegRatio": 0.89,
-    "enterpriseToRevenue": 7.225,
-    "enterpriseToEbitda": 14.208,
-    "52WeekChange": -0.046603978,
-    "SandP52WeekChange": 0.26603174,
+    "enterpriseToRevenue": 7.098,
+    "enterpriseToEbitda": 13.958,
+    "52WeekChange": -0.08714539,
+    "SandP52WeekChange": 0.25928426,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
-    "currentPrice": 598.86,
+    "currentPrice": 603.0,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 614.0,
     "targetMeanPrice": 826.69104,
@@ -240,9 +240,11 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
+    "longName": "Meta Platforms, Inc.",
+    "marketState": "POST",
     "corporateActions": [],
-    "postMarketTime": 1778539696,
-    "regularMarketTime": 1778529601,
+    "postMarketTime": 1778626427,
+    "regularMarketTime": 1778616001,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -250,24 +252,23 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -1.7666485,
-    "regularMarketPrice": 598.86,
+    "regularMarketChangePercent": 0.69131595,
+    "regularMarketPrice": 603.0,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "cryptoTradeable": false,
-    "postMarketChangePercent": 0.084327705,
-    "postMarketPrice": 599.365,
-    "postMarketChange": 0.5050049,
-    "regularMarketChange": -10.77002,
-    "regularMarketDayRange": "598.0801 - 604.9069",
+    "postMarketChangePercent": -0.16583748,
+    "postMarketPrice": 602.0,
+    "postMarketChange": -1.0,
+    "regularMarketChange": 4.1400146,
+    "regularMarketDayRange": "592.65 - 603.745",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15459431,
-    "fiftyTwoWeekLowChange": 78.599976,
-    "fiftyTwoWeekLowChangePercent": 0.15107825,
+    "averageDailyVolume3Month": 15474548,
+    "fiftyTwoWeekLowChange": 82.73999,
+    "fiftyTwoWeekLowChangePercent": 0.15903585,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -197.39001,
-    "fiftyTwoWeekHighChangePercent": -0.24789955,
-    "fiftyTwoWeekChangePercent": -4.6603975,
+    "fiftyTwoWeekHighChange": -193.25,
+    "fiftyTwoWeekHighChangePercent": -0.24270016,
+    "fiftyTwoWeekChangePercent": -8.714539,
     "dividendDate": 1774483200,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -278,20 +279,19 @@
     "epsTrailingTwelveMonths": 27.49,
     "epsForward": 36.18596,
     "epsCurrentYear": 32.01814,
-    "priceEpsCurrentYear": 18.703772,
-    "fiftyDayAverageChange": -27.690186,
-    "fiftyDayAverageChangePercent": -0.044194683,
-    "twoHundredDayAverageChange": -77.009094,
-    "twoHundredDayAverageChangePercent": -0.11394084,
+    "priceEpsCurrentYear": 18.833075,
+    "shortName": "Meta Platforms, Inc.",
+    "fiftyDayAverageChange": -22.563782,
+    "fiftyDayAverageChangePercent": -0.036069516,
+    "twoHundredDayAverageChange": -72.28943,
+    "twoHundredDayAverageChangePercent": -0.10704955,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-11",
+    "nameChangeDate": "2026-05-12",
     "averageAnalystRating": "1.3 - Strong Buy",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "marketState": "POST",
+    "cryptoTradeable": false,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8893
   },
@@ -1766,32 +1766,32 @@
   },
   "news": [
     {
-      "id": "2602d022-020b-421d-b2bf-27b04802624d",
+      "id": "728d5596-6bf7-4f1e-a541-ca774ed994fd",
       "content": {
-        "id": "2602d022-020b-421d-b2bf-27b04802624d",
-        "contentType": "STORY",
-        "title": "By the numbers: Corporate profits haven't been this smoking hot in years",
-        "description": "",
-        "summary": "It has been a wow earnings season.",
-        "pubDate": "2026-05-11T17:52:43Z",
-        "displayTime": "2026-05-11T17:52:43Z",
+        "id": "728d5596-6bf7-4f1e-a541-ca774ed994fd",
+        "contentType": "VIDEO",
+        "title": "Chip stocks in focus as AI trade evolves on 'insatiable' demand",
+        "description": "<p>Yahoo Financed Tech Editor Dan Howley and Futurum CEO Daniel Newman join Asking for a Trend to discuss the chip trade and the AI trade.</p>",
+        "summary": "Yahoo Financed Tech Editor Dan Howley and Futurum CEO Daniel Newman join Asking for a Trend to discuss the chip trade and the AI trade.",
+        "pubDate": "2026-05-12T21:08:52Z",
+        "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Sq2Nvi9cYcveYvU7s8JbtQ--~B/aD0yMTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a2062be7-19a9-447f-bc10-76ade96be67c_b8c1f1fce27d1511625daa90d7ca3f552f25e61a2e979937d1dc890efa792ed1.net/images/2026-05/a2062be7-19a9-447f-bc10-76ade96be67c",
-          "originalWidth": 3840,
-          "originalHeight": 2160,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/lRmaoCcuZrcb7AYwFWxSfg--~B/aD01NTA0O3c9ODI1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/0ab8f23f-4d11-4a88-83dc-4cdf9db0f16f",
+          "originalWidth": 8256,
+          "originalHeight": 5504,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Sq2Nvi9cYcveYvU7s8JbtQ--~B/aD0yMTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a2062be7-19a9-447f-bc10-76ade96be67c_b8c1f1fce27d1511625daa90d7ca3f552f25e61a2e979937d1dc890efa792ed1.net/images/2026-05/a2062be7-19a9-447f-bc10-76ade96be67c",
-              "width": 3840,
-              "height": 2160,
+              "url": "https://s.yimg.com/uu/api/res/1.2/lRmaoCcuZrcb7AYwFWxSfg--~B/aD01NTA0O3c9ODI1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/0ab8f23f-4d11-4a88-83dc-4cdf9db0f16f",
+              "width": 8256,
+              "height": 5504,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mhmBfmFIUmDOiaD.zeVF2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a2062be7-19a9-447f-bc10-76ade96be67c_b8c1f1fce27d1511625daa90d7ca3f552f25e61a2e979937d1dc890efa792ed1.net/images/2026-05/a2062be7-19a9-447f-bc10-76ade96be67c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZCh0BMjGG1ESu1WARSKCqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/0ab8f23f-4d11-4a88-83dc-4cdf9db0f16f",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1799,18 +1799,18 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "video.yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/news/by-the-numbers-corporate-profits-havent-been-this-smoking-hot-in-years-175243661.html",
+          "url": "https://finance.yahoo.com/video/chip-stocks-in-focus-as-ai-trade-evolves-on-insatiable-demand-210852903.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/by-the-numbers-corporate-profits-havent-been-this-smoking-hot-in-years-175243661.html",
+          "url": "https://finance.yahoo.com/video/chip-stocks-in-focus-as-ai-trade-evolves-on-insatiable-demand-210852903.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1824,93 +1824,474 @@
             "isPremiumFreeNews": false
           }
         },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "fc7a2013-b3f8-44fe-b1a1-b88e0a8714be",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Circle CEO says AI-fueled layoffs are only the tip of the iceberg",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-08/21651d90-7771-11f0-a7b3-236b4ac9928f",
-                  "originalWidth": 6654,
-                  "originalHeight": 4436,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/circle-ceo-says-ai-fueled-layoffs-are-only-the-tip-of-the-iceberg-174500668.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/circle-ceo-says-ai-fueled-layoffs-are-only-the-tip-of-the-iceberg-174500668.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "c47c58e2-5472-4f50-a1da-9f3048d5f756",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "The $1 trillion club's new members are powering the AI boom: Chart of the Day",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/dbhxC2GeoQrFlWNwaaMu6A--~B/aD0yMDAxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/5fb915d9-faa7-4de5-9254-4b7b300fa4ab",
-                  "originalWidth": 3000,
-                  "originalHeight": 2001,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html"
-                }
-              }
-            }
-          ]
-        }
+        "storyline": null
       }
     },
     {
-      "id": "058c31d7-a323-3ca4-bca0-c174bd2aac5a",
+      "id": "8ba97367-6607-31e5-879d-e33c54caad29",
       "content": {
-        "id": "058c31d7-a323-3ca4-bca0-c174bd2aac5a",
+        "id": "8ba97367-6607-31e5-879d-e33c54caad29",
         "contentType": "STORY",
-        "title": "Update: Market Chatter: Meta Platforms Sued by California County Over Alleged Scam Ad Profits",
+        "title": "Oklo’s Losses Widen. A Major Regulatory Win Keeps the Nuclear Dream Alive.",
         "description": "",
-        "summary": "(Updates with Meta's comment in 3rd to 5th paragraph) Meta Platforms (META) is being sued by Sant",
-        "pubDate": "2026-05-11T21:38:47Z",
-        "displayTime": "2026-05-11T21:38:47Z",
+        "summary": "Oklo’s  losses deepened in its latest quarter, but the nuclear start-up remains committed to building a first-of-its-kind powerhouse that just cleared a major regulatory hurdle.  Oklo finished the quarter with $1.59 billion in cash and cash equivalents and $614.5 million in marketable debt securities.  With no revenue to analyze, Oklo’s health is difficult to gauge.",
+        "pubDate": "2026-05-12T21:39:00Z",
+        "displayTime": "2026-05-12T21:39:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/8ba97367-6607-31e5-879d-e33c54caad29/oklo%E2%80%99s-losses-widen-a-major.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/4fbc5d5a8fc24a70ee847ba0c33ef8e1",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/iif1QKtvsaVAMuLvad9z8A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4fbc5d5a8fc24a70ee847ba0c33ef8e1",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2k2uDSfbhErrpkG00sx38Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4fbc5d5a8fc24a70ee847ba0c33ef8e1",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/oklos-regulatory-nuclear-earnings-stock-8228360e?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6898d10e-f1ec-3cc3-a966-d3216616845d",
+      "content": {
+        "id": "6898d10e-f1ec-3cc3-a966-d3216616845d",
+        "contentType": "STORY",
+        "title": "Broadcom (AVGO) Is The Biggest Holding in Elon Musk’s Grok AI Chatbot Latest Portfolio",
+        "description": "",
+        "summary": "We just covered Grok’s Latest Stock Portfolio in 2026: Elon Musk’s AI Chatbot’s Top 10 Stock Picks. Broadcom (NASDAQ:AVGO) ranks #4 (see Grok’s Latest Stock Portfolio in 2026: AI Assistant’s Top 5 Stock Picks). Number of Hedge Funds: 202 Broadcom (NASDAQ:AVGO) is the biggest position in the Grok portfolio at 8.58%. Grok believes the bull […]",
+        "pubDate": "2026-05-12T21:20:21Z",
+        "displayTime": "2026-05-12T21:20:21Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/c9b89eff8cc79a8250ea9a56ec356250",
+          "originalWidth": 468,
+          "originalHeight": 600,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/A0GZXE_.ECuiS8cJ9esO_g--~B/aD02MDA7dz00Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c9b89eff8cc79a8250ea9a56ec356250",
+              "width": 468,
+              "height": 600,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/n0NpRDKTTjHG2quNrcWn4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c9b89eff8cc79a8250ea9a56ec356250",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/news/broadcom-avgo-biggest-holding-elon-212021718.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/broadcom-avgo-biggest-holding-elon-212021718.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8ecdda92-b284-3e35-9737-0225ce21b806",
+      "content": {
+        "id": "8ecdda92-b284-3e35-9737-0225ce21b806",
+        "contentType": "STORY",
+        "title": "Nuclear Reactor Startup Oklo Reports Wider Losses Amid AI Boom",
+        "description": "",
+        "summary": "Oklo matched earnings estimates for the first quarter late Tuesday. Oklo stock extended losses in late trade, with nuclear stocks closing broadly lower. Actual Oklo earnings will take a backseat when the company reports.",
+        "pubDate": "2026-05-12T20:36:36Z",
+        "displayTime": "2026-05-12T20:36:36Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/8ecdda92-b284-3e35-9737-0225ce21b806/nuclear-reactor-startup-oklo.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GBt6IJA1vjjG4wC8JSOWnw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.ZQB.jleNRIRVPJgXXS6HQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/news/oklo-earnings-q1-oklo-stock-nuclear-stocks/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3e88e6dd-f16a-3baf-9311-e750ef9f19c3",
+      "content": {
+        "id": "3e88e6dd-f16a-3baf-9311-e750ef9f19c3",
+        "contentType": "STORY",
+        "title": "Qualcomm CEO Says OpenAI, Meta Are Working On AI Wearables That Could Replace Smartphones",
+        "description": "",
+        "summary": "Qualcomm Inc. CEO says the smartphone era may be nearing its end as major artificial intelligence companies quietly work on next-generation wearable devices powered by advanced AI agents. AI Wearables Push Signals Shift Beyond Smartphones On Wednesday, Qualcomm Chief Executive...",
+        "pubDate": "2026-05-12T20:31:08Z",
+        "displayTime": "2026-05-12T20:31:08Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/1695f3d2698a914b8bc94477df4c9fcc",
+          "originalWidth": 1024,
+          "originalHeight": 683,
+          "caption": "Qualcomm CEO Says OpenAI, Meta Are Working On AI Wearables That Could Replace Smartphones",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pCMOL59S0CjjuZI3Clp3Bw--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/1695f3d2698a914b8bc94477df4c9fcc",
+              "width": 1024,
+              "height": 683,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/C77iW18LuvUD6HQ2olCrQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/1695f3d2698a914b8bc94477df4c9fcc",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://tech.yahoo.com/articles/qualcomm-ceo-says-openai-meta-203108273.html",
+          "site": "tech",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://tech.yahoo.com/articles/qualcomm-ceo-says-openai-meta-203108273.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0c4def8a-1076-3ea6-8d8a-c14160950959",
+      "content": {
+        "id": "0c4def8a-1076-3ea6-8d8a-c14160950959",
+        "contentType": "STORY",
+        "title": "Elon Musk To Join Trump On China State Visit. Tesla Stock Sinks.",
+        "description": "",
+        "summary": "Tesla CEO Elon Musk will be among a group of business leaders joining President Donald Trump's state visit to China.",
+        "pubDate": "2026-05-12T20:02:51Z",
+        "displayTime": "2026-05-12T20:02:51Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/0c4def8a-1076-3ea6-8d8a-c14160950959/elon-musk-to-join-trump-on.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/a1ed16622608dc69945bc0e11d61e125",
+          "originalWidth": 1000,
+          "originalHeight": 511,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MXgxY9_vH9RIyObnG6PWPA--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/a1ed16622608dc69945bc0e11d61e125",
+              "width": 1000,
+              "height": 511,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9zI9sP3pd9DcfGVdjsY85A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a1ed16622608dc69945bc0e11d61e125",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/news/elon-musk-donald-trump-china-visit-tesla-boeing-rare-earths/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "cbf4e241-040f-307e-8017-93ded5c2373c",
+      "content": {
+        "id": "cbf4e241-040f-307e-8017-93ded5c2373c",
+        "contentType": "STORY",
+        "title": "Meta seeks to avoid EU fine with free WhatsApp access for rival AI chatbots",
+        "description": "",
+        "summary": "Meta Platforms has offered to give rival AI chatbots free access to its social messaging service ‌WhatsApp for a month while it discusses ways to resolve EU antitrust ‌concerns, the U.S. tech giant said on Tuesday, in a move that could stave off a ​hefty fine.  Meta's move came after the European Commission, which acts as the EU competition enforcer, indicated last month that it was inclined to order the company to provide rival AI chatbots access to WhatsApp.  The company introduced a policy on January 15 allowing ‌only its Meta AI assistant ⁠on WhatsApp, before subsequently amending it in March and saying rivals could use the social messaging app for a fee.",
+        "pubDate": "2026-05-12T18:43:46Z",
+        "displayTime": "2026-05-12T18:43:46Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/f770e6699551a91e718bf42baecd6c28",
+          "originalWidth": 800,
+          "originalHeight": 533,
+          "caption": "FILE PHOTO: VivaTech conference dedicated to innovation and startups in Paris",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RAfbfgrt0nPZsCsP30.NCg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/f770e6699551a91e718bf42baecd6c28",
+              "width": 800,
+              "height": 533,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/p6I91anriKgmjuXJFuRjqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/f770e6699551a91e718bf42baecd6c28",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "http://www.reuters.com/",
+          "sourceId": "reuters-finance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/news/meta-seeks-avoid-eu-fine-184346085.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/meta-seeks-avoid-eu-fine-184346085.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2f5cd2b3-8075-32b7-8280-40dee4baf389",
+      "content": {
+        "id": "2f5cd2b3-8075-32b7-8280-40dee4baf389",
+        "contentType": "STORY",
+        "title": "Intel Crashes 10%, AMD Slides 5% as Chip Trade Cools After Parabolic Run",
+        "description": "",
+        "summary": "Shares of Intel (NASDAQ:INTC) are down 10% in Tuesday trading, changing hands near $116 after closing at $129.44 on Monday. Advanced Micro Devices (NASDAQ:AMD) is sliding alongside, off 5% at roughly $436. The selloff lands after both names ripped through a parabolic stretch. Intel stock gained 35% in the week ending May 11, while AMD ... Intel Crashes 10%, AMD Slides 5% as Chip Trade Cools After Parabolic Run",
+        "pubDate": "2026-05-12T17:58:33Z",
+        "displayTime": "2026-05-12T17:58:33Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/7783e41c30214bb008f5dc1d2e8c89e8",
+          "originalWidth": 1366,
+          "originalHeight": 767,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ws.4bYRIj1redPwhZkWs5Q--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/7783e41c30214bb008f5dc1d2e8c89e8",
+              "width": 1366,
+              "height": 767,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/M2Y7uA1hiZINgh0N17Wz5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7783e41c30214bb008f5dc1d2e8c89e8",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/12/intel-crashes-10-amd-slides-5-as-chip-trade-cools-after-parabolic-run/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-crashes-10-amd-slides-175833292.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "624989d8-d285-3b3f-b89f-94f56804183e",
+      "content": {
+        "id": "624989d8-d285-3b3f-b89f-94f56804183e",
+        "contentType": "STORY",
+        "title": "Oracle Set to Post Strong Results Amid Tech Infrastructure Spending, Oppenheimer Says",
+        "description": "",
+        "summary": "Oracle's (ORCL) fiscal fourth-quarter results are likely to benefit from robust spending on technolo",
+        "pubDate": "2026-05-12T16:56:43Z",
+        "displayTime": "2026-05-12T16:56:43Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/mt_newswires_premium_news_706/e32b7c5339f6731812c1365fc2c5db1b",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "oracle - Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/aPBB1yvtn2bN0OI45Z9j3w--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/mt_newswires_premium_news_706/e32b7c5339f6731812c1365fc2c5db1b",
+              "width": 1000,
+              "height": 667,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/FJLr2ZwryHfeKpLLGiZrqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/e32b7c5339f6731812c1365fc2c5db1b",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
         "provider": {
           "displayName": "MT Newswires",
           "url": "https://www.mtnewswires.com/",
           "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-sued-213847915.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/oracle-set-post-strong-results-165643902.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-sued-213847915.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/oracle-set-post-strong-results-165643902.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1928,118 +2309,32 @@
       }
     },
     {
-      "id": "a77d01a9-7091-3288-8fda-683a1f3db285",
+      "id": "15019676-d19e-3269-b46e-2da6a4e895e0",
       "content": {
-        "id": "a77d01a9-7091-3288-8fda-683a1f3db285",
+        "id": "15019676-d19e-3269-b46e-2da6a4e895e0",
         "contentType": "STORY",
-        "title": "Nvidia bull unveils bold new AI trade Wall Street hasn't named yet",
+        "title": "Trump invited only 2 women executives on his first trip to China in nearly a decade — an increase from last time",
         "description": "",
-        "summary": "Nvidia super bull spots mysterious new AI trend after 80x call",
-        "pubDate": "2026-05-11T21:26:14Z",
-        "displayTime": "2026-05-11T21:26:14Z",
+        "summary": "The last time President Trump visited China, he took an even larger delegation, but didn’t invite a single woman.",
+        "pubDate": "2026-05-12T15:55:00Z",
+        "displayTime": "2026-05-12T15:55:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-bull-unveils-bold-ai-212614732.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-bull-unveils-bold-ai-212614732.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2cba985f-67c2-36df-967a-81a2436d5a4d",
-      "content": {
-        "id": "2cba985f-67c2-36df-967a-81a2436d5a4d",
-        "contentType": "STORY",
-        "title": "Sector Update: Tech Stocks Rise Late Afternoon",
-        "description": "",
-        "summary": "Tech stocks were higher late Monday afternoon, with the State Street Technology Select Sector SPDR E",
-        "pubDate": "2026-05-11T19:53:54Z",
-        "displayTime": "2026-05-11T19:53:54Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-195354616.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-195354616.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a065f4d2-a736-3aa9-9330-67d97e1155c6",
-      "content": {
-        "id": "a065f4d2-a736-3aa9-9330-67d97e1155c6",
-        "contentType": "STORY",
-        "title": "Tech Dominates; Nvidia’s Market Value Exceeds Entire Healthcare Sector of S&P 500",
-        "description": "",
-        "summary": "The tech sector has a record-high market cap of over $23 trillion, a 37% weighting in the S&P 500, the largest percentage ever.",
-        "pubDate": "2026-05-11T19:44:00Z",
-        "displayTime": "2026-05-11T19:44:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/a065f4d2-a736-3aa9-9330-67d97e1155c6/tech-dominates-nvidia%E2%80%99s.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/ba70bde3b64a0e025759309117396369",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/moneywise_327/98287791be332628eb2cd177d8c46a7a",
+          "originalWidth": 6360,
+          "originalHeight": 3578,
+          "caption": "US President Donald Trump speaks to journalists as he makes his way to board Marine One before departing from the South Lawn of the White House in Washington, DC.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/EJQGXHtyMcU58r9PVMjiCg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ba70bde3b64a0e025759309117396369",
-              "width": 1280,
-              "height": 640,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ihev7V5SRNYMBOttMiCd.A--~B/aD0zNTc4O3c9NjM2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/moneywise_327/98287791be332628eb2cd177d8c46a7a",
+              "width": 6360,
+              "height": 3578,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VPmoP3uPvmB56gh6HEE.JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/ba70bde3b64a0e025759309117396369",
+              "url": "https://s.yimg.com/uu/api/res/1.2/9rWSV5wWlBzbh52Q1wyEdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/98287791be332628eb2cd177d8c46a7a",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2047,298 +2342,22 @@
           ]
         },
         "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
+          "displayName": "Moneywise",
+          "url": "https://moneywise.com/",
+          "sourceId": "moneywise_327"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/nvidia-tech-healthcare-stocks-9055406a?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "111e10ac-0c67-35bc-855f-6162b20523d7",
-      "content": {
-        "id": "111e10ac-0c67-35bc-855f-6162b20523d7",
-        "contentType": "STORY",
-        "title": "Musk, Cook Expected to Join Trump For Xi Summit in China",
-        "description": "",
-        "summary": "(Bloomberg) -- The White House is inviting Tesla Inc.’s Elon Musk, Apple Inc.’s Tim Cook, Boeing Co.’s Kelly Ortberg and executives from other large companies to accompany President Donald Trump on his trip to China this week, according to an official. Most Read from BloombergIran Makes New Offer on Uranium in Response to US, WSJ SaysInside a Year of Chaos and Conflict at Kevin Hart’s Media CompanyTrump Rejects New Iran Peace Offer as ‘Totally Unacceptable’Modi Asks Indians to Stop Buying Gold,",
-        "pubDate": "2026-05-11T19:34:30Z",
-        "displayTime": "2026-05-11T19:34:30Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/6a7303dc6f6c5f75080f2ff0b70b3c33",
-          "originalWidth": 2000,
-          "originalHeight": 1333,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ObO_l0a3Ij0krqT_BFEzJg--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/6a7303dc6f6c5f75080f2ff0b70b3c33",
-              "width": 2000,
-              "height": 1333,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/c_rPQR7HO6_kuTddEsr8QQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/6a7303dc6f6c5f75080f2ff0b70b3c33",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/musk-cook-set-join-trump-164927621.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-invited-only-2-women-155500481.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/musk-cook-set-join-trump-164927621.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-invited-only-2-women-155500481.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "bd024bfd-66f0-3300-902d-7fcfe427d6aa",
-      "content": {
-        "id": "bd024bfd-66f0-3300-902d-7fcfe427d6aa",
-        "contentType": "STORY",
-        "title": "Meta Sued by California County Over ‘Scam’ Advertisements",
-        "description": "",
-        "summary": "(Bloomberg) -- Meta Platforms Inc. was sued by Santa Clara County, California, over allegations that the company “knowingly facilitates and profits from billions of scam advertisements” on its social networks, including Facebook and Instagram. Most Read from BloombergIran Makes New Offer on Uranium in Response to US, WSJ SaysInside a Year of Chaos and Conflict at Kevin Hart’s Media CompanyTrump Rejects New Iran Peace Offer as ‘Totally Unacceptable’Modi Asks Indians to Stop Buying Gold, Hitting J",
-        "pubDate": "2026-05-11T19:24:46Z",
-        "displayTime": "2026-05-11T19:24:46Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-sued-california-county-over-173859019.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-sued-california-county-over-173859019.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7e0c1a29-4cb1-300e-a459-f50a242dea7e",
-      "content": {
-        "id": "7e0c1a29-4cb1-300e-a459-f50a242dea7e",
-        "contentType": "STORY",
-        "title": "Big Tech Keeps Piling On AI Debt. Spending Is Set to Soar.",
-        "description": "",
-        "summary": "Gone are the days when operating cash flow could cover the bills. 2026 is shaping up to be a milestone year.",
-        "pubDate": "2026-05-11T19:07:00Z",
-        "displayTime": "2026-05-11T19:07:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/7e0c1a29-4cb1-300e-a459-f50a242dea7e/big-tech-keeps-piling-on-ai.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/7cbf37a41f463c63fb27886a0c5a6536",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8ayNcKiqS32gZeX53tRJvw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7cbf37a41f463c63fb27886a0c5a6536",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lFG4xdckmKR9e6rnTGoigA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/7cbf37a41f463c63fb27886a0c5a6536",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/ai-debt-big-tech-bonds-da5291dc?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "206eecc6-6626-3c78-ae1e-af42c7362b39",
-      "content": {
-        "id": "206eecc6-6626-3c78-ae1e-af42c7362b39",
-        "contentType": "STORY",
-        "title": "Nearly 40% of Trump’s China CEO Delegation Have Crypto Ties",
-        "description": "",
-        "summary": "Trump heads to Beijing with Musk, Cook, and Fink leading a 17-CEO delegation, where roughly 40% have crypto ties.",
-        "pubDate": "2026-05-11T18:50:51Z",
-        "displayTime": "2026-05-11T18:50:51Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/536067739ab67f56dc4931c8a7038b18",
-          "originalWidth": 5120,
-          "originalHeight": 2880,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ExlzxBXYkmZCtpnFr9I7iA--~B/aD0yODgwO3c9NTEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/536067739ab67f56dc4931c8a7038b18",
-              "width": 5120,
-              "height": 2880,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6S3cvBgAbE_amw7rLAc0Jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/536067739ab67f56dc4931c8a7038b18",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "BeInCrypto",
-          "url": "https://beincrypto.com/",
-          "sourceId": "beincrypto_us_662"
-        },
-        "canonicalUrl": {
-          "url": "https://beincrypto.com/trump-china-ceo-delegation-crypto/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/crypto/articles/nearly-40-trump-china-ceo-185051821.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "964ea30d-37c8-3204-9790-488b99f1adf9",
-      "content": {
-        "id": "964ea30d-37c8-3204-9790-488b99f1adf9",
-        "contentType": "STORY",
-        "title": "Who’s Traveling to China With Trump in the U.S. Business Delegation?",
-        "description": "",
-        "summary": "More than a dozen top U.S. business leaders will travel to China for President Trump’s visit this week with Chinese President Xi Jinping, representing various American industries from finance to manufacturing.",
-        "pubDate": "2026-05-11T18:20:56Z",
-        "displayTime": "2026-05-11T18:20:56Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/964ea30d-37c8-3204-9790-488b99f1adf9/who%E2%80%99s-traveling-to-china-with.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/8e2a7d7f26c352bf8ce6a590288e9d74",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XoGbaK0tQUCSREdbQU6nBw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/8e2a7d7f26c352bf8ce6a590288e9d74",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/bm9n8r2hEvJMLFhOCABV2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/8e2a7d7f26c352bf8ce6a590288e9d74",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-11-2026/card/who-s-traveling-to-china-with-trump-in-the-u-s-business-delegation--KyE7595H2fWPE2fK1TU2?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
