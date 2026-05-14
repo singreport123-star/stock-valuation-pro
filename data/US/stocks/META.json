@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-13T22:59:54.935231",
+    "ts": "2026-05-14T22:51:51.791761",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 603.0,
-    "open": 598.81,
-    "dayLow": 596.6601,
-    "dayHigh": 619.9,
-    "regularMarketPreviousClose": 603.0,
-    "regularMarketOpen": 598.81,
-    "regularMarketDayLow": 596.6601,
-    "regularMarketDayHigh": 619.9,
+    "previousClose": 616.63,
+    "open": 616.125,
+    "dayLow": 615.0,
+    "dayHigh": 623.73,
+    "regularMarketPreviousClose": 616.63,
+    "regularMarketOpen": 616.125,
+    "regularMarketDayLow": 615.0,
+    "regularMarketDayHigh": 623.73,
     "dividendRate": 2.1,
-    "dividendYield": 0.35,
+    "dividendYield": 0.34,
     "exDividendDate": 1773619200,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 22.422909,
-    "forwardPE": 17.040588,
-    "volume": 14535004,
-    "regularMarketVolume": 14535004,
-    "averageVolume": 15459578,
-    "averageVolume10days": 19954250,
-    "averageDailyVolume10Day": 19954250,
-    "bid": 616.16,
-    "ask": 617.02,
+    "trailingPE": 22.488363,
+    "forwardPE": 17.09033,
+    "volume": 10031286,
+    "regularMarketVolume": 10031286,
+    "averageVolume": 15445686,
+    "averageVolume10days": 19520720,
+    "averageDailyVolume10Day": 19520720,
+    "bid": 617.61,
+    "ask": 618.07,
     "bidSize": 1,
-    "askSize": 1,
-    "marketCap": 1565267984384,
+    "askSize": 4,
+    "marketCap": 1569837154304,
     "nonDilutedMarketCap": 1547498998817,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.2815695,
-    "fiftyDayAverage": 624.5526,
-    "twoHundredDayAverage": 674.741,
+    "priceToSalesTrailing12Months": 7.302825,
+    "fiftyDayAverage": 623.7836,
+    "twoHundredDayAverage": 674.236,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.003482587,
+    "trailingAnnualDividendYield": 0.0034056078,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1536258211840,
+    "enterpriseValue": 1570857025536,
     "profitMargins": 0.32837,
     "floatShares": 2192766203,
     "sharesOutstanding": 2196045588,
@@ -184,12 +184,12 @@
     "dateShortInterest": 1777507200,
     "sharesPercentSharesOut": 0.0114,
     "heldPercentInsiders": 0.00102,
-    "heldPercentInstitutions": 0.78413004,
+    "heldPercentInstitutions": 0.78689003,
     "shortRatio": 1.69,
     "shortPercentOfFloat": 0.013200001,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.4223595,
+    "priceToBook": 6.441107,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
@@ -198,14 +198,14 @@
     "trailingEps": 27.5,
     "forwardEps": 36.18596,
     "pegRatio": 0.88,
-    "enterpriseToRevenue": 7.147,
-    "enterpriseToEbitda": 14.054,
-    "52WeekChange": -0.085476816,
-    "SandP52WeekChange": 0.25597954,
+    "enterpriseToRevenue": 7.308,
+    "enterpriseToEbitda": 14.371,
+    "52WeekChange": -0.042321563,
+    "SandP52WeekChange": 0.2581271,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
-    "currentPrice": 616.63,
+    "currentPrice": 618.43,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 614.0,
     "targetMeanPrice": 826.69104,
@@ -240,25 +240,35 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "POST",
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "regularMarketChangePercent": 2.2603657,
-    "postMarketChangePercent": -0.15310507,
-    "postMarketPrice": 615.6859,
-    "postMarketChange": -0.9440918,
-    "regularMarketChange": 13.630005,
-    "regularMarketDayRange": "596.6601 - 619.9",
+    "marketState": "POST",
+    "cryptoTradeable": false,
+    "corporateActions": [],
+    "postMarketTime": 1778799084,
+    "regularMarketTime": 1778788801,
+    "regularMarketChangePercent": 0.29190728,
+    "regularMarketPrice": 618.43,
+    "postMarketChangePercent": -0.095397346,
+    "postMarketPrice": 617.84,
+    "postMarketChange": -0.5899658,
+    "regularMarketChange": 1.7999878,
+    "regularMarketDayRange": "615.0 - 623.73",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15459578,
-    "fiftyTwoWeekLowChange": 96.369995,
-    "fiftyTwoWeekLowChangePercent": 0.1852343,
+    "averageDailyVolume3Month": 15445686,
+    "fiftyTwoWeekLowChange": 98.16998,
+    "fiftyTwoWeekLowChangePercent": 0.18869407,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -179.62,
-    "fiftyTwoWeekHighChangePercent": -0.2255824,
-    "fiftyTwoWeekChangePercent": -8.547682,
+    "fiftyTwoWeekHighChange": -177.82,
+    "fiftyTwoWeekHighChangePercent": -0.22332183,
+    "fiftyTwoWeekChangePercent": -4.2321563,
     "dividendDate": 1774483200,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -269,29 +279,19 @@
     "epsTrailingTwelveMonths": 27.5,
     "epsForward": 36.18596,
     "epsCurrentYear": 32.01814,
-    "priceEpsCurrentYear": 19.258772,
-    "fiftyDayAverageChange": -7.9226074,
-    "fiftyDayAverageChangePercent": -0.012685252,
-    "twoHundredDayAverageChange": -58.111023,
-    "twoHundredDayAverageChangePercent": -0.086123444,
-    "corporateActions": [],
-    "postMarketTime": 1778713177,
-    "regularMarketTime": 1778702401,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketPrice": 616.63,
+    "priceEpsCurrentYear": 19.31499,
+    "fiftyDayAverageChange": -5.3536377,
+    "fiftyDayAverageChangePercent": -0.008582523,
+    "twoHundredDayAverageChange": -55.80603,
+    "twoHundredDayAverageChangePercent": -0.08276928,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-13",
+    "nameChangeDate": "2026-05-14",
     "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8893
   },
@@ -309,7 +309,7 @@
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.11,
+        "2025-06-30T00:00:00.000": 0.106993,
         "2025-03-31T00:00:00.000": 0.094549,
         "2024-12-31T00:00:00.000": null
       },
@@ -1766,32 +1766,32 @@
   },
   "news": [
     {
-      "id": "46ec1b84-e3a3-4b8d-a8ed-18bea82c093e",
+      "id": "21b3e914-a676-49d3-ad91-33430ba93551",
       "content": {
-        "id": "46ec1b84-e3a3-4b8d-a8ed-18bea82c093e",
-        "contentType": "STORY",
-        "title": "Nebius stock soars as revenue jumps 684% on booming data center demand",
-        "description": "",
-        "summary": "Nebius stock soars after quarterly results.",
-        "pubDate": "2026-05-13T15:23:16Z",
-        "displayTime": "2026-05-13T20:11:17Z",
+        "id": "21b3e914-a676-49d3-ad91-33430ba93551",
+        "contentType": "VIDEO",
+        "title": "AI hyperscalers are 'falling behind' if they're not spending: Strategist",
+        "description": "<p>As AI chip stock rally and push the market (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EDJI?p=%5EDJI&.tsrc=fin-srch\" data-i13n=\"slk:^DJI;cpos:1;pos:1\">^DJI</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EIXIC?p=%5EIXIC&.tsrc=fin-srch\" data-i13n=\"slk:^IXIC;cpos:2;pos:1\">^IXIC</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EGSPC?p=%5EGSPC&.tsrc=fin-srch\" data-i13n=\"slk:^GSPC;cpos:3;pos:1\">^GSPC</a>) to new record highs, Hamilton Capital Partners CIO Alonso Munoz comes on Market Domination to speak more on the lofty capex spending these hyperscalers continue to invest into artificial intelligence.</p>",
+        "summary": "As AI chip stock rally and push the market (^DJI, ^IXIC, ^GSPC) to new record highs, Hamilton Capital Partners CIO Alonso Munoz comes on Market Domination to speak more on the lofty capex spending these hyperscalers continue to invest into artificial intelligence.",
+        "pubDate": "2026-05-14T20:47:34Z",
+        "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/4H9bDDrNYYz6I5duHNw_hg--~B/aD0zMzkwO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/a30d206c-9724-4480-b6d1-901694b2dbf3",
-          "originalWidth": 5000,
-          "originalHeight": 3390,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/w1ClV7DFvxIG50CYRyQoWg--~B/aD0yNzM1O3c9NDg2MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/558e3820-7886-11f0-b47e-7c7789a02a24_230434996283211c2aca95b7ada4787379e199a8fb2e4328aa0579e0e793a529.jpg",
+          "originalWidth": 4862,
+          "originalHeight": 2735,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4H9bDDrNYYz6I5duHNw_hg--~B/aD0zMzkwO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/a30d206c-9724-4480-b6d1-901694b2dbf3",
-              "width": 5000,
-              "height": 3390,
+              "url": "https://s.yimg.com/uu/api/res/1.2/w1ClV7DFvxIG50CYRyQoWg--~B/aD0yNzM1O3c9NDg2MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/558e3820-7886-11f0-b47e-7c7789a02a24_230434996283211c2aca95b7ada4787379e199a8fb2e4328aa0579e0e793a529.jpg",
+              "width": 4862,
+              "height": 2735,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.YR7RwGwhAXN9TTINt.aWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/a30d206c-9724-4480-b6d1-901694b2dbf3",
+              "url": "https://s.yimg.com/uu/api/res/1.2/LFhZoiO8DmHrX.fCZml2sQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/558e3820-7886-11f0-b47e-7c7789a02a24_230434996283211c2aca95b7ada4787379e199a8fb2e4328aa0579e0e793a529.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1799,18 +1799,18 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "video.yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/nebius-stock-soars-as-revenue-jumps-684-on-booming-data-center-demand-152316937.html",
+          "url": "https://finance.yahoo.com/video/ai-hyperscalers-are-falling-behind-if-theyre-not-spending-strategist-204734505.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/nebius-stock-soars-as-revenue-jumps-684-on-booming-data-center-demand-152316937.html",
+          "url": "https://finance.yahoo.com/video/ai-hyperscalers-are-falling-behind-if-theyre-not-spending-strategist-204734505.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1828,89 +1828,32 @@
       }
     },
     {
-      "id": "2129388d-de35-330c-8e3d-8652ba487258",
+      "id": "1a976c90-4084-4b3a-beec-ccff9e2e037d",
       "content": {
-        "id": "2129388d-de35-330c-8e3d-8652ba487258",
-        "contentType": "STORY",
-        "title": "Micron Tops $900 Billion Market Cap. How the Samsung Strike Could Help the Chip Maker.",
-        "description": "",
-        "summary": "A walkout at rival Samsung could hit about 3% of global memory-chip production, according to estimates.",
-        "pubDate": "2026-05-13T21:36:00Z",
-        "displayTime": "2026-05-13T21:36:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/2129388d-de35-330c-8e3d-8652ba487258/micron-tops-900-billion.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/9d0e818f4d88ebb5d2ea6d5e5b58e660",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/83Q3U3h7a8GTWf7QdHXfMQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/9d0e818f4d88ebb5d2ea6d5e5b58e660",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nji2f3RiOgsXf7u1XF4KHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/9d0e818f4d88ebb5d2ea6d5e5b58e660",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/micron-stock-price-samsung-strike-sandisk-2bd26f87?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9bfb78aa-286d-3d5f-bd20-c0c3d5b89015",
-      "content": {
-        "id": "9bfb78aa-286d-3d5f-bd20-c0c3d5b89015",
-        "contentType": "STORY",
-        "title": "Top Analyst Reports for Meta, Pfizer & Salesforce",
-        "description": "",
-        "summary": "Meta ramps up AI infrastructure and ad tools as Pfizer rebounds and Salesforce expands AI offerings amid macro pressures.",
-        "pubDate": "2026-05-13T21:01:00Z",
-        "displayTime": "2026-05-13T21:01:00Z",
+        "id": "1a976c90-4084-4b3a-beec-ccff9e2e037d",
+        "contentType": "VIDEO",
+        "title": "Cisco surges on Q3 AI demand, while cutting 4,000 jobs in AI overhaul",
+        "description": "<p>Cisco Systems (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/CSCO/\" data-i13n=\"slk:CSCO;cpos:1;pos:1\">CSCO</a>) stock has <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/markets/article/cisco-stock-jumps-on-booming-ai-orders-job-cuts-115219593.html\" data-i13n=\"slk:surged by double-digits;cpos:2;pos:1\">surged by double-digits</a> since reporting fiscal third quarter results in Wednesday's extended hours, topping Wall Street expectations with revenue of $15.84 billion and adjusted earnings of $1.06 per share.</p>\n<p>This comes after the cloud operator laid off 4,000 workers as part of a new AI-focused restructuring.</p>\n<p>Hennion & Walsh CIO Kevin Mahn and Yahoo Finance Senior Reporters Ines Ferré and Brooke DiPalma take a closer look at the AI demand propelling Cisco, the cloud operator's outlook, and its recent job cuts.</p>",
+        "summary": "Cisco Systems (CSCO) stock has surged by double-digits since reporting fiscal third quarter results in Wednesday's extended hours, topping Wall Street expectations with revenue of $15.84 billion and adjusted earnings of $1.06 per share. This comes after the cloud operator laid off 4,000 workers as part of a new AI-focused restructuring. Hennion & Walsh CIO Kevin Mahn and Yahoo Finance Senior Reporters Ines Ferré and Brooke DiPalma take a closer look at the AI demand propelling Cisco, the cloud operator's outlook, and its recent job cuts.",
+        "pubDate": "2026-05-14T13:52:52Z",
+        "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/e611779c44447da8f91a3a605a4ebc8e",
-          "originalWidth": 635,
-          "originalHeight": 400,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/qQZqXrI82tCD9Hm72nIviA--~B/aD0yNzkxO3c9NDk2MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/6907e5c5-9e54-4c9d-88aa-71edb1f9194d_8fae43fe00b6a53a909ad57628a94d6ec042f149cc6513d12586b6c540fdabef.jpg",
+          "originalWidth": 4963,
+          "originalHeight": 2791,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ESegcHbiVqpII_TXE.pqbQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e611779c44447da8f91a3a605a4ebc8e",
-              "width": 635,
-              "height": 400,
+              "url": "https://s.yimg.com/uu/api/res/1.2/qQZqXrI82tCD9Hm72nIviA--~B/aD0yNzkxO3c9NDk2MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/6907e5c5-9e54-4c9d-88aa-71edb1f9194d_8fae43fe00b6a53a909ad57628a94d6ec042f149cc6513d12586b6c540fdabef.jpg",
+              "width": 4963,
+              "height": 2791,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/K0xPWpQDm3gWAuuEH7BDQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e611779c44447da8f91a3a605a4ebc8e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/j7JH6aS8jlsSqWsUNRofVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/6907e5c5-9e54-4c9d-88aa-71edb1f9194d_8fae43fe00b6a53a909ad57628a94d6ec042f149cc6513d12586b6c540fdabef.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1918,24 +1861,24 @@
           ]
         },
         "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "video.yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-meta-pfizer-210100247.html",
+          "url": "https://finance.yahoo.com/video/cisco-surges-on-q3-ai-demand-while-cutting-4000-jobs-in-ai-overhaul-135252913.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-meta-pfizer-210100247.html",
+          "url": "https://finance.yahoo.com/video/cisco-surges-on-q3-ai-demand-while-cutting-4000-jobs-in-ai-overhaul-135252913.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": false
+          "editorsPick": true
         },
         "finance": {
           "premiumFinance": {
@@ -1947,32 +1890,32 @@
       }
     },
     {
-      "id": "9ab250b9-3baa-3305-bb31-079f07e0c0d5",
+      "id": "cc9d0080-f999-3923-a14b-d9aa2766585c",
       "content": {
-        "id": "9ab250b9-3baa-3305-bb31-079f07e0c0d5",
+        "id": "cc9d0080-f999-3923-a14b-d9aa2766585c",
         "contentType": "STORY",
-        "title": "Big Growth. 'Undemanding' Prices. Are Big Tech Stocks Value Plays These Days?",
+        "title": "Meta Is Burning Cash With Nothing to Show for It. Buy This Stock Instead",
         "description": "",
-        "summary": "Morgan Stanley analysts on Wednesday reiterated their endorsement of hyperscaler stocks, which they argue offer investors exceptional earnings growth at \"undemanding\" prices.",
-        "pubDate": "2026-05-13T20:38:41Z",
-        "displayTime": "2026-05-13T20:38:41Z",
+        "summary": "Meta Platforms (NASDAQ:META) is dominating headlines because Q1 looked like a blowout, with EPS of $10.44 versus $6.66 expected and revenue of $56.31 billion growing 33.1% year over year. The composition of that beat is what actually matters. That stunning beat was substantially manufactured by a one-time gift. An $8.03 billion income tax benefit tied ... Meta Is Burning Cash With Nothing to Show for It. Buy This Stock Instead",
+        "pubDate": "2026-05-14T22:39:31Z",
+        "displayTime": "2026-05-14T22:39:31Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/investopedia_245/8792a6a3e6636caf1ec30f0803f17043",
-          "originalWidth": 4000,
-          "originalHeight": 2668,
-          "caption": "The Magnificent Seven stocks have risen more than 25% since late March.Credit: Michael Nagle / Bloomberg via Getty Images",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f618c492a61b928310322412ff2f8c73",
+          "originalWidth": 1376,
+          "originalHeight": 768,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aJx9nU.kBx1Ws4m2cLQAQg--~B/aD0yNjY4O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/investopedia_245/8792a6a3e6636caf1ec30f0803f17043",
-              "width": 4000,
-              "height": 2668,
+              "url": "https://s.yimg.com/uu/api/res/1.2/k6cZwuJEWUB1G4tyefhfXQ--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/f618c492a61b928310322412ff2f8c73",
+              "width": 1376,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8KkjTq6aiGu7tBCqwxwJzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/8792a6a3e6636caf1ec30f0803f17043",
+              "url": "https://s.yimg.com/uu/api/res/1.2/j_lBiJ1PKJUXs40a1bdtCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f618c492a61b928310322412ff2f8c73",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1980,18 +1923,18 @@
           ]
         },
         "provider": {
-          "displayName": "Investopedia",
-          "url": "https://www.investopedia.com/",
-          "sourceId": "investopedia_245"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://www.investopedia.com/big-growth-undemanding-prices-are-big-tech-stocks-still-value-plays-these-days-11974158",
+          "url": "https://247wallst.com/investing/2026/05/14/meta-is-burning-cash-with-nothing-to-show-for-it-buy-this-stock-instead/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/big-growth-undemanding-prices-big-203841352.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-burning-cash-nothing-show-223931691.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2009,89 +1952,32 @@
       }
     },
     {
-      "id": "8ba97367-6607-31e5-879d-e33c54caad29",
+      "id": "fe628431-268c-319c-90f0-7993e106ae0d",
       "content": {
-        "id": "8ba97367-6607-31e5-879d-e33c54caad29",
+        "id": "fe628431-268c-319c-90f0-7993e106ae0d",
         "contentType": "STORY",
-        "title": "Oklo’s Losses Deepen. Why the Nuclear Start-Up Still Has Wall Street’s Attention.",
+        "title": "Meta Platforms Looks Like a Bargain Right Now",
         "description": "",
-        "summary": "Oklo’s  losses deepened in its latest quarter, but the nuclear start-up remains committed to building a first-of-its-kind powerhouse that just cleared a major regulatory hurdle.  Oklo finished the latest quarter with $1.59 billion in cash and cash equivalents and $614.5 million in marketable debt securities.  With no revenue to analyze, Oklo’s health is difficult to gauge.",
-        "pubDate": "2026-05-13T20:29:00Z",
-        "displayTime": "2026-05-13T20:29:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/8ba97367-6607-31e5-879d-e33c54caad29/oklo%E2%80%99s-losses-deepen-why-the.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/4fbc5d5a8fc24a70ee847ba0c33ef8e1",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/iif1QKtvsaVAMuLvad9z8A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4fbc5d5a8fc24a70ee847ba0c33ef8e1",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2k2uDSfbhErrpkG00sx38Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4fbc5d5a8fc24a70ee847ba0c33ef8e1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/oklo-earnings-stock-price-nuclear-8228360e?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c36aa138-64de-3eed-9a71-e120b9e860df",
-      "content": {
-        "id": "c36aa138-64de-3eed-9a71-e120b9e860df",
-        "contentType": "STORY",
-        "title": "Is Vistra (VST) Still a Good AI Stock to Buy? Grok Says Yes",
-        "description": "",
-        "summary": "We just covered Grok’s Latest Stock Portfolio in 2026: Elon Musk’s AI Chatbot’s Top 10 Stock Picks. Vistra Corp (NYSE:VST) ranks #3 (see Grok’s Latest Stock Portfolio in 2026: AI Assistant’s Top 5 Stock Picks). Number of Hedge Funds: 102 Surging electricity demand amid the AI data center boom drives the bull case for Vistra […]",
-        "pubDate": "2026-05-13T20:16:59Z",
-        "displayTime": "2026-05-13T20:16:59Z",
+        "summary": "Meta Platforms might be one of the most undervalued tech stocks right now.",
+        "pubDate": "2026-05-14T21:40:00Z",
+        "displayTime": "2026-05-14T21:40:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/6cbcce379ef00c6f49af5d1ba1bc60f1",
-          "originalWidth": 750,
-          "originalHeight": 500,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/85cb598c697bc4658985c2ec79cf8ddf",
+          "originalWidth": 1199,
+          "originalHeight": 800,
+          "caption": "Facebook like button. ",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aoPnhmLAEePOO_65jniSPA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6cbcce379ef00c6f49af5d1ba1bc60f1",
-              "width": 750,
-              "height": 500,
+              "url": "https://s.yimg.com/uu/api/res/1.2/U3kaGbNUrBtzBqo3uU6nQw--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/85cb598c697bc4658985c2ec79cf8ddf",
+              "width": 1199,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6SC7RsRvgVXcwQj3uIdGFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6cbcce379ef00c6f49af5d1ba1bc60f1",
+              "url": "https://s.yimg.com/uu/api/res/1.2/SMoRWQM21Do1Atvdr2uOSQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/85cb598c697bc4658985c2ec79cf8ddf",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2099,18 +1985,18 @@
           ]
         },
         "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/news/vistra-vst-still-good-ai-201659744.html",
+          "url": "https://www.fool.com/investing/2026/05/14/meta-platforms-stock-bargain-right-now/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/vistra-vst-still-good-ai-201659744.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-looks-bargain-now-214000021.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2128,32 +2014,32 @@
       }
     },
     {
-      "id": "8ecdda92-b284-3e35-9737-0225ce21b806",
+      "id": "14b507c6-22de-36d2-bd14-6a12303f6d5e",
       "content": {
-        "id": "8ecdda92-b284-3e35-9737-0225ce21b806",
+        "id": "14b507c6-22de-36d2-bd14-6a12303f6d5e",
         "contentType": "STORY",
-        "title": "Nuclear Reactor Startup Oklo Reports Wider Losses Amid AI Boom",
+        "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
         "description": "",
-        "summary": "Oklo widened losses for the first quarter late Tuesday but matched analyst estimates. Oklo stock slumped near a key level on Wednesday, with other nuclear stocks seeing mixed action. Several other nuclear companies have already reported AI-fueled earnings.",
-        "pubDate": "2026-05-13T20:05:35Z",
-        "displayTime": "2026-05-13T20:05:35Z",
-        "isHosted": false,
+        "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+        "pubDate": "2026-05-14T21:30:44Z",
+        "displayTime": "2026-05-14T21:30:44Z",
+        "isHosted": true,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/8ecdda92-b284-3e35-9737-0225ce21b806/nuclear-reactor-startup-oklo.html",
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1",
-          "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/a7b79ce9d359adb6d5072a68f3b6bd91",
+          "originalWidth": 1024,
+          "originalHeight": 683,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GBt6IJA1vjjG4wC8JSOWnw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1",
-              "width": 1000,
-              "height": 563,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ygEgCwrHGXmmF15kPXJ1ww--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_finance_785/a7b79ce9d359adb6d5072a68f3b6bd91",
+              "width": 1024,
+              "height": 683,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.ZQB.jleNRIRVPJgXXS6HQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1",
+              "url": "https://s.yimg.com/uu/api/res/1.2/vZ4KCiomB.0wWzdPn4o9UQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/a7b79ce9d359adb6d5072a68f3b6bd91",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2161,17 +2047,22 @@
           ]
         },
         "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
+          "displayName": "TechCrunch",
+          "url": "https://techcrunch.com/",
+          "sourceId": "techcrunch_finance_785"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/news/oklo-earnings-q1-oklo-stock-nuclear-stocks/?src=A00220&yptr=yahoo",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-spacexai-bleeding-staff-213044583.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-spacexai-bleeding-staff-213044583.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
@@ -2189,14 +2080,14 @@
       "content": {
         "id": "ba5eabee-9927-38ff-86b4-8e09db7e8ca6",
         "contentType": "STORY",
-        "title": "Cerebras IPO Is Expected to Price Tonight in Major Test for Chip Rally",
+        "title": "Cerebras Stock Jumps 68% After Blockbuster IPO. CEO Sees Bigger Things Ahead.",
         "description": "",
-        "summary": "Cerebras’s IPO comes at a dramatic time, with chip stocks surging and many at or near all-time highs.",
-        "pubDate": "2026-05-13T20:03:00Z",
-        "displayTime": "2026-05-13T20:03:00Z",
+        "summary": "Cerebras’ IPO comes at a dramatic time, with chip stocks surging and many at or near all-time highs.",
+        "pubDate": "2026-05-14T20:19:00Z",
+        "displayTime": "2026-05-14T20:19:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/ba5eabee-9927-38ff-86b4-8e09db7e8ca6/cerebras-ipo-is-expected-to.html",
+        "previewUrl": "https://finance.yahoo.com/m/ba5eabee-9927-38ff-86b4-8e09db7e8ca6/cerebras-stock-jumps-68-.html",
         "thumbnail": {
           "originalUrl": "https://media.zenfs.com/en/Barrons.com/73877e94553edc85fb7fff4d3818864d",
           "originalWidth": 1280,
@@ -2223,7 +2114,7 @@
           "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/cerebras-ipo-chip-stocks-eab2b046?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/cerebras-ipo-stock-ticker-price-eab2b046?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2242,32 +2133,32 @@
       }
     },
     {
-      "id": "456b9c76-ae5f-35e5-b3e3-6eb2e0fa0393",
+      "id": "9761b252-b764-3a31-b6eb-269695b9abdf",
       "content": {
-        "id": "456b9c76-ae5f-35e5-b3e3-6eb2e0fa0393",
+        "id": "9761b252-b764-3a31-b6eb-269695b9abdf",
         "contentType": "STORY",
-        "title": "Meta Platforms, Inc. (META): Chris Rokos Trims Position",
+        "title": "Broadcom vs. Taiwan Semiconductor: Which AI Chip Giant Is the Better Buy Right Now?",
         "description": "",
-        "summary": "We just covered the Chris Rokos Stock Portfolio: Top 10 Stock Picks and Meta Platforms, Inc. (NASDAQ:META) ranks 7th on this list. Meta Platforms, Inc. (NASDAQ:META) has had a topsy-turvy relationship with Rokos Capital Management. The fund first disclosed a stake in the company back in the first quarter of 2019. This position comprised just […]",
-        "pubDate": "2026-05-13T19:33:59Z",
-        "displayTime": "2026-05-13T19:33:59Z",
+        "summary": "Both companies are critical to the AI build-out. But one's growth profile and order book make it the more compelling buy.",
+        "pubDate": "2026-05-14T19:07:00Z",
+        "displayTime": "2026-05-14T19:07:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947",
-          "originalWidth": 3485,
-          "originalHeight": 1960,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c438821cb91f15590defb8de985cf93b",
+          "originalWidth": 1400,
+          "originalHeight": 787,
+          "caption": "An up close image or an AI chip.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/F.0wbMlXr.uigKO99R5.qg--~B/aD0xOTYwO3c9MzQ4NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947",
-              "width": 3485,
-              "height": 1960,
+              "url": "https://s.yimg.com/uu/api/res/1.2/g3tK.qYghYYjfS3.37cS6w--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c438821cb91f15590defb8de985cf93b",
+              "width": 1400,
+              "height": 787,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/S73XWBFpGd1PnCN8RBc4GQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947",
+              "url": "https://s.yimg.com/uu/api/res/1.2/b381ILfJdajq8AM4mAK.bQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c438821cb91f15590defb8de985cf93b",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2275,18 +2166,18 @@
           ]
         },
         "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-chris-193359308.html",
+          "url": "https://www.fool.com/investing/2026/05/14/broadcom-vs-taiwan-semiconductor-which-ai-chip-gia/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/meta-platforms-inc-meta-chris-193359308.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-taiwan-semiconductor-ai-190700210.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2304,32 +2195,32 @@
       }
     },
     {
-      "id": "bdeb2512-4a52-33fc-9181-a04594cd2159",
+      "id": "588b61b7-604e-3753-9377-657c1d29f3fe",
       "content": {
-        "id": "bdeb2512-4a52-33fc-9181-a04594cd2159",
+        "id": "588b61b7-604e-3753-9377-657c1d29f3fe",
         "contentType": "STORY",
-        "title": "Oklo Sinks On Earnings. Why Nuclear Startup Is Revving Up For July 4.",
+        "title": "NVIDIA Robs All of Big Tech. Except Apple",
         "description": "",
-        "summary": "Nuclear reactor startup Oklo updated investors across its three businesses. A July criticality target looms for nuclear stocks.",
-        "pubDate": "2026-05-13T19:23:34Z",
-        "displayTime": "2026-05-13T19:23:34Z",
-        "isHosted": false,
+        "summary": "Here is the trade of the decade: hyperscalers are spending hundreds of billions on AI infrastructure, and almost all of that money lands on one company’s income statement. NVIDIA (NASDAQ:NVDA) just guided fiscal first quarter 2027 revenue to roughly $78 billion, on top of full year fiscal 2026 revenue of $215.94 billion, all delivered at ... NVIDIA Robs All of Big Tech. Except Apple",
+        "pubDate": "2026-05-14T18:39:42Z",
+        "displayTime": "2026-05-14T18:39:42Z",
+        "isHosted": true,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/bdeb2512-4a52-33fc-9181-a04594cd2159/oklo-sinks-on-earnings-why.html",
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1",
-          "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/c18df7910e90ae3173a24c13699f5c1c",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GBt6IJA1vjjG4wC8JSOWnw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1",
-              "width": 1000,
-              "height": 563,
+              "url": "https://s.yimg.com/uu/api/res/1.2/Kjnk_RH2ld.tlL0IpGZ5Yw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/c18df7910e90ae3173a24c13699f5c1c",
+              "width": 1920,
+              "height": 1080,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.ZQB.jleNRIRVPJgXXS6HQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1",
+              "url": "https://s.yimg.com/uu/api/res/1.2/zDTtE7yWKqnLJdl8WZaVHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c18df7910e90ae3173a24c13699f5c1c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2337,17 +2228,146 @@
           ]
         },
         "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/news/oklo-stock-earnings-july-4-criticality-goal-nuclear-stocks/?src=A00220&yptr=yahoo",
+          "url": "https://247wallst.com/investing/2026/05/14/nvidia-robs-all-of-big-tech-except-apple/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-robs-big-tech-except-183942688.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "06729d6b-05b6-3355-8f1d-79bd8e00bf0e",
+      "content": {
+        "id": "06729d6b-05b6-3355-8f1d-79bd8e00bf0e",
+        "contentType": "STORY",
+        "title": "Elizabeth Warren Targets Amazon, Google, Microsoft And Meta After Warning That AI Data Centers 'Use As Much Electricity As 100,000 Households'",
+        "description": "",
+        "summary": "On Tuesday, Sen. Elizabeth Warren (D-Mass.) launched a renewed push to examine whether the rapid expansion of AI data centers run by major technology companies is driving up electricity costs for American households. Warren Raises Alarm Over AI Power Consumption...",
+        "pubDate": "2026-05-14T18:01:05Z",
+        "displayTime": "2026-05-14T18:01:05Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/a4bec2b1da7e0f6914b080e5b80f77ab",
+          "originalWidth": 1024,
+          "originalHeight": 683,
+          "caption": "Elizabeth Warren Targets Amazon, Google, Microsoft And Meta After Warning That AI Data Centers 'Use As Much Electricity As 100,000 Households'",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WEn6GOyZyhC0tKzaT_olDw--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/a4bec2b1da7e0f6914b080e5b80f77ab",
+              "width": 1024,
+              "height": 683,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Uk0jBHDZYlywhwWR7yKdGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/a4bec2b1da7e0f6914b080e5b80f77ab",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/elizabeth-warren-targets-amazon-google-180105839.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/elizabeth-warren-targets-amazon-google-180105839.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "75f66140-de91-3061-ad62-1e2a12ba0d5c",
+      "content": {
+        "id": "75f66140-de91-3061-ad62-1e2a12ba0d5c",
+        "contentType": "STORY",
+        "title": "Intel Just Ripped 82% in a Month, but Is It Beating AMD?",
+        "description": "",
+        "summary": "Shares of Intel (NASDAQ:INTC) are trading at $115 in midday action Thursday, down 4% on the session. Even with today’s pullback, INTC stock has gained 82% over the past month, a truly impressive move. The natural question for chip investors is whether Intel is actually beating Advanced Micro Devices (NASDAQ:AMD). AMD stock is at $445, ... Intel Just Ripped 82% in a Month, but Is It Beating AMD?",
+        "pubDate": "2026-05-14T17:41:33Z",
+        "displayTime": "2026-05-14T17:41:33Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/7317409b54b4e09ed1d3d866c2cdd588",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Y7UemW6c94CofFeJvme_Pg--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/7317409b54b4e09ed1d3d866c2cdd588",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KPQ_pDyaV.LhessaxMm1CQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7317409b54b4e09ed1d3d866c2cdd588",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/14/intel-just-ripped-82-in-a-month-but-is-it-beating-amd/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-just-ripped-82-month-174133430.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
