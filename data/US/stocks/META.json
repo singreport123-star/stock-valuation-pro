@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-15T22:48:39.179410",
+    "ts": "2026-05-16T22:38:55.697552",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -154,9 +154,9 @@
     "forwardPE": 16.974262,
     "volume": 13184332,
     "regularMarketVolume": 13184332,
-    "averageVolume": 15368759,
-    "averageVolume10days": 15311840,
-    "averageDailyVolume10Day": 15311840,
+    "averageVolume": 15334766,
+    "averageVolume10days": 14494160,
+    "averageDailyVolume10Day": 14494160,
     "bid": 598.48,
     "ask": 614.68,
     "bidSize": 1,
@@ -168,13 +168,13 @@
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "priceToSalesTrailing12Months": 7.253228,
-    "fiftyDayAverage": 622.7976,
-    "twoHundredDayAverage": 673.8281,
+    "fiftyDayAverage": 621.8708,
+    "twoHundredDayAverage": 673.4233,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0033956955,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1575426064384,
+    "enterpriseValue": 1564764798976,
     "profitMargins": 0.32837,
     "floatShares": 2192766203,
     "sharesOutstanding": 2196045588,
@@ -184,7 +184,7 @@
     "dateShortInterest": 1777507200,
     "sharesPercentSharesOut": 0.0114,
     "heldPercentInsiders": 0.00102,
-    "heldPercentInstitutions": 0.78745,
+    "heldPercentInstitutions": 0.79083,
     "shortRatio": 1.69,
     "shortPercentOfFloat": 0.013200001,
     "impliedSharesOutstanding": 2538423304,
@@ -198,10 +198,10 @@
     "trailingEps": 27.52,
     "forwardEps": 36.18596,
     "pegRatio": 0.89,
-    "enterpriseToRevenue": 7.329,
-    "enterpriseToEbitda": 14.413,
-    "52WeekChange": -0.034216225,
-    "SandP52WeekChange": 0.2589395,
+    "enterpriseToRevenue": 7.279,
+    "enterpriseToEbitda": 14.315,
+    "52WeekChange": -0.040910006,
+    "SandP52WeekChange": 0.24228656,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
@@ -240,41 +240,12 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "POST",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.549697,
-    "postMarketPrice": 610.8536,
-    "postMarketChange": -3.3764038,
-    "regularMarketChange": -4.200012,
-    "regularMarketDayRange": "609.31 - 621.1999",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15368759,
-    "fiftyTwoWeekLowChange": 93.96997,
-    "fiftyTwoWeekLowChangePercent": 0.18062116,
-    "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -182.02002,
-    "fiftyTwoWeekHighChangePercent": -0.22859657,
-    "fiftyTwoWeekChangePercent": -3.4216225,
-    "dividendDate": 1774483200,
-    "earningsTimestamp": 1777492800,
-    "earningsTimestampStart": 1785355200,
-    "earningsTimestampEnd": 1785355200,
-    "earningsCallTimestampStart": 1777498200,
-    "earningsCallTimestampEnd": 1777498200,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.52,
-    "epsForward": 36.18596,
-    "epsCurrentYear": 32.29742,
-    "priceEpsCurrentYear": 19.017927,
-    "fiftyDayAverageChange": -8.567627,
-    "fiftyDayAverageChangePercent": -0.013756679,
-    "twoHundredDayAverageChange": -59.598145,
-    "twoHundredDayAverageChangePercent": -0.0884471,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "regularMarketChangePercent": -0.679141,
+    "regularMarketPrice": 614.23,
     "corporateActions": [],
-    "postMarketTime": 1778885306,
+    "postMarketTime": 1778889598,
     "regularMarketTime": 1778875201,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
@@ -283,15 +254,44 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -0.6791411,
-    "regularMarketPrice": 614.23,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": -0.6235378,
+    "postMarketPrice": 610.4,
+    "postMarketChange": -3.829956,
+    "regularMarketChange": -4.20001,
+    "regularMarketDayRange": "609.31 - 621.1999",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 15334766,
+    "fiftyTwoWeekLowChange": 93.96997,
+    "fiftyTwoWeekLowChangePercent": 0.18062116,
+    "fiftyTwoWeekRange": "520.26 - 796.25",
+    "fiftyTwoWeekHighChange": -182.02002,
+    "fiftyTwoWeekHighChangePercent": -0.22859657,
+    "fiftyTwoWeekChangePercent": -4.0910006,
+    "epsTrailingTwelveMonths": 27.52,
+    "epsForward": 36.18596,
+    "epsCurrentYear": 32.29742,
+    "priceEpsCurrentYear": 19.017927,
+    "fiftyDayAverageChange": -7.640808,
+    "fiftyDayAverageChangePercent": -0.01228681,
+    "twoHundredDayAverageChange": -59.1933,
+    "twoHundredDayAverageChangePercent": -0.0878991,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-15",
+    "nameChangeDate": "2026-05-16",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
+    "dividendDate": 1774483200,
+    "earningsTimestamp": 1777492800,
+    "earningsTimestampStart": 1785355200,
+    "earningsTimestampEnd": 1785355200,
+    "earningsCallTimestampStart": 1777498200,
+    "earningsCallTimestampEnd": 1777498200,
+    "isEarningsDateEstimate": true,
+    "marketState": "CLOSED",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8893
   },
@@ -309,7 +309,7 @@
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.11,
+        "2025-06-30T00:00:00.000": 0.106993,
         "2025-03-31T00:00:00.000": 0.094549,
         "2024-12-31T00:00:00.000": null
       },
@@ -1766,32 +1766,32 @@
   },
   "news": [
     {
-      "id": "ac31044c-675f-40e5-8f47-e0d672d122e2",
+      "id": "4550063b-8cd4-3f2e-9387-823585e89e87",
       "content": {
-        "id": "ac31044c-675f-40e5-8f47-e0d672d122e2",
-        "contentType": "VIDEO",
-        "title": "The global memory shortage is coming for Nintendo",
-        "description": "<p>Yahoo Finance Tech Editor Dan Howley joins Market Domination to discuss how the global memory shortage is affecting the gaming world.</p>",
-        "summary": "Yahoo Finance Tech Editor Dan Howley joins Market Domination to discuss how the global memory shortage is affecting the gaming world.",
-        "pubDate": "2026-05-15T19:57:27Z",
-        "displayTime": "",
+        "id": "4550063b-8cd4-3f2e-9387-823585e89e87",
+        "contentType": "STORY",
+        "title": "$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods",
+        "description": "",
+        "summary": "AI companies are boosting the U.S. economy, but it doesn’t tell the full story about inflation, wages, and the labor market.",
+        "pubDate": "2026-05-16T19:35:00Z",
+        "displayTime": "2026-05-16T19:35:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ep_Y3sugBrFMaKXec5rKKw--~B/aD0yODI4O3c9NDI0MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/c2bcba51-c351-48b5-b304-8237223762c0",
-          "originalWidth": 4242,
-          "originalHeight": 2828,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/moneywise_327/9f779f2ed96f3bf2da44be76128be1a3",
+          "originalWidth": 1024,
+          "originalHeight": 576,
+          "caption": "A photo of Mark Zuckerberg",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ep_Y3sugBrFMaKXec5rKKw--~B/aD0yODI4O3c9NDI0MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/c2bcba51-c351-48b5-b304-8237223762c0",
-              "width": 4242,
-              "height": 2828,
+              "url": "https://s.yimg.com/uu/api/res/1.2/_rJeBS3o.5IMAa9l_4Bf1Q--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_327/9f779f2ed96f3bf2da44be76128be1a3",
+              "width": 1024,
+              "height": 576,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/B9bZcHVyPCLWyd8Tc86jww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/c2bcba51-c351-48b5-b304-8237223762c0",
+              "url": "https://s.yimg.com/uu/api/res/1.2/W67TTfmYa_bSax7EXLuyrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/9f779f2ed96f3bf2da44be76128be1a3",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1799,24 +1799,24 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
+          "displayName": "Moneywise",
+          "url": "https://moneywise.com/",
+          "sourceId": "moneywise_327"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/the-global-memory-shortage-is-coming-for-nintendo-195727638.html",
+          "url": "https://finance.yahoo.com/economy/articles/800b-ai-spending-juicing-gdp-193500398.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/the-global-memory-shortage-is-coming-for-nintendo-195727638.html",
+          "url": "https://finance.yahoo.com/economy/articles/800b-ai-spending-juicing-gdp-193500398.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -1828,32 +1828,32 @@
       }
     },
     {
-      "id": "5a373a4c-d8a2-4d82-b673-331d60b6bdf5",
+      "id": "82c8b7b7-75a1-3cd8-8f51-a4fff3c1de3c",
       "content": {
-        "id": "5a373a4c-d8a2-4d82-b673-331d60b6bdf5",
+        "id": "82c8b7b7-75a1-3cd8-8f51-a4fff3c1de3c",
         "contentType": "STORY",
-        "title": "The market is at the start of the next commodity supercycle, Carlyle's Jeff Currie says",
+        "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
         "description": "",
-        "summary": "The market is entering the next commodity supercycle, Carlyle Group's Jeff Currie argues.",
-        "pubDate": "2026-05-15T18:12:08Z",
-        "displayTime": "2026-05-15T18:12:08Z",
+        "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+        "pubDate": "2026-05-16T19:26:14Z",
+        "displayTime": "2026-05-16T19:26:14Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/RermpxNZwebWhatdu0mmwQ--~B/aD00NjkzO3c9NzA0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/e0740673-7d48-4206-8d16-e044a407ffe5",
-          "originalWidth": 7040,
-          "originalHeight": 4693,
+          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/289b5f2fe2a75186cc82f31570c82ec8",
+          "originalWidth": 1290,
+          "originalHeight": 861,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/RermpxNZwebWhatdu0mmwQ--~B/aD00NjkzO3c9NzA0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/e0740673-7d48-4206-8d16-e044a407ffe5",
-              "width": 7040,
-              "height": 4693,
+              "url": "https://s.yimg.com/uu/api/res/1.2/nQw6xIG9HEJbcGeaXOQ8KQ--~B/aD04NjE7dz0xMjkwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_finance_785/289b5f2fe2a75186cc82f31570c82ec8",
+              "width": 1290,
+              "height": 861,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fkJilmjfLqyHdL1JoC91EA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/e0740673-7d48-4206-8d16-e044a407ffe5",
+              "url": "https://s.yimg.com/uu/api/res/1.2/j6Mr7eohd4WzvaTfOYOpQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/289b5f2fe2a75186cc82f31570c82ec8",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1861,24 +1861,24 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "TechCrunch",
+          "url": "https://techcrunch.com/",
+          "sourceId": "techcrunch_finance_785"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/the-market-is-at-the-start-of-the-next-commodity-supercycle-carlyles-jeff-currie-says-181208277.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/marketing-operating-system-nectar-social-192614046.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/the-market-is-at-the-start-of-the-next-commodity-supercycle-carlyles-jeff-currie-says-181208277.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/marketing-operating-system-nectar-social-192614046.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -1890,32 +1890,32 @@
       }
     },
     {
-      "id": "5b6c1a95-eab1-3fb9-81b4-ab717d7dfe37",
+      "id": "2275b208-b541-3107-b8e3-3d73542efe57",
       "content": {
-        "id": "5b6c1a95-eab1-3fb9-81b4-ab717d7dfe37",
+        "id": "2275b208-b541-3107-b8e3-3d73542efe57",
         "contentType": "STORY",
-        "title": "Mark Zuckerberg sends stunning message to Meta employees",
+        "title": "5-star analysts reset Broadcom stock price target",
         "description": "",
-        "summary": "Meta posted record profits in the first quarter of 2026. Its revenue hit $56.31 billion, and its net income came in at $26.8 billion. Three weeks after those results, the company is set to hand out roughly 8,000 pink slips. For employees watching that math unfold in real time, the message from the ...",
-        "pubDate": "2026-05-15T22:17:00Z",
-        "displayTime": "2026-05-15T22:17:00Z",
+        "summary": "Broadcom (AVGO) stock has gained about 36% since the April 6 closing price of $314.43, trading at $428.61 according to Yahoo Finance at the time of writing, Friday afternoon, May 15. Meanwhile, the SPDR S&P 500 index (SPY) is up about 12.5% in the same period. Why has Broadcom outpaced the ...",
+        "pubDate": "2026-05-16T17:33:00Z",
+        "displayTime": "2026-05-16T17:33:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/ae0ddf53dbd16b0490862be0c2f6ceb8",
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/967ff8d9b9eda7f25a5119f88dcbc1f2",
           "originalWidth": 1200,
           "originalHeight": 675,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2JmLxvRFhDEZFF8LL72urQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/ae0ddf53dbd16b0490862be0c2f6ceb8",
+              "url": "https://s.yimg.com/uu/api/res/1.2/djH7Zl3ejjYVIcn0C9DSFw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/967ff8d9b9eda7f25a5119f88dcbc1f2",
               "width": 1200,
               "height": 675,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/O2BGjMAafW9JAO.HK_7bQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/ae0ddf53dbd16b0490862be0c2f6ceb8",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ferSqfnUI9C3_NQOKjdTMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/967ff8d9b9eda7f25a5119f88dcbc1f2",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1928,13 +1928,261 @@
           "sourceId": "thestreet_881"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/employment/mark-zuckerberg-tells-meta-employees-ai-not-driving-layoffs",
+          "url": "https://www.thestreet.com/investing/stocks/5-star-analysts-raise-broadcom-stock-price-target",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-stunning-message-221700089.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analysts-reset-broadcom-173300375.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d2209b9c-42dd-37ac-9576-94146028f7ea",
+      "content": {
+        "id": "d2209b9c-42dd-37ac-9576-94146028f7ea",
+        "contentType": "STORY",
+        "title": "The SpaceX IPO Is Coming June 12. Here’s Why You Shouldn’t Rush In to Buy",
+        "description": "",
+        "summary": "For years, investors have watched private companies stay private longer while Wall Street’s biggest gains increasingly went to venture capital firms and institutional money managers. That’s part of why the upcoming IPO of SpaceX has generated so much excitement. Retail investors finally get a shot at owning one of the world’s most influential companies. And ... The SpaceX IPO Is Coming June 12. Here’s Why You Shouldn’t Rush In to Buy",
+        "pubDate": "2026-05-16T17:22:20Z",
+        "displayTime": "2026-05-16T17:22:20Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/d68b1d05ed3b99268b31920b3bd88a65",
+          "originalWidth": 1024,
+          "originalHeight": 542,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EafMp8kqCJ7Nv3r8FkrSgw--~B/aD01NDI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/d68b1d05ed3b99268b31920b3bd88a65",
+              "width": 1024,
+              "height": 542,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Zx00HhixsibcKrRPD6wG3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d68b1d05ed3b99268b31920b3bd88a65",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/16/the-spacex-ipo-is-coming-june-12-heres-why-you-shouldnt-rush-in-to-buy/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-coming-june-12-172220729.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "833052cc-baaf-3200-a5a0-b084caf96dbd",
+      "content": {
+        "id": "833052cc-baaf-3200-a5a0-b084caf96dbd",
+        "contentType": "STORY",
+        "title": "The Staggering Number Jensen Huang Just Revealed Changes Everything About AI",
+        "description": "",
+        "summary": "The U.S. electricity grid hasn’t faced a demand shock like this since the post-World War II industrial boom. For decades, power consumption grew at a sleepy 1% to 2% annually. Then came data centers. Then came AI. And now, if Nvidia (NASDAQ:NVDA) CEO Jensen Huang is right, we haven’t seen anything yet. So here’s the ... The Staggering Number Jensen Huang Just Revealed Changes Everything About AI",
+        "pubDate": "2026-05-16T16:37:15Z",
+        "displayTime": "2026-05-16T16:37:15Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b99eeea80788aff5ba7b75334a42c775",
+          "originalWidth": 1920,
+          "originalHeight": 1920,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ynL1pu4.3KzXphJbN3AK8w--~B/aD0xOTIwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/b99eeea80788aff5ba7b75334a42c775",
+              "width": 1920,
+              "height": 1920,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1CMebrQiov_VoWMkq5aUeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b99eeea80788aff5ba7b75334a42c775",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/16/the-staggering-number-jensen-huang-just-revealed-changes-everything-about-ai/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/staggering-number-jensen-huang-just-163715189.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a4b10cbe-91e4-3e8f-83a4-0943579483e8",
+      "content": {
+        "id": "a4b10cbe-91e4-3e8f-83a4-0943579483e8",
+        "contentType": "STORY",
+        "title": "Cerebras Is the Biggest IPO of the Year. If You Buy CBRS Stock Now, Brace Yourself for Volatility Ahead.",
+        "description": "",
+        "summary": "There's a lot of enthusiasm about this Nvidia competitor. What exactly is drawing investors?",
+        "pubDate": "2026-05-16T15:30:02Z",
+        "displayTime": "2026-05-16T15:30:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/96fd7b9ff4a55f68ad276840fc638841",
+          "originalWidth": 1600,
+          "originalHeight": 1065,
+          "caption": "Artificial Intelligence technology concept by NicoEINino via Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pD_piBDH0qYAAOvjXymG9A--~B/aD0xMDY1O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/96fd7b9ff4a55f68ad276840fc638841",
+              "width": 1600,
+              "height": 1065,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9r1BDlZ9N8PBaKKVO8Ax9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/96fd7b9ff4a55f68ad276840fc638841",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/1976496/cerebras-is-the-biggest-ipo-of-the-year-if-you-buy-cbrs-stock-now-brace-yourself-for-volatility-ahead",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-biggest-ipo-buy-cbrs-153002579.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "30064050-7433-3962-aa91-d3263672b35b",
+      "content": {
+        "id": "30064050-7433-3962-aa91-d3263672b35b",
+        "contentType": "STORY",
+        "title": "Oracle Corporation (ORCL) Named Top Pick as Oppenheimer Lifts Price Target",
+        "description": "",
+        "summary": "Oracle Corporation (NYSE:ORCL) is among the stocks with the best earnings growth for the next 10 years. On May 12, Brian Schwartz from Oppenheimer lifted the price target on Oracle Corporation (NYSE:ORCL) to $235 from $210 and reiterated an Outperform rating. While highlighting positive developments during the current quarter, which will strengthen its superior EPS […]",
+        "pubDate": "2026-05-16T15:26:29Z",
+        "displayTime": "2026-05-16T15:26:29Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/929b40cac95e8e50f8e4ac06abbb4453",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "Is Oracle (ORCL) One of the Best Robinhood Stocks to Buy According to Billionaires?",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ObU_Rre6SpssqI9PvGpn7Q--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/929b40cac95e8e50f8e4ac06abbb4453",
+              "width": 1000,
+              "height": 667,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mvF7fB5F_yYaJQrbCpieFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/929b40cac95e8e50f8e4ac06abbb4453",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-corporation-orcl-named-top-152629171.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-corporation-orcl-named-top-152629171.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1958,9 +2206,9 @@
         "contentType": "STORY",
         "title": "Trump’s More Than 3,700 Trades Astonish Wall Street Insiders",
         "description": "",
-        "summary": "(Bloomberg) -- President Donald Trump’s latest financial disclosures show that he or his investment advisers made more than 3,700 trades in the first quarter, a flurry totaling tens of millions of dollars and involving major companies that have dealings with his administration. Most Read from BloombergHormuz Oil Flows Creep Higher as More Supertankers ExitWhat Is The Thucydides Trap and Why Did Xi Raise It With Trump?Iran’s Kharg Island Oil Jetties Empty Again Yesterday, Satellite ShowsNigerian",
-        "pubDate": "2026-05-15T20:44:03Z",
-        "displayTime": "2026-05-15T20:44:03Z",
+        "summary": "(Bloomberg) -- President Donald Trump’s latest financial disclosures show that he or his investment advisers made more than 3,700 trades in the first quarter, a flurry totaling tens of millions of dollars and involving major companies that have dealings with his administration. Most Read from BloombergWinners and Losers From Trump and Xi’s Beijing Summit TalksHormuz Oil Flows Creep Higher as More Supertankers ExitWhat Is The Thucydides Trap and Why Did Xi Raise It With Trump?Iran’s Kharg Island",
+        "pubDate": "2026-05-16T14:10:49Z",
+        "displayTime": "2026-05-16T14:10:49Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -2014,261 +2262,32 @@
       }
     },
     {
-      "id": "7fc0b29a-7376-3d80-bc08-149fc36c1875",
+      "id": "97002908-5819-3fe6-b526-908a7d690e9d",
       "content": {
-        "id": "7fc0b29a-7376-3d80-bc08-149fc36c1875",
+        "id": "97002908-5819-3fe6-b526-908a7d690e9d",
         "contentType": "STORY",
-        "title": "Aptos SVP says blockchains will 'build a new universe'",
+        "title": "Buy Nvidia Under $250 on Trump’s China Visit and Warsh’s Dovish AI Signals",
         "description": "",
-        "summary": "Aptos is not a typical crypto startup. It was built by former Meta engineers who spent three years working on the Diem blockchain (formerly Libra) before spinning out as an independent network. Co-founders Mo Shaikh and Avery Ching took the Move programming language, the parallel execution engine, ...",
-        "pubDate": "2026-05-15T20:08:20Z",
-        "displayTime": "2026-05-15T20:08:20Z",
+        "summary": "NVIDIA (NASDAQ:NVDA) at $235.74 screens attractively under $250. President Trump’s China visit and growing signals that potential Fed Chair candidate Kevin Warsh will take a dovish stance toward AI investment reframe the two biggest overhangs on this stock: export controls and rate policy. Nvidia sits at the center of the AI buildout. Data Center revenue ... Buy Nvidia Under $250 on Trump’s China Visit and Warsh’s Dovish AI Signals",
+        "pubDate": "2026-05-16T12:08:23Z",
+        "displayTime": "2026-05-16T12:08:23Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/7397d34f6cfba35569b5fc47fdc7a74c",
-          "originalWidth": 1536,
-          "originalHeight": 1536,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/z_7WCUdvkPMrJ87WpKMM9A--~B/aD0xNTM2O3c9MTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/7397d34f6cfba35569b5fc47fdc7a74c",
-              "width": 1536,
-              "height": 1536,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/235.iIwMezqlKNTuxDKk8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/7397d34f6cfba35569b5fc47fdc7a74c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/crypto/innovation/blockchains-will-build-a-new-universe",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/crypto/articles/aptos-svp-says-blockchains-build-200820261.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "989caf0b-f403-3db0-af83-57158634c9b8",
-      "content": {
-        "id": "989caf0b-f403-3db0-af83-57158634c9b8",
-        "contentType": "STORY",
-        "title": "Update: AI Revenue May Jump Fivefold to $200 Billion This Year as Spending Race Intensifies",
-        "description": "",
-        "summary": "(Updates to add stock prices in 22nd paragraph.) The world's largest artificial intelligence firm",
-        "pubDate": "2026-05-15T18:44:47Z",
-        "displayTime": "2026-05-15T18:44:47Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-revenue-may-jump-fivefold-184447462.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-revenue-may-jump-fivefold-184447462.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b15ed74b-67d9-3bf9-aaed-a48c67dba6da",
-      "content": {
-        "id": "b15ed74b-67d9-3bf9-aaed-a48c67dba6da",
-        "contentType": "STORY",
-        "title": "Update: AI Revenue May Jump Fivefold to $200 Billion as Spending Race Intensifies",
-        "description": "",
-        "summary": "(Updates to show Anthropic declined to comment in the 16th paragraph.) The world's largest artifi",
-        "pubDate": "2026-05-15T18:26:03Z",
-        "displayTime": "2026-05-15T18:26:03Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/mt_newswires_premium_news_706/3a3e454fb3d264c2630983884f5e976b",
-          "originalWidth": 1024,
-          "originalHeight": 689,
-          "caption": "Data centers.jpg - Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZkQ0DSVoe3WUiTZSV1GGvw--~B/aD02ODk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/mt_newswires_premium_news_706/3a3e454fb3d264c2630983884f5e976b",
-              "width": 1024,
-              "height": 689,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/LUFlLex6oGhDecWi0bBcAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/3a3e454fb3d264c2630983884f5e976b",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-revenue-may-jump-fivefold-182603096.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-revenue-may-jump-fivefold-182603096.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "398eaf1f-33ed-31ff-be0e-79d242e62f6f",
-      "content": {
-        "id": "398eaf1f-33ed-31ff-be0e-79d242e62f6f",
-        "contentType": "STORY",
-        "title": "Bank of America resets AMD stock price target",
-        "description": "",
-        "summary": "Advanced Micro Devices (AMD) has gained more than 100% year to date, according to Yahoo Finance at the time of writing, Friday morning, May 15. Meanwhile, the SPDR S&P 500 index (SPY) is up slightly below 10% in the same period. AMD has outpaced the S&P 500 by a huge margin. That is ...",
-        "pubDate": "2026-05-15T18:03:00Z",
-        "displayTime": "2026-05-15T18:03:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/da1c8bf8a75e7d4472058dad28531348",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_Vs0azDTxUQW3pBweKlCqg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/da1c8bf8a75e7d4472058dad28531348",
-              "width": 1200,
-              "height": 675,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2iFS3au4.TdHK6oOhN6fsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/da1c8bf8a75e7d4472058dad28531348",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/bank-of-america-raises-amd-stock-price-target",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-amd-stock-180300226.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "37837fb4-d74b-3401-85b3-a737c3d9183f",
-      "content": {
-        "id": "37837fb4-d74b-3401-85b3-a737c3d9183f",
-        "contentType": "STORY",
-        "title": "Money Pit? Zuckerberg Just Exposed Why Hyperscaler AI Spending Keeps Going Up",
-        "description": "",
-        "summary": "Meta’s (NASDAQ:META) Chief Financial Officer, Susan Li, said in the earnings call that they anticipate 2026 capital expenditures “…to be in the range of $125-145 billion, increased from our prior range of $115-135 billion.” Wall Street punished the stock for this level of spending, arguing that Meta Platforms was leaning too heavily into data centers and ... Money Pit? Zuckerberg Just Exposed Why Hyperscaler AI Spending Keeps Going Up",
-        "pubDate": "2026-05-15T17:58:56Z",
-        "displayTime": "2026-05-15T17:58:56Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/2d8b84c16fc3bb28c96ab7ff01b2f9db",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/59253969fe1aaf09e1a835dad3ab8133",
           "originalWidth": 1366,
-          "originalHeight": 767,
+          "originalHeight": 768,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xIHHpkSbm_XGjZmpg.9BBA--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/2d8b84c16fc3bb28c96ab7ff01b2f9db",
+              "url": "https://s.yimg.com/uu/api/res/1.2/clitpT.OCih4H7j4s4_GZA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/59253969fe1aaf09e1a835dad3ab8133",
               "width": 1366,
-              "height": 767,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/J4JuGw.PneFLaYESjRK5mQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2d8b84c16fc3bb28c96ab7ff01b2f9db",
+              "url": "https://s.yimg.com/uu/api/res/1.2/pFgrvxeLlGjKXQFub3i0.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/59253969fe1aaf09e1a835dad3ab8133",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2281,13 +2300,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/15/money-pit-zuckerberg-just-exposed-why-hyperscaler-ai-spending-keeps-going-up/",
+          "url": "https://247wallst.com/investing/2026/05/16/buy-nvidia-under-250-on-trumps-china-visit-and-warshs-dovish-ai-signals/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/money-pit-zuckerberg-just-exposed-175856073.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-nvidia-under-250-trump-120823636.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2305,32 +2324,32 @@
       }
     },
     {
-      "id": "d903ca09-77b7-3adc-b85d-2eab8d729f1a",
+      "id": "f2e76390-f47d-39e7-a49e-df887adb49ae",
       "content": {
-        "id": "d903ca09-77b7-3adc-b85d-2eab8d729f1a",
+        "id": "f2e76390-f47d-39e7-a49e-df887adb49ae",
         "contentType": "STORY",
-        "title": "2 Internet Stocks to Research Further and 1 We Ignore",
+        "title": "The prophet of the ‘Wired Belt’ says capitalism is finally eating itself",
         "description": "",
-        "summary": "By breaking down physical barriers, consumer internet businesses are reshaping how people shop, connect, learn, and play. This influence cuts both ways though because they have high exposure to the ups and downs of consumer spending, and the market seems to believe the tide is turning in the wrong direction - over the past six months, the industry has tumbled by 16.6%. This drop is a stark contrast from the S&P 500’s 7.9% gain.",
-        "pubDate": "2026-05-15T17:48:55Z",
-        "displayTime": "2026-05-15T17:48:55Z",
+        "summary": "Tufts' Bhaskar Chakravorti predicted AI would destroy the jobs business needs most — in the exact cities where business lives.",
+        "pubDate": "2026-05-16T10:30:00Z",
+        "displayTime": "2026-05-16T10:30:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "META Cover Image",
+          "originalUrl": "https://media.zenfs.com/en/fortune_175/d200ee10d5f7847f317ee16c2c3143d3",
+          "originalWidth": 2048,
+          "originalHeight": 1365,
+          "caption": "Bhaskar Chakravorti, Senior Associate Dean for International Business and Finance at Tufts University, attends the interactive session 'Exploring New Frontiers of Growth' during the 2012 Tianjin Summer Davos at Meijiang Convention and Exhibition Center on September 11, 2012 in Tianjin, China.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Ol.OYXaTLDXSb6x604S3Pw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
-              "width": 1400,
-              "height": 700,
+              "url": "https://s.yimg.com/uu/api/res/1.2/goTyqydtr1TwqdV6fhzgAA--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/d200ee10d5f7847f317ee16c2c3143d3",
+              "width": 2048,
+              "height": 1365,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OJ.q7321ts98DrQRXKRU7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+              "url": "https://s.yimg.com/uu/api/res/1.2/wlnEa3Vi4Z094xV_Zi3w9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/d200ee10d5f7847f317ee16c2c3143d3",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2338,18 +2357,18 @@
           ]
         },
         "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
+          "displayName": "Fortune",
+          "url": "http://fortune.com/",
+          "sourceId": "fortune_175"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-internet-stocks-research-further-174855636.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/prophet-wired-belt-says-capitalism-103000709.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-internet-stocks-research-further-174855636.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/prophet-wired-belt-says-capitalism-103000709.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
