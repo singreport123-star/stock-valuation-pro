@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-16T22:38:55.697552",
+    "ts": "2026-05-17T22:46:44.084969",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -152,9 +152,9 @@
     "beta": 1.243,
     "trailingPE": 22.319403,
     "forwardPE": 16.974262,
-    "volume": 13184332,
-    "regularMarketVolume": 13184332,
-    "averageVolume": 15334766,
+    "volume": 13272567,
+    "regularMarketVolume": 13272567,
+    "averageVolume": 15377670,
     "averageVolume10days": 14494160,
     "averageDailyVolume10Day": 14494160,
     "bid": 598.48,
@@ -176,7 +176,7 @@
     "tradeable": false,
     "enterpriseValue": 1564764798976,
     "profitMargins": 0.32837,
-    "floatShares": 2192766203,
+    "floatShares": 2192740818,
     "sharesOutstanding": 2196045588,
     "sharesShort": 28980090,
     "sharesShortPriorMonth": 26376854,
@@ -240,13 +240,6 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "regularMarketChangePercent": -0.679141,
-    "regularMarketPrice": 614.23,
-    "corporateActions": [],
-    "postMarketTime": 1778889598,
-    "regularMarketTime": 1778875201,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -254,24 +247,39 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
+    "regularMarketChangePercent": -0.6791411,
+    "regularMarketPrice": 614.23,
+    "corporateActions": [],
+    "postMarketTime": 1778889598,
+    "regularMarketTime": 1778875201,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
     "postMarketChangePercent": -0.6235378,
     "postMarketPrice": 610.4,
     "postMarketChange": -3.829956,
-    "regularMarketChange": -4.20001,
+    "regularMarketChange": -4.200012,
     "regularMarketDayRange": "609.31 - 621.1999",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15334766,
+    "averageDailyVolume3Month": 15377670,
     "fiftyTwoWeekLowChange": 93.96997,
     "fiftyTwoWeekLowChangePercent": 0.18062116,
     "fiftyTwoWeekRange": "520.26 - 796.25",
     "fiftyTwoWeekHighChange": -182.02002,
     "fiftyTwoWeekHighChangePercent": -0.22859657,
     "fiftyTwoWeekChangePercent": -4.0910006,
+    "dividendDate": 1774483200,
+    "earningsTimestamp": 1777492800,
+    "earningsTimestampStart": 1785355200,
+    "earningsTimestampEnd": 1785355200,
+    "earningsCallTimestampStart": 1777498200,
+    "earningsCallTimestampEnd": 1777498200,
+    "isEarningsDateEstimate": true,
     "epsTrailingTwelveMonths": 27.52,
     "epsForward": 36.18596,
     "epsCurrentYear": 32.29742,
+    "marketState": "CLOSED",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "priceEpsCurrentYear": 19.017927,
     "fiftyDayAverageChange": -7.640808,
     "fiftyDayAverageChangePercent": -0.01228681,
@@ -281,17 +289,9 @@
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-16",
+    "nameChangeDate": "2026-05-17",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
-    "dividendDate": 1774483200,
-    "earningsTimestamp": 1777492800,
-    "earningsTimestampStart": 1785355200,
-    "earningsTimestampEnd": 1785355200,
-    "earningsCallTimestampStart": 1777498200,
-    "earningsCallTimestampEnd": 1777498200,
-    "isEarningsDateEstimate": true,
-    "marketState": "CLOSED",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8893
   },
@@ -1761,37 +1761,37 @@
       "Earnings Average": 7.50889,
       "Revenue High": 62812000000,
       "Revenue Low": 59132000000,
-      "Revenue Average": 60209152310
+      "Revenue Average": 60218292050
     }
   },
   "news": [
     {
-      "id": "4550063b-8cd4-3f2e-9387-823585e89e87",
+      "id": "49e05909-f888-3dee-b3f3-59c1c640c885",
       "content": {
-        "id": "4550063b-8cd4-3f2e-9387-823585e89e87",
+        "id": "49e05909-f888-3dee-b3f3-59c1c640c885",
         "contentType": "STORY",
-        "title": "$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods",
+        "title": "Bernie Sanders Slams 'AI Oligarchs' Joining Trump On China Trip Amid Layoffs: 'Do You Think They're Losing Sleep'",
         "description": "",
-        "summary": "AI companies are boosting the U.S. economy, but it doesn’t tell the full story about inflation, wages, and the labor market.",
-        "pubDate": "2026-05-16T19:35:00Z",
-        "displayTime": "2026-05-16T19:35:00Z",
+        "summary": "Sen. Bernie Sanders (I-Vt.) criticized the growing influence of ultra-wealthy tech leaders as President Donald Trump's high-profile visit to China placed Silicon Valley's biggest names and their economic power at the center of global diplomacy and AI debate. Sanders Questions...",
+        "pubDate": "2026-05-17T21:31:26Z",
+        "displayTime": "2026-05-17T21:31:26Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/moneywise_327/9f779f2ed96f3bf2da44be76128be1a3",
-          "originalWidth": 1024,
-          "originalHeight": 576,
-          "caption": "A photo of Mark Zuckerberg",
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/fda73de73492213c7ed4c2c8f252e133",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "Bernie Sanders Slams 'AI Oligarchs' Joining Trump On China Trip Amid Layoffs: 'Do You Think They're Losing Sleep'",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_rJeBS3o.5IMAa9l_4Bf1Q--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_327/9f779f2ed96f3bf2da44be76128be1a3",
-              "width": 1024,
-              "height": 576,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ujQUMb0C4N66qEraW6hhWQ--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/fda73de73492213c7ed4c2c8f252e133",
+              "width": 1000,
+              "height": 667,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/W67TTfmYa_bSax7EXLuyrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/9f779f2ed96f3bf2da44be76128be1a3",
+              "url": "https://s.yimg.com/uu/api/res/1.2/uGg9JORVxadqmZAWp14eVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/fda73de73492213c7ed4c2c8f252e133",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1799,18 +1799,18 @@
           ]
         },
         "provider": {
-          "displayName": "Moneywise",
-          "url": "https://moneywise.com/",
-          "sourceId": "moneywise_327"
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/economy/articles/800b-ai-spending-juicing-gdp-193500398.html",
-          "site": "finance",
+          "url": "https://www.yahoo.com/news/articles/bernie-sanders-slams-ai-oligarchs-213126271.html",
+          "site": "news",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/articles/800b-ai-spending-juicing-gdp-193500398.html",
+          "url": "https://www.yahoo.com/news/articles/bernie-sanders-slams-ai-oligarchs-213126271.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1828,32 +1828,32 @@
       }
     },
     {
-      "id": "82c8b7b7-75a1-3cd8-8f51-a4fff3c1de3c",
+      "id": "3dcdde44-73bf-3d63-a819-393814bb29f9",
       "content": {
-        "id": "82c8b7b7-75a1-3cd8-8f51-a4fff3c1de3c",
+        "id": "3dcdde44-73bf-3d63-a819-393814bb29f9",
         "contentType": "STORY",
-        "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+        "title": "What Is the Cheapest \"Magnificent Seven\" Stock?",
         "description": "",
-        "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
-        "pubDate": "2026-05-16T19:26:14Z",
-        "displayTime": "2026-05-16T19:26:14Z",
+        "summary": "There are two companies investors should consider for bargain values.",
+        "pubDate": "2026-05-17T20:20:00Z",
+        "displayTime": "2026-05-17T20:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/289b5f2fe2a75186cc82f31570c82ec8",
-          "originalWidth": 1290,
-          "originalHeight": 861,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c5d563d6444400a925982076c6f2663b",
+          "originalWidth": 1400,
+          "originalHeight": 787,
+          "caption": "A group of analysts comparing notes.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nQw6xIG9HEJbcGeaXOQ8KQ--~B/aD04NjE7dz0xMjkwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_finance_785/289b5f2fe2a75186cc82f31570c82ec8",
-              "width": 1290,
-              "height": 861,
+              "url": "https://s.yimg.com/uu/api/res/1.2/dJUMFlFADIQ.yBdgTEkIwA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c5d563d6444400a925982076c6f2663b",
+              "width": 1400,
+              "height": 787,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/j6Mr7eohd4WzvaTfOYOpQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/289b5f2fe2a75186cc82f31570c82ec8",
+              "url": "https://s.yimg.com/uu/api/res/1.2/tbMGI7KF9cjKqpsfeD6lBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5d563d6444400a925982076c6f2663b",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1861,18 +1861,18 @@
           ]
         },
         "provider": {
-          "displayName": "TechCrunch",
-          "url": "https://techcrunch.com/",
-          "sourceId": "techcrunch_finance_785"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/marketing-operating-system-nectar-social-192614046.html",
+          "url": "https://www.fool.com/investing/2026/05/17/what-is-the-cheapest-magnificent-seven-stock/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/marketing-operating-system-nectar-social-192614046.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cheapest-magnificent-seven-stock-202000791.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1890,32 +1890,32 @@
       }
     },
     {
-      "id": "2275b208-b541-3107-b8e3-3d73542efe57",
+      "id": "505eb1d1-0a3a-3206-a9a0-dd1502a396c8",
       "content": {
-        "id": "2275b208-b541-3107-b8e3-3d73542efe57",
+        "id": "505eb1d1-0a3a-3206-a9a0-dd1502a396c8",
         "contentType": "STORY",
-        "title": "5-star analysts reset Broadcom stock price target",
+        "title": "AMD buys $6.5 million of surging tech stock",
         "description": "",
-        "summary": "Broadcom (AVGO) stock has gained about 36% since the April 6 closing price of $314.43, trading at $428.61 according to Yahoo Finance at the time of writing, Friday afternoon, May 15. Meanwhile, the SPDR S&P 500 index (SPY) is up about 12.5% in the same period. Why has Broadcom outpaced the ...",
-        "pubDate": "2026-05-16T17:33:00Z",
-        "displayTime": "2026-05-16T17:33:00Z",
+        "summary": "Advanced Micro Devices (AMD) has gained about 98% year to date, according to Yahoo Finance at the time of writing, Sunday morning, May 17. Meanwhile, the SPDR S&P 500 index (SPY) is up about 8.4% in the same period. The company has outpaced the S&P 500 by a huge margin. That is impressive, ...",
+        "pubDate": "2026-05-17T20:07:00Z",
+        "displayTime": "2026-05-17T20:07:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/967ff8d9b9eda7f25a5119f88dcbc1f2",
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/fae6a2a36050568834b053a1afad9721",
           "originalWidth": 1200,
           "originalHeight": 675,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/djH7Zl3ejjYVIcn0C9DSFw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/967ff8d9b9eda7f25a5119f88dcbc1f2",
+              "url": "https://s.yimg.com/uu/api/res/1.2/kGSiRRI0juOp_CDk6E6tmQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/fae6a2a36050568834b053a1afad9721",
               "width": 1200,
               "height": 675,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ferSqfnUI9C3_NQOKjdTMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/967ff8d9b9eda7f25a5119f88dcbc1f2",
+              "url": "https://s.yimg.com/uu/api/res/1.2/xsBwwgckGGDhsrR7FIGcug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/fae6a2a36050568834b053a1afad9721",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1928,13 +1928,13 @@
           "sourceId": "thestreet_881"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/5-star-analysts-raise-broadcom-stock-price-target",
+          "url": "https://www.thestreet.com/investing/stocks/amd-buys-6-5-million-of-marvell-stock",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analysts-reset-broadcom-173300375.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-buys-6-5-million-200700290.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1952,32 +1952,156 @@
       }
     },
     {
-      "id": "d2209b9c-42dd-37ac-9576-94146028f7ea",
+      "id": "a44708ba-d784-3502-9d7a-b56c28c99fa3",
       "content": {
-        "id": "d2209b9c-42dd-37ac-9576-94146028f7ea",
+        "id": "a44708ba-d784-3502-9d7a-b56c28c99fa3",
         "contentType": "STORY",
-        "title": "The SpaceX IPO Is Coming June 12. Here’s Why You Shouldn’t Rush In to Buy",
+        "title": "Snapchat: Don't Rush to Buy This Social Media Stock",
         "description": "",
-        "summary": "For years, investors have watched private companies stay private longer while Wall Street’s biggest gains increasingly went to venture capital firms and institutional money managers. That’s part of why the upcoming IPO of SpaceX has generated so much excitement. Retail investors finally get a shot at owning one of the world’s most influential companies. And ... The SpaceX IPO Is Coming June 12. Here’s Why You Shouldn’t Rush In to Buy",
-        "pubDate": "2026-05-16T17:22:20Z",
-        "displayTime": "2026-05-16T17:22:20Z",
+        "summary": "Snap is unprofitable after almost 15 years and doesn't have the revenue growth rates of an exciting start-up.",
+        "pubDate": "2026-05-17T19:20:00Z",
+        "displayTime": "2026-05-17T19:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/d68b1d05ed3b99268b31920b3bd88a65",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/dfd82a141be46219d14bbdc44b69a9fc",
+          "originalWidth": 1200,
+          "originalHeight": 710,
+          "caption": "Icons of hearts and thumbs-ups hover above a smartphone.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3rhg2t.d80cZfuiEgaHJhA--~B/aD03MTA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/dfd82a141be46219d14bbdc44b69a9fc",
+              "width": 1200,
+              "height": 710,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/JR57pNWCzyk7LHpBIayyVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/dfd82a141be46219d14bbdc44b69a9fc",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/05/17/snapchat-dont-rush-to-buy-this-social-media-stock/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/snapchat-dont-rush-buy-social-192000152.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2ebdbb57-5beb-374a-afda-02ae06627b27",
+      "content": {
+        "id": "2ebdbb57-5beb-374a-afda-02ae06627b27",
+        "contentType": "STORY",
+        "title": "Bank of America resets Google stock forecast before key event",
+        "description": "",
+        "summary": "Alphabet (GOOGL) stock is up about 25.34% year to date, at the time of writing, Saturday afternoon, May 16, according to Yahoo Finance. Meanwhile, the SPDR S&P 500 index (SPY) is up about 8.4% in the same period. Google has managed to outpace the S&P 500, but it has also outpaced other ...",
+        "pubDate": "2026-05-17T17:33:00Z",
+        "displayTime": "2026-05-17T17:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/d6fc88b4a5c2972ccca7e57e5da417c3",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/jpSpHVpsiKqm3nDXFDiHVg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/d6fc88b4a5c2972ccca7e57e5da417c3",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/AZf1TCn7eWSsGEmDjS63fw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d6fc88b4a5c2972ccca7e57e5da417c3",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-google-stock-forecast-before-key-event",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-google-stock-173300424.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "17ac1a16-226e-3067-b252-db5b2a3e7be9",
+      "content": {
+        "id": "17ac1a16-226e-3067-b252-db5b2a3e7be9",
+        "contentType": "STORY",
+        "title": "Amazon, Meta And Microsoft's AI Data Center Push Faces Strong Revolt— Seven In 10 Americans Don't Want Hubs Near Them",
+        "description": "",
+        "summary": "A new Gallup survey published on Wednesday found most Americans oppose building AI data centers in their local area, highlighting growing public resistance as technology companies rapidly expand artificial intelligence infrastructure. Gallup said 71% of Americans oppose AI data centers...",
+        "pubDate": "2026-05-17T15:01:18Z",
+        "displayTime": "2026-05-17T15:01:18Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/dab7bcde5fe60255552536653e8eab42",
           "originalWidth": 1024,
-          "originalHeight": 542,
-          "caption": "",
+          "originalHeight": 576,
+          "caption": "Amazon, Meta And Microsoft's AI Data Center Push Faces Strong Revolt— Seven In 10 Americans Don't Want Hubs Near Them",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/EafMp8kqCJ7Nv3r8FkrSgw--~B/aD01NDI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/d68b1d05ed3b99268b31920b3bd88a65",
+              "url": "https://s.yimg.com/uu/api/res/1.2/88lPnVvpjxTHZkkStzJpMg--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/dab7bcde5fe60255552536653e8eab42",
               "width": 1024,
-              "height": 542,
+              "height": 576,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Zx00HhixsibcKrRPD6wG3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d68b1d05ed3b99268b31920b3bd88a65",
+              "url": "https://s.yimg.com/uu/api/res/1.2/jCPg5pSiLsMFPCVk.NPlmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/dab7bcde5fe60255552536653e8eab42",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1985,18 +2109,18 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/16/the-spacex-ipo-is-coming-june-12-heres-why-you-shouldnt-rush-in-to-buy/",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-meta-microsofts-ai-data-150118422.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-coming-june-12-172220729.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-meta-microsofts-ai-data-150118422.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2014,218 +2138,32 @@
       }
     },
     {
-      "id": "833052cc-baaf-3200-a5a0-b084caf96dbd",
+      "id": "0e468a0f-f04c-313c-b100-9a72e029d360",
       "content": {
-        "id": "833052cc-baaf-3200-a5a0-b084caf96dbd",
+        "id": "0e468a0f-f04c-313c-b100-9a72e029d360",
         "contentType": "STORY",
-        "title": "The Staggering Number Jensen Huang Just Revealed Changes Everything About AI",
+        "title": "Volatile Chipmaker Stocks Emerge as Key Driver of S&P 500 Rally",
         "description": "",
-        "summary": "The U.S. electricity grid hasn’t faced a demand shock like this since the post-World War II industrial boom. For decades, power consumption grew at a sleepy 1% to 2% annually. Then came data centers. Then came AI. And now, if Nvidia (NASDAQ:NVDA) CEO Jensen Huang is right, we haven’t seen anything yet. So here’s the ... The Staggering Number Jensen Huang Just Revealed Changes Everything About AI",
-        "pubDate": "2026-05-16T16:37:15Z",
-        "displayTime": "2026-05-16T16:37:15Z",
+        "summary": "(Bloomberg) -- Shares of chipmakers are increasingly dominating the S&P 500 Index, powering stocks to record highs while stirring concerns over the rally’s durability. Most Read from BloombergWinners and Losers From Trump and Xi’s Beijing Summit TalksHormuz Oil Flows Creep Higher as More Supertankers ExitUS, Iran Stall on Hormuz Reopening as Oil Supplies TightenTrump Gets Revenge on Republican Who Voted to Convict HimHow Keir Starmer Imploded and Plunged Britain Into More ChaosA selloff on Frida",
+        "pubDate": "2026-05-17T13:00:00Z",
+        "displayTime": "2026-05-17T13:00:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b99eeea80788aff5ba7b75334a42c775",
-          "originalWidth": 1920,
-          "originalHeight": 1920,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ynL1pu4.3KzXphJbN3AK8w--~B/aD0xOTIwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/b99eeea80788aff5ba7b75334a42c775",
-              "width": 1920,
-              "height": 1920,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1CMebrQiov_VoWMkq5aUeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b99eeea80788aff5ba7b75334a42c775",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/16/the-staggering-number-jensen-huang-just-revealed-changes-everything-about-ai/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/staggering-number-jensen-huang-just-163715189.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a4b10cbe-91e4-3e8f-83a4-0943579483e8",
-      "content": {
-        "id": "a4b10cbe-91e4-3e8f-83a4-0943579483e8",
-        "contentType": "STORY",
-        "title": "Cerebras Is the Biggest IPO of the Year. If You Buy CBRS Stock Now, Brace Yourself for Volatility Ahead.",
-        "description": "",
-        "summary": "There's a lot of enthusiasm about this Nvidia competitor. What exactly is drawing investors?",
-        "pubDate": "2026-05-16T15:30:02Z",
-        "displayTime": "2026-05-16T15:30:02Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/96fd7b9ff4a55f68ad276840fc638841",
-          "originalWidth": 1600,
-          "originalHeight": 1065,
-          "caption": "Artificial Intelligence technology concept by NicoEINino via Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pD_piBDH0qYAAOvjXymG9A--~B/aD0xMDY1O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/96fd7b9ff4a55f68ad276840fc638841",
-              "width": 1600,
-              "height": 1065,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9r1BDlZ9N8PBaKKVO8Ax9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/96fd7b9ff4a55f68ad276840fc638841",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/1976496/cerebras-is-the-biggest-ipo-of-the-year-if-you-buy-cbrs-stock-now-brace-yourself-for-volatility-ahead",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-biggest-ipo-buy-cbrs-153002579.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "30064050-7433-3962-aa91-d3263672b35b",
-      "content": {
-        "id": "30064050-7433-3962-aa91-d3263672b35b",
-        "contentType": "STORY",
-        "title": "Oracle Corporation (ORCL) Named Top Pick as Oppenheimer Lifts Price Target",
-        "description": "",
-        "summary": "Oracle Corporation (NYSE:ORCL) is among the stocks with the best earnings growth for the next 10 years. On May 12, Brian Schwartz from Oppenheimer lifted the price target on Oracle Corporation (NYSE:ORCL) to $235 from $210 and reiterated an Outperform rating. While highlighting positive developments during the current quarter, which will strengthen its superior EPS […]",
-        "pubDate": "2026-05-16T15:26:29Z",
-        "displayTime": "2026-05-16T15:26:29Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/929b40cac95e8e50f8e4ac06abbb4453",
-          "originalWidth": 1000,
-          "originalHeight": 667,
-          "caption": "Is Oracle (ORCL) One of the Best Robinhood Stocks to Buy According to Billionaires?",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ObU_Rre6SpssqI9PvGpn7Q--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/929b40cac95e8e50f8e4ac06abbb4453",
-              "width": 1000,
-              "height": 667,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mvF7fB5F_yYaJQrbCpieFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/929b40cac95e8e50f8e4ac06abbb4453",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-corporation-orcl-named-top-152629171.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-corporation-orcl-named-top-152629171.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d681e946-bc26-3d23-8e9d-6d8d8314eeff",
-      "content": {
-        "id": "d681e946-bc26-3d23-8e9d-6d8d8314eeff",
-        "contentType": "STORY",
-        "title": "Trump’s More Than 3,700 Trades Astonish Wall Street Insiders",
-        "description": "",
-        "summary": "(Bloomberg) -- President Donald Trump’s latest financial disclosures show that he or his investment advisers made more than 3,700 trades in the first quarter, a flurry totaling tens of millions of dollars and involving major companies that have dealings with his administration. Most Read from BloombergWinners and Losers From Trump and Xi’s Beijing Summit TalksHormuz Oil Flows Creep Higher as More Supertankers ExitWhat Is The Thucydides Trap and Why Did Xi Raise It With Trump?Iran’s Kharg Island",
-        "pubDate": "2026-05-16T14:10:49Z",
-        "displayTime": "2026-05-16T14:10:49Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/7d8dd417e3d75dbe8e7f270f86791d3d",
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/6b4a2ac379a08f390330d22704ea66f7",
           "originalWidth": 2010,
-          "originalHeight": 1959,
+          "originalHeight": 1458,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WphO91lRzwBU9HlyxAEnQg--~B/aD0xOTU5O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/7d8dd417e3d75dbe8e7f270f86791d3d",
+              "url": "https://s.yimg.com/uu/api/res/1.2/MJeDmWiA5NVX5KGXkeghog--~B/aD0xNDU4O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/6b4a2ac379a08f390330d22704ea66f7",
               "width": 2010,
-              "height": 1959,
+              "height": 1458,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/t5rVMKMTaI09HBpvlz5kvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/7d8dd417e3d75dbe8e7f270f86791d3d",
+              "url": "https://s.yimg.com/uu/api/res/1.2/CYG1Yp75uAeahArHonyJRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/6b4a2ac379a08f390330d22704ea66f7",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2238,13 +2176,13 @@
           "sourceId": "bloomberg_holding_pen_162"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-traded-nvidia-boeing-intel-030913697.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/volatile-chipmaker-stocks-emerge-key-130000517.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-traded-nvidia-boeing-intel-030913697.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/volatile-chipmaker-stocks-emerge-key-130000517.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2262,32 +2200,32 @@
       }
     },
     {
-      "id": "97002908-5819-3fe6-b526-908a7d690e9d",
+      "id": "fa13abc6-914c-3cff-881a-5ca9edcc4d47",
       "content": {
-        "id": "97002908-5819-3fe6-b526-908a7d690e9d",
+        "id": "fa13abc6-914c-3cff-881a-5ca9edcc4d47",
         "contentType": "STORY",
-        "title": "Buy Nvidia Under $250 on Trump’s China Visit and Warsh’s Dovish AI Signals",
+        "title": "AI Stock Valuations Just Hit a Dangerous Level. A Top CIO Warns: Companies Can’t Grow 100% Annually for 10 Years Straight.",
         "description": "",
-        "summary": "NVIDIA (NASDAQ:NVDA) at $235.74 screens attractively under $250. President Trump’s China visit and growing signals that potential Fed Chair candidate Kevin Warsh will take a dovish stance toward AI investment reframe the two biggest overhangs on this stock: export controls and rate policy. Nvidia sits at the center of the AI buildout. Data Center revenue ... Buy Nvidia Under $250 on Trump’s China Visit and Warsh’s Dovish AI Signals",
-        "pubDate": "2026-05-16T12:08:23Z",
-        "displayTime": "2026-05-16T12:08:23Z",
+        "summary": "Brad Conger, chief investment officer at Hirtle Callaghan, sat down on Barron’s Streetwise with Jack Hough this month with a message every AI investor should hear before clicking buy. “I think there’s just an amazing level of confidence that the winners of AI today will be the winners tomorrow,” he said. The math behind that ... AI Stock Valuations Just Hit a Dangerous Level. A Top CIO Warns: Companies Can’t Grow 100% Annually for 10 Years Straight.",
+        "pubDate": "2026-05-17T11:49:29Z",
+        "displayTime": "2026-05-17T11:49:29Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/59253969fe1aaf09e1a835dad3ab8133",
-          "originalWidth": 1366,
-          "originalHeight": 768,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f5d2574118daead0256105e3ac658d81",
+          "originalWidth": 1500,
+          "originalHeight": 1000,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/clitpT.OCih4H7j4s4_GZA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/59253969fe1aaf09e1a835dad3ab8133",
-              "width": 1366,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/82ew60Vj7.UGS9DqgusOeg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/f5d2574118daead0256105e3ac658d81",
+              "width": 1500,
+              "height": 1000,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pFgrvxeLlGjKXQFub3i0.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/59253969fe1aaf09e1a835dad3ab8133",
+              "url": "https://s.yimg.com/uu/api/res/1.2/9pz7kF5u4QjNwc_wdMdnNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f5d2574118daead0256105e3ac658d81",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2300,13 +2238,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/16/buy-nvidia-under-250-on-trumps-china-visit-and-warshs-dovish-ai-signals/",
+          "url": "https://247wallst.com/investing/2026/05/17/ai-stock-valuations-just-hit-a-dangerous-level-a-top-cio-warns-companies-cant-grow-100-annually-for-10-years-straight/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-nvidia-under-250-trump-120823636.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-valuations-just-hit-114929647.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2324,32 +2262,32 @@
       }
     },
     {
-      "id": "f2e76390-f47d-39e7-a49e-df887adb49ae",
+      "id": "71da5dd7-311b-3c20-be84-5c5dba04ce88",
       "content": {
-        "id": "f2e76390-f47d-39e7-a49e-df887adb49ae",
+        "id": "71da5dd7-311b-3c20-be84-5c5dba04ce88",
         "contentType": "STORY",
-        "title": "The prophet of the ‘Wired Belt’ says capitalism is finally eating itself",
+        "title": "Why Wayfair (W) Stock Is Down Today",
         "description": "",
-        "summary": "Tufts' Bhaskar Chakravorti predicted AI would destroy the jobs business needs most — in the exact cities where business lives.",
-        "pubDate": "2026-05-16T10:30:00Z",
-        "displayTime": "2026-05-16T10:30:00Z",
+        "summary": "Shares of online home goods retailer Wayfair (NYSE:W) fell 2.7% in the afternoon session after the April PPI report lifted the 10-year Treasury yield to a 10-month high of 4.49%, eliminating 2026 rate-cut expectations and raising the discount rate for long-duration growth valuations.",
+        "pubDate": "2026-05-17T10:28:55Z",
+        "displayTime": "2026-05-17T10:28:55Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/fortune_175/d200ee10d5f7847f317ee16c2c3143d3",
-          "originalWidth": 2048,
-          "originalHeight": 1365,
-          "caption": "Bhaskar Chakravorti, Senior Associate Dean for International Business and Finance at Tufts University, attends the interactive session 'Exploring New Frontiers of Growth' during the 2012 Tianjin Summer Davos at Meijiang Convention and Exhibition Center on September 11, 2012 in Tianjin, China.",
+          "originalUrl": "https://media.zenfs.com/en/stockstory_922/1598f68a2d9e6e783b43cb75e6d94e74",
+          "originalWidth": 1400,
+          "originalHeight": 700,
+          "caption": "W Cover Image",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/goTyqydtr1TwqdV6fhzgAA--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/d200ee10d5f7847f317ee16c2c3143d3",
-              "width": 2048,
-              "height": 1365,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ScpSu5bJftD_fK0UxZijrA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/1598f68a2d9e6e783b43cb75e6d94e74",
+              "width": 1400,
+              "height": 700,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wlnEa3Vi4Z094xV_Zi3w9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/d200ee10d5f7847f317ee16c2c3143d3",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ng8htxkTiAxwd9iC.liq4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/1598f68a2d9e6e783b43cb75e6d94e74",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2357,18 +2295,80 @@
           ]
         },
         "provider": {
-          "displayName": "Fortune",
-          "url": "http://fortune.com/",
-          "sourceId": "fortune_175"
+          "displayName": "StockStory",
+          "url": "https://stockstory.org/",
+          "sourceId": "stockstory_922"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/prophet-wired-belt-says-capitalism-103000709.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-wayfair-w-stock-down-102855107.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/prophet-wired-belt-says-capitalism-103000709.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-wayfair-w-stock-down-102855107.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f6c61a8a-597e-3ce9-8d66-85ae84b796f3",
+      "content": {
+        "id": "f6c61a8a-597e-3ce9-8d66-85ae84b796f3",
+        "contentType": "STORY",
+        "title": "Revolve, Chewy, and LendingTree Stocks Trade Down, What You Need To Know",
+        "description": "",
+        "summary": "A number of stocks fell in the afternoon session after the April PPI report lifted the 10-year Treasury yield to a 10-month high of 4.49%, eliminating 2026 rate-cut expectations and raising the discount rate for long-duration growth valuations.",
+        "pubDate": "2026-05-17T10:20:55Z",
+        "displayTime": "2026-05-17T10:20:55Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stockstory_922/2099117f4279e2f3e1585f4ca146e445",
+          "originalWidth": 1400,
+          "originalHeight": 700,
+          "caption": "RVLV Cover Image",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_jbUuifpLhputRjmc_5stA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/2099117f4279e2f3e1585f4ca146e445",
+              "width": 1400,
+              "height": 700,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/E5oaOAHoai71TQl8zdpPFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/2099117f4279e2f3e1585f4ca146e445",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "StockStory",
+          "url": "https://stockstory.org/",
+          "sourceId": "stockstory_922"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/revolve-chewy-lendingtree-stocks-trade-102055680.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/revolve-chewy-lendingtree-stocks-trade-102055680.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"

@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "4958",
     "market": "TW",
-    "ts": "2026-05-16T22:38:53.822713"
+    "ts": "2026-05-17T22:46:42.193813"
   },
   "financials": {
     "annual": {
@@ -21848,13 +21848,13 @@
     "fiveYearAvgDividendYield": 4.1,
     "trailingPE": 59.144543,
     "forwardPE": 23.763288,
-    "volume": 52214156,
-    "regularMarketVolume": 52214156,
+    "volume": 52405090,
+    "regularMarketVolume": 52405090,
     "averageVolume": 40868449,
     "averageVolume10days": 53008434,
     "averageDailyVolume10Day": 53008434,
-    "bid": 401.0,
-    "ask": 401.5,
+    "bid": 0.0,
+    "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
     "marketCap": 428969197568,
@@ -21929,14 +21929,21 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "marketState": "CLOSED",
-    "priceEpsCurrentYear": 28.31847,
-    "fiftyDayAverageChange": 120.92001,
-    "fiftyDayAverageChangePercent": 0.43173385,
-    "twoHundredDayAverageChange": 209.9875,
-    "twoHundredDayAverageChangePercent": 1.0993391,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
+    "marketState": "PREPRE",
+    "regularMarketChangePercent": -8.132875,
+    "regularMarketPrice": 401.0,
+    "corporateActions": [
+      {
+        "header": "Dividend",
+        "message": "4958.TW announced a cash dividend of TWD 3.45 with an ex-date of Jun. 8, 2026",
+        "meta": {
+          "eventType": "DIVIDEND",
+          "dateEpochMs": 1780848000000,
+          "amount": "3.45"
+        }
+      }
+    ],
+    "regularMarketTime": 1778823001,
     "exchange": "TAI",
     "messageBoardId": "finmb_140596767",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -21944,8 +21951,8 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -8.132875,
-    "regularMarketPrice": 401.0,
+    "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
+    "longName": "Zhen Ding Technology Holding Limited",
     "hasPrePostMarketData": false,
     "firstTradeDateMilliseconds": 1324861200000,
     "regularMarketChange": -35.5,
@@ -21967,10 +21974,13 @@
     "epsTrailingTwelveMonths": 6.78,
     "epsForward": 16.87477,
     "epsCurrentYear": 14.16037,
-    "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
-    "longName": "Zhen Ding Technology Holding Limited",
-    "corporateActions": [],
-    "regularMarketTime": 1778823001,
+    "priceEpsCurrentYear": 28.31847,
+    "fiftyDayAverageChange": 120.92001,
+    "fiftyDayAverageChangePercent": 0.43173385,
+    "twoHundredDayAverageChange": 209.9875,
+    "twoHundredDayAverageChangePercent": 1.0993391,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
     "cryptoTradeable": false,
     "trailingPegRatio": null
   }
