@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-22T22:51:58.102384",
+    "ts": "2026-05-23T22:44:56.657039",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -146,37 +146,37 @@
     "regularMarketDayLow": 606.955,
     "regularMarketDayHigh": 614.81,
     "dividendRate": 2.1,
-    "dividendYield": 0.35,
+    "dividendYield": 0.34,
     "exDividendDate": 1773619200,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 22.183207,
+    "trailingPE": 22.175146,
     "forwardPE": 16.948385,
     "volume": 11103030,
     "regularMarketVolume": 11103030,
-    "averageVolume": 15316147,
-    "averageVolume10days": 12971360,
-    "averageDailyVolume10Day": 12971360,
+    "averageVolume": 15365157,
+    "averageVolume10days": 12785010,
+    "averageDailyVolume10Day": 12785010,
     "bid": 609.84,
     "ask": 610.75,
     "bidSize": 1,
     "askSize": 1,
     "marketCap": 1549098287104,
-    "nonDilutedMarketCap": 1541787546383,
+    "nonDilutedMarketCap": 1549098205498,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "priceToSalesTrailing12Months": 7.2063484,
-    "fiftyDayAverage": 618.3724,
-    "twoHundredDayAverage": 670.23816,
+    "fiftyDayAverage": 617.814,
+    "twoHundredDayAverage": 669.4295,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.003457473,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1547376525312,
+    "enterpriseValue": 1554687197184,
     "profitMargins": 0.32837,
-    "floatShares": 2192740818,
+    "floatShares": 2192715434,
     "sharesOutstanding": 2196045588,
     "sharesShort": 28980090,
     "sharesShortPriorMonth": 26376854,
@@ -184,7 +184,7 @@
     "dateShortInterest": 1777507200,
     "sharesPercentSharesOut": 0.0114,
     "heldPercentInsiders": 0.00103,
-    "heldPercentInstitutions": 0.79463995,
+    "heldPercentInstitutions": 0.79300004,
     "shortRatio": 1.69,
     "shortPercentOfFloat": 0.013200001,
     "impliedSharesOutstanding": 2538423304,
@@ -195,20 +195,20 @@
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.51,
+    "trailingEps": 27.52,
     "forwardEps": 36.00697,
-    "pegRatio": 0.87,
-    "enterpriseToRevenue": 7.198,
-    "enterpriseToEbitda": 14.156,
-    "52WeekChange": -0.031384528,
-    "SandP52WeekChange": 0.283121,
+    "pegRatio": 0.88,
+    "enterpriseToRevenue": 7.232,
+    "enterpriseToEbitda": 14.223,
+    "52WeekChange": -0.04991281,
+    "SandP52WeekChange": 0.26208222,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
     "currentPrice": 610.26,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 614.0,
-    "targetMeanPrice": 826.69104,
+    "targetMeanPrice": 826.60486,
     "targetMedianPrice": 825.0,
     "recommendationMean": 1.34921,
     "recommendationKey": "strong_buy",
@@ -240,21 +240,20 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.32444867,
-    "postMarketPrice": 608.28,
-    "postMarketChange": -1.9799805,
-    "regularMarketChange": 2.880005,
+    "marketState": "CLOSED",
+    "postMarketChangePercent": -0.47685152,
+    "postMarketPrice": 607.35,
+    "postMarketChange": -2.9100342,
+    "regularMarketChange": 2.88,
     "regularMarketDayRange": "606.955 - 614.81",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15316147,
+    "averageDailyVolume3Month": 15365157,
     "fiftyTwoWeekLowChange": 90.0,
     "fiftyTwoWeekLowChangePercent": 0.17299043,
     "fiftyTwoWeekRange": "520.26 - 796.25",
     "fiftyTwoWeekHighChange": -185.98999,
     "fiftyTwoWeekHighChangePercent": -0.2335824,
-    "fiftyTwoWeekChangePercent": -3.1384528,
+    "fiftyTwoWeekChangePercent": -4.991281,
     "dividendDate": 1774483200,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -262,10 +261,27 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 27.52,
+    "epsForward": 36.00697,
+    "epsCurrentYear": 32.31885,
+    "priceEpsCurrentYear": 18.882479,
+    "fiftyDayAverageChange": -7.554016,
+    "fiftyDayAverageChangePercent": -0.012227006,
+    "twoHundredDayAverageChange": -59.169495,
+    "twoHundredDayAverageChangePercent": -0.08838794,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-05-23",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "cryptoTradeable": false,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
     "corporateActions": [],
-    "postMarketTime": 1779490313,
+    "postMarketTime": 1779494399,
     "regularMarketTime": 1779480001,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
@@ -274,26 +290,10 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 0.47416854,
+    "regularMarketChangePercent": 0.474169,
     "regularMarketPrice": 610.26,
-    "marketState": "POST",
-    "epsTrailingTwelveMonths": 27.51,
-    "epsForward": 36.00697,
-    "epsCurrentYear": 32.20799,
-    "priceEpsCurrentYear": 18.947474,
-    "fiftyDayAverageChange": -8.112366,
-    "fiftyDayAverageChangePercent": -0.0131189,
-    "twoHundredDayAverageChange": -59.97815,
-    "twoHundredDayAverageChangePercent": -0.08948781,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-22",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8776
+    "trailingPegRatio": 0.8817
   },
   "financial_statements": {
     "income": {
@@ -1758,407 +1758,40 @@
       ],
       "Earnings High": 8.55,
       "Earnings Low": 6.8,
-      "Earnings Average": 7.50889,
+      "Earnings Average": 7.528,
       "Revenue High": 62812000000,
       "Revenue Low": 59132000000,
-      "Revenue Average": 60218292050
+      "Revenue Average": 60209152310
     }
   },
   "news": [
     {
-      "id": "326efe15-1045-439a-bbb3-8053182d0938",
+      "id": "17403236-9507-368c-a6cb-9fc5df1a3739",
       "content": {
-        "id": "326efe15-1045-439a-bbb3-8053182d0938",
-        "contentType": "VIDEO",
-        "title": "Maybe investors can wait to buy SpaceX after IPO: Lee Munson",
-        "description": "<p>Elon Musk's private space operator, SpaceX (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/SPAX.PVT/\" data-i13n=\"cpos:1;pos:1\">SPAX.PVT</a>), released its S-1 filing this week as it plans to go public via IPO in June. The Wall Street Journal <a target=\"_blank\" class=\"link\" href=\"https://www.wsj.com/tech/ai/openai-ipo-filing-date-0ec95af5\" data-i13n=\"cpos:2;pos:1\">has reported</a> that AI developer OpenAI (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/OPAI.PVT/\" data-i13n=\"slk:OPAI.PVT;cpos:3;pos:1\">OPAI.PVT</a>) is preparing to file for its own mega-IPO.</p>\n<p>As investors anticipate this mega-IPO, should they be equally cautious as they are <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/markets/article/spacexs-biggest-ipo-risks-are-also-its-bull-case-173659815.html\" data-i13n=\"slk:biggest risks also part of its bull case;cpos:4;pos:1\">bullish on these companies </a>?</p>\n<p>Portfolio Wealth Advisors president and CIO Lee Munson, Yahoo Finance Markets and Data Editor Jared Blikre, and Senior Business Reporter Ines Ferré weigh in on the wave of upcoming IPOs.</p>",
-        "summary": "Elon Musk's private space operator, SpaceX (SPAX.PVT), released its S-1 filing this week as it plans to go public via IPO in June. The Wall Street Journal has reported that AI developer OpenAI (OPAI.PVT) is preparing to file for its own mega-IPO. As investors anticipate this mega-IPO, should they be equally cautious as they are bullish on these companies ? Portfolio Wealth Advisors president and CIO Lee Munson, Yahoo Finance Markets and Data Editor Jared Blikre, and Senior Business Reporter Ines Ferré weigh in on the wave of upcoming IPOs.",
-        "pubDate": "2026-05-22T15:00:00Z",
-        "displayTime": "",
+        "id": "17403236-9507-368c-a6cb-9fc5df1a3739",
+        "contentType": "STORY",
+        "title": "3 Top AI Stocks to Buy With $1,000 Right Now",
+        "description": "",
+        "summary": "Amazon, Nebius, and Microsoft all should have plenty of upside left in 2026.",
+        "pubDate": "2026-05-23T22:30:00Z",
+        "displayTime": "2026-05-23T22:30:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/fbc7AiXa5QVU0B.2zHfOfg--~B/aD0xNzc5O3c9MzE2MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/91dadb70-4b23-11eb-afb3-c85aebade363_739d318d42274da66b97ac94602d41bf53ac1d28cb62ff260d02b57f1a22b3c7.jpg",
-          "originalWidth": 3163,
-          "originalHeight": 1779,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fbc7AiXa5QVU0B.2zHfOfg--~B/aD0xNzc5O3c9MzE2MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/91dadb70-4b23-11eb-afb3-c85aebade363_739d318d42274da66b97ac94602d41bf53ac1d28cb62ff260d02b57f1a22b3c7.jpg",
-              "width": 3163,
-              "height": 1779,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1U.xMvixwWSVyOUxf9IvLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/91dadb70-4b23-11eb-afb3-c85aebade363_739d318d42274da66b97ac94602d41bf53ac1d28cb62ff260d02b57f1a22b3c7.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/maybe-investors-wait-buy-spacex-150000900.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/maybe-investors-wait-buy-spacex-150000900.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "dcddb84e-84f5-4699-a79d-f18661981b4c",
-      "content": {
-        "id": "dcddb84e-84f5-4699-a79d-f18661981b4c",
-        "contentType": "STORY",
-        "title": "'Not a cost-cutting exercise': How tech CEOs are framing AI-driven layoffs",
-        "description": "",
-        "summary": "Layoff notifications have long included wording about tough decisions in challenging times. Now, they're also increasingly nodding at how automation is reshaping workforces and companies' priorities.",
-        "pubDate": "2026-05-22T10:00:00Z",
-        "displayTime": "2026-05-22T10:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ja3yVZpt8wTLFV8ncQ6iTg--~B/aD0xOTM3O3c9MzQ0NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/676c0aa8-e5d7-46dd-a633-97dc763fb31d_3f63050aeb8b4e88704dcdd0e8bc5140798a92fcb10eaea7d798e6149d653118.net/images/2026-04/676c0aa8-e5d7-46dd-a633-97dc763fb31d",
-          "originalWidth": 3444,
-          "originalHeight": 1937,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ja3yVZpt8wTLFV8ncQ6iTg--~B/aD0xOTM3O3c9MzQ0NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/676c0aa8-e5d7-46dd-a633-97dc763fb31d_3f63050aeb8b4e88704dcdd0e8bc5140798a92fcb10eaea7d798e6149d653118.net/images/2026-04/676c0aa8-e5d7-46dd-a633-97dc763fb31d",
-              "width": 3444,
-              "height": 1937,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/FjdSIAoO6tzUpvq5o0AAIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/676c0aa8-e5d7-46dd-a633-97dc763fb31d_3f63050aeb8b4e88704dcdd0e8bc5140798a92fcb10eaea7d798e6149d653118.net/images/2026-04/676c0aa8-e5d7-46dd-a633-97dc763fb31d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/article/not-a-cost-cutting-exercise-how-tech-ceos-are-framing-ai-driven-layoffs-100000306.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/article/not-a-cost-cutting-exercise-how-tech-ceos-are-framing-ai-driven-layoffs-100000306.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6571c206-7af8-305b-a1bb-b6211ffa772c",
-      "content": {
-        "id": "6571c206-7af8-305b-a1bb-b6211ffa772c",
-        "contentType": "STORY",
-        "title": "Is Snap (SNAP) Quietly Recasting Its Brand Strategy With Luke Wood’s Board Appointment?",
-        "description": "",
-        "summary": "On May 20, 2026, Snap Inc. expanded its board of directors to thirteen members by appointing Luke Wood, former Beats by Dr. Dre President and Apple Vice President, who also leads Violet St Holdings and sits on Fender Musical Instruments’ board. By bringing in a director with deep consumer electronics, music, and brand-building experience, Snap is signaling a focus on strengthening leadership around product, partnerships, and monetization opportunities. We’ll now examine how Luke Wood’s...",
-        "pubDate": "2026-05-22T20:16:11Z",
-        "displayTime": "2026-05-22T20:16:11Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/3cd9723593b8e19faa78e8a9c41ba2a7",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ljynvMcur_tSQfIdwL.adg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/3cd9723593b8e19faa78e8a9c41ba2a7",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Yvl1S5GikTWg4rD8gkIh0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/3cd9723593b8e19faa78e8a9c41ba2a7",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/snap-snap-quietly-recasting-brand-201611110.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/snap-snap-quietly-recasting-brand-201611110.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "defc5482-a175-3985-847a-948024fe3c75",
-      "content": {
-        "id": "defc5482-a175-3985-847a-948024fe3c75",
-        "contentType": "STORY",
-        "title": "As Meta Misfires And Apple Shines, Amazon Stock Has Wall Street Smiling. Here's Why.",
-        "description": "",
-        "summary": "Boosted by accelerating first-quarter earnings and sales, Amazon stock has bounced back into buy range while flashing telltale clues.",
-        "pubDate": "2026-05-22T20:03:20Z",
-        "displayTime": "2026-05-22T20:03:20Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/defc5482-a175-3985-847a-948024fe3c75/as-meta-misfires-and-apple.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/912ecb3beaa0c37463dabc5c40239fde",
-          "originalWidth": 1000,
-          "originalHeight": 563,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tOn5yiN9XBeL8j1misX1NA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/912ecb3beaa0c37463dabc5c40239fde",
-              "width": 1000,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/F0vTs1yv170aOte7Rv56cw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/912ecb3beaa0c37463dabc5c40239fde",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.investors.com/research/ibd-stock-analysis/as-meta-misfires-and-nvidia-shines-amazon-stock-has-wall-street-smiling-heres-why/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "40ac835f-4085-35d6-88e2-c6fb2fc43492",
-      "content": {
-        "id": "40ac835f-4085-35d6-88e2-c6fb2fc43492",
-        "contentType": "STORY",
-        "title": "Instacart (CART) Expands Self-Serve Ads Manager to Retail Partners",
-        "description": "",
-        "summary": "Maplebear Inc. (NASDAQ:CART) is one of the best low priced growth stocks to invest in now. On May 13, Instacart expanded its self-serve Ads Manager to retail partners, following a milestone year generating over $1 billion in advertising and other revenue in 2025. The platform extends high-intent reach, optimization, and closed-loop measurement infrastructure to retailers. […]",
-        "pubDate": "2026-05-22T19:27:55Z",
-        "displayTime": "2026-05-22T19:27:55Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/c042e828008441bef823ba96f2de06f3",
-          "originalWidth": 1280,
-          "originalHeight": 960,
-          "caption": "Samsara (IOT) Launches Three New AI-Driven Solutions for US Public Sector Infrastructure",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VhwT1NGxkrrQu3mfJSmLcA--~B/aD05NjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/c042e828008441bef823ba96f2de06f3",
-              "width": 1280,
-              "height": 960,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/89uMAcpppswumxgBTOhImQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c042e828008441bef823ba96f2de06f3",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/instacart-cart-expands-self-serve-192755290.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/instacart-cart-expands-self-serve-192755290.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "132c4fa1-e983-3dea-9d5c-5bdeb380974a",
-      "content": {
-        "id": "132c4fa1-e983-3dea-9d5c-5bdeb380974a",
-        "contentType": "STORY",
-        "title": "Unity (U), Meta (META) Extend Multi-Year VR Platform Support and Enterprise Agreement",
-        "description": "",
-        "summary": "Unity Software Inc. (NYSE:U) is one of the best low priced growth stocks to invest in now. On April 8, Unity and Meta announced an extension of their multi-year platform support and enterprise agreement, deepening their long-standing virtual reality partnership. Under this renewed deal, Unity will continue providing core game engine support for Meta’s VR […]",
-        "pubDate": "2026-05-22T19:26:46Z",
-        "displayTime": "2026-05-22T19:26:46Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/f6bf3124b410dd1b584e46f3b099411e",
-          "originalWidth": 768,
-          "originalHeight": 556,
-          "caption": "Unity (U), Meta (META) Extend Multi-Year VR Platform Support and Enterprise Agreement",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dWaohZGrFpw91hivbRmUlQ--~B/aD01NTY7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f6bf3124b410dd1b584e46f3b099411e",
-              "width": 768,
-              "height": 556,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KCJe9rzawluayann5x98Wg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f6bf3124b410dd1b584e46f3b099411e",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/unity-u-meta-meta-extend-192646220.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/unity-u-meta-meta-extend-192646220.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f91991b5-2ca8-36c3-b822-5ac9a56c7023",
-      "content": {
-        "id": "f91991b5-2ca8-36c3-b822-5ac9a56c7023",
-        "contentType": "STORY",
-        "title": "The 1 Chart Every AI Investor Needs to See Before Buying Anything Right Now",
-        "description": "",
-        "summary": "At first glance, this information may look more like a reason not to invest in these companies.",
-        "pubDate": "2026-05-22T19:05:00Z",
-        "displayTime": "2026-05-22T19:05:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/540941a3db57adf17a19d7bd19197147",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/100e41d82394af81e89c8ee40189b598",
           "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Person analyzes paper document.",
+          "originalHeight": 787,
+          "caption": "Three investors gathered around a computer.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WEWpTzg_sah.mno.6ntTDw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/540941a3db57adf17a19d7bd19197147",
+              "url": "https://s.yimg.com/uu/api/res/1.2/2Ym0Kii5zjZU9p9Fzonsjg--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/100e41d82394af81e89c8ee40189b598",
               "width": 1400,
-              "height": 933,
+              "height": 787,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CFkxOoC.XzenGjKXRVK1KQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/540941a3db57adf17a19d7bd19197147",
+              "url": "https://s.yimg.com/uu/api/res/1.2/a2NodIXL386by26GE4QxGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/100e41d82394af81e89c8ee40189b598",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2171,13 +1804,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/22/chart-every-ai-investor-needs-see-before-buy/",
+          "url": "https://www.fool.com/investing/2026/05/23/3-top-ai-stocks-to-buy-with-1000-right-now/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-chart-every-ai-investor-190500080.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-ai-stocks-buy-223000799.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2195,151 +1828,32 @@
       }
     },
     {
-      "id": "8884375f-11f5-3f91-b617-70c4ac4d320b",
+      "id": "5f7f982a-3131-313d-8984-0c737ef29e66",
       "content": {
-        "id": "8884375f-11f5-3f91-b617-70c4ac4d320b",
+        "id": "5f7f982a-3131-313d-8984-0c737ef29e66",
         "contentType": "STORY",
-        "title": "Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week",
+        "title": "Citi names Broadcom stock top semiconductor pick for 2026",
         "description": "",
-        "summary": "CNBC’s Dominic Chu opened Friday’s market coverage by noting that “the stocks are looking like they may open higher today, rounding out what could be the eighth straight winning week for the S&P 500.” That kind of streak does not happen by accident, and inside the Trump bull market it has become the defining rhythm: ... Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week",
-        "pubDate": "2026-05-22T18:45:23Z",
-        "displayTime": "2026-05-22T18:45:23Z",
+        "summary": "The AI chip race has produced a handful of clear winners. Broadcom is one of them. But the question heading into its next earnings report is no longer about whether it is a top AI stock to own. The real debate now is: Can a company already pulling in billions from artificial intelligence keep ...",
+        "pubDate": "2026-05-23T19:13:00Z",
+        "displayTime": "2026-05-23T19:13:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/d2c7a06fb106248f83af33519a1a6ca1",
-          "originalWidth": 1366,
-          "originalHeight": 767,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/erD8Id6NEXZy4_CWXGwPuA--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/d2c7a06fb106248f83af33519a1a6ca1",
-              "width": 1366,
-              "height": 767,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/gt5e6_B3vVKWzJ2ayH3LVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d2c7a06fb106248f83af33519a1a6ca1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/22/dominic-chu-the-trump-bull-markets-ai-rally-is-powering-the-sp-500-toward-an-8th-straight-winning-week/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dominic-chu-trump-bull-market-184523549.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "afd083d7-0d7b-35f4-89b7-cf4ca3f83cc8",
-      "content": {
-        "id": "afd083d7-0d7b-35f4-89b7-cf4ca3f83cc8",
-        "contentType": "STORY",
-        "title": "Good News Is Good News. The Market Has Passed the Earnings Test.",
-        "description": "",
-        "summary": "Solid earnings and a resilient economy could keep the rally going—even if the Fed starts thinking about interest rate hikes.",
-        "pubDate": "2026-05-22T18:10:00Z",
-        "displayTime": "2026-05-22T18:10:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/afd083d7-0d7b-35f4-89b7-cf4ca3f83cc8/good-news-is-good-news-the.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/fc5195176251084e8f994165fe3b2531",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wBUS6xFdQZbMCmOY1kGewA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/fc5195176251084e8f994165fe3b2531",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/MEiu4DRsx2bJKbZ_3DVe6w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/fc5195176251084e8f994165fe3b2531",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/good-news-market-earnings-test-ibm-quantum-86ebfc59?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a20b5be4-4704-3924-a579-592890db7317",
-      "content": {
-        "id": "a20b5be4-4704-3924-a579-592890db7317",
-        "contentType": "STORY",
-        "title": "50-year-old outdoor retailer liquidating all stores",
-        "description": "",
-        "summary": "When you see huge tech companies like Meta and Intuit lay off thousands of people making top-tier salaries, it makes many Americans worry about their own jobs. Even if you're making a good living and have discretionary income, it's reasonable to think that maybe you should cut back a little, or ...",
-        "pubDate": "2026-05-22T17:45:00Z",
-        "displayTime": "2026-05-22T17:45:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/f9a74063cf357f007c97e8c7ae541231",
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/4464787058bb398b43517f96fe17fb62",
           "originalWidth": 1200,
           "originalHeight": 675,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/a3Ma2PUYAP8qpu2GlHUgHw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/f9a74063cf357f007c97e8c7ae541231",
+              "url": "https://s.yimg.com/uu/api/res/1.2/CKO743LpquibutaIKqebcg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/4464787058bb398b43517f96fe17fb62",
               "width": 1200,
               "height": 675,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/T3Nsu1M0l67nn0X7QRIgNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/f9a74063cf357f007c97e8c7ae541231",
+              "url": "https://s.yimg.com/uu/api/res/1.2/1ZioGYX8slaNcWlvRw4eAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4464787058bb398b43517f96fe17fb62",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2352,13 +1866,509 @@
           "sourceId": "thestreet_881"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/retail/specialty-outdoors-retailer-dover-saddlery-closing-and-liquidating-all-stores",
+          "url": "https://www.thestreet.com/investing/stocks/citi-names-broadcom-stock-top-semiconductor-pick-for-2026",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/articles/50-old-outdoor-retailer-liquidating-174500591.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-names-broadcom-stock-top-191300964.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "96911612-26a8-3a0b-897c-f8ce94c1815d",
+      "content": {
+        "id": "96911612-26a8-3a0b-897c-f8ce94c1815d",
+        "contentType": "STORY",
+        "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
+        "description": "",
+        "summary": "(Bloomberg) -- As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.Most Read from BloombergTrump’s 3,711 Trades Point to Multiple Stock-Market StrategiesBungie Plans Layoffs After Ending ‘Destiny 2’ DevelopmentTrump to Force Foreigners Seeking Green Cards to Go Home FirstUAE Joins Saudis, Qatar in Urging Trump Not",
+        "pubDate": "2026-05-23T19:00:00Z",
+        "displayTime": "2026-05-23T19:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
+          "originalWidth": 2010,
+          "originalHeight": 1446,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RGBvx9c93ALzzl6rF4P4HA--~B/aD0xNDQ2O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
+              "width": 2010,
+              "height": 1446,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xMq6bCcZJQpNiYj98GH7iA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/options/articles/hyperscaler-debt-flood-brings-derivatives-190000196.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/options/articles/hyperscaler-debt-flood-brings-derivatives-190000196.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6572c638-4bc2-3ddd-9619-f452f40b94f8",
+      "content": {
+        "id": "6572c638-4bc2-3ddd-9619-f452f40b94f8",
+        "contentType": "STORY",
+        "title": "Paul Tudor Jones makes $8 billion bet on small-cap chaos",
+        "description": "",
+        "summary": "Paul Tudor Jones doesn’t appear to be locked into one stock. That may be the real story. The billionaire investor’s Tudor Investment Corp. reported a massive first-quarter options book that includes big stakes connected to Nvidia (NVDA), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta Platforms ...",
+        "pubDate": "2026-05-23T18:33:00Z",
+        "displayTime": "2026-05-23T18:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/bd92fa61adeae47af88b16677a890f44",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/VJKRRqmYfGSqyBdiViz1hg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/bd92fa61adeae47af88b16677a890f44",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/cAKTObvK1ZJNz38Inj8Gjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/bd92fa61adeae47af88b16677a890f44",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/paul-tudor-jones-makes-8-billion-bet-on-small-cap-chaos",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/options/articles/paul-tudor-jones-makes-8-183300851.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b84054da-e0e9-3525-8e19-085d647c389e",
+      "content": {
+        "id": "b84054da-e0e9-3525-8e19-085d647c389e",
+        "contentType": "STORY",
+        "title": "“We’re Studying You to Figure Out How to Make This All More Effective” — Zuckerberg’s Leaked Comment Sparks Job Loss Fears",
+        "description": "",
+        "summary": "Mark Zuckerberg said what every mega-cap CEO is probably thinking but few will say on tape. In leaked audio from an April 30, 2026 Meta all-hands, the CEO told employees: “The AI models learn from watching really smart people do things. The average intelligence of the people who are at this company is significantly higher ... “We’re Studying You to Figure Out How to Make This All More Effective” — Zuckerberg’s Leaked Comment Sparks Job Loss Fears",
+        "pubDate": "2026-05-23T15:55:57Z",
+        "displayTime": "2026-05-23T15:55:57Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/ac240829058f35d1fec1a2efec95a56c",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bX4toefKD29lRzB9BTUByg--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/ac240829058f35d1fec1a2efec95a56c",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/s_h0IXPNPFnw6pHIM2Rggg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ac240829058f35d1fec1a2efec95a56c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/23/were-studying-you-to-figure-out-how-to-make-this-all-more-effective-zuckerbergs-leaked-comment-sparks-job-loss-fears/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/studying-figure-more-effective-zuckerberg-155557888.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "94b4a63d-12b7-3d79-a80d-2877eb16736d",
+      "content": {
+        "id": "94b4a63d-12b7-3d79-a80d-2877eb16736d",
+        "contentType": "STORY",
+        "title": "GDP Alert: The United Kingdom Is Poorer Than Every Individual U.S. State",
+        "description": "",
+        "summary": "The economic gap between the U.S. and the U.K. has been widening for more than a decade. As a result, a new study has found that the U.K.'s GDP per capita is now lower than every single U.S. state.",
+        "pubDate": "2026-05-23T14:00:03Z",
+        "displayTime": "2026-05-23T14:00:03Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/2c1e4668381711bc34527dd1ea9574d3",
+          "originalWidth": 1600,
+          "originalHeight": 1067,
+          "caption": "Business chart with glowing arrows and world map by Golden Dayz via Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3_xgYuLdSm3VPBLTZNpc7g--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/2c1e4668381711bc34527dd1ea9574d3",
+              "width": 1600,
+              "height": 1067,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/FP0yG432BN7ltzou1i4QIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/2c1e4668381711bc34527dd1ea9574d3",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/2102191/gdp-alert-the-united-kingdom-is-poorer-than-every-individual-u-s-state",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/articles/gdp-alert-united-kingdom-poorer-140003132.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f184aa4a-75a6-3db3-a260-203b5154949e",
+      "content": {
+        "id": "f184aa4a-75a6-3db3-a260-203b5154949e",
+        "contentType": "STORY",
+        "title": "The 401(k) Mega Backdoor Roth Strategy a Tech Worker Used to Build $750,000 of Roth Wealth in Six Years",
+        "description": "",
+        "summary": "A 30-year-old software engineer at Meta (NASDAQ:META), earning a $200,000 base plus refreshing stock grants, asked a question that gets posted in some form on r/financialindependence every week: how do I shovel more into a Roth when I am already over the income limit for direct Roth IRA contributions and my 401(k) deferral is maxed? ... The 401(k) Mega Backdoor Roth Strategy a Tech Worker Used to Build $750,000 of Roth Wealth in Six Years",
+        "pubDate": "2026-05-23T13:07:37Z",
+        "displayTime": "2026-05-23T13:07:37Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/3c7c794d96ce6e38aee99ea690f5bb1b",
+          "originalWidth": 1500,
+          "originalHeight": 1000,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UOmw_puLdgmqAYp0i67_Ig--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/3c7c794d96ce6e38aee99ea690f5bb1b",
+              "width": 1500,
+              "height": 1000,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZdLb0AeFD1JSANVwvUQO_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3c7c794d96ce6e38aee99ea690f5bb1b",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/personal-finance/2026/05/23/the-401k-mega-backdoor-roth-strategy-a-tech-worker-used-to-build-750000-of-roth-wealth-in-six-years/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/options/articles/401-k-mega-backdoor-roth-130737532.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7770e47e-3452-34da-8741-8762700d5f3e",
+      "content": {
+        "id": "7770e47e-3452-34da-8741-8762700d5f3e",
+        "contentType": "STORY",
+        "title": "Meta Platforms (META) Loses Fight Against an Italian Regulatory Order, Reuters Reports",
+        "description": "",
+        "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the best communication stocks to invest in. Reuters reported on May 12 that Meta Platforms, Inc. (NASDAQ:META) lost its fight against an Italian regulatory order that called for it to compensate publishers for the use of their news article snippets, with Europe’s top court deciding in favor of the […]",
+        "pubDate": "2026-05-23T11:55:06Z",
+        "displayTime": "2026-05-23T11:55:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
+          "originalWidth": 1456,
+          "originalHeight": 816,
+          "caption": "Meta Platforms, Inc. (META)'s Tells You How Cool Ryan Reynolds Is, Says Jim Cramer",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2fCwroEhg6F7wXNJDb_Kwg--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
+              "width": 1456,
+              "height": 816,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/X_RsUBMm0OU_eXmgirlwdw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-loses-fight-115506338.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-loses-fight-115506338.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "563e6678-a883-3d6a-8eb6-d9207808cdc7",
+      "content": {
+        "id": "563e6678-a883-3d6a-8eb6-d9207808cdc7",
+        "contentType": "STORY",
+        "title": "49,000 Lake Tahoe residents fear they'll lose power as data centers strain grids. Experts see electricity crisis ahead",
+        "description": "",
+        "summary": "Researchers warn America’s rapidly expanding data center industry could drive electricity prices up 57% in some regions by 2030.",
+        "pubDate": "2026-05-23T11:30:00Z",
+        "displayTime": "2026-05-23T11:30:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/moneywise_327/31758a35af1a2979859cfee2b5df7c00",
+          "originalWidth": 5751,
+          "originalHeight": 3235,
+          "caption": "People walking in South Lake Tahoe.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lhITTW3nLRMPod8bjiYuZA--~B/aD0zMjM1O3c9NTc1MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/moneywise_327/31758a35af1a2979859cfee2b5df7c00",
+              "width": 5751,
+              "height": 3235,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NLuqk5WR_zdL3L5XLfgpnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/31758a35af1a2979859cfee2b5df7c00",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Moneywise",
+          "url": "https://moneywise.com/",
+          "sourceId": "moneywise_327"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/energy/articles/49-000-lake-tahoe-residents-113000773.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/energy/articles/49-000-lake-tahoe-residents-113000773.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b92cf0f6-05c1-3fdb-9281-b92c1e4671f6",
+      "content": {
+        "id": "b92cf0f6-05c1-3fdb-9281-b92c1e4671f6",
+        "contentType": "STORY",
+        "title": "Applied Materials Taps UCLA AI Chip Hub As Valuation Debate Grows",
+        "description": "",
+        "summary": "Applied Materials (NasdaqGS:AMAT) is joining Meta, Broadcom, GlobalFoundries, and Synopsys to fund a new US$125 million semiconductor research hub at UCLA. The hub is focused on next generation chip and AI technologies and is intended to support a more resilient U.S. semiconductor supply chain. This multi company partnership positions Applied Materials at the center of collaborative research across equipment, design, foundry, and end user segments. For you as an investor, this move...",
+        "pubDate": "2026-05-23T10:21:18Z",
+        "displayTime": "2026-05-23T10:21:18Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mKc.reAobIqN0pRLFgUsDQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/fDWj3i2q23Hz4JLTMAbekg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/applied-materials-taps-ucla-ai-102118712.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/applied-materials-taps-ucla-ai-102118712.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
