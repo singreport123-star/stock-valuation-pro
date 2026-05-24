@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-23T22:44:56.657039",
+    "ts": "2026-05-24T22:52:00.273301",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -152,9 +152,9 @@
     "beta": 1.243,
     "trailingPE": 22.175146,
     "forwardPE": 16.948385,
-    "volume": 11103030,
-    "regularMarketVolume": 11103030,
-    "averageVolume": 15365157,
+    "volume": 11688623,
+    "regularMarketVolume": 11688623,
+    "averageVolume": 15449504,
     "averageVolume10days": 12785010,
     "averageDailyVolume10Day": 12785010,
     "bid": 609.84,
@@ -240,14 +240,36 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "CLOSED",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "epsTrailingTwelveMonths": 27.52,
+    "epsForward": 36.00697,
+    "epsCurrentYear": 32.31885,
+    "priceEpsCurrentYear": 18.882479,
+    "fiftyDayAverageChange": -7.554016,
+    "fiftyDayAverageChangePercent": -0.012227006,
+    "twoHundredDayAverageChange": -59.169495,
+    "twoHundredDayAverageChangePercent": -0.08838794,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-05-24",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "corporateActions": [],
+    "postMarketTime": 1779494399,
+    "regularMarketTime": 1779480001,
+    "exchange": "NMS",
     "postMarketChangePercent": -0.47685152,
     "postMarketPrice": 607.35,
     "postMarketChange": -2.9100342,
-    "regularMarketChange": 2.88,
+    "regularMarketChange": 2.880005,
     "regularMarketDayRange": "606.955 - 614.81",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15365157,
+    "averageDailyVolume3Month": 15449504,
     "fiftyTwoWeekLowChange": 90.0,
     "fiftyTwoWeekLowChangePercent": 0.17299043,
     "fiftyTwoWeekRange": "520.26 - 796.25",
@@ -261,36 +283,14 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.52,
-    "epsForward": 36.00697,
-    "epsCurrentYear": 32.31885,
-    "priceEpsCurrentYear": 18.882479,
-    "fiftyDayAverageChange": -7.554016,
-    "fiftyDayAverageChangePercent": -0.012227006,
-    "twoHundredDayAverageChange": -59.169495,
-    "twoHundredDayAverageChangePercent": -0.08838794,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-23",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "cryptoTradeable": false,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1779494399,
-    "regularMarketTime": 1779480001,
-    "exchange": "NMS",
+    "marketState": "CLOSED",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
     "exchangeTimezoneShortName": "EDT",
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 0.474169,
+    "regularMarketChangePercent": 0.47416854,
     "regularMarketPrice": 610.26,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8817
@@ -1766,32 +1766,32 @@
   },
   "news": [
     {
-      "id": "17403236-9507-368c-a6cb-9fc5df1a3739",
+      "id": "2d9b22c1-3c29-3124-8641-2971e98f5bb6",
       "content": {
-        "id": "17403236-9507-368c-a6cb-9fc5df1a3739",
+        "id": "2d9b22c1-3c29-3124-8641-2971e98f5bb6",
         "contentType": "STORY",
-        "title": "3 Top AI Stocks to Buy With $1,000 Right Now",
+        "title": "Google Just Shared Bad News for Nvidia, and Even Worse News For CoreWeave and Nebius",
         "description": "",
-        "summary": "Amazon, Nebius, and Microsoft all should have plenty of upside left in 2026.",
-        "pubDate": "2026-05-23T22:30:00Z",
-        "displayTime": "2026-05-23T22:30:00Z",
+        "summary": "Alphabet's latest side project could be a huge boost to this rapidly growing business.",
+        "pubDate": "2026-05-24T21:20:00Z",
+        "displayTime": "2026-05-24T21:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/100e41d82394af81e89c8ee40189b598",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/50d3a75971543c1fc6c783db279d35e5",
           "originalWidth": 1400,
-          "originalHeight": 787,
-          "caption": "Three investors gathered around a computer.",
+          "originalHeight": 1021,
+          "caption": "The Google logo on a smartphone.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2Ym0Kii5zjZU9p9Fzonsjg--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/100e41d82394af81e89c8ee40189b598",
+              "url": "https://s.yimg.com/uu/api/res/1.2/pJWlYZC7lbwZcZcr.4jm7Q--~B/aD0xMDIxO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/50d3a75971543c1fc6c783db279d35e5",
               "width": 1400,
-              "height": 787,
+              "height": 1021,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/a2NodIXL386by26GE4QxGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/100e41d82394af81e89c8ee40189b598",
+              "url": "https://s.yimg.com/uu/api/res/1.2/aSmaWzbXByzvC9Ua5SbzDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/50d3a75971543c1fc6c783db279d35e5",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1804,13 +1804,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/23/3-top-ai-stocks-to-buy-with-1000-right-now/",
+          "url": "https://www.fool.com/investing/2026/05/24/google-just-shared-bad-news-for-nvidia-and-even-wo/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-ai-stocks-buy-223000799.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/google-just-shared-bad-news-212000426.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1828,32 +1828,32 @@
       }
     },
     {
-      "id": "5f7f982a-3131-313d-8984-0c737ef29e66",
+      "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
       "content": {
-        "id": "5f7f982a-3131-313d-8984-0c737ef29e66",
+        "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
         "contentType": "STORY",
-        "title": "Citi names Broadcom stock top semiconductor pick for 2026",
+        "title": "XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
         "description": "",
-        "summary": "The AI chip race has produced a handful of clear winners. Broadcom is one of them. But the question heading into its next earnings report is no longer about whether it is a top AI stock to own. The real debate now is: Can a company already pulling in billions from artificial intelligence keep ...",
-        "pubDate": "2026-05-23T19:13:00Z",
-        "displayTime": "2026-05-23T19:13:00Z",
+        "summary": "The ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) sits at an awkward crossroad heading into summer 2026. Shares trade near $19.08, down 5% year-to-date even as the public-side AI mega-caps it holds have ripped higher. That disconnect matters because XOVR is the rare ETF that pairs late-stage private growth (SpaceX is the publicly known anchor) with public ... XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
+        "pubDate": "2026-05-24T18:30:52Z",
+        "displayTime": "2026-05-24T18:30:52Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/4464787058bb398b43517f96fe17fb62",
-          "originalWidth": 1200,
-          "originalHeight": 675,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
+          "originalWidth": 1188,
+          "originalHeight": 442,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CKO743LpquibutaIKqebcg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/4464787058bb398b43517f96fe17fb62",
-              "width": 1200,
-              "height": 675,
+              "url": "https://s.yimg.com/uu/api/res/1.2/RxwyEt9o1PYrp2SKgARGYw--~B/aD00NDI7dz0xMTg4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
+              "width": 1188,
+              "height": 442,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1ZioGYX8slaNcWlvRw4eAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4464787058bb398b43517f96fe17fb62",
+              "url": "https://s.yimg.com/uu/api/res/1.2/RiRvbnQzb5gEYovgVxx2aA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1861,18 +1861,266 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/citi-names-broadcom-stock-top-semiconductor-pick-for-2026",
+          "url": "https://247wallst.com/investing/2026/05/24/xovr-etf-watch-hyperscaler-ai-capex-before-summer-2026-earnings-season/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-names-broadcom-stock-top-191300964.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xovr-etf-watch-hyperscaler-ai-183052462.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "45fb0c7a-5e7f-3524-a09f-d92661216f56",
+      "content": {
+        "id": "45fb0c7a-5e7f-3524-a09f-d92661216f56",
+        "contentType": "STORY",
+        "title": "Unity And Meta Extend VR Partnership As Investors Weigh Execution Risk",
+        "description": "",
+        "summary": "Unity Software (NYSE:U) has extended and expanded its multi year partnership with Meta to continue providing core engine support for Meta’s virtual reality platform. The renewed agreement focuses on deeper integration between Unity’s development tools and Meta’s VR hardware, covering both gaming and enterprise use cases. This extension confirms Unity’s role as a key content creation platform for VR experiences across Meta’s ecosystem. Unity Software enters this renewed partnership with Meta...",
+        "pubDate": "2026-05-24T18:11:21Z",
+        "displayTime": "2026-05-24T18:11:21Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gnGTQ_q9KCdl7Xvx_ppB0g--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/unity-meta-extend-vr-partnership-181121515.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/unity-meta-extend-vr-partnership-181121515.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a26afa3b-fdbc-3ce5-952e-e9714dba70a2",
+      "content": {
+        "id": "a26afa3b-fdbc-3ce5-952e-e9714dba70a2",
+        "contentType": "STORY",
+        "title": "Meta Platforms Will Be a $2 Trillion Company On This Date",
+        "description": "",
+        "summary": "Meta Platforms (NASDAQ:META | META Price Prediction) delivered a strong earnings beat, yet shares drift lower. Q1 2026 revenue jumped 33.08% to $56.311 billion, EPS came in at $10.44 versus a $6.6587 estimate, and CEO Mark Zuckerberg said the company is “on track to deliver personal superintelligence to billions of people.” Shares trade at $610.26 ... Meta Platforms Will Be a $2 Trillion Company On This Date",
+        "pubDate": "2026-05-24T17:46:59Z",
+        "displayTime": "2026-05-24T17:46:59Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/ec42e48564ad8fd96b518da6039164ed",
+          "originalWidth": 1500,
+          "originalHeight": 843,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.l9WedL2I4sNlJSIOM4DzA--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/ec42e48564ad8fd96b518da6039164ed",
+              "width": 1500,
+              "height": 843,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XMxiaU9wCaxtcBrZcCac8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ec42e48564ad8fd96b518da6039164ed",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/24/meta-platforms-will-be-a-2-trillion-company-on-this-date/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-2-trillion-company-174659550.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ad7965b1-85ae-3c0c-a1f1-176623fc072b",
+      "content": {
+        "id": "ad7965b1-85ae-3c0c-a1f1-176623fc072b",
+        "contentType": "STORY",
+        "title": "AOC Demands EPA Probe After Residents Near Meta Data Center In Georgia Complain Of Murky Drinking Water: Cannot 'Take For Granted'",
+        "description": "",
+        "summary": "Earlier this week, Rep. Alexandria Ocasio-Cortez (D-N.Y.) called for federal investigations into the environmental impact of data center construction after residents near Meta Platforms, Inc.'s Georgia facility reported discolored well water, declining water pressure and appliance damage. AOC Raises Concerns...",
+        "pubDate": "2026-05-24T16:31:37Z",
+        "displayTime": "2026-05-24T16:31:37Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/b5cb096e1cb8c5891689d5a889533f25",
+          "originalWidth": 1024,
+          "originalHeight": 683,
+          "caption": "AOC Demands EPA Probe After Residents Near Meta Data Center In Georgia Complain Of Murky Drinking Water: Cannot 'Take For Granted'",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ro_3DJkMVyVPwyUfAP5JKg--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/b5cb096e1cb8c5891689d5a889533f25",
+              "width": 1024,
+              "height": 683,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nxkgUr8d6VNblJRKr4FdAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/b5cb096e1cb8c5891689d5a889533f25",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://www.yahoo.com/news/politics/articles/aoc-demands-epa-probe-residents-163137166.html",
+          "site": "news",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://www.yahoo.com/news/politics/articles/aoc-demands-epa-probe-residents-163137166.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "96a1681b-f497-3a02-a6b7-a07e232be315",
+      "content": {
+        "id": "96a1681b-f497-3a02-a6b7-a07e232be315",
+        "contentType": "STORY",
+        "title": "Wells Fargo Reduces PT on Meta Platforms (META) Stock",
+        "description": "",
+        "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the Best Long-Term Stocks to Buy Now for High Returns. On May 20, Wells Fargo analyst Ken Gawrelski reduced the firm’s price objective on the company’s stock to $765 from $770 and kept an “Overweight” rating on the shares. As per the firm, the broader market confidence continues […]",
+        "pubDate": "2026-05-24T13:30:32Z",
+        "displayTime": "2026-05-24T13:30:32Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
+          "originalWidth": 1456,
+          "originalHeight": 816,
+          "caption": "Wells Fargo Reduces PT on Meta Platforms (META) Stock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2fCwroEhg6F7wXNJDb_Kwg--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
+              "width": 1456,
+              "height": 816,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/X_RsUBMm0OU_eXmgirlwdw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-reduces-pt-meta-133032571.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-reduces-pt-meta-133032571.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1896,9 +2144,9 @@
         "contentType": "STORY",
         "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
         "description": "",
-        "summary": "(Bloomberg) -- As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.Most Read from BloombergTrump’s 3,711 Trades Point to Multiple Stock-Market StrategiesBungie Plans Layoffs After Ending ‘Destiny 2’ DevelopmentTrump to Force Foreigners Seeking Green Cards to Go Home FirstUAE Joins Saudis, Qatar in Urging Trump Not",
-        "pubDate": "2026-05-23T19:00:00Z",
-        "displayTime": "2026-05-23T19:00:00Z",
+        "summary": "(Bloomberg) -- As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.Most Read from BloombergNvidia CEO Urges Super Micro to Tighten Up on ComplianceTrump Says He’ll Announce Negotiated Deal With Iran ShortlyIran, US Signal Progress in Peace Talks as Issues UnresolvedRubio Sees Good News Coming on Hormuz as Iran Talk",
+        "pubDate": "2026-05-24T12:42:06Z",
+        "displayTime": "2026-05-24T12:42:06Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -1952,32 +2200,32 @@
       }
     },
     {
-      "id": "6572c638-4bc2-3ddd-9619-f452f40b94f8",
+      "id": "66f990d2-099a-3666-a4e1-e85286a7e1e5",
       "content": {
-        "id": "6572c638-4bc2-3ddd-9619-f452f40b94f8",
+        "id": "66f990d2-099a-3666-a4e1-e85286a7e1e5",
         "contentType": "STORY",
-        "title": "Paul Tudor Jones makes $8 billion bet on small-cap chaos",
+        "title": "This Artificial Intelligence (AI) Stock Just Became Too Cheap to Ignore",
         "description": "",
-        "summary": "Paul Tudor Jones doesn’t appear to be locked into one stock. That may be the real story. The billionaire investor’s Tudor Investment Corp. reported a massive first-quarter options book that includes big stakes connected to Nvidia (NVDA), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta Platforms ...",
-        "pubDate": "2026-05-23T18:33:00Z",
-        "displayTime": "2026-05-23T18:33:00Z",
+        "summary": "Microsoft stock hasn't received much love lately despite the company's solid fundamentals.",
+        "pubDate": "2026-05-24T10:40:00Z",
+        "displayTime": "2026-05-24T10:40:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/bd92fa61adeae47af88b16677a890f44",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/cdb758f1668129b7c4e02a42a6a0f63b",
+          "originalWidth": 1199,
+          "originalHeight": 803,
+          "caption": "Microsoft dashboard.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VJKRRqmYfGSqyBdiViz1hg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/bd92fa61adeae47af88b16677a890f44",
-              "width": 1200,
-              "height": 675,
+              "url": "https://s.yimg.com/uu/api/res/1.2/bjmVYrQWGy2cy7VJ5v.g5w--~B/aD04MDM7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cdb758f1668129b7c4e02a42a6a0f63b",
+              "width": 1199,
+              "height": 803,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/cAKTObvK1ZJNz38Inj8Gjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/bd92fa61adeae47af88b16677a890f44",
+              "url": "https://s.yimg.com/uu/api/res/1.2/PTL1CYwHwIG8cZs3cFZ0EQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cdb758f1668129b7c4e02a42a6a0f63b",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1985,18 +2233,18 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/paul-tudor-jones-makes-8-billion-bet-on-small-cap-chaos",
+          "url": "https://www.fool.com/investing/2026/05/24/this-artificial-intelligence-ai-stock-just-became/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/options/articles/paul-tudor-jones-makes-8-183300851.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stock-just-104000990.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2014,342 +2262,32 @@
       }
     },
     {
-      "id": "b84054da-e0e9-3525-8e19-085d647c389e",
+      "id": "66365d21-553e-3c90-b7de-3097c46b0043",
       "content": {
-        "id": "b84054da-e0e9-3525-8e19-085d647c389e",
+        "id": "66365d21-553e-3c90-b7de-3097c46b0043",
         "contentType": "STORY",
-        "title": "“We’re Studying You to Figure Out How to Make This All More Effective” — Zuckerberg’s Leaked Comment Sparks Job Loss Fears",
+        "title": "Alphabet Bets On AI Glasses And Cheaper Gemini To Deepen Ecosystem",
         "description": "",
-        "summary": "Mark Zuckerberg said what every mega-cap CEO is probably thinking but few will say on tape. In leaked audio from an April 30, 2026 Meta all-hands, the CEO told employees: “The AI models learn from watching really smart people do things. The average intelligence of the people who are at this company is significantly higher ... “We’re Studying You to Figure Out How to Make This All More Effective” — Zuckerberg’s Leaked Comment Sparks Job Loss Fears",
-        "pubDate": "2026-05-23T15:55:57Z",
-        "displayTime": "2026-05-23T15:55:57Z",
+        "summary": "Alphabet (NasdaqGS:GOOGL) officially launched Android XR powered AI smart glasses at Google I/O 2026, positioning Google more directly in the smart glasses market against Meta and Apple. Google expanded global wearables partnerships, including collaborations with Samsung, Gentle Monster, and Warby Parker, to broaden distribution and design options for its AI glasses. The company cut Gemini enterprise AI pricing by 20% to drive wider adoption, alongside reported 40% growth in enterprise usage...",
+        "pubDate": "2026-05-24T06:11:08Z",
+        "displayTime": "2026-05-24T06:11:08Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/ac240829058f35d1fec1a2efec95a56c",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/bX4toefKD29lRzB9BTUByg--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/ac240829058f35d1fec1a2efec95a56c",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/s_h0IXPNPFnw6pHIM2Rggg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ac240829058f35d1fec1a2efec95a56c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/23/were-studying-you-to-figure-out-how-to-make-this-all-more-effective-zuckerbergs-leaked-comment-sparks-job-loss-fears/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/studying-figure-more-effective-zuckerberg-155557888.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "94b4a63d-12b7-3d79-a80d-2877eb16736d",
-      "content": {
-        "id": "94b4a63d-12b7-3d79-a80d-2877eb16736d",
-        "contentType": "STORY",
-        "title": "GDP Alert: The United Kingdom Is Poorer Than Every Individual U.S. State",
-        "description": "",
-        "summary": "The economic gap between the U.S. and the U.K. has been widening for more than a decade. As a result, a new study has found that the U.K.'s GDP per capita is now lower than every single U.S. state.",
-        "pubDate": "2026-05-23T14:00:03Z",
-        "displayTime": "2026-05-23T14:00:03Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/2c1e4668381711bc34527dd1ea9574d3",
-          "originalWidth": 1600,
-          "originalHeight": 1067,
-          "caption": "Business chart with glowing arrows and world map by Golden Dayz via Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3_xgYuLdSm3VPBLTZNpc7g--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/2c1e4668381711bc34527dd1ea9574d3",
-              "width": 1600,
-              "height": 1067,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/FP0yG432BN7ltzou1i4QIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/2c1e4668381711bc34527dd1ea9574d3",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/2102191/gdp-alert-the-united-kingdom-is-poorer-than-every-individual-u-s-state",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/articles/gdp-alert-united-kingdom-poorer-140003132.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f184aa4a-75a6-3db3-a260-203b5154949e",
-      "content": {
-        "id": "f184aa4a-75a6-3db3-a260-203b5154949e",
-        "contentType": "STORY",
-        "title": "The 401(k) Mega Backdoor Roth Strategy a Tech Worker Used to Build $750,000 of Roth Wealth in Six Years",
-        "description": "",
-        "summary": "A 30-year-old software engineer at Meta (NASDAQ:META), earning a $200,000 base plus refreshing stock grants, asked a question that gets posted in some form on r/financialindependence every week: how do I shovel more into a Roth when I am already over the income limit for direct Roth IRA contributions and my 401(k) deferral is maxed? ... The 401(k) Mega Backdoor Roth Strategy a Tech Worker Used to Build $750,000 of Roth Wealth in Six Years",
-        "pubDate": "2026-05-23T13:07:37Z",
-        "displayTime": "2026-05-23T13:07:37Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/3c7c794d96ce6e38aee99ea690f5bb1b",
-          "originalWidth": 1500,
-          "originalHeight": 1000,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/UOmw_puLdgmqAYp0i67_Ig--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/3c7c794d96ce6e38aee99ea690f5bb1b",
-              "width": 1500,
-              "height": 1000,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZdLb0AeFD1JSANVwvUQO_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3c7c794d96ce6e38aee99ea690f5bb1b",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/personal-finance/2026/05/23/the-401k-mega-backdoor-roth-strategy-a-tech-worker-used-to-build-750000-of-roth-wealth-in-six-years/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/options/articles/401-k-mega-backdoor-roth-130737532.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7770e47e-3452-34da-8741-8762700d5f3e",
-      "content": {
-        "id": "7770e47e-3452-34da-8741-8762700d5f3e",
-        "contentType": "STORY",
-        "title": "Meta Platforms (META) Loses Fight Against an Italian Regulatory Order, Reuters Reports",
-        "description": "",
-        "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the best communication stocks to invest in. Reuters reported on May 12 that Meta Platforms, Inc. (NASDAQ:META) lost its fight against an Italian regulatory order that called for it to compensate publishers for the use of their news article snippets, with Europe’s top court deciding in favor of the […]",
-        "pubDate": "2026-05-23T11:55:06Z",
-        "displayTime": "2026-05-23T11:55:06Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
-          "originalWidth": 1456,
-          "originalHeight": 816,
-          "caption": "Meta Platforms, Inc. (META)'s Tells You How Cool Ryan Reynolds Is, Says Jim Cramer",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2fCwroEhg6F7wXNJDb_Kwg--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
-              "width": 1456,
-              "height": 816,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/X_RsUBMm0OU_eXmgirlwdw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-loses-fight-115506338.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-loses-fight-115506338.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "563e6678-a883-3d6a-8eb6-d9207808cdc7",
-      "content": {
-        "id": "563e6678-a883-3d6a-8eb6-d9207808cdc7",
-        "contentType": "STORY",
-        "title": "49,000 Lake Tahoe residents fear they'll lose power as data centers strain grids. Experts see electricity crisis ahead",
-        "description": "",
-        "summary": "Researchers warn America’s rapidly expanding data center industry could drive electricity prices up 57% in some regions by 2030.",
-        "pubDate": "2026-05-23T11:30:00Z",
-        "displayTime": "2026-05-23T11:30:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/moneywise_327/31758a35af1a2979859cfee2b5df7c00",
-          "originalWidth": 5751,
-          "originalHeight": 3235,
-          "caption": "People walking in South Lake Tahoe.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lhITTW3nLRMPod8bjiYuZA--~B/aD0zMjM1O3c9NTc1MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/moneywise_327/31758a35af1a2979859cfee2b5df7c00",
-              "width": 5751,
-              "height": 3235,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NLuqk5WR_zdL3L5XLfgpnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/31758a35af1a2979859cfee2b5df7c00",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Moneywise",
-          "url": "https://moneywise.com/",
-          "sourceId": "moneywise_327"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/energy/articles/49-000-lake-tahoe-residents-113000773.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/energy/articles/49-000-lake-tahoe-residents-113000773.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b92cf0f6-05c1-3fdb-9281-b92c1e4671f6",
-      "content": {
-        "id": "b92cf0f6-05c1-3fdb-9281-b92c1e4671f6",
-        "contentType": "STORY",
-        "title": "Applied Materials Taps UCLA AI Chip Hub As Valuation Debate Grows",
-        "description": "",
-        "summary": "Applied Materials (NasdaqGS:AMAT) is joining Meta, Broadcom, GlobalFoundries, and Synopsys to fund a new US$125 million semiconductor research hub at UCLA. The hub is focused on next generation chip and AI technologies and is intended to support a more resilient U.S. semiconductor supply chain. This multi company partnership positions Applied Materials at the center of collaborative research across equipment, design, foundry, and end user segments. For you as an investor, this move...",
-        "pubDate": "2026-05-23T10:21:18Z",
-        "displayTime": "2026-05-23T10:21:18Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/1fc7d8c4b041b0aaed5c1d373b17b5b4",
           "originalWidth": 1194,
           "originalHeight": 432,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mKc.reAobIqN0pRLFgUsDQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
+              "url": "https://s.yimg.com/uu/api/res/1.2/VTfDtc_pApg1_vVDy_b8eQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/1fc7d8c4b041b0aaed5c1d373b17b5b4",
               "width": 1194,
               "height": 432,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fDWj3i2q23Hz4JLTMAbekg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
+              "url": "https://s.yimg.com/uu/api/res/1.2/EJBJQYg7I5Di15rvJ9eUjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/1fc7d8c4b041b0aaed5c1d373b17b5b4",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2362,13 +2300,75 @@
           "sourceId": "simply_wall_st__316"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/applied-materials-taps-ucla-ai-102118712.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-bets-ai-glasses-cheaper-061108192.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/applied-materials-taps-ucla-ai-102118712.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-bets-ai-glasses-cheaper-061108192.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "df555577-6b40-3582-bc34-3b0a9a22c7f9",
+      "content": {
+        "id": "df555577-6b40-3582-bc34-3b0a9a22c7f9",
+        "contentType": "STORY",
+        "title": "Meta, Broadcom And Others Launch $125 Million UCLA AI Chip Hub",
+        "description": "",
+        "summary": "Broadcom Inc., Applied Materials Inc., GlobalFoundries Inc., Meta Platforms Inc., and Synopsys, Inc. announced on Thursday that they have partnered with the UCLA Samueli School of Engineering to launch a $125 million Semiconductor Hub aimed at accelerating research and workforce...",
+        "pubDate": "2026-05-24T00:31:14Z",
+        "displayTime": "2026-05-24T00:31:14Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/61d373556cdb375313def6a4c7c14615",
+          "originalWidth": 1000,
+          "originalHeight": 570,
+          "caption": "Meta, Broadcom And Others Launch $125 Million UCLA AI Chip Hub",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1cVLJGS6Rzz5xvtABr1NNg--~B/aD01NzA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/61d373556cdb375313def6a4c7c14615",
+              "width": 1000,
+              "height": 570,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/J9zG0XWVTDh_BWS84TUXUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/61d373556cdb375313def6a4c7c14615",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-broadcom-others-launch-125-003114962.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-broadcom-others-launch-125-003114962.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
