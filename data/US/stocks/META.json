@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-24T22:52:00.273301",
+    "ts": "2026-05-25T22:53:50.534644",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -154,7 +154,7 @@
     "forwardPE": 16.948385,
     "volume": 11688623,
     "regularMarketVolume": 11688623,
-    "averageVolume": 15449504,
+    "averageVolume": 15517026,
     "averageVolume10days": 12785010,
     "averageDailyVolume10Day": 12785010,
     "bid": 609.84,
@@ -240,36 +240,30 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "epsTrailingTwelveMonths": 27.52,
-    "epsForward": 36.00697,
-    "epsCurrentYear": 32.31885,
-    "priceEpsCurrentYear": 18.882479,
-    "fiftyDayAverageChange": -7.554016,
-    "fiftyDayAverageChangePercent": -0.012227006,
-    "twoHundredDayAverageChange": -59.169495,
-    "twoHundredDayAverageChangePercent": -0.08838794,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-24",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
     "corporateActions": [],
     "postMarketTime": 1779494399,
     "regularMarketTime": 1779480001,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "regularMarketChangePercent": 0.47416854,
+    "regularMarketPrice": 610.26,
+    "marketState": "CLOSED",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
     "postMarketChangePercent": -0.47685152,
     "postMarketPrice": 607.35,
     "postMarketChange": -2.9100342,
     "regularMarketChange": 2.880005,
     "regularMarketDayRange": "606.955 - 614.81",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15449504,
+    "averageDailyVolume3Month": 15517026,
     "fiftyTwoWeekLowChange": 90.0,
     "fiftyTwoWeekLowChangePercent": 0.17299043,
     "fiftyTwoWeekRange": "520.26 - 796.25",
@@ -283,15 +277,21 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "marketState": "CLOSED",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": 0.47416854,
-    "regularMarketPrice": 610.26,
+    "epsTrailingTwelveMonths": 27.52,
+    "epsForward": 36.00697,
+    "epsCurrentYear": 32.31885,
+    "priceEpsCurrentYear": 18.882479,
+    "fiftyDayAverageChange": -7.554016,
+    "fiftyDayAverageChangePercent": -0.012227006,
+    "twoHundredDayAverageChange": -59.169495,
+    "twoHundredDayAverageChangePercent": -0.08838794,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-05-25",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8817
   },
@@ -1766,32 +1766,156 @@
   },
   "news": [
     {
-      "id": "2d9b22c1-3c29-3124-8641-2971e98f5bb6",
+      "id": "3df942bd-be23-38bb-90e4-29d3dd6fc0aa",
       "content": {
-        "id": "2d9b22c1-3c29-3124-8641-2971e98f5bb6",
+        "id": "3df942bd-be23-38bb-90e4-29d3dd6fc0aa",
         "contentType": "STORY",
-        "title": "Google Just Shared Bad News for Nvidia, and Even Worse News For CoreWeave and Nebius",
+        "title": "Bernie Sanders Slams Meta After 8,000 Layoffs And Asks: If Mark  Zuckerberg Will Lay Off 10% Of His Staff, What Will AI Do To American Workers?",
         "description": "",
-        "summary": "Alphabet's latest side project could be a huge boost to this rapidly growing business.",
-        "pubDate": "2026-05-24T21:20:00Z",
-        "displayTime": "2026-05-24T21:20:00Z",
+        "summary": "On Wednesday, Sen. Bernie Sanders (I-Vt) raised concerns about artificial intelligence and job security after Meta Platforms, Inc. laid off roughly 8,000 employees while accelerating its multibillion-dollar AI expansion. Meta Layoffs Spark AI Job Loss Debate In a post on...",
+        "pubDate": "2026-05-25T20:30:46Z",
+        "displayTime": "2026-05-25T20:30:46Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/50d3a75971543c1fc6c783db279d35e5",
-          "originalWidth": 1400,
-          "originalHeight": 1021,
-          "caption": "The Google logo on a smartphone.",
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/44ef9a81aa16d5cf8e95258387c68a59",
+          "originalWidth": 1024,
+          "originalHeight": 720,
+          "caption": "Bernie Sanders Slams Meta After 8,000 Layoffs And Asks: If Mark  Zuckerberg Will Lay Off 10% Of His Staff, What Will AI Do To American Workers?",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pJWlYZC7lbwZcZcr.4jm7Q--~B/aD0xMDIxO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/50d3a75971543c1fc6c783db279d35e5",
-              "width": 1400,
-              "height": 1021,
+              "url": "https://s.yimg.com/uu/api/res/1.2/DzLs_nOEGqVAPV.WmugWJA--~B/aD03MjA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/44ef9a81aa16d5cf8e95258387c68a59",
+              "width": 1024,
+              "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aSmaWzbXByzvC9Ua5SbzDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/50d3a75971543c1fc6c783db279d35e5",
+              "url": "https://s.yimg.com/uu/api/res/1.2/r9gkvMdWoXdttE9hQFluDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/44ef9a81aa16d5cf8e95258387c68a59",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-slams-meta-8-203046826.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-slams-meta-8-203046826.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f24654df-81be-38e1-ae2e-13664fa29f65",
+      "content": {
+        "id": "f24654df-81be-38e1-ae2e-13664fa29f65",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg sends another message to Meta employees",
+        "description": "",
+        "summary": "Most executives announcing layoffs lean on a familiar script. They talk about efficiency, strategic alignment, and the need to position the company for long-term growth. The language is careful. The emotion is managed. What Mark Zuckerberg wrote to employees on May 20 was something different. In a ...",
+        "pubDate": "2026-05-25T20:23:00Z",
+        "displayTime": "2026-05-25T20:23:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/058f1316abbb7c2ede6a84bb91de9e1a",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gpuHPJG.B5yxfMcRikPJtg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/058f1316abbb7c2ede6a84bb91de9e1a",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/N29enXh8ueFAdAoSF_GXpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/058f1316abbb7c2ede6a84bb91de9e1a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/employment/mark-zuckerberg-sends-another-message-to-meta-employees",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-another-message-202300175.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8ccd8d9e-25ff-3f55-936c-8f5868d2d416",
+      "content": {
+        "id": "8ccd8d9e-25ff-3f55-936c-8f5868d2d416",
+        "contentType": "STORY",
+        "title": "Missed Out on the Initial AI Rally? These 3 AI Stocks Are Just Getting Started.",
+        "description": "",
+        "summary": "There is still plenty of upside in the AI sector despite a recent run-up.",
+        "pubDate": "2026-05-25T17:29:00Z",
+        "displayTime": "2026-05-25T17:29:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/82712e5e75c1920f0a4bf836f8576627",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "A person gives a presentation in an office.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NtrSqMdkaeQlERSe5_V4bw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/82712e5e75c1920f0a4bf836f8576627",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/SrLbh6t4Aouq6eX0te2UQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/82712e5e75c1920f0a4bf836f8576627",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1804,13 +1928,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/24/google-just-shared-bad-news-for-nvidia-and-even-wo/",
+          "url": "https://www.fool.com/investing/2026/05/25/missed-out-on-the-initial-ai-rally-these-3-ai-stoc/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/google-just-shared-bad-news-212000426.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/missed-initial-ai-rally-3-172900266.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1828,32 +1952,32 @@
       }
     },
     {
-      "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
+      "id": "181eda78-87ba-33bb-9ee2-c328bf619a70",
       "content": {
-        "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
+        "id": "181eda78-87ba-33bb-9ee2-c328bf619a70",
         "contentType": "STORY",
-        "title": "XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
+        "title": "Mark Zuckerberg May Already Have an AI Agent Sidekick — Could This Be the Future for CEOs?",
         "description": "",
-        "summary": "The ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) sits at an awkward crossroad heading into summer 2026. Shares trade near $19.08, down 5% year-to-date even as the public-side AI mega-caps it holds have ripped higher. That disconnect matters because XOVR is the rare ETF that pairs late-stage private growth (SpaceX is the publicly known anchor) with public ... XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
-        "pubDate": "2026-05-24T18:30:52Z",
-        "displayTime": "2026-05-24T18:30:52Z",
+        "summary": "Digital twins could soon go from science fiction to reality as the agentic wave takes off, colliding with deep personalization. Indeed, as AI gains greater access to our digital lives, as we allow it to look through emails, Slack messages, work tickets, codebases, social-media profiles, calendars, and contacts, at what point will AI act as ... Mark Zuckerberg May Already Have an AI Agent Sidekick — Could This Be the Future for CEOs?",
+        "pubDate": "2026-05-25T16:47:41Z",
+        "displayTime": "2026-05-25T16:47:41Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
-          "originalWidth": 1188,
-          "originalHeight": 442,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/eac5944ee970b08350a8d4a2c7d29ddf",
+          "originalWidth": 1366,
+          "originalHeight": 768,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/RxwyEt9o1PYrp2SKgARGYw--~B/aD00NDI7dz0xMTg4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
-              "width": 1188,
-              "height": 442,
+              "url": "https://s.yimg.com/uu/api/res/1.2/9KeX5IkU5lfs5ZGfEqz13w--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/eac5944ee970b08350a8d4a2c7d29ddf",
+              "width": 1366,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/RiRvbnQzb5gEYovgVxx2aA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
+              "url": "https://s.yimg.com/uu/api/res/1.2/hk0W0ClKvzkcXcF2Kg.rSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eac5944ee970b08350a8d4a2c7d29ddf",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1866,13 +1990,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/24/xovr-etf-watch-hyperscaler-ai-capex-before-summer-2026-earnings-season/",
+          "url": "https://247wallst.com/investing/2026/05/25/mark-zuckerberg-may-soon-get-an-ai-agent-sidekick-could-this-be-the-future-for-ceos/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xovr-etf-watch-hyperscaler-ai-183052462.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/mark-zuckerberg-may-already-ai-164741786.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1890,32 +2014,218 @@
       }
     },
     {
-      "id": "45fb0c7a-5e7f-3524-a09f-d92661216f56",
+      "id": "4b5d4a74-9604-347e-be93-3e427b7462bf",
       "content": {
-        "id": "45fb0c7a-5e7f-3524-a09f-d92661216f56",
+        "id": "4b5d4a74-9604-347e-be93-3e427b7462bf",
         "contentType": "STORY",
-        "title": "Unity And Meta Extend VR Partnership As Investors Weigh Execution Risk",
+        "title": "The AI Trade Might Be Grossly Underestimated — and It Could Be Time To Rethink How We View the Mag 7",
         "description": "",
-        "summary": "Unity Software (NYSE:U) has extended and expanded its multi year partnership with Meta to continue providing core engine support for Meta’s virtual reality platform. The renewed agreement focuses on deeper integration between Unity’s development tools and Meta’s VR hardware, covering both gaming and enterprise use cases. This extension confirms Unity’s role as a key content creation platform for VR experiences across Meta’s ecosystem. Unity Software enters this renewed partnership with Meta...",
-        "pubDate": "2026-05-24T18:11:21Z",
-        "displayTime": "2026-05-24T18:11:21Z",
+        "summary": "It’s pretty hard to know what to believe when it comes to this ongoing AI revolution. The AI bubble calls have been growing louder for well over a year now. And while some folks, including the great Michael Burry of The Big Short fame, might feel as though we’re in the lead-up to the peak ... The AI Trade Might Be Grossly Underestimated — and It Could Be Time To Rethink How We View the Mag 7",
+        "pubDate": "2026-05-25T15:53:46Z",
+        "displayTime": "2026-05-25T15:53:46Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/66e68bf25aa5dc701bc70d0e0ad97fa0",
+          "originalWidth": 1500,
+          "originalHeight": 822,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/V58LnaP7lsPtD9QX_EEOJg--~B/aD04MjI7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/66e68bf25aa5dc701bc70d0e0ad97fa0",
+              "width": 1500,
+              "height": 822,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/12dLx5N6KZDIUtlEwfyTDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/66e68bf25aa5dc701bc70d0e0ad97fa0",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/25/the-ai-trade-might-be-grossly-underestimated-and-it-could-be-time-to-rethink-how-we-view-the-mag-7/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-might-grossly-underestimated-155346066.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "36712bfd-73bd-36b1-84ea-e79772729648",
+      "content": {
+        "id": "36712bfd-73bd-36b1-84ea-e79772729648",
+        "contentType": "STORY",
+        "title": "3 Reasons Why Nebius Stock Is Reaching New Highs",
+        "description": "",
+        "summary": "Nebius stock is soaring as the company aggressively expands its AI cloud empire.",
+        "pubDate": "2026-05-25T15:00:02Z",
+        "displayTime": "2026-05-25T15:00:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/48711142162b134f8f7680caf42599f6",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "caption": "Ai chip by Quality Stock Arts via Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WI6Tch3orhKDjTbwu.45fg--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/48711142162b134f8f7680caf42599f6",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RXEh_p4x2IzBoTlbs7yGVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/48711142162b134f8f7680caf42599f6",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/2116504/3-reasons-why-nebius-stock-is-reaching-new-highs",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-nebius-stock-150002144.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b061461b-06c0-389f-960a-f5a912247774",
+      "content": {
+        "id": "b061461b-06c0-389f-960a-f5a912247774",
+        "contentType": "STORY",
+        "title": "Meta urges Labour to burden Apple with age checks",
+        "description": "",
+        "summary": "Meta has urged Labour to enforce age verification checks directly on iPhone and Android smartphones amid a possible UK ban on child users.",
+        "pubDate": "2026-05-25T14:27:24Z",
+        "displayTime": "2026-05-25T14:27:24Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/the_telegraph_818/3c66d3b49d629237e6f54b5a534c38b5",
+          "originalWidth": 2500,
+          "originalHeight": 1563,
+          "caption": "Apple logo",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nGHR5dfPxt2NuMPZD.d83w--~B/aD0xNTYzO3c9MjUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_telegraph_818/3c66d3b49d629237e6f54b5a534c38b5",
+              "width": 2500,
+              "height": 1563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OXVb_bz4K9nGN5_jOpRJCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_818/3c66d3b49d629237e6f54b5a534c38b5",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Telegraph",
+          "url": "http://www.telegraph.co.uk/",
+          "sourceId": "the_telegraph_818"
+        },
+        "canonicalUrl": {
+          "url": "https://uk.finance.yahoo.com/news/meta-urges-labour-burden-apple-142724103.html",
+          "site": "finance",
+          "region": "GB",
+          "lang": "en-GB"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/meta-urges-labour-burden-apple-142724103.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9f7269c6-f032-3d9f-ae5b-6219ccbd67f7",
+      "content": {
+        "id": "9f7269c6-f032-3d9f-ae5b-6219ccbd67f7",
+        "contentType": "STORY",
+        "title": "How The Story Is Shifting For TaskUs (TASK) As AI Grows And Trust And Safety Slows",
+        "description": "",
+        "summary": "TaskUs is back in focus after the fair value estimate on the stock was trimmed from US$12.00 to US$9.50, a reduction of roughly 21% that resets expectations around what investors might be willing to pay. This shift lines up with recent analyst commentary that highlights client spending resets, pressure in Trust & Safety, and a mixed setup between legacy work and AI Services. As you read on, you will see how these moving pieces fit together and what to watch as the TaskUs story...",
+        "pubDate": "2026-05-25T14:10:55Z",
+        "displayTime": "2026-05-25T14:10:55Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/436d8a2bc259eaa09523a3bc325b5211",
           "originalWidth": 1194,
           "originalHeight": 432,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/gnGTQ_q9KCdl7Xvx_ppB0g--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+              "url": "https://s.yimg.com/uu/api/res/1.2/lYjdNEDnNRYUa1jxj0SSew--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/436d8a2bc259eaa09523a3bc325b5211",
               "width": 1194,
               "height": 432,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Jbiqqe7KMxnCTk7Vokaf3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/436d8a2bc259eaa09523a3bc325b5211",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1928,13 +2238,13 @@
           "sourceId": "simply_wall_st__316"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/unity-meta-extend-vr-partnership-181121515.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/story-shifting-taskus-task-ai-141055289.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/unity-meta-extend-vr-partnership-181121515.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/story-shifting-taskus-task-ai-141055289.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1952,94 +2262,32 @@
       }
     },
     {
-      "id": "a26afa3b-fdbc-3ce5-952e-e9714dba70a2",
+      "id": "1a36c830-326f-3700-b7f0-758c2dcf1ce3",
       "content": {
-        "id": "a26afa3b-fdbc-3ce5-952e-e9714dba70a2",
+        "id": "1a36c830-326f-3700-b7f0-758c2dcf1ce3",
         "contentType": "STORY",
-        "title": "Meta Platforms Will Be a $2 Trillion Company On This Date",
+        "title": "AI Search Startup Exa Labs Raises $250M At $2.2 Billion Valuation, Led By Andreessen Horowitz",
         "description": "",
-        "summary": "Meta Platforms (NASDAQ:META | META Price Prediction) delivered a strong earnings beat, yet shares drift lower. Q1 2026 revenue jumped 33.08% to $56.311 billion, EPS came in at $10.44 versus a $6.6587 estimate, and CEO Mark Zuckerberg said the company is “on track to deliver personal superintelligence to billions of people.” Shares trade at $610.26 ... Meta Platforms Will Be a $2 Trillion Company On This Date",
-        "pubDate": "2026-05-24T17:46:59Z",
-        "displayTime": "2026-05-24T17:46:59Z",
+        "summary": "Exa Labs Inc. has raised $250 million in a Series C round led by Andreessen Horowitz, valuing the San Francisco-based artificial intelligence company at $2.2 billion. The startup said it will use the new capital to train its next generation...",
+        "pubDate": "2026-05-25T12:30:22Z",
+        "displayTime": "2026-05-25T12:30:22Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/ec42e48564ad8fd96b518da6039164ed",
-          "originalWidth": 1500,
-          "originalHeight": 843,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.l9WedL2I4sNlJSIOM4DzA--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/ec42e48564ad8fd96b518da6039164ed",
-              "width": 1500,
-              "height": 843,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XMxiaU9wCaxtcBrZcCac8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ec42e48564ad8fd96b518da6039164ed",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/24/meta-platforms-will-be-a-2-trillion-company-on-this-date/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-2-trillion-company-174659550.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ad7965b1-85ae-3c0c-a1f1-176623fc072b",
-      "content": {
-        "id": "ad7965b1-85ae-3c0c-a1f1-176623fc072b",
-        "contentType": "STORY",
-        "title": "AOC Demands EPA Probe After Residents Near Meta Data Center In Georgia Complain Of Murky Drinking Water: Cannot 'Take For Granted'",
-        "description": "",
-        "summary": "Earlier this week, Rep. Alexandria Ocasio-Cortez (D-N.Y.) called for federal investigations into the environmental impact of data center construction after residents near Meta Platforms, Inc.'s Georgia facility reported discolored well water, declining water pressure and appliance damage. AOC Raises Concerns...",
-        "pubDate": "2026-05-24T16:31:37Z",
-        "displayTime": "2026-05-24T16:31:37Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/b5cb096e1cb8c5891689d5a889533f25",
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/f1a7da3d866289bb509992ed06963898",
           "originalWidth": 1024,
           "originalHeight": 683,
-          "caption": "AOC Demands EPA Probe After Residents Near Meta Data Center In Georgia Complain Of Murky Drinking Water: Cannot 'Take For Granted'",
+          "caption": "AI Search Startup Exa Labs Raises $250M At $2.2 Billion Valuation, Led By Andreessen Horowitz",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ro_3DJkMVyVPwyUfAP5JKg--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/b5cb096e1cb8c5891689d5a889533f25",
+              "url": "https://s.yimg.com/uu/api/res/1.2/t3PK0gQyQx8giCgVFd0pxA--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/f1a7da3d866289bb509992ed06963898",
               "width": 1024,
               "height": 683,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nxkgUr8d6VNblJRKr4FdAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/b5cb096e1cb8c5891689d5a889533f25",
+              "url": "https://s.yimg.com/uu/api/res/1.2/JKm7jq0VbFmviNrrL5orAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/f1a7da3d866289bb509992ed06963898",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2052,13 +2300,13 @@
           "sourceId": "benzinga_79"
         },
         "canonicalUrl": {
-          "url": "https://www.yahoo.com/news/politics/articles/aoc-demands-epa-probe-residents-163137166.html",
-          "site": "news",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-search-startup-exa-labs-123022930.html",
+          "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://www.yahoo.com/news/politics/articles/aoc-demands-epa-probe-residents-163137166.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-search-startup-exa-labs-123022930.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2076,32 +2324,32 @@
       }
     },
     {
-      "id": "96a1681b-f497-3a02-a6b7-a07e232be315",
+      "id": "116457c8-ef14-3e6e-841a-b99cd79d0ba3",
       "content": {
-        "id": "96a1681b-f497-3a02-a6b7-a07e232be315",
+        "id": "116457c8-ef14-3e6e-841a-b99cd79d0ba3",
         "contentType": "STORY",
-        "title": "Wells Fargo Reduces PT on Meta Platforms (META) Stock",
+        "title": "Posthaste: Worried about a market bubble? You ain't seen nothing yet, warns top BofA strategist",
         "description": "",
-        "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the Best Long-Term Stocks to Buy Now for High Returns. On May 20, Wells Fargo analyst Ken Gawrelski reduced the firm’s price objective on the company’s stock to $765 from $770 and kept an “Overweight” rating on the shares. As per the firm, the broader market confidence continues […]",
-        "pubDate": "2026-05-24T13:30:32Z",
-        "displayTime": "2026-05-24T13:30:32Z",
+        "summary": "Bubble brewing that rivals the roaring '20s, but bulls won't sell until these two things happen",
+        "pubDate": "2026-05-25T12:07:08Z",
+        "displayTime": "2026-05-25T12:07:08Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
-          "originalWidth": 1456,
-          "originalHeight": 816,
-          "caption": "Wells Fargo Reduces PT on Meta Platforms (META) Stock",
+          "originalUrl": "https://media.zenfs.com/en/financial_post_articles_610/295ca9223e5a4d530b084c1142ad9625",
+          "originalWidth": 1280,
+          "originalHeight": 960,
+          "caption": "market-bubble-0525-ph",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2fCwroEhg6F7wXNJDb_Kwg--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
-              "width": 1456,
-              "height": 816,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZFRFroCXLdAsxw0dmzFLig--~B/aD05NjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/financial_post_articles_610/295ca9223e5a4d530b084c1142ad9625",
+              "width": 1280,
+              "height": 960,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/X_RsUBMm0OU_eXmgirlwdw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10",
+              "url": "https://s.yimg.com/uu/api/res/1.2/K8nYDWq8p56J_7ZdEajWjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/financial_post_articles_610/295ca9223e5a4d530b084c1142ad9625",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2109,266 +2357,18 @@
           ]
         },
         "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
+          "displayName": "Financial Post",
+          "url": "https://financialpost.com/",
+          "sourceId": "financial_post_articles_610"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-reduces-pt-meta-133032571.html",
+          "url": "https://financialpost.com/news/market-bubble-brewing-rivals-roaring-20s-warns-top-strategist",
           "site": "finance",
-          "region": "US",
-          "lang": "en-US"
+          "region": "CA",
+          "lang": "en-CA"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-reduces-pt-meta-133032571.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "96911612-26a8-3a0b-897c-f8ce94c1815d",
-      "content": {
-        "id": "96911612-26a8-3a0b-897c-f8ce94c1815d",
-        "contentType": "STORY",
-        "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
-        "description": "",
-        "summary": "(Bloomberg) -- As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.Most Read from BloombergNvidia CEO Urges Super Micro to Tighten Up on ComplianceTrump Says He’ll Announce Negotiated Deal With Iran ShortlyIran, US Signal Progress in Peace Talks as Issues UnresolvedRubio Sees Good News Coming on Hormuz as Iran Talk",
-        "pubDate": "2026-05-24T12:42:06Z",
-        "displayTime": "2026-05-24T12:42:06Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
-          "originalWidth": 2010,
-          "originalHeight": 1446,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/RGBvx9c93ALzzl6rF4P4HA--~B/aD0xNDQ2O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
-              "width": 2010,
-              "height": 1446,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xMq6bCcZJQpNiYj98GH7iA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/options/articles/hyperscaler-debt-flood-brings-derivatives-190000196.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/options/articles/hyperscaler-debt-flood-brings-derivatives-190000196.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "66f990d2-099a-3666-a4e1-e85286a7e1e5",
-      "content": {
-        "id": "66f990d2-099a-3666-a4e1-e85286a7e1e5",
-        "contentType": "STORY",
-        "title": "This Artificial Intelligence (AI) Stock Just Became Too Cheap to Ignore",
-        "description": "",
-        "summary": "Microsoft stock hasn't received much love lately despite the company's solid fundamentals.",
-        "pubDate": "2026-05-24T10:40:00Z",
-        "displayTime": "2026-05-24T10:40:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/cdb758f1668129b7c4e02a42a6a0f63b",
-          "originalWidth": 1199,
-          "originalHeight": 803,
-          "caption": "Microsoft dashboard.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/bjmVYrQWGy2cy7VJ5v.g5w--~B/aD04MDM7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cdb758f1668129b7c4e02a42a6a0f63b",
-              "width": 1199,
-              "height": 803,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/PTL1CYwHwIG8cZs3cFZ0EQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cdb758f1668129b7c4e02a42a6a0f63b",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/24/this-artificial-intelligence-ai-stock-just-became/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stock-just-104000990.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "66365d21-553e-3c90-b7de-3097c46b0043",
-      "content": {
-        "id": "66365d21-553e-3c90-b7de-3097c46b0043",
-        "contentType": "STORY",
-        "title": "Alphabet Bets On AI Glasses And Cheaper Gemini To Deepen Ecosystem",
-        "description": "",
-        "summary": "Alphabet (NasdaqGS:GOOGL) officially launched Android XR powered AI smart glasses at Google I/O 2026, positioning Google more directly in the smart glasses market against Meta and Apple. Google expanded global wearables partnerships, including collaborations with Samsung, Gentle Monster, and Warby Parker, to broaden distribution and design options for its AI glasses. The company cut Gemini enterprise AI pricing by 20% to drive wider adoption, alongside reported 40% growth in enterprise usage...",
-        "pubDate": "2026-05-24T06:11:08Z",
-        "displayTime": "2026-05-24T06:11:08Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/1fc7d8c4b041b0aaed5c1d373b17b5b4",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VTfDtc_pApg1_vVDy_b8eQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/1fc7d8c4b041b0aaed5c1d373b17b5b4",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/EJBJQYg7I5Di15rvJ9eUjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/1fc7d8c4b041b0aaed5c1d373b17b5b4",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-bets-ai-glasses-cheaper-061108192.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-bets-ai-glasses-cheaper-061108192.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "df555577-6b40-3582-bc34-3b0a9a22c7f9",
-      "content": {
-        "id": "df555577-6b40-3582-bc34-3b0a9a22c7f9",
-        "contentType": "STORY",
-        "title": "Meta, Broadcom And Others Launch $125 Million UCLA AI Chip Hub",
-        "description": "",
-        "summary": "Broadcom Inc., Applied Materials Inc., GlobalFoundries Inc., Meta Platforms Inc., and Synopsys, Inc. announced on Thursday that they have partnered with the UCLA Samueli School of Engineering to launch a $125 million Semiconductor Hub aimed at accelerating research and workforce...",
-        "pubDate": "2026-05-24T00:31:14Z",
-        "displayTime": "2026-05-24T00:31:14Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/61d373556cdb375313def6a4c7c14615",
-          "originalWidth": 1000,
-          "originalHeight": 570,
-          "caption": "Meta, Broadcom And Others Launch $125 Million UCLA AI Chip Hub",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1cVLJGS6Rzz5xvtABr1NNg--~B/aD01NzA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/61d373556cdb375313def6a4c7c14615",
-              "width": 1000,
-              "height": 570,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/J9zG0XWVTDh_BWS84TUXUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/61d373556cdb375313def6a4c7c14615",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-broadcom-others-launch-125-003114962.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-broadcom-others-launch-125-003114962.html",
+          "url": "https://finance.yahoo.com/news/posthaste-worried-market-bubble-aint-120708976.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
