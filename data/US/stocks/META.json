@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-25T22:53:50.534644",
+    "ts": "2026-05-26T23:03:44.739633",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,41 +137,41 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 607.38,
-    "open": 607.49,
-    "dayLow": 606.955,
-    "dayHigh": 614.81,
-    "regularMarketPreviousClose": 607.38,
-    "regularMarketOpen": 607.49,
-    "regularMarketDayLow": 606.955,
-    "regularMarketDayHigh": 614.81,
+    "previousClose": 610.26,
+    "open": 609.6,
+    "dayLow": 605.3001,
+    "dayHigh": 614.47,
+    "regularMarketPreviousClose": 610.26,
+    "regularMarketOpen": 609.6,
+    "regularMarketDayLow": 605.3001,
+    "regularMarketDayHigh": 614.47,
     "dividendRate": 2.1,
     "dividendYield": 0.34,
     "exDividendDate": 1773619200,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 22.175146,
-    "forwardPE": 16.948385,
-    "volume": 11688623,
-    "regularMarketVolume": 11688623,
-    "averageVolume": 15517026,
+    "trailingPE": 22.250727,
+    "forwardPE": 17.006153,
+    "volume": 10998126,
+    "regularMarketVolume": 10998126,
+    "averageVolume": 15598348,
     "averageVolume10days": 12785010,
     "averageDailyVolume10Day": 12785010,
-    "bid": 609.84,
-    "ask": 610.75,
+    "bid": 611.82,
+    "ask": 613.5,
     "bidSize": 1,
     "askSize": 1,
-    "marketCap": 1549098287104,
+    "marketCap": 1554378129408,
     "nonDilutedMarketCap": 1549098205498,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.2063484,
+    "priceToSalesTrailing12Months": 7.2309103,
     "fiftyDayAverage": 617.814,
     "twoHundredDayAverage": 669.4295,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.003457473,
+    "trailingAnnualDividendYield": 0.0034411561,
     "currency": "USD",
     "tradeable": false,
     "enterpriseValue": 1554687197184,
@@ -184,12 +184,12 @@
     "dateShortInterest": 1777507200,
     "sharesPercentSharesOut": 0.0114,
     "heldPercentInsiders": 0.00103,
-    "heldPercentInstitutions": 0.79300004,
+    "heldPercentInstitutions": 0.79305,
     "shortRatio": 1.69,
     "shortPercentOfFloat": 0.013200001,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.3560143,
+    "priceToBook": 6.3776784,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
@@ -205,7 +205,7 @@
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
-    "currentPrice": 610.26,
+    "currentPrice": 612.34,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 614.0,
     "targetMeanPrice": 826.60486,
@@ -240,35 +240,20 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "corporateActions": [],
-    "postMarketTime": 1779494399,
-    "regularMarketTime": 1779480001,
-    "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": 0.47416854,
-    "regularMarketPrice": 610.26,
-    "marketState": "CLOSED",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.47685152,
-    "postMarketPrice": 607.35,
-    "postMarketChange": -2.9100342,
-    "regularMarketChange": 2.880005,
-    "regularMarketDayRange": "606.955 - 614.81",
+    "marketState": "POST",
+    "postMarketChangePercent": -0.46052966,
+    "postMarketPrice": 609.52,
+    "postMarketChange": -2.8200073,
+    "regularMarketChange": 2.080017,
+    "regularMarketDayRange": "605.3001 - 614.47",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15517026,
-    "fiftyTwoWeekLowChange": 90.0,
-    "fiftyTwoWeekLowChangePercent": 0.17299043,
+    "averageDailyVolume3Month": 15598348,
+    "fiftyTwoWeekLowChange": 92.08002,
+    "fiftyTwoWeekLowChangePercent": 0.17698845,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -185.98999,
-    "fiftyTwoWeekHighChangePercent": -0.2335824,
+    "fiftyTwoWeekHighChange": -183.90997,
+    "fiftyTwoWeekHighChangePercent": -0.23097014,
     "fiftyTwoWeekChangePercent": -4.991281,
     "dividendDate": 1774483200,
     "earningsTimestamp": 1777492800,
@@ -280,18 +265,33 @@
     "epsTrailingTwelveMonths": 27.52,
     "epsForward": 36.00697,
     "epsCurrentYear": 32.31885,
-    "priceEpsCurrentYear": 18.882479,
-    "fiftyDayAverageChange": -7.554016,
-    "fiftyDayAverageChangePercent": -0.012227006,
-    "twoHundredDayAverageChange": -59.169495,
-    "twoHundredDayAverageChangePercent": -0.08838794,
+    "priceEpsCurrentYear": 18.946838,
+    "fiftyDayAverageChange": -5.473999,
+    "fiftyDayAverageChangePercent": -0.00886027,
+    "twoHundredDayAverageChange": -57.089478,
+    "twoHundredDayAverageChangePercent": -0.08528079,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-25",
+    "nameChangeDate": "2026-05-26",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
+    "corporateActions": [],
+    "postMarketTime": 1779836593,
+    "regularMarketTime": 1779825601,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "shortName": "Meta Platforms, Inc.",
+    "esgPopulated": false,
+    "regularMarketChangePercent": 0.3408411,
+    "regularMarketPrice": 612.34,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "hasPrePostMarketData": true,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8817
   },
@@ -309,7 +309,7 @@
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.106993,
+        "2025-06-30T00:00:00.000": 0.11,
         "2025-03-31T00:00:00.000": 0.094549,
         "2024-12-31T00:00:00.000": null
       },
@@ -1766,94 +1766,32 @@
   },
   "news": [
     {
-      "id": "3df942bd-be23-38bb-90e4-29d3dd6fc0aa",
+      "id": "4f3ac172-4963-4eab-b1de-d09edcc0aea1",
       "content": {
-        "id": "3df942bd-be23-38bb-90e4-29d3dd6fc0aa",
+        "id": "4f3ac172-4963-4eab-b1de-d09edcc0aea1",
         "contentType": "STORY",
-        "title": "Bernie Sanders Slams Meta After 8,000 Layoffs And Asks: If Mark  Zuckerberg Will Lay Off 10% Of His Staff, What Will AI Do To American Workers?",
+        "title": "Micron joins the $1 trillion club as AI memory rally outruns megacaps: Chart of the Day",
         "description": "",
-        "summary": "On Wednesday, Sen. Bernie Sanders (I-Vt) raised concerns about artificial intelligence and job security after Meta Platforms, Inc. laid off roughly 8,000 employees while accelerating its multibillion-dollar AI expansion. Meta Layoffs Spark AI Job Loss Debate In a post on...",
-        "pubDate": "2026-05-25T20:30:46Z",
-        "displayTime": "2026-05-25T20:30:46Z",
+        "summary": "Micron is no longer just leading the chip rally. It is crashing the megacap leaderboard.",
+        "pubDate": "2026-05-26T18:23:40Z",
+        "displayTime": "2026-05-26T20:18:04Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/44ef9a81aa16d5cf8e95258387c68a59",
-          "originalWidth": 1024,
-          "originalHeight": 720,
-          "caption": "Bernie Sanders Slams Meta After 8,000 Layoffs And Asks: If Mark  Zuckerberg Will Lay Off 10% Of His Staff, What Will AI Do To American Workers?",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DzLs_nOEGqVAPV.WmugWJA--~B/aD03MjA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/44ef9a81aa16d5cf8e95258387c68a59",
-              "width": 1024,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/r9gkvMdWoXdttE9hQFluDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/44ef9a81aa16d5cf8e95258387c68a59",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-slams-meta-8-203046826.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-slams-meta-8-203046826.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f24654df-81be-38e1-ae2e-13664fa29f65",
-      "content": {
-        "id": "f24654df-81be-38e1-ae2e-13664fa29f65",
-        "contentType": "STORY",
-        "title": "Mark Zuckerberg sends another message to Meta employees",
-        "description": "",
-        "summary": "Most executives announcing layoffs lean on a familiar script. They talk about efficiency, strategic alignment, and the need to position the company for long-term growth. The language is careful. The emotion is managed. What Mark Zuckerberg wrote to employees on May 20 was something different. In a ...",
-        "pubDate": "2026-05-25T20:23:00Z",
-        "displayTime": "2026-05-25T20:23:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/058f1316abbb7c2ede6a84bb91de9e1a",
-          "originalWidth": 1200,
-          "originalHeight": 675,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/YmD72j.nSAGbVF2VdSCEtw--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/04b3393c-dc59-4c83-8a4f-0ccfb3a74557",
+          "originalWidth": 3000,
+          "originalHeight": 2000,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/gpuHPJG.B5yxfMcRikPJtg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/058f1316abbb7c2ede6a84bb91de9e1a",
-              "width": 1200,
-              "height": 675,
+              "url": "https://s.yimg.com/uu/api/res/1.2/YmD72j.nSAGbVF2VdSCEtw--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/04b3393c-dc59-4c83-8a4f-0ccfb3a74557",
+              "width": 3000,
+              "height": 2000,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/N29enXh8ueFAdAoSF_GXpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/058f1316abbb7c2ede6a84bb91de9e1a",
+              "url": "https://s.yimg.com/uu/api/res/1.2/DqBQ9nKH0_PQgQZA42FUVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/04b3393c-dc59-4c83-8a4f-0ccfb3a74557",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1861,18 +1799,142 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/employment/mark-zuckerberg-sends-another-message-to-meta-employees",
+          "url": "https://finance.yahoo.com/markets/article/micron-joins-the-1-trillion-club-as-ai-memory-rally-outruns-megacaps-chart-of-the-day-182340420.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-another-message-202300175.html",
+          "url": "https://finance.yahoo.com/markets/article/micron-joins-the-1-trillion-club-as-ai-memory-rally-outruns-megacaps-chart-of-the-day-182340420.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6ca0b647-06e1-4e63-a194-c3344dc2ee18",
+      "content": {
+        "id": "6ca0b647-06e1-4e63-a194-c3344dc2ee18",
+        "contentType": "STORY",
+        "title": "Google, Meta, Amazon, and 6 other tech stocks powering the stock market's profit excitement",
+        "description": "",
+        "summary": "It's a tech world in the minds of stock analysts.",
+        "pubDate": "2026-05-26T13:25:55Z",
+        "displayTime": "2026-05-26T13:25:55Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/H2nWOuyal1tTNJKaE7qvbw--~B/aD0xNDc4O3c9MjYyODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg",
+          "originalWidth": 2628,
+          "originalHeight": 1478,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/H2nWOuyal1tTNJKaE7qvbw--~B/aD0xNDc4O3c9MjYyODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg",
+              "width": 2628,
+              "height": 1478,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/cmMVdcdb1RJ1BUV0e49rpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/article/google-meta-amazon-and-6-other-tech-stocks-powering-the-stock-markets-profit-excitement-132555306.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/article/google-meta-amazon-and-6-other-tech-stocks-powering-the-stock-markets-profit-excitement-132555306.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "fc2dadbe-c75f-349a-97ac-5379a1d49a41",
+      "content": {
+        "id": "fc2dadbe-c75f-349a-97ac-5379a1d49a41",
+        "contentType": "STORY",
+        "title": "Meta Faces Setback As Supreme Court Rejects Challenge In Vermont Instagram Lawsuit",
+        "description": "",
+        "summary": "Meta said Vermont had not alleged the company designed Instagram or its features in the state, nor that any claims about the app’s safety or addictiveness were made there.",
+        "pubDate": "2026-05-26T20:09:44Z",
+        "displayTime": "2026-05-26T20:09:44Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/7846d348683bd2646dfd249f872e1891",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OIF9JQxjfkQL4sRw39VDqQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/7846d348683bd2646dfd249f872e1891",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0b5c2Vqc_dEC80Ubdsuhqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/7846d348683bd2646dfd249f872e1891",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Stocktwits",
+          "url": "Stocktwits",
+          "sourceId": "stocktwits_383"
+        },
+        "canonicalUrl": {
+          "url": "https://stocktwits.com/news-articles/markets/equity/meta-platforms-supreme-court-vermont-instagram-lawsuit-google/cZgOW5PReqv",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-faces-setback-supreme-court-200944763.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1890,32 +1952,380 @@
       }
     },
     {
-      "id": "8ccd8d9e-25ff-3f55-936c-8f5868d2d416",
+      "id": "bc3c01f0-e318-3785-a441-830a02a9938f",
       "content": {
-        "id": "8ccd8d9e-25ff-3f55-936c-8f5868d2d416",
+        "id": "bc3c01f0-e318-3785-a441-830a02a9938f",
         "contentType": "STORY",
-        "title": "Missed Out on the Initial AI Rally? These 3 AI Stocks Are Just Getting Started.",
+        "title": "Will Marvell Technology Stock Keep Soaring as Q1 Results Approach?",
         "description": "",
-        "summary": "There is still plenty of upside in the AI sector despite a recent run-up.",
-        "pubDate": "2026-05-25T17:29:00Z",
-        "displayTime": "2026-05-25T17:29:00Z",
+        "summary": "Marvell Technology (MRVL) is scheduled to report Q1 results after-market hours on Wednesday, May 27, and expectations are running high following several quarters of explosive AI-driven growth.",
+        "pubDate": "2026-05-26T20:08:00Z",
+        "displayTime": "2026-05-26T20:08:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/82712e5e75c1920f0a4bf836f8576627",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "A person gives a presentation in an office.",
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/0b9b3d3af6e752f258064b6ec6124396",
+          "originalWidth": 620,
+          "originalHeight": 252,
+          "caption": "Zacks Investment Research",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NtrSqMdkaeQlERSe5_V4bw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/82712e5e75c1920f0a4bf836f8576627",
-              "width": 1400,
-              "height": 933,
+              "url": "https://s.yimg.com/uu/api/res/1.2/bESceYp0_FsTuKYjpE97Tg--~B/aD0yNTI7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0b9b3d3af6e752f258064b6ec6124396",
+              "width": 620,
+              "height": 252,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SrLbh6t4Aouq6eX0te2UQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/82712e5e75c1920f0a4bf836f8576627",
+              "url": "https://s.yimg.com/uu/api/res/1.2/NYD5FcuZBiL.mkdJTbEY3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0b9b3d3af6e752f258064b6ec6124396",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-keep-soaring-200800850.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-keep-soaring-200800850.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8de17353-7913-3c76-9175-304067fe59cc",
+      "content": {
+        "id": "8de17353-7913-3c76-9175-304067fe59cc",
+        "contentType": "STORY",
+        "title": "AppLovin (APP) Stock Trades Up, Here Is Why",
+        "description": "",
+        "summary": "Shares of mobile app technology company AppLovin (NASDAQ:APP) jumped 3.6% in the afternoon session after reports indicated a major competitor, Meta Platforms, is not expected to bid on certain mobile advertising traffic, potentially opening up more of the market for AppLovin.",
+        "pubDate": "2026-05-26T19:59:28Z",
+        "displayTime": "2026-05-26T19:59:28Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stockstory_922/49354e162d3cfc59dc451c1b1233ac3a",
+          "originalWidth": 1400,
+          "originalHeight": 700,
+          "caption": "APP Cover Image",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/f8w9g_OR9ScTbDzfSU5Xlw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/49354e162d3cfc59dc451c1b1233ac3a",
+              "width": 1400,
+              "height": 700,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OZ7rHUkwha_lL40nLCmfxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/49354e162d3cfc59dc451c1b1233ac3a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "StockStory",
+          "url": "https://stockstory.org/",
+          "sourceId": "stockstory_922"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-stock-trades-why-195928073.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-stock-trades-why-195928073.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4a844cfb-a927-3402-b31d-c48469db6bca",
+      "content": {
+        "id": "4a844cfb-a927-3402-b31d-c48469db6bca",
+        "contentType": "STORY",
+        "title": "Cisco Soars 32% in a Month, Arista Falls 10%, Broadcom Drifts: The AI Networking Trade Has a Clear Winner",
+        "description": "",
+        "summary": "The AI networking trade has produced one of the sharpest leadership shifts of the year, and it favors the name many investors had written off. Over the past month, Cisco Systems (NASDAQ:CSCO) stock has surged 32%, while Arista Networks (NYSE:ANET) stock has slumped 10% and Broadcom (NASDAQ:AVGO) stock has essentially drifted sideways. Today’s midday session ... Cisco Soars 32% in a Month, Arista Falls 10%, Broadcom Drifts: The AI Networking Trade Has a Clear Winner",
+        "pubDate": "2026-05-26T19:24:07Z",
+        "displayTime": "2026-05-26T19:24:07Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/fd420ec0287f2c322d3c6a53ccc7cda0",
+          "originalWidth": 2560,
+          "originalHeight": 1440,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zT58_vFeo.Xhr54CuqSDMg--~B/aD0xNDQwO3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/fd420ec0287f2c322d3c6a53ccc7cda0",
+              "width": 2560,
+              "height": 1440,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3KAhkcn112zjMYGCn5RrYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fd420ec0287f2c322d3c6a53ccc7cda0",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/26/cisco-soars-32-in-a-month-arista-falls-10-broadcom-drifts-the-ai-networking-trade-has-a-clear-winner/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-soars-32-month-arista-192407242.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b48c2a2d-bcfa-3bc6-a9de-40e9bf89da23",
+      "content": {
+        "id": "b48c2a2d-bcfa-3bc6-a9de-40e9bf89da23",
+        "contentType": "STORY",
+        "title": "Apple Just Hit a Record High With Its AI Engines Idling. Imagine What Happens When It Kicks In.",
+        "description": "",
+        "summary": "Apple  shares nudged higher in early Tuesday trading following a pair of upgrades on Wall Street heading into the tech giant’s Worldwide Developers Conference next month in California.  “Apple may be on the brink of some real AI sizzle,” Reitzes said in a note published Tuesday.",
+        "pubDate": "2026-05-26T18:36:00Z",
+        "displayTime": "2026-05-26T18:36:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/b48c2a2d-bcfa-3bc6-a9de-40e9bf89da23/apple-just-hit-a-record-high.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/9fa6f478a030ff65355167317773c38c",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/suoog2eTIV8_FPXObrCDxw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/9fa6f478a030ff65355167317773c38c",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XoJTADC.55b9EyXvQsmi0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/9fa6f478a030ff65355167317773c38c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/apple-stock-price-record-high-ai-00f8e74d?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "079f7763-ed07-3e49-b858-5949207bfd1b",
+      "content": {
+        "id": "079f7763-ed07-3e49-b858-5949207bfd1b",
+        "contentType": "STORY",
+        "title": "Supreme Court Rejects Meta Appeal",
+        "description": "",
+        "summary": "The ruling adds to a series of recent courtroom setbacks for the social media giant.",
+        "pubDate": "2026-05-26T18:18:50Z",
+        "displayTime": "2026-05-26T18:18:50Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/supreme-court-rejects-meta-appeal-181850793.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/supreme-court-rejects-meta-appeal-181850793.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4807f55b-d057-32a5-a125-760647f4e0f8",
+      "content": {
+        "id": "4807f55b-d057-32a5-a125-760647f4e0f8",
+        "contentType": "STORY",
+        "title": "XOVR Promised Pre IPO SpaceX Upside, But It Is Down 2% YTD While the S&P 500 Is Up 9%",
+        "description": "",
+        "summary": "The pitch for ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) is simple. You cannot buy SpaceX shares on your brokerage app, but XOVR can, and the fund packages that exposure inside a normal ticker you trade like any other ETF. XOVR now holds ~$281 million in SpaceX, which works out to about 23% of the fund. Yet ... XOVR Promised Pre IPO SpaceX Upside, But It Is Down 2% YTD While the S&P 500 Is Up 9%",
+        "pubDate": "2026-05-26T16:59:11Z",
+        "displayTime": "2026-05-26T16:59:11Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/9bdfb55abb95e7b1b7f8eaec8dad2fb2",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CKo1S90fLz2riEFfQENJeQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/9bdfb55abb95e7b1b7f8eaec8dad2fb2",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/b3w.E5JBz6vTEaccCjt5ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9bdfb55abb95e7b1b7f8eaec8dad2fb2",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/05/26/xovr-promised-pre-ipo-spacex-upside-but-it-is-down-2-ytd-while-the-sp-500-is-up-9/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xovr-promised-pre-ipo-spacex-165911230.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9691deb8-af06-3be6-9ba8-7df3636c90d1",
+      "content": {
+        "id": "9691deb8-af06-3be6-9ba8-7df3636c90d1",
+        "contentType": "STORY",
+        "title": "Why Shares of AppLovin Were Soaring Today",
+        "description": "",
+        "summary": "Meta apparently bowed out from competing for a key source of the company's business.",
+        "pubDate": "2026-05-26T16:13:04Z",
+        "displayTime": "2026-05-26T16:13:04Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/45ebee22d183aa3cfdc02707b75b9c7c",
+          "originalWidth": 1200,
+          "originalHeight": 710,
+          "caption": "A smartphone with icons drifting upward from it.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HQz1pTibgAu4bUsc1Lr4iQ--~B/aD03MTA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/45ebee22d183aa3cfdc02707b75b9c7c",
+              "width": 1200,
+              "height": 710,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_0jQmaUvexFpIWvjABtSJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/45ebee22d183aa3cfdc02707b75b9c7c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1928,447 +2338,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/25/missed-out-on-the-initial-ai-rally-these-3-ai-stoc/",
+          "url": "https://www.fool.com/investing/2026/05/26/why-shares-of-applovin-were-soaring-today/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/missed-initial-ai-rally-3-172900266.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "181eda78-87ba-33bb-9ee2-c328bf619a70",
-      "content": {
-        "id": "181eda78-87ba-33bb-9ee2-c328bf619a70",
-        "contentType": "STORY",
-        "title": "Mark Zuckerberg May Already Have an AI Agent Sidekick — Could This Be the Future for CEOs?",
-        "description": "",
-        "summary": "Digital twins could soon go from science fiction to reality as the agentic wave takes off, colliding with deep personalization. Indeed, as AI gains greater access to our digital lives, as we allow it to look through emails, Slack messages, work tickets, codebases, social-media profiles, calendars, and contacts, at what point will AI act as ... Mark Zuckerberg May Already Have an AI Agent Sidekick — Could This Be the Future for CEOs?",
-        "pubDate": "2026-05-25T16:47:41Z",
-        "displayTime": "2026-05-25T16:47:41Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/eac5944ee970b08350a8d4a2c7d29ddf",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9KeX5IkU5lfs5ZGfEqz13w--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/eac5944ee970b08350a8d4a2c7d29ddf",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hk0W0ClKvzkcXcF2Kg.rSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eac5944ee970b08350a8d4a2c7d29ddf",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/25/mark-zuckerberg-may-soon-get-an-ai-agent-sidekick-could-this-be-the-future-for-ceos/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/mark-zuckerberg-may-already-ai-164741786.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "4b5d4a74-9604-347e-be93-3e427b7462bf",
-      "content": {
-        "id": "4b5d4a74-9604-347e-be93-3e427b7462bf",
-        "contentType": "STORY",
-        "title": "The AI Trade Might Be Grossly Underestimated — and It Could Be Time To Rethink How We View the Mag 7",
-        "description": "",
-        "summary": "It’s pretty hard to know what to believe when it comes to this ongoing AI revolution. The AI bubble calls have been growing louder for well over a year now. And while some folks, including the great Michael Burry of The Big Short fame, might feel as though we’re in the lead-up to the peak ... The AI Trade Might Be Grossly Underestimated — and It Could Be Time To Rethink How We View the Mag 7",
-        "pubDate": "2026-05-25T15:53:46Z",
-        "displayTime": "2026-05-25T15:53:46Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/66e68bf25aa5dc701bc70d0e0ad97fa0",
-          "originalWidth": 1500,
-          "originalHeight": 822,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/V58LnaP7lsPtD9QX_EEOJg--~B/aD04MjI7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/66e68bf25aa5dc701bc70d0e0ad97fa0",
-              "width": 1500,
-              "height": 822,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/12dLx5N6KZDIUtlEwfyTDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/66e68bf25aa5dc701bc70d0e0ad97fa0",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/25/the-ai-trade-might-be-grossly-underestimated-and-it-could-be-time-to-rethink-how-we-view-the-mag-7/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-might-grossly-underestimated-155346066.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "36712bfd-73bd-36b1-84ea-e79772729648",
-      "content": {
-        "id": "36712bfd-73bd-36b1-84ea-e79772729648",
-        "contentType": "STORY",
-        "title": "3 Reasons Why Nebius Stock Is Reaching New Highs",
-        "description": "",
-        "summary": "Nebius stock is soaring as the company aggressively expands its AI cloud empire.",
-        "pubDate": "2026-05-25T15:00:02Z",
-        "displayTime": "2026-05-25T15:00:02Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/48711142162b134f8f7680caf42599f6",
-          "originalWidth": 1600,
-          "originalHeight": 900,
-          "caption": "Ai chip by Quality Stock Arts via Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WI6Tch3orhKDjTbwu.45fg--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/48711142162b134f8f7680caf42599f6",
-              "width": 1600,
-              "height": 900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/RXEh_p4x2IzBoTlbs7yGVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/48711142162b134f8f7680caf42599f6",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/2116504/3-reasons-why-nebius-stock-is-reaching-new-highs",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-nebius-stock-150002144.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b061461b-06c0-389f-960a-f5a912247774",
-      "content": {
-        "id": "b061461b-06c0-389f-960a-f5a912247774",
-        "contentType": "STORY",
-        "title": "Meta urges Labour to burden Apple with age checks",
-        "description": "",
-        "summary": "Meta has urged Labour to enforce age verification checks directly on iPhone and Android smartphones amid a possible UK ban on child users.",
-        "pubDate": "2026-05-25T14:27:24Z",
-        "displayTime": "2026-05-25T14:27:24Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/the_telegraph_818/3c66d3b49d629237e6f54b5a534c38b5",
-          "originalWidth": 2500,
-          "originalHeight": 1563,
-          "caption": "Apple logo",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nGHR5dfPxt2NuMPZD.d83w--~B/aD0xNTYzO3c9MjUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_telegraph_818/3c66d3b49d629237e6f54b5a534c38b5",
-              "width": 2500,
-              "height": 1563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OXVb_bz4K9nGN5_jOpRJCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_818/3c66d3b49d629237e6f54b5a534c38b5",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Telegraph",
-          "url": "http://www.telegraph.co.uk/",
-          "sourceId": "the_telegraph_818"
-        },
-        "canonicalUrl": {
-          "url": "https://uk.finance.yahoo.com/news/meta-urges-labour-burden-apple-142724103.html",
-          "site": "finance",
-          "region": "GB",
-          "lang": "en-GB"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/meta-urges-labour-burden-apple-142724103.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9f7269c6-f032-3d9f-ae5b-6219ccbd67f7",
-      "content": {
-        "id": "9f7269c6-f032-3d9f-ae5b-6219ccbd67f7",
-        "contentType": "STORY",
-        "title": "How The Story Is Shifting For TaskUs (TASK) As AI Grows And Trust And Safety Slows",
-        "description": "",
-        "summary": "TaskUs is back in focus after the fair value estimate on the stock was trimmed from US$12.00 to US$9.50, a reduction of roughly 21% that resets expectations around what investors might be willing to pay. This shift lines up with recent analyst commentary that highlights client spending resets, pressure in Trust & Safety, and a mixed setup between legacy work and AI Services. As you read on, you will see how these moving pieces fit together and what to watch as the TaskUs story...",
-        "pubDate": "2026-05-25T14:10:55Z",
-        "displayTime": "2026-05-25T14:10:55Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/436d8a2bc259eaa09523a3bc325b5211",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lYjdNEDnNRYUa1jxj0SSew--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/436d8a2bc259eaa09523a3bc325b5211",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Jbiqqe7KMxnCTk7Vokaf3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/436d8a2bc259eaa09523a3bc325b5211",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/story-shifting-taskus-task-ai-141055289.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/story-shifting-taskus-task-ai-141055289.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "1a36c830-326f-3700-b7f0-758c2dcf1ce3",
-      "content": {
-        "id": "1a36c830-326f-3700-b7f0-758c2dcf1ce3",
-        "contentType": "STORY",
-        "title": "AI Search Startup Exa Labs Raises $250M At $2.2 Billion Valuation, Led By Andreessen Horowitz",
-        "description": "",
-        "summary": "Exa Labs Inc. has raised $250 million in a Series C round led by Andreessen Horowitz, valuing the San Francisco-based artificial intelligence company at $2.2 billion. The startup said it will use the new capital to train its next generation...",
-        "pubDate": "2026-05-25T12:30:22Z",
-        "displayTime": "2026-05-25T12:30:22Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/f1a7da3d866289bb509992ed06963898",
-          "originalWidth": 1024,
-          "originalHeight": 683,
-          "caption": "AI Search Startup Exa Labs Raises $250M At $2.2 Billion Valuation, Led By Andreessen Horowitz",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/t3PK0gQyQx8giCgVFd0pxA--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/f1a7da3d866289bb509992ed06963898",
-              "width": 1024,
-              "height": 683,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JKm7jq0VbFmviNrrL5orAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/f1a7da3d866289bb509992ed06963898",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-search-startup-exa-labs-123022930.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-search-startup-exa-labs-123022930.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "116457c8-ef14-3e6e-841a-b99cd79d0ba3",
-      "content": {
-        "id": "116457c8-ef14-3e6e-841a-b99cd79d0ba3",
-        "contentType": "STORY",
-        "title": "Posthaste: Worried about a market bubble? You ain't seen nothing yet, warns top BofA strategist",
-        "description": "",
-        "summary": "Bubble brewing that rivals the roaring '20s, but bulls won't sell until these two things happen",
-        "pubDate": "2026-05-25T12:07:08Z",
-        "displayTime": "2026-05-25T12:07:08Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/financial_post_articles_610/295ca9223e5a4d530b084c1142ad9625",
-          "originalWidth": 1280,
-          "originalHeight": 960,
-          "caption": "market-bubble-0525-ph",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZFRFroCXLdAsxw0dmzFLig--~B/aD05NjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/financial_post_articles_610/295ca9223e5a4d530b084c1142ad9625",
-              "width": 1280,
-              "height": 960,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/K8nYDWq8p56J_7ZdEajWjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/financial_post_articles_610/295ca9223e5a4d530b084c1142ad9625",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Financial Post",
-          "url": "https://financialpost.com/",
-          "sourceId": "financial_post_articles_610"
-        },
-        "canonicalUrl": {
-          "url": "https://financialpost.com/news/market-bubble-brewing-rivals-roaring-20s-warns-top-strategist",
-          "site": "finance",
-          "region": "CA",
-          "lang": "en-CA"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/posthaste-worried-market-bubble-aint-120708976.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-shares-applovin-were-soaring-161304257.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
