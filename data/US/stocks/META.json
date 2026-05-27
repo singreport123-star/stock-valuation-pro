@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-26T23:03:44.739633",
+    "ts": "2026-05-27T23:11:51.198855",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 610.26,
-    "open": 609.6,
-    "dayLow": 605.3001,
-    "dayHigh": 614.47,
-    "regularMarketPreviousClose": 610.26,
-    "regularMarketOpen": 609.6,
-    "regularMarketDayLow": 605.3001,
-    "regularMarketDayHigh": 614.47,
+    "previousClose": 612.34,
+    "open": 609.76,
+    "dayLow": 609.0,
+    "dayHigh": 638.4999,
+    "regularMarketPreviousClose": 612.34,
+    "regularMarketOpen": 609.76,
+    "regularMarketDayLow": 609.0,
+    "regularMarketDayHigh": 638.4999,
     "dividendRate": 2.1,
     "dividendYield": 0.34,
     "exDividendDate": 1773619200,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 22.250727,
-    "forwardPE": 17.006153,
-    "volume": 10998126,
-    "regularMarketVolume": 10998126,
-    "averageVolume": 15598348,
-    "averageVolume10days": 12785010,
-    "averageDailyVolume10Day": 12785010,
-    "bid": 611.82,
-    "ask": 613.5,
+    "trailingPE": 23.108585,
+    "forwardPE": 17.566862,
+    "volume": 22567525,
+    "regularMarketVolume": 22567525,
+    "averageVolume": 15540486,
+    "averageVolume10days": 12414080,
+    "averageDailyVolume10Day": 12414080,
+    "bid": 634.66,
+    "ask": 644.8,
     "bidSize": 1,
-    "askSize": 1,
-    "marketCap": 1554378129408,
-    "nonDilutedMarketCap": 1549098205498,
+    "askSize": 3,
+    "marketCap": 1612546048000,
+    "nonDilutedMarketCap": 1554378125970,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.2309103,
-    "fiftyDayAverage": 617.814,
-    "twoHundredDayAverage": 669.4295,
+    "priceToSalesTrailing12Months": 7.5015054,
+    "fiftyDayAverage": 617.7866,
+    "twoHundredDayAverage": 668.68207,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0034411561,
+    "trailingAnnualDividendYield": 0.003429467,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1554687197184,
+    "enterpriseValue": 1618135089152,
     "profitMargins": 0.32837,
     "floatShares": 2192715434,
     "sharesOutstanding": 2196045588,
@@ -184,28 +184,28 @@
     "dateShortInterest": 1777507200,
     "sharesPercentSharesOut": 0.0114,
     "heldPercentInsiders": 0.00103,
-    "heldPercentInstitutions": 0.79305,
+    "heldPercentInstitutions": 0.79306,
     "shortRatio": 1.69,
     "shortPercentOfFloat": 0.013200001,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.3776784,
+    "priceToBook": 6.6163435,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.52,
-    "forwardEps": 36.00697,
+    "trailingEps": 27.49,
+    "forwardEps": 36.16212,
     "pegRatio": 0.88,
-    "enterpriseToRevenue": 7.232,
-    "enterpriseToEbitda": 14.223,
-    "52WeekChange": -0.04991281,
-    "SandP52WeekChange": 0.26208222,
+    "enterpriseToRevenue": 7.528,
+    "enterpriseToEbitda": 14.803,
+    "52WeekChange": -0.04854095,
+    "SandP52WeekChange": 0.27690518,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
-    "currentPrice": 612.34,
+    "currentPrice": 635.255,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 614.0,
     "targetMeanPrice": 826.60486,
@@ -240,21 +240,39 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "longName": "Meta Platforms, Inc.",
+    "epsTrailingTwelveMonths": 27.49,
+    "epsForward": 36.16212,
+    "epsCurrentYear": 32.20799,
+    "priceEpsCurrentYear": 19.723522,
+    "fiftyDayAverageChange": 17.468384,
+    "fiftyDayAverageChangePercent": 0.028275756,
+    "twoHundredDayAverageChange": -33.427063,
+    "twoHundredDayAverageChangePercent": -0.049989473,
     "marketState": "POST",
-    "postMarketChangePercent": -0.46052966,
-    "postMarketPrice": 609.52,
-    "postMarketChange": -2.8200073,
-    "regularMarketChange": 2.080017,
-    "regularMarketDayRange": "605.3001 - 614.47",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-05-27",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "postMarketChangePercent": -0.4651702,
+    "postMarketPrice": 632.3,
+    "postMarketChange": -2.955017,
+    "regularMarketChange": 22.914978,
+    "regularMarketDayRange": "609.0 - 638.4999",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 15598348,
-    "fiftyTwoWeekLowChange": 92.08002,
-    "fiftyTwoWeekLowChangePercent": 0.17698845,
+    "averageDailyVolume3Month": 15540486,
+    "fiftyTwoWeekLowChange": 114.994995,
+    "fiftyTwoWeekLowChangePercent": 0.2210337,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -183.90997,
-    "fiftyTwoWeekHighChangePercent": -0.23097014,
-    "fiftyTwoWeekChangePercent": -4.991281,
+    "fiftyTwoWeekHighChange": -160.995,
+    "fiftyTwoWeekHighChangePercent": -0.20219152,
+    "fiftyTwoWeekChangePercent": -4.854095,
     "dividendDate": 1774483200,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -262,38 +280,20 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.52,
-    "epsForward": 36.00697,
-    "epsCurrentYear": 32.31885,
-    "priceEpsCurrentYear": 18.946838,
-    "fiftyDayAverageChange": -5.473999,
-    "fiftyDayAverageChangePercent": -0.00886027,
-    "twoHundredDayAverageChange": -57.089478,
-    "twoHundredDayAverageChangePercent": -0.08528079,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-26",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
     "corporateActions": [],
-    "postMarketTime": 1779836593,
-    "regularMarketTime": 1779825601,
+    "postMarketTime": 1779923504,
+    "regularMarketTime": 1779912001,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
     "exchangeTimezoneShortName": "EDT",
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
-    "shortName": "Meta Platforms, Inc.",
     "esgPopulated": false,
-    "regularMarketChangePercent": 0.3408411,
-    "regularMarketPrice": 612.34,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "hasPrePostMarketData": true,
+    "regularMarketChangePercent": 3.7421982,
+    "regularMarketPrice": 635.255,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8817
+    "trailingPegRatio": 0.8847
   },
   "financial_statements": {
     "income": {
@@ -309,7 +309,7 @@
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.11,
+        "2025-06-30T00:00:00.000": 0.106993,
         "2025-03-31T00:00:00.000": 0.094549,
         "2024-12-31T00:00:00.000": null
       },
@@ -1758,7 +1758,7 @@
       ],
       "Earnings High": 8.55,
       "Earnings Low": 6.8,
-      "Earnings Average": 7.528,
+      "Earnings Average": 7.50889,
       "Revenue High": 62812000000,
       "Revenue Low": 59132000000,
       "Revenue Average": 60209152310
@@ -1766,32 +1766,32 @@
   },
   "news": [
     {
-      "id": "4f3ac172-4963-4eab-b1de-d09edcc0aea1",
+      "id": "406da283-d8a4-44ef-80b5-4562b58c4ede",
       "content": {
-        "id": "4f3ac172-4963-4eab-b1de-d09edcc0aea1",
+        "id": "406da283-d8a4-44ef-80b5-4562b58c4ede",
         "contentType": "STORY",
-        "title": "Micron joins the $1 trillion club as AI memory rally outruns megacaps: Chart of the Day",
+        "title": "Meta board member Dana White says Mark Zuckerberg is like Trump, Carl Icahn, and Michael Jordan in one key way",
         "description": "",
-        "summary": "Micron is no longer just leading the chip rally. It is crashing the megacap leaderboard.",
-        "pubDate": "2026-05-26T18:23:40Z",
-        "displayTime": "2026-05-26T20:18:04Z",
+        "summary": "Zuck has the it factor, says UFC's top dog.",
+        "pubDate": "2026-05-26T23:24:12Z",
+        "displayTime": "2026-05-26T23:24:12Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/YmD72j.nSAGbVF2VdSCEtw--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/04b3393c-dc59-4c83-8a4f-0ccfb3a74557",
-          "originalWidth": 3000,
-          "originalHeight": 2000,
+          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-09/9b443f00-8aff-11f0-b1fb-950067612af7",
+          "originalWidth": 7921,
+          "originalHeight": 5281,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YmD72j.nSAGbVF2VdSCEtw--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/04b3393c-dc59-4c83-8a4f-0ccfb3a74557",
-              "width": 3000,
-              "height": 2000,
+              "url": "https://s.yimg.com/uu/api/res/1.2/F4RqE3eESqsuef1jhk7OdA--~B/aD01MjgxO3c9NzkyMTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-09/9b443f00-8aff-11f0-b1fb-950067612af7",
+              "width": 7921,
+              "height": 5281,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DqBQ9nKH0_PQgQZA42FUVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/04b3393c-dc59-4c83-8a4f-0ccfb3a74557",
+              "url": "https://s.yimg.com/uu/api/res/1.2/.cdl3.C8_l9MnqR4nbuToQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-09/9b443f00-8aff-11f0-b1fb-950067612af7",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1804,13 +1804,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/micron-joins-the-1-trillion-club-as-ai-memory-rally-outruns-megacaps-chart-of-the-day-182340420.html",
+          "url": "https://finance.yahoo.com/markets/stocks/article/meta-board-member-dana-white-says-mark-zuckerberg-is-like-trump-carl-icahn-and-michael-jordan-in-one-key-way-232412652.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/micron-joins-the-1-trillion-club-as-ai-memory-rally-outruns-megacaps-chart-of-the-day-182340420.html",
+          "url": "https://finance.yahoo.com/markets/stocks/article/meta-board-member-dana-white-says-mark-zuckerberg-is-like-trump-carl-icahn-and-michael-jordan-in-one-key-way-232412652.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1828,342 +1828,32 @@
       }
     },
     {
-      "id": "6ca0b647-06e1-4e63-a194-c3344dc2ee18",
+      "id": "8f95ba99-a6e8-3355-b05a-0605fe8bdf7b",
       "content": {
-        "id": "6ca0b647-06e1-4e63-a194-c3344dc2ee18",
+        "id": "8f95ba99-a6e8-3355-b05a-0605fe8bdf7b",
         "contentType": "STORY",
-        "title": "Google, Meta, Amazon, and 6 other tech stocks powering the stock market's profit excitement",
+        "title": "Meta’s Plan to Fund Its AI Ambitions? You.",
         "description": "",
-        "summary": "It's a tech world in the minds of stock analysts.",
-        "pubDate": "2026-05-26T13:25:55Z",
-        "displayTime": "2026-05-26T13:25:55Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/H2nWOuyal1tTNJKaE7qvbw--~B/aD0xNDc4O3c9MjYyODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg",
-          "originalWidth": 2628,
-          "originalHeight": 1478,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/H2nWOuyal1tTNJKaE7qvbw--~B/aD0xNDc4O3c9MjYyODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg",
-              "width": 2628,
-              "height": 1478,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/cmMVdcdb1RJ1BUV0e49rpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/google-meta-amazon-and-6-other-tech-stocks-powering-the-stock-markets-profit-excitement-132555306.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/google-meta-amazon-and-6-other-tech-stocks-powering-the-stock-markets-profit-excitement-132555306.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "fc2dadbe-c75f-349a-97ac-5379a1d49a41",
-      "content": {
-        "id": "fc2dadbe-c75f-349a-97ac-5379a1d49a41",
-        "contentType": "STORY",
-        "title": "Meta Faces Setback As Supreme Court Rejects Challenge In Vermont Instagram Lawsuit",
-        "description": "",
-        "summary": "Meta said Vermont had not alleged the company designed Instagram or its features in the state, nor that any claims about the app’s safety or addictiveness were made there.",
-        "pubDate": "2026-05-26T20:09:44Z",
-        "displayTime": "2026-05-26T20:09:44Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/7846d348683bd2646dfd249f872e1891",
-          "originalWidth": 1280,
-          "originalHeight": 853,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OIF9JQxjfkQL4sRw39VDqQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/7846d348683bd2646dfd249f872e1891",
-              "width": 1280,
-              "height": 853,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0b5c2Vqc_dEC80Ubdsuhqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/7846d348683bd2646dfd249f872e1891",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Stocktwits",
-          "url": "Stocktwits",
-          "sourceId": "stocktwits_383"
-        },
-        "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/meta-platforms-supreme-court-vermont-instagram-lawsuit-google/cZgOW5PReqv",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-faces-setback-supreme-court-200944763.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "bc3c01f0-e318-3785-a441-830a02a9938f",
-      "content": {
-        "id": "bc3c01f0-e318-3785-a441-830a02a9938f",
-        "contentType": "STORY",
-        "title": "Will Marvell Technology Stock Keep Soaring as Q1 Results Approach?",
-        "description": "",
-        "summary": "Marvell Technology (MRVL) is scheduled to report Q1 results after-market hours on Wednesday, May 27, and expectations are running high following several quarters of explosive AI-driven growth.",
-        "pubDate": "2026-05-26T20:08:00Z",
-        "displayTime": "2026-05-26T20:08:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/0b9b3d3af6e752f258064b6ec6124396",
-          "originalWidth": 620,
-          "originalHeight": 252,
-          "caption": "Zacks Investment Research",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/bESceYp0_FsTuKYjpE97Tg--~B/aD0yNTI7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0b9b3d3af6e752f258064b6ec6124396",
-              "width": 620,
-              "height": 252,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NYD5FcuZBiL.mkdJTbEY3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0b9b3d3af6e752f258064b6ec6124396",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-keep-soaring-200800850.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-keep-soaring-200800850.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8de17353-7913-3c76-9175-304067fe59cc",
-      "content": {
-        "id": "8de17353-7913-3c76-9175-304067fe59cc",
-        "contentType": "STORY",
-        "title": "AppLovin (APP) Stock Trades Up, Here Is Why",
-        "description": "",
-        "summary": "Shares of mobile app technology company AppLovin (NASDAQ:APP) jumped 3.6% in the afternoon session after reports indicated a major competitor, Meta Platforms, is not expected to bid on certain mobile advertising traffic, potentially opening up more of the market for AppLovin.",
-        "pubDate": "2026-05-26T19:59:28Z",
-        "displayTime": "2026-05-26T19:59:28Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/49354e162d3cfc59dc451c1b1233ac3a",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "APP Cover Image",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/f8w9g_OR9ScTbDzfSU5Xlw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/49354e162d3cfc59dc451c1b1233ac3a",
-              "width": 1400,
-              "height": 700,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OZ7rHUkwha_lL40nLCmfxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/49354e162d3cfc59dc451c1b1233ac3a",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-stock-trades-why-195928073.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-stock-trades-why-195928073.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "4a844cfb-a927-3402-b31d-c48469db6bca",
-      "content": {
-        "id": "4a844cfb-a927-3402-b31d-c48469db6bca",
-        "contentType": "STORY",
-        "title": "Cisco Soars 32% in a Month, Arista Falls 10%, Broadcom Drifts: The AI Networking Trade Has a Clear Winner",
-        "description": "",
-        "summary": "The AI networking trade has produced one of the sharpest leadership shifts of the year, and it favors the name many investors had written off. Over the past month, Cisco Systems (NASDAQ:CSCO) stock has surged 32%, while Arista Networks (NYSE:ANET) stock has slumped 10% and Broadcom (NASDAQ:AVGO) stock has essentially drifted sideways. Today’s midday session ... Cisco Soars 32% in a Month, Arista Falls 10%, Broadcom Drifts: The AI Networking Trade Has a Clear Winner",
-        "pubDate": "2026-05-26T19:24:07Z",
-        "displayTime": "2026-05-26T19:24:07Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/fd420ec0287f2c322d3c6a53ccc7cda0",
-          "originalWidth": 2560,
-          "originalHeight": 1440,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zT58_vFeo.Xhr54CuqSDMg--~B/aD0xNDQwO3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/fd420ec0287f2c322d3c6a53ccc7cda0",
-              "width": 2560,
-              "height": 1440,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3KAhkcn112zjMYGCn5RrYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fd420ec0287f2c322d3c6a53ccc7cda0",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/26/cisco-soars-32-in-a-month-arista-falls-10-broadcom-drifts-the-ai-networking-trade-has-a-clear-winner/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-soars-32-month-arista-192407242.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b48c2a2d-bcfa-3bc6-a9de-40e9bf89da23",
-      "content": {
-        "id": "b48c2a2d-bcfa-3bc6-a9de-40e9bf89da23",
-        "contentType": "STORY",
-        "title": "Apple Just Hit a Record High With Its AI Engines Idling. Imagine What Happens When It Kicks In.",
-        "description": "",
-        "summary": "Apple  shares nudged higher in early Tuesday trading following a pair of upgrades on Wall Street heading into the tech giant’s Worldwide Developers Conference next month in California.  “Apple may be on the brink of some real AI sizzle,” Reitzes said in a note published Tuesday.",
-        "pubDate": "2026-05-26T18:36:00Z",
-        "displayTime": "2026-05-26T18:36:00Z",
+        "summary": "Meta Platforms  stock was rising on Wednesday after the tech giant announced that it is introducing subscription plans for its social media apps and its Meta AI chatbot.  The move could help offset some of the costs of its massive spending on artificial intelligence.  Naomi Gleit, head of product at Meta, said in a video posted to Instagram on Wednesday that the company is starting to roll out paid subscription options to users of its social platforms.",
+        "pubDate": "2026-05-27T22:04:00Z",
+        "displayTime": "2026-05-27T22:04:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/b48c2a2d-bcfa-3bc6-a9de-40e9bf89da23/apple-just-hit-a-record-high.html",
+        "previewUrl": "https://finance.yahoo.com/m/8f95ba99-a6e8-3355-b05a-0605fe8bdf7b/meta%E2%80%99s-plan-to-fund-its-ai.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/9fa6f478a030ff65355167317773c38c",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/1ac51e61fa22b7c560a1d3c19cfc9da9",
           "originalWidth": 1280,
           "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/suoog2eTIV8_FPXObrCDxw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/9fa6f478a030ff65355167317773c38c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/y8G0ikI9sJ_JRYR9nYTlzQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/1ac51e61fa22b7c560a1d3c19cfc9da9",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XoJTADC.55b9EyXvQsmi0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/9fa6f478a030ff65355167317773c38c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/8UDRop9KE5i41J1KkjtVuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/1ac51e61fa22b7c560a1d3c19cfc9da9",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2176,7 +1866,7 @@
           "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/apple-stock-price-record-high-ai-00f8e74d?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/meta-stock-price-ai-subscription-instagram-facebook-7601f5e2?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2195,32 +1885,108 @@
       }
     },
     {
-      "id": "079f7763-ed07-3e49-b858-5949207bfd1b",
+      "id": "fab81462-5602-3ae2-8862-4912d863c09a",
       "content": {
-        "id": "079f7763-ed07-3e49-b858-5949207bfd1b",
+        "id": "fab81462-5602-3ae2-8862-4912d863c09a",
         "contentType": "STORY",
-        "title": "Supreme Court Rejects Meta Appeal",
+        "title": "Amazon Strikes $6 Billion Deal With Snowflake for Its Agentic Computing Chips",
         "description": "",
-        "summary": "The ruling adds to a series of recent courtroom setbacks for the social media giant.",
-        "pubDate": "2026-05-26T18:18:50Z",
-        "displayTime": "2026-05-26T18:18:50Z",
+        "summary": "The cloud-storage company joins Apple and Meta as one of AWS’s largest customers for CPU-based computing. Snowflake shares soared 35% after the closing bell.",
+        "pubDate": "2026-05-27T21:43:00Z",
+        "displayTime": "2026-05-27T21:43:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/fab81462-5602-3ae2-8862-4912d863c09a/amazon-strikes-6-billion.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/53ef2fd2f1daa25785fea368a9f681d2",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/V8pYW26XhRkWTzXEsnecVg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/53ef2fd2f1daa25785fea368a9f681d2",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bn7V5gfTcuzEDFTeo1j5Xg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/53ef2fd2f1daa25785fea368a9f681d2",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/tech/amazon-strikes-6-billion-deal-with-snowflake-for-its-agentic-computing-chips-d04114d8?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b648be6a-ca70-31d3-a776-e6a544f93536",
+      "content": {
+        "id": "b648be6a-ca70-31d3-a776-e6a544f93536",
+        "contentType": "STORY",
+        "title": "Dow Closes At Record Highs On Iran Truce Optimism, While Nasdaq Snaps Four-Day Win Streak On Weak Chip Stocks —  META, BA, AAL, DY, VRRM In Focus",
+        "description": "",
+        "summary": "Iranian state media said the country is committed to restoring commercial traffic through the Strait of Hormuz.",
+        "pubDate": "2026-05-27T21:42:47Z",
+        "displayTime": "2026-05-27T21:42:47Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/f73d1aee50d672cdeda7fcb439be72b9",
+          "originalWidth": 1280,
+          "originalHeight": 854,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/s5GuYVEy7VDxN2X76QlC.w--~B/aD04NTQ7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/f73d1aee50d672cdeda7fcb439be72b9",
+              "width": 1280,
+              "height": 854,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/YWsnsiC5Q2kgAj83yXnstA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/f73d1aee50d672cdeda7fcb439be72b9",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
         "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
+          "displayName": "Stocktwits",
+          "url": "Stocktwits",
+          "sourceId": "stocktwits_383"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/supreme-court-rejects-meta-appeal-181850793.html",
+          "url": "https://stocktwits.com/news-articles/markets/equity/dow-closes-at-record-highs-on-iran-truce-optimism-while-nasdaq-snaps-four-day-win-streak-on-weak-chip-stocks-meta-ba-aal-dy-vrrm-in-focus/cZggnpYRerv",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/supreme-court-rejects-meta-appeal-181850793.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-closes-record-highs-iran-214247333.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2238,32 +2004,318 @@
       }
     },
     {
-      "id": "4807f55b-d057-32a5-a125-760647f4e0f8",
+      "id": "616b1c76-c2e1-348f-8d2c-4b85cf0fb938",
       "content": {
-        "id": "4807f55b-d057-32a5-a125-760647f4e0f8",
+        "id": "616b1c76-c2e1-348f-8d2c-4b85cf0fb938",
         "contentType": "STORY",
-        "title": "XOVR Promised Pre IPO SpaceX Upside, But It Is Down 2% YTD While the S&P 500 Is Up 9%",
+        "title": "Meta launches paid subscriptions for Instagram, Facebook, WhatsApp",
         "description": "",
-        "summary": "The pitch for ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) is simple. You cannot buy SpaceX shares on your brokerage app, but XOVR can, and the fund packages that exposure inside a normal ticker you trade like any other ETF. XOVR now holds ~$281 million in SpaceX, which works out to about 23% of the fund. Yet ... XOVR Promised Pre IPO SpaceX Upside, But It Is Down 2% YTD While the S&P 500 Is Up 9%",
-        "pubDate": "2026-05-26T16:59:11Z",
-        "displayTime": "2026-05-26T16:59:11Z",
+        "summary": "Meta on Wednesday launched paid subscription plans for its flagship apps, marking a major push by the tech giant to diversify beyond its longtime reliance on advertising revenue.Meta in 2023 launched ad-free, paid versions of Facebook and Instagram in Europe to comply with EU data privacy legislation, giving users a choice between a free, ad-supported experience and a paid, ad-free one.\narp/md",
+        "pubDate": "2026-05-27T21:27:33Z",
+        "displayTime": "2026-05-27T21:27:33Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/9bdfb55abb95e7b1b7f8eaec8dad2fb2",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/afp.com/8f6694ef8e00278ff29f8bf197bd7f4e",
+          "originalWidth": 768,
+          "originalHeight": 512,
+          "caption": "Instagram Plus and Facebook Plus will unlock extra features including better analytics and wider audience reach (Kirill KUDRYAVTSEV)",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CKo1S90fLz2riEFfQENJeQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/9bdfb55abb95e7b1b7f8eaec8dad2fb2",
-              "width": 1366,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/djcL3Vh6DUmb3YdqFwJ9XQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/8f6694ef8e00278ff29f8bf197bd7f4e",
+              "width": 768,
+              "height": 512,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/b3w.E5JBz6vTEaccCjt5ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9bdfb55abb95e7b1b7f8eaec8dad2fb2",
+              "url": "https://s.yimg.com/uu/api/res/1.2/xypdZoMfPgqEkgqgShoOUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/8f6694ef8e00278ff29f8bf197bd7f4e",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "AFP",
+          "url": "http://www.afp.com/",
+          "sourceId": "afp.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-launches-paid-subscriptions-instagram-212733317.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-launches-paid-subscriptions-instagram-212733317.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "638b697f-9326-3e60-92cf-6bfe83445beb",
+      "content": {
+        "id": "638b697f-9326-3e60-92cf-6bfe83445beb",
+        "contentType": "STORY",
+        "title": "Pope Leo XIV teams with Anthropic founder on bold AI warning",
+        "description": "",
+        "summary": "When the people building something stand next to the people warning about it, that usually means everyone in the room is worried about the same thing. For most of the past three years, the artificial intelligence conversation has split cleanly into two camps. The builders keep raising bigger ...",
+        "pubDate": "2026-05-27T21:17:00Z",
+        "displayTime": "2026-05-27T21:17:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/5aaa676965729bd66a6b4ba671ab9e0e",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/v0HmZLHVGwn73ullFsRhug--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/5aaa676965729bd66a6b4ba671ab9e0e",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/htNgEGAvTPfDPsKhSIEKhw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/5aaa676965729bd66a6b4ba671ab9e0e",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/technology/pope-leo-xiv-teams-with-anthropic-founder-on-bold-ai-warning",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/pope-leo-xiv-teams-anthropic-211700246.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d4f3b357-136d-3267-aeef-e06cc58b0c09",
+      "content": {
+        "id": "d4f3b357-136d-3267-aeef-e06cc58b0c09",
+        "contentType": "STORY",
+        "title": "Meta Starts Rollout of Subscriptions for Facebook, Instagram",
+        "description": "",
+        "summary": "The company said that Facebook Plus and Instagram Plus will be priced at $3.99 per month, while WhatsApp Plus will cost $2.99 a month.",
+        "pubDate": "2026-05-27T20:06:00Z",
+        "displayTime": "2026-05-27T20:06:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/d4f3b357-136d-3267-aeef-e06cc58b0c09/meta-starts-rollout-of.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/df01a3661c3bb2128891eaf45ca7446f",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XRTqcaGF5.kN2Gz37.5f1w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/df01a3661c3bb2128891eaf45ca7446f",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QptTSYlgPyJ5Ao_o0eeAAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/df01a3661c3bb2128891eaf45ca7446f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/tech/meta-starts-rollout-of-subscriptions-for-facebook-instagram-9f00821f?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f0ab07ea-e11c-347e-ae8f-90e4a241ef80",
+      "content": {
+        "id": "f0ab07ea-e11c-347e-ae8f-90e4a241ef80",
+        "contentType": "STORY",
+        "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+        "description": "",
+        "summary": "Tech stocks were lower late Wednesday afternoon, with the State Street Technology Select Sector SPDR",
+        "pubDate": "2026-05-27T19:37:10Z",
+        "displayTime": "2026-05-27T19:37:10Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193710272.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193710272.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "13660a5a-3e3f-351c-babe-9de51dd3ea3f",
+      "content": {
+        "id": "13660a5a-3e3f-351c-babe-9de51dd3ea3f",
+        "contentType": "STORY",
+        "title": "She Made Just $2 An Hour Painting Needlepoint Canvases — Now Her Hobby Is A $10M Business",
+        "description": "",
+        "summary": "Krista LeRay turned a pandemic-era hobby into a roughly $10 million business built around needlepoint, the craft of stitching decorative designs onto canvas. Five years after launching Penny Linn Designs from her New York apartment, she told Business Insider in...",
+        "pubDate": "2026-05-27T19:31:02Z",
+        "displayTime": "2026-05-27T19:31:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/3a76d7e0f96918fd132e2d39b0dce613",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "She Made Just $2 An Hour Painting Needlepoint Canvases — Now Her Hobby Is A $10M Business",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bInJjxeB.aLRGXWlpj4y7Q--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/3a76d7e0f96918fd132e2d39b0dce613",
+              "width": 1000,
+              "height": 667,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GCzXHt9XyOWzYcWi8Ay66A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/3a76d7e0f96918fd132e2d39b0dce613",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/she-made-just-2-hour-193102313.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/she-made-just-2-hour-193102313.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c95b0a2d-c447-360d-882c-120fd134bdfd",
+      "content": {
+        "id": "c95b0a2d-c447-360d-882c-120fd134bdfd",
+        "contentType": "STORY",
+        "title": "Palantir CEO: “Only Seven of Our Salespeople Actually Even Really Sell”",
+        "description": "",
+        "summary": "You can say anything you want about Palantir (NASDAQ:PLTR), but one thing no one disagrees with is the fact that it is well-run. Management has kept the ship tight and agile, and its workforce is not bloated. CEO Alex Karp has relished this to a great extent, and he even mentioned trimming the company’s headcount while ... Palantir CEO: “Only Seven of Our Salespeople Actually Even Really Sell”",
+        "pubDate": "2026-05-27T19:30:08Z",
+        "displayTime": "2026-05-27T19:30:08Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/e7a95d027b571d7e9267c2375c58c3d6",
+          "originalWidth": 2506,
+          "originalHeight": 1671,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QWbxsfko2rDj7y0mVz5MyQ--~B/aD0xNjcxO3c9MjUwNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/e7a95d027b571d7e9267c2375c58c3d6",
+              "width": 2506,
+              "height": 1671,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/FwTEuKdn20.jsnh1zRzzaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e7a95d027b571d7e9267c2375c58c3d6",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2276,75 +2328,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/26/xovr-promised-pre-ipo-spacex-upside-but-it-is-down-2-ytd-while-the-sp-500-is-up-9/",
+          "url": "https://247wallst.com/investing/2026/05/27/palantir-ceo-only-seven-of-our-salespeople-actually-even-really-sell/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xovr-promised-pre-ipo-spacex-165911230.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9691deb8-af06-3be6-9ba8-7df3636c90d1",
-      "content": {
-        "id": "9691deb8-af06-3be6-9ba8-7df3636c90d1",
-        "contentType": "STORY",
-        "title": "Why Shares of AppLovin Were Soaring Today",
-        "description": "",
-        "summary": "Meta apparently bowed out from competing for a key source of the company's business.",
-        "pubDate": "2026-05-26T16:13:04Z",
-        "displayTime": "2026-05-26T16:13:04Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/45ebee22d183aa3cfdc02707b75b9c7c",
-          "originalWidth": 1200,
-          "originalHeight": 710,
-          "caption": "A smartphone with icons drifting upward from it.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HQz1pTibgAu4bUsc1Lr4iQ--~B/aD03MTA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/45ebee22d183aa3cfdc02707b75b9c7c",
-              "width": 1200,
-              "height": 710,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_0jQmaUvexFpIWvjABtSJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/45ebee22d183aa3cfdc02707b75b9c7c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/05/26/why-shares-of-applovin-were-soaring-today/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-shares-applovin-were-soaring-161304257.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-only-seven-salespeople-193008599.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
