@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "4958",
     "market": "TW",
-    "ts": "2026-05-30T22:53:00.629337"
+    "ts": "2026-05-31T22:54:20.318607"
   },
   "financials": {
     "annual": {
@@ -22199,13 +22199,13 @@
     "beta": 1.395,
     "trailingPE": 76.296295,
     "forwardPE": 24.387287,
-    "volume": 10147479,
-    "regularMarketVolume": 10147479,
+    "volume": 11046003,
+    "regularMarketVolume": 11046003,
     "averageVolume": 40833010,
     "averageVolume10days": 38848806,
     "averageDailyVolume10Day": 38848806,
-    "bid": 513.0,
-    "ask": 518.0,
+    "bid": 0.0,
+    "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
     "marketCap": 555901714432,
@@ -22281,19 +22281,7 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "longName": "Zhen Ding Technology Holding Limited",
-    "marketState": "CLOSED",
-    "corporateActions": [
-      {
-        "header": "Dividend",
-        "message": "4958.TW announced a cash dividend of TWD 3.422 with an ex-date of Jun. 8, 2026",
-        "meta": {
-          "eventType": "DIVIDEND",
-          "dateEpochMs": 1780848000000,
-          "amount": "3.422"
-        }
-      }
-    ],
+    "corporateActions": [],
     "regularMarketTime": 1780032615,
     "exchange": "TAI",
     "messageBoardId": "finmb_140596767",
@@ -22302,19 +22290,14 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "epsTrailingTwelveMonths": 6.75,
-    "epsForward": 21.11756,
-    "epsCurrentYear": 14.15395,
-    "priceEpsCurrentYear": 36.385605,
-    "fiftyDayAverageChange": 174.26999,
-    "fiftyDayAverageChangePercent": 0.51146066,
-    "twoHundredDayAverageChange": 306.28998,
-    "twoHundredDayAverageChangePercent": 1.4675386,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.9 - Buy",
-    "cryptoTradeable": false,
     "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
+    "longName": "Zhen Ding Technology Holding Limited",
+    "regularMarketChangePercent": 5.967078,
+    "regularMarketPrice": 515.0,
+    "cryptoTradeable": false,
+    "marketState": "PREPRE",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 1324861200000,
     "regularMarketChange": 29.0,
     "regularMarketDayRange": "499.5 - 515.0",
     "fullExchangeName": "Taiwan",
@@ -22331,10 +22314,17 @@
     "earningsCallTimestampStart": 1773298800,
     "earningsCallTimestampEnd": 1773298800,
     "isEarningsDateEstimate": true,
-    "regularMarketChangePercent": 5.967078,
-    "regularMarketPrice": 515.0,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 1324861200000,
+    "epsTrailingTwelveMonths": 6.75,
+    "epsForward": 21.11756,
+    "epsCurrentYear": 14.15395,
+    "priceEpsCurrentYear": 36.385605,
+    "fiftyDayAverageChange": 174.26999,
+    "fiftyDayAverageChangePercent": 0.51146066,
+    "twoHundredDayAverageChange": 306.28998,
+    "twoHundredDayAverageChangePercent": 1.4675386,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.9 - Buy",
     "trailingPegRatio": null
   }
 }
