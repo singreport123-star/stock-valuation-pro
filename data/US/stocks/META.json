@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-05-31T22:54:22.445075",
+    "ts": "2026-06-01T23:22:29.309762",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -132,46 +132,46 @@
     "compensationRisk": 10,
     "shareHolderRightsRisk": 10,
     "overallRisk": 10,
-    "governanceEpochDate": 1777593600,
+    "governanceEpochDate": 1780272000,
     "compensationAsOfEpochDate": 1767139200,
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 635.29004,
-    "open": 633.97,
-    "dayLow": 623.35,
-    "dayHigh": 634.5,
-    "regularMarketPreviousClose": 635.29004,
-    "regularMarketOpen": 633.97,
-    "regularMarketDayLow": 623.35,
-    "regularMarketDayHigh": 634.5,
+    "previousClose": 632.51,
+    "open": 629.415,
+    "dayLow": 599.53,
+    "dayHigh": 635.7499,
+    "regularMarketPreviousClose": 632.51,
+    "regularMarketOpen": 629.415,
+    "regularMarketDayLow": 599.53,
+    "regularMarketDayHigh": 635.7499,
     "dividendRate": 2.1,
     "dividendYield": 0.33,
     "exDividendDate": 1773619200,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 22.992002,
-    "forwardPE": 17.490955,
-    "volume": 19806536,
-    "regularMarketVolume": 19806536,
+    "trailingPE": 21.827333,
+    "forwardPE": 16.604944,
+    "volume": 27528175,
+    "regularMarketVolume": 27528175,
     "averageVolume": 15748225,
     "averageVolume10days": 14721260,
     "averageDailyVolume10Day": 14721260,
-    "bid": 618.1,
-    "ask": 632.73,
+    "bid": 600.0,
+    "ask": 615.0,
     "bidSize": 1,
-    "askSize": 2,
-    "marketCap": 1605578129408,
+    "askSize": 1,
+    "marketCap": 1524246904832,
     "nonDilutedMarketCap": 1605578124012,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.469091,
+    "priceToSalesTrailing12Months": 7.0907407,
     "fiftyDayAverage": 618.532,
     "twoHundredDayAverage": 666.5715,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0033055767,
+    "trailingAnnualDividendYield": 0.0033201054,
     "currency": "USD",
     "tradeable": false,
     "enterpriseValue": 1611167170560,
@@ -189,7 +189,7 @@
     "shortPercentOfFloat": 0.0146,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.587754,
+    "priceToBook": 6.254049,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
@@ -205,7 +205,7 @@
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
-    "currentPrice": 632.51,
+    "currentPrice": 600.47,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 614.0,
     "targetMeanPrice": 826.74713,
@@ -240,11 +240,21 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "corporateActions": [],
-    "postMarketTime": 1780099192,
-    "regularMarketTime": 1780084801,
+    "fiftyDayAverageChange": -18.062012,
+    "fiftyDayAverageChangePercent": -0.02920142,
+    "twoHundredDayAverageChange": -66.1015,
+    "twoHundredDayAverageChangePercent": -0.099166416,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-06-01",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "regularMarketChangePercent": -5.065539,
+    "regularMarketPrice": 600.47,
+    "postMarketTime": 1780356136,
+    "regularMarketTime": 1780344001,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -252,20 +262,21 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -0.43760002,
-    "regularMarketPrice": 632.51,
-    "postMarketChangePercent": -0.053758334,
-    "postMarketPrice": 632.17,
-    "postMarketChange": -0.34002686,
-    "regularMarketChange": -2.7800293,
-    "regularMarketDayRange": "623.35 - 634.5",
+    "longName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": -0.03830008,
+    "postMarketPrice": 600.24,
+    "postMarketChange": -0.22998047,
+    "regularMarketChange": -32.04004,
+    "regularMarketDayRange": "599.53 - 635.7499",
     "fullExchangeName": "NasdaqGS",
     "averageDailyVolume3Month": 15748225,
-    "fiftyTwoWeekLowChange": 112.25,
-    "fiftyTwoWeekLowChangePercent": 0.2157575,
+    "fiftyTwoWeekLowChange": 80.20996,
+    "fiftyTwoWeekLowChangePercent": 0.15417284,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -163.73999,
-    "fiftyTwoWeekHighChangePercent": -0.20563892,
+    "fiftyTwoWeekHighChange": -195.78003,
+    "fiftyTwoWeekHighChangePercent": -0.2458776,
     "fiftyTwoWeekChangePercent": -5.722165,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
@@ -277,21 +288,10 @@
     "epsTrailingTwelveMonths": 27.51,
     "epsForward": 36.16212,
     "epsCurrentYear": 32.20799,
-    "priceEpsCurrentYear": 19.638296,
-    "fiftyDayAverageChange": 13.978027,
-    "fiftyDayAverageChangePercent": 0.022598714,
-    "twoHundredDayAverageChange": -34.061462,
-    "twoHundredDayAverageChangePercent": -0.05109949,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-05-31",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
+    "priceEpsCurrentYear": 18.64351,
+    "corporateActions": [],
+    "marketState": "POST",
     "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "marketState": "CLOSED",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.9139
   },
@@ -309,7 +309,7 @@
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.11,
+        "2025-06-30T00:00:00.000": 0.106993,
         "2025-03-31T00:00:00.000": 0.094549,
         "2024-12-31T00:00:00.000": null
       },
@@ -1766,32 +1766,32 @@
   },
   "news": [
     {
-      "id": "18141fba-f6d5-4136-8d06-b23b1e3ca6b6",
+      "id": "da795e64-6fad-4c7a-9bec-9732d692f2f4",
       "content": {
-        "id": "18141fba-f6d5-4136-8d06-b23b1e3ca6b6",
+        "id": "da795e64-6fad-4c7a-9bec-9732d692f2f4",
         "contentType": "STORY",
-        "title": "IPOs are no longer Wall Street's starting line — they're the exit ramp: Chart of the Day",
+        "title": "Meta, Alphabet, Amazon, and Microsoft are getting hooked on debt to fuel AI boom",
         "description": "",
-        "summary": "Wall Street used to get the growth story early. Now it often only gets the receipt.",
-        "pubDate": "2026-05-31T11:44:34Z",
-        "displayTime": "2026-05-31T11:44:34Z",
+        "summary": "Debt is becoming a big tool in the Big Tech arsenal.",
+        "pubDate": "2026-06-01T14:01:11Z",
+        "displayTime": "2026-06-01T14:01:11Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/cP9Eq_.hczusjext5jErYw--~B/aD0xOTExO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/d08a4204-d77e-4df8-aa08-bfb34811a447",
-          "originalWidth": 3000,
-          "originalHeight": 1911,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/mfGS6yQlVV22zMQfVMiTuQ--~B/aD0yODcwO3c9NTEwMjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ae1702f7-9f77-4117-a92c-dec29b6c3608_c370b78388cc15bf44170b415d871f450ef1fe2953bb6eacf2cf4d56c230a81b.jpg",
+          "originalWidth": 5102,
+          "originalHeight": 2870,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/cP9Eq_.hczusjext5jErYw--~B/aD0xOTExO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/d08a4204-d77e-4df8-aa08-bfb34811a447",
-              "width": 3000,
-              "height": 1911,
+              "url": "https://s.yimg.com/uu/api/res/1.2/mfGS6yQlVV22zMQfVMiTuQ--~B/aD0yODcwO3c9NTEwMjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ae1702f7-9f77-4117-a92c-dec29b6c3608_c370b78388cc15bf44170b415d871f450ef1fe2953bb6eacf2cf4d56c230a81b.jpg",
+              "width": 5102,
+              "height": 2870,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HARdnBurLTjO6QUW6Qmc7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/d08a4204-d77e-4df8-aa08-bfb34811a447",
+              "url": "https://s.yimg.com/uu/api/res/1.2/B8mNnQU4j3jWtCMVcD5glg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ae1702f7-9f77-4117-a92c-dec29b6c3608_c370b78388cc15bf44170b415d871f450ef1fe2953bb6eacf2cf4d56c230a81b.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1804,13 +1804,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/ipos-are-no-longer-wall-streets-starting-line--theyre-the-exit-ramp-chart-of-the-day-114434009.html",
+          "url": "https://finance.yahoo.com/markets/article/meta-alphabet-amazon-and-microsoft-are-getting-hooked-on-debt-to-fuel-ai-boom-140111460.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/ipos-are-no-longer-wall-streets-starting-line--theyre-the-exit-ramp-chart-of-the-day-114434009.html",
+          "url": "https://finance.yahoo.com/markets/article/meta-alphabet-amazon-and-microsoft-are-getting-hooked-on-debt-to-fuel-ai-boom-140111460.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1828,32 +1828,32 @@
       }
     },
     {
-      "id": "7f8ac850-7a36-31bb-9afb-8842beb2ebb4",
+      "id": "1511839b-ce93-3f38-9c60-185fcfb8d98e",
       "content": {
-        "id": "7f8ac850-7a36-31bb-9afb-8842beb2ebb4",
+        "id": "1511839b-ce93-3f38-9c60-185fcfb8d98e",
         "contentType": "STORY",
-        "title": "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding",
+        "title": "META Valuation Remains Attractive, Says Wolfe",
         "description": "",
-        "summary": "We just covered the From Fired Researcher to $13.7 Billion King: How Leopold Aschenbrenner Broke the Hedge Fund World and Corning Incorporated (NYSE:GLW) ranks 23rd on this list. Corning Incorporated (NYSE:GLW) is a new addition to the 13F portfolio of Situational Awareness LP. The fund declared a new stake in the company in filings for […]",
-        "pubDate": "2026-05-31T20:55:13Z",
-        "displayTime": "2026-05-31T20:55:13Z",
+        "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the 12 Stocks Most Bought by Hedge Funds in Q1 2026. On May 21, Wolfe Research reiterated its Outperform rating on Meta Platforms, Inc. (NASDAQ:META) with a price target of $800, pointing to an attractive valuation despite worries about the company’s capital expenditure levels. Wolfe Research pointed out […]",
+        "pubDate": "2026-06-01T23:03:21Z",
+        "displayTime": "2026-06-01T23:03:21Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/66f2716ea9ff8023f78e373107823cd1",
-          "originalWidth": 806,
-          "originalHeight": 1024,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/ede7f3106d371a02a237277382a80b60",
+          "originalWidth": 6000,
+          "originalHeight": 4000,
+          "caption": "META Valuation Remains Attractive, Says Wolfe",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/RDTve9w5w9xct_kySfWXIw--~B/aD0xMDI0O3c9ODA2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/66f2716ea9ff8023f78e373107823cd1",
-              "width": 806,
-              "height": 1024,
+              "url": "https://s.yimg.com/uu/api/res/1.2/4uN3tYmiQIoIGa970UQ9lQ--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/ede7f3106d371a02a237277382a80b60",
+              "width": 6000,
+              "height": 4000,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Qpo.O3_BNtqGmuShJuJkGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/66f2716ea9ff8023f78e373107823cd1",
+              "url": "https://s.yimg.com/uu/api/res/1.2/OwlNfdytWvjLGDR3X9bHEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ede7f3106d371a02a237277382a80b60",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1866,13 +1866,13 @@
           "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/corning-incorporated-glw-leopold-aschenbrenner-205513332.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-valuation-remains-attractive-says-230321313.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/corning-incorporated-glw-leopold-aschenbrenner-205513332.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-valuation-remains-attractive-says-230321313.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1890,32 +1890,32 @@
       }
     },
     {
-      "id": "50087424-b9ec-38d9-9411-c9818bb1b87c",
+      "id": "3483ce52-d88c-349f-a9ed-9063b84262d3",
       "content": {
-        "id": "50087424-b9ec-38d9-9411-c9818bb1b87c",
+        "id": "3483ce52-d88c-349f-a9ed-9063b84262d3",
         "contentType": "STORY",
-        "title": "Meta's Subscription Push Could Add $13.5 Billion By 2028 Across Instagram, Facebook, WhatsApp",
+        "title": "3 Trillion-Dollar AI Stocks to Buy Now, According to Wall Street",
         "description": "",
-        "summary": "Meta Platforms Inc is expanding beyond its advertising roots by introducing paid subscriptions across Instagram, Facebook, WhatsApp, and Meta AI as the company looks to unlock new AI-driven revenue streams and deepen monetization of its massive global user base. Meta...",
-        "pubDate": "2026-05-31T19:33:14Z",
-        "displayTime": "2026-05-31T19:33:14Z",
+        "summary": "The valuations of artificial intelligence (AI) companies are surging, but their growth is more than just hype.",
+        "pubDate": "2026-06-01T21:20:00Z",
+        "displayTime": "2026-06-01T21:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/8445bc8add75f4555f0bdf6cd68ae969",
-          "originalWidth": 1024,
-          "originalHeight": 683,
-          "caption": "Meta's Subscription Push Could Add $13.5 Billion By 2028 Across Instagram, Facebook, WhatsApp",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/3d978446e0ea1dfe4a5fa076fd75fb70",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "A robot whispering to a person.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/sRUIu4bGCy88YvSLkR0c3g--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/8445bc8add75f4555f0bdf6cd68ae969",
-              "width": 1024,
-              "height": 683,
+              "url": "https://s.yimg.com/uu/api/res/1.2/3HAd6RUkWWEmk6ye0z2i_g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3d978446e0ea1dfe4a5fa076fd75fb70",
+              "width": 1200,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Fb_bVpCxj2r2t329aTEZUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/8445bc8add75f4555f0bdf6cd68ae969",
+              "url": "https://s.yimg.com/uu/api/res/1.2/MwpmD1JHabkRqhUYC8dyzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3d978446e0ea1dfe4a5fa076fd75fb70",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1923,18 +1923,18 @@
           ]
         },
         "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/metas-subscription-push-could-add-193314864.html",
+          "url": "https://www.fool.com/investing/2026/06/01/trillion-dollar-ai-stocks-to-buy-now-wall-street/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/metas-subscription-push-could-add-193314864.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-trillion-dollar-ai-stocks-212000746.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1952,156 +1952,32 @@
       }
     },
     {
-      "id": "bebb74f6-7540-3566-a136-f1eb71fdcfbf",
+      "id": "5f34d5e3-5d3c-3145-af61-c207565197fa",
       "content": {
-        "id": "bebb74f6-7540-3566-a136-f1eb71fdcfbf",
+        "id": "5f34d5e3-5d3c-3145-af61-c207565197fa",
         "contentType": "STORY",
-        "title": "Meta Adds New Subscriptions, Zuckerberg Gets $7 Billion Richer",
+        "title": "CoreWeave-Tied Data Center Seeks $850 Million Junk Bond Sale",
         "description": "",
-        "summary": "Meta Platforms announced new premium subscription plans for several of the company's social media platforms Wednesday. The move was well received by investors with shares trading higher on the news, helping to boost the wealth of CEO Mark Zuckerberg. Meta...",
-        "pubDate": "2026-05-31T17:31:15Z",
-        "displayTime": "2026-05-31T17:31:15Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/5b4a1777804c79128b60984a0bf276ae",
-          "originalWidth": 1000,
-          "originalHeight": 563,
-          "caption": "Meta Adds New Subscriptions, Zuckerberg Gets $7 Billion Richer",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/H66.UUW6dU0CWdfFZbvp4A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/5b4a1777804c79128b60984a0bf276ae",
-              "width": 1000,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GF5iBzKNywSjx8IF_w6ANA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/5b4a1777804c79128b60984a0bf276ae",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-adds-subscriptions-zuckerberg-gets-173115263.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-adds-subscriptions-zuckerberg-gets-173115263.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "858e5974-eff8-3d77-9771-6b0abf5db930",
-      "content": {
-        "id": "858e5974-eff8-3d77-9771-6b0abf5db930",
-        "contentType": "STORY",
-        "title": "Facebook and Instagram profiting from adverts promoting deadly ‘frog poison’ drug",
-        "description": "",
-        "summary": "Meta is profiting from adverts on Facebook and Instagram promoting a controversial “frog poison” detox that has been linked to a number of deaths.",
-        "pubDate": "2026-05-31T15:44:37Z",
-        "displayTime": "2026-05-31T15:44:37Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/the_telegraph_818/dacc9c204206aea33bbcd2682e90dee9",
-          "originalWidth": 443,
-          "originalHeight": 277,
-          "caption": "Kristian Trend",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rVRM0uI9fk7ZlAqQNhX2iw--~B/aD0yNzc7dz00NDM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_818/dacc9c204206aea33bbcd2682e90dee9",
-              "width": 443,
-              "height": 277,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pI2dO8Lq7wnUBKCDR6uBLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_818/dacc9c204206aea33bbcd2682e90dee9",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Telegraph",
-          "url": "http://www.telegraph.co.uk/",
-          "sourceId": "the_telegraph_818"
-        },
-        "canonicalUrl": {
-          "url": "https://uk.finance.yahoo.com/news/facebook-instagram-profiting-adverts-promoting-154437839.html",
-          "site": "finance",
-          "region": "GB",
-          "lang": "en-GB"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/facebook-instagram-profiting-adverts-promoting-154437839.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a68b4d0e-b3c3-36e0-9382-d94e0ca81081",
-      "content": {
-        "id": "a68b4d0e-b3c3-36e0-9382-d94e0ca81081",
-        "contentType": "STORY",
-        "title": "Can Meta turn AI capacity into a $1 trillion market opportunity?",
-        "description": "",
-        "summary": "Investing.com -- Bank of America reiterated its Buy rating on Meta Platforms and maintained an $835 price target, arguing that emerging signs of AI monetization and enterprise adoption could help improve investor sentiment after months of concern over the company’s rising spending commitments.",
-        "pubDate": "2026-05-31T14:42:15Z",
-        "displayTime": "2026-05-31T14:42:15Z",
+        "summary": "(Bloomberg) -- A data center tied to CoreWeave Inc. is set to get funding from a $850 million junk-bond sale by Elk Grove Village Property LLC, which joins a wave of high-yield issuers tapping debt markets to fund artificial intelligence infrastructure.Most Read from BloombergUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedRussia Finance Officials Tell Putin War Spending Is UnaffordableBerkshire Hathaway to Buy Taylor Morrison for $6.8 BillionStocks Rise on Trump’s Iran Remarks, AI",
+        "pubDate": "2026-06-01T20:51:12Z",
+        "displayTime": "2026-06-01T20:51:12Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": null,
         "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-turn-ai-capacity-1-144215747.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-tied-data-center-seeks-182851007.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-turn-ai-capacity-1-144215747.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-tied-data-center-seeks-182851007.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2119,32 +1995,89 @@
       }
     },
     {
-      "id": "8308d674-8a69-386a-a4cc-7349bd7eb61d",
+      "id": "d4738be7-b478-3497-ac68-2f2b3be3b2eb",
       "content": {
-        "id": "8308d674-8a69-386a-a4cc-7349bd7eb61d",
+        "id": "d4738be7-b478-3497-ac68-2f2b3be3b2eb",
         "contentType": "STORY",
-        "title": "Can Meta Stock Reach $1,500 by 2030?",
+        "title": "Credo Technology Stock Sinks. Why 157% Revenue Growth Isn’t Enough for the AI Era.",
         "description": "",
-        "summary": "Meta Platforms (NASDAQ:META) just reported one of the strangest quarters in mega-cap tech. Revenue grew 33.08% to $56.31 billion, advertising surged 33% year-over-year, and CEO Mark Zuckerberg told investors “We’re on track to deliver personal superintelligence to billions of people.” Yet shares are down 7.47% year-to-date and sit at $610.26. The question I want to ... Can Meta Stock Reach $1,500 by 2030?",
-        "pubDate": "2026-05-31T14:38:37Z",
-        "displayTime": "2026-05-31T14:38:37Z",
+        "summary": "Credo Technology stock declines despite better-than-expected earnings. The stock has rallied 157% since bottoming at the end of March.",
+        "pubDate": "2026-06-01T20:45:00Z",
+        "displayTime": "2026-06-01T20:45:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/d4738be7-b478-3497-ac68-2f2b3be3b2eb/credo-technology-stock-sinks-.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/3e3cce0803b791a62f8e02936e4f5ed3",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CtGsylBHVBeDErtBYyRwxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3e3cce0803b791a62f8e02936e4f5ed3",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2nkuKASR1358EU8hfNSo3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/3e3cce0803b791a62f8e02936e4f5ed3",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/credo-technology-earnings-stock-price-cf919da4?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9c88bab3-58bb-364d-92fb-b00dc1347c7e",
+      "content": {
+        "id": "9c88bab3-58bb-364d-92fb-b00dc1347c7e",
+        "contentType": "STORY",
+        "title": "Applied Optoelectronics Is Up 439% in 2026: Is It Outperforming Other Optics Stocks Like Lumentum and Coherent?",
+        "description": "",
+        "summary": "Shares of Applied Optoelectronics (NASDAQ:AAOI) are up 20% in midday trading to around $190, snapping back hard from a Friday close of $158.41. The single-session pop lifts the stock’s year-to-date (YTD) 2026 gain to an impressive 439%. Meanwhile, Lumentum (NASDAQ:LITE) stock is up 7% to $914 and Coherent (NYSE:COHR) stock is roughly flat near $363. ... Applied Optoelectronics Is Up 439% in 2026: Is It Outperforming Other Optics Stocks Like Lumentum and Coherent?",
+        "pubDate": "2026-06-01T19:15:47Z",
+        "displayTime": "2026-06-01T19:15:47Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/2539fd0e23afdef1b7f615a8886b7c01",
-          "originalWidth": 1366,
-          "originalHeight": 768,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/83c597fdd93a0ae3e24978750aa03289",
+          "originalWidth": 1500,
+          "originalHeight": 599,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nDZCvF8Q9F1JAp0d.mIBBQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/2539fd0e23afdef1b7f615a8886b7c01",
-              "width": 1366,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/5TRGp3OBelryNK2yguVP8A--~B/aD01OTk7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/83c597fdd93a0ae3e24978750aa03289",
+              "width": 1500,
+              "height": 599,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/iq1GE2I3naa4VNXNRIQVHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2539fd0e23afdef1b7f615a8886b7c01",
+              "url": "https://s.yimg.com/uu/api/res/1.2/OAvDkcne0CBdYeOP.GtI3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/83c597fdd93a0ae3e24978750aa03289",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2157,13 +2090,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/05/31/can-meta-stock-reach-1500-by-2030/",
+          "url": "https://247wallst.com/investing/2026/06/01/applied-optoelectronics-is-up-439-in-2026-is-it-outperforming-other-optics-stocks-like-lumentum-and-coherent/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-reach-1-500-143837158.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-439-2026-outperforming-191547192.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2181,32 +2114,32 @@
       }
     },
     {
-      "id": "14eb8294-0204-3631-8c07-5f0b734aebb5",
+      "id": "b864f583-8d54-3410-b22e-64e0387feef6",
       "content": {
-        "id": "14eb8294-0204-3631-8c07-5f0b734aebb5",
+        "id": "b864f583-8d54-3410-b22e-64e0387feef6",
         "contentType": "STORY",
-        "title": "Trump praised Dell, bought its stock — now the company has landed a $9.7B Pentagon contract and shares are up 255%",
+        "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
         "description": "",
-        "summary": "Trump's comments on Dell have drawn criticism. Yet the company has also been a major beneficiary of the AI boom.",
-        "pubDate": "2026-05-31T14:15:00Z",
-        "displayTime": "2026-05-31T14:15:00Z",
+        "summary": "Mike Schroepfer's Gigascale Capital has raised a large fund to back founders building climate-friendly solutions for the world's energy and material shortages.",
+        "pubDate": "2026-06-01T16:42:22Z",
+        "displayTime": "2026-06-01T16:42:22Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/moneywise_327/a0b2d1a41225b7f3e1a4cd656ccc1635",
-          "originalWidth": 1024,
-          "originalHeight": 576,
-          "caption": "U.S. President Donald Trump looks on during a cabinet meeting in the Cabinet Room of the White House",
+          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/c3eb4ce1b76cdc12bdc453d882371902",
+          "originalWidth": 4480,
+          "originalHeight": 3842,
+          "caption": "Mike Schroepfer sits in a chair.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZpAondRxmKQhJsXRRcRN9w--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_327/a0b2d1a41225b7f3e1a4cd656ccc1635",
-              "width": 1024,
-              "height": 576,
+              "url": "https://s.yimg.com/uu/api/res/1.2/adlt2_ktL6O9w85gzvPeaw--~B/aD0zODQyO3c9NDQ4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_finance_785/c3eb4ce1b76cdc12bdc453d882371902",
+              "width": 4480,
+              "height": 3842,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Td.Qlh6C2WI9auXhqJGRlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/a0b2d1a41225b7f3e1a4cd656ccc1635",
+              "url": "https://s.yimg.com/uu/api/res/1.2/0B6MXmsJvct6s_Wdf.DoGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/c3eb4ce1b76cdc12bdc453d882371902",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2214,18 +2147,18 @@
           ]
         },
         "provider": {
-          "displayName": "Moneywise",
-          "url": "https://moneywise.com/",
-          "sourceId": "moneywise_327"
+          "displayName": "TechCrunch",
+          "url": "https://techcrunch.com/",
+          "sourceId": "techcrunch_finance_785"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-exploded-255-since-trump-141500533.html",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/zigging-most-zagging-ex-meta-164222878.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-exploded-255-since-trump-141500533.html",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/zigging-most-zagging-ex-meta-164222878.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2243,32 +2176,32 @@
       }
     },
     {
-      "id": "d88de82a-04bd-3333-8a71-9a2ebef6342c",
+      "id": "13c5d6e6-2d53-3e77-94e1-4c72f2eb8df9",
       "content": {
-        "id": "d88de82a-04bd-3333-8a71-9a2ebef6342c",
+        "id": "13c5d6e6-2d53-3e77-94e1-4c72f2eb8df9",
         "contentType": "STORY",
-        "title": "AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic",
+        "title": "This Smart‑Money Legend Won Big on Intel. The Rest of His Portfolio Might Be Even More Revealing",
         "description": "",
-        "summary": "(Bloomberg) -- Chipmakers are by far the hottest stocks in the market, but their recent surge is lending urgency to the debate over whether investors are buying into an artificial-intelligence bubble that’s due to burst.Most Read from BloombergUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedStrait of Hormuz Ship Transits Are Rising Thanks to US HelpAmericans Injured in Iranian Missile Strike on Kuwaiti Air BaseAmericans Hurt in Kuwait as Trump Sends Mixed Signals on WarQatar Says T",
-        "pubDate": "2026-05-31T13:00:07Z",
-        "displayTime": "2026-05-31T13:00:07Z",
+        "summary": "The meteoric rise in Intel (NASDAQ:INTC) stock has arguably been the biggest story of the past year. Now up 486% in a year, questions linger as to whether the heated semi name is worth pursuing, especially as its market cap starts swelling. Another doubling would send Intel right above that $1 trillion mark. Given the ... This Smart‑Money Legend Won Big on Intel. The Rest of His Portfolio Might Be Even More Revealing",
+        "pubDate": "2026-06-01T16:23:04Z",
+        "displayTime": "2026-06-01T16:23:04Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/bcc8f9d88d4c83e89b43741c0af12f68",
-          "originalWidth": 2010,
-          "originalHeight": 1782,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/3762d40ae956cc767afbcb6aa7123d82",
+          "originalWidth": 1500,
+          "originalHeight": 843,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Cw7clXF1ycmp3KhCWufNUQ--~B/aD0xNzgyO3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/bcc8f9d88d4c83e89b43741c0af12f68",
-              "width": 2010,
-              "height": 1782,
+              "url": "https://s.yimg.com/uu/api/res/1.2/jE0U5Vlnf.a3zSiKNlrtWA--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/3762d40ae956cc767afbcb6aa7123d82",
+              "width": 1500,
+              "height": 843,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/isdvdQOUgMR5Y8Heb6U5DA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/bcc8f9d88d4c83e89b43741c0af12f68",
+              "url": "https://s.yimg.com/uu/api/res/1.2/SPDzvRxOo3xkmZuE7B6EqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3762d40ae956cc767afbcb6aa7123d82",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2276,18 +2209,18 @@
           ]
         },
         "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-debate-gets-real-130007767.html",
+          "url": "https://247wallst.com/investing/2026/06/01/this-smart%e2%80%91money-legend-won-big-on-intel-the-rest-of-his-portfolio-might-be-even-more-revealing/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-debate-gets-real-130007767.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/smart-money-legend-won-big-162304354.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2305,32 +2238,32 @@
       }
     },
     {
-      "id": "9eab2307-d85a-3f95-b7ec-3a9ec5d1c33f",
+      "id": "fea01b35-cd7f-3517-a5cb-d121a4033b78",
       "content": {
-        "id": "9eab2307-d85a-3f95-b7ec-3a9ec5d1c33f",
+        "id": "fea01b35-cd7f-3517-a5cb-d121a4033b78",
         "contentType": "STORY",
-        "title": "'You Don't Need A 10-Year Plan,' Former Meta Operating Chief Tells Gen Z To Abandon Age-Old Career Advice",
+        "title": "Why Launching Subscription Services Could Be a Genius Move for Meta Platforms",
         "description": "",
-        "summary": "Young graduates should abandon rigid career plans in the current job market, former Meta Platforms Inc. (NASDAQ:META) Chief Operating Officer Sheryl Sandberg has said. \"Don't script your career when the future is uncertain,\" she told Brandeis University graduates on May...",
-        "pubDate": "2026-05-31T12:33:10Z",
-        "displayTime": "2026-05-31T12:33:10Z",
+        "summary": "The social media giant recently announced the launch of new subscription options for its popular apps.",
+        "pubDate": "2026-06-01T16:20:00Z",
+        "displayTime": "2026-06-01T16:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/b90c665dd5d95e08e7c934b29fd55a39",
-          "originalWidth": 1000,
-          "originalHeight": 668,
-          "caption": "'You Don't Need A 10-Year Plan,' Former Meta Operating Chief Tells Gen Z To Abandon Age-Old Career Advice",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/27366831a1fed582afd9160dda39f78a",
+          "originalWidth": 1400,
+          "originalHeight": 748,
+          "caption": "People checking social media on various devices.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JEAfOGxbwMfb50Bja6_ZlA--~B/aD02Njg7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/b90c665dd5d95e08e7c934b29fd55a39",
-              "width": 1000,
-              "height": 668,
+              "url": "https://s.yimg.com/uu/api/res/1.2/rGLIeWqbegf2KgU3G7tcjA--~B/aD03NDg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/27366831a1fed582afd9160dda39f78a",
+              "width": 1400,
+              "height": 748,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/B11IfsvMYwq5YO9GThdY0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/b90c665dd5d95e08e7c934b29fd55a39",
+              "url": "https://s.yimg.com/uu/api/res/1.2/JeFGXQ4n1UOa2oVzE4ZGZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/27366831a1fed582afd9160dda39f78a",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2338,22 +2271,79 @@
           ]
         },
         "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.yahoo.com/lifestyle/articles/dont-10-plan-former-meta-123310748.html",
-          "site": "lifestyle",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://www.yahoo.com/lifestyle/articles/dont-10-plan-former-meta-123310748.html",
+          "url": "https://www.fool.com/investing/2026/06/01/why-launching-ai-subscription-services-could-be-a/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-launching-subscription-services-could-162000129.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "16ec62a9-5f68-34a2-b5d6-9c53ffe98a4a",
+      "content": {
+        "id": "16ec62a9-5f68-34a2-b5d6-9c53ffe98a4a",
+        "contentType": "STORY",
+        "title": "The SpaceX IPO Could Signal the End of the Stock Market Rally",
+        "description": "",
+        "summary": "The biggest IPO in history could force investors to make room for SpaceX just as the stock market rally faces new pressure.",
+        "pubDate": "2026-06-01T15:47:00Z",
+        "displayTime": "2026-06-01T15:47:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/16ec62a9-5f68-34a2-b5d6-9c53ffe98a4a/the-spacex-ipo-could-signal.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/3addd279d35fb11e43cab3e07184a696",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zz2esG9LZ4qAetvlwCe6ng--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3addd279d35fb11e43cab3e07184a696",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tmhIfjmZk5mRZkwhMjprNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/3addd279d35fb11e43cab3e07184a696",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/spacex-ipo-stock-market-top-b3e080aa?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
