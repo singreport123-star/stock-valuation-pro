@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-06-02T23:29:41.499291"
+    "ts": "2026-06-03T23:28:48.522521"
   },
   "financials": {
     "annual": {
@@ -23029,12 +23029,581 @@
         "buy": 506208,
         "name": "Investment_Trust",
         "sell": 574105
+      },
+      {
+        "date": "2026-06-03",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-06-03",
+        "stock_id": "2330",
+        "buy": 407000,
+        "name": "Dealer_self",
+        "sell": 241000
+      },
+      {
+        "date": "2026-06-03",
+        "stock_id": "2330",
+        "buy": 213837,
+        "name": "Dealer_Hedging",
+        "sell": 152951
+      },
+      {
+        "date": "2026-06-03",
+        "stock_id": "2330",
+        "buy": 17487849,
+        "name": "Foreign_Investor",
+        "sell": 17591676
+      },
+      {
+        "date": "2026-06-03",
+        "stock_id": "2330",
+        "buy": 885898,
+        "name": "Investment_Trust",
+        "sell": 237923
       }
     ],
     "margin_trading": [],
     "cb_transaction": []
   },
   "news": [
+    {
+      "id": "1884b271-bec8-3a7b-9b60-22cff40a6d50",
+      "content": {
+        "id": "1884b271-bec8-3a7b-9b60-22cff40a6d50",
+        "contentType": "STORY",
+        "title": "Tech ETFs to Buy as NVIDIA Sets Foot Into PC Market via New AI Chip",
+        "description": "",
+        "summary": "Tech ETFs with heavy exposure to NVDA gain attention, as the company enters the PC market with its RTX Spark AI superchip.",
+        "pubDate": "2026-06-03T18:42:00Z",
+        "displayTime": "2026-06-03T18:42:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/19e025edc67d0231b408370725a10f26",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/uN.CRU9NYRI78Xh..I_Dmw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/19e025edc67d0231b408370725a10f26",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bRPzHg8Pqg00GgTka3wG4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/19e025edc67d0231b408370725a10f26",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/tech-etfs-buy-nvidia-sets-184200944.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/tech-etfs-buy-nvidia-sets-184200944.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b3c6525b-c499-3d76-8cad-9dc2a524e722",
+      "content": {
+        "id": "b3c6525b-c499-3d76-8cad-9dc2a524e722",
+        "contentType": "STORY",
+        "title": "Warren Buffett Bought the World’s Most Dominant AI Company — Then Sold It Within 6 Months",
+        "description": "",
+        "summary": "The artificial intelligence boom has created plenty of winners, but one company sits at the center of it all. Every major AI player — Nvidia (NASDAQ:NVDA), Advanced Micro Devices (NASDAQ:AMD), Broadcom (NASDAQ:AVGO), Amazon (NASDAQ:AMZN), Microsoft (NASDAQ:MSFT), and Alphabet (NASDAQ:GOOG) — depends on a single manufacturer to turn advanced chip designs into physical products: Taiwan Semiconductor ... Warren Buffett Bought the World’s Most Dominant AI Company — Then Sold It Within 6 Months",
+        "pubDate": "2026-06-03T15:18:21Z",
+        "displayTime": "2026-06-03T15:18:21Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/a3f796884848c3fb8a04f2eadf1c9eef",
+          "originalWidth": 1366,
+          "originalHeight": 767,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Zp34c1Z9nRRBGpP5edB5Eg--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/a3f796884848c3fb8a04f2eadf1c9eef",
+              "width": 1366,
+              "height": 767,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7X3JzkTw9O6noTAR9CjiGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a3f796884848c3fb8a04f2eadf1c9eef",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/03/warren-buffett-bought-the-worlds-most-dominant-ai-company-then-sold-it-within-6-months/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-bought-world-most-151821340.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3e272476-c011-32ad-9733-983702123b35",
+      "content": {
+        "id": "3e272476-c011-32ad-9733-983702123b35",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor Manufacturing (TSM) Sits at the Absolute Center of the AI Compute Supply Chain",
+        "description": "",
+        "summary": "Green Alpha Investment recently released its Q1 2026 investor letter. A copy of the letter can be downloaded here. Green Alpha Investment’s philosophy emphasizes that economic growth and portfolio returns are driven by companies that accelerate productivity and can tackle global economic risks. Next Economy Growth & Income Strategy aims for an above-average dividend yield […]",
+        "pubDate": "2026-06-03T14:55:10Z",
+        "displayTime": "2026-06-03T14:55:10Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+          "originalWidth": 768,
+          "originalHeight": 430,
+          "caption": "Is TSM a good stock to buy?",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tCOW6llD_6zKTOeDO62Lmw--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+              "width": 768,
+              "height": 430,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3YrBn2qkfInvbSvM95LGXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-sits-145510383.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-sits-145510383.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5bb808d4-07f6-326e-ba03-ca35a8171869",
+      "content": {
+        "id": "5bb808d4-07f6-326e-ba03-ca35a8171869",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor Manufacturing (TSM) Surged on Long-Term Trends",
+        "description": "",
+        "summary": "Impax Asset Management, an investment management firm based in London, specializing in sustainable investing, released its first-quarter 2026 investor letter for its “Impax Global Environmental Markets Fund”. A copy of the letter is available to download here. The Fund stood resilient in the quarter by outperforming its primary benchmark, the MSCI ACWI index. The stock […]",
+        "pubDate": "2026-06-03T13:43:47Z",
+        "displayTime": "2026-06-03T13:43:47Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+          "originalWidth": 768,
+          "originalHeight": 430,
+          "caption": "Is TSM a good stock to buy?",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tCOW6llD_6zKTOeDO62Lmw--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+              "width": 768,
+              "height": 430,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3YrBn2qkfInvbSvM95LGXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-surged-134347480.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-surged-134347480.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4b35a4cd-e55f-3c64-9758-1b45688ebc9d",
+      "content": {
+        "id": "4b35a4cd-e55f-3c64-9758-1b45688ebc9d",
+        "contentType": "STORY",
+        "title": "What Makes Taiwan Semiconductor Manufacturing Company Limited (TSM) Brown Advisory Global Leaders Strategy’s Leading Contributor",
+        "description": "",
+        "summary": "Brown Advisory, an investment management company, released its “Brown Advisory Global Leaders Strategy” for the first quarter of 2026 investor letter. A copy of the letter can be downloaded here. The strategy focused on delivering strong long-term performance by investing in a focused portfolio of companies that solve customer problems and provide good returns for […]",
+        "pubDate": "2026-06-03T13:38:11Z",
+        "displayTime": "2026-06-03T13:38:11Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+          "originalWidth": 768,
+          "originalHeight": 430,
+          "caption": "Is TSM a good stock to buy?",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tCOW6llD_6zKTOeDO62Lmw--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+              "width": 768,
+              "height": 430,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3YrBn2qkfInvbSvM95LGXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shapes-taiwan-semiconductor-manufacturing-company-133811803.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shapes-taiwan-semiconductor-manufacturing-company-133811803.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "21baf995-01c3-3a5c-956a-c275507f5396",
+      "content": {
+        "id": "21baf995-01c3-3a5c-956a-c275507f5396",
+        "contentType": "STORY",
+        "title": "The next phase of the AI trade could belong to this market, Barclays says",
+        "description": "",
+        "summary": "Investing.com -- Japan offers the most attractive risk-adjusted exposure to the artificial intelligence investment cycle among major global equity markets, Barclays told clients in a note on Wednesday, arguing that Korea and Taiwan have become dangerously concentrated bets on a single part of the semiconductor value chain.",
+        "pubDate": "2026-06-03T10:58:19Z",
+        "displayTime": "2026-06-03T10:58:19Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/next-phase-ai-trade-could-105819882.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/next-phase-ai-trade-could-105819882.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5e89b8fa-7fad-3cdf-aa43-e85305f4829b",
+      "content": {
+        "id": "5e89b8fa-7fad-3cdf-aa43-e85305f4829b",
+        "contentType": "STORY",
+        "title": "Fresh AI Buzz Powers Taiwan Stocks Even Higher",
+        "description": "",
+        "summary": "Shares of Taiwanese chip and photonics companies powered the Taiex past the 46000 milestone as AI enthusiasm got another jolt from a tech event in Taipei this week. Demand for AI-related chip and optoelectronic stocks was buoyed by remarks from Nvidia CEO Jensen Huang highlighting optical connectivity as a vital bottleneck for next-gen AI infrastructure.",
+        "pubDate": "2026-06-03T09:12:29Z",
+        "displayTime": "2026-06-03T09:12:29Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/5e89b8fa-7fad-3cdf-aa43-e85305f4829b/fresh-ai-buzz-powers-taiwan.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+          "originalWidth": 320,
+          "originalHeight": 65,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_kc6REYMS1JrAuV5bYtjfA--~B/aD02NTt3PTMyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+              "width": 320,
+              "height": 65,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Eugzn1_7mDocWpeqoc2fFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-060326/card/fresh-ai-buzz-powers-taiwan-stocks-even-higher-jF86JMtwmG2YV9nC3yEb?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "27ef1f89-185c-38ad-a582-0c7ae5bbc5e4",
+      "content": {
+        "id": "27ef1f89-185c-38ad-a582-0c7ae5bbc5e4",
+        "contentType": "STORY",
+        "title": "Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families",
+        "description": "",
+        "summary": "(Bloomberg) -- Nvidia Corp. Chief Executive Officer Jensen Huang touted “insane” returns for investors willing to bet on the AI boom, seeking to dispel lingering concerns around the big sums spent on artificial intelligence and its long-term profitability.Most Read from BloombergTrump Begins Rebuilding His Tariff Wall Citing Forced LaborRussia Finance Officials Tell Putin War Spending Is UnaffordableTrump to Get Audit Immunity as $1.8 Billion Fund in DoubtTikTok Billionaire Overtakes Mukesh Amba",
+        "pubDate": "2026-06-03T09:05:23Z",
+        "displayTime": "2026-06-03T09:05:23Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/584d1240036e2c0d1cf01908eb3ae594",
+          "originalWidth": 2000,
+          "originalHeight": 1334,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sy1mfC_lJwC_SdvjNbxatQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/584d1240036e2c0d1cf01908eb3ae594",
+              "width": 2000,
+              "height": 1334,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Gq37nrjdLBUaqY2a6p5YYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/584d1240036e2c0d1cf01908eb3ae594",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2a5c4a89-39fa-3466-85e6-dbc852f686e2",
+      "content": {
+        "id": "2a5c4a89-39fa-3466-85e6-dbc852f686e2",
+        "contentType": "STORY",
+        "title": "Bernstein and BofA Remain Bullish on TSMC (TSM) Amid AI and Advanced Node Leadership",
+        "description": "",
+        "summary": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) ranks among the best most active stocks to buy according to hedge funds. Bernstein SocGen Group increased its price target for Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) to $430 from $351 on May 18, while upholding an Outperform rating on the company stock. The firm anticipates the company’s earnings […]",
+        "pubDate": "2026-06-03T08:20:02Z",
+        "displayTime": "2026-06-03T08:20:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/555a019e1f4fbc93ccb8acc184c6aa1e",
+          "originalWidth": 700,
+          "originalHeight": 525,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/YEsbe2CMQDHisoJxT7ZAyQ--~B/aD01MjU7dz03MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/555a019e1f4fbc93ccb8acc184c6aa1e",
+              "width": 700,
+              "height": 525,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/BCFHg6lORSUHSh5CfsKZGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/555a019e1f4fbc93ccb8acc184c6aa1e",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-bofa-remain-bullish-tsmc-082002969.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-bofa-remain-bullish-tsmc-082002969.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
     {
       "id": "51046c1e-6ccf-3d44-ba82-1d2d45796230",
       "content": {
@@ -23081,554 +23650,6 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-beats-stock-market-214502485.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "79af49f2-bc2d-3736-a3ec-25a8084d369a",
-      "content": {
-        "id": "79af49f2-bc2d-3736-a3ec-25a8084d369a",
-        "contentType": "STORY",
-        "title": "Advanced Micro Devices Sees Agentic AI Doubling CPU Opportunity as MI450 Nears",
-        "description": "",
-        "summary": "Advanced Micro Devices (NASDAQ:AMD) executives said demand tied to agentic artificial intelligence is accelerating faster than expected, driving a sharp expansion in the company’s server CPU opportunity and shaping its plans for GPU systems, supply chain commitments and customer engagements. Speaki",
-        "pubDate": "2026-06-02T21:04:34Z",
-        "displayTime": "2026-06-02T21:04:34Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/4f7eb1920d2821372623da208b3f7efb",
-          "originalWidth": 1200,
-          "originalHeight": 1200,
-          "caption": "Advanced Micro Devices logo",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fGYbDOqFwoX1aFhTC44AmQ--~B/aD0xMjAwO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/marketbeat_955/4f7eb1920d2821372623da208b3f7efb",
-              "width": 1200,
-              "height": 1200,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jkEhC4O6vYNYnCQerXKIkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/4f7eb1920d2821372623da208b3f7efb",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "MarketBeat",
-          "url": "https://www.marketbeat.com/",
-          "sourceId": "marketbeat_955"
-        },
-        "canonicalUrl": {
-          "url": "https://www.marketbeat.com/instant-alerts/advanced-micro-devices-sees-agentic-ai-doubling-cpu-opportunity-as-mi450-nears-2026-06-02/?utm_source=yahoofinance&utm_medium=yahoofinance",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/advanced-micro-devices-sees-agentic-210434902.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "18d891fe-aea9-39aa-9eb3-3a4370e8a5bb",
-      "content": {
-        "id": "18d891fe-aea9-39aa-9eb3-3a4370e8a5bb",
-        "contentType": "STORY",
-        "title": "Dow Jones AI Giant Caterpillar, Nvidia Chipmaker TSMC In Or Near Buy Zones",
-        "description": "",
-        "summary": "Dow Jones AI giant Caterpillar and Nvidia chipmaker TSMC are in or near buy zones as the stock market rally continues.",
-        "pubDate": "2026-06-02T19:19:30Z",
-        "displayTime": "2026-06-02T19:19:30Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/18d891fe-aea9-39aa-9eb3-3a4370e8a5bb/dow-jones-ai-giant.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/e2396d0e0e4f3ae4de6e25bb9a0bf017",
-          "originalWidth": 1000,
-          "originalHeight": 563,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VwLy9nBXnQ5zJf0Ep6WJJQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e2396d0e0e4f3ae4de6e25bb9a0bf017",
-              "width": 1000,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Op2Bux7E2YicQdIPciOhHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/e2396d0e0e4f3ae4de6e25bb9a0bf017",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-ai-giant-caterpillar-nvidia-chipmaker-tsmc-in-near-buy-zones/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "af204437-a02d-3e25-a42d-0735c816176f",
-      "content": {
-        "id": "af204437-a02d-3e25-a42d-0735c816176f",
-        "contentType": "STORY",
-        "title": "Texas Instruments Is Smashing NVIDIA in 2026: Rotational Fluke, or Paradigm Shift",
-        "description": "",
-        "summary": "Shares of Texas Instruments (NASDAQ:TXN) are up 4% at midday Tuesday, trading near $304, while NVIDIA (NASDAQ:NVDA) stock is down 1% near $222. The intraday divergence is small, but the year-to-date gap is wide. Texas Instruments stock is up 76% year to date, while NVIDIA stock has climbed 19%. That spread, with the analog veteran ... Texas Instruments Is Smashing NVIDIA in 2026: Rotational Fluke, or Paradigm Shift",
-        "pubDate": "2026-06-02T19:03:01Z",
-        "displayTime": "2026-06-02T19:03:01Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/00aa46ce071f4ddffdc6a18e42a2a78b",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/u9wVdpjGaqPOCc96sT1MNA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/00aa46ce071f4ddffdc6a18e42a2a78b",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wsrWuKpK3A65BCQ053B1Gg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/00aa46ce071f4ddffdc6a18e42a2a78b",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/02/texas-instruments-is-smashing-nvidia-in-2026-rotational-fluke-or-paradigm-shift/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-smashing-nvidia-2026-190301787.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c7850ecc-b8b5-3452-a8a7-d3f089c4910f",
-      "content": {
-        "id": "c7850ecc-b8b5-3452-a8a7-d3f089c4910f",
-        "contentType": "STORY",
-        "title": "Can Silicon Motion's Latest SSD Controller for AI PCs Stoke Growth?",
-        "description": "",
-        "summary": "SIMO launches SM2524XT PCIe Gen5 DRAMless SSD controller for AI PCs, touting up to 14 GB/s reads, low latency and better efficiency.",
-        "pubDate": "2026-06-02T16:04:00Z",
-        "displayTime": "2026-06-02T16:04:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/76b77267780db8a8e104d16effc1eb76",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XbuIpQrVk99nJInENBcC7Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76b77267780db8a8e104d16effc1eb76",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/R0FxnzQTatK8QbQzoMj4Ig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76b77267780db8a8e104d16effc1eb76",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/silicon-motions-latest-ssd-controller-160400859.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/silicon-motions-latest-ssd-controller-160400859.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7f852a14-fb12-3a60-afee-d1bb55da47d9",
-      "content": {
-        "id": "7f852a14-fb12-3a60-afee-d1bb55da47d9",
-        "contentType": "STORY",
-        "title": "Applied Materials: The AI Stock That Wins No Matter Which Chip Wins",
-        "description": "",
-        "summary": "When investors think about AI winners, the usual names come to mind: Nvidia (NVDA), TSMC, or memory makers like Micron (MU). Semiconductor equipment giant Applied Materials (AMAT) rarely gets the same attention, despite supplying the tools needed to manufacture nearly every critical component of an AI chip.",
-        "pubDate": "2026-06-02T13:37:25Z",
-        "displayTime": "2026-06-02T13:37:25Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/dcefa79aab80e1268693241b98b302cc",
-          "originalWidth": 1024,
-          "originalHeight": 683,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/A3xq.fq3tb_5Ld05Zb7pwA--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/dcefa79aab80e1268693241b98b302cc",
-              "width": 1024,
-              "height": 683,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1WpAwZnb2sg7G1_DHp4qfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/dcefa79aab80e1268693241b98b302cc",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/",
-          "sourceId": "trefis_142"
-        },
-        "canonicalUrl": {
-          "url": "https://www.trefis.com/articles/600968/applied-materials-the-ai-stock-that-wins-no-matter-which-chip-wins/2026-06-02",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-ai-stock-wins-133725043.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "403a44b8-03f9-356c-a4ec-36fece4246e3",
-      "content": {
-        "id": "403a44b8-03f9-356c-a4ec-36fece4246e3",
-        "contentType": "STORY",
-        "title": "Why Intel Just Got the Endorsement of a Lifetime From Two Trillion-Dollar Companies",
-        "description": "",
-        "summary": "For most of the last decade, Intel (NASDAQ:INTC) was the stock you didn’t want to own. NVIDIA crushed it on AI accelerators, TSMC ate its foundry lunch, and AMD chipped away at its server franchise. I’ve been tracking this turnaround story since CEO Lip-Bu Tan took the helm, and what I’m seeing now is a ... Why Intel Just Got the Endorsement of a Lifetime From Two Trillion-Dollar Companies",
-        "pubDate": "2026-06-02T12:04:00Z",
-        "displayTime": "2026-06-02T12:04:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/685d46fc4f5f434d15d530e8456aacbf",
-          "originalWidth": 1366,
-          "originalHeight": 767,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4O8OQ.entt.EccUEidYj6g--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/685d46fc4f5f434d15d530e8456aacbf",
-              "width": 1366,
-              "height": 767,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/yBIkVdxcTgrd.NAK9HpddA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/685d46fc4f5f434d15d530e8456aacbf",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/02/why-intel-just-got-the-endorsement-of-a-lifetime-from-two-trillion-dollar-companies/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-just-got-endorsement-120400210.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2d6166dc-4130-3ed5-8bb7-bd1f0ce0282b",
-      "content": {
-        "id": "2d6166dc-4130-3ed5-8bb7-bd1f0ce0282b",
-        "contentType": "STORY",
-        "title": "China’s Chip Ambitions Run Into a Global Tech Wall",
-        "description": "",
-        "summary": "In 2019, while researching a book on the U.S.-China competition, I visited Huawei’s sprawling new R&D campus in Dongguan, a city about an hour’s drive from the company’s Shenzhen headquarters.  A Huawei executive explained the design to me with a straight face: “We’re doing well in Europe.”  In a Wall Street Journal interview that November, founder  Ren Zhengfei  invited President Trump to come visit and brushed off U.S. sanctions with characteristic bravado.",
-        "pubDate": "2026-06-02T10:55:00Z",
-        "displayTime": "2026-06-02T10:55:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/2d6166dc-4130-3ed5-8bb7-bd1f0ce0282b/china%E2%80%99s-chip-ambitions-run.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/6f1a590ac8708f45bbf7cf75d32adad1",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/v566lShNVQCL97Hrcc3h0A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/6f1a590ac8708f45bbf7cf75d32adad1",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VOi87ol0Rd7.Zoah13t8cA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/6f1a590ac8708f45bbf7cf75d32adad1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.wsj.com/world/china/chinas-chip-ambitions-run-into-a-global-tech-wall-669a1835?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d5eec503-19e4-30df-87d8-6a52fad49faf",
-      "content": {
-        "id": "d5eec503-19e4-30df-87d8-6a52fad49faf",
-        "contentType": "STORY",
-        "title": "Zacks Investment Ideas feature highlights: NVIDIA, HubSpot, Fluence Energy, CoreWeave and Taiwan",
-        "description": "",
-        "summary": "NVIDIA, HubSpot, Fluence Energy, CoreWeave and Taiwan have been highlighted in this Investment Ideas article.",
-        "pubDate": "2026-06-02T08:31:00Z",
-        "displayTime": "2026-06-02T08:31:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/6d9e676bfa949d34d87584464569b788",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SxIZoe6gTe1OM5yQjVVaKw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6d9e676bfa949d34d87584464569b788",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/g0EHOT33O8NEhnaWcfpTDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6d9e676bfa949d34d87584464569b788",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-083100616.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-083100616.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "961efa96-9ca2-3398-bea7-65b90b96b72d",
-      "content": {
-        "id": "961efa96-9ca2-3398-bea7-65b90b96b72d",
-        "contentType": "STORY",
-        "title": "Samsung discusses autonomous-driving chip supply with BYD – report",
-        "description": "",
-        "summary": "Last week, BYD unveiled what it called China’s first 4nm intelligent driving chip, the Xuanji A3.",
-        "pubDate": "2026-06-02T07:56:23Z",
-        "displayTime": "2026-06-02T07:56:23Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/just_auto_187/900ac0dc4b1519f8b48ca60d5a664bbc",
-          "originalWidth": 1440,
-          "originalHeight": 810,
-          "caption": "The news comes as Chinese car companies seek advanced production capacity beyond what domestic suppliers can currently offer.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/U35a9Lp.H4XPA46nCwRBZA--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/just_auto_187/900ac0dc4b1519f8b48ca60d5a664bbc",
-              "width": 1440,
-              "height": 810,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/enjUOQ.1UsjIGBNm8LKFeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/just_auto_187/900ac0dc4b1519f8b48ca60d5a664bbc",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Just Auto",
-          "url": "https://www.globaldata.com/",
-          "sourceId": "just_auto_187"
-        },
-        "canonicalUrl": {
-          "url": "https://www.just-auto.com/news/samsung-av-chip-supply-byd/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/samsung-discusses-autonomous-driving-chip-075623473.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23758,71 +23779,71 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2355.0,
-    "open": 2390.0,
-    "dayLow": 2360.0,
-    "dayHigh": 2400.0,
-    "regularMarketPreviousClose": 2355.0,
-    "regularMarketOpen": 2390.0,
-    "regularMarketDayLow": 2360.0,
-    "regularMarketDayHigh": 2400.0,
+    "previousClose": 2380.0,
+    "open": 2425.0,
+    "dayLow": 2410.0,
+    "dayHigh": 2440.0,
+    "regularMarketPreviousClose": 2380.0,
+    "regularMarketOpen": 2425.0,
+    "regularMarketDayLow": 2410.0,
+    "regularMarketDayHigh": 2440.0,
     "dividendRate": 24.0,
-    "dividendYield": 1.01,
+    "dividendYield": 0.99,
     "exDividendDate": 1781136000,
     "payoutRatio": 0.2785,
     "fiveYearAvgDividendYield": 1.71,
     "beta": 1.264,
-    "trailingPE": 32.36334,
-    "forwardPE": 19.412434,
-    "volume": 31523549,
-    "regularMarketVolume": 31523549,
-    "averageVolume": 36402582,
-    "averageVolume10days": 34938214,
-    "averageDailyVolume10Day": 34938214,
+    "trailingPE": 32.894737,
+    "forwardPE": 19.779476,
+    "volume": 24096445,
+    "regularMarketVolume": 24096445,
+    "averageVolume": 36185165,
+    "averageVolume10days": 34416835,
+    "averageDailyVolume10Day": 34416835,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 61719040753664,
+    "marketCap": 62885996789760,
     "nonDilutedMarketCap": 61070731507785,
-    "fiftyTwoWeekLow": 950.0,
-    "fiftyTwoWeekHigh": 2415.0,
+    "fiftyTwoWeekLow": 970.0,
+    "fiftyTwoWeekHigh": 2440.0,
     "allTimeHigh": 2415.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 15.0391035,
-    "fiftyDayAverage": 2096.6,
-    "twoHundredDayAverage": 1677.15,
+    "priceToSalesTrailing12Months": 15.323457,
+    "fiftyDayAverage": 2107.2,
+    "twoHundredDayAverage": 1683.15,
     "trailingAnnualDividendRate": 24.0,
-    "trailingAnnualDividendYield": 0.010191083,
+    "trailingAnnualDividendYield": 0.010084034,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 59471241936896,
+    "enterpriseValue": 60638197972992,
     "profitMargins": 0.46505,
     "floatShares": 23636317960,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00022,
-    "heldPercentInstitutions": 0.43502998,
+    "heldPercentInstitutions": 0.43526,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 227.166,
-    "priceToBook": 10.47692,
+    "priceToBook": 10.675013,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.583,
     "netIncomeToCommon": 1908519600128,
-    "trailingEps": 73.54,
+    "trailingEps": 73.72,
     "forwardEps": 122.60184,
     "pegRatio": 1.16,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 14.491,
-    "enterpriseToEbitda": 20.823,
-    "52WeekChange": 1.4789474,
-    "SandP52WeekChange": 0.27294624,
+    "enterpriseToRevenue": 14.776,
+    "enterpriseToEbitda": 21.232,
+    "52WeekChange": 1.4040403,
+    "SandP52WeekChange": 0.27449715,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
-    "currentPrice": 2380.0,
+    "currentPrice": 2425.0,
     "targetHighPrice": 3250.0,
     "targetLowPrice": 2051.0,
     "targetMeanPrice": 2589.5757,
@@ -23857,12 +23878,18 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "regularMarketChangePercent": 1.0615711,
-    "regularMarketPrice": 2380.0,
-    "marketState": "PREPRE",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "corporateActions": [],
-    "regularMarketTime": 1780378208,
+    "corporateActions": [
+      {
+        "header": "Dividend",
+        "message": "2330.TW announced a cash dividend of TWD 6.00 with an ex-date of Jun. 11, 2026",
+        "meta": {
+          "eventType": "DIVIDEND",
+          "dateEpochMs": 1781107200000,
+          "amount": "6.00"
+        }
+      }
+    ],
+    "regularMarketTime": 1780464609,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -23872,35 +23899,39 @@
     "esgPopulated": false,
     "hasPrePostMarketData": false,
     "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": 25.0,
-    "regularMarketDayRange": "2360.0 - 2400.0",
+    "regularMarketChange": 45.0,
+    "regularMarketDayRange": "2410.0 - 2440.0",
     "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 36402582,
-    "fiftyTwoWeekLowChange": 1430.0,
-    "fiftyTwoWeekLowChangePercent": 1.5052632,
-    "fiftyTwoWeekRange": "950.0 - 2415.0",
-    "fiftyTwoWeekHighChange": -35.0,
-    "fiftyTwoWeekHighChangePercent": -0.014492754,
-    "fiftyTwoWeekChangePercent": 147.89474,
+    "averageDailyVolume3Month": 36185165,
+    "fiftyTwoWeekLowChange": 1455.0,
+    "fiftyTwoWeekLowChangePercent": 1.5,
+    "fiftyTwoWeekRange": "970.0 - 2440.0",
+    "fiftyTwoWeekHighChange": -15.0,
+    "fiftyTwoWeekHighChangePercent": -0.006147541,
+    "fiftyTwoWeekChangePercent": 140.40404,
     "earningsTimestamp": 1776317400,
     "earningsTimestampStart": 1784179800,
     "earningsTimestampEnd": 1784179800,
     "earningsCallTimestampStart": 1776319200,
     "earningsCallTimestampEnd": 1776319200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 73.54,
+    "epsTrailingTwelveMonths": 73.72,
     "epsForward": 122.60184,
     "epsCurrentYear": 97.99586,
-    "priceEpsCurrentYear": 24.286741,
-    "fiftyDayAverageChange": 283.3999,
-    "fiftyDayAverageChangePercent": 0.13517118,
-    "twoHundredDayAverageChange": 702.85,
-    "twoHundredDayAverageChangePercent": 0.419074,
+    "priceEpsCurrentYear": 24.745945,
+    "fiftyDayAverageChange": 317.80005,
+    "fiftyDayAverageChangePercent": 0.15081628,
+    "twoHundredDayAverageChange": 741.85,
+    "twoHundredDayAverageChangePercent": 0.44075096,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
+    "marketState": "PREPRE",
+    "regularMarketChangePercent": 1.8907564,
+    "regularMarketPrice": 2425.0,
     "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "trailingPegRatio": 1.1622
   }
 }

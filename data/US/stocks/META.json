@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-06-02T23:29:46.915619",
+    "ts": "2026-06-03T23:28:53.997031",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 600.47,
-    "open": 603.35,
-    "dayLow": 596.68,
-    "dayHigh": 608.88,
-    "regularMarketPreviousClose": 600.47,
-    "regularMarketOpen": 603.35,
-    "regularMarketDayLow": 596.68,
-    "regularMarketDayHigh": 608.88,
+    "previousClose": 597.63,
+    "open": 602.99,
+    "dayLow": 600.27,
+    "dayHigh": 624.1,
+    "regularMarketPreviousClose": 597.63,
+    "regularMarketOpen": 602.99,
+    "regularMarketDayLow": 600.27,
+    "regularMarketDayHigh": 624.1,
     "dividendRate": 2.1,
     "dividendYield": 0.35,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
     "beta": 1.243,
-    "trailingPE": 21.732,
-    "forwardPE": 16.52641,
-    "volume": 17771598,
-    "regularMarketVolume": 17771598,
-    "averageVolume": 16053258,
-    "averageVolume10days": 16297320,
-    "averageDailyVolume10Day": 16297320,
-    "bid": 600.0,
-    "ask": 615.0,
-    "bidSize": 1,
+    "trailingPE": 22.662058,
+    "forwardPE": 17.227419,
+    "volume": 20346772,
+    "regularMarketVolume": 20346772,
+    "averageVolume": 16149004,
+    "averageVolume10days": 16749660,
+    "averageDailyVolume10Day": 16749660,
+    "bid": 623.03,
+    "ask": 622.78,
+    "bidSize": 3,
     "askSize": 1,
-    "marketCap": 1517037944832,
+    "marketCap": 1581386956800,
     "nonDilutedMarketCap": 1524247041352,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.057205,
-    "fiftyDayAverage": 618.4074,
-    "twoHundredDayAverage": 665.67346,
+    "priceToSalesTrailing12Months": 7.3565545,
+    "fiftyDayAverage": 618.4868,
+    "twoHundredDayAverage": 664.751,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0034972604,
+    "trailingAnnualDividendYield": 0.0035138796,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1529836077056,
+    "enterpriseValue": 1522626854912,
     "profitMargins": 0.32837,
     "floatShares": 2192715434,
     "sharesOutstanding": 2196045588,
@@ -184,28 +184,28 @@
     "dateShortInterest": 1778803200,
     "sharesPercentSharesOut": 0.0127,
     "heldPercentInsiders": 0.00103,
-    "heldPercentInstitutions": 0.79328,
+    "heldPercentInstitutions": 0.79330003,
     "shortRatio": 2.07,
     "shortPercentOfFloat": 0.0146,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.2244697,
+    "priceToBook": 6.4884963,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.5,
+    "trailingEps": 27.49,
     "forwardEps": 36.16212,
     "pegRatio": 0.91,
-    "enterpriseToRevenue": 7.117,
-    "enterpriseToEbitda": 13.996,
-    "52WeekChange": -0.09954262,
-    "SandP52WeekChange": 0.27294624,
+    "enterpriseToRevenue": 7.083,
+    "enterpriseToEbitda": 13.93,
+    "52WeekChange": -0.13128859,
+    "SandP52WeekChange": 0.27449715,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
-    "currentPrice": 597.63,
+    "currentPrice": 622.98,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 614.0,
     "targetMeanPrice": 826.74713,
@@ -237,10 +237,14 @@
     "language": "en-US",
     "region": "US",
     "typeDisp": "Equity",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
     "marketState": "POST",
+    "shortName": "Meta Platforms, Inc.",
+    "corporateActions": [],
+    "postMarketTime": 1780529331,
+    "regularMarketTime": 1780516801,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -248,40 +252,34 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "corporateActions": [],
-    "postMarketTime": 1780442983,
-    "regularMarketTime": 1780430401,
-    "regularMarketChangePercent": -0.47295716,
-    "regularMarketPrice": 597.63,
-    "longName": "Meta Platforms, Inc.",
-    "priceEpsCurrentYear": 18.555334,
-    "fiftyDayAverageChange": -20.777405,
-    "fiftyDayAverageChangePercent": -0.033598248,
-    "twoHundredDayAverageChange": -68.04346,
-    "twoHundredDayAverageChangePercent": -0.10221747,
+    "priceEpsCurrentYear": 19.342405,
+    "fiftyDayAverageChange": 4.493164,
+    "fiftyDayAverageChangePercent": 0.007264769,
+    "twoHundredDayAverageChange": -41.770996,
+    "twoHundredDayAverageChangePercent": -0.06283706,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-06-02",
+    "nameChangeDate": "2026-06-03",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
-    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.16344672,
-    "postMarketPrice": 598.6068,
-    "postMarketChange": 0.97680664,
-    "regularMarketChange": -2.8399658,
-    "regularMarketDayRange": "596.68 - 608.88",
+    "postMarketChangePercent": -0.7127039,
+    "postMarketPrice": 618.54,
+    "postMarketChange": -4.4400024,
+    "regularMarketChange": 25.349976,
+    "regularMarketDayRange": "600.27 - 624.1",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 16053258,
-    "fiftyTwoWeekLowChange": 77.369995,
-    "fiftyTwoWeekLowChangePercent": 0.1487141,
+    "averageDailyVolume3Month": 16149004,
+    "fiftyTwoWeekLowChange": 102.71997,
+    "fiftyTwoWeekLowChangePercent": 0.19743969,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -198.62,
-    "fiftyTwoWeekHighChangePercent": -0.24944426,
-    "fiftyTwoWeekChangePercent": -9.954262,
+    "fiftyTwoWeekHighChange": -173.27002,
+    "fiftyTwoWeekHighChangePercent": -0.21760756,
+    "fiftyTwoWeekChangePercent": -13.128859,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -289,9 +287,11 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.5,
+    "epsTrailingTwelveMonths": 27.49,
     "epsForward": 36.16212,
     "epsCurrentYear": 32.20799,
+    "regularMarketChangePercent": 4.2417507,
+    "regularMarketPrice": 622.98,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8676
   },
@@ -1758,94 +1758,32 @@
   },
   "news": [
     {
-      "id": "7e8ddf11-3ae7-4805-82a1-89f1144290d3",
+      "id": "61789cfb-3692-411c-9f05-ba9eae129630",
       "content": {
-        "id": "7e8ddf11-3ae7-4805-82a1-89f1144290d3",
-        "contentType": "VIDEO",
-        "title": "SpaceX, OpenAI & Anthropic IPOs: Investors should ask one question",
-        "description": "<p>Morning Brief host Julie Hyman is joined by Yahoo Finance Tech Editor Dan Howley and Investopedia Editor-in-Chief Caleb Silver to discuss the key question investors should be asking about upcoming IPOs from companies like SpaceX  (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/SPAX.PVT/\" data-i13n=\"cpos:1;pos:1\">SPAX.PVT</a>), Anthropic (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/ANTH.PVT/\" data-i13n=\"cpos:2;pos:1\">ANTH.PVT</a>), and OpenAI (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/OPAI.PVT/\" data-i13n=\"cpos:3;pos:1\">OPAI.PVT</a>), and whether retail investors are ready to buy into the hype.</p>",
-        "summary": "Morning Brief host Julie Hyman is joined by Yahoo Finance Tech Editor Dan Howley and Investopedia Editor-in-Chief Caleb Silver to discuss the key question investors should be asking about upcoming IPOs from companies like SpaceX (SPAX.PVT), Anthropic (ANTH.PVT), and OpenAI (OPAI.PVT), and whether retail investors are ready to buy into the hype.",
-        "pubDate": "2026-06-02T14:16:27Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-08/1d34faa0-7830-11f0-9bfb-8ba1877e8dd7",
-          "originalWidth": 7680,
-          "originalHeight": 4320,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hmdTFZo3_28vYpizY_W53A--~B/aD00MzIwO3c9NzY4MDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-08/1d34faa0-7830-11f0-9bfb-8ba1877e8dd7",
-              "width": 7680,
-              "height": 4320,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/V.tgODHwd4DdBoxpPxa9qw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-08/1d34faa0-7830-11f0-9bfb-8ba1877e8dd7",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/spacex-openai-anthropic-ipos-investors-141627771.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/spacex-openai-anthropic-ipos-investors-141627771.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "1770a565-d048-4c13-80db-231e2e058829",
-      "content": {
-        "id": "1770a565-d048-4c13-80db-231e2e058829",
+        "id": "61789cfb-3692-411c-9f05-ba9eae129630",
         "contentType": "STORY",
-        "title": "AI is carrying the S&P 500 rally: Chart of the Day",
+        "title": "Broadcom stock sinks after hours as AI chip sales forecast disappoints",
         "description": "",
-        "summary": "The S&P 500's rebound looks a lot thinner once AI enablers are stripped out.",
-        "pubDate": "2026-06-02T10:00:00Z",
-        "displayTime": "2026-06-02T10:00:00Z",
+        "summary": "Broadcom shares sank in after-hours following the chipmaker's quarterly results.",
+        "pubDate": "2026-06-03T16:56:02Z",
+        "displayTime": "2026-06-03T20:59:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/l.YgyCXHUn83Eg03i7Rxgw--~B/aD0yNDAxO3c9MzYwODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/1c0c8161-7a22-4c0d-b327-e2178cf60bf9",
-          "originalWidth": 3608,
-          "originalHeight": 2401,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/o4_lWM2667Nhr_spYCh7Kg--~B/aD0yNTY2O3c9Mzk4ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-1980670067_3607.jpg",
+          "originalWidth": 3988,
+          "originalHeight": 2566,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/l.YgyCXHUn83Eg03i7Rxgw--~B/aD0yNDAxO3c9MzYwODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/1c0c8161-7a22-4c0d-b327-e2178cf60bf9",
-              "width": 3608,
-              "height": 2401,
+              "url": "https://s.yimg.com/uu/api/res/1.2/o4_lWM2667Nhr_spYCh7Kg--~B/aD0yNTY2O3c9Mzk4ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-1980670067_3607.jpg",
+              "width": 3988,
+              "height": 2566,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/A2SiMhH7CGQl4BPFTK.v5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/1c0c8161-7a22-4c0d-b327-e2178cf60bf9",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ETwxjnRdRQAKL7cOVVOQVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-1980670067_3607.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1858,13 +1796,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/ai-is-carrying-the-sp-500-rally-chart-of-the-day-100000546.html",
+          "url": "https://finance.yahoo.com/markets/article/broadcom-stock-sinks-after-hours-as-ai-chip-sales-forecast-disappoints-165602275.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/ai-is-carrying-the-sp-500-rally-chart-of-the-day-100000546.html",
+          "url": "https://finance.yahoo.com/markets/article/broadcom-stock-sinks-after-hours-as-ai-chip-sales-forecast-disappoints-165602275.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1882,32 +1820,32 @@
       }
     },
     {
-      "id": "6bc7c1a2-1315-3ccb-9ff6-e2e088ce1c8f",
+      "id": "c1ada103-2db6-4fc2-a12e-1da1c21e9b18",
       "content": {
-        "id": "6bc7c1a2-1315-3ccb-9ff6-e2e088ce1c8f",
+        "id": "c1ada103-2db6-4fc2-a12e-1da1c21e9b18",
         "contentType": "STORY",
-        "title": "Meta Employee Backlash Puts AI Data Privacy And Investor Risks In Focus",
+        "title": "Meta, Microsoft, Amazon, and Alphabet are about to spend a shocking amount of money to dominate the AI era",
         "description": "",
-        "summary": "Meta Platforms (NasdaqGS:META) faces fresh employee backlash over plans to collect detailed computer usage data to train its internal AI systems. After internal protests, Meta is revising the program to let staff pause monitoring and request exemptions from the data collection tools. Rights groups are raising privacy concerns, including the possibility of future disputes in Europe over how such data is gathered and used. For you as an investor, this sits at the intersection of Meta's core...",
-        "pubDate": "2026-06-02T23:12:17Z",
-        "displayTime": "2026-06-02T23:12:17Z",
+        "summary": "The spending on AI has only just begun.",
+        "pubDate": "2026-06-03T11:53:59Z",
+        "displayTime": "2026-06-03T11:53:59Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-          "originalWidth": 1194,
-          "originalHeight": 432,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/bcDfzxAoZ6G6jCAJuUH6Aw--~B/aD00MzIyO3c9NjQ4MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2246181071_4056.jpg",
+          "originalWidth": 6483,
+          "originalHeight": 4322,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BrUhbDoJKeNJUavlZ7MvVQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-              "width": 1194,
-              "height": 432,
+              "url": "https://s.yimg.com/uu/api/res/1.2/bcDfzxAoZ6G6jCAJuUH6Aw--~B/aD00MzIyO3c9NjQ4MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2246181071_4056.jpg",
+              "width": 6483,
+              "height": 4322,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/J6fEwVETVa_jUCz0igm0HA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZHm3cAS7K2PPee37Qxuz.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2246181071_4056.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1915,18 +1853,80 @@
           ]
         },
         "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-employee-backlash-puts-ai-231217644.html",
+          "url": "https://finance.yahoo.com/sectors/technology/article/meta-microsoft-amazon-and-alphabet-are-about-to-spend-a-shocking-amount-of-money-to-dominate-the-ai-era-115359575.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-employee-backlash-puts-ai-231217644.html",
+          "url": "https://finance.yahoo.com/sectors/technology/article/meta-microsoft-amazon-and-alphabet-are-about-to-spend-a-shocking-amount-of-money-to-dominate-the-ai-era-115359575.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d77f1c02-345f-348c-be0a-1ae3ccfb833b",
+      "content": {
+        "id": "d77f1c02-345f-348c-be0a-1ae3ccfb833b",
+        "contentType": "STORY",
+        "title": "Meta lashes Australia bid to make tech giants pay for news",
+        "description": "",
+        "summary": "Tech giant Meta on Thursday attacked Australia's \"grossly unfair\" bid to make social media companies pay for news, saying it is vehemently opposed to the draft laws.\"Our position is clear: this law is poorly designed, grossly unfair, and will fail to deliver a diverse and sustainable news industry,\" said Meta, the parent company of Facebook and Instagram.",
+        "pubDate": "2026-06-03T23:15:00Z",
+        "displayTime": "2026-06-03T23:15:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/afp.com/7e36bd9eb522b770b7db76ec2c81bf32",
+          "originalWidth": 768,
+          "originalHeight": 512,
+          "caption": "Australia wants big tech companies to compensate local publishers for sharing articles that drive traffic on their platforms (Kirill KUDRYAVTSEV)",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tG7NDOcVPsPElbyI_q0rSw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/7e36bd9eb522b770b7db76ec2c81bf32",
+              "width": 768,
+              "height": 512,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/qJ9frLdJr_M_OY7x5tmncA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/7e36bd9eb522b770b7db76ec2c81bf32",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "AFP",
+          "url": "http://www.afp.com/",
+          "sourceId": "afp.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/meta-lashes-australia-bid-tech-231500013.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/meta-lashes-australia-bid-tech-231500013.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1944,94 +1944,32 @@
       }
     },
     {
-      "id": "eded62ab-0c88-3a06-bcfe-0a22a405bc41",
+      "id": "8acd43de-4f7e-315f-a150-95a29d2ceed4",
       "content": {
-        "id": "eded62ab-0c88-3a06-bcfe-0a22a405bc41",
-        "contentType": "STORY",
-        "title": "Bank of America resets Nvidia stock forecast after key event",
-        "description": "",
-        "summary": "Nvidia (NVDA) stock closed the June 1 trading session up 6.26% at $224.36. The stock is now up about 20.3% year to date, at the time of writing, Tuesday morning, June 2. Meanwhile, the SPDR S&P 500 Index (SPY) is up about 11.24% in the same period. While Nvidia was expected to outpace the ...",
-        "pubDate": "2026-06-02T22:17:00Z",
-        "displayTime": "2026-06-02T22:17:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/8fa56d8f713729ac1bb65da07115ee8f",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.KzcpSxDvD1Hq7i8GoT5gg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/8fa56d8f713729ac1bb65da07115ee8f",
-              "width": 1200,
-              "height": 675,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Feni4mqx96pKa1o3i0hqOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8fa56d8f713729ac1bb65da07115ee8f",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/bank-of-america-reiterates-buy-rating-nvidia-stock-forecast",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-nvidia-stock-221700811.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a9cfd026-f38d-3f0a-b54b-5c1d659742c3",
-      "content": {
-        "id": "a9cfd026-f38d-3f0a-b54b-5c1d659742c3",
+        "id": "8acd43de-4f7e-315f-a150-95a29d2ceed4",
         "contentType": "VIDEO",
-        "title": "Western Union, Visa, PayPal, Meta: why major payments giants are racing to Solana",
-        "description": "Kyle Samani, co-founder of Forward, breaks down his latest deal on the main stage at Solana, a minority stake in Henri, a reinsurance RWA yielding 12-13%, funded by a Galaxy debt facility at 3.5%. He makes the case for why Solana has quietly become the dominant chain for institutional payments, tokenized equities, and real world assets. From Western Union and Visa to Meta and PayPal, the biggest names in finance are all building on the same rails. Plus, why he thinks most altcoins are bleeding out, Ethereum L2s are in trouble, and why this bear market might be the best investing opportunity in crypto right now.",
-        "summary": "Kyle Samani, co-founder of Forward, breaks down his latest deal on the main stage at Solana, a minority stake in Henri, a reinsurance RWA yielding 12-13%, funded by a Galaxy debt facility at 3.5%. He makes the case for why Solana has quietly become the dominant chain for institutional payments, tokenized equities, and real world assets. From Western Union and Visa to Meta and PayPal, the biggest names in finance are all building on the same rails. Plus, why he thinks most altcoins are bleeding out, Ethereum L2s are in trouble, and why this bear market might be the best investing opportunity in crypto right now.",
-        "pubDate": "2026-06-02T21:06:16Z",
+        "title": "Wall Street ends lower as Middle East tensions escalate",
+        "description": "<title><body><p>STORY: Wall Street's main indexes tumbled on Wednesday, with the Dow losing about 1.2%, the S&P 500 shedding about three-quarters of a percent and the Nasdaq falling roughly nine-tenths of a percent.</p><p>Flaring tensions in the Middle East and rising crude prices stoked inflation jitters and convinced investors to take some profits.</p><p>Energy stocks, buoyed by oil prices, enjoyed the largest percentage gains, with Exxon Mobil and Chevron both closing higher. </p><p>Meanwhile, six of the Magnificent Seven group of megacap tech stocks ended lower, with Meta the only exception.</p><p>Liz Miller is founder and president of Summit Place Financial Advisors.</p><p>\"I more and more just keep seeing this market as a ping pong. One day we've got the momentum leading tech stocks up and then that drives all the indices up. And the next day we've got sort of the second tier undervalued companies up and the index is down. [FLASH] Today's again, one of those days where we're seeing energy with the most strength. We're seeing some of the consumer come through, some of the industrial, but techs are marginally down. And that's what I mean when I think about this market as a ping pong market, because these are high quality companies, they're large cap, they would be top tier fundamentally, but they haven't really participated as much in the index strength.\"</p><p>Among individual movers, shares of GameStop jumped 6% after the original meme stock posted a rise in quarterly revenue and unveiled a $2 billion share buyback program.</p><p>Shares of Crowdstrike, down nearly 3% at the close, dropped about another 10% in extended trading after the cyber security company reported a 15% jump in its first-quarter operating expenses as it ramps up investments in AI and product development.</p><p>And shares of Broadcom fell more than 6% in extended trading despite the company forecasting third-quarter revenue above Wall Street expectations, betting on robust demand for its custom AI chips and networking gear.</p></body></title>",
+        "summary": "<body><p>STORY: Wall Street's main indexes tumbled on Wednesday, with the Dow losing about 1.2%, the S&P 500 shedding about three-quarters of a percent and the Nasdaq falling roughly nine-tenths of a percent.</p><p>Flaring tensions in the Middle East and rising crude prices stoked inflation jitters and convinced investors to take some profits.</p><p>Energy stocks, buoyed by oil prices, enjoyed the largest percentage gains, with Exxon Mobil&nbsp;and Chevron both closing higher.&nbsp;</p><p>Meanwhile, six of the Magnificent Seven group of megacap tech stocks ended lower, with Meta the only exception.</p><p>Liz Miller is founder and president of Summit Place Financial Advisors.</p><p>\"I more and more just keep seeing this market as a ping pong. One day we've got the momentum leading tech stocks up and then that drives all the indices up. And the next day we've got sort of the second tier undervalued companies up and the index is down. [FLASH] Today's again, one of those days where we're seeing energy with the most strength.&nbsp;We're seeing some of the consumer come through, some of the industrial, but techs are marginally down.&nbsp;And that's what I mean when I think about this market as a ping pong market, because these are high quality companies, they're large cap, they would be top tier fundamentally, but they haven't really participated as much in the index strength.\"</p><p>Among individual movers, shares of GameStop jumped 6% after the original meme stock posted a rise in quarterly revenue and unveiled a $2 billion share buyback program.</p><p>Shares of Crowdstrike, down nearly 3% at the close, dropped about another 10% in extended trading after the cyber security company reported a 15% jump in its first-quarter operating expenses as it ramps up investments in AI and product development.</p><p>And shares of Broadcom fell more than 6% in extended trading despite the company forecasting third-quarter revenue above Wall Street expectations, betting on robust demand for its custom AI chips and networking gear.</p></body>",
+        "pubDate": "2026-06-03T23:07:40Z",
         "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/coindesk_75/ebbd8390d6f50f479700c64fbb34f1b4",
-          "originalWidth": 720,
-          "originalHeight": 406,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/IXJRlLg8env.pQ9pRo_mOw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/112721e7-00fe-4173-b074-d4c3cab920c7/main/1280x720/1m9s509ms/match/image.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Z3OxyJUAaPbj5jujPosS1w--~B/aD00MDY7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/ebbd8390d6f50f479700c64fbb34f1b4",
-              "width": 720,
-              "height": 406,
+              "url": "https://s.yimg.com/uu/api/res/1.2/IXJRlLg8env.pQ9pRo_mOw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/112721e7-00fe-4173-b074-d4c3cab920c7/main/1280x720/1m9s509ms/match/image.jpg",
+              "width": 1280,
+              "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jkDgaTL_ttqgJN2lst_pAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/ebbd8390d6f50f479700c64fbb34f1b4",
+              "url": "https://s.yimg.com/uu/api/res/1.2/TYfyW8lTG_NMCH1JEb6N3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/112721e7-00fe-4173-b074-d4c3cab920c7/main/1280x720/1m9s509ms/match/image.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2039,18 +1977,18 @@
           ]
         },
         "provider": {
-          "displayName": "CoinDesk",
-          "url": "https://www.coindesk.com",
-          "sourceId": "coindesk_75"
+          "displayName": "Reuters Videos",
+          "url": "http://www.reuters.com/",
+          "sourceId": "video.reutersnews.com"
         },
         "canonicalUrl": {
-          "url": "http://videos.coindesk.com/previews/n07F2dhz",
+          "url": "https://finance.yahoo.com/video/wall-street-ends-lower-middle-230740370.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/western-union-visa-paypal-meta-210616500.html",
+          "url": "https://finance.yahoo.com/video/wall-street-ends-lower-middle-230740370.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2068,208 +2006,32 @@
       }
     },
     {
-      "id": "9590f21f-cd20-3dfd-836e-296a938ecdd0",
+      "id": "04cab644-e0db-319f-855b-4a6559461b3c",
       "content": {
-        "id": "9590f21f-cd20-3dfd-836e-296a938ecdd0",
+        "id": "04cab644-e0db-319f-855b-4a6559461b3c",
         "contentType": "STORY",
-        "title": "UBS joins Meta in sending shocking message to employees",
+        "title": "US FCC plans tighter rules that will help US firms in undersea internet cable market",
         "description": "",
-        "summary": "Three years after brokering one of the most consequential emergency acquisitions in banking history, UBS is still working through what that deal cost in human terms. The latest bill arrived on May 29. Hundreds of employees across Europe, the Middle East, and Africa found out their jobs were gone. ...",
-        "pubDate": "2026-06-02T21:03:00Z",
-        "displayTime": "2026-06-02T21:03:00Z",
+        "summary": "By David Shepardson WASHINGTON, June 3 (Reuters) - The Federal Communications Commission said on Wednesday it plans to toughen oversight of submarine communications cables that handle ‌99% of",
+        "pubDate": "2026-06-03T22:59:59Z",
+        "displayTime": "2026-06-03T22:59:59Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/01ab3893952cd87ee8b1da8e6ff02c4c",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DjP7IFhRaLpddY8ZDYISvQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/01ab3893952cd87ee8b1da8e6ff02c4c",
-              "width": 1200,
-              "height": 675,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/kFbKvvr9MyNub6IMwoSLcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/01ab3893952cd87ee8b1da8e6ff02c4c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/employment/ubs-joins-meta-in-laying-off-employees",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-joins-meta-sending-shocking-210300629.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "64951ffd-609d-3ecd-b973-79cad94477b9",
-      "content": {
-        "id": "64951ffd-609d-3ecd-b973-79cad94477b9",
-        "contentType": "STORY",
-        "title": "Bad News for Alphabet Stock Is Good News for Copper Investors",
-        "description": "",
-        "summary": "Copper soared while  Alphabet  stock sank; both things were related.  The Google parent’s stock sank because of an $80 billion equity raise that included preferred stock and  Berkshire Hathaway  No one saw it coming, part of the reason for the reaction.  Alphabet needs the money to spend even more on AI and meet what it calls “unprecedented customer demand.”",
-        "pubDate": "2026-06-02T20:20:00Z",
-        "displayTime": "2026-06-02T20:20:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/64951ffd-609d-3ecd-b973-79cad94477b9/bad-news-for-alphabet-stock.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/830f0df460a4876f8fcd6d2c25263eb0",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8aUnvdht.WyyhdVt9oaHMQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/830f0df460a4876f8fcd6d2c25263eb0",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zw8Pz4.h95lk6q3axLeJAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/830f0df460a4876f8fcd6d2c25263eb0",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/alphabet-stock-copper-ai-capex-8a7f170b?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9904766d-191b-336c-af1d-f28077a237ad",
-      "content": {
-        "id": "9904766d-191b-336c-af1d-f28077a237ad",
-        "contentType": "STORY",
-        "title": "Alphabet Is Selling $80 Billion of Stock to Feed Its AI Ambitions—and the Rest of Big Tech May Follow",
-        "description": "",
-        "summary": "Alphabet plans to raise $80 billion through equity sales to fund its 2026 and 2027 capital expenditures.",
-        "pubDate": "2026-06-02T20:09:00Z",
-        "displayTime": "2026-06-02T20:09:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/9904766d-191b-336c-af1d-f28077a237ad/alphabet-is-selling-80.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/7b56317598e4402d55b6c0bc5e1c9f4d",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/gb09hgpsuJVe00lvW8V9AQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7b56317598e4402d55b6c0bc5e1c9f4d",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/w3F23m9pvwFO0tir3EKw5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/7b56317598e4402d55b6c0bc5e1c9f4d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/alphabet-google-stock-sale-ai-funding-meta-041c029b?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ebace0f5-3267-37cb-975b-a03845185ac6",
-      "content": {
-        "id": "ebace0f5-3267-37cb-975b-a03845185ac6",
-        "contentType": "STORY",
-        "title": "Exclusive-Meta scales back plan for internal mouse-tracking tech, citing staff concerns",
-        "description": "",
-        "summary": "Meta is dialing back elements of its plan to collect employee mouse movements, keystrokes and other actions ‌for use as AI training data, it said in an ‌internal memo on Tuesday, following weeks of angry pushback from staffers.  New controls will allow ​employees to pause the data collection for up to 30 minutes at a time and request exemptions from the initiative, according to the memo, authored by Stephane Kasriel, a vice president in Meta's AI model-building Superintelligence Labs ‌unit.  A Meta spokesperson declined to comment.",
-        "pubDate": "2026-06-02T20:02:17Z",
-        "displayTime": "2026-06-02T20:02:17Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/ec3b5f80aa1d5ea028cdb754e221f15b",
+          "originalUrl": "https://media.zenfs.com/en/reuters.com/e386591780dac0309beb4fef68aaa6eb",
           "originalWidth": 800,
-          "originalHeight": 534,
-          "caption": "The logo of Meta at the Meta Lab in Los Angeles",
+          "originalHeight": 533,
+          "caption": "United States Federal Communications Commission logo and U.S. flag are seen in this illustration taken April 23, 2025. REUTERS/Dado Ruvic/Illustration",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8iBiehnZyX232ibzm9q2AA--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ec3b5f80aa1d5ea028cdb754e221f15b",
+              "url": "https://s.yimg.com/uu/api/res/1.2/qyEZvAn403m2Zi0mltdodA--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e386591780dac0309beb4fef68aaa6eb",
               "width": 800,
-              "height": 534,
+              "height": 533,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VWdQJa7E03yYYALiEntDlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ec3b5f80aa1d5ea028cdb754e221f15b",
+              "url": "https://s.yimg.com/uu/api/res/1.2/r8xbzXu2fKacILL38p3Aow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e386591780dac0309beb4fef68aaa6eb",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2278,17 +2040,17 @@
         },
         "provider": {
           "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
+          "url": "https://www.reuters.com/",
+          "sourceId": "reuters.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-meta-scales-back-ai-200217489.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/us-fcc-plans-tighter-rules-225959803.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-meta-scales-back-ai-200217489.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/us-fcc-plans-tighter-rules-225959803.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2306,32 +2068,32 @@
       }
     },
     {
-      "id": "ad959208-bfcc-3946-ba4a-4e2585275e7f",
+      "id": "93033717-6949-3756-98fc-5b3eb11d52ba",
       "content": {
-        "id": "ad959208-bfcc-3946-ba4a-4e2585275e7f",
+        "id": "93033717-6949-3756-98fc-5b3eb11d52ba",
         "contentType": "STORY",
-        "title": "2 Growth Stocks to Buy and Hold for a Decade",
+        "title": "Why Meta Platforms Stock Crushed the Market Today",
         "description": "",
-        "summary": "They have outpaced the S&P 500 over the past 10 years.",
-        "pubDate": "2026-06-02T19:20:00Z",
-        "displayTime": "2026-06-02T19:20:00Z",
+        "summary": "It's rolling out a promising new product worldwide.",
+        "pubDate": "2026-06-03T22:31:08Z",
+        "displayTime": "2026-06-03T22:31:08Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4e74aa6822db19b50148aa2d04c172b8",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "Meta Platforms and Dexcom logos.",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4d0dc7912d7c0972d99c492f1a88764a",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Happy person using headphones and a phone while lying on a couch.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NTb6978yDlr2o16_5PJSAQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4e74aa6822db19b50148aa2d04c172b8",
-              "width": 1200,
-              "height": 800,
+              "url": "https://s.yimg.com/uu/api/res/1.2/s1utIcB6e_X0zw0nPPDzVQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4d0dc7912d7c0972d99c492f1a88764a",
+              "width": 1400,
+              "height": 933,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VDQrAzsPjQ1qZGxC3Ls2DQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4e74aa6822db19b50148aa2d04c172b8",
+              "url": "https://s.yimg.com/uu/api/res/1.2/IS_XZABwSA_2vYFdYmTesA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4d0dc7912d7c0972d99c492f1a88764a",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2344,13 +2106,223 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/06/02/2-growth-stocks-to-buy-and-hold-for-a-decade/",
+          "url": "https://www.fool.com/investing/2026/06/03/why-meta-platforms-stock-crushed-the-market-today/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-buy-hold-192000521.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-platforms-stock-crushed-223108629.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c5dde103-16d8-3ae2-9f94-4c5509790ac8",
+      "content": {
+        "id": "c5dde103-16d8-3ae2-9f94-4c5509790ac8",
+        "contentType": "STORY",
+        "title": "Meta (META) Stock Trades Up, Here Is Why",
+        "description": "",
+        "summary": "Shares of social network operator Meta Platforms (NASDAQ:META) jumped 3.2% in the morning session after sentiment improved following an enterprise AI product launch, and an analyst upgrade.",
+        "pubDate": "2026-06-03T22:23:33Z",
+        "displayTime": "2026-06-03T22:23:33Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+          "originalWidth": 1400,
+          "originalHeight": 700,
+          "caption": "META Cover Image",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ol.OYXaTLDXSb6x604S3Pw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+              "width": 1400,
+              "height": 700,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OJ.q7321ts98DrQRXKRU7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "StockStory",
+          "url": "https://stockstory.org/",
+          "sourceId": "stockstory_922"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-trades-why-222333910.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-trades-why-222333910.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "433d9342-8bcf-3b96-ae3c-b112937d829f",
+      "content": {
+        "id": "433d9342-8bcf-3b96-ae3c-b112937d829f",
+        "contentType": "STORY",
+        "title": "Stock Market Today, June 3: Alphabet Falls After $84.75 Billion AI Infrastructure Equity Raise",
+        "description": "",
+        "summary": "Alphabet is funding a larger AI buildout, leaving shareholders to weigh whether Gemini usage and Google Cloud demand can translate into stronger cash-flow returns.",
+        "pubDate": "2026-06-03T21:07:41Z",
+        "displayTime": "2026-06-03T21:07:41Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c725e380a362ed46d20e0a5dd798ee91",
+          "originalWidth": 800,
+          "originalHeight": 714,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/qHQTarcXEJw1TRIKhaTIDw--~B/aD03MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c725e380a362ed46d20e0a5dd798ee91",
+              "width": 800,
+              "height": 714,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2G5H3GKtURSM2jMubuSAAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c725e380a362ed46d20e0a5dd798ee91",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/06/03/stock-market-today-june-3-alphabet-falls-after-usd84-75-billion-ai-infrastructure-equity-raise/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-3-210741278.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "581ae72c-a8d9-3cd1-b35c-e186a08152c4",
+      "content": {
+        "id": "581ae72c-a8d9-3cd1-b35c-e186a08152c4",
+        "contentType": "STORY",
+        "title": "Meta Wins Marketplace Relief As EU Keeps Messenger Under DMA",
+        "description": "",
+        "summary": "Meta's partial court win eases Marketplace pressure, but Messenger remains under Europe's Big Tech rulebook.",
+        "pubDate": "2026-06-03T20:12:58Z",
+        "displayTime": "2026-06-03T20:12:58Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-wins-marketplace-relief-eu-201258709.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-wins-marketplace-relief-eu-201258709.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8b929935-d1b7-3884-826c-7f94c3caf3a1",
+      "content": {
+        "id": "8b929935-d1b7-3884-826c-7f94c3caf3a1",
+        "contentType": "STORY",
+        "title": "Broadcom Adds $280 Billion Before Earnings as AI Rally Faces Test",
+        "description": "",
+        "summary": "Chip giant heads into earnings after a 65% rebound and rising AI spending expectations.",
+        "pubDate": "2026-06-03T20:12:43Z",
+        "displayTime": "2026-06-03T20:12:43Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-adds-280-billion-earnings-201243662.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-adds-280-billion-earnings-201243662.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
