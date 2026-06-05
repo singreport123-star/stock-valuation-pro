@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-06-04T23:03:31.462402",
+    "ts": "2026-06-05T23:00:50.531645",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 622.98,
-    "open": 623.67,
-    "dayLow": 622.6,
-    "dayHigh": 642.33,
-    "regularMarketPreviousClose": 622.98,
-    "regularMarketOpen": 623.67,
-    "regularMarketDayLow": 622.6,
-    "regularMarketDayHigh": 642.33,
+    "previousClose": 627.57,
+    "open": 623.46,
+    "dayLow": 582.94,
+    "dayHigh": 629.04,
+    "regularMarketPreviousClose": 627.57,
+    "regularMarketOpen": 623.46,
+    "regularMarketDayLow": 582.94,
+    "regularMarketDayHigh": 629.04,
     "dividendRate": 2.1,
-    "dividendYield": 0.34,
+    "dividendYield": 0.33,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
-    "beta": 1.243,
-    "trailingPE": 22.84565,
-    "forwardPE": 17.354347,
-    "volume": 20953095,
-    "regularMarketVolume": 20953095,
+    "beta": 1.229,
+    "trailingPE": 21.57148,
+    "forwardPE": 16.398375,
+    "volume": 29459912,
+    "regularMarketVolume": 29459912,
     "averageVolume": 16343579,
     "averageVolume10days": 17881500,
     "averageDailyVolume10Day": 17881500,
-    "bid": 625.26,
-    "ask": 626.74,
+    "bid": 593.87,
+    "ask": 594.19,
     "bidSize": 2,
-    "askSize": 2,
-    "marketCap": 1593038340096,
-    "nonDilutedMarketCap": 1524247041352,
+    "askSize": 1,
+    "marketCap": 1505284980736,
+    "nonDilutedMarketCap": 1581386949925,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.410756,
+    "priceToSalesTrailing12Months": 7.0025306,
     "fiftyDayAverage": 618.8652,
     "twoHundredDayAverage": 663.9397,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0033708946,
+    "trailingAnnualDividendYield": 0.0033462401,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1586975997952,
+    "enterpriseValue": 1598627250176,
     "profitMargins": 0.32837,
     "floatShares": 2192715434,
     "sharesOutstanding": 2196045588,
@@ -189,23 +189,23 @@
     "shortPercentOfFloat": 0.0146,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.5363026,
+    "priceToBook": 6.176247,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.47,
+    "trailingEps": 27.49,
     "forwardEps": 36.16212,
     "pegRatio": 0.86,
-    "enterpriseToRevenue": 7.383,
-    "enterpriseToEbitda": 14.518,
+    "enterpriseToRevenue": 7.437,
+    "enterpriseToEbitda": 14.625,
     "52WeekChange": -0.09003532,
     "SandP52WeekChange": 0.27181315,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
-    "currentPrice": 627.57,
+    "currentPrice": 593.0,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 700.0,
     "targetMeanPrice": 828.798,
@@ -240,9 +240,19 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "corporateActions": [],
-    "postMarketTime": 1780614197,
-    "regularMarketTime": 1780603200,
+    "corporateActions": [
+      {
+        "header": "Dividend",
+        "message": "META announced a cash dividend of $0.525 with an ex-date of Jun. 15, 2026",
+        "meta": {
+          "eventType": "DIVIDEND",
+          "dateEpochMs": 1781496000000,
+          "amount": "0.525"
+        }
+      }
+    ],
+    "postMarketTime": 1780700446,
+    "regularMarketTime": 1780689601,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -250,39 +260,20 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketPrice": 627.57,
-    "regularMarketChangePercent": 0.73678565,
-    "marketState": "POST",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "epsForward": 36.16212,
-    "epsCurrentYear": 32.20799,
-    "priceEpsCurrentYear": 19.484917,
-    "fiftyDayAverageChange": 8.704834,
-    "fiftyDayAverageChangePercent": 0.0140658,
-    "twoHundredDayAverageChange": -36.36969,
-    "twoHundredDayAverageChangePercent": -0.054778606,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-06-04",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.4796293,
-    "postMarketPrice": 624.56,
-    "postMarketChange": -3.0100098,
-    "regularMarketChange": 4.590027,
-    "regularMarketDayRange": "622.6 - 642.33",
+    "postMarketChangePercent": -0.40472588,
+    "postMarketPrice": 590.6,
+    "postMarketChange": -2.4000244,
+    "regularMarketChange": -34.570007,
+    "regularMarketDayRange": "582.94 - 629.04",
     "fullExchangeName": "NasdaqGS",
     "averageDailyVolume3Month": 16343579,
-    "fiftyTwoWeekLowChange": 107.31,
-    "fiftyTwoWeekLowChangePercent": 0.20626225,
+    "fiftyTwoWeekLowChange": 72.73999,
+    "fiftyTwoWeekLowChangePercent": 0.13981469,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -168.68,
-    "fiftyTwoWeekHighChangePercent": -0.211843,
+    "fiftyTwoWeekHighChange": -203.25,
+    "fiftyTwoWeekHighChangePercent": -0.25525904,
     "fiftyTwoWeekChangePercent": -9.003532,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
@@ -291,9 +282,28 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.47,
+    "epsTrailingTwelveMonths": 27.49,
+    "epsForward": 36.16212,
+    "epsCurrentYear": 32.20799,
+    "priceEpsCurrentYear": 18.411581,
+    "fiftyDayAverageChange": -25.865173,
+    "fiftyDayAverageChangePercent": -0.04179452,
+    "twoHundredDayAverageChange": -70.9397,
+    "twoHundredDayAverageChangePercent": -0.10684659,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-06-05",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "marketState": "POST",
+    "regularMarketChangePercent": -5.5085497,
+    "regularMarketPrice": 593.0,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8676
+    "trailingPegRatio": 0.9067
   },
   "financial_statements": {
     "income": {
@@ -1766,32 +1776,32 @@
   },
   "news": [
     {
-      "id": "66029ebd-0ed8-49d7-a50f-02c55932fe92",
+      "id": "dabddf38-d6f6-4a77-922e-0e116381a6c8",
       "content": {
-        "id": "66029ebd-0ed8-49d7-a50f-02c55932fe92",
-        "contentType": "VIDEO",
-        "title": "Why Meta is delaying its latest AI model release",
-        "description": "<p>Yahoo Finance Tech Editor Dan Howley joins Josh Lipton on Market Domination to discuss Meta's (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/META/\" data-i13n=\"slk:META;cpos:1;pos:1\">META</a>) decision to delay the release of its latest AI model and what the move means for the company's AI ambitions.</p>",
-        "summary": "Yahoo Finance Tech Editor Dan Howley joins Josh Lipton on Market Domination to discuss Meta's (META) decision to delay the release of its latest AI model and what the move means for the company's AI ambitions.",
-        "pubDate": "2026-06-04T20:16:21Z",
-        "displayTime": "",
+        "id": "dabddf38-d6f6-4a77-922e-0e116381a6c8",
+        "contentType": "STORY",
+        "title": "Tech stocks today: Nvidia stock drops 6% in ugly day for chip stocks",
+        "description": "",
+        "summary": "This week, tech investors will be watching chip and cybersecurity earnings, the impact of AI on labor market data, and the Computex annual chip summit.",
+        "pubDate": "2026-06-01T10:00:00Z",
+        "displayTime": "2026-06-05T22:43:41Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-02/50c9bb50-eb25-11ef-b459-cd932a80d96e",
-          "originalWidth": 6000,
-          "originalHeight": 4000,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/OLg3bv8agoMFZwtOSgfAog--~B/aD0xOTg2O3c9Mjk3OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/86f35e4d-d28d-4ea8-8cf2-1debcab7e233",
+          "originalWidth": 2979,
+          "originalHeight": 1986,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/73n..ubuP_OxwZI_DWa0zw--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-02/50c9bb50-eb25-11ef-b459-cd932a80d96e",
-              "width": 6000,
-              "height": 4000,
+              "url": "https://s.yimg.com/uu/api/res/1.2/OLg3bv8agoMFZwtOSgfAog--~B/aD0xOTg2O3c9Mjk3OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/86f35e4d-d28d-4ea8-8cf2-1debcab7e233",
+              "width": 2979,
+              "height": 1986,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/utXGVxGjW_7NuoQFPh3z5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-02/50c9bb50-eb25-11ef-b459-cd932a80d96e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/FmItGio6bwJv0tXpmUd8wQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/86f35e4d-d28d-4ea8-8cf2-1debcab7e233",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1799,18 +1809,18 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/why-meta-delaying-latest-ai-201621155.html",
+          "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-stock-drops-6-in-ugly-day-for-chip-stocks-100000734.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/why-meta-delaying-latest-ai-201621155.html",
+          "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-stock-drops-6-in-ugly-day-for-chip-stocks-100000734.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1828,39 +1838,39 @@
           "storylineItems": [
             {
               "content": {
-                "id": "61789cfb-3692-411c-9f05-ba9eae129630",
-                "contentType": "STORY",
+                "id": "6c4eec41-1975-449d-91b0-fe14ccbc6d73",
+                "contentType": "VIDEO",
                 "isHosted": true,
-                "title": "Broadcom stock sinks 12% as AI chip forecast disappoints",
+                "title": "Meta weighs big equity raising after blockbuster Google deal",
                 "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/o4_lWM2667Nhr_spYCh7Kg--~B/aD0yNTY2O3c9Mzk4ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-1980670067_3607.jpg",
-                  "originalWidth": 3988,
-                  "originalHeight": 2566,
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/AJ6Xduf8SNrzmsMrkHcKAw--~B/aD01MTg7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/943680ac-28da-42bc-b512-8836d4bf2443",
+                  "originalWidth": 800,
+                  "originalHeight": 518,
                   "caption": "",
                   "resolutions": null
                 },
                 "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
+                  "displayName": "Yahoo Finance Video",
+                  "sourceId": "video.yahoofinance.com"
                 },
                 "previewUrl": null,
                 "providerContentUrl": "",
                 "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/broadcom-stock-sinks-12-as-ai-chip-forecast-disappoints-165602082.html"
+                  "url": "https://finance.yahoo.com/video/meta-weighs-big-equity-raising-after-blockbuster-google-deal-201653156.html"
                 },
                 "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/broadcom-stock-sinks-12-as-ai-chip-forecast-disappoints-165602082.html"
+                  "url": "https://finance.yahoo.com/video/meta-weighs-big-equity-raising-after-blockbuster-google-deal-201653156.html"
                 }
               }
             },
             {
               "content": {
-                "id": "9a62de11-8a16-4665-8346-1be08d5daa7e",
+                "id": "b2520022-ced4-4fca-9c65-45f81fad678c",
                 "contentType": "STORY",
                 "isHosted": true,
-                "title": "Alphabet and Nvidia reveal a surprising truth about the 'Magnificent 7' stocks",
+                "title": "Meta stock sinks 6% on report of stock sale",
                 "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/JUkSZu2i84jy_BNPeTsbPQ--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/20d300da-7754-437d-b3d8-c3606136f834",
+                  "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2023-04/2184a690-df2c-11ed-bf5f-bc38c45ba07c",
                   "originalWidth": 6000,
                   "originalHeight": 4000,
                   "caption": "",
@@ -1873,10 +1883,10 @@
                 "previewUrl": null,
                 "providerContentUrl": "",
                 "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/sectors/technology/article/alphabet-and-nvidia-reveal-a-surprising-truth-about-the-magnificent-7-stocks-135842197.html"
+                  "url": "https://finance.yahoo.com/news/meta-stock-sinks-6-on-report-of-stock-sale-191648412.html"
                 },
                 "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/sectors/technology/article/alphabet-and-nvidia-reveal-a-surprising-truth-about-the-magnificent-7-stocks-135842197.html"
+                  "url": "https://finance.yahoo.com/news/meta-stock-sinks-6-on-report-of-stock-sale-191648412.html"
                 }
               }
             }
@@ -1885,32 +1895,32 @@
       }
     },
     {
-      "id": "54e4d536-a501-3a07-9a7a-91df66ea3b77",
+      "id": "f632fb08-2740-32e3-beec-2320e12b5485",
       "content": {
-        "id": "54e4d536-a501-3a07-9a7a-91df66ea3b77",
+        "id": "f632fb08-2740-32e3-beec-2320e12b5485",
         "contentType": "STORY",
-        "title": "Corning’s AI Fiber Deals With Meta And Nvidia Recast Growth And Risks",
+        "title": "Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",
         "description": "",
-        "summary": "Corning (NYSE:GLW) has signed multi-year agreements to supply optical connectivity solutions for AI infrastructure to large customers including Meta. The company has also entered a technology and manufacturing partnership with Nvidia focused on AI data center connectivity. These arrangements are tied to a plan to expand Corning's U.S. manufacturing capacity for optical communications used in AI data centers. Corning is best known for specialty glass and optical communications products that...",
-        "pubDate": "2026-06-04T22:12:34Z",
-        "displayTime": "2026-06-04T22:12:34Z",
+        "summary": "Nasdaq, S&P 500 and Dow Jones indices all ended the week ending June 5, lower.",
+        "pubDate": "2026-06-05T21:53:17Z",
+        "displayTime": "2026-06-05T21:53:17Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8",
-          "originalWidth": 1194,
-          "originalHeight": 432,
+          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/f8f427fa769a1738daf8170a1b4d8545",
+          "originalWidth": 1280,
+          "originalHeight": 853,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6uAsO.rEcrE.nmLBY.t5jw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8",
-              "width": 1194,
-              "height": 432,
+              "url": "https://s.yimg.com/uu/api/res/1.2/kEqnkhV83l5CwB18YnGoFg--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/f8f427fa769a1738daf8170a1b4d8545",
+              "width": 1280,
+              "height": 853,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rqlbN5RiPu1vlRU9ouAYXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8",
+              "url": "https://s.yimg.com/uu/api/res/1.2/HCKvp.Xl4ln4V6WI.Cv1Kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/f8f427fa769a1738daf8170a1b4d8545",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1918,18 +1928,18 @@
           ]
         },
         "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
+          "displayName": "Stocktwits",
+          "url": "Stocktwits",
+          "sourceId": "stocktwits_383"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/corning-ai-fiber-deals-meta-221234692.html",
+          "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-posts-worst-drop-since-april-2025-s-and-p-500-and-dow-drop-as-strong-jobs-data-ignites-rate-hike-bets-tsla-gme-meta-ba-mstr-in-focus/cZ0FUXKReCv",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/corning-ai-fiber-deals-meta-221234692.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-posts-worst-drop-since-215317112.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1947,94 +1957,32 @@
       }
     },
     {
-      "id": "d39fed4c-a7ad-3811-87fa-57e908cabe78",
+      "id": "d3a0fe08-243a-319c-ac01-62dbee0b509f",
       "content": {
-        "id": "d39fed4c-a7ad-3811-87fa-57e908cabe78",
+        "id": "d3a0fe08-243a-319c-ac01-62dbee0b509f",
         "contentType": "STORY",
-        "title": "Vistra Reshapes Growth With Cogentrix Deal And AI Data Center Power",
+        "title": "Meta Wants AI Agents to Become Its Next Ad Business",
         "description": "",
-        "summary": "Vistra (NYSE:VST) has completed its acquisition of Cogentrix natural gas assets, expanding its power generation footprint. The company is growing long-term nuclear power agreements, including a new arrangement to supply Meta's data center needs. Vistra is working to restart the Perry nuclear plant, adding more baseload capacity for AI driven electricity demand. Vistra enters this phase of expansion with its stock at $153.7 and a very large 5 year return, reflecting a major change in the...",
-        "pubDate": "2026-06-04T21:19:30Z",
-        "displayTime": "2026-06-04T21:19:30Z",
+        "summary": "Meta launched its business-facing AI agents across its three biggest platforms Wednesday, laying the groundwork for a revenue model that could go well beyond ads.",
+        "pubDate": "2026-06-05T21:44:15Z",
+        "displayTime": "2026-06-05T21:44:15Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/852b74a8bd0e41fb236f1fd0b6b54e56",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/moby_896/9d0f7efd49e993c80b597fe277315cac",
+          "originalWidth": 928,
+          "originalHeight": 1152,
+          "caption": "Meta Wants AI Agents to Become Its Next Ad Business",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AGoRt2TQmYk67gEjukdKvA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/852b74a8bd0e41fb236f1fd0b6b54e56",
-              "width": 1194,
-              "height": 432,
+              "url": "https://s.yimg.com/uu/api/res/1.2/v.bfLE_MZcteA9LGkYDC_g--~B/aD0xMTUyO3c9OTI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moby_896/9d0f7efd49e993c80b597fe277315cac",
+              "width": 928,
+              "height": 1152,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dczrAcRoyB0Xsa1.BpKZgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/852b74a8bd0e41fb236f1fd0b6b54e56",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/energy/articles/vistra-reshapes-growth-cogentrix-deal-211930921.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/energy/articles/vistra-reshapes-growth-cogentrix-deal-211930921.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a8160fe5-aafc-3e16-9a49-bfcb86790b0d",
-      "content": {
-        "id": "a8160fe5-aafc-3e16-9a49-bfcb86790b0d",
-        "contentType": "STORY",
-        "title": "Ciena Corporation Q2 2026 Earnings Call Summary",
-        "description": "",
-        "summary": "Moby summary of Ciena Corporation's Q2 2026 earnings call",
-        "pubDate": "2026-06-04T20:51:16Z",
-        "displayTime": "2026-06-04T20:51:16Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/moby_896/420c5b4342152de4cab499acac28f20e",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "caption": "Ciena Corporation Q2 2026 Earnings Call Summary",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tCN0I0AcU122jVkT65LPQw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moby_896/420c5b4342152de4cab499acac28f20e",
-              "width": 1200,
-              "height": 675,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IWwl4ZxLKkTMrHlNl9FT5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/420c5b4342152de4cab499acac28f20e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/K.Pqzum4jckTQ4dTNNftcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/9d0f7efd49e993c80b597fe277315cac",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2047,13 +1995,13 @@
           "sourceId": "moby_896"
         },
         "canonicalUrl": {
-          "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ciena-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+          "url": "https://app.moby.co/home/news/news-meta-wants-ai-agents-to-become-its-next-ad-business?utm_source=yahoo_finance&utm_medium=rss",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-corporation-q2-2026-earnings-205116953.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-wants-ai-agents-become-214415421.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2071,180 +2019,32 @@
       }
     },
     {
-      "id": "b6dbf799-312c-3db3-bc44-759669a43ec9",
+      "id": "a77a6380-186b-3d6c-9714-bd193860d041",
       "content": {
-        "id": "b6dbf799-312c-3db3-bc44-759669a43ec9",
+        "id": "a77a6380-186b-3d6c-9714-bd193860d041",
         "contentType": "STORY",
-        "title": "Major tech IPOs fetch mixed results — remember that as SpaceX, OpenAI listings loom",
+        "title": "Chips sector bloodbath drags Nasdaq down 4.2%",
         "description": "",
-        "summary": "Mega IPOs from SpaceX, Anthropic, and OpenAI are already turning heads on Wall Street and Main Street, expected to fetch some of the steepest valuations in the history of U.S. markets. However, those banking on these IPOs being a guaranteed payday might want to revisit those assumptions. Despite ...",
-        "pubDate": "2026-06-04T20:23:47Z",
-        "displayTime": "2026-06-04T20:23:47Z",
+        "summary": "Tech stocks plunged Friday amid rising bond yields and concerns about the massive growth expectations that have been fueling the AI trade .",
+        "pubDate": "2026-06-05T21:44:12Z",
+        "displayTime": "2026-06-05T21:44:12Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/5857ebfe15a5af04d0402437e9665d1e",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/cN99jIsU0zqqbe3UGRzJ5g--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/5857ebfe15a5af04d0402437e9665d1e",
-              "width": 1200,
-              "height": 675,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8MxQb8x_nBotXfhcCMTMLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/5857ebfe15a5af04d0402437e9665d1e",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/major-tech-ipos-fetch-mixed-results-remember-that-as-spacex-openai-listings-loom",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/major-tech-ipos-fetch-mixed-202347202.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "44bce913-37f9-31f8-b9c8-31d5e7e0d61c",
-      "content": {
-        "id": "44bce913-37f9-31f8-b9c8-31d5e7e0d61c",
-        "contentType": "STORY",
-        "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-        "description": "",
-        "summary": "Tech stocks were lower late Thursday afternoon, with the State Street Technology Select Sector SPDR",
-        "pubDate": "2026-06-04T19:50:23Z",
-        "displayTime": "2026-06-04T19:50:23Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-fall-afternoon-195023232.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-fall-afternoon-195023232.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "4f4ce551-bbb3-3352-a8f2-2cf1a3123f21",
-      "content": {
-        "id": "4f4ce551-bbb3-3352-a8f2-2cf1a3123f21",
-        "contentType": "STORY",
-        "title": "AI Power Boom Revives Natural Gas as Infrastructure Bet",
-        "description": "",
-        "summary": "(Bloomberg) -- A surge in electricity demand from artificial intelligence and data centers is reshaping North America’s power markets, creating a “renaissance” for natural gas after decades of limited new development, according to KKR & Co. partner Brandon Freiman.Most Read from BloombergGlazer Family Members Study Manchester United Stake SaleRepublican-Led House Votes to Stop Iran War, Rebuking TrumpTrump Begins Rebuilding His Tariff Wall, Citing Forced LaborDow Average Hits Peak as Old-School",
-        "pubDate": "2026-06-04T19:08:19Z",
-        "displayTime": "2026-06-04T19:08:19Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/energy/articles/ai-power-boom-revives-natural-190819348.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/energy/articles/ai-power-boom-revives-natural-190819348.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "3ad110d6-6553-3008-9964-6043b35d9a80",
-      "content": {
-        "id": "3ad110d6-6553-3008-9964-6043b35d9a80",
-        "contentType": "STORY",
-        "title": "AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now?",
-        "description": "",
-        "summary": "Shares of Advanced Micro Devices (NASDAQ:AMD) are pulling back slightly midday Thursday, but the stock’s run over the past month has been historic. AMD stock is up 55% over the past month, compared with just 17% for Intel (NASDAQ:INTC) stock. That kind of gap raises a fair question for Intel’s loyal shareholders. Should Intel stockholders ... AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now?",
-        "pubDate": "2026-06-04T18:56:50Z",
-        "displayTime": "2026-06-04T18:56:50Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/4606206ec68e130b309a25d56899fafa",
+          "originalUrl": "https://media.zenfs.com/en/axios_527/6ce5bfa2de3976f019d4438a5b5a091e",
           "originalWidth": 1366,
           "originalHeight": 768,
-          "caption": "",
+          "caption": "Illustration: Sarah Grillo/Axios",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ln2URjJBtwA96Aax.FgIKg--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/4606206ec68e130b309a25d56899fafa",
+              "url": "https://s.yimg.com/uu/api/res/1.2/eGZVar.iEliRy1G2njWJng--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/axios_527/6ce5bfa2de3976f019d4438a5b5a091e",
               "width": 1366,
               "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/F7Q7Y2Iirg1Yd1F7I.mlbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4606206ec68e130b309a25d56899fafa",
+              "url": "https://s.yimg.com/uu/api/res/1.2/A6ulffw8CjQOQyxGFUxckQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/axios_527/6ce5bfa2de3976f019d4438a5b5a091e",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2252,18 +2052,18 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Axios",
+          "url": "https://www.axios.com/",
+          "sourceId": "axios_527"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/04/amd-is-up-55-in-a-month-and-trouncing-intel-should-intel-stockholders-switch-to-amd-now/",
+          "url": "https://www.axios.com/2026/06/05/stocks-nasdaq-tech-stocks#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-55-month-trouncing-intel-185650778.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chips-sector-bloodbath-drags-nasdaq-214412255.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2281,32 +2081,89 @@
       }
     },
     {
-      "id": "4ee39757-898f-3153-8a3c-b409614efc42",
+      "id": "302d8b24-1833-35ef-ad06-42ab4d3eb8bb",
       "content": {
-        "id": "4ee39757-898f-3153-8a3c-b409614efc42",
+        "id": "302d8b24-1833-35ef-ad06-42ab4d3eb8bb",
         "contentType": "STORY",
-        "title": "If You Bought SOXQ During the March 2026 Selloff, You’re Sitting on a Triple-Digit Year",
+        "title": "Meta Stock Falls. Is the Facebook Parent Following Alphabet’s Playbook?",
         "description": "",
-        "summary": "A position in the Invesco PHLX Semiconductor ETF (NASDAQ:SOXQ) bought at the close on May 29, 2025 for $38.08 was worth $101.03 on May 29, 2026, a 165% twelve-month gain on a low-cost, plain-vanilla index fund that anyone with a brokerage account could have bought. Run that back to inception in June 2021 and the ... If You Bought SOXQ During the March 2026 Selloff, You’re Sitting on a Triple-Digit Year",
-        "pubDate": "2026-06-04T18:20:54Z",
-        "displayTime": "2026-06-04T18:20:54Z",
+        "summary": "Meta stock falls with company executives reportedly considering a stock sale to raise tens of billions of dollars for AI spending.",
+        "pubDate": "2026-06-05T20:48:00Z",
+        "displayTime": "2026-06-05T20:48:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/302d8b24-1833-35ef-ad06-42ab4d3eb8bb/meta-stock-falls-is-the.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/5a4c898bad6d3a1fe3247f3ead275ecb",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/a5YJd0s5HKvkVDsSVarulQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5a4c898bad6d3a1fe3247f3ead275ecb",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ccJR2sH8xbbARwxRjQhV5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/5a4c898bad6d3a1fe3247f3ead275ecb",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/meta-stock-facebook-alphabet-ai-d43cca4b?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "db08f9dd-93ac-3b4b-bc53-7bfb3a03ae75",
+      "content": {
+        "id": "db08f9dd-93ac-3b4b-bc53-7bfb3a03ae75",
+        "contentType": "STORY",
+        "title": "What Is The Biggest Threat To Google Stock?",
+        "description": "",
+        "summary": "After a historic run, the biggest vulnerability for the company may not be a new threat but the extraordinary cost of maintaining its own success.",
+        "pubDate": "2026-06-05T20:07:03Z",
+        "displayTime": "2026-06-05T20:07:03Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
-          "originalWidth": 1500,
-          "originalHeight": 843,
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/1536828999770c2054f81ebe8edeb67d",
+          "originalWidth": 1024,
+          "originalHeight": 1024,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/X3LR8vJySqM2Zuq5WJpCbw--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
-              "width": 1500,
-              "height": 843,
+              "url": "https://s.yimg.com/uu/api/res/1.2/fgiK1rMKbFtIz5prMPEzxQ--~B/aD0xMDI0O3c9MTAyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/1536828999770c2054f81ebe8edeb67d",
+              "width": 1024,
+              "height": 1024,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/T4wip9U9r8N5ZzUy_59rtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
+              "url": "https://s.yimg.com/uu/api/res/1.2/EF_.F4isJWYLS5peIeg_Sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/1536828999770c2054f81ebe8edeb67d",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2314,18 +2171,18 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/",
+          "sourceId": "trefis_142"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/04/if-you-bought-soxq-during-the-march-2026-selloff-youre-sitting-on-a-triple-digit-year/",
+          "url": "https://www.trefis.com/articles/601606/the-real-risk-inside-alphabet-stock/2026-06-05",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bought-soxq-during-march-2026-182054273.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-threat-google-stock-200703209.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2343,15 +2200,15 @@
       }
     },
     {
-      "id": "f7287c48-4f7f-3047-a82f-901d054ea5cb",
+      "id": "0f06c1c7-781e-33fd-aae5-9bc90e899485",
       "content": {
-        "id": "f7287c48-4f7f-3047-a82f-901d054ea5cb",
+        "id": "0f06c1c7-781e-33fd-aae5-9bc90e899485",
         "contentType": "STORY",
-        "title": "Sector Update: Tech Stocks Fall Thursday Afternoon",
+        "title": "Sector Update: Tech Stocks Lower Late Afternoon",
         "description": "",
-        "summary": "Tech stocks were lower Thursday afternoon, with the State Street Technology Select Sector SPDR ETF (",
-        "pubDate": "2026-06-04T17:44:10Z",
-        "displayTime": "2026-06-04T17:44:10Z",
+        "summary": "Tech stocks were lower late Friday afternoon, with the State Street Technology Select Sector SPDR ET",
+        "pubDate": "2026-06-05T19:41:43Z",
+        "displayTime": "2026-06-05T19:41:43Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -2362,13 +2219,13 @@
           "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-thursday-174410931.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-lower-afternoon-194143092.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-thursday-174410931.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-lower-afternoon-194143092.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2379,6 +2236,154 @@
         "finance": {
           "premiumFinance": {
             "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c6e78ce4-0637-3743-a057-44ba6a41c174",
+      "content": {
+        "id": "c6e78ce4-0637-3743-a057-44ba6a41c174",
+        "contentType": "STORY",
+        "title": "META Stock Drops Nearly 7% In Afternoon Trading — Here’s What’s Driving The Selloff",
+        "description": "",
+        "summary": "A report says Meta is exploring a potential equity raise as AI infrastructure spending ramps up and capital needs grow.",
+        "pubDate": "2026-06-05T19:37:26Z",
+        "displayTime": "2026-06-05T19:37:26Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/1b31f1150b074ea0be09e0801105276a",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eoDYGIuRuI7grpugcIfOMQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/1b31f1150b074ea0be09e0801105276a",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2fvCqPoPMD0J6uLz7MvzxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/1b31f1150b074ea0be09e0801105276a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Stocktwits",
+          "url": "Stocktwits",
+          "sourceId": "stocktwits_383"
+        },
+        "canonicalUrl": {
+          "url": "https://stocktwits.com/news-articles/markets/equity/meta-explores-equity-raise-to-fund-ai-expansion-stock-falls/cZ0FuA7ReCr",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-drops-nearly-7-193726297.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5b88bc44-4039-336a-bcdc-6c60c1d6a129",
+      "content": {
+        "id": "5b88bc44-4039-336a-bcdc-6c60c1d6a129",
+        "contentType": "STORY",
+        "title": "Market Chatter: Meta Weighing Tens of Billions in Stock Offering to Fund AI Ambitions",
+        "description": "",
+        "summary": "Meta Platforms (META) is mulling raising tens of billions of dollars through a share sale to fund su",
+        "pubDate": "2026-06-05T18:56:01Z",
+        "displayTime": "2026-06-05T18:56:01Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-weighing-tens-185601599.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-weighing-tens-185601599.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6cab8c54-e490-361d-9db7-b8ce308996b0",
+      "content": {
+        "id": "6cab8c54-e490-361d-9db7-b8ce308996b0",
+        "contentType": "STORY",
+        "title": "Meta stock tumbles on report of potential equity raise",
+        "description": "",
+        "summary": "Investing.com -- Meta Platforms (NASDAQ:META) shares fell 7% on Friday after the Financial Times reported the company is considering a major equity raise to fund its artificial intelligence infrastructure.",
+        "pubDate": "2026-06-05T18:52:44Z",
+        "displayTime": "2026-06-05T18:52:44Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-tumbles-report-potential-185244540.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-tumbles-report-potential-185244540.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
             "isPremiumFreeNews": false
           }
         },

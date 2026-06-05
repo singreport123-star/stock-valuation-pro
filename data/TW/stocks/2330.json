@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-06-04T23:03:26.025161"
+    "ts": "2026-06-05T23:00:45.055520"
   },
   "financials": {
     "annual": {
@@ -23099,6 +23099,41 @@
         "buy": 13795418,
         "name": "Foreign_Investor",
         "sell": 25051470
+      },
+      {
+        "date": "2026-06-05",
+        "stock_id": "2330",
+        "buy": 10086203,
+        "name": "Foreign_Investor",
+        "sell": 27925784
+      },
+      {
+        "date": "2026-06-05",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-06-05",
+        "stock_id": "2330",
+        "buy": 598500,
+        "name": "Dealer_self",
+        "sell": 963900
+      },
+      {
+        "date": "2026-06-05",
+        "stock_id": "2330",
+        "buy": 1568504,
+        "name": "Dealer_Hedging",
+        "sell": 686294
+      },
+      {
+        "date": "2026-06-05",
+        "stock_id": "2330",
+        "buy": 3142206,
+        "name": "Investment_Trust",
+        "sell": 241778
       }
     ],
     "margin_trading": [],
@@ -23106,32 +23141,32 @@
   },
   "news": [
     {
-      "id": "f98832cb-f6af-3a8c-8e9a-af0cdb7a76af",
+      "id": "c6a58b0e-b550-3396-b7f7-f8f91e6a8172",
       "content": {
-        "id": "f98832cb-f6af-3a8c-8e9a-af0cdb7a76af",
+        "id": "c6a58b0e-b550-3396-b7f7-f8f91e6a8172",
         "contentType": "STORY",
-        "title": "TSMC Forecasts Sustained AI Chip Demand",
+        "title": "TSMC CEO sends blunt message to memory chip rivals",
         "description": "",
-        "summary": "TSM stock rose on Thursday after the company's annual shareholders' meeting.  At the meeting, Chief Executive C.C. Wei said the contract chipmaker, better known as TSMC, won't be able to fulfill demand over the next few years, even as more manufacturing capacity comes online, Bloomberg reported.  \"It will be a long time before we can meet customer demand,\" Wei said.",
-        "pubDate": "2026-06-04T20:35:33Z",
-        "displayTime": "2026-06-04T20:35:33Z",
-        "isHosted": false,
+        "summary": "One of the most important chipmakers on the planet could be squeezing its customers right now, as the AI shortage gives it every excuse. But its CEO said he won’t. Taiwan Semiconductor Manufacturing (CSMC) Chief Executive Officer, C.C. Wei, used the company’s annual shareholder meeting in Hsinchu, ...",
+        "pubDate": "2026-06-05T19:37:00Z",
+        "displayTime": "2026-06-05T19:37:00Z",
+        "isHosted": true,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/f98832cb-f6af-3a8c-8e9a-af0cdb7a76af/tsmc-forecasts-sustained-ai.html",
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/309a2627e33b717126815cba1ba18736",
-          "originalWidth": 1000,
-          "originalHeight": 511,
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/9faf3db0e52b74eb58f33dcec62dbaa5",
+          "originalWidth": 1200,
+          "originalHeight": 675,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DhUg_km1LTTonbJPXiNLVA--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/309a2627e33b717126815cba1ba18736",
-              "width": 1000,
-              "height": 511,
+              "url": "https://s.yimg.com/uu/api/res/1.2/YA6Qq7KW2NSCis7Oy2LpiQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/9faf3db0e52b74eb58f33dcec62dbaa5",
+              "width": 1200,
+              "height": 675,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Jgob0ODx773QG_ZnC2VhJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/309a2627e33b717126815cba1ba18736",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ehvk.1_6O2UJhQ8Py7HeXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9faf3db0e52b74eb58f33dcec62dbaa5",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23139,75 +23174,18 @@
           ]
         },
         "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/news/technology/tsm-stock-chipmaker-tsmc-forecasts-sustained-demand/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "3d364034-950a-3bec-a889-df8e12026bad",
-      "content": {
-        "id": "3d364034-950a-3bec-a889-df8e12026bad",
-        "contentType": "STORY",
-        "title": "3 Stocks Crushing Nvidia This Year",
-        "description": "",
-        "summary": "Nvidia hasn't had the strongest 2026 so far.",
-        "pubDate": "2026-06-04T17:05:00Z",
-        "displayTime": "2026-06-04T17:05:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/d9fae48a325d50be90ace1ab5f51019c",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "A businessperson looking at data on a tablet.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/llj4TOELHeOfUliMVkG5pg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d9fae48a325d50be90ace1ab5f51019c",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AZ2y_p4feH_fs9TCvPZuZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d9fae48a325d50be90ace1ab5f51019c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/06/04/3-stocks-crushing-nvidia-this-year/",
+          "url": "https://www.thestreet.com/investing/stocks/tsmc-taiwan-semiconductor-ceo-sends-blunt-message-to-memory-chip-rivals",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-crushing-nvidia-170500273.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-ceo-sends-blunt-message-193700154.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23225,32 +23203,32 @@
       }
     },
     {
-      "id": "e1df1c25-d643-3186-9670-6f57c4afdd71",
+      "id": "b13b63e1-893e-3b73-aef0-f325d2577f6e",
       "content": {
-        "id": "e1df1c25-d643-3186-9670-6f57c4afdd71",
+        "id": "b13b63e1-893e-3b73-aef0-f325d2577f6e",
         "contentType": "STORY",
-        "title": "Mizuho Raises its Price Target on Lam Research (LRCX)",
+        "title": "Why TSMC Is a Better AI Stock to Hold Right Now Than Broadcom",
         "description": "",
-        "summary": "Lam Research Corporation (NASDAQ:LRCX) is one of the 15 Most Promising Stocks to Buy Right Now. On May 27, 2026, Mizuho raised the firm’s price target on Lam Research Corporation (NASDAQ:LRCX) to $380 from $330 and maintained an Outperform rating on the shares. Mizuho raised its wafer fab equipment spending estimate for 2026 to $153B […]",
-        "pubDate": "2026-06-04T16:49:22Z",
-        "displayTime": "2026-06-04T16:49:22Z",
+        "summary": "TSM is outperforming peers as rising AI demand, a higher 2026 outlook and capacity expansion support growth despite a broader chip-sector pullback.",
+        "pubDate": "2026-06-05T19:00:00Z",
+        "displayTime": "2026-06-05T19:00:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8",
-          "originalWidth": 640,
-          "originalHeight": 427,
-          "caption": "Mizuho Raises its Price Target on Lam Research (LRCX)",
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/516fbb2ef668367a92948779e8ac3c9d",
+          "originalWidth": 620,
+          "originalHeight": 179,
+          "caption": "Zacks Investment Research",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/e7a64amZgU6zo5vKEMKUDA--~B/aD00Mjc7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8",
-              "width": 640,
-              "height": 427,
+              "url": "https://s.yimg.com/uu/api/res/1.2/W78HGy_Qr7C5b7HU_cL4qA--~B/aD0xNzk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/516fbb2ef668367a92948779e8ac3c9d",
+              "width": 620,
+              "height": 179,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QHTdCkG5iu.7ozintGjK4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8",
+              "url": "https://s.yimg.com/uu/api/res/1.2/AVfvrXarrGmTu13gXFEB1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/516fbb2ef668367a92948779e8ac3c9d",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23258,18 +23236,18 @@
           ]
         },
         "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-price-target-lam-164922056.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tsmc-better-ai-stock-190000531.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-price-target-lam-164922056.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tsmc-better-ai-stock-190000531.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23287,201 +23265,15 @@
       }
     },
     {
-      "id": "e0823e5a-43a2-329e-932a-57b2b38f0054",
+      "id": "4fb4e590-83d3-393d-8663-abcd37b87eb5",
       "content": {
-        "id": "e0823e5a-43a2-329e-932a-57b2b38f0054",
+        "id": "4fb4e590-83d3-393d-8663-abcd37b87eb5",
         "contentType": "STORY",
-        "title": "Got $10,000? TSM vs Micron: The Better Buy in 2026",
+        "title": "TSMC CEO Issues Stark AI Supply Warning -- Wedbush Sees Big Opportunity",
         "description": "",
-        "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) and Micron Technology (NASDAQ:MU) sit at two different floors of the same AI building. TSMC fabricates the logic chips that power Nvidia, AMD, and Apple. Micron supplies the HBM memory those accelerators cannot run without. Both just delivered blowout numbers, and the contrast between a foundry behemoth and a pure-play memory ... Got $10,000? TSM vs Micron: The Better Buy in 2026",
-        "pubDate": "2026-06-04T16:14:17Z",
-        "displayTime": "2026-06-04T16:14:17Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/19139ae5074e50c0153bbad43b9c3c0d",
-          "originalWidth": 1024,
-          "originalHeight": 699,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tkxnwHsgjIhQNMV2NHfVWQ--~B/aD02OTk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/19139ae5074e50c0153bbad43b9c3c0d",
-              "width": 1024,
-              "height": 699,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6PdFJQGOzK3LV7QjxC9DPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/19139ae5074e50c0153bbad43b9c3c0d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/04/got-10000-tsm-vs-micron-the-better-buy-in-2026/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/got-10-000-tsm-vs-161417407.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b7699c5c-cd08-3451-bae3-f4d0842519f5",
-      "content": {
-        "id": "b7699c5c-cd08-3451-bae3-f4d0842519f5",
-        "contentType": "STORY",
-        "title": "TSMC CEO says AI chip demand will outpace supply for years",
-        "description": "",
-        "summary": "TSMC chief executive C.C. Wei said appetite for AI shows no signs of cooling and that keeping up with orders has become increasingly difficult.",
-        "pubDate": "2026-06-04T14:30:05Z",
-        "displayTime": "2026-06-04T14:30:05Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/quartz_855/28b3f7e639a6a482966f346e628a3fde",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XqkISHzkTeW5OB.sBjgWzw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/28b3f7e639a6a482966f346e628a3fde",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/c4IooISi3fdw.vGNl7HfdA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/28b3f7e639a6a482966f346e628a3fde",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Quartz",
-          "url": "https://qz.com/",
-          "sourceId": "quartz_855"
-        },
-        "canonicalUrl": {
-          "url": "https://qz.com/tsmc-ceo-ai-chip-demand-supply-shareholders-meeting-060426",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-ceo-says-ai-chip-143005801.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f4f8c213-931a-336b-9cf0-72e653d6030a",
-      "content": {
-        "id": "f4f8c213-931a-336b-9cf0-72e653d6030a",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Delivers 2,095% Gain Over 10 Years. Will It Continue To Outperform?",
-        "description": "",
-        "summary": "A decade ago, Taiwan Semiconductor Manufacturing (NYSE: TSM) was respected but boring. It made chips for Apple, Qualcomm, and a long list of fabless designers, and the market valued it like a cyclical industrial. Then the node race got serious. TSMC pulled away from Samsung and Intel at 7nm, then 5nm, then 3nm, and the ... Taiwan Semiconductor Delivers 2,095% Gain Over 10 Years. Will It Continue To Outperform?",
-        "pubDate": "2026-06-04T13:22:47Z",
-        "displayTime": "2026-06-04T13:22:47Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/d6d819f1f7ec52a530e732ee483851c3",
-          "originalWidth": 610,
-          "originalHeight": 481,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/48gQv_LRl_TSGxArL4Y3Ig--~B/aD00ODE7dz02MTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d6d819f1f7ec52a530e732ee483851c3",
-              "width": 610,
-              "height": 481,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4eutJDkl_3jNZVVltzFIwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d6d819f1f7ec52a530e732ee483851c3",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/04/taiwan-semiconductor-delivers-2095-gain-over-10-years-will-it-continue-to-outperform/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-delivers-2-095-132247796.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "5af6ceb4-3749-31a7-b30b-e13e3976a874",
-      "content": {
-        "id": "5af6ceb4-3749-31a7-b30b-e13e3976a874",
-        "contentType": "STORY",
-        "title": "TSMC Warns AI Chip Shortage Could Last For Years",
-        "description": "",
-        "summary": "TSMC says AI demand may keep outpacing supply despite US expansion, while sales are still forecast to grow more than 30% this year.",
-        "pubDate": "2026-06-04T13:11:12Z",
-        "displayTime": "2026-06-04T13:11:12Z",
+        "summary": "TSMC's AI Demand Forecast Sparks Bullish Call From Top Wall Street Firm",
+        "pubDate": "2026-06-05T17:36:26Z",
+        "displayTime": "2026-06-05T17:36:26Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -23492,13 +23284,13 @@
           "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-warns-ai-chip-shortage-131112167.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-ceo-issues-stark-ai-173626584.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-warns-ai-chip-shortage-131112167.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-ceo-issues-stark-ai-173626584.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23516,32 +23308,32 @@
       }
     },
     {
-      "id": "3c9089ba-96bf-3178-9fa2-3fb07ab32901",
+      "id": "32b5ab34-6242-3c09-ae2a-b3111f115f35",
       "content": {
-        "id": "3c9089ba-96bf-3178-9fa2-3fb07ab32901",
+        "id": "32b5ab34-6242-3c09-ae2a-b3111f115f35",
         "contentType": "STORY",
-        "title": "TSM Stock Slips Premarket Today — CEO Reportedly Says AI Chip Shortage Isn’t Ending Anytime Soon",
+        "title": "Taiwan Semiconductor CEO Says Rivals Have Years To Catch Up",
         "description": "",
-        "summary": "Wei's commentary hinted that production capacity is a bottleneck at a time when hyperscalers and chip companies are investing heavily to build AI infrastructure.",
-        "pubDate": "2026-06-04T11:09:23Z",
-        "displayTime": "2026-06-04T11:09:23Z",
+        "summary": "Taiwan Semiconductor Manufacturing Co. Ltd. stock fell about 2% in premarket trading Thursday as investors pulled back from technology stocks and locked in gains after the stock’s strong rally over the past year. Taiwan Semiconductor Stock Slips Nasdaq futures were...",
+        "pubDate": "2026-06-05T17:31:11Z",
+        "displayTime": "2026-06-05T17:31:11Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/c015b3dea4d90c60ca32918a337993d6",
-          "originalWidth": 1280,
-          "originalHeight": 853,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/6fc3a1e617cfa48a3c7e340c80f623bf",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "Taiwan Semiconductor CEO Says Rivals Have Years To Catch Up",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0kn2MtGr_JThPyWdLM5dlg--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/c015b3dea4d90c60ca32918a337993d6",
-              "width": 1280,
-              "height": 853,
+              "url": "https://s.yimg.com/uu/api/res/1.2/8wQ81RsCheHspXqatfcI4A--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/6fc3a1e617cfa48a3c7e340c80f623bf",
+              "width": 1000,
+              "height": 667,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xY.Uqji8sG0NHygykipUbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/c015b3dea4d90c60ca32918a337993d6",
+              "url": "https://s.yimg.com/uu/api/res/1.2/myYOaX9FXa4GEaLd.oEPyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6fc3a1e617cfa48a3c7e340c80f623bf",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23549,18 +23341,18 @@
           ]
         },
         "provider": {
-          "displayName": "Stocktwits",
-          "url": "Stocktwits",
-          "sourceId": "stocktwits_383"
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
         },
         "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/tsm-stock-falls-ceo-warns-ai-chip-demand-capacity-gap/cZ0ZaT8Reyf",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-ceo-says-rivals-173111530.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsm-stock-slips-premarket-today-110923044.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-ceo-says-rivals-173111530.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23578,32 +23370,32 @@
       }
     },
     {
-      "id": "e42359fc-b602-3991-8aa9-b1e583b28d0a",
+      "id": "1a3882d7-f9aa-31e6-b674-d9b2d2394fc2",
       "content": {
-        "id": "e42359fc-b602-3991-8aa9-b1e583b28d0a",
+        "id": "1a3882d7-f9aa-31e6-b674-d9b2d2394fc2",
         "contentType": "STORY",
-        "title": "TSMC Sees Strong Long-Term Growth as AI Demand Continues to Accelerate (TSM)",
+        "title": "The Chip ETF That Turned a $10k Bet Into Nearly $20k This Year",
         "description": "",
-        "summary": "Taiwan Semiconductor Manufacturing Company (NYSE:TSM) remains confident in its long-term growth trajectory, with Chief Executive C. C.",
-        "pubDate": "2026-06-04T10:08:21Z",
-        "displayTime": "2026-06-04T10:08:21Z",
+        "summary": "If you put $10,000 into Invesco PHLX Semiconductor ETF (NASDAQ:SOXQ) on the last trading day of 2025, you are sitting on about $19,400 this morning. The same $10,000 in the S&P 500 (via SPY) is worth roughly $11,140. SOXQ is up 94% year to date through June 2, 2026, against 11% for SPY. The headline ... The Chip ETF That Turned a $10k Bet Into Nearly $20k This Year",
+        "pubDate": "2026-06-05T17:20:55Z",
+        "displayTime": "2026-06-05T17:20:55Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/investorshub_458/4a5b0a6458735cadc8b7a178ca47b74e",
-          "originalWidth": 800,
-          "originalHeight": 439,
-          "caption": "artificial intelligence ai chip 2 NEW SIZE ©Asih Wahyuni",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
+          "originalWidth": 1500,
+          "originalHeight": 843,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/laC0XjlaTZRfFwT4fvYQ5g--~B/aD00Mzk7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/4a5b0a6458735cadc8b7a178ca47b74e",
-              "width": 800,
-              "height": 439,
+              "url": "https://s.yimg.com/uu/api/res/1.2/X3LR8vJySqM2Zuq5WJpCbw--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
+              "width": 1500,
+              "height": 843,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IzuXVayOICbGrMstHZtryA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/4a5b0a6458735cadc8b7a178ca47b74e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/T4wip9U9r8N5ZzUy_59rtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23611,18 +23403,18 @@
           ]
         },
         "provider": {
-          "displayName": "InvestorsHub",
-          "url": "https://investorshub.advfn.com/",
-          "sourceId": "investorshub_458"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://investorshub.advfn.com/market-news/article/29754/tsmc-sees-strong-long-term-growth-as-ai-demand-continues-to-accelerate-tsm",
+          "url": "https://247wallst.com/investing/2026/06/05/the-chip-etf-that-turned-a-10k-bet-into-nearly-20k-this-year/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-sees-strong-long-term-100821914.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chip-etf-turned-10k-bet-172055535.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23640,32 +23432,32 @@
       }
     },
     {
-      "id": "649632bc-2ca7-3e9b-aabd-1c79ca68060d",
+      "id": "e3efb903-45fa-3dc8-9dff-a8d892fee93b",
       "content": {
-        "id": "649632bc-2ca7-3e9b-aabd-1c79ca68060d",
+        "id": "e3efb903-45fa-3dc8-9dff-a8d892fee93b",
         "contentType": "STORY",
-        "title": "TSMC Says It Isn’t Falling Behind in Next-Gen Chips",
+        "title": "$1k in ASML Smashed The S&P at Every Milestone",
         "description": "",
-        "summary": "TSMC's CEO dismissed concerns that it’s at a disadvantage to rivals already adopting ultra-expensive equipment to make cutting-edge chips. C.C. Wei said today that the chip giant has bought high-end machines made exclusively by ASML, and that it's focused on figuring out how to run them more efficiently to lower costs.",
-        "pubDate": "2026-06-04T09:05:27Z",
-        "displayTime": "2026-06-04T09:05:27Z",
-        "isHosted": false,
+        "summary": "Ten years ago, ASML (NASDAQ:ASML) was a respected Dutch equipment maker quietly perfecting a technology most investors had never heard of: extreme ultraviolet lithography. Today, it is the sole supplier of EUV machines required to print transistors smaller than 7 nanometers, and every cutting-edge chip from TSMC, Samsung, and Intel runs through its tools. The ... $1k in ASML Smashed The S&P at Every Milestone",
+        "pubDate": "2026-06-05T15:25:06Z",
+        "displayTime": "2026-06-05T15:25:06Z",
+        "isHosted": true,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/649632bc-2ca7-3e9b-aabd-1c79ca68060d/tsmc-says-it-isn%E2%80%99t-falling.html",
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-          "originalWidth": 1200,
-          "originalHeight": 630,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/57bb3c1ff28241cea089f487b213ff6d",
+          "originalWidth": 1366,
+          "originalHeight": 767,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Fwf5HL4GsEGPbDfR3MJBPg--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-              "width": 1200,
-              "height": 630,
+              "url": "https://s.yimg.com/uu/api/res/1.2/0k.hVU2uCF80rIVyELn6YA--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/57bb3c1ff28241cea089f487b213ff6d",
+              "width": 1366,
+              "height": 767,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ApP5eKG3fpJIeYOSJXKfUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/57bb3c1ff28241cea089f487b213ff6d",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23673,17 +23465,251 @@
           ]
         },
         "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-04-2026/card/tsmc-says-it-isn-t-falling-behind-in-next-gen-chips-mSofXYbNVn0af740a5s6?siteid=yhoof2&yptr=yahoo",
+          "url": "https://247wallst.com/investing/2026/06/05/1k-in-asml-smashed-the-sp-at-every-milestone/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1k-asml-smashed-p-every-152506535.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b968ac69-6011-3b69-a309-9b7767f20703",
+      "content": {
+        "id": "b968ac69-6011-3b69-a309-9b7767f20703",
+        "contentType": "STORY",
+        "title": "$10,000 in Taiwan’s ETF Became $16,178 in Five Months While the S&P 500 Limped to $11,093",
+        "description": "",
+        "summary": "A $10,000 stake in the iShares MSCI Taiwan ETF (NYSEARCA:EWT) on the last trading day of 2025 was worth about $16,178 five months later, after the fund rose from about $64 to $103 between December 31, 2025 and May 29, 2026. That same $10,000 parked in the S&P 500 via the SPDR S&P 500 ETF ... $10,000 in Taiwan’s ETF Became $16,178 in Five Months While the S&P 500 Limped to $11,093",
+        "pubDate": "2026-06-05T13:00:46Z",
+        "displayTime": "2026-06-05T13:00:46Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/bbd14952ea6e727e22d849b48f997afe",
+          "originalWidth": 1500,
+          "originalHeight": 927,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gvHUr25R_TjQagXwE8oH8g--~B/aD05Mjc7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/bbd14952ea6e727e22d849b48f997afe",
+              "width": 1500,
+              "height": 927,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pnYpCwDV.cPsbSnPvrAdvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bbd14952ea6e727e22d849b48f997afe",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/05/10000-in-taiwans-etf-became-16178-in-five-months-while-the-sp-500-limped-to-11093/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-taiwan-etf-became-130046641.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4dbb1a07-c10e-3fc0-9fce-d28cd6a5b9d6",
+      "content": {
+        "id": "4dbb1a07-c10e-3fc0-9fce-d28cd6a5b9d6",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is Attracting Investor Attention: Here is What You Should Know",
+        "description": "",
+        "summary": "TSMC (TSM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+        "pubDate": "2026-06-05T13:00:07Z",
+        "displayTime": "2026-06-05T13:00:07Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/39dfb058875b6e691de9136bc97a47b4",
+          "originalWidth": 900,
+          "originalHeight": 900,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/hYDVEF34jJNULlluFRTwjg--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/39dfb058875b6e691de9136bc97a47b4",
+              "width": 900,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/TKhE1QXt8L12yJAimuSXOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/39dfb058875b6e691de9136bc97a47b4",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130007436.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130007436.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a708b510-a453-3c98-baf9-90f489e5ad8e",
+      "content": {
+        "id": "a708b510-a453-3c98-baf9-90f489e5ad8e",
+        "contentType": "STORY",
+        "title": "AMD Upgrade Highlights AI Growth Potential",
+        "description": "",
+        "summary": "Analysts remain optimistic about AMD's AI and data center opportunities.",
+        "pubDate": "2026-06-05T11:59:23Z",
+        "displayTime": "2026-06-05T11:59:23Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-upgrade-highlights-ai-growth-115923001.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-upgrade-highlights-ai-growth-115923001.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "319320af-b1e6-3e16-9af5-4fd2bfc12646",
+      "content": {
+        "id": "319320af-b1e6-3e16-9af5-4fd2bfc12646",
+        "contentType": "STORY",
+        "title": "After Dell, TSMC CEO Issues Stark Warning On AI Capacity Constraints For 'Very Long Time,' Hints At Potential Price Hike— 'We Still Need To...'",
+        "description": "",
+        "summary": "The CEO of Taiwan Semiconductor Manufacturing Co., C.C. Wei, issued a warning over manufacturing capacity constraints and signaled openness to future price hikes. During the Thursday pre-market trading session, the stock fell 2.08%. Wei’s comments were made during TSMC’s annual...",
+        "pubDate": "2026-06-05T11:01:24Z",
+        "displayTime": "2026-06-05T11:01:24Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/c7ad3291d8e3051c9d66da4cf51c1001",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "After Dell, TSMC CEO Issues Stark Warning On AI Capacity Constraints For 'Very Long Time,' Hints At Potential Price Hike— 'We Still Need To...'",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/SGgK..ZjAInglzqCHrScuA--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/c7ad3291d8e3051c9d66da4cf51c1001",
+              "width": 1000,
+              "height": 667,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7mjENVMx1KSoX9xzBcCcmA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/c7ad3291d8e3051c9d66da4cf51c1001",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/dell-tsmc-ceo-issues-stark-110124063.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/dell-tsmc-ceo-issues-stark-110124063.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
@@ -23809,71 +23835,71 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2425.0,
-    "open": 2385.0,
-    "dayLow": 2385.0,
-    "dayHigh": 2415.0,
-    "regularMarketPreviousClose": 2425.0,
-    "regularMarketOpen": 2385.0,
-    "regularMarketDayLow": 2385.0,
-    "regularMarketDayHigh": 2415.0,
+    "previousClose": 2385.0,
+    "open": 2395.0,
+    "dayLow": 2350.0,
+    "dayHigh": 2405.0,
+    "regularMarketPreviousClose": 2385.0,
+    "regularMarketOpen": 2395.0,
+    "regularMarketDayLow": 2350.0,
+    "regularMarketDayHigh": 2405.0,
     "dividendRate": 24.0,
     "dividendYield": 1.01,
     "exDividendDate": 1781136000,
     "payoutRatio": 0.2785,
     "fiveYearAvgDividendYield": 1.71,
-    "beta": 1.264,
-    "trailingPE": 32.360924,
-    "forwardPE": 19.479107,
-    "volume": 28261827,
-    "regularMarketVolume": 28261827,
+    "beta": 1.25,
+    "trailingPE": 32.154995,
+    "forwardPE": 19.315762,
+    "volume": 38696140,
+    "regularMarketVolume": 38696140,
     "averageVolume": 35449288,
     "averageVolume10days": 33738465,
     "averageDailyVolume10Day": 33738465,
-    "bid": 0.0,
-    "ask": 0.0,
+    "bid": 2360.0,
+    "ask": 2365.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 61848703467520,
+    "marketCap": 61330056806400,
     "nonDilutedMarketCap": 62885997412475,
     "fiftyTwoWeekLow": 991.0,
     "fiftyTwoWeekHigh": 2440.0,
     "allTimeHigh": 2440.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 15.070699,
+    "priceToSalesTrailing12Months": 14.94432,
     "fiftyDayAverage": 2118.9,
     "twoHundredDayAverage": 1689.375,
     "trailingAnnualDividendRate": 24.0,
-    "trailingAnnualDividendYield": 0.009896907,
+    "trailingAnnualDividendYield": 0.010062893,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 59600904650752,
+    "enterpriseValue": 59082257989632,
     "profitMargins": 0.46505,
     "floatShares": 23636317960,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00022,
-    "heldPercentInstitutions": 0.43513,
+    "heldPercentInstitutions": 0.43515,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 227.166,
-    "priceToBook": 10.49893,
+    "priceToBook": 10.410889,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.583,
     "netIncomeToCommon": 1908519600128,
-    "trailingEps": 73.7,
+    "trailingEps": 73.55,
     "forwardEps": 122.43887,
     "pegRatio": 1.2,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 14.523,
-    "enterpriseToEbitda": 20.868,
+    "enterpriseToRevenue": 14.397,
+    "enterpriseToEbitda": 20.687,
     "52WeekChange": 1.4298596,
     "SandP52WeekChange": 0.27181315,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
-    "currentPrice": 2385.0,
+    "currentPrice": 2365.0,
     "targetHighPrice": 3250.0,
     "targetLowPrice": 2051.0,
     "targetMeanPrice": 2589.5757,
@@ -23908,13 +23934,10 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "corporateActions": [],
-    "regularMarketTime": 1780551011,
+    "marketState": "CLOSED",
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "regularMarketChangePercent": -0.8385744,
+    "regularMarketPrice": 2365.0,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -23922,36 +23945,39 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -1.6494846,
-    "regularMarketPrice": 2385.0,
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "regularMarketChange": -40.0,
-    "regularMarketDayRange": "2385.0 - 2415.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 35449288,
-    "fiftyTwoWeekLowChange": 1394.0,
-    "fiftyTwoWeekLowChangePercent": 1.40666,
-    "fiftyTwoWeekRange": "991.0 - 2440.0",
-    "fiftyTwoWeekHighChange": -55.0,
-    "fiftyTwoWeekHighChangePercent": -0.022540983,
-    "fiftyTwoWeekChangePercent": 142.98596,
     "earningsTimestamp": 1776317400,
     "earningsTimestampStart": 1784179800,
     "earningsTimestampEnd": 1784179800,
     "earningsCallTimestampStart": 1776319200,
     "earningsCallTimestampEnd": 1776319200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 73.7,
+    "epsTrailingTwelveMonths": 73.55,
     "epsForward": 122.43887,
     "epsCurrentYear": 97.99586,
-    "priceEpsCurrentYear": 24.337763,
-    "fiftyDayAverageChange": 266.1001,
-    "fiftyDayAverageChangePercent": 0.12558408,
-    "twoHundredDayAverageChange": 695.625,
-    "twoHundredDayAverageChangePercent": 0.4117647,
+    "priceEpsCurrentYear": 24.133673,
+    "fiftyDayAverageChange": 246.1001,
+    "fiftyDayAverageChangePercent": 0.11614522,
+    "twoHundredDayAverageChange": 675.625,
+    "twoHundredDayAverageChangePercent": 0.399926,
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": -20.0,
+    "regularMarketDayRange": "2350.0 - 2405.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 35449288,
+    "fiftyTwoWeekLowChange": 1374.0,
+    "fiftyTwoWeekLowChangePercent": 1.3864783,
+    "fiftyTwoWeekRange": "991.0 - 2440.0",
+    "fiftyTwoWeekHighChange": -75.0,
+    "fiftyTwoWeekHighChangePercent": -0.030737706,
+    "fiftyTwoWeekChangePercent": 142.98596,
+    "corporateActions": [],
+    "regularMarketTime": 1780637405,
     "sourceInterval": 20,
-    "marketState": "PREPRE",
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "trailingPegRatio": 1.1972
   }
 }
