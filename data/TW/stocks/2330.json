@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-06-09T23:14:10.219938"
+    "ts": "2026-06-10T23:20:28.064366"
   },
   "financials": {
     "annual": {
@@ -2657,6 +2657,15 @@
         "revenue_month": 4,
         "revenue_year": 2026,
         "create_time": "2026-05-08"
+      },
+      {
+        "date": "2026-06-01",
+        "stock_id": "2330",
+        "country": "Taiwan",
+        "revenue": 416975163000,
+        "revenue_month": 5,
+        "revenue_year": 2026,
+        "create_time": "2026-06-10"
       }
     ],
     "inst_investors": [
@@ -23204,6 +23213,41 @@
         "buy": 2705000,
         "name": "Investment_Trust",
         "sell": 44913
+      },
+      {
+        "date": "2026-06-10",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-06-10",
+        "stock_id": "2330",
+        "buy": 22444418,
+        "name": "Foreign_Investor",
+        "sell": 37987280
+      },
+      {
+        "date": "2026-06-10",
+        "stock_id": "2330",
+        "buy": 116156,
+        "name": "Investment_Trust",
+        "sell": 119953
+      },
+      {
+        "date": "2026-06-10",
+        "stock_id": "2330",
+        "buy": 984100,
+        "name": "Dealer_self",
+        "sell": 1810454
+      },
+      {
+        "date": "2026-06-10",
+        "stock_id": "2330",
+        "buy": 3181528,
+        "name": "Dealer_Hedging",
+        "sell": 3086088
       }
     ],
     "margin_trading": [],
@@ -23211,32 +23255,32 @@
   },
   "news": [
     {
-      "id": "25a6a429-345e-3138-9f10-7360fba3d0d1",
+      "id": "39d28d62-1775-3c41-8599-7ac6ce118e7e",
       "content": {
-        "id": "25a6a429-345e-3138-9f10-7360fba3d0d1",
+        "id": "39d28d62-1775-3c41-8599-7ac6ce118e7e",
         "contentType": "STORY",
-        "title": "Dow Jones Futures Fall On Iran News After Market Whipsaws; CPI Inflation On Tap",
+        "title": "Taiwan Semiconductor Sales Rise 30% In May, Remain On Target",
         "description": "",
-        "summary": "The stock market had a wild Tuesday, skidding but also coming off lows on AI fears and Trump's Iran threats. CPI inflation is on tap.",
-        "pubDate": "2026-06-09T23:05:59Z",
-        "displayTime": "2026-06-09T23:05:59Z",
+        "summary": "Taiwan Semiconductor reported sales for the month of May that keep it on pace for its second-quarter revenue target.",
+        "pubDate": "2026-06-10T20:22:48Z",
+        "displayTime": "2026-06-10T20:22:48Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/25a6a429-345e-3138-9f10-7360fba3d0d1/dow-jones-futures-fall-on.html",
+        "previewUrl": "https://finance.yahoo.com/m/39d28d62-1775-3c41-8599-7ac6ce118e7e/taiwan-semiconductor-sales.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/dd3d8b33d715764a9a678ecf8d0d54d9",
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/77adfeabcbc979da92090007fc77ccfe",
           "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalHeight": 511,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CQxZyKUHtUwRNyKBSRQ1HA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/dd3d8b33d715764a9a678ecf8d0d54d9",
+              "url": "https://s.yimg.com/uu/api/res/1.2/yioUpuGecaViqi_BmYXcWg--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/77adfeabcbc979da92090007fc77ccfe",
               "width": 1000,
-              "height": 563,
+              "height": 511,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/I.4j9HzEyh_ZjqLAzvFxqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/dd3d8b33d715764a9a678ecf8d0d54d9",
+              "url": "https://s.yimg.com/uu/api/res/1.2/wtBsqth..dVL60oHi2b03w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/77adfeabcbc979da92090007fc77ccfe",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23249,7 +23293,7 @@
           "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-whipsaws-ai-fears-trump-iran-comments-cpi-inflation/?src=A00220&yptr=yahoo",
+          "url": "https://www.investors.com/news/technology/tsm-stock-tsmc-may-2026-sales/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23268,32 +23312,32 @@
       }
     },
     {
-      "id": "5bc4f594-dd5c-3732-982b-2473af8bf581",
+      "id": "290ced8d-3757-3009-b4e5-9d019ab07dc6",
       "content": {
-        "id": "5bc4f594-dd5c-3732-982b-2473af8bf581",
+        "id": "290ced8d-3757-3009-b4e5-9d019ab07dc6",
         "contentType": "STORY",
-        "title": "Elon Musk Says He’s Building a Chip “2 to 3 Times” Better Than NVIDIA at 10% The Cost. Is He Bluffing?",
+        "title": "SMH vs. SOXX: Which Semiconductor ETF Is the Smarter Chip Bet?",
         "description": "",
-        "summary": "Tesla (NASDAQ:TSLA) CEO Elon Musk dropped a striking claim during a recent conversation with Baron Capital founder Ron Baron, circulated widely after being posted to X by @carm1nee. Musk said he is building a chip that will be “two to three times better than NVIDIA” at 10% of the cost, with a specific focus on ... Elon Musk Says He’s Building a Chip “2 to 3 Times” Better Than NVIDIA at 10% The Cost. Is He Bluffing?",
-        "pubDate": "2026-06-09T19:30:41Z",
-        "displayTime": "2026-06-09T19:30:41Z",
+        "summary": "The VanEck Semiconductor ETF (NASDAQ:SMH) and the iShares Semiconductor ETF (NASDAQ:SOXX) appear to be substitutes on a fund screener. Both promise pure-play chip exposure, both charge roughly the same fee, and both ride the same AI cycle. The reason the choice still matters is that their indexes draw different lines around what counts as a ... SMH vs. SOXX: Which Semiconductor ETF Is the Smarter Chip Bet?",
+        "pubDate": "2026-06-10T19:31:52Z",
+        "displayTime": "2026-06-10T19:31:52Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/470770149ef1a8305414627a65620da5",
-          "originalWidth": 1366,
-          "originalHeight": 768,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
+          "originalWidth": 1500,
+          "originalHeight": 843,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DEpZBlxXpHYeEbsKEx7WCg--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/470770149ef1a8305414627a65620da5",
-              "width": 1366,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/X3LR8vJySqM2Zuq5WJpCbw--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
+              "width": 1500,
+              "height": 843,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jNHbPy52jIavivVDE3S5IQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/470770149ef1a8305414627a65620da5",
+              "url": "https://s.yimg.com/uu/api/res/1.2/T4wip9U9r8N5ZzUy_59rtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23306,13 +23350,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/09/elon-musk-says-hes-building-a-chip-2-to-3-times-better-than-nvidia-at-10-the-cost-is-he-bluffing/",
+          "url": "https://247wallst.com/investing/2026/06/10/smh-vs-soxx-which-semiconductor-etf-is-the-smarter-chip-bet/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-building-chip-193041138.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/smh-vs-soxx-semiconductor-etf-193152715.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23330,32 +23374,32 @@
       }
     },
     {
-      "id": "fef0906f-3ccb-30ea-923b-c04168fcef24",
+      "id": "c3b2fd27-3595-3c01-9010-4560b10eef59",
       "content": {
-        "id": "fef0906f-3ccb-30ea-923b-c04168fcef24",
+        "id": "c3b2fd27-3595-3c01-9010-4560b10eef59",
         "contentType": "STORY",
-        "title": "Elon Musk Reveals Insane Plan to Double American Chip Production in a Single Plant",
+        "title": "SoftBank tried to borrow $6B against its OpenAI stake — then shares plunged 9.7%. Is the AI boom running into reality?",
         "description": "",
-        "summary": "Tesla (NASDAQ:TSLA) CEO Elon Musk is once again pitching a project that sounds engineered to break Excel spreadsheets. According to an X post from Sawyer Merritt circulating this week, Musk described Terafab as a roughly 100 million square foot facility, about 10 times larger than Tesla’s Giga Texas factory, with a long-term output target of ... Elon Musk Reveals Insane Plan to Double American Chip Production in a Single Plant",
-        "pubDate": "2026-06-09T14:27:16Z",
-        "displayTime": "2026-06-09T14:27:16Z",
+        "summary": "And they weren't alone in a stock setback.",
+        "pubDate": "2026-06-10T17:20:00Z",
+        "displayTime": "2026-06-10T17:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/8bbf2dbbdeaca89c2c20f688d6d20fd9",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/moneywise_ecomm_711/118c8fcd93eee3d7d4e7d8df2c1f84f3",
+          "originalWidth": 2560,
+          "originalHeight": 1440,
+          "caption": "A compilation image of a screen showing SoftBank's stock dropping and CEO Masayoshi Son.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/RWog2n5aTtqH7ESWWXAw9w--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/8bbf2dbbdeaca89c2c20f688d6d20fd9",
-              "width": 1366,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/yjAj24txVzP6lsmzYsL2Ew--~B/aD0xNDQwO3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/moneywise_ecomm_711/118c8fcd93eee3d7d4e7d8df2c1f84f3",
+              "width": 2560,
+              "height": 1440,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/qguP7EbZoNB0CUn083mmsQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8bbf2dbbdeaca89c2c20f688d6d20fd9",
+              "url": "https://s.yimg.com/uu/api/res/1.2/QC69qlBZsqzXoTshPgXaUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/118c8fcd93eee3d7d4e7d8df2c1f84f3",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23363,18 +23407,18 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Moneywise",
+          "url": "https://moneywise.com/",
+          "sourceId": "moneywise_ecomm_711"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/09/elon-musk-reveals-insane-plan-to-double-american-chip-production-in-a-single-plant/",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-tried-borrow-6b-against-172000100.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-reveals-insane-plan-142716387.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-tried-borrow-6b-against-172000100.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23392,182 +23436,15 @@
       }
     },
     {
-      "id": "275be1c1-7c16-3bf4-b6a3-3146cdf7e8ab",
+      "id": "0120fe1d-dcd4-3842-b060-2686b964874f",
       "content": {
-        "id": "275be1c1-7c16-3bf4-b6a3-3146cdf7e8ab",
+        "id": "0120fe1d-dcd4-3842-b060-2686b964874f",
         "contentType": "STORY",
-        "title": "Intel Becomes Plan B for the Semiconductor Industry. Here's How That's a Winning Strategy",
+        "title": "TSMC Sales Jump as AI Demand Holds Strong",
         "description": "",
-        "summary": "Intel is rising sharply after reports the chipmaker may have secured new orders that add to its growing hyperscaler partner list. If true, Intel could become the semiconductor industry's preferred backup supplier.",
-        "pubDate": "2026-06-09T14:09:29Z",
-        "displayTime": "2026-06-09T14:09:29Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/6d8eebc94a6ffc713ed55e8ee99858e9",
-          "originalWidth": 1600,
-          "originalHeight": 900,
-          "caption": "Semiconductor by Gorodenkoff via Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZVILALNGOL_2xUYFMa3o7A--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/6d8eebc94a6ffc713ed55e8ee99858e9",
-              "width": 1600,
-              "height": 900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/U3ZhtCtkk9Fag8NszZsinQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/6d8eebc94a6ffc713ed55e8ee99858e9",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/2380085/intel-becomes-plan-b-for-the-semiconductor-industry-here-s-how-that-s-a-winning-strategy",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-becomes-plan-b-semiconductor-140929535.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e8b597ff-c8bd-3989-aa02-1c49e47faf91",
-      "content": {
-        "id": "e8b597ff-c8bd-3989-aa02-1c49e47faf91",
-        "contentType": "STORY",
-        "title": "Taiwan Eyes Curbs on AI Chip Sales to China to Align With US",
-        "description": "",
-        "summary": "(Bloomberg) -- Taiwan authorities are considering much stricter export controls on AI chip sales to China to further align with US measures, according to people familiar with the matter, an effort to address semiconductor smuggling that risks drawing a rebuke from Beijing. Most Read from BloombergHouse Republican Says Hegseth’s D-Day Remarks ‘Inappropriate’LA Mayor Race Flips as Socialist Beats Reality TV Star PrattOpenAI Joins a Massive AI IPO Pipeline Now Worth $3.6 TrillionTrump’s $100,000 H-",
-        "pubDate": "2026-06-09T12:58:54Z",
-        "displayTime": "2026-06-09T12:58:54Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/taiwan-eyes-curbs-ai-chip-125854688.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/taiwan-eyes-curbs-ai-chip-125854688.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "66eeb77d-3cc8-306a-9958-b5de3c9723c7",
-      "content": {
-        "id": "66eeb77d-3cc8-306a-9958-b5de3c9723c7",
-        "contentType": "STORY",
-        "title": "TSMC Shares Slip as Taiwan Considers Tougher Restrictions on AI Chip Exports to China (TSM)",
-        "description": "",
-        "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) shares fell around 1% in premarket trading on Tuesday following a Bloomberg report that Taiwan is evaluating stricter controls on the export of advanced artificial intelligence chips to China. If implemented, the proposed measures would mark one of the most significant steps taken by President Lai Ching-te’s administration to protect Taiwan’s technological leadership and address national security concerns.",
-        "pubDate": "2026-06-09T12:51:38Z",
-        "displayTime": "2026-06-09T12:51:38Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/investorshub_458/be1522bf8a536d9556b71832cd6f9dac",
-          "originalWidth": 800,
-          "originalHeight": 439,
-          "caption": "chip semiconductor pcb 3 NEW SIZE ©PickPik",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6YmEtjcFS_a9vYmtNFE2.Q--~B/aD00Mzk7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/be1522bf8a536d9556b71832cd6f9dac",
-              "width": 800,
-              "height": 439,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2VbDtizaXIMW9FyJ5WA62A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/be1522bf8a536d9556b71832cd6f9dac",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "InvestorsHub",
-          "url": "https://investorshub.advfn.com/",
-          "sourceId": "investorshub_458"
-        },
-        "canonicalUrl": {
-          "url": "https://investorshub.advfn.com/market-news/article/30027/tsmc-shares-slip-as-taiwan-considers-tougher-restrictions-on-ai-chip-exports-to-china-tsm",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-shares-slip-taiwan-considers-125138347.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "fff2382e-7dc2-3b7b-9cb2-4470dec2b280",
-      "content": {
-        "id": "fff2382e-7dc2-3b7b-9cb2-4470dec2b280",
-        "contentType": "STORY",
-        "title": "TSMC Gets Pulled Into China Chip Fight",
-        "description": "",
-        "summary": "Senators Urge Tighter Rules On Overseas Chinese Units",
-        "pubDate": "2026-06-09T12:33:21Z",
-        "displayTime": "2026-06-09T12:33:21Z",
+        "summary": "AI Chip Demand Keeps Advanced Manufacturing Momentum Strong",
+        "pubDate": "2026-06-10T16:52:19Z",
+        "displayTime": "2026-06-10T16:52:19Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -23578,13 +23455,13 @@
           "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-gets-pulled-china-chip-123321633.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sales-jump-ai-demand-165219194.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-gets-pulled-china-chip-123321633.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sales-jump-ai-demand-165219194.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23602,15 +23479,120 @@
       }
     },
     {
-      "id": "6de19653-1e3f-3049-a2e6-4a43711ace1d",
+      "id": "32176a37-9597-35f2-ad93-80fdf101f8c5",
       "content": {
-        "id": "6de19653-1e3f-3049-a2e6-4a43711ace1d",
+        "id": "32176a37-9597-35f2-ad93-80fdf101f8c5",
         "contentType": "STORY",
-        "title": "Intel Gains as Google Reportedly Eyes Major AI Chip Order",
+        "title": "Taiwan Export Curbs Put TSMC China Exposure And Valuation In Focus",
         "description": "",
-        "summary": "Potential TPU deal could strengthen Intel's foundry ambitions and diversify AI chip manufacturing beyond TSMC.",
-        "pubDate": "2026-06-09T12:22:22Z",
-        "displayTime": "2026-06-09T12:22:22Z",
+        "summary": "Taiwan is weighing stricter export controls on advanced AI chips to China, including potential criminal penalties for unauthorized shipments. The proposed rules could limit sales of leading edge chips from Taiwan Semiconductor Manufacturing (NYSE:TSM) to a wider range of Chinese customers. If adopted, the measures may affect TSMC's access to the Chinese market and reshape parts of its global supply chain exposure. Taiwan Semiconductor Manufacturing, or TSMC, sits at the center of global...",
+        "pubDate": "2026-06-10T16:14:57Z",
+        "displayTime": "2026-06-10T16:14:57Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5Tyy8Oun7d69.ebTzNgpXA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sdqM2NN9Xy0ai0FXQvYklw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-export-curbs-put-tsmc-161457117.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-export-curbs-put-tsmc-161457117.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b8a40834-f290-36f4-9f7c-1a0f442ea3bb",
+      "content": {
+        "id": "b8a40834-f290-36f4-9f7c-1a0f442ea3bb",
+        "contentType": "STORY",
+        "title": "Barclays raises price targets on chip stocks after raising WFE estimates",
+        "description": "",
+        "summary": "Investing.com -- Barclays lifted its wafer fabrication equipment estimates and raised price targets on Applied Materials, KLA Corporation, and Lam Research in a note on Monday.",
+        "pubDate": "2026-06-10T14:57:19Z",
+        "displayTime": "2026-06-10T14:57:19Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/barclays-raises-price-targets-chip-145719368.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/sectors/technology/articles/barclays-raises-price-targets-chip-145719368.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c3305dc3-a499-37e8-a642-af626ae3ab28",
+      "content": {
+        "id": "c3305dc3-a499-37e8-a642-af626ae3ab28",
+        "contentType": "STORY",
+        "title": "AI Boom Sends TSMC Sales Soaring 30% as Chip Appetite Explodes",
+        "description": "",
+        "summary": "TSMC Delivers Massive Revenue Jump as Nvidia, Apple Demand Ramps Up",
+        "pubDate": "2026-06-10T13:43:41Z",
+        "displayTime": "2026-06-10T13:43:41Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -23621,13 +23603,13 @@
           "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/intel-gains-google-reportedly-eyes-122222452.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-boom-sends-tsmc-sales-134341292.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/intel-gains-google-reportedly-eyes-122222452.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-boom-sends-tsmc-sales-134341292.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23645,32 +23627,32 @@
       }
     },
     {
-      "id": "97f652cd-2a10-38f7-b7ae-084056b43928",
+      "id": "1dc24d3e-0054-358e-9cbd-ec462ffa34a8",
       "content": {
-        "id": "97f652cd-2a10-38f7-b7ae-084056b43928",
+        "id": "1dc24d3e-0054-358e-9cbd-ec462ffa34a8",
         "contentType": "STORY",
-        "title": "Taiwan Is Reportedly Proposing Tougher AI Chip Export Rules – Why This Matters For Nvidia Investors",
+        "title": "The World's Most Important Chipmaker Has Fantastic News for Artificial Intelligence (AI) Stock Investors",
         "description": "",
-        "summary": "Taiwan is considering criminalizing the smuggling of AI chip servers to China for the first time, according to Bloomberg.",
-        "pubDate": "2026-06-09T12:10:51Z",
-        "displayTime": "2026-06-09T12:10:51Z",
+        "summary": "TSMC's CEO believes the semiconductor market will remain undersupplied due to booming demand for AI chips.",
+        "pubDate": "2026-06-10T13:18:00Z",
+        "displayTime": "2026-06-10T13:18:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/ec518366515d3d550acc5e88b0330d8a",
-          "originalWidth": 1280,
-          "originalHeight": 960,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ca099a9f3ee80567e5db81eeae291774",
+          "originalWidth": 1400,
+          "originalHeight": 840,
+          "caption": "TSMC logo displayed in red on a company building during evening time.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/PjgXDv24ZXmRzc2DPpIhPQ--~B/aD05NjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/ec518366515d3d550acc5e88b0330d8a",
-              "width": 1280,
-              "height": 960,
+              "url": "https://s.yimg.com/uu/api/res/1.2/S8zNWtq2aqgVYPkVVauOBQ--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ca099a9f3ee80567e5db81eeae291774",
+              "width": 1400,
+              "height": 840,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uz48U7aZ5NS2z370C9Qlwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/ec518366515d3d550acc5e88b0330d8a",
+              "url": "https://s.yimg.com/uu/api/res/1.2/r5C6gvJzNpChA9kl16pcWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ca099a9f3ee80567e5db81eeae291774",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23678,18 +23660,18 @@
           ]
         },
         "provider": {
-          "displayName": "Stocktwits",
-          "url": "Stocktwits",
-          "sourceId": "stocktwits_383"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/taiwan-reportedly-proposing-tougher-ai-chip-export-rules/cZ0UOL4R7bx",
+          "url": "https://www.fool.com/investing/2026/06/10/the-worlds-most-important-chipmaker-has-fantastic/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/taiwan-reportedly-proposing-tougher-ai-121051551.html",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/worlds-most-important-chipmaker-fantastic-131800755.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23707,32 +23689,32 @@
       }
     },
     {
-      "id": "a8eb7602-d41f-3acf-b2a0-b2aa83370823",
+      "id": "f820ca1c-2b81-3ce6-ba9e-1b4647577495",
       "content": {
-        "id": "a8eb7602-d41f-3acf-b2a0-b2aa83370823",
+        "id": "f820ca1c-2b81-3ce6-ba9e-1b4647577495",
         "contentType": "STORY",
-        "title": "This Hidden Growth Story in Taiwan Semi Could Cause TSM Stock to Skyrocket",
+        "title": "SpaceX just got a superchip ahead of its June 12th IPO — but no one’s talking about it. 3 red-hot stocks to watch now",
         "description": "",
-        "summary": "TSMC's 2nm process node is progressing well and may not yet be priced into its future earnings.",
-        "pubDate": "2026-06-09T11:30:02Z",
-        "displayTime": "2026-06-09T11:30:02Z",
+        "summary": "Make sure to grab some chips before liftoff.",
+        "pubDate": "2026-06-10T12:30:00Z",
+        "displayTime": "2026-06-10T12:30:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/525ed99c70e64477a9bdb5ec78121287",
-          "originalWidth": 1600,
-          "originalHeight": 899,
-          "caption": "An aerial view of a data center cooling system by Sepia100 via Adobe Stock",
+          "originalUrl": "https://media.zenfs.com/en/moneywise_ecomm_711/48d0736ed31f873965783a5bdf57a41c",
+          "originalWidth": 2729,
+          "originalHeight": 1535,
+          "caption": "A compilation of a SpaceX rocket taking flight, backlit by the sun, and Elon Musk celebrating enthusiastically.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6f.y1EClJ3saG1CY5wgt8g--~B/aD04OTk7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/525ed99c70e64477a9bdb5ec78121287",
-              "width": 1600,
-              "height": 899,
+              "url": "https://s.yimg.com/uu/api/res/1.2/NxOWdkRNsL0_3q25v.hbXA--~B/aD0xNTM1O3c9MjcyOTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/moneywise_ecomm_711/48d0736ed31f873965783a5bdf57a41c",
+              "width": 2729,
+              "height": 1535,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/C6fXAi4AxrqhYSsJrbwzKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/525ed99c70e64477a9bdb5ec78121287",
+              "url": "https://s.yimg.com/uu/api/res/1.2/pmBzjo9LzXuA5HahkMmsew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/48d0736ed31f873965783a5bdf57a41c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23740,18 +23722,61 @@
           ]
         },
         "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
+          "displayName": "Moneywise",
+          "url": "https://moneywise.com/",
+          "sourceId": "moneywise_ecomm_711"
         },
         "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/2374735/this-hidden-growth-story-in-taiwan-semi-could-cause-tsm-stock-to-skyrocket",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-got-superchip-ahead-123000304.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hidden-growth-story-taiwan-semi-113002389.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-got-superchip-ahead-123000304.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8384c969-895f-3473-843c-80eb34d76459",
+      "content": {
+        "id": "8384c969-895f-3473-843c-80eb34d76459",
+        "contentType": "STORY",
+        "title": "TSMC Posts 30% Revenue Growth as AI Trade Cools",
+        "description": "",
+        "summary": "May 2026 revenue reached NT$416.975 billion",
+        "pubDate": "2026-06-10T12:10:08Z",
+        "displayTime": "2026-06-10T12:10:08Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-posts-30-revenue-growth-121008814.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-posts-30-revenue-growth-121008814.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23881,71 +23906,71 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2295.0,
-    "open": 2305.0,
-    "dayLow": 2295.0,
-    "dayHigh": 2320.0,
-    "regularMarketPreviousClose": 2295.0,
-    "regularMarketOpen": 2305.0,
-    "regularMarketDayLow": 2295.0,
-    "regularMarketDayHigh": 2320.0,
+    "previousClose": 2305.0,
+    "open": 2285.0,
+    "dayLow": 2255.0,
+    "dayHigh": 2300.0,
+    "regularMarketPreviousClose": 2305.0,
+    "regularMarketOpen": 2285.0,
+    "regularMarketDayLow": 2255.0,
+    "regularMarketDayHigh": 2300.0,
     "dividendRate": 24.0,
-    "dividendYield": 1.04,
+    "dividendYield": 1.06,
     "exDividendDate": 1781136000,
     "payoutRatio": 0.2785,
     "fiveYearAvgDividendYield": 1.71,
     "beta": 1.25,
-    "trailingPE": 31.34775,
-    "forwardPE": 18.82572,
-    "volume": 36137311,
-    "regularMarketVolume": 36137311,
-    "averageVolume": 34609120,
-    "averageVolume10days": 36733789,
-    "averageDailyVolume10Day": 36733789,
+    "trailingPE": 30.676098,
+    "forwardPE": 18.373245,
+    "volume": 50339538,
+    "regularMarketVolume": 50339538,
+    "averageVolume": 34478093,
+    "averageVolume10days": 37800354,
+    "averageDailyVolume10Day": 37800354,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 59774112628736,
-    "nonDilutedMarketCap": 61330055208455,
+    "marketCap": 58477493878784,
+    "nonDilutedMarketCap": 59774113004435,
     "fiftyTwoWeekLow": 1015.0,
     "fiftyTwoWeekHigh": 2440.0,
     "allTimeHigh": 2440.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 14.565183,
-    "fiftyDayAverage": 2150.5,
-    "twoHundredDayAverage": 1707.25,
+    "priceToSalesTrailing12Months": 14.249235,
+    "fiftyDayAverage": 2159.8,
+    "twoHundredDayAverage": 1713.1,
     "trailingAnnualDividendRate": 24.0,
-    "trailingAnnualDividendYield": 0.010457517,
+    "trailingAnnualDividendYield": 0.010412147,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 57526313811968,
+    "enterpriseValue": 56229695062016,
     "profitMargins": 0.46505,
     "floatShares": 23636058637,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00022,
-    "heldPercentInstitutions": 0.43473,
+    "heldPercentInstitutions": 0.43471,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 227.166,
-    "priceToBook": 10.146765,
+    "priceToBook": 9.9266615,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.583,
     "netIncomeToCommon": 1908519600128,
-    "trailingEps": 73.53,
-    "forwardEps": 122.43887,
-    "pegRatio": 1.17,
+    "trailingEps": 73.51,
+    "forwardEps": 122.73281,
+    "pegRatio": 1.14,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 14.017,
-    "enterpriseToEbitda": 20.142,
-    "52WeekChange": 1.1961722,
-    "SandP52WeekChange": 0.22635591,
+    "enterpriseToRevenue": 13.702,
+    "enterpriseToEbitda": 19.688,
+    "52WeekChange": 1.1643193,
+    "SandP52WeekChange": 0.22973013,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
-    "currentPrice": 2305.0,
+    "currentPrice": 2255.0,
     "targetHighPrice": 3250.0,
     "targetLowPrice": 2051.0,
     "targetMeanPrice": 2589.5757,
@@ -23980,29 +24005,21 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
+    "regularMarketChangePercent": -2.1691973,
+    "regularMarketPrice": 2255.0,
     "marketState": "PREPRE",
-    "regularMarketChangePercent": 0.43572983,
-    "regularMarketPrice": 2305.0,
-    "earningsTimestampEnd": 1784179800,
-    "earningsCallTimestampStart": 1776319200,
-    "earningsCallTimestampEnd": 1776319200,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 73.53,
-    "epsForward": 122.43887,
-    "epsCurrentYear": 97.96233,
-    "priceEpsCurrentYear": 23.529451,
-    "fiftyDayAverageChange": 154.5,
-    "fiftyDayAverageChangePercent": 0.07184376,
-    "twoHundredDayAverageChange": 597.75,
-    "twoHundredDayAverageChangePercent": 0.35012448,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "corporateActions": [],
-    "regularMarketTime": 1780983005,
+    "corporateActions": [
+      {
+        "header": "Dividend",
+        "message": "2330.TW announced a cash dividend of TWD 6.00 with an ex-date of Jun. 11, 2026",
+        "meta": {
+          "eventType": "DIVIDEND",
+          "dateEpochMs": 1781107200000,
+          "amount": "6.00"
+        }
+      }
+    ],
+    "regularMarketTime": 1781069408,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -24010,20 +24027,38 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
+    "priceEpsCurrentYear": 23.01905,
+    "fiftyDayAverageChange": 95.19995,
+    "fiftyDayAverageChangePercent": 0.04407813,
+    "twoHundredDayAverageChange": 541.9,
+    "twoHundredDayAverageChangePercent": 0.31632715,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "hasPrePostMarketData": false,
     "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": 10.0,
-    "regularMarketDayRange": "2295.0 - 2320.0",
+    "regularMarketChange": -50.0,
+    "regularMarketDayRange": "2255.0 - 2300.0",
     "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 34609120,
-    "fiftyTwoWeekLowChange": 1290.0,
-    "fiftyTwoWeekLowChangePercent": 1.270936,
+    "averageDailyVolume3Month": 34478093,
+    "fiftyTwoWeekLowChange": 1240.0,
+    "fiftyTwoWeekLowChangePercent": 1.2216749,
     "fiftyTwoWeekRange": "1015.0 - 2440.0",
-    "fiftyTwoWeekHighChange": -135.0,
-    "fiftyTwoWeekHighChangePercent": -0.05532787,
-    "fiftyTwoWeekChangePercent": 119.617226,
+    "fiftyTwoWeekHighChange": -185.0,
+    "fiftyTwoWeekHighChangePercent": -0.07581967,
+    "fiftyTwoWeekChangePercent": 116.43193,
     "earningsTimestamp": 1776317400,
     "earningsTimestampStart": 1784179800,
-    "trailingPegRatio": 1.1678
+    "earningsTimestampEnd": 1784179800,
+    "earningsCallTimestampStart": 1776319200,
+    "earningsCallTimestampEnd": 1776319200,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 73.51,
+    "epsForward": 122.73281,
+    "epsCurrentYear": 97.96233,
+    "trailingPegRatio": 1.1367
   }
 }
