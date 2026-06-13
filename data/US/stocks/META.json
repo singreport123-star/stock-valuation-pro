@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-06-12T23:10:28.692784",
+    "ts": "2026-06-13T22:57:31.541322",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -150,31 +150,31 @@
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
     "beta": 1.229,
-    "trailingPE": 20.609959,
-    "forwardPE": 15.678837,
+    "trailingPE": 20.617455,
+    "forwardPE": 15.6425705,
     "volume": 14304863,
     "regularMarketVolume": 14304863,
-    "averageVolume": 17173801,
-    "averageVolume10days": 21291890,
-    "averageDailyVolume10Day": 21291890,
+    "averageVolume": 17100942,
+    "averageVolume10days": 20747990,
+    "averageDailyVolume10Day": 20747990,
     "bid": 564.61,
     "ask": 567.04,
     "bidSize": 1,
     "askSize": 2,
     "marketCap": 1439235178496,
-    "nonDilutedMarketCap": 1442915958691,
+    "nonDilutedMarketCap": 1439235244901,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "priceToSalesTrailing12Months": 6.6952696,
-    "fiftyDayAverage": 622.0728,
-    "twoHundredDayAverage": 659.0207,
+    "fiftyDayAverage": 621.8278,
+    "twoHundredDayAverage": 658.0851,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0036943862,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1448504983552,
+    "enterpriseValue": 1444824219648,
     "profitMargins": 0.32837,
     "floatShares": 2192715434,
     "sharesOutstanding": 2196045588,
@@ -184,7 +184,7 @@
     "dateShortInterest": 1780012800,
     "sharesPercentSharesOut": 0.0127,
     "heldPercentInsiders": 0.00103,
-    "heldPercentInstitutions": 0.79342,
+    "heldPercentInstitutions": 0.79343003,
     "shortRatio": 1.91,
     "shortPercentOfFloat": 0.0147,
     "impliedSharesOutstanding": 2538423304,
@@ -195,20 +195,20 @@
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.51,
-    "forwardEps": 36.16212,
-    "pegRatio": 0.83,
-    "enterpriseToRevenue": 6.738,
-    "enterpriseToEbitda": 13.252,
-    "52WeekChange": -0.1675868,
-    "SandP52WeekChange": 0.23713183,
+    "trailingEps": 27.5,
+    "forwardEps": 36.24596,
+    "pegRatio": 0.82,
+    "enterpriseToRevenue": 6.721,
+    "enterpriseToEbitda": 13.218,
+    "52WeekChange": -0.19247425,
+    "SandP52WeekChange": 0.23177934,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1773619200,
     "quoteType": "EQUITY",
     "currentPrice": 566.98,
     "targetHighPrice": 1015.0,
-    "targetLowPrice": 700.0,
-    "targetMeanPrice": 828.798,
+    "targetLowPrice": 664.46,
+    "targetMeanPrice": 827.3183,
     "targetMedianPrice": 825.0,
     "recommendationMean": 1.3125,
     "recommendationKey": "strong_buy",
@@ -240,25 +240,48 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
     "corporateActions": [],
-    "postMarketTime": 1781305818,
+    "postMarketTime": 1781308798,
     "regularMarketTime": 1781294401,
-    "marketState": "POST",
-    "postMarketChangePercent": 0.22399725,
-    "postMarketPrice": 568.25,
-    "postMarketChange": 1.2700195,
-    "regularMarketChange": -1.4500122,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "epsForward": 36.24596,
+    "epsCurrentYear": 32.17953,
+    "priceEpsCurrentYear": 17.619274,
+    "fiftyDayAverageChange": -54.84784,
+    "fiftyDayAverageChangePercent": -0.08820422,
+    "twoHundredDayAverageChange": -91.1051,
+    "twoHundredDayAverageChangePercent": -0.1384397,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-06-13",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "shortName": "Meta Platforms, Inc.",
+    "regularMarketChangePercent": -0.255091,
+    "regularMarketPrice": 566.98,
+    "postMarketChangePercent": 0.4091868,
+    "postMarketPrice": 569.3,
+    "postMarketChange": 2.3200073,
+    "regularMarketChange": -1.45001,
     "regularMarketDayRange": "560.9 - 576.07",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 17173801,
+    "averageDailyVolume3Month": 17100942,
     "fiftyTwoWeekLowChange": 46.71997,
     "fiftyTwoWeekLowChangePercent": 0.08980119,
     "fiftyTwoWeekRange": "520.26 - 796.25",
     "fiftyTwoWeekHighChange": -229.27002,
     "fiftyTwoWeekHighChangePercent": -0.28793722,
-    "fiftyTwoWeekChangePercent": -16.75868,
+    "fiftyTwoWeekChangePercent": -19.247425,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -266,34 +289,11 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.51,
-    "epsForward": 36.16212,
-    "epsCurrentYear": 32.20799,
-    "priceEpsCurrentYear": 17.603706,
-    "regularMarketChangePercent": -0.2550907,
-    "regularMarketPrice": 566.98,
-    "fiftyDayAverageChange": -55.092834,
-    "fiftyDayAverageChangePercent": -0.08856332,
-    "twoHundredDayAverageChange": -92.04071,
-    "twoHundredDayAverageChangePercent": -0.13966285,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-06-12",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_713899537",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
+    "epsTrailingTwelveMonths": 27.5,
+    "marketState": "CLOSED",
+    "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8213
+    "trailingPegRatio": 0.8192
   },
   "financial_statements": {
     "income": {
@@ -1766,156 +1766,32 @@
   },
   "news": [
     {
-      "id": "5d483e69-235d-40a1-b027-1cec385c724c",
+      "id": "2e0ea40a-802c-38f9-b2e7-c67384ae9b26",
       "content": {
-        "id": "5d483e69-235d-40a1-b027-1cec385c724c",
-        "contentType": "VIDEO",
-        "title": "Lessons the Nasdaq learned from the Facebook IPO for SpaceX's",
-        "description": "<p>SpaceX (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/SPCX/\" data-i13n=\"slk:SPCX;cpos:1;pos:1\">SPCX</a>) is finally off to the races and publicly trading after its historic IPO on Friday, June 12.</p>\n<p>Nasdaq (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/NDAQ/\" data-i13n=\"slk:NDAQ;cpos:2;pos:1\">NDAQ</a>) President Nelson Griggs sits down with Market Catalysts Host Julie Hyman and Yahoo Finance Executive Editor Brian Sozzi to discuss the lessons his company has learned from Facebook's — now Meta Platforms (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/META/\" data-i13n=\"slk:META;cpos:3;pos:1\">META</a>) — own IPO in 2012.</p>",
-        "summary": "SpaceX (SPCX) is finally off to the races and publicly trading after its historic IPO on Friday, June 12. Nasdaq (NDAQ) President Nelson Griggs sits down with Market Catalysts Host Julie Hyman and Yahoo Finance Executive Editor Brian Sozzi to discuss the lessons his company has learned from Facebook's — now Meta Platforms (META) — own IPO in 2012.",
-        "pubDate": "2026-06-12T16:08:05Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/v8_ioYTvjZrwqj3UkToaVw--~B/aD0xOTAwO3c9MzM3ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4fcc52b1-a8d6-4d8b-9163-9856e9215d04_4cb40b4f99eb81ba67a80dc37fb3ef9c3d2f631e225121f8dbf2363a9d22ebb7.jpg",
-          "originalWidth": 3378,
-          "originalHeight": 1900,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/v8_ioYTvjZrwqj3UkToaVw--~B/aD0xOTAwO3c9MzM3ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4fcc52b1-a8d6-4d8b-9163-9856e9215d04_4cb40b4f99eb81ba67a80dc37fb3ef9c3d2f631e225121f8dbf2363a9d22ebb7.jpg",
-              "width": 3378,
-              "height": 1900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/sQbnNN5s_dVIouq7Vq5jQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4fcc52b1-a8d6-4d8b-9163-9856e9215d04_4cb40b4f99eb81ba67a80dc37fb3ef9c3d2f631e225121f8dbf2363a9d22ebb7.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/lessons-the-nasdaq-learned-from-the-facebook-ipo-for-spacexs-160805588.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/lessons-the-nasdaq-learned-from-the-facebook-ipo-for-spacexs-160805588.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "620247de-ecea-443f-af96-9305b80840f4",
-      "content": {
-        "id": "620247de-ecea-443f-af96-9305b80840f4",
-        "contentType": "VIDEO",
-        "title": "SpaceX raises $75B in historic IPO, valued at $1.77 trillion",
-        "description": "<p>The big day is here as SpaceX (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/SPCX/\" data-i13n=\"slk:SPCX;cpos:1;pos:1\">SPCX</a>) prepares to go public on the Nasdaq via its historic IPO. Elon Musk's space operator raised $75 billion after pricing 555,555,555 shares at $135 each.</p>\n<p>Morning Brief Host Julie Hyman is joined by Yahoo Finance Senior Reporter Pras Subramanian and Trustless Media Founder Zack Guzman to discuss SpaceX's IPO pricing.</p>",
-        "summary": "The big day is here as SpaceX (SPCX) prepares to go public on the Nasdaq via its historic IPO. Elon Musk's space operator raised $75 billion after pricing 555,555,555 shares at $135 each. Morning Brief Host Julie Hyman is joined by Yahoo Finance Senior Reporter Pras Subramanian and Trustless Media Founder Zack Guzman to discuss SpaceX's IPO pricing.",
-        "pubDate": "2026-06-12T13:34:25Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ZX9zsXl.gOaPTGGR5FkA8w--~B/aD0yNDE4O3c9NDMwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/99d247ef-4f54-4ec3-b27a-cb9b14a1f01a_4a2909ab5f63f79afdbf020a13e8b13dd476347058afd16da0e4e0b4803938fc.jpg",
-          "originalWidth": 4300,
-          "originalHeight": 2418,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZX9zsXl.gOaPTGGR5FkA8w--~B/aD0yNDE4O3c9NDMwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/99d247ef-4f54-4ec3-b27a-cb9b14a1f01a_4a2909ab5f63f79afdbf020a13e8b13dd476347058afd16da0e4e0b4803938fc.jpg",
-              "width": 4300,
-              "height": 2418,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_8OJ.kx8lT_RfV0TryeCgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/99d247ef-4f54-4ec3-b27a-cb9b14a1f01a_4a2909ab5f63f79afdbf020a13e8b13dd476347058afd16da0e4e0b4803938fc.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/spacex-raises-75b-in-historic-ipo-valued-at-177-trillion-133425218.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/spacex-raises-75b-in-historic-ipo-valued-at-177-trillion-133425218.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "61e65c31-508a-37dd-a11b-92bfec9b88d7",
-      "content": {
-        "id": "61e65c31-508a-37dd-a11b-92bfec9b88d7",
+        "id": "2e0ea40a-802c-38f9-b2e7-c67384ae9b26",
         "contentType": "STORY",
-        "title": "With smooth SpaceX debut, Wall Street sets new template for mega IPOs  ",
+        "title": "Truist Reiterates “Buy” Rating On Meta Platforms (META) With $840 PT",
         "description": "",
-        "summary": "By Anirban Sen, Nivedita Balu and Saeed Azhar NEW YORK, June 12 (Reuters) - A collective sigh of relief swept across Wall Street after trading for SpaceX’s landmark Nasdaq launch went smoothly,",
-        "pubDate": "2026-06-12T22:23:18Z",
-        "displayTime": "2026-06-12T22:23:18Z",
+        "summary": "Meta Platforms, Inc. (NASDAQ:META) carries a profit margin of 39.36% and net income of $60.46 billion (FY25), securing its place on our list of the most profitable blue chip stocks to buy according to hedge funds, with analysts seeing 41.10% upside for the stock. That profitability is supported by a business that continues to grow […]",
+        "pubDate": "2026-06-13T17:59:50Z",
+        "displayTime": "2026-06-13T17:59:50Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters.com/d84382f4c5ad520276516b0c1f91aa66",
-          "originalWidth": 800,
-          "originalHeight": 561,
-          "caption": "A woman uses an umbrella to shield herself from the sun near Tower Bridge in London, Britain May 22, 2026. REUTERS/Chris J. Ratcliffe/File Photo",
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/6d9b9f21ed7756c0d2bf7940076538b9",
+          "originalWidth": 2048,
+          "originalHeight": 2048,
+          "caption": "Truist Reiterates \"Buy\" Rating On Meta Platforms (META) With $840 PT",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5OSwqe0GuR6RFM.mflLXWQ--~B/aD01NjE7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/d84382f4c5ad520276516b0c1f91aa66",
-              "width": 800,
-              "height": 561,
+              "url": "https://s.yimg.com/uu/api/res/1.2/z.EE0H3t_nkNLUFXCMOu9Q--~B/aD0yMDQ4O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/6d9b9f21ed7756c0d2bf7940076538b9",
+              "width": 2048,
+              "height": 2048,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/W9Ekl_SIbpVH3a8O2_YBkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/d84382f4c5ad520276516b0c1f91aa66",
+              "url": "https://s.yimg.com/uu/api/res/1.2/W6ZyKzbifHoEQS0to_OAQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6d9b9f21ed7756c0d2bf7940076538b9",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1923,18 +1799,18 @@
           ]
         },
         "provider": {
-          "displayName": "Reuters",
-          "url": "https://www.reuters.com/",
-          "sourceId": "reuters.com"
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/smooth-spacex-debut-wall-street-222318248.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/truist-reiterates-buy-rating-meta-175950721.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/smooth-spacex-debut-wall-street-222318248.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/truist-reiterates-buy-rating-meta-175950721.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1952,32 +1828,32 @@
       }
     },
     {
-      "id": "3f0b055a-779c-3814-b187-a919c6b33e0d",
+      "id": "425895f0-c6f9-34a5-88a6-5209804c2274",
       "content": {
-        "id": "3f0b055a-779c-3814-b187-a919c6b33e0d",
+        "id": "425895f0-c6f9-34a5-88a6-5209804c2274",
         "contentType": "STORY",
-        "title": "SpaceX surges past $2 trillion in Nasdaq debut, closes in on Amazon",
+        "title": "Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now?",
         "description": "",
-        "summary": "June 12 (Reuters) - SpaceX shares jumped 19% in their Nasdaq debut on Friday, sending the company's value past $2 trillion to make it the sixth-biggest U. company by value and turning Elon Musk into the world's first trillionaire.",
-        "pubDate": "2026-06-12T22:11:20Z",
-        "displayTime": "2026-06-12T22:11:20Z",
+        "summary": "Is AMD a good stock to buy? We came across a bullish thesis on Advanced Micro Devices, Inc. on Beyond the Noise’s Substack by Cristobal Botanch. In this article, we will summarize the bulls’ thesis on AMD. Advanced Micro Devices, Inc.’s share was trading at $490.33 as of June 8th. AMD’s trailing and forward P/E were 155.46 […]",
+        "pubDate": "2026-06-13T16:57:33Z",
+        "displayTime": "2026-06-13T16:57:33Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters.com/22a379351e27dc98b61eba04254c50f7",
-          "originalWidth": 800,
-          "originalHeight": 523,
-          "caption": "A view of an advertisement of Starlink on the day of SpaceX's initial public offering (IPO) at the Nasdaq MarketSite, in New York City, U.S., June 12, 2026. REUTERS/Jeenah Moon",
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/be43169ad830b3d5bcbfa29ab5b0fb6f",
+          "originalWidth": 1000,
+          "originalHeight": 669,
+          "caption": "Jim Cramer Reveals Why Micron (MU) Is Better Than The Firm That Makes Betty Crocker Mixes",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OHSgZA0dcwoUjN57ROy3Ug--~B/aD01MjM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/22a379351e27dc98b61eba04254c50f7",
-              "width": 800,
-              "height": 523,
+              "url": "https://s.yimg.com/uu/api/res/1.2/d_K9Eth6pK5y9zRFngb71A--~B/aD02Njk7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/be43169ad830b3d5bcbfa29ab5b0fb6f",
+              "width": 1000,
+              "height": 669,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CqZvH0ryk8GRW2Q424iiug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/22a379351e27dc98b61eba04254c50f7",
+              "url": "https://s.yimg.com/uu/api/res/1.2/GbYinr8Lcd6T4ZVtYE6JeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/be43169ad830b3d5bcbfa29ab5b0fb6f",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1985,18 +1861,18 @@
           ]
         },
         "provider": {
-          "displayName": "Reuters",
-          "url": "https://www.reuters.com/",
-          "sourceId": "reuters.com"
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://uk.finance.yahoo.com/news/record-ipo-musks-spacex-faces-100248550.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-inc-amd-165733720.html",
           "site": "finance",
-          "region": "GB",
-          "lang": "en-GB"
+          "region": "US",
+          "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/record-ipo-musks-spacex-faces-100248550.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-inc-amd-165733720.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2014,32 +1890,32 @@
       }
     },
     {
-      "id": "b9d49b7f-8622-3cca-818e-f58301aa3ad6",
+      "id": "e28c2bf3-1a3b-390e-8863-529df852a6f9",
       "content": {
-        "id": "b9d49b7f-8622-3cca-818e-f58301aa3ad6",
+        "id": "e28c2bf3-1a3b-390e-8863-529df852a6f9",
         "contentType": "STORY",
-        "title": "Why AMD (AMD) Stock Is Up Today",
+        "title": "SpaceX Stock Closed Up 19% in Its First Day Of Trading. Should Investors Buy, or Wait for the Hype to Cool?",
         "description": "",
-        "summary": "Shares of computer processor maker AMD (NASDAQ:AMD) jumped 4.6% in the afternoon session after Citi analyst Atif Malik upgraded the stock to Buy from Neutral and raised his price target to $575 from $460, making the case that \"the market has yet to fully recognize AMD as a legit second source in the GPU market.\"",
-        "pubDate": "2026-06-12T21:57:20Z",
-        "displayTime": "2026-06-12T21:57:20Z",
+        "summary": "The most anticipated debut in years is now trading. The harder question is whether the entry point makes sense after a big first-day pop.",
+        "pubDate": "2026-06-13T15:23:00Z",
+        "displayTime": "2026-06-13T15:23:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/d8e71fcf83a5154bb9a363113758de33",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/decc33e71c697f5843683ca1b515af8c",
           "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "AMD Cover Image",
+          "originalHeight": 933,
+          "caption": "A rocket lifting off.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/LJ0S8Zl1zqUxZrSHlU7.CA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/d8e71fcf83a5154bb9a363113758de33",
+              "url": "https://s.yimg.com/uu/api/res/1.2/43u8kBG15G2PqavvLa1V.g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/decc33e71c697f5843683ca1b515af8c",
               "width": 1400,
-              "height": 700,
+              "height": 933,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3HHb5oek_OQ1sFq8oy8HOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/d8e71fcf83a5154bb9a363113758de33",
+              "url": "https://s.yimg.com/uu/api/res/1.2/XTkq99uUpHNMo_L9tDr72Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/decc33e71c697f5843683ca1b515af8c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2047,18 +1923,18 @@
           ]
         },
         "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-amd-stock-today-215720676.html",
+          "url": "https://www.fool.com/investing/2026/06/13/spacex-stock-closed-up-19-in-its-first-day-of-trad/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-amd-stock-today-215720676.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-closed-19-first-152300816.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2076,32 +1952,32 @@
       }
     },
     {
-      "id": "9aec4791-6c14-36bb-b290-ed84cd33ed96",
+      "id": "b9b3e305-3666-3c21-9199-5f04dfd2ffa7",
       "content": {
-        "id": "9aec4791-6c14-36bb-b290-ed84cd33ed96",
+        "id": "b9b3e305-3666-3c21-9199-5f04dfd2ffa7",
         "contentType": "STORY",
-        "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+        "title": "Why Meta Platforms Might Be a Good Buy Right Now",
         "description": "",
-        "summary": "Meta CEO Mark Zuckerberg has told employees that the social media giant has made mistakes in its AI transformation of ‌its workforce, according to an internal memo seen by Reuters.  Zuckerberg is pumping hundreds ‌of billions of dollars into AI as he seeks to reshape his company's inner workings around the technology, reflecting ​a broader pattern among major U.S. companies this year, particularly in the tech sector.  In the memo, Zuckerberg describes the rapid advances in AI and the challenges brought on by the boom in the technology.",
-        "pubDate": "2026-06-12T21:23:24Z",
-        "displayTime": "2026-06-12T21:23:24Z",
+        "summary": "Regulatory and spending challenges shouldn't scare away investors.",
+        "pubDate": "2026-06-13T15:20:00Z",
+        "displayTime": "2026-06-13T15:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/068d6e7d5bf35fbb65b92fde4358548e",
-          "originalWidth": 800,
-          "originalHeight": 518,
-          "caption": "Meta Platforms CEO Mark Zuckerberg arrives outside court to take the stand at trial, in Los Angeles",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/660ad7200a2e4676a081634003883a98",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "The Meta Platforms logo on a blue backdrop.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OEMGfZWdk4Cb1O0pO5ADbg--~B/aD01MTg7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/068d6e7d5bf35fbb65b92fde4358548e",
-              "width": 800,
-              "height": 518,
+              "url": "https://s.yimg.com/uu/api/res/1.2/gOqxnpMTznzyMT.GUQzuXQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/660ad7200a2e4676a081634003883a98",
+              "width": 1200,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/cMBtRRUAncgCQk7nFvrHrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/068d6e7d5bf35fbb65b92fde4358548e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/o3N7N5EetyxVRDBANUuT9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/660ad7200a2e4676a081634003883a98",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2109,18 +1985,18 @@
           ]
         },
         "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/metas-zuckerberg-admits-mistakes-made-212324380.html",
+          "url": "https://www.fool.com/investing/2026/06/13/why-meta-platforms-might-be-a-good-buy-right-now/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/sectors/technology/articles/metas-zuckerberg-admits-mistakes-made-212324380.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-platforms-might-good-152000919.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2138,32 +2014,51 @@
       }
     },
     {
-      "id": "df04465c-e491-3d7a-910b-c9fe2446fa60",
+      "id": "7e16c1b3-a71f-3db5-ab2e-ffd3856152a5",
       "content": {
-        "id": "df04465c-e491-3d7a-910b-c9fe2446fa60",
+        "id": "7e16c1b3-a71f-3db5-ab2e-ffd3856152a5",
         "contentType": "STORY",
-        "title": "S&P 500 Posts Weekly Gain Amid Heightened Iran Deal Expectations, Dovish Inflation Prints",
+        "title": "Amazon Just Made Its Graviton5 Processor Generally Available to Customers. What This Means for AMZN Stock.",
         "description": "",
-        "summary": "The Standard & Poor's 500 index rose 0.7% this week as the US edged closer to signing a peace deal w",
-        "pubDate": "2026-06-12T20:45:17Z",
-        "displayTime": "2026-06-12T20:45:17Z",
+        "summary": "Amazon's Graviton5 processor can advance its custom silicon strategy designed to deliver better performance and lower costs for AWS workloads and AI infrastructure.",
+        "pubDate": "2026-06-13T15:00:03Z",
+        "displayTime": "2026-06-13T15:00:03Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/5315b40465374421aadcde536da55dfe",
+          "originalWidth": 1600,
+          "originalHeight": 1067,
+          "caption": "Amazon_com Inc_  logo on building by- HJBC via iStock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QmQwhTvpFkfFSmezKfFaUg--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/5315b40465374421aadcde536da55dfe",
+              "width": 1600,
+              "height": 1067,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8rh5ZPIQwVU0KONoMD7ruw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/5315b40465374421aadcde536da55dfe",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
         "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-204517427.html",
+          "url": "https://www.barchart.com/story/news/2455494/amazon-just-made-its-graviton5-processor-generally-available-to-customers-what-this-means-for-amzn-stock",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-204517427.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-just-made-graviton5-processor-150003012.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2173,7 +2068,7 @@
         },
         "finance": {
           "premiumFinance": {
-            "isPremiumNews": true,
+            "isPremiumNews": false,
             "isPremiumFreeNews": false
           }
         },
@@ -2181,32 +2076,94 @@
       }
     },
     {
-      "id": "6c2b33c0-1843-3c61-bf8c-c14161c7b06d",
+      "id": "3ac7e5a3-61c9-393f-a794-550d27e46375",
       "content": {
-        "id": "6c2b33c0-1843-3c61-bf8c-c14161c7b06d",
+        "id": "3ac7e5a3-61c9-393f-a794-550d27e46375",
         "contentType": "STORY",
-        "title": "AMD Stock Ended Friday’s Session Nearly 5% Higher — What Triggered The Rally?",
+        "title": "TSMC Revenue Surges 30% in May on Relentless AI Demand. TSM Stock Is Still Undervalued Here.",
         "description": "",
-        "summary": "Citi upgraded AMD to ‘Buy’ and lifted its price target, stating that investors should also be looking at the company’s graphics processing unit’s potential.",
-        "pubDate": "2026-06-12T20:37:22Z",
-        "displayTime": "2026-06-12T20:37:22Z",
+        "summary": "The world's most important chipmaker just gave investors another reason to believe the AI boom is far from over.",
+        "pubDate": "2026-06-13T15:00:03Z",
+        "displayTime": "2026-06-13T15:00:03Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/2483ad464e8f4bac504a964433c09587",
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/48711142162b134f8f7680caf42599f6",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "caption": "Ai chip by Quality Stock Arts via Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WI6Tch3orhKDjTbwu.45fg--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/48711142162b134f8f7680caf42599f6",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RXEh_p4x2IzBoTlbs7yGVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/48711142162b134f8f7680caf42599f6",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/2455490/tsmc-revenue-surges-30-in-may-on-relentless-ai-demand-tsm-stock-is-still-undervalued-here",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-revenue-surges-30-may-150003206.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2729cce8-9d0e-39e4-8664-4ebbc474140b",
+      "content": {
+        "id": "2729cce8-9d0e-39e4-8664-4ebbc474140b",
+        "contentType": "STORY",
+        "title": "SpaceX's Nasdaq Debut Puts Bitcoin On 25% Of 'Mag8' Balance Sheets, Strategy’s Michael Saylor Says",
+        "description": "",
+        "summary": "FTSE Russell confirmed SpaceX will join the Russell 1000 and Russell Top 200 on June 26, with MSCI adding it to its standard and large-cap indexes on June 29.",
+        "pubDate": "2026-06-13T14:48:11Z",
+        "displayTime": "2026-06-13T14:48:11Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/42b62403e6baec5ced8bf0e0ba131e24",
           "originalWidth": 1280,
           "originalHeight": 853,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/TiInxXT9eb662maLJxT0pg--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/2483ad464e8f4bac504a964433c09587",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ybl0ubYNrcw3.Tv1Dk3QDw--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/42b62403e6baec5ced8bf0e0ba131e24",
               "width": 1280,
               "height": 853,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/c9MF.coGyUDANhjdkMq2XA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2483ad464e8f4bac504a964433c09587",
+              "url": "https://s.yimg.com/uu/api/res/1.2/K4_J3iqePD9Gi6N8nO4T1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/42b62403e6baec5ced8bf0e0ba131e24",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2219,13 +2176,13 @@
           "sourceId": "stocktwits_383"
         },
         "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/amd-stock-ended-fridays-session-nearly-5-percent-higher-what-triggered-the-rally/cZKdJXoR75W",
+          "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/saylor-spacex-mag8-bitcoin/cZKII4kR75H",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-ended-friday-session-203722772.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-nasdaq-debut-puts-bitcoin-144811593.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2243,32 +2200,32 @@
       }
     },
     {
-      "id": "a87d4360-51e7-3171-8bda-e2208866a15b",
+      "id": "8bcb2f85-67f3-3954-9e6d-6b629388e7b7",
       "content": {
-        "id": "a87d4360-51e7-3171-8bda-e2208866a15b",
+        "id": "8bcb2f85-67f3-3954-9e6d-6b629388e7b7",
         "contentType": "STORY",
-        "title": "AMD Stock Upgraded To Buy On GPU Upside",
+        "title": "The Great, Big, Boring SpaceX IPO",
         "description": "",
-        "summary": "A Wall Street analyst on Friday upgraded AMD stock to buy from neutral, saying its GPU business is undervalued.",
-        "pubDate": "2026-06-12T20:20:35Z",
-        "displayTime": "2026-06-12T20:20:35Z",
+        "summary": "The SpaceX initial public offering was expected to deliver exciting twists and turns, fireworks, and flare-ups—the kind of drama usually reserved for a summer thriller.  The public debut of SpaceX—officially  Space Exploration Technologies  — portended different things to different investors but was significant for all.  To others, it represented a gateway to an artificial intelligence-fueled utopia, in which SpaceX is worth trillions.",
+        "pubDate": "2026-06-13T14:40:00Z",
+        "displayTime": "2026-06-13T14:40:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/a87d4360-51e7-3171-8bda-e2208866a15b/amd-stock-upgraded-to-buy-on.html",
+        "previewUrl": "https://finance.yahoo.com/m/8bcb2f85-67f3-3954-9e6d-6b629388e7b7/the-great-big-boring-spacex.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/4674229a1c0707a3c982eeca4b06de1f",
-          "originalWidth": 1000,
-          "originalHeight": 511,
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/55f18d4542c6f3110394211b2f173065",
+          "originalWidth": 1280,
+          "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aaI82BW4iZBS0WLMsNrYiA--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4674229a1c0707a3c982eeca4b06de1f",
-              "width": 1000,
-              "height": 511,
+              "url": "https://s.yimg.com/uu/api/res/1.2/lHEUiCPeDM2.vMFDoFpH3w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/55f18d4542c6f3110394211b2f173065",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Nt7PgvlNIMmw4jLPz3mFOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4674229a1c0707a3c982eeca4b06de1f",
+              "url": "https://s.yimg.com/uu/api/res/1.2/DKWNj8me3ykXvA5lguESLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/55f18d4542c6f3110394211b2f173065",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2276,12 +2233,12 @@
           ]
         },
         "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/news/technology/amd-stock-upgraded-to-buy-on-gpu-upside/?src=A00220&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/spacex-ipo-stock-price-spcx-494b9186?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2300,32 +2257,32 @@
       }
     },
     {
-      "id": "95802bee-8654-33b2-8bdd-27db7bef0d88",
+      "id": "9edef0a0-2dc1-3d40-af5a-9413a8aa659f",
       "content": {
-        "id": "95802bee-8654-33b2-8bdd-27db7bef0d88",
+        "id": "9edef0a0-2dc1-3d40-af5a-9413a8aa659f",
         "contentType": "STORY",
-        "title": "Best Buy Leans Into Experiential Tech To Support Growth Narrative",
+        "title": "3 Semiconductor Stocks to Buy While They Are Down in June",
         "description": "",
-        "summary": "Best Buy (NYSE:BBY) is partnering with Meta to open hands-on Meta Lab experiences in more than 50 stores, giving shoppers direct access to AI and VR products. The company is also rolling out GEEKOM Mini PCs in stores, expanding beyond their prior online focused availability. Both moves highlight a push toward in store experiential tech and compact computing options for customers. For investors watching NYSE:BBY, these product and in store changes sit against a share price of $77.1. The...",
-        "pubDate": "2026-06-12T20:10:24Z",
-        "displayTime": "2026-06-12T20:10:24Z",
+        "summary": "Semiconductor leaders are coming into June 2026 with a fresh dent in the chart after a spring run that pushed valuations to uncomfortable levels. The trigger was Broadcom’s Q3 AI revenue guide, which came in at $16 billion versus analyst expectations near $17.2 billion and dragged the entire AI chip complex lower. The PHLX chip ... 3 Semiconductor Stocks to Buy While They Are Down in June",
+        "pubDate": "2026-06-13T14:30:37Z",
+        "displayTime": "2026-06-13T14:30:37Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/979b1e1513c65589c1c4be158aa203a9",
-          "originalWidth": 1194,
-          "originalHeight": 432,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/c7ae02f06798ef8277ba94270769d5a4",
+          "originalWidth": 1376,
+          "originalHeight": 768,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/u0N6qxFBmQWOBBotYYILyA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/979b1e1513c65589c1c4be158aa203a9",
-              "width": 1194,
-              "height": 432,
+              "url": "https://s.yimg.com/uu/api/res/1.2/q96de8934JX8BPVBsdlmew--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/c7ae02f06798ef8277ba94270769d5a4",
+              "width": 1376,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/LV23WRrZhhbaRwKt60spJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/979b1e1513c65589c1c4be158aa203a9",
+              "url": "https://s.yimg.com/uu/api/res/1.2/4pBxSVmyND3tBmWk8xffCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c7ae02f06798ef8277ba94270769d5a4",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2333,18 +2290,80 @@
           ]
         },
         "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-buy-leans-experiential-tech-201024037.html",
+          "url": "https://247wallst.com/investing/2026/06/13/3-semiconductor-stocks-to-buy-while-they-are-down-in-june/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-buy-leans-experiential-tech-201024037.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-buy-while-143037327.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6b6c6a3f-329a-3c22-9c08-8fc0c18c932f",
+      "content": {
+        "id": "6b6c6a3f-329a-3c22-9c08-8fc0c18c932f",
+        "contentType": "STORY",
+        "title": "Harvard University Likes Meta (META) Stock Despite AI CapEx Fears",
+        "description": "",
+        "summary": "We just covered Harvard University Stock Portfolio 2026: Top 10 Picks. Meta Platforms (NASDAQ:META) ranks #8 (see Harvard University Stock Portfolio 2026: Top 5 Picks). Harvard’s Stake: $111,310,180 Meta Platforms (NASDAQ:META) is down about 12% so far this year, with CapEx-related fears being the primary drag on the stock despite Mark Zuckerberg’s assurances that these […]",
+        "pubDate": "2026-06-13T13:41:04Z",
+        "displayTime": "2026-06-13T13:41:04Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/d636804777e86306db796c6b7eec75a0",
+          "originalWidth": 750,
+          "originalHeight": 500,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CpLrDcWLL_U0E_ViX4jogw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d636804777e86306db796c6b7eec75a0",
+              "width": 750,
+              "height": 500,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CcVnpksIPcWt4RxEdSxmhw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d636804777e86306db796c6b7eec75a0",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/harvard-university-likes-meta-meta-134104742.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/harvard-university-likes-meta-meta-134104742.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
