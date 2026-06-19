@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-06-18T23:29:47.036501",
+    "ts": "2026-06-19T22:47:53.709196",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -154,22 +154,22 @@
     "forwardPE": 15.925084,
     "volume": 26843593,
     "regularMarketVolume": 26843593,
-    "averageVolume": 17294365,
-    "averageVolume10days": 18646460,
-    "averageDailyVolume10Day": 18646460,
+    "averageVolume": 17542369,
+    "averageVolume10days": 19386740,
+    "averageDailyVolume10Day": 19386740,
     "bid": 577.92,
     "ask": 577.91,
     "bidSize": 1,
     "askSize": 2,
     "marketCap": 1465228591104,
-    "nonDilutedMarketCap": 1440758298884,
+    "nonDilutedMarketCap": 1465228699534,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "priceToSalesTrailing12Months": 6.81619,
-    "fiftyDayAverage": 622.6026,
-    "twoHundredDayAverage": 655.7055,
+    "fiftyDayAverage": 621.8986,
+    "twoHundredDayAverage": 654.9161,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0036999187,
     "currency": "USD",
@@ -197,11 +197,11 @@
     "netIncomeToCommon": 70586998784,
     "trailingEps": 27.49,
     "forwardEps": 36.24596,
-    "pegRatio": 0.87,
+    "pegRatio": 0.83,
     "enterpriseToRevenue": 7.114,
     "enterpriseToEbitda": 13.99,
-    "52WeekChange": -0.16819817,
-    "SandP52WeekChange": 0.24334764,
+    "52WeekChange": -0.1540705,
+    "SandP52WeekChange": 0.2568333,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
@@ -241,23 +241,21 @@
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
     "cryptoTradeable": false,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "marketState": "POST",
+    "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.30317733,
-    "postMarketPrice": 575.47,
-    "postMarketChange": -1.75,
-    "regularMarketChange": 9.639954,
+    "postMarketChangePercent": -0.41924796,
+    "postMarketPrice": 574.8,
+    "postMarketChange": -2.419983,
+    "regularMarketChange": 9.63995,
     "regularMarketDayRange": "563.1 - 580.215",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 17294365,
+    "averageDailyVolume3Month": 17542369,
     "fiftyTwoWeekLowChange": 56.95996,
     "fiftyTwoWeekLowChangePercent": 0.109483644,
     "fiftyTwoWeekRange": "520.26 - 796.25",
     "fiftyTwoWeekHighChange": -219.03003,
     "fiftyTwoWeekHighChangePercent": -0.27507696,
-    "fiftyTwoWeekChangePercent": -16.819817,
+    "fiftyTwoWeekChangePercent": -15.407049,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -269,20 +267,20 @@
     "epsForward": 36.24596,
     "epsCurrentYear": 32.17953,
     "priceEpsCurrentYear": 17.937489,
-    "fiftyDayAverageChange": -45.38263,
-    "fiftyDayAverageChangePercent": -0.07289181,
-    "twoHundredDayAverageChange": -78.485535,
-    "twoHundredDayAverageChangePercent": -0.11969632,
+    "fiftyDayAverageChange": -44.67865,
+    "fiftyDayAverageChangePercent": -0.071842335,
+    "twoHundredDayAverageChange": -77.696106,
+    "twoHundredDayAverageChangePercent": -0.11863521,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-06-18",
+    "nameChangeDate": "2026-06-19",
     "averageAnalystRating": "1.3 - Strong Buy",
-    "regularMarketChangePercent": 1.6984308,
-    "regularMarketPrice": 577.22,
+    "longName": "Meta Platforms, Inc.",
+    "shortName": "Meta Platforms, Inc.",
     "corporateActions": [],
-    "postMarketTime": 1781825375,
+    "postMarketTime": 1781827193,
     "regularMarketTime": 1781812801,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
@@ -291,9 +289,11 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "hasPrePostMarketData": true,
+    "regularMarketChangePercent": 1.69843,
+    "regularMarketPrice": 577.22,
+    "marketState": "CLOSED",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8201
+    "trailingPegRatio": 0.834
   },
   "financial_statements": {
     "income": {
@@ -1766,32 +1766,280 @@
   },
   "news": [
     {
-      "id": "88bd19ad-d8fc-307f-b8fa-d35955755bb2",
+      "id": "ed52ddc2-aa80-3468-8ae7-a4d1e09d773a",
       "content": {
-        "id": "88bd19ad-d8fc-307f-b8fa-d35955755bb2",
+        "id": "ed52ddc2-aa80-3468-8ae7-a4d1e09d773a",
         "contentType": "STORY",
-        "title": "Court orders Ohio restrictions on kids’ use of social media restored",
+        "title": "Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI. At 25 Times Forward Earnings, It's the Cheapest Mega-Cap AI Stock Nobody Talks About.",
         "description": "",
-        "summary": "Ohio's law requiring children under 16 to get parental consent to use social media apps must be restored, a divided panel of the Sixth Circuit Court of Appeals ruled Thursday.  The decision comes as a blow to NetChoice, which had won court victories against similar laws in other states, including California and Arkansas.  The trade group representing TikTok, Snapchat, Meta and other major tech companies brought suit against Ohio's law in 2024, arguing that it was overly broad, vague and represented an unconstitutional impediment to free speech.",
-        "pubDate": "2026-06-18T22:51:02Z",
-        "displayTime": "2026-06-18T22:51:02Z",
+        "summary": "The tech giant is one of the best long-term plays on the booming AI market.",
+        "pubDate": "2026-06-19T21:50:00Z",
+        "displayTime": "2026-06-19T21:50:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/6303e36bdb80b00588a162256382b6ab",
+          "originalWidth": 1400,
+          "originalHeight": 787,
+          "caption": "A digital illustration of an AI chip.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/SrccJ7zM1SwpaU6kxQa_mA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6303e36bdb80b00588a162256382b6ab",
+              "width": 1400,
+              "height": 787,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/SjY9jEG5nkbrT8HvzzPtyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6303e36bdb80b00588a162256382b6ab",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/06/19/broadcom-builds-custom-chips-for-google-meta-anthr/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-builds-custom-chips-google-215000298.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9aa99b5e-574f-393a-97eb-1de8b09c3f42",
+      "content": {
+        "id": "9aa99b5e-574f-393a-97eb-1de8b09c3f42",
+        "contentType": "STORY",
+        "title": "Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
+        "description": "",
+        "summary": "You check your portfolio and it looks like every other portfolio in America. Apple, Microsoft, NVIDIA, Amazon, Meta, Alphabet, and a heaping side of S&P 500 index fund that is, when you look under the hood, basically more of the same seven names. You are 38, you have 25-plus years until retirement, and you have ... Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
+        "pubDate": "2026-06-19T21:30:35Z",
+        "displayTime": "2026-06-19T21:30:35Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/6ec15312c8461c6de0e09dff3da3f7fb",
+          "originalWidth": 1500,
+          "originalHeight": 791,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dD4Srhy93AByHdMwIu9q_w--~B/aD03OTE7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/6ec15312c8461c6de0e09dff3da3f7fb",
+              "width": 1500,
+              "height": 791,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/DUT1RB06l5SGj5ySIj9Eyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6ec15312c8461c6de0e09dff3da3f7fb",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/19/making-six-figures-but-betting-everything-on-u-s-stocks-avuv-fixes-that-problem/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/making-six-figures-betting-everything-213035666.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9f84b35a-18d4-3c59-910e-33c667393510",
+      "content": {
+        "id": "9f84b35a-18d4-3c59-910e-33c667393510",
+        "contentType": "STORY",
+        "title": "If You’re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
+        "description": "",
+        "summary": "You check your portfolio and it looks like every other portfolio in America. Apple, Microsoft, NVIDIA, Amazon, Meta, Alphabet, and a heaping side of S&P 500 index fund that is, when you look under the hood, basically more of the same seven names. You are 38, you have 25 plus years until retirement, and you ... If You’re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
+        "pubDate": "2026-06-19T21:10:12Z",
+        "displayTime": "2026-06-19T21:10:12Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f2d2b6b9e7d3e19728bd644fccf3584e",
+          "originalWidth": 1500,
+          "originalHeight": 1000,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.MLRUGy2qQjYqtZrvhwPaw--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/f2d2b6b9e7d3e19728bd644fccf3584e",
+              "width": 1500,
+              "height": 1000,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eC8IGqTw6m9bGgGwfgslIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f2d2b6b9e7d3e19728bd644fccf3584e",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/19/if-youre-38-with-500k-saved-avuv-fixes-your-tech-heavy-portfolio/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/38-500k-saved-avuv-fixes-211012072.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b6ff049d-9f52-34d5-922b-d2032afa06cd",
+      "content": {
+        "id": "b6ff049d-9f52-34d5-922b-d2032afa06cd",
+        "contentType": "STORY",
+        "title": "Prediction: Meta's AI Spending Will Pay Off Bigger Than Wall Street Expects",
+        "description": "",
+        "summary": "The social media giant's soaring infrastructure budget has rattled investors. But its advertising business is already turning that spending into results.",
+        "pubDate": "2026-06-19T21:01:00Z",
+        "displayTime": "2026-06-19T21:01:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a931986088cb2dc10ca61868b59c2a0d",
+          "originalWidth": 1400,
+          "originalHeight": 900,
+          "caption": "Computer servers in a data center.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pX.3KPqxrniR04JGOmaYPg--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a931986088cb2dc10ca61868b59c2a0d",
+              "width": 1400,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OOc_G4H9JCD8.gTF_gPqUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a931986088cb2dc10ca61868b59c2a0d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/06/19/prediction-metas-ai-spending-will-pay-off-bigger-t/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/prediction-metas-ai-spending-pay-210100389.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "510305a0-a8d3-3173-b227-e898bf9b90c6",
+      "content": {
+        "id": "510305a0-a8d3-3173-b227-e898bf9b90c6",
+        "contentType": "STORY",
+        "title": "Oklo Locks In Domestic Nuclear Fuel Supply for Its Ohio Gigawatt Campus",
+        "description": "",
+        "summary": "Centrus will supply HALEU for up to five Aurora powerhouses from its Pike County plant",
+        "pubDate": "2026-06-19T18:10:31Z",
+        "displayTime": "2026-06-19T18:10:31Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": null,
         "provider": {
-          "displayName": "Associated Press",
-          "url": "https://apnews.com/",
-          "sourceId": "ap.org"
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://www.yahoo.com/news/us/articles/court-orders-ohio-restrictions-kids-225102946.html",
-          "site": "news",
+          "url": "https://finance.yahoo.com/energy/articles/oklo-locks-domestic-nuclear-fuel-181031886.html",
+          "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://www.yahoo.com/news/us/articles/court-orders-ohio-restrictions-kids-225102946.html",
+          "url": "https://finance.yahoo.com/energy/articles/oklo-locks-domestic-nuclear-fuel-181031886.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1809,32 +2057,32 @@
       }
     },
     {
-      "id": "1fbea0f3-26dc-39a8-bba5-0dd006873eb5",
+      "id": "b1c5edda-0233-3af9-9940-9efd4e798d5b",
       "content": {
-        "id": "1fbea0f3-26dc-39a8-bba5-0dd006873eb5",
+        "id": "b1c5edda-0233-3af9-9940-9efd4e798d5b",
         "contentType": "STORY",
-        "title": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports",
+        "title": "This Metal is Crucial for AI, Yet in Short Supply. Here Are 3 Top Mining Stocks to Buy to Capitalize on the Looming Deficit.",
         "description": "",
-        "summary": "Meta Platforms has secured new agreements to get AI computing power from data ‌center developer Crusoe, Bloomberg News reported on Thursday, ‌as it strengthens infrastructure required to support its AI expansion.  Meta and ​Crusoe did not immediately respond to Reuters' requests for comment on the report, which cited people familiar with the situation.  • ⁠Meta is under contract to buy computing capacity from Crusoe at two data centers, ⁠which are located in Childress, Texas, and Warrenton, Missouri, according to the report.",
-        "pubDate": "2026-06-18T21:24:31Z",
-        "displayTime": "2026-06-18T21:24:31Z",
+        "summary": "The data center build-out is driving demand for copper.",
+        "pubDate": "2026-06-19T18:00:00Z",
+        "displayTime": "2026-06-19T18:00:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/3de4b6e9f08c1e017e8ebc2062769657",
-          "originalWidth": 800,
-          "originalHeight": 553,
-          "caption": "People walk behind a logo of Meta Platforms company, during a conference in Mumbai,",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/9fdd807551ef794e4e06841153ccfe8e",
+          "originalWidth": 1400,
+          "originalHeight": 937,
+          "caption": "Trucks full of ore at a giant mine.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VDoRwIcuK4ZHi9.5D9uV6g--~B/aD01NTM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/3de4b6e9f08c1e017e8ebc2062769657",
-              "width": 800,
-              "height": 553,
+              "url": "https://s.yimg.com/uu/api/res/1.2/4e0MkF1s57C8sBasIUU.Vw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9fdd807551ef794e4e06841153ccfe8e",
+              "width": 1400,
+              "height": 937,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/90AgNEK_qGS_ebK5hmO_KQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/3de4b6e9f08c1e017e8ebc2062769657",
+              "url": "https://s.yimg.com/uu/api/res/1.2/R7Q3ajraLCwHtDDZ4fFRXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9fdd807551ef794e4e06841153ccfe8e",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1842,18 +2090,18 @@
           ]
         },
         "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-signs-ai-computing-deals-212431949.html",
+          "url": "https://www.fool.com/investing/2026/06/19/this-metal-is-crucial-for-ai-yet-in-short-supply/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-signs-ai-computing-deals-212431949.html",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/metal-crucial-ai-yet-short-180000323.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1871,156 +2119,32 @@
       }
     },
     {
-      "id": "6fd42909-8d5d-3c70-bf72-775b34e960d2",
+      "id": "0b490e88-7fd2-318a-9ae8-92061ffc9155",
       "content": {
-        "id": "6fd42909-8d5d-3c70-bf72-775b34e960d2",
+        "id": "0b490e88-7fd2-318a-9ae8-92061ffc9155",
         "contentType": "STORY",
-        "title": "Meta Platforms, Inc. (META): A Top Growth Stock to Buy Pursuing Data Centers Opportunities in India",
+        "title": "Jim Cramer: CoreWeave’s Backlog ‘May Be Much Greater’ Than Wall Street Thinks",
         "description": "",
-        "summary": "Meta Platforms Inc. (NASDAQ:META) is one of the best growth stocks to buy, according to billionaire Ray Dalio’s Bridgewater Associates. On June 11, Meta Platforms Inc. (NASDAQ:META) entered into a strategic partnership with Reliance Industries. The two are joining forces to develop a 168-megawatt AI-enabled data center in Jamnagar, Gujarat, India. The data center is […]",
-        "pubDate": "2026-06-18T21:20:41Z",
-        "displayTime": "2026-06-18T21:20:41Z",
+        "summary": "Jim Cramer used his June 16 Mad Money Mad Dash segment to make the case that CoreWeave’s contracted revenue pipeline could be even larger than what the Street currently models. “It’s got the best handle in the buildout. And this morning, [a research note] comes up with a piece looking at the debt documents showing ... Jim Cramer: CoreWeave’s Backlog ‘May Be Much Greater’ Than Wall Street Thinks",
+        "pubDate": "2026-06-19T17:21:39Z",
+        "displayTime": "2026-06-19T17:21:39Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/9b2cf8040147635e1a4fbf668148309f",
-          "originalWidth": 1280,
-          "originalHeight": 853,
-          "caption": "Meta Platforms, Inc. (META) A Top Growth Stock to Buy Pursuing Data Centers Opportunities in India",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8sSMYGOMlspo2c_nh1EHMA--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/9b2cf8040147635e1a4fbf668148309f",
-              "width": 1280,
-              "height": 853,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/x84yU.odtD7K2BLyBiHMbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/9b2cf8040147635e1a4fbf668148309f",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/meta-platforms-inc-meta-top-212041730.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/meta-platforms-inc-meta-top-212041730.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f7ed0d54-a7a0-30a3-b7bc-efdaa40d70fd",
-      "content": {
-        "id": "f7ed0d54-a7a0-30a3-b7bc-efdaa40d70fd",
-        "contentType": "STORY",
-        "title": "What Does Piper Sandler’s Latest Call on Unity Software Inc (U) Stock Reveal?",
-        "description": "",
-        "summary": "Unity Software Inc (NYSE:U) is one of the most promising metaverse stocks to buy now. Unity Software Inc. (NYSE:U) is seen as a metaverse stock because its real‑time 3D engine powers VR/AR and immersive applications, and in April 2026 it extended its partnership with Meta to support VR developers. While Meta has reallocated some of […]",
-        "pubDate": "2026-06-18T21:14:15Z",
-        "displayTime": "2026-06-18T21:14:15Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/21071cd49f4ba01c767f8457b93837d6",
-          "originalWidth": 768,
-          "originalHeight": 430,
-          "caption": "What Does Piper Sandler’s Latest Call on Unity Software Inc (U) Stock Reveal?",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/m5LclFQ96GTsm3yWHh7pKQ--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/21071cd49f4ba01c767f8457b93837d6",
-              "width": 768,
-              "height": 430,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9PcQSO1Rn8fvOgw3BndGQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/21071cd49f4ba01c767f8457b93837d6",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-piper-sandler-latest-call-211415709.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-piper-sandler-latest-call-211415709.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "5a2d3ac7-c29d-3e25-bb02-65fa234a18af",
-      "content": {
-        "id": "5a2d3ac7-c29d-3e25-bb02-65fa234a18af",
-        "contentType": "STORY",
-        "title": "Stock Market Forecast For Next Six Months: Why More Gains May Lie Ahead",
-        "description": "",
-        "summary": "Thanks to AI fervor, equities have climbed despite headwinds from the Mideast conflict. Analysts detail the climate for stocks in the rest of 2026, including IPOs, small caps and more.",
-        "pubDate": "2026-06-18T21:02:51Z",
-        "displayTime": "2026-06-18T21:02:51Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/5a2d3ac7-c29d-3e25-bb02-65fa234a18af/stock-market-forecast-for.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/9f73e35c83ec28ccb0f60bd1146794b2",
-          "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/2c38ba9cf95e8a29d4ce8025b517bc6b",
+          "originalWidth": 1366,
+          "originalHeight": 767,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/99CxYtSWqb6z11vY6sK4FQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9f73e35c83ec28ccb0f60bd1146794b2",
-              "width": 1000,
-              "height": 563,
+              "url": "https://s.yimg.com/uu/api/res/1.2/eZM5s4lmVUgft65TOy.Iag--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/2c38ba9cf95e8a29d4ce8025b517bc6b",
+              "width": 1366,
+              "height": 767,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/90IbC8yvfh3TxYkpCFGSrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9f73e35c83ec28ccb0f60bd1146794b2",
+              "url": "https://s.yimg.com/uu/api/res/1.2/xs68KVju2H3W5TGaCXKVXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2c38ba9cf95e8a29d4ce8025b517bc6b",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2028,56 +2152,18 @@
           ]
         },
         "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/news/stock-market-forecast-next-six-months-2026-ai-stocks/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "596eb080-34b4-3518-9b98-eadbe6036064",
-      "content": {
-        "id": "596eb080-34b4-3518-9b98-eadbe6036064",
-        "contentType": "STORY",
-        "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
-        "description": "",
-        "summary": "(Bloomberg) -- Meta Platforms Inc. has secured new agreements to get AI computing power from data center developer Crusoe, bolstering the infrastructure it needs to support an ambitious artificial intelligence expansion.Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of ‘Shortage of Trust’ Ahead of Trump MeetingTrump Blows Through His Iran Red Lines in Justifying Peace DealIran’s Deputy Foreign Minister Confirms Deal Reached With USNYC Greek Eatery Ki",
-        "pubDate": "2026-06-18T20:13:46Z",
-        "displayTime": "2026-06-18T20:13:46Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-strikes-ai-computing-deals-201346076.html",
+          "url": "https://247wallst.com/investing/2026/06/19/jim-cramer-coreweaves-backlog-may-be-much-greater-than-wall-street-thinks/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-strikes-ai-computing-deals-201346076.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-coreweave-backlog-may-172139829.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2095,89 +2181,32 @@
       }
     },
     {
-      "id": "4cb19877-eed2-3bad-8539-fa801ea71e91",
+      "id": "04d95a8f-a1e4-30e0-96e4-3272c5c7e44f",
       "content": {
-        "id": "4cb19877-eed2-3bad-8539-fa801ea71e91",
+        "id": "04d95a8f-a1e4-30e0-96e4-3272c5c7e44f",
         "contentType": "STORY",
-        "title": "Nuclear Stocks Oklo, Centrus Jump After Signing Uranium Deal",
+        "title": "Google, SpaceX, Microsoft, and Amazon Are About to Spend ‘Twice the Entire U.S. Defense Budget’ on AI",
         "description": "",
-        "summary": "The once-hot nuclear fission stock Oklo climbed 3.5% on Thursday. Meanwhile, Centrus Energy rose about 8.5% after news of the deal broke.",
-        "pubDate": "2026-06-18T20:03:00Z",
-        "displayTime": "2026-06-18T20:03:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/4cb19877-eed2-3bad-8539-fa801ea71e91/nuclear-stocks-oklo-centrus.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/7d2db2b204550f9326d8041c85cb2c8d",
-          "originalWidth": 1000,
-          "originalHeight": 511,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/584GCBf3tC.Lx8Pik5r9fw--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7d2db2b204550f9326d8041c85cb2c8d",
-              "width": 1000,
-              "height": 511,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/I3O8QexUZvgq7EfdNsq2CQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7d2db2b204550f9326d8041c85cb2c8d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.investors.com/news/oklo-centrus-energy-nuclear-power-uranium-meta-sam-altman/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c993b0d6-9b7d-3857-9be6-319742239b9f",
-      "content": {
-        "id": "c993b0d6-9b7d-3857-9be6-319742239b9f",
-        "contentType": "STORY",
-        "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-        "description": "",
-        "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-        "pubDate": "2026-06-18T19:59:22Z",
-        "displayTime": "2026-06-18T19:59:22Z",
+        "summary": "At the Everpure Accelerate 2026 summit in Las Vegas, Everpure, the company formerly known as Pure Storage, put a number on the AI infrastructure cycle consuming Wall Street. CFO Tarek Robbiati said hyperscalers are expected to spend roughly $3 trillion in cumulative capital expenditures over the next three years, a figure he framed as “2 ... Google, SpaceX, Microsoft, and Amazon Are About to Spend ‘Twice the Entire U.S. Defense Budget’ on AI",
+        "pubDate": "2026-06-19T17:19:02Z",
+        "displayTime": "2026-06-19T17:19:02Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/dcafe15f420d2c57b7df3ab9259bb66f",
-          "originalWidth": 1536,
-          "originalHeight": 1024,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/1be9924b8347eae1b702f04de90e85f9",
+          "originalWidth": 1500,
+          "originalHeight": 999,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/p4nijkMuQLsMPAjgKn.P_Q--~B/aD0xMDI0O3c9MTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_finance_785/dcafe15f420d2c57b7df3ab9259bb66f",
-              "width": 1536,
-              "height": 1024,
+              "url": "https://s.yimg.com/uu/api/res/1.2/MQFEa2tozlUR0GjM3Nck_w--~B/aD05OTk7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/1be9924b8347eae1b702f04de90e85f9",
+              "width": 1500,
+              "height": 999,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/E7XCmDqbkxxqvjVNsqW4eg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/dcafe15f420d2c57b7df3ab9259bb66f",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ms0n2bMBOdpsXhIZfZJGiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1be9924b8347eae1b702f04de90e85f9",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2185,18 +2214,18 @@
           ]
         },
         "provider": {
-          "displayName": "TechCrunch",
-          "url": "https://techcrunch.com/",
-          "sourceId": "techcrunch_finance_785"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/openai-bringing-big-guns-lead-195922391.html",
+          "url": "https://247wallst.com/investing/2026/06/19/google-spacex-microsoft-and-amazon-are-about-to-spend-twice-the-entire-u-s-defense-budget-on-ai/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/openai-bringing-big-guns-lead-195922391.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/google-spacex-microsoft-amazon-spend-171902335.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2214,32 +2243,32 @@
       }
     },
     {
-      "id": "2f7fff37-1edc-3870-8335-ae773c523701",
+      "id": "ffd28ce0-65e9-3be1-be0a-828446771595",
       "content": {
-        "id": "2f7fff37-1edc-3870-8335-ae773c523701",
+        "id": "ffd28ce0-65e9-3be1-be0a-828446771595",
         "contentType": "STORY",
-        "title": "Meta’s Applied AI is Reality Labs 2.0",
+        "title": "Famous Wall Street Tech Analyst Names Meta and Amazon the Best Magnificent 7 Stock Buys Today",
         "description": "",
-        "summary": "Meta’s Applied AI division lost another key team member as investors are wondering how many more employees they can lose before the entire ship sinks.",
-        "pubDate": "2026-06-18T19:44:10Z",
-        "displayTime": "2026-06-18T19:44:10Z",
+        "summary": "Evercore ISI’s head of internet research Mark Mahaney has a contrarian message for investors who’ve watched the Magnificent 7 lag the broader market. On CNBC’s “Closing Bell Overtime” on June 18, 2026, with host Liz Young and co-host Mike Santoli, Mahaney named Meta Platforms (NASDAQ:META) and Amazon (NASDAQ:AMZN) his top buys inside the group, arguing ... Famous Wall Street Tech Analyst Names Meta and Amazon the Best Magnificent 7 Stock Buys Today",
+        "pubDate": "2026-06-19T16:52:02Z",
+        "displayTime": "2026-06-19T16:52:02Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/moby_896/40609faf5129b91903ead44c55ac9495",
-          "originalWidth": 928,
-          "originalHeight": 1152,
-          "caption": "Meta’s Applied AI is Reality Labs 2.0",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f63aa54d33d7c4c34b7e262c59a169a4",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/R0strE9a9iUAUFeaNRNJ0A--~B/aD0xMTUyO3c9OTI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moby_896/40609faf5129b91903ead44c55ac9495",
-              "width": 928,
-              "height": 1152,
+              "url": "https://s.yimg.com/uu/api/res/1.2/MS_ZHEmbDZ79hbZIanh0sw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/f63aa54d33d7c4c34b7e262c59a169a4",
+              "width": 1920,
+              "height": 1080,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/47Pzgry78ZSOoDoWzwnptQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/40609faf5129b91903ead44c55ac9495",
+              "url": "https://s.yimg.com/uu/api/res/1.2/T.e1k0RywtIrp.HcknfEeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f63aa54d33d7c4c34b7e262c59a169a4",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2247,18 +2276,18 @@
           ]
         },
         "provider": {
-          "displayName": "Moby",
-          "url": "https://moby.co/",
-          "sourceId": "moby_896"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://app.moby.co/home/news/news-metas-applied-ai-is-reality-labs-20?utm_source=yahoo_finance&utm_medium=rss",
+          "url": "https://247wallst.com/investing/2026/06/19/famous-wall-street-tech-analyst-names-meta-and-amazon-the-best-magnificent-7-stock-buys-today/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-applied-ai-reality-labs-194410817.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/famous-wall-street-tech-analyst-165202653.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2276,32 +2305,32 @@
       }
     },
     {
-      "id": "e3e0aa88-a0a6-3ba9-813d-de542084d7ea",
+      "id": "99cf2fdc-2bf3-3eef-b9b0-6c9357a3ba63",
       "content": {
-        "id": "e3e0aa88-a0a6-3ba9-813d-de542084d7ea",
+        "id": "99cf2fdc-2bf3-3eef-b9b0-6c9357a3ba63",
         "contentType": "STORY",
-        "title": "A Face Computer for $2,200? Snap Makes Another Pitch for Augmented Reality.",
+        "title": "Boyce Takes Reins As Spekk's Chief Technology/AI Officer",
         "description": "",
-        "summary": "This past week, a group of AR devotees gathered at the AWE USA conference in Long Beach, Calif. Everyone there is betting that augmented-reality glasses will eventually come out on top.  AWE sponsors included  Meta Platforms,     Alphabet  Google, and  Nvidia  but the headline sponsor and star of the show was  Snapchat  parent  Snap  and the launch of its new Specs AR glasses, at an eye-watering price point of $2,195.  No company has made as focused a bet on AR as Snap.",
-        "pubDate": "2026-06-18T19:36:00Z",
-        "displayTime": "2026-06-18T19:36:00Z",
-        "isHosted": false,
+        "summary": "Spekk also acquired Pablo, an ad-tech platform founded by Nick Boyce.",
+        "pubDate": "2026-06-19T15:00:00Z",
+        "displayTime": "2026-06-19T15:00:00Z",
+        "isHosted": true,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/e3e0aa88-a0a6-3ba9-813d-de542084d7ea/a-face-computer-for-2-200-.html",
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/6e1a0e4515028a69561ee9eba86ddfb3",
-          "originalWidth": 1280,
-          "originalHeight": 640,
+          "originalUrl": "https://media.zenfs.com/en/mediapost_446/798a5f56c13849f52d932682a4cfa89c",
+          "originalWidth": 200,
+          "originalHeight": 125,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NkQvsIoWVW9Sk3AJdwHd0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6e1a0e4515028a69561ee9eba86ddfb3",
-              "width": 1280,
-              "height": 640,
+              "url": "https://s.yimg.com/uu/api/res/1.2/goLwJ0.EM1TV5ZX7vdI9Tg--~B/aD0xMjU7dz0yMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mediapost_446/798a5f56c13849f52d932682a4cfa89c",
+              "width": 200,
+              "height": 125,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dnbAb3lYkV_n.xiq38GmZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/6e1a0e4515028a69561ee9eba86ddfb3",
+              "url": "https://s.yimg.com/uu/api/res/1.2/_52Ue_YNZZYixRJQ_UGkXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mediapost_446/798a5f56c13849f52d932682a4cfa89c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2309,17 +2338,22 @@
           ]
         },
         "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
+          "displayName": "MediaPost",
+          "url": "https://www.mediapost.com/",
+          "sourceId": "mediapost_446"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/snap-specs-augmented-reality-metaverse-b9d6519c?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.mediapost.com/publications/article/415870/boyce-takes-reins-as-spekks-chief-technologyai-o.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/boyce-takes-reins-spekks-chief-150000035.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
