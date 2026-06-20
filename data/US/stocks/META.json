@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-06-19T22:47:53.709196",
+    "ts": "2026-06-20T23:00:42.768135",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -146,17 +146,17 @@
     "regularMarketDayLow": 563.1,
     "regularMarketDayHigh": 580.215,
     "dividendRate": 2.1,
-    "dividendYield": 0.35,
+    "dividendYield": 0.36,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
     "beta": 1.229,
-    "trailingPE": 20.997452,
+    "trailingPE": 21.005095,
     "forwardPE": 15.925084,
     "volume": 26843593,
     "regularMarketVolume": 26843593,
-    "averageVolume": 17542369,
-    "averageVolume10days": 19386740,
-    "averageDailyVolume10Day": 19386740,
+    "averageVolume": 17483667,
+    "averageVolume10days": 19390040,
+    "averageDailyVolume10Day": 19390040,
     "bid": 577.92,
     "ask": 577.91,
     "bidSize": 1,
@@ -174,9 +174,9 @@
     "trailingAnnualDividendYield": 0.0036999187,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1529175998464,
+    "enterpriseValue": 1470817763328,
     "profitMargins": 0.32837,
-    "floatShares": 2192715434,
+    "floatShares": 2192537745,
     "sharesOutstanding": 2196045588,
     "sharesShort": 32270039,
     "sharesShortPriorMonth": 28980090,
@@ -184,7 +184,7 @@
     "dateShortInterest": 1780012800,
     "sharesPercentSharesOut": 0.0127,
     "heldPercentInsiders": 0.00103,
-    "heldPercentInstitutions": 0.79337,
+    "heldPercentInstitutions": 0.7934,
     "shortRatio": 1.91,
     "shortPercentOfFloat": 0.0147,
     "impliedSharesOutstanding": 2538423304,
@@ -195,13 +195,13 @@
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.49,
+    "trailingEps": 27.48,
     "forwardEps": 36.24596,
     "pegRatio": 0.83,
-    "enterpriseToRevenue": 7.114,
-    "enterpriseToEbitda": 13.99,
-    "52WeekChange": -0.1540705,
-    "SandP52WeekChange": 0.2568333,
+    "enterpriseToRevenue": 6.842,
+    "enterpriseToEbitda": 13.456,
+    "52WeekChange": -0.17366469,
+    "SandP52WeekChange": 0.24487448,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
@@ -240,22 +240,36 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "cryptoTradeable": false,
+    "marketState": "CLOSED",
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
+    "corporateActions": [],
+    "postMarketTime": 1781827193,
+    "regularMarketTime": 1781812801,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "shortName": "Meta Platforms, Inc.",
+    "regularMarketChangePercent": 1.69843,
+    "regularMarketPrice": 577.22,
+    "longName": "Meta Platforms, Inc.",
     "postMarketChangePercent": -0.41924796,
     "postMarketPrice": 574.8,
     "postMarketChange": -2.419983,
     "regularMarketChange": 9.63995,
     "regularMarketDayRange": "563.1 - 580.215",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 17542369,
+    "averageDailyVolume3Month": 17483667,
     "fiftyTwoWeekLowChange": 56.95996,
     "fiftyTwoWeekLowChangePercent": 0.109483644,
     "fiftyTwoWeekRange": "520.26 - 796.25",
     "fiftyTwoWeekHighChange": -219.03003,
     "fiftyTwoWeekHighChangePercent": -0.27507696,
-    "fiftyTwoWeekChangePercent": -15.407049,
+    "fiftyTwoWeekChangePercent": -17.366468,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -263,7 +277,7 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.49,
+    "epsTrailingTwelveMonths": 27.48,
     "epsForward": 36.24596,
     "epsCurrentYear": 32.17953,
     "priceEpsCurrentYear": 17.937489,
@@ -275,23 +289,9 @@
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-06-19",
+    "nameChangeDate": "2026-06-20",
     "averageAnalystRating": "1.3 - Strong Buy",
-    "longName": "Meta Platforms, Inc.",
-    "shortName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1781827193,
-    "regularMarketTime": 1781812801,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": 1.69843,
-    "regularMarketPrice": 577.22,
-    "marketState": "CLOSED",
+    "cryptoTradeable": false,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.834
   },
@@ -1766,6 +1766,440 @@
   },
   "news": [
     {
+      "id": "5fe6c0f7-77da-4a7a-8a16-0b4f4704416b",
+      "content": {
+        "id": "5fe6c0f7-77da-4a7a-8a16-0b4f4704416b",
+        "contentType": "STORY",
+        "title": "From FAANG to MANGOS — Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
+        "description": "",
+        "summary": "Wall Street loves a new nickname for its favorite trade.",
+        "pubDate": "2026-06-20T11:23:31Z",
+        "displayTime": "2026-06-20T11:23:31Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/kMDDWyhJGDT5S2OD3AHsSw--~B/aD0zNjYxO3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/e422c379-a5e2-48fe-bc78-09396f300310",
+          "originalWidth": 5500,
+          "originalHeight": 3661,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/kMDDWyhJGDT5S2OD3AHsSw--~B/aD0zNjYxO3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/e422c379-a5e2-48fe-bc78-09396f300310",
+              "width": 5500,
+              "height": 3661,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sNCXod6qNmT005vnNuPUTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/e422c379-a5e2-48fe-bc78-09396f300310",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/article/from-faang-to-mangos--wall-street-is-searching-for-the-next-magnificent-7-chart-of-the-day-112331299.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/article/from-faang-to-mangos--wall-street-is-searching-for-the-next-magnificent-7-chart-of-the-day-112331299.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "39974de7-cd7b-3739-bb80-f7ace44199cc",
+      "content": {
+        "id": "39974de7-cd7b-3739-bb80-f7ace44199cc",
+        "contentType": "STORY",
+        "title": "'Sad' That No One Will Tell Snap CEO The Truth, Says Analyst On Company's 'Horrendous' Product Design For $2,195 AR Glasses",
+        "description": "",
+        "summary": "Snap Inc.’s latest augmented reality glasses are facing sharp criticism from investor Ross Gerber, who questioned both the product’s design and CEO Evan Spiegel’s long-term hardware strategy following the device’s debut. Snap’s New Specs AR Glasses Draw Criticism Snap unveiled its new Specs AR glasses on Tuesday, opening preorders with a refundable $200 deposit ahead of expected fall shipments in the U.S., U.K. and France. The glasses carry a $2,195 price tag. The pricing puts Snap’s Specs below",
+        "pubDate": "2026-06-20T21:31:13Z",
+        "displayTime": "2026-06-20T21:31:13Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Benzinga/54201cb8899ac30f6bf6686d11bb0180",
+          "originalWidth": 1024,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RxBnhYhrNavx88eHcJvGjw--~B/aD03MjA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/54201cb8899ac30f6bf6686d11bb0180",
+              "width": 1024,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1C68mjxiQEtTf0KV6d3Euw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/54201cb8899ac30f6bf6686d11bb0180",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "http://www.benzinga.com/",
+          "sourceId": "Benzinga"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/sad-no-one-tell-snap-213113740.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/sad-no-one-tell-snap-213113740.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2a6c5c12-6673-3594-9ee4-0901d509bdae",
+      "content": {
+        "id": "2a6c5c12-6673-3594-9ee4-0901d509bdae",
+        "contentType": "STORY",
+        "title": "The Best Semiconductor ETF to Buy With $1,000 Right Now",
+        "description": "",
+        "summary": "Chip stocks are still hot, but one ETF stands out as the better choice given current conditions.",
+        "pubDate": "2026-06-20T17:20:00Z",
+        "displayTime": "2026-06-20T17:20:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a70c02b660f435f5ea7a6bb053b5876b",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Semiconductor chip fabrication.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/B3kLUrVkl_a7O8rl2OWAew--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a70c02b660f435f5ea7a6bb053b5876b",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/YJx0RgS6GO1XcjgGCcsQ.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a70c02b660f435f5ea7a6bb053b5876b",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/06/20/best-semiconductor-etf-to-buy-with-1000-now-smh/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-etf-buy-1-172000214.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f4add026-6f2b-38be-844e-ce33097ec9d4",
+      "content": {
+        "id": "f4add026-6f2b-38be-844e-ce33097ec9d4",
+        "contentType": "STORY",
+        "title": "Meta’s CEO Just Promised Superintelligence. He Thinks Everyone Will Have It",
+        "description": "",
+        "summary": "Mark Zuckerberg opened Meta Platforms (NASDAQ:META)‘s Q1 2026 earnings call with a sentence that would sound deranged coming from almost any other CEO: “We’re on track to deliver personal superintelligence to billions of people.” It was the thesis. The claim landed alongside numbers that, for once, support the swagger. Meta posted Q1 revenue of $56.31 ... Meta’s CEO Just Promised Superintelligence. He Thinks Everyone Will Have It",
+        "pubDate": "2026-06-20T13:30:49Z",
+        "displayTime": "2026-06-20T13:30:49Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f848f2b8e43fcb5f0b3dc1c98f489038",
+          "originalWidth": 1366,
+          "originalHeight": 767,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XAgz2ap3qhzvlAtiQDCRSg--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/f848f2b8e43fcb5f0b3dc1c98f489038",
+              "width": 1366,
+              "height": 767,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/JuihiBCQPBgUzzu8xwrgEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f848f2b8e43fcb5f0b3dc1c98f489038",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/20/metas-ceo-just-promised-superintelligence-he-thinks-everyone-will-have-it/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-ceo-just-promised-superintelligence-133049868.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7778b221-7aec-332d-be84-7a238d24ab9b",
+      "content": {
+        "id": "7778b221-7aec-332d-be84-7a238d24ab9b",
+        "contentType": "STORY",
+        "title": "Microsoft’s CEO Just Warned the Entire AI Industry: Your Dominance Will Trigger a Backlash",
+        "description": "",
+        "summary": "Satya Nadella did something unusual on June 14. The CEO of a roughly $2.93 trillion company bypassed the earnings stage and the conference circuit, and posted to his personal blog, “sn scratchpad,” with a warning aimed squarely at his own industry. The line that matters: “If all the value is accrued by only a few ... Microsoft’s CEO Just Warned the Entire AI Industry: Your Dominance Will Trigger a Backlash",
+        "pubDate": "2026-06-20T12:00:27Z",
+        "displayTime": "2026-06-20T12:00:27Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/29d3c772bec0ab4f044af179853ec3e0",
+          "originalWidth": 1448,
+          "originalHeight": 1086,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/j9d7gY4lsVQMYgszti_X0A--~B/aD0xMDg2O3c9MTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/29d3c772bec0ab4f044af179853ec3e0",
+              "width": 1448,
+              "height": 1086,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/biFFiEG8UKAOzRJIeb8vUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/29d3c772bec0ab4f044af179853ec3e0",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/20/microsofts-ceo-just-warned-the-entire-ai-industry-your-dominance-will-trigger-a-backlash/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-just-warned-entire-120027731.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "28ca675f-101f-322b-baca-2306857897d0",
+      "content": {
+        "id": "28ca675f-101f-322b-baca-2306857897d0",
+        "contentType": "STORY",
+        "title": "3 \"Magnificent Seven\" Stocks to Buy and Hold Right Now",
+        "description": "",
+        "summary": "Nvidia, Microsoft, and Meta stand out as strong buys. Here's why.",
+        "pubDate": "2026-06-20T04:20:00Z",
+        "displayTime": "2026-06-20T04:20:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/bab54ee1cbce3205e5bced69fcc06cd2",
+          "originalWidth": 1400,
+          "originalHeight": 787,
+          "caption": "A person pointing up at charts on screens in an office setting. ",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/E91W_1CPLlulElg_mcsOhw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bab54ee1cbce3205e5bced69fcc06cd2",
+              "width": 1400,
+              "height": 787,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1lQzP7EW5VtGgNPuK1qODQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bab54ee1cbce3205e5bced69fcc06cd2",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/06/20/3-magnificent-seven-stocks-to-buy-and-hold-right-n/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-magnificent-seven-stocks-buy-042000096.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e311074b-30c8-3899-bc78-4d18433d054e",
+      "content": {
+        "id": "e311074b-30c8-3899-bc78-4d18433d054e",
+        "contentType": "STORY",
+        "title": "Tired Of Doomscrolling? Commodore's New $499 Flip Phone Wants You To Touch Grass Again",
+        "description": "",
+        "summary": "As smartphones become increasingly packed with apps, notifications and endless scrolling, Commodore is betting that some consumers are ready for a device that does a lot less. Commodore Callback Flip Phone Takes Aim At Social Media Addiction Earlier this week, the gaming brand unveiled the Commodore Callback, a modern flip phone that intentionally blocks access to social media platforms, including TikTok, Instagram, Facebook, X, Threads and YouTube, while also eliminating web browsers. Instead o",
+        "pubDate": "2026-06-20T00:30:51Z",
+        "displayTime": "2026-06-20T00:30:51Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Benzinga/a35c4c83bb1c5daf9b5059a60bd42ce9",
+          "originalWidth": 1024,
+          "originalHeight": 533,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pMINIabSupN8ZPLrhHB80A--~B/aD01MzM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/a35c4c83bb1c5daf9b5059a60bd42ce9",
+              "width": 1024,
+              "height": 533,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eD5GaprWE69K.ZpqmsEGFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/a35c4c83bb1c5daf9b5059a60bd42ce9",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "http://www.benzinga.com/",
+          "sourceId": "Benzinga"
+        },
+        "canonicalUrl": {
+          "url": "https://tech.yahoo.com/phones/articles/tired-doomscrolling-commodores-499-flip-003051878.html",
+          "site": "tech",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://tech.yahoo.com/phones/articles/tired-doomscrolling-commodores-499-flip-003051878.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
       "id": "ed52ddc2-aa80-3468-8ae7-a4d1e09d773a",
       "content": {
         "id": "ed52ddc2-aa80-3468-8ae7-a4d1e09d773a",
@@ -1935,421 +2369,6 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/markets/stocks/articles/38-500k-saved-avuv-fixes-211012072.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b6ff049d-9f52-34d5-922b-d2032afa06cd",
-      "content": {
-        "id": "b6ff049d-9f52-34d5-922b-d2032afa06cd",
-        "contentType": "STORY",
-        "title": "Prediction: Meta's AI Spending Will Pay Off Bigger Than Wall Street Expects",
-        "description": "",
-        "summary": "The social media giant's soaring infrastructure budget has rattled investors. But its advertising business is already turning that spending into results.",
-        "pubDate": "2026-06-19T21:01:00Z",
-        "displayTime": "2026-06-19T21:01:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a931986088cb2dc10ca61868b59c2a0d",
-          "originalWidth": 1400,
-          "originalHeight": 900,
-          "caption": "Computer servers in a data center.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pX.3KPqxrniR04JGOmaYPg--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a931986088cb2dc10ca61868b59c2a0d",
-              "width": 1400,
-              "height": 900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OOc_G4H9JCD8.gTF_gPqUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a931986088cb2dc10ca61868b59c2a0d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/06/19/prediction-metas-ai-spending-will-pay-off-bigger-t/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/prediction-metas-ai-spending-pay-210100389.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "510305a0-a8d3-3173-b227-e898bf9b90c6",
-      "content": {
-        "id": "510305a0-a8d3-3173-b227-e898bf9b90c6",
-        "contentType": "STORY",
-        "title": "Oklo Locks In Domestic Nuclear Fuel Supply for Its Ohio Gigawatt Campus",
-        "description": "",
-        "summary": "Centrus will supply HALEU for up to five Aurora powerhouses from its Pike County plant",
-        "pubDate": "2026-06-19T18:10:31Z",
-        "displayTime": "2026-06-19T18:10:31Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/oklo-locks-domestic-nuclear-fuel-181031886.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/oklo-locks-domestic-nuclear-fuel-181031886.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b1c5edda-0233-3af9-9940-9efd4e798d5b",
-      "content": {
-        "id": "b1c5edda-0233-3af9-9940-9efd4e798d5b",
-        "contentType": "STORY",
-        "title": "This Metal is Crucial for AI, Yet in Short Supply. Here Are 3 Top Mining Stocks to Buy to Capitalize on the Looming Deficit.",
-        "description": "",
-        "summary": "The data center build-out is driving demand for copper.",
-        "pubDate": "2026-06-19T18:00:00Z",
-        "displayTime": "2026-06-19T18:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/9fdd807551ef794e4e06841153ccfe8e",
-          "originalWidth": 1400,
-          "originalHeight": 937,
-          "caption": "Trucks full of ore at a giant mine.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4e0MkF1s57C8sBasIUU.Vw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9fdd807551ef794e4e06841153ccfe8e",
-              "width": 1400,
-              "height": 937,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/R7Q3ajraLCwHtDDZ4fFRXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9fdd807551ef794e4e06841153ccfe8e",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/06/19/this-metal-is-crucial-for-ai-yet-in-short-supply/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/commodities/articles/metal-crucial-ai-yet-short-180000323.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "0b490e88-7fd2-318a-9ae8-92061ffc9155",
-      "content": {
-        "id": "0b490e88-7fd2-318a-9ae8-92061ffc9155",
-        "contentType": "STORY",
-        "title": "Jim Cramer: CoreWeave’s Backlog ‘May Be Much Greater’ Than Wall Street Thinks",
-        "description": "",
-        "summary": "Jim Cramer used his June 16 Mad Money Mad Dash segment to make the case that CoreWeave’s contracted revenue pipeline could be even larger than what the Street currently models. “It’s got the best handle in the buildout. And this morning, [a research note] comes up with a piece looking at the debt documents showing ... Jim Cramer: CoreWeave’s Backlog ‘May Be Much Greater’ Than Wall Street Thinks",
-        "pubDate": "2026-06-19T17:21:39Z",
-        "displayTime": "2026-06-19T17:21:39Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/2c38ba9cf95e8a29d4ce8025b517bc6b",
-          "originalWidth": 1366,
-          "originalHeight": 767,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/eZM5s4lmVUgft65TOy.Iag--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/2c38ba9cf95e8a29d4ce8025b517bc6b",
-              "width": 1366,
-              "height": 767,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xs68KVju2H3W5TGaCXKVXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2c38ba9cf95e8a29d4ce8025b517bc6b",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/19/jim-cramer-coreweaves-backlog-may-be-much-greater-than-wall-street-thinks/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-coreweave-backlog-may-172139829.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "04d95a8f-a1e4-30e0-96e4-3272c5c7e44f",
-      "content": {
-        "id": "04d95a8f-a1e4-30e0-96e4-3272c5c7e44f",
-        "contentType": "STORY",
-        "title": "Google, SpaceX, Microsoft, and Amazon Are About to Spend ‘Twice the Entire U.S. Defense Budget’ on AI",
-        "description": "",
-        "summary": "At the Everpure Accelerate 2026 summit in Las Vegas, Everpure, the company formerly known as Pure Storage, put a number on the AI infrastructure cycle consuming Wall Street. CFO Tarek Robbiati said hyperscalers are expected to spend roughly $3 trillion in cumulative capital expenditures over the next three years, a figure he framed as “2 ... Google, SpaceX, Microsoft, and Amazon Are About to Spend ‘Twice the Entire U.S. Defense Budget’ on AI",
-        "pubDate": "2026-06-19T17:19:02Z",
-        "displayTime": "2026-06-19T17:19:02Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/1be9924b8347eae1b702f04de90e85f9",
-          "originalWidth": 1500,
-          "originalHeight": 999,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/MQFEa2tozlUR0GjM3Nck_w--~B/aD05OTk7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/1be9924b8347eae1b702f04de90e85f9",
-              "width": 1500,
-              "height": 999,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Ms0n2bMBOdpsXhIZfZJGiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1be9924b8347eae1b702f04de90e85f9",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/19/google-spacex-microsoft-and-amazon-are-about-to-spend-twice-the-entire-u-s-defense-budget-on-ai/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/google-spacex-microsoft-amazon-spend-171902335.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ffd28ce0-65e9-3be1-be0a-828446771595",
-      "content": {
-        "id": "ffd28ce0-65e9-3be1-be0a-828446771595",
-        "contentType": "STORY",
-        "title": "Famous Wall Street Tech Analyst Names Meta and Amazon the Best Magnificent 7 Stock Buys Today",
-        "description": "",
-        "summary": "Evercore ISI’s head of internet research Mark Mahaney has a contrarian message for investors who’ve watched the Magnificent 7 lag the broader market. On CNBC’s “Closing Bell Overtime” on June 18, 2026, with host Liz Young and co-host Mike Santoli, Mahaney named Meta Platforms (NASDAQ:META) and Amazon (NASDAQ:AMZN) his top buys inside the group, arguing ... Famous Wall Street Tech Analyst Names Meta and Amazon the Best Magnificent 7 Stock Buys Today",
-        "pubDate": "2026-06-19T16:52:02Z",
-        "displayTime": "2026-06-19T16:52:02Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f63aa54d33d7c4c34b7e262c59a169a4",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/MS_ZHEmbDZ79hbZIanh0sw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/f63aa54d33d7c4c34b7e262c59a169a4",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/T.e1k0RywtIrp.HcknfEeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f63aa54d33d7c4c34b7e262c59a169a4",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/19/famous-wall-street-tech-analyst-names-meta-and-amazon-the-best-magnificent-7-stock-buys-today/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/famous-wall-street-tech-analyst-165202653.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "99cf2fdc-2bf3-3eef-b9b0-6c9357a3ba63",
-      "content": {
-        "id": "99cf2fdc-2bf3-3eef-b9b0-6c9357a3ba63",
-        "contentType": "STORY",
-        "title": "Boyce Takes Reins As Spekk's Chief Technology/AI Officer",
-        "description": "",
-        "summary": "Spekk also acquired Pablo, an ad-tech platform founded by Nick Boyce.",
-        "pubDate": "2026-06-19T15:00:00Z",
-        "displayTime": "2026-06-19T15:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/mediapost_446/798a5f56c13849f52d932682a4cfa89c",
-          "originalWidth": 200,
-          "originalHeight": 125,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/goLwJ0.EM1TV5ZX7vdI9Tg--~B/aD0xMjU7dz0yMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mediapost_446/798a5f56c13849f52d932682a4cfa89c",
-              "width": 200,
-              "height": 125,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_52Ue_YNZZYixRJQ_UGkXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mediapost_446/798a5f56c13849f52d932682a4cfa89c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "MediaPost",
-          "url": "https://www.mediapost.com/",
-          "sourceId": "mediapost_446"
-        },
-        "canonicalUrl": {
-          "url": "https://www.mediapost.com/publications/article/415870/boyce-takes-reins-as-spekks-chief-technologyai-o.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/boyce-takes-reins-spekks-chief-150000035.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
