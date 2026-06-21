@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-06-20T23:00:42.768135",
+    "ts": "2026-06-21T23:04:18.717901",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,11 +137,11 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 567.58,
+    "previousClose": 567.57996,
     "open": 572.955,
     "dayLow": 563.1,
     "dayHigh": 580.215,
-    "regularMarketPreviousClose": 567.58,
+    "regularMarketPreviousClose": 567.57996,
     "regularMarketOpen": 572.955,
     "regularMarketDayLow": 563.1,
     "regularMarketDayHigh": 580.215,
@@ -152,8 +152,8 @@
     "beta": 1.229,
     "trailingPE": 21.005095,
     "forwardPE": 15.925084,
-    "volume": 26843593,
-    "regularMarketVolume": 26843593,
+    "volume": 28824630,
+    "regularMarketVolume": 28824630,
     "averageVolume": 17483667,
     "averageVolume10days": 19390040,
     "averageDailyVolume10Day": 19390040,
@@ -171,7 +171,7 @@
     "fiftyDayAverage": 621.8986,
     "twoHundredDayAverage": 654.9161,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0036999187,
+    "trailingAnnualDividendYield": 0.003699919,
     "currency": "USD",
     "tradeable": false,
     "enterpriseValue": 1470817763328,
@@ -240,12 +240,13 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "CLOSED",
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "corporateActions": [],
-    "postMarketTime": 1781827193,
-    "regularMarketTime": 1781812801,
+    "postMarketChangePercent": -0.41924796,
+    "postMarketPrice": 574.8,
+    "postMarketChange": -2.419983,
+    "regularMarketChange": 9.640015,
+    "regularMarketDayRange": "563.1 - 580.215",
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -253,15 +254,6 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "shortName": "Meta Platforms, Inc.",
-    "regularMarketChangePercent": 1.69843,
-    "regularMarketPrice": 577.22,
-    "longName": "Meta Platforms, Inc.",
-    "postMarketChangePercent": -0.41924796,
-    "postMarketPrice": 574.8,
-    "postMarketChange": -2.419983,
-    "regularMarketChange": 9.63995,
-    "regularMarketDayRange": "563.1 - 580.215",
     "fullExchangeName": "NasdaqGS",
     "averageDailyVolume3Month": 17483667,
     "fiftyTwoWeekLowChange": 56.95996,
@@ -289,9 +281,17 @@
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-06-20",
+    "nameChangeDate": "2026-06-21",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
+    "regularMarketChangePercent": 1.6984416,
+    "regularMarketPrice": 577.22,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "corporateActions": [],
+    "postMarketTime": 1781827193,
+    "regularMarketTime": 1781812801,
+    "marketState": "CLOSED",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.834
   },
@@ -309,7 +309,7 @@
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.106993,
+        "2025-06-30T00:00:00.000": 0.11,
         "2025-03-31T00:00:00.000": 0.094549,
         "2024-12-31T00:00:00.000": null
       },
@@ -1766,32 +1766,32 @@
   },
   "news": [
     {
-      "id": "5fe6c0f7-77da-4a7a-8a16-0b4f4704416b",
+      "id": "4040449d-9710-388b-9a5a-888ef6cee4c4",
       "content": {
-        "id": "5fe6c0f7-77da-4a7a-8a16-0b4f4704416b",
+        "id": "4040449d-9710-388b-9a5a-888ef6cee4c4",
         "contentType": "STORY",
-        "title": "From FAANG to MANGOS — Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
+        "title": "EXCLUSIVE: Google And Meta May Have The Most To Lose In The AI‑Agent Era, Says Founder Who Rejected OpenAI",
         "description": "",
-        "summary": "Wall Street loves a new nickname for its favorite trade.",
-        "pubDate": "2026-06-20T11:23:31Z",
-        "displayTime": "2026-06-20T11:23:31Z",
+        "summary": "The biggest winners from artificial intelligence may not be the companies building the most popular AI products. According to Div Garg, founder and CEO of AGI Inc., the companies with the most to lose in an AI-agent future could be some of today’s biggest technology platforms, including Alphabet Inc. and Meta Platforms Inc.. Garg, who famously turned down a lucrative job offer from OpenAI to build his own company, believes investors are focusing on the wrong question. Rather than asking which co",
+        "pubDate": "2026-06-21T21:32:29Z",
+        "displayTime": "2026-06-21T21:32:29Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/kMDDWyhJGDT5S2OD3AHsSw--~B/aD0zNjYxO3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/e422c379-a5e2-48fe-bc78-09396f300310",
-          "originalWidth": 5500,
-          "originalHeight": 3661,
+          "originalUrl": "https://media.zenfs.com/en/Benzinga/f97aee4e98d8bd3fb70dafe4fb624d2c",
+          "originalWidth": 1024,
+          "originalHeight": 573,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/kMDDWyhJGDT5S2OD3AHsSw--~B/aD0zNjYxO3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/e422c379-a5e2-48fe-bc78-09396f300310",
-              "width": 5500,
-              "height": 3661,
+              "url": "https://s.yimg.com/uu/api/res/1.2/grzYydrcdvdBRo1zf.jq6g--~B/aD01NzM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/f97aee4e98d8bd3fb70dafe4fb624d2c",
+              "width": 1024,
+              "height": 573,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/sNCXod6qNmT005vnNuPUTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/e422c379-a5e2-48fe-bc78-09396f300310",
+              "url": "https://s.yimg.com/uu/api/res/1.2/MzATIIPxvLRYKlGUPchA_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/f97aee4e98d8bd3fb70dafe4fb624d2c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1799,24 +1799,458 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "Benzinga",
+          "url": "http://www.benzinga.com/",
+          "sourceId": "Benzinga"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/from-faang-to-mangos--wall-street-is-searching-for-the-next-magnificent-7-chart-of-the-day-112331299.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-google-meta-may-most-213229588.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/from-faang-to-mangos--wall-street-is-searching-for-the-next-magnificent-7-chart-of-the-day-112331299.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-google-meta-may-most-213229588.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "40563143-eb49-33fe-bc4a-fa0b32041411",
+      "content": {
+        "id": "40563143-eb49-33fe-bc4a-fa0b32041411",
+        "contentType": "STORY",
+        "title": "Veteran Tech Investor: Meta Is ‘One of the Best Advertising Machines Ever Built’ With 46% Upside",
+        "description": "",
+        "summary": "On a recent episode of The Investor’s Podcast, investor Hari Ramachandra explained the bull case he saw for Meta Platforms after the stock fell roughly 20% from its peak, calling Meta Platforms (NASDAQ:META) one of the most mispriced large-cap opportunities available today. The stock closed at $577.22 on Thursday, June 18, 2026, down 12.4% year-to-date and 16.77% ... Veteran Tech Investor: Meta Is ‘One of the Best Advertising Machines Ever Built’ With 46% Upside",
+        "pubDate": "2026-06-21T19:44:48Z",
+        "displayTime": "2026-06-21T19:44:48Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/cc7c40f3aabb44d542720586bbcb70ca",
+          "originalWidth": 1366,
+          "originalHeight": 767,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eDsq1W6GCpq45O7mit90wA--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/cc7c40f3aabb44d542720586bbcb70ca",
+              "width": 1366,
+              "height": 767,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7DELMjW.TfiiE5DkuazCtg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cc7c40f3aabb44d542720586bbcb70ca",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/21/veteran-tech-investor-meta-is-one-of-the-best-advertising-machines-ever-built-with-46-upside/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-tech-investor-meta-one-194448233.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bd06ca40-0a57-3acc-b1e5-7463b8e56762",
+      "content": {
+        "id": "bd06ca40-0a57-3acc-b1e5-7463b8e56762",
+        "contentType": "STORY",
+        "title": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
+        "description": "",
+        "summary": "One member of the group is doing something none of the others can match -- and the stock still doesn't trade like it.",
+        "pubDate": "2026-06-21T17:33:00Z",
+        "displayTime": "2026-06-21T17:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/15ab9c5648b70685ec84232ddea9afde",
+          "originalWidth": 1400,
+          "originalHeight": 787,
+          "caption": "Computer servers in a data center.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dSHNUY7Xn3hylqBWHHZOlg--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/15ab9c5648b70685ec84232ddea9afde",
+              "width": 1400,
+              "height": 787,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9Yhn1twDiAHUhT6mwB9Kog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/15ab9c5648b70685ec84232ddea9afde",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/06/21/is-alphabet-the-best-magnificent-seven-ai-stock/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-best-magnificent-seven-ai-173300250.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b6226a98-15c6-359b-ab35-c05ef89def3c",
+      "content": {
+        "id": "b6226a98-15c6-359b-ab35-c05ef89def3c",
+        "contentType": "STORY",
+        "title": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares?",
+        "description": "",
+        "summary": "Meta has major AI aspirations, but the market isn't buying it.",
+        "pubDate": "2026-06-21T17:05:00Z",
+        "displayTime": "2026-06-21T17:05:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5af362acaee47ed70106ca34d3275b53",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Two investors looking at Meta's stock.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IjfTCZPa9_YiAY.HdYYpvw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5af362acaee47ed70106ca34d3275b53",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MPcFdR5rpVcPPNvjV2Mfvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5af362acaee47ed70106ca34d3275b53",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/06/21/meta-platforms-looks-unbelievably-cheap-after-the/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-looks-unbelievably-cheap-170500860.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "23dfe3b1-7f79-30f7-aeab-724041fc7f94",
+      "content": {
+        "id": "23dfe3b1-7f79-30f7-aeab-724041fc7f94",
+        "contentType": "STORY",
+        "title": "Meta’s Recent Pullback Creates an Attractive Buying Opportunity",
+        "description": "",
+        "summary": "I am opening with the verdict because the gap between where Meta Platforms (NASDAQ:META) trades today and where our model says it should trade is too wide to bury. After a punishing six months for the stock, our 24/7 Wall St. price target for Meta is $837.78, implying 47.61% upside from $567.58. The recommendation is ... Meta’s Recent Pullback Creates an Attractive Buying Opportunity",
+        "pubDate": "2026-06-21T15:45:09Z",
+        "displayTime": "2026-06-21T15:45:09Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/627d7cc6ac7d1f692b530008c6492372",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_buEpGlZzt2oTmvh2FB6pg--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/627d7cc6ac7d1f692b530008c6492372",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/VG_yW36LQIe7wfzza6H6pA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/627d7cc6ac7d1f692b530008c6492372",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/21/metas-recent-pullback-creates-an-attractive-buying-opportunity/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-recent-pullback-creates-attractive-154509860.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e73e0db5-8c9b-326e-a843-a3bd1b590e99",
+      "content": {
+        "id": "e73e0db5-8c9b-326e-a843-a3bd1b590e99",
+        "contentType": "STORY",
+        "title": "Apple’s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
+        "description": "",
+        "summary": "Apple’s next chief executive has tipped his hand on artificial intelligence, and the message is the opposite of what is coming out of Redmond, Mountain View and Menlo Park. John Ternus, who becomes CEO of Apple (NASDAQ:AAPL) on Sept. 1, 2026, used a pre-appointment interview to draw a philosophical line: technology exists to serve the ... Apple’s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
+        "pubDate": "2026-06-21T12:30:55Z",
+        "displayTime": "2026-06-21T12:30:55Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/df28591ec0b3e8b3fb95b37930329f69",
+          "originalWidth": 1440,
+          "originalHeight": 810,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/qeTsgvU4KwmtsAkPpL2BMQ--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/df28591ec0b3e8b3fb95b37930329f69",
+              "width": 1440,
+              "height": 810,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WTO61vWwgcy2Cy166h5m7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/df28591ec0b3e8b3fb95b37930329f69",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/21/apples-incoming-ceo-draws-a-line-on-ai-tools-serve-products-not-the-reverse/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-incoming-ceo-draws-line-123055617.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7e161fb2-8a29-3d61-b422-5c479ca68ac2",
+      "content": {
+        "id": "7e161fb2-8a29-3d61-b422-5c479ca68ac2",
+        "contentType": "STORY",
+        "title": "Why ‘Real-Time AI’ Is AI’s Next Wave, and Why Meta Platforms Could Be a Massive Winner",
+        "description": "",
+        "summary": "At the Pure Accelerate Summit in Las Vegas, Rob Lee, Chief Technology and Growth Officer at Everpure (NYSE:P), the company recently rebranded from Pure Storage, told a Bloomberg Businessweek Live audience that the enterprise AI conversation has flipped. Six to 12 months ago, customer dialogue centered on experimentation. Today, those meetings open with ROI questions. ... Why ‘Real-Time AI’ Is AI’s Next Wave, and Why Meta Platforms Could Be a Massive Winner",
+        "pubDate": "2026-06-21T12:29:35Z",
+        "displayTime": "2026-06-21T12:29:35Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/4b8dbd32ad159714d3d25933542b0734",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2WZn5IhOQcxHwRgGaOxguQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/4b8dbd32ad159714d3d25933542b0734",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nUQaW2zK6E600nB_IrOZjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4b8dbd32ad159714d3d25933542b0734",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/21/why-real-time-ai-is-ais-next-wave-and-why-meta-platforms-could-be-a-massive-winner/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-real-time-ai-ai-122935530.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "96698718-510f-3986-9535-051a9647e7e8",
+      "content": {
+        "id": "96698718-510f-3986-9535-051a9647e7e8",
+        "contentType": "STORY",
+        "title": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
+        "description": "",
+        "summary": "Apple Inc. is preparing to raise prices across its product lineup after CEO Tim Cook acknowledged the company can no longer absorb skyrocketing costs for memory and storage components. Apple To Raise Prices “Unfortunately, price increases are unavoidable,” Cook said in a Wall Street Journal interview published Wednesday. “We’re doing our best to mitigate the huge increases that are being passed to us, but the situation has become unsustainable.” Don’t Miss: A single bad hire can set a startup ba",
+        "pubDate": "2026-06-21T10:01:46Z",
+        "displayTime": "2026-06-21T10:01:46Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Benzinga/1ef3ddda6720ab4f6dffba557a1fe7e6",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Vhy7AZGpJBoGe2EmyPWIAg--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/1ef3ddda6720ab4f6dffba557a1fe7e6",
+              "width": 1000,
+              "height": 667,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_5bg.f1kK_R_AB.MjV5rhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/1ef3ddda6720ab4f6dffba557a1fe7e6",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "http://www.benzinga.com/",
+          "sourceId": "Benzinga"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/apple-raise-prices-due-soaring-100146728.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/apple-raise-prices-due-soaring-100146728.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -1935,440 +2369,6 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-etf-buy-1-172000214.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f4add026-6f2b-38be-844e-ce33097ec9d4",
-      "content": {
-        "id": "f4add026-6f2b-38be-844e-ce33097ec9d4",
-        "contentType": "STORY",
-        "title": "Meta’s CEO Just Promised Superintelligence. He Thinks Everyone Will Have It",
-        "description": "",
-        "summary": "Mark Zuckerberg opened Meta Platforms (NASDAQ:META)‘s Q1 2026 earnings call with a sentence that would sound deranged coming from almost any other CEO: “We’re on track to deliver personal superintelligence to billions of people.” It was the thesis. The claim landed alongside numbers that, for once, support the swagger. Meta posted Q1 revenue of $56.31 ... Meta’s CEO Just Promised Superintelligence. He Thinks Everyone Will Have It",
-        "pubDate": "2026-06-20T13:30:49Z",
-        "displayTime": "2026-06-20T13:30:49Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f848f2b8e43fcb5f0b3dc1c98f489038",
-          "originalWidth": 1366,
-          "originalHeight": 767,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XAgz2ap3qhzvlAtiQDCRSg--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/f848f2b8e43fcb5f0b3dc1c98f489038",
-              "width": 1366,
-              "height": 767,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JuihiBCQPBgUzzu8xwrgEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f848f2b8e43fcb5f0b3dc1c98f489038",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/20/metas-ceo-just-promised-superintelligence-he-thinks-everyone-will-have-it/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-ceo-just-promised-superintelligence-133049868.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7778b221-7aec-332d-be84-7a238d24ab9b",
-      "content": {
-        "id": "7778b221-7aec-332d-be84-7a238d24ab9b",
-        "contentType": "STORY",
-        "title": "Microsoft’s CEO Just Warned the Entire AI Industry: Your Dominance Will Trigger a Backlash",
-        "description": "",
-        "summary": "Satya Nadella did something unusual on June 14. The CEO of a roughly $2.93 trillion company bypassed the earnings stage and the conference circuit, and posted to his personal blog, “sn scratchpad,” with a warning aimed squarely at his own industry. The line that matters: “If all the value is accrued by only a few ... Microsoft’s CEO Just Warned the Entire AI Industry: Your Dominance Will Trigger a Backlash",
-        "pubDate": "2026-06-20T12:00:27Z",
-        "displayTime": "2026-06-20T12:00:27Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/29d3c772bec0ab4f044af179853ec3e0",
-          "originalWidth": 1448,
-          "originalHeight": 1086,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/j9d7gY4lsVQMYgszti_X0A--~B/aD0xMDg2O3c9MTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/29d3c772bec0ab4f044af179853ec3e0",
-              "width": 1448,
-              "height": 1086,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/biFFiEG8UKAOzRJIeb8vUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/29d3c772bec0ab4f044af179853ec3e0",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/20/microsofts-ceo-just-warned-the-entire-ai-industry-your-dominance-will-trigger-a-backlash/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-just-warned-entire-120027731.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "28ca675f-101f-322b-baca-2306857897d0",
-      "content": {
-        "id": "28ca675f-101f-322b-baca-2306857897d0",
-        "contentType": "STORY",
-        "title": "3 \"Magnificent Seven\" Stocks to Buy and Hold Right Now",
-        "description": "",
-        "summary": "Nvidia, Microsoft, and Meta stand out as strong buys. Here's why.",
-        "pubDate": "2026-06-20T04:20:00Z",
-        "displayTime": "2026-06-20T04:20:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/bab54ee1cbce3205e5bced69fcc06cd2",
-          "originalWidth": 1400,
-          "originalHeight": 787,
-          "caption": "A person pointing up at charts on screens in an office setting. ",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/E91W_1CPLlulElg_mcsOhw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bab54ee1cbce3205e5bced69fcc06cd2",
-              "width": 1400,
-              "height": 787,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1lQzP7EW5VtGgNPuK1qODQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bab54ee1cbce3205e5bced69fcc06cd2",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/06/20/3-magnificent-seven-stocks-to-buy-and-hold-right-n/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-magnificent-seven-stocks-buy-042000096.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e311074b-30c8-3899-bc78-4d18433d054e",
-      "content": {
-        "id": "e311074b-30c8-3899-bc78-4d18433d054e",
-        "contentType": "STORY",
-        "title": "Tired Of Doomscrolling? Commodore's New $499 Flip Phone Wants You To Touch Grass Again",
-        "description": "",
-        "summary": "As smartphones become increasingly packed with apps, notifications and endless scrolling, Commodore is betting that some consumers are ready for a device that does a lot less. Commodore Callback Flip Phone Takes Aim At Social Media Addiction Earlier this week, the gaming brand unveiled the Commodore Callback, a modern flip phone that intentionally blocks access to social media platforms, including TikTok, Instagram, Facebook, X, Threads and YouTube, while also eliminating web browsers. Instead o",
-        "pubDate": "2026-06-20T00:30:51Z",
-        "displayTime": "2026-06-20T00:30:51Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Benzinga/a35c4c83bb1c5daf9b5059a60bd42ce9",
-          "originalWidth": 1024,
-          "originalHeight": 533,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pMINIabSupN8ZPLrhHB80A--~B/aD01MzM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/a35c4c83bb1c5daf9b5059a60bd42ce9",
-              "width": 1024,
-              "height": 533,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/eD5GaprWE69K.ZpqmsEGFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/a35c4c83bb1c5daf9b5059a60bd42ce9",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "http://www.benzinga.com/",
-          "sourceId": "Benzinga"
-        },
-        "canonicalUrl": {
-          "url": "https://tech.yahoo.com/phones/articles/tired-doomscrolling-commodores-499-flip-003051878.html",
-          "site": "tech",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://tech.yahoo.com/phones/articles/tired-doomscrolling-commodores-499-flip-003051878.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ed52ddc2-aa80-3468-8ae7-a4d1e09d773a",
-      "content": {
-        "id": "ed52ddc2-aa80-3468-8ae7-a4d1e09d773a",
-        "contentType": "STORY",
-        "title": "Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI. At 25 Times Forward Earnings, It's the Cheapest Mega-Cap AI Stock Nobody Talks About.",
-        "description": "",
-        "summary": "The tech giant is one of the best long-term plays on the booming AI market.",
-        "pubDate": "2026-06-19T21:50:00Z",
-        "displayTime": "2026-06-19T21:50:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/6303e36bdb80b00588a162256382b6ab",
-          "originalWidth": 1400,
-          "originalHeight": 787,
-          "caption": "A digital illustration of an AI chip.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SrccJ7zM1SwpaU6kxQa_mA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6303e36bdb80b00588a162256382b6ab",
-              "width": 1400,
-              "height": 787,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SjY9jEG5nkbrT8HvzzPtyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6303e36bdb80b00588a162256382b6ab",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/06/19/broadcom-builds-custom-chips-for-google-meta-anthr/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-builds-custom-chips-google-215000298.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9aa99b5e-574f-393a-97eb-1de8b09c3f42",
-      "content": {
-        "id": "9aa99b5e-574f-393a-97eb-1de8b09c3f42",
-        "contentType": "STORY",
-        "title": "Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
-        "description": "",
-        "summary": "You check your portfolio and it looks like every other portfolio in America. Apple, Microsoft, NVIDIA, Amazon, Meta, Alphabet, and a heaping side of S&P 500 index fund that is, when you look under the hood, basically more of the same seven names. You are 38, you have 25-plus years until retirement, and you have ... Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
-        "pubDate": "2026-06-19T21:30:35Z",
-        "displayTime": "2026-06-19T21:30:35Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/6ec15312c8461c6de0e09dff3da3f7fb",
-          "originalWidth": 1500,
-          "originalHeight": 791,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dD4Srhy93AByHdMwIu9q_w--~B/aD03OTE7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/6ec15312c8461c6de0e09dff3da3f7fb",
-              "width": 1500,
-              "height": 791,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DUT1RB06l5SGj5ySIj9Eyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6ec15312c8461c6de0e09dff3da3f7fb",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/19/making-six-figures-but-betting-everything-on-u-s-stocks-avuv-fixes-that-problem/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/making-six-figures-betting-everything-213035666.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9f84b35a-18d4-3c59-910e-33c667393510",
-      "content": {
-        "id": "9f84b35a-18d4-3c59-910e-33c667393510",
-        "contentType": "STORY",
-        "title": "If You’re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
-        "description": "",
-        "summary": "You check your portfolio and it looks like every other portfolio in America. Apple, Microsoft, NVIDIA, Amazon, Meta, Alphabet, and a heaping side of S&P 500 index fund that is, when you look under the hood, basically more of the same seven names. You are 38, you have 25 plus years until retirement, and you ... If You’re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
-        "pubDate": "2026-06-19T21:10:12Z",
-        "displayTime": "2026-06-19T21:10:12Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f2d2b6b9e7d3e19728bd644fccf3584e",
-          "originalWidth": 1500,
-          "originalHeight": 1000,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.MLRUGy2qQjYqtZrvhwPaw--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/f2d2b6b9e7d3e19728bd644fccf3584e",
-              "width": 1500,
-              "height": 1000,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/eC8IGqTw6m9bGgGwfgslIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f2d2b6b9e7d3e19728bd644fccf3584e",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/19/if-youre-38-with-500k-saved-avuv-fixes-your-tech-heavy-portfolio/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/38-500k-saved-avuv-fixes-211012072.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"

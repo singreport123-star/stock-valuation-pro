@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "4958",
     "market": "TW",
-    "ts": "2026-06-20T23:00:40.866516"
+    "ts": "2026-06-21T23:04:16.797410"
   },
   "financials": {
     "annual": {
@@ -22721,8 +22721,8 @@
     "averageVolume": 41383889,
     "averageVolume10days": 31264597,
     "averageDailyVolume10Day": 31264597,
-    "bid": 641.0,
-    "ask": 642.0,
+    "bid": 0.0,
+    "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
     "marketCap": 692988149760,
@@ -22798,6 +22798,7 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
+    "marketState": "PREPRE",
     "regularMarketChange": 3.0,
     "regularMarketDayRange": "628.0 - 654.0",
     "fullExchangeName": "Taiwan",
@@ -22825,13 +22826,11 @@
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.4 - Strong Buy",
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 1324861200000,
-    "regularMarketChangePercent": 0.46948358,
-    "regularMarketPrice": 642.0,
     "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
     "longName": "Zhen Ding Technology Holding Limited",
     "cryptoTradeable": false,
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 1324861200000,
     "corporateActions": [],
     "regularMarketTime": 1781760603,
     "exchange": "TAI",
@@ -22841,7 +22840,8 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "marketState": "CLOSED",
+    "regularMarketChangePercent": 0.46948358,
+    "regularMarketPrice": 642.0,
     "trailingPegRatio": null
   }
 }
