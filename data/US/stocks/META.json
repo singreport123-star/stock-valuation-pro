@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-06-24T23:00:19.348240",
+    "ts": "2026-06-25T23:10:55.546504",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 562.2,
-    "open": 562.15,
-    "dayLow": 555.5503,
-    "dayHigh": 569.04,
-    "regularMarketPreviousClose": 562.2,
-    "regularMarketOpen": 562.15,
-    "regularMarketDayLow": 555.5503,
-    "regularMarketDayHigh": 569.04,
+    "previousClose": 557.8,
+    "open": 555.553,
+    "dayLow": 540.205,
+    "dayHigh": 556.34,
+    "regularMarketPreviousClose": 557.8,
+    "regularMarketOpen": 555.553,
+    "regularMarketDayLow": 540.205,
+    "regularMarketDayHigh": 556.34,
     "dividendRate": 2.1,
-    "dividendYield": 0.37,
+    "dividendYield": 0.38,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
     "beta": 1.229,
-    "trailingPE": 20.286285,
-    "forwardPE": 15.385715,
-    "volume": 13155272,
-    "regularMarketVolume": 13155272,
-    "averageVolume": 17549712,
-    "averageVolume10days": 17276890,
-    "averageDailyVolume10Day": 17276890,
-    "bid": 557.66,
-    "ask": 557.61,
+    "trailingPE": 19.747908,
+    "forwardPE": 14.977393,
+    "volume": 16443852,
+    "regularMarketVolume": 16443852,
+    "averageVolume": 17571888,
+    "averageVolume10days": 16975140,
+    "averageDailyVolume10Day": 16975140,
+    "bid": 540.2,
+    "ask": 548.27,
     "bidSize": 1,
-    "askSize": 2,
-    "marketCap": 1415602503680,
-    "nonDilutedMarketCap": 1427101581508,
+    "askSize": 1,
+    "marketCap": 1378033860608,
+    "nonDilutedMarketCap": 1378033859041,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 6.585331,
-    "fiftyDayAverage": 619.2546,
-    "twoHundredDayAverage": 653.1178,
+    "priceToSalesTrailing12Months": 6.410563,
+    "fiftyDayAverage": 617.7174,
+    "twoHundredDayAverage": 652.1439,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0037353253,
+    "trailingAnnualDividendYield": 0.0037647902,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1432690622464,
+    "enterpriseValue": 1421191544832,
     "profitMargins": 0.32837,
     "floatShares": 2192537745,
     "sharesOutstanding": 2196045588,
@@ -189,7 +189,7 @@
     "shortPercentOfFloat": 0.0147,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 5.8082757,
+    "priceToBook": 5.65413,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
@@ -198,14 +198,14 @@
     "trailingEps": 27.49,
     "forwardEps": 36.24596,
     "pegRatio": 0.81,
-    "enterpriseToRevenue": 6.665,
-    "enterpriseToEbitda": 13.107,
-    "52WeekChange": -0.20669413,
-    "SandP52WeekChange": 0.20900631,
+    "enterpriseToRevenue": 6.611,
+    "enterpriseToEbitda": 13.002,
+    "52WeekChange": -0.2319547,
+    "SandP52WeekChange": 0.1982081,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 557.67,
+    "currentPrice": 542.87,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 664.46,
     "targetMeanPrice": 827.3183,
@@ -240,14 +240,11 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
+    "regularMarketChangePercent": -2.6765852,
+    "regularMarketPrice": 542.87,
     "corporateActions": [],
-    "postMarketTime": 1782342011,
-    "regularMarketTime": 1782331202,
-    "marketState": "POST",
-    "shortName": "Meta Platforms, Inc.",
-    "regularMarketChangePercent": -0.80576825,
-    "regularMarketPrice": 557.67,
-    "longName": "Meta Platforms, Inc.",
+    "postMarketTime": 1782429051,
+    "regularMarketTime": 1782417600,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -255,18 +252,24 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "postMarketPrice": 559.0,
-    "postMarketChange": 1.3300171,
-    "regularMarketChange": -4.5300293,
-    "regularMarketDayRange": "555.5503 - 569.04",
+    "marketState": "POST",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": 0.28184083,
+    "postMarketPrice": 544.4,
+    "postMarketChange": 1.5300293,
+    "regularMarketChange": -14.929993,
+    "regularMarketDayRange": "540.205 - 556.34",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 17549712,
-    "fiftyTwoWeekLowChange": 37.409973,
-    "fiftyTwoWeekLowChangePercent": 0.0719063,
+    "averageDailyVolume3Month": 17571888,
+    "fiftyTwoWeekLowChange": 22.609985,
+    "fiftyTwoWeekLowChangePercent": 0.04345901,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -238.58002,
-    "fiftyTwoWeekHighChangePercent": -0.29962954,
-    "fiftyTwoWeekChangePercent": -20.669413,
+    "fiftyTwoWeekHighChange": -253.38,
+    "fiftyTwoWeekHighChangePercent": -0.31821665,
+    "fiftyTwoWeekChangePercent": -23.195469,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -277,23 +280,20 @@
     "epsTrailingTwelveMonths": 27.49,
     "epsForward": 36.24596,
     "epsCurrentYear": 32.17953,
-    "priceEpsCurrentYear": 17.32996,
-    "fiftyDayAverageChange": -61.584595,
-    "fiftyDayAverageChangePercent": -0.09944956,
-    "twoHundredDayAverageChange": -95.447815,
-    "twoHundredDayAverageChangePercent": -0.14614181,
+    "priceEpsCurrentYear": 16.87004,
+    "fiftyDayAverageChange": -74.84741,
+    "fiftyDayAverageChangePercent": -0.12116773,
+    "twoHundredDayAverageChange": -109.273926,
+    "twoHundredDayAverageChangePercent": -0.16756105,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.23849536,
-    "nameChangeDate": "2026-06-24",
+    "nameChangeDate": "2026-06-25",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8123
+    "trailingPegRatio": 0.8057
   },
   "financial_statements": {
     "income": {
@@ -1766,32 +1766,32 @@
   },
   "news": [
     {
-      "id": "d2e9e3fd-cf1e-4276-91b3-b11f9f44fa8e",
+      "id": "b9b1ec64-9722-4228-b022-7e97f2592559",
       "content": {
-        "id": "d2e9e3fd-cf1e-4276-91b3-b11f9f44fa8e",
+        "id": "b9b1ec64-9722-4228-b022-7e97f2592559",
         "contentType": "VIDEO",
-        "title": "The CBOE moves into prediction market space",
-        "description": "<p>Scott Melker breaks down the Chicago Board Options Exchange (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/CBOE/\" data-i13n=\"cpos:1;pos:1\">CBOE</a>) move into prediction markets and what it means for the rapidly growing space.</p>\n<p>\"<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/videos/series/daily-wolf/?fr=sycsrp_catchall\" data-i13n=\"slk:The Daily Wolf with Scott Melker;cpos:2;pos:1\">The Daily Wolf with Scott Melker</a>\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.</p>\n<p>Make sure to also check out Yahoo Finance's new <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/markets/crypto/\" data-i13n=\"slk:crypto hub;cpos:3;pos:1\">crypto hub</a> to find the latest crypto-related news.</p>",
-        "summary": "Scott Melker breaks down the Chicago Board Options Exchange (CBOE) move into prediction markets and what it means for the rapidly growing space. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
-        "pubDate": "2026-06-24T20:30:00Z",
+        "title": "Qualcomm's 'next phase' is AI rack infrastructure: CFO",
+        "description": "<p>Qualcomm (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/QCOM/\" data-i13n=\"cpos:1;pos:1\">QCOM</a>) CFO and COO Akash Palkhiwala joins Yahoo Finance Tech Editor Dan Howley to discuss the AI chipmaker's expansion into the <a target=\"_blank\" class=\"link\" href=\"https://finance.yahoo.com/technology/article/qualcomm-jumps-as-it-looks-beyond-smartphones-to-cash-in-on-the-ai-boom-225301932.html\" data-i13n=\"cpos:2;pos:1\">AI data center industry</a> with its new server rack.</p>",
+        "summary": "Qualcomm (QCOM) CFO and COO Akash Palkhiwala joins Yahoo Finance Tech Editor Dan Howley to discuss the AI chipmaker's expansion into the AI data center industry with its new server rack.",
+        "pubDate": "2026-06-25T14:55:05Z",
         "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/MMjjxtCQrMlnYPNEN5QiRg--~B/aD00MDAwO3c9NzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/cd07ddf9-b111-4f5a-a8a3-2d6c3240a5d9",
-          "originalWidth": 7000,
-          "originalHeight": 4000,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/XiSBT.f4FllX07ocyhQHjA--~B/aD03NjU7dz0xMzYwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/qualcomm-cfo-with-ai-rack_3919.jpg_abcc56784ea765abd335cacae5f678abaa626c8841885250cc615c879b24e110.jpg",
+          "originalWidth": 1360,
+          "originalHeight": 765,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/MMjjxtCQrMlnYPNEN5QiRg--~B/aD00MDAwO3c9NzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/cd07ddf9-b111-4f5a-a8a3-2d6c3240a5d9",
-              "width": 7000,
-              "height": 4000,
+              "url": "https://s.yimg.com/uu/api/res/1.2/XiSBT.f4FllX07ocyhQHjA--~B/aD03NjU7dz0xMzYwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/qualcomm-cfo-with-ai-rack_3919.jpg_abcc56784ea765abd335cacae5f678abaa626c8841885250cc615c879b24e110.jpg",
+              "width": 1360,
+              "height": 765,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WIoU49klM3gsuF1qXuP5Hw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/cd07ddf9-b111-4f5a-a8a3-2d6c3240a5d9",
+              "url": "https://s.yimg.com/uu/api/res/1.2/7HOa0vOf81SVnRpCs1syWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/qualcomm-cfo-with-ai-rack_3919.jpg_abcc56784ea765abd335cacae5f678abaa626c8841885250cc615c879b24e110.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1804,13 +1804,13 @@
           "sourceId": "video.yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/cboe-moves-prediction-market-space-203000070.html",
+          "url": "https://finance.yahoo.com/video/qualcomms-next-phase-ai-rack-145505993.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/cboe-moves-prediction-market-space-203000070.html",
+          "url": "https://finance.yahoo.com/video/qualcomms-next-phase-ai-rack-145505993.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1828,41 +1828,14 @@
           "storylineItems": [
             {
               "content": {
-                "id": "fac7a180-2815-45cd-9c3a-c4ed77c8021c",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/JR0gOzryHYIRNjI6yw_gBQ--~B/aD03MjI7dz0xMjgyO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/qualcomm-rack_4025.jpg",
-                  "originalWidth": 1282,
-                  "originalHeight": 722,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/technology/article/qualcomm-debuts-line-of-ai-data-center-chips-and-systems-increasing-competition-with-nvidia-193000684.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/technology/article/qualcomm-debuts-line-of-ai-data-center-chips-and-systems-increasing-competition-with-nvidia-193000684.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "8458b566-b785-475a-b847-7edb18e68817",
+                "id": "914d5f26-121f-4e5e-bea8-78c14f6fc728",
                 "contentType": "VIDEO",
                 "isHosted": true,
-                "title": "SpaceX rockets downward on day 1 of short trading",
+                "title": "Employers, governments join forces to address AI job loss concerns",
                 "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/mOJ7xQWoaJVMGVU0Q7Jxng--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dw-musk-spacex-noheadline-0624_3031.png",
-                  "originalWidth": 1920,
-                  "originalHeight": 1080,
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Ee76sUwwgbBBhiGDzod5gg--~B/aD0yODc3O3c9NTExNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0fa458c0-112f-11f1-9fff-6ae05606f4ff_931c408fd844f0e8b8c7067b1ff0f25941eb1f7e41d1e442fb5beb27adaff448.jpg",
+                  "originalWidth": 5116,
+                  "originalHeight": 2877,
                   "caption": "",
                   "resolutions": null
                 },
@@ -1873,10 +1846,37 @@
                 "previewUrl": null,
                 "providerContentUrl": "",
                 "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/spacex-rockets-downward-day-1-165103863.html"
+                  "url": "https://finance.yahoo.com/video/employers-governments-join-forces-address-143000696.html"
                 },
                 "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/spacex-rockets-downward-day-1-165103863.html"
+                  "url": "https://finance.yahoo.com/video/employers-governments-join-forces-address-143000696.html"
+                }
+              }
+            },
+            {
+              "content": {
+                "id": "7063c8b6-f60b-4afd-99a6-2c5e1f0e3e53",
+                "contentType": "STORY",
+                "isHosted": true,
+                "title": "Alphabet makes the Dow look more like the Nasdaq",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/QO2YWvEuPyn79OU41SRf5w--~B/aD0yMzMzO3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/4c6b8d82-e115-4296-80a5-d3f9e62e77d3",
+                  "originalWidth": 3500,
+                  "originalHeight": 2333,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance",
+                  "sourceId": "yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html"
                 }
               }
             }
@@ -1885,32 +1885,32 @@
       }
     },
     {
-      "id": "7063c8b6-f60b-4afd-99a6-2c5e1f0e3e53",
+      "id": "d3f21467-98fe-3d7a-b341-eaad073c9b2f",
       "content": {
-        "id": "7063c8b6-f60b-4afd-99a6-2c5e1f0e3e53",
+        "id": "d3f21467-98fe-3d7a-b341-eaad073c9b2f",
         "contentType": "STORY",
-        "title": "Alphabet makes the Dow look more like the Nasdaq",
+        "title": "Meta Stock: 'Bulls Are Frustrated' But Analyst Sees Big Potential For AI Business Push",
         "description": "",
-        "summary": "Alphabet's inclusion in the Dow gives the 130-year-old blue-chip index a dose of the same mega-cap tech trade already dominating the Nasdaq 100.",
-        "pubDate": "2026-06-24T15:52:36Z",
-        "displayTime": "2026-06-24T15:52:36Z",
-        "isHosted": true,
+        "summary": "Meta stock could see a boost from the company's plan to offer AI business agents on WhatsApp and Messenger, an analyst said.",
+        "pubDate": "2026-06-25T21:06:53Z",
+        "displayTime": "2026-06-25T21:06:53Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/d3f21467-98fe-3d7a-b341-eaad073c9b2f/meta-stock-bulls-are.html",
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/QO2YWvEuPyn79OU41SRf5w--~B/aD0yMzMzO3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/4c6b8d82-e115-4296-80a5-d3f9e62e77d3",
-          "originalWidth": 3500,
-          "originalHeight": 2333,
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/bf86a0d14c02580d5ac0f342d6851695",
+          "originalWidth": 1000,
+          "originalHeight": 511,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QO2YWvEuPyn79OU41SRf5w--~B/aD0yMzMzO3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/4c6b8d82-e115-4296-80a5-d3f9e62e77d3",
-              "width": 3500,
-              "height": 2333,
+              "url": "https://s.yimg.com/uu/api/res/1.2/j8e0efO0CB0Kz5LY3LS.5g--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/bf86a0d14c02580d5ac0f342d6851695",
+              "width": 1000,
+              "height": 511,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tgU155CjjWUDqdMefPkWpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/4c6b8d82-e115-4296-80a5-d3f9e62e77d3",
+              "url": "https://s.yimg.com/uu/api/res/1.2/pPR2aD1Zg93U0WDQz90DBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/bf86a0d14c02580d5ac0f342d6851695",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1918,24 +1918,19 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
+          "url": "https://www.investors.com/news/technology/meta-stock-business-agent-ai-estimates/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
+        "clickThroughUrl": null,
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -1943,93 +1938,150 @@
             "isPremiumFreeNews": false
           }
         },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "5dca1524-d2b0-4b37-8925-78d0830c849d",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Meta reportedly aims to take on prediction markets with new app",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/.6TaDKdYN2fs.lKW5SRXXA--~B/aD0xOTUxO3c9MzQ3MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/c1ac3b24-db78-4581-b561-ee2b76d04041_4a2ac5e2b1e27649fb355c5f444f8ada4d41ac0db9b7dfcab3d432e622c7300d.jpg",
-                  "originalWidth": 3470,
-                  "originalHeight": 1951,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-reportedly-aims-prediction-markets-143000077.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-reportedly-aims-prediction-markets-143000077.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "811cbf79-7ea4-46c0-b009-38da7199bd3c",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Big Tech's $2.7 trillion AI bill comes due: Chart of the Day",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/zJrpQu1MciGACEH6Qwlkpw--~B/aD0yNDAxO3c9MzYwODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/61750461-f213-4881-bce3-b37889bf0d40",
-                  "originalWidth": 3608,
-                  "originalHeight": 2401,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/big-techs-27-trillion-ai-bill-comes-due-chart-of-the-day-100000100.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/big-techs-27-trillion-ai-bill-comes-due-chart-of-the-day-100000100.html"
-                }
-              }
-            }
-          ]
-        }
+        "storyline": null
       }
     },
     {
-      "id": "3e065882-2fbe-3587-b6a5-430491868daa",
+      "id": "6c787aee-a5ff-31eb-9633-25e3ab31ee24",
       "content": {
-        "id": "3e065882-2fbe-3587-b6a5-430491868daa",
+        "id": "6c787aee-a5ff-31eb-9633-25e3ab31ee24",
         "contentType": "STORY",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "title": "Amazon Stock Slips Below Key Level. Why It's A Rough Day For Cloud Hyperscaler Stocks.",
         "description": "",
-        "summary": "Qualcomm’s investor day highlighted a major shift toward AI, with a new Meta partnership and strong long-term revenue targets across its core businesses.",
-        "pubDate": "2026-06-24T22:04:29Z",
-        "displayTime": "2026-06-24T22:04:29Z",
-        "isHosted": true,
+        "summary": "Amazon stock broke below its 200-day line as it continued a slump that has wiped out its rally from April.",
+        "pubDate": "2026-06-25T21:03:38Z",
+        "displayTime": "2026-06-25T21:03:38Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/6c787aee-a5ff-31eb-9633-25e3ab31ee24/amazon-stock-slips-below-key.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/1c3cba9d6175464f7c5b021877e4f839",
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/266c3a6d3e2b2c80b9711daafd179bb8",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/e0H_V3Ijc8HgNtqSj9fvHw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/266c3a6d3e2b2c80b9711daafd179bb8",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/._vCPsMcXFSVmip3zKTtHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/266c3a6d3e2b2c80b9711daafd179bb8",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/news/technology/amazon-stock-falls-200-day-cloud-hyperscale-memory-concerns/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f6ee944b-ad38-3fe7-b3a3-2342ca665593",
+      "content": {
+        "id": "f6ee944b-ad38-3fe7-b3a3-2342ca665593",
+        "contentType": "STORY",
+        "title": "Netflix Stock Craters To Lowest Level In 20 Months",
+        "description": "",
+        "summary": "Netflix stock sank to its lowest level in 20 months as the subscription streaming video leader deals with negative sentiment.",
+        "pubDate": "2026-06-25T21:00:42Z",
+        "displayTime": "2026-06-25T21:00:42Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/f6ee944b-ad38-3fe7-b3a3-2342ca665593/netflix-stock-craters-to.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/160fc6e9083e1e8efce5863ea4620287",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LFxQE8RqRkQEuBDAjNhEXA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/160fc6e9083e1e8efce5863ea4620287",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/hH6SL0asaT0CbNRM7coanQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/160fc6e9083e1e8efce5863ea4620287",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/news/technology/netflix-stock-craters-lowest-level-in-20-months/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f7d6a622-7b4c-32b7-bb69-6e20ff89e5c9",
+      "content": {
+        "id": "f7d6a622-7b4c-32b7-bb69-6e20ff89e5c9",
+        "contentType": "STORY",
+        "title": "Nvidia, Qualcomm, Apple, Wendy’s, and More Stocks That Explain Today’s Market",
+        "description": "",
+        "summary": "FEATURE  Large technology stocks dragged down the Nasdaq Composite on Thursday. So much for the artificial-intelligence trade revival. Investors continued to rotate out of big AI spenders after blockbuster earnings from Micron were followed by consumer tech price increases related to the ongoing memory shortage.",
+        "pubDate": "2026-06-25T20:36:00Z",
+        "displayTime": "2026-06-25T20:36:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/f7d6a622-7b4c-32b7-bb69-6e20ff89e5c9/nvidia-qualcomm-apple-.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/d665aaa255903520650a609cabbb237c",
           "originalWidth": 1280,
-          "originalHeight": 853,
+          "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BbgnJMXyiojCIx0sEKbCtA--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/1c3cba9d6175464f7c5b021877e4f839",
+              "url": "https://s.yimg.com/uu/api/res/1.2/czHHf3cTuwYrK3hKYU3kQg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d665aaa255903520650a609cabbb237c",
               "width": 1280,
-              "height": 853,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vn3GMgFuavt72pYGUd.ZZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/1c3cba9d6175464f7c5b021877e4f839",
+              "url": "https://s.yimg.com/uu/api/res/1.2/4wglIPHnWDhkElSvY9YKYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/d665aaa255903520650a609cabbb237c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2037,22 +2089,17 @@
           ]
         },
         "provider": {
-          "displayName": "Stocktwits",
-          "url": "Stocktwits",
-          "sourceId": "stocktwits_383"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-jumps-15-percent-after-hours-massive-ai-revenue-targets-meta-deal-power-qualcomm-rally/cZKy80kR7Q2",
+          "url": "https://www.barrons.com/articles/stock-movers-ba8335ea?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-jumps-15-hours-220429674.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
@@ -2066,323 +2113,32 @@
       }
     },
     {
-      "id": "14ec811a-7ec3-3c8d-b66a-21c2869e16ad",
+      "id": "99ea2c87-d8b8-37d4-8a6a-afbda12394a0",
       "content": {
-        "id": "14ec811a-7ec3-3c8d-b66a-21c2869e16ad",
+        "id": "99ea2c87-d8b8-37d4-8a6a-afbda12394a0",
         "contentType": "STORY",
-        "title": "Trading Day: Tech jitters smother inflation relief",
+        "title": "Microsoft Stock Is Having Its Worst Start to a Year Since the Dot-Com Crash",
         "description": "",
-        "summary": "By Jamie McGeever ORLANDO, Florida, June 24 (Reuters) - U.S. bond yields tumbled on Wednesday as oil's slide to a four-month low eased inflation fears, although the relief wasn't felt as much in",
-        "pubDate": "2026-06-24T21:04:46Z",
-        "displayTime": "2026-06-24T21:04:46Z",
-        "isHosted": true,
+        "summary": "Heading into Thursday’s session, Microsoft stock had fallen more than 24% in 2026, putting it on track for its steepest first-half decline since a nearly 32% drop in 2000, according to Dow Jones Market Data.  For much of its history, Microsoft was best known as the pioneer behind the Windows operating system and wildly popular Office software.  Microsoft seemed like an obvious early winner in AI: The company became OpenAI’s first major corporate backer through a $1 billion investment in 2019, aligning itself early on with one of the industry’s juggernauts.",
+        "pubDate": "2026-06-25T19:17:00Z",
+        "displayTime": "2026-06-25T19:17:00Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/99ea2c87-d8b8-37d4-8a6a-afbda12394a0/microsoft-stock-is-having-its.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters.com/39fc339bf0dd3953c7c8218db51f55ca",
-          "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "Futures-options traders work on the floor at the New York Stock Exchange's NYSE American (AMEX) in New York City, U.S. June 24, 2026.  REUTERS/Brendan McDermid",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/N1I3ZHQhLiVR0JgnlhD68g--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/39fc339bf0dd3953c7c8218db51f55ca",
-              "width": 800,
-              "height": 533,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CjIyhqZX4fiIjmP5Zd_QXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/39fc339bf0dd3953c7c8218db51f55ca",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "https://www.reuters.com/",
-          "sourceId": "reuters.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/articles/trading-day-tech-jitters-smother-210446325.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/articles/trading-day-tech-jitters-smother-210446325.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b3e81491-5a6f-3716-bdb9-8cf945c89095",
-      "content": {
-        "id": "b3e81491-5a6f-3716-bdb9-8cf945c89095",
-        "contentType": "STORY",
-        "title": "Qualcomm unveils Dragonfly CPU, signs Meta as first data center customer",
-        "description": "",
-        "summary": "Investing.com - Qualcomm Incorporated (NASDAQ:QCOM) unveiled its Dragonfly C1000 data center CPU and secured Meta Platforms as its first major customer on Wednesday, announcing a strategic multi-generation supply agreement at its Investor Day 2026 in New York City. Despite the milestone announcements, Qualcomm shares are trading at $193.61, down 5.15% on the session, as investors weigh the near-term cost of a separate ~$4 billion acquisition against data center revenue that won’t arrive until th",
-        "pubDate": "2026-06-24T20:27:46Z",
-        "displayTime": "2026-06-24T20:27:46Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/qualcomm-unveils-dragonfly-cpu-signs-202746549.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/qualcomm-unveils-dragonfly-cpu-signs-202746549.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2bcbd5dc-1ea2-32a8-869f-7b48bd9d3231",
-      "content": {
-        "id": "2bcbd5dc-1ea2-32a8-869f-7b48bd9d3231",
-        "contentType": "STORY",
-        "title": "Why Robinhood (HOOD) Stock Is Down Today",
-        "description": "",
-        "summary": "Shares of financial services company Robinhood (NASDAQ:HOOD) fell 2.7% in the morning session after reports revealed Meta Platforms is developing a competing prediction markets app.",
-        "pubDate": "2026-06-24T19:52:25Z",
-        "displayTime": "2026-06-24T19:52:25Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/bf41c6682999351d6aa1be7f14b7459d",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "HOOD Cover Image",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Fx8Vy7857a6.YdDVVAy_8g--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/bf41c6682999351d6aa1be7f14b7459d",
-              "width": 1400,
-              "height": 700,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/qJEbucRpQPYtDzPk7NZUHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/bf41c6682999351d6aa1be7f14b7459d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-robinhood-hood-stock-down-195225377.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-robinhood-hood-stock-down-195225377.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b2a23128-641c-326d-a395-ac54dea03f4f",
-      "content": {
-        "id": "b2a23128-641c-326d-a395-ac54dea03f4f",
-        "contentType": "STORY",
-        "title": "Better Buy: SpaceX or the \"Magnificent Seven\"?",
-        "description": "",
-        "summary": "SpaceX's market cap is in the same trillion-dollar-plus range as those tech giants, but does it have similar strengths to them as a business?",
-        "pubDate": "2026-06-24T19:42:00Z",
-        "displayTime": "2026-06-24T19:42:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/b1a44217c86006a8704bef58cf6a9d13",
-          "originalWidth": 1400,
-          "originalHeight": 787,
-          "caption": "Investor looking at SpaceX stock.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IG4tkawXq8219nmlOfmQDA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b1a44217c86006a8704bef58cf6a9d13",
-              "width": 1400,
-              "height": 787,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4OPW84d3mXfsnTFdLMoLTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b1a44217c86006a8704bef58cf6a9d13",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/06/24/better-buy-spacex-or-the-magnificent-seven/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-buy-spacex-magnificent-seven-194200343.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "030a13dc-5eb3-3a7b-826e-7c2a113dae13",
-      "content": {
-        "id": "030a13dc-5eb3-3a7b-826e-7c2a113dae13",
-        "contentType": "STORY",
-        "title": "Meta Platforms, Inc. (META) Is A Top AI Stock In Billionaire David Tepper’s Portfolio",
-        "description": "",
-        "summary": "We recently published David Tepper Stock Portfolio: 10 Long-Term Stock Picks. Meta Platforms, Inc. (NASDAQ:META) is one of the long-term stock picks. Social media giant Meta Platforms, Inc. (NASDAQ:META) is another long-term David Tepper stock pick. It first appeared in his hedge fund’s holdings in the first quarter of 2014. It remained in the holdings […]",
-        "pubDate": "2026-06-24T18:57:31Z",
-        "displayTime": "2026-06-24T18:57:31Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/d636804777e86306db796c6b7eec75a0",
-          "originalWidth": 750,
-          "originalHeight": 500,
-          "caption": "Meta Platforms, Inc. (META) Is A Top AI Stock In Billionaire David Tepper's Portfolio ",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CpLrDcWLL_U0E_ViX4jogw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d636804777e86306db796c6b7eec75a0",
-              "width": 750,
-              "height": 500,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CcVnpksIPcWt4RxEdSxmhw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d636804777e86306db796c6b7eec75a0",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-inc-meta-top-185731243.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-inc-meta-top-185731243.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7a543a5a-ec52-3543-9135-9d68f6b9fc95",
-      "content": {
-        "id": "7a543a5a-ec52-3543-9135-9d68f6b9fc95",
-        "contentType": "STORY",
-        "title": "2 Cheap Home-Run Nuclear Stocks to Buy Now for 90% Upside and AI Growth",
-        "description": "",
-        "summary": "Diving into two cheap (trading for under $25 a share) grand slam next-generation nuclear energy stocks to buy. X-Energy and Nano Nuclear's average Zacks price targets imply 90% upside from their current levels.",
-        "pubDate": "2026-06-24T18:41:00Z",
-        "displayTime": "2026-06-24T18:41:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/5fc95e37867e2a80f869083d472f6292",
-          "originalWidth": 620,
-          "originalHeight": 413,
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/c932c2a31efae4ff2c557567e108f297",
+          "originalWidth": 1280,
+          "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2J1MUI82L1x2GJ63x6.cLw--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5fc95e37867e2a80f869083d472f6292",
-              "width": 620,
-              "height": 413,
+              "url": "https://s.yimg.com/uu/api/res/1.2/bkgBFej3grbQfvd.Ojou3g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c932c2a31efae4ff2c557567e108f297",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/B74oTRdHgUiG1kgrEw4hWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5fc95e37867e2a80f869083d472f6292",
+              "url": "https://s.yimg.com/uu/api/res/1.2/M9E_uEH7I37FUZxnaeerSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c932c2a31efae4ff2c557567e108f297",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2390,18 +2146,75 @@
           ]
         },
         "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/2-cheap-home-run-nuclear-184100373.html",
+          "url": "https://www.barrons.com/articles/microsoft-stock-price-ai-openai-2525ca7e?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "06786667-d0be-31c9-b44b-a6e6e8c907d0",
+      "content": {
+        "id": "06786667-d0be-31c9-b44b-a6e6e8c907d0",
+        "contentType": "STORY",
+        "title": "Nvidia’s CEO Says the Next Millionaires Will Be Plumbers and Electricians, Not Coders",
+        "description": "",
+        "summary": "When the company selling AI shovels suggests you grab a different shovel, it is worth a look. On a Fox Business segment June 25, 2026, blue-collar advocate Ken Rusk relayed NVIDIA (NASDAQ:NVDA) CEO Jensen Huang’s claim that “the next generation of millionaires will be carpenters, plumbers and electricians”. Rusk’s framing was blunter. “If I was ... Nvidia’s CEO Says the Next Millionaires Will Be Plumbers and Electricians, Not Coders",
+        "pubDate": "2026-06-25T19:10:21Z",
+        "displayTime": "2026-06-25T19:10:21Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/fbf9881bd122c34ee9f0afa9292cdcb5",
+          "originalWidth": 1366,
+          "originalHeight": 767,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bSSK3SadtjbHk9KZmxScFA--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/fbf9881bd122c34ee9f0afa9292cdcb5",
+              "width": 1366,
+              "height": 767,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ngm.XbfyYsaH63y_FBBMQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fbf9881bd122c34ee9f0afa9292cdcb5",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/personal-finance/2026/06/25/nvidias-ceo-says-the-next-millionaires-will-be-plumbers-and-electricians-not-coders/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/2-cheap-home-run-nuclear-184100373.html",
+          "url": "https://finance.yahoo.com/small-business/articles/nvidia-ceo-says-next-millionaires-191021648.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2419,32 +2232,32 @@
       }
     },
     {
-      "id": "8c3bcd87-1123-321a-875c-fceb9ff95a48",
+      "id": "11fb9101-657c-3f4d-b8e4-81e4c039212f",
       "content": {
-        "id": "8c3bcd87-1123-321a-875c-fceb9ff95a48",
+        "id": "11fb9101-657c-3f4d-b8e4-81e4c039212f",
         "contentType": "STORY",
-        "title": "Qualcomm says Microsoft, Meta will use its new AI chips",
+        "title": "Qualcomm Just Revealed Its Mystery Big Tech Customer—and Its Stock Is Rising",
         "description": "",
-        "summary": "Qualcomm said on Wednesday that Microsoft  and Meta Platforms will use its new AI chips and that it will make custom chips for two other unnamed \"hyperscalers.\"  The ‌San Diego-based company, which is the industry leader in smartphone chips, held an investor presentation to showcase its ‌move into supplying AI chips for data centers as it tries to gain a foothold in a market dominated by Nvidia.  The shift reflects mounting ​pressure in the smartphone market, which has been squeezed by a memory chip shortage driven by surging demand for AI infrastructure, and major customers such as Apple and Samsung developing chips in-house.",
-        "pubDate": "2026-06-24T18:11:12Z",
-        "displayTime": "2026-06-24T18:11:12Z",
-        "isHosted": true,
+        "summary": "The company almost doubles its non-handset sales target, helping to revive faith in the stumbling AI trade.",
+        "pubDate": "2026-06-25T19:04:00Z",
+        "displayTime": "2026-06-25T19:04:00Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/11fb9101-657c-3f4d-b8e4-81e4c039212f/qualcomm-just-revealed-its.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/e385692ede7ece51d5810b1cce3a904e",
-          "originalWidth": 800,
-          "originalHeight": 570,
-          "caption": "FILE PHOTO: China International Import Expo in Shanghai",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/3f99a25bd4d839de346dd79bf8ffeb48",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/C7gmThJoVCOJzSA4YqZIRw--~B/aD01NzA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/e385692ede7ece51d5810b1cce3a904e",
-              "width": 800,
-              "height": 570,
+              "url": "https://s.yimg.com/uu/api/res/1.2/4XUzcWF.uA_.m0A_CjYfqA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3f99a25bd4d839de346dd79bf8ffeb48",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hL_ZjMG3t_qOMD158CEFgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/e385692ede7ece51d5810b1cce3a904e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/VNFdgWpO.RXJpjSM57kyag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/3f99a25bd4d839de346dd79bf8ffeb48",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2452,22 +2265,131 @@
           ]
         },
         "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-bets-ai-chips-break-181112616.html",
+          "url": "https://www.barrons.com/articles/qualcomm-stock-price-mystery-big-tech-customer-meta-b8a1e776?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-bets-ai-chips-break-181112616.html",
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c8b8de49-725d-3517-b850-fc5f2f9f5370",
+      "content": {
+        "id": "c8b8de49-725d-3517-b850-fc5f2f9f5370",
+        "contentType": "STORY",
+        "title": "Nvidia Stock Slips Below $200. Competition Fears Are Growing.",
+        "description": "",
+        "summary": "Nvidia  slid on Thursday as the initial boost from  Micron’s  blowout earnings report faded, giving way to deeper anxieties about artificial-intelligence stocks.  Extending its longest losing streak since May, Nvidia stock fell for the fourth day straight, dropping 1.8% to $195.47.  As Barron’s has written, Nvidia looked to be establishing a trading range with a floor of roughly $200, after breaking through that level in April.",
+        "pubDate": "2026-06-25T18:38:00Z",
+        "displayTime": "2026-06-25T18:38:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/c8b8de49-725d-3517-b850-fc5f2f9f5370/nvidia-stock-slips-below.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/53560f2ad8c279fa8c2f440de8a98564",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/530IAOnzXdDpzNmtUGgKjQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/53560f2ad8c279fa8c2f440de8a98564",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1arNdDsBYLMpEOMQNbSWTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/53560f2ad8c279fa8c2f440de8a98564",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/nvidia-stock-price-chip-competition-8a703dd9?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "fad32503-7e87-3417-ab3d-1f260f300201",
+      "content": {
+        "id": "fad32503-7e87-3417-ab3d-1f260f300201",
+        "contentType": "STORY",
+        "title": "Mag 7 Stocks Shed Nearly $3 Trillion This Month",
+        "description": "",
+        "summary": "A massive rotation at the expense of big AI spenders has the Magnificent Seven on pace to shed $3 trillion this month.  Collectively, Tesla, Apple, Microsoft, Meta Platforms, Nvidia, Amazon.com, and Alphabet have lost $2.99 trillion in market cap so far in June, according to Dow Jones Market Data.  The Roundhill Magnificent Seven ETF is on pace for its worst month on record.",
+        "pubDate": "2026-06-25T18:37:24Z",
+        "displayTime": "2026-06-25T18:37:24Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/fad32503-7e87-3417-ab3d-1f260f300201/mag-7-stocks-shed-nearly-3.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+          "originalWidth": 320,
+          "originalHeight": 65,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_kc6REYMS1JrAuV5bYtjfA--~B/aD02NTt3PTMyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+              "width": 320,
+              "height": 65,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Eugzn1_7mDocWpeqoc2fFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-062526/card/mag-7-stocks-shed-nearly-3-trillion-this-month-oaWBDWdl3zooHkXSJAcy?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },

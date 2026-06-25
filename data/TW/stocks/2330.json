@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-06-24T23:00:15.011979"
+    "ts": "2026-06-25T23:10:50.982602"
   },
   "financials": {
     "annual": {
@@ -23551,6 +23551,41 @@
         "buy": 746000,
         "name": "Investment_Trust",
         "sell": 88469
+      },
+      {
+        "date": "2026-06-25",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-06-25",
+        "stock_id": "2330",
+        "buy": 231300,
+        "name": "Dealer_self",
+        "sell": 362500
+      },
+      {
+        "date": "2026-06-25",
+        "stock_id": "2330",
+        "buy": 504848,
+        "name": "Dealer_Hedging",
+        "sell": 684086
+      },
+      {
+        "date": "2026-06-25",
+        "stock_id": "2330",
+        "buy": 26592649,
+        "name": "Foreign_Investor",
+        "sell": 32696321
+      },
+      {
+        "date": "2026-06-25",
+        "stock_id": "2330",
+        "buy": 375613,
+        "name": "Investment_Trust",
+        "sell": 196553
       }
     ],
     "margin_trading": [],
@@ -23558,32 +23593,32 @@
   },
   "news": [
     {
-      "id": "f5c0cc21-a50a-3f62-a795-0f50f630128c",
+      "id": "777391f3-0083-41a5-ba04-43ee6c507188",
       "content": {
-        "id": "f5c0cc21-a50a-3f62-a795-0f50f630128c",
-        "contentType": "STORY",
-        "title": "A Top Strategist Says the AI Trade Is Cooling, but Chipmakers Are Quietly Winning",
-        "description": "",
-        "summary": "The setup is almost too neat. South Korea’s Kospi just had what local press called a “Black Tuesday,” dropping nearly 10% as foreign investors dumped semiconductor shares and tripping circuit breakers. American chip names sold off in sympathy. And onto CNBC walked Jay Woods of Freedom Capital Markets with a thesis that has been building ... A Top Strategist Says the AI Trade Is Cooling, but Chipmakers Are Quietly Winning",
-        "pubDate": "2026-06-24T19:15:50Z",
-        "displayTime": "2026-06-24T19:15:50Z",
+        "id": "777391f3-0083-41a5-ba04-43ee6c507188",
+        "contentType": "VIDEO",
+        "title": "Qualcomm raises data center outlook on AI demand",
+        "description": "<p>Moor Insights & Strategy Founder, CEO & Chief Analyst Patrick Moorhead joins Julie Hyman on Market Catalysts to discuss Qualcomm's (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/QCOM/\" data-i13n=\"slk:QCOM;cpos:1;pos:1\">QCOM</a>) increased outlook for data center revenue and what it signals about the company's growing role in the AI infrastructure boom.</p>",
+        "summary": "Moor Insights & Strategy Founder, CEO & Chief Analyst Patrick Moorhead joins Julie Hyman on Market Catalysts to discuss Qualcomm's (QCOM) increased outlook for data center revenue and what it signals about the company's growing role in the AI infrastructure boom.",
+        "pubDate": "2026-06-25T16:50:00Z",
+        "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
-          "originalWidth": 1500,
-          "originalHeight": 843,
+          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2024-07/00a58e00-4f81-11ef-bfa7-187f952236ae",
+          "originalWidth": 5027,
+          "originalHeight": 2828,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/X3LR8vJySqM2Zuq5WJpCbw--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
-              "width": 1500,
-              "height": 843,
+              "url": "https://s.yimg.com/uu/api/res/1.2/KBXiamItcj0.IWWqsb0jlw--~B/aD0yODI4O3c9NTAyNzthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-07/00a58e00-4f81-11ef-bfa7-187f952236ae",
+              "width": 5027,
+              "height": 2828,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/T4wip9U9r8N5ZzUy_59rtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7988387abe247447186e7611e1e75107",
+              "url": "https://s.yimg.com/uu/api/res/1.2/OJECUWpvMZGXGv9TsyEmDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-07/00a58e00-4f81-11ef-bfa7-187f952236ae",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23591,24 +23626,24 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "video.yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/24/a-top-strategist-says-the-ai-trade-is-cooling-but-chipmakers-are-quietly-winning/",
+          "url": "https://finance.yahoo.com/video/qualcomm-raises-data-center-outlook-165000920.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/top-strategist-says-ai-trade-191550108.html",
+          "url": "https://finance.yahoo.com/video/qualcomm-raises-data-center-outlook-165000920.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": false
+          "editorsPick": true
         },
         "finance": {
           "premiumFinance": {
@@ -23620,32 +23655,32 @@
       }
     },
     {
-      "id": "87256a23-aecc-34dc-89e5-22f87e867ed7",
+      "id": "4502cac3-1011-334f-a373-0fc7ac8d7481",
       "content": {
-        "id": "87256a23-aecc-34dc-89e5-22f87e867ed7",
+        "id": "4502cac3-1011-334f-a373-0fc7ac8d7481",
         "contentType": "STORY",
-        "title": "Bet on These 3 Dividend Growth Stocks Amid AI Spending Fears",
+        "title": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market",
         "description": "",
-        "summary": "Amid AI spending fears and market volatility, DELL stands out among the three dividend-growth stocks highlighted for income and growth.",
-        "pubDate": "2026-06-24T15:25:00Z",
-        "displayTime": "2026-06-24T15:25:00Z",
-        "isHosted": true,
+        "summary": "In demand among the best mutual fund managers, Nvidia, TSMC and Intel partner Keysight looks to etch a breakout.",
+        "pubDate": "2026-06-25T20:37:19Z",
+        "displayTime": "2026-06-25T20:37:19Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/4502cac3-1011-334f-a373-0fc7ac8d7481/breakout-watch-this-firm.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/19e025edc67d0231b408370725a10f26",
-          "originalWidth": 635,
-          "originalHeight": 400,
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/9d0ea0e70d3a601394104d5a39027ed9",
+          "originalWidth": 1000,
+          "originalHeight": 563,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uN.CRU9NYRI78Xh..I_Dmw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/19e025edc67d0231b408370725a10f26",
-              "width": 635,
-              "height": 400,
+              "url": "https://s.yimg.com/uu/api/res/1.2/29s5qBolfsuKYOZDFjUe4w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9d0ea0e70d3a601394104d5a39027ed9",
+              "width": 1000,
+              "height": 563,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/bRPzHg8Pqg00GgTka3wG4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/19e025edc67d0231b408370725a10f26",
+              "url": "https://s.yimg.com/uu/api/res/1.2/BZnSb1AtVfBqTkTkioiA3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9d0ea0e70d3a601394104d5a39027ed9",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23653,22 +23688,17 @@
           ]
         },
         "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bet-3-dividend-growth-stocks-152500887.html",
+          "url": "https://www.investors.com/research/ibd-stock-analysis/breakout-watch-this-firm-helps-nvidia-tsm-and-intel-bring-ai-ideas-to-market/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bet-3-dividend-growth-stocks-152500887.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
@@ -23682,32 +23712,32 @@
       }
     },
     {
-      "id": "84b7d20c-50db-3c1c-a669-5d25b76d7124",
+      "id": "56d11f4b-757b-3f28-a21a-91f0a966de8a",
       "content": {
-        "id": "84b7d20c-50db-3c1c-a669-5d25b76d7124",
+        "id": "56d11f4b-757b-3f28-a21a-91f0a966de8a",
         "contentType": "STORY",
-        "title": "Wall Street Says AI Is Slowing. Taiwan Semiconductor’s Latest Move Says Otherwise.",
+        "title": "Intel vs. TSMC: Which is the Better Semiconductor Stock to Buy Right Now?",
         "description": "",
-        "summary": "Despite a sharp AI stock selloff, TSM's reported 5% to 10% price hike on advanced chip production suggests demand remains strong. Companies don't pay more for scarce capacity if growth is fading.",
-        "pubDate": "2026-06-24T15:22:27Z",
-        "displayTime": "2026-06-24T15:22:27Z",
+        "summary": "Expectations are high, but only one of these companies dominates processor manufacturing.",
+        "pubDate": "2026-06-25T20:08:00Z",
+        "displayTime": "2026-06-25T20:08:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/b0d8d6d43db7c22459d85ccb50ff1a56",
-          "originalWidth": 1600,
-          "originalHeight": 1067,
-          "caption": "A close-up shot of the Taiwan Semi logo on a corporate building by Jack Hong via Shutterstock",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/661b37847ca62dea258848bac83e83a3",
+          "originalWidth": 1199,
+          "originalHeight": 800,
+          "caption": "A person looking at a phone.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uCq8WLKOa4DWgjrYQZkXlQ--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/b0d8d6d43db7c22459d85ccb50ff1a56",
-              "width": 1600,
-              "height": 1067,
+              "url": "https://s.yimg.com/uu/api/res/1.2/FYsOmU2qbTh4G1QkmSy_oQ--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/661b37847ca62dea258848bac83e83a3",
+              "width": 1199,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/i09fvYVqLZ.uAwNSFtZyuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/b0d8d6d43db7c22459d85ccb50ff1a56",
+              "url": "https://s.yimg.com/uu/api/res/1.2/CPiOdPLDgiiO0T4iY23gDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/661b37847ca62dea258848bac83e83a3",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23715,18 +23745,18 @@
           ]
         },
         "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/2629025/wall-street-says-ai-is-slowing-taiwan-semiconductors-latest-move-says-otherwise",
+          "url": "https://www.fool.com/investing/2026/06/25/intel-vs-tsmc-better-semiconductor-stock-buy/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-says-ai-slowing-152227316.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-tsmc-better-semiconductor-200800378.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23744,32 +23774,32 @@
       }
     },
     {
-      "id": "6a7fb183-c4bf-3f3c-9fb5-965a8f382ea1",
+      "id": "18a40cec-b574-379b-8ee9-d0b6b8f75d14",
       "content": {
-        "id": "6a7fb183-c4bf-3f3c-9fb5-965a8f382ea1",
+        "id": "18a40cec-b574-379b-8ee9-d0b6b8f75d14",
         "contentType": "STORY",
-        "title": "3 Reasons to Hold AMKR Stock in 2H26 Beyond Its 119.7% YTD Growth",
+        "title": "IBM Unveils Prototype for Sub-1-Nanometer AI Chip. Why It Matters.",
         "description": "",
-        "summary": "Amkor surges 119.7% in 2026, but advanced packaging growth, AI demand and its Arizona expansion could keep the momentum going.",
-        "pubDate": "2026-06-24T14:48:00Z",
-        "displayTime": "2026-06-24T14:48:00Z",
-        "isHosted": true,
+        "summary": "IBM debuts the first sub-1 nanometer chip, marking a step forward in the race to make AI chips smaller and more efficient.",
+        "pubDate": "2026-06-25T17:36:00Z",
+        "displayTime": "2026-06-25T17:36:00Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/18a40cec-b574-379b-8ee9-d0b6b8f75d14/ibm-unveils-prototype-for.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/53d9a3fd304ab73d580828e5367313eb",
-          "originalWidth": 635,
-          "originalHeight": 400,
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/4a41d36f897b48f68080851277e9f488",
+          "originalWidth": 1280,
+          "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rYP8VPOUfQj30jWv52_m5w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/53d9a3fd304ab73d580828e5367313eb",
-              "width": 635,
-              "height": 400,
+              "url": "https://s.yimg.com/uu/api/res/1.2/PW5_nSu3fgbnJ.23SUALag--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4a41d36f897b48f68080851277e9f488",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AymTAiIL3zdJfPAt4g3XIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/53d9a3fd304ab73d580828e5367313eb",
+              "url": "https://s.yimg.com/uu/api/res/1.2/JEBHKd09TbKnDLLOtgKRHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4a41d36f897b48f68080851277e9f488",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23777,22 +23807,17 @@
           ]
         },
         "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-hold-amkr-stock-144800937.html",
+          "url": "https://www.barrons.com/articles/ibm-stock-sub-1-nanometer-chip-prototype-89a8e5e4?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-hold-amkr-stock-144800937.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
@@ -23806,156 +23831,32 @@
       }
     },
     {
-      "id": "8a74151c-ea6c-33a1-a4d1-24ccd7e5a962",
+      "id": "d7588e04-f986-3afa-bcc0-9efaa5699a61",
       "content": {
-        "id": "8a74151c-ea6c-33a1-a4d1-24ccd7e5a962",
+        "id": "d7588e04-f986-3afa-bcc0-9efaa5699a61",
         "contentType": "STORY",
-        "title": "Can Taiwan Semiconductor Shares Hit $500 Before 2026 Ends?",
+        "title": "Strong Earnings Demonstrate Taiwan Semiconductor Manufacturing Company Limited’s (TSM) Key Role in The AI-Capex Cycle",
         "description": "",
-        "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) just put the rest of the chip sector on notice. Monthly revenue for May 2026 hit NT$416.98 billion, up 30.1% year over year, and CEO C.C. Wei is telling investors the company will “grow by above 30% in U.S. dollar terms” for full-year 2026. Shares are already up 44.32% year to ... Can Taiwan Semiconductor Shares Hit $500 Before 2026 Ends?",
-        "pubDate": "2026-06-24T14:18:58Z",
-        "displayTime": "2026-06-24T14:18:58Z",
+        "summary": "Janus Henderson Investors, an investment management company, released its first-quarter 2026 investor letter for the “Global Sustainable Equity Fund”. A copy of the letter can be downloaded here. In the quarter, the Fund returned -3.07%, slightly better than the MSCI World Index’s -3.57%. Strong stock selection in information technology, especially companies tied to artificial intelligence […]",
+        "pubDate": "2026-06-25T16:55:51Z",
+        "displayTime": "2026-06-25T16:55:51Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/c2803ec1a1b397f4fcd4c60435b4d6a1",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/reRfMfI5MInHGfkRt52LVg--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/c2803ec1a1b397f4fcd4c60435b4d6a1",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0v_EWeshTxwxNYOSCJDLVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c2803ec1a1b397f4fcd4c60435b4d6a1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/06/24/can-taiwan-semiconductor-shares-hit-500-before-2026-ends/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-shares-hit-500-141858626.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e469cf0b-a858-3212-8175-c2ed2a3aaa18",
-      "content": {
-        "id": "e469cf0b-a858-3212-8175-c2ed2a3aaa18",
-        "contentType": "STORY",
-        "title": "Analysis-Apple-Intel chip deal makes strategic sense but production is years away",
-        "description": "",
-        "summary": "Apple turning to Intel for chips, as Washington announced last week, has the neat logic of necessity meeting ambition.  A deal - which neither ‌company has formally announced - would pair Intel's effort to rebuild its credibility as a contract chipmaker with Apple's search for more manufacturing capacity, as its supplier TSMC struggles to meet surging AI ​chip demand from the likes of Nvidia.  Supply constraints at the contract manufacturer have held back iPhone sales, Apple CEO Tim Cook said in April.",
-        "pubDate": "2026-06-24T14:16:46Z",
-        "displayTime": "2026-06-24T14:16:46Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/0cef58b855c4b238aff2072586e349ef",
-          "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "Illustration shows Intel and Apple logos",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/a3j_CTJOovlmv73tks7WQw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/0cef58b855c4b238aff2072586e349ef",
-              "width": 800,
-              "height": 533,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JHpoeSEXQbxHwHzUYfZGGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/0cef58b855c4b238aff2072586e349ef",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/analysis-apple-intel-chip-deal-141646096.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/analysis-apple-intel-chip-deal-141646096.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "071787c4-6b1b-37a4-a86e-7d384558cba1",
-      "content": {
-        "id": "071787c4-6b1b-37a4-a86e-7d384558cba1",
-        "contentType": "STORY",
-        "title": "Intel (INTC) Advanced Packaging Could Support AI Data Center Growth, Mizuho Says",
-        "description": "",
-        "summary": "Intel (NASDAQ:INTC) is one of the 15 AI Stocks Analysts Are Watching: Microsoft, Nvidia, and More. Intel Corporation may benefit from tailwinds coming from advanced packaging technologies, which has led one firm to raise estimates and its price target for the stock. On June 22, Mizuho analyst Siti Panigrahi raised the price target on the […]",
-        "pubDate": "2026-06-24T13:47:19Z",
-        "displayTime": "2026-06-24T13:47:19Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/fbf1cada4e001c4a22f69561a679270c",
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
           "originalWidth": 768,
-          "originalHeight": 512,
-          "caption": "Intel (INTC) Advanced Packaging Could Support AI Data Center Growth, Mizuho Says",
+          "originalHeight": 430,
+          "caption": "Is TSM a good stock to buy?",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/7O5nEDS6X.56qPWE..TxPw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fbf1cada4e001c4a22f69561a679270c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/tCOW6llD_6zKTOeDO62Lmw--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
               "width": 768,
-              "height": 512,
+              "height": 430,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HJxi1x0UNOhwv1ufRAmUzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fbf1cada4e001c4a22f69561a679270c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/3YrBn2qkfInvbSvM95LGXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23968,13 +23869,13 @@
           "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-advanced-packaging-could-134719489.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-earnings-demonstrate-taiwan-semiconductor-165551769.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-advanced-packaging-could-134719489.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-earnings-demonstrate-taiwan-semiconductor-165551769.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23992,32 +23893,32 @@
       }
     },
     {
-      "id": "0d00036f-5593-3892-a912-be48ed03fc71",
+      "id": "2d623bd9-3218-39ce-b78d-cfb863085624",
       "content": {
-        "id": "0d00036f-5593-3892-a912-be48ed03fc71",
+        "id": "2d623bd9-3218-39ce-b78d-cfb863085624",
         "contentType": "STORY",
-        "title": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus",
+        "title": "GlobalFoundries' AI Mix Improves: Is 30% Gross Margin Just the Start?",
         "description": "",
-        "summary": "Retail sentiment remained cautious, with Stocktwits data showing SPY sentiment stuck in bearish territory while QQQ sentiment improved to bullish.",
-        "pubDate": "2026-06-24T08:48:41Z",
-        "displayTime": "2026-06-24T08:48:41Z",
+        "summary": "GFS' richer AI infrastructure mix lifts margins in Q1, with silicon photonics, SiGe and data-center demand pointing to a more profitable phase.",
+        "pubDate": "2026-06-25T16:34:00Z",
+        "displayTime": "2026-06-25T16:34:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/510ee7e7eb25261d154e0e2cbfa0fceb",
-          "originalWidth": 1280,
-          "originalHeight": 779,
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/409a540565f5f0c19375f7a00b683c8c",
+          "originalWidth": 635,
+          "originalHeight": 400,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/H61NjUksxn01PcCbqavTJg--~B/aD03Nzk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/510ee7e7eb25261d154e0e2cbfa0fceb",
-              "width": 1280,
-              "height": 779,
+              "url": "https://s.yimg.com/uu/api/res/1.2/gTJ39BoDrX9JueiOn4yC3w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/409a540565f5f0c19375f7a00b683c8c",
+              "width": 635,
+              "height": 400,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NUsDA0gCdrxJBQISs5D4hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/510ee7e7eb25261d154e0e2cbfa0fceb",
+              "url": "https://s.yimg.com/uu/api/res/1.2/cTdkQxu8fQDAZMRy8Go0Dg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/409a540565f5f0c19375f7a00b683c8c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24025,18 +23926,18 @@
           ]
         },
         "provider": {
-          "displayName": "Stocktwits",
-          "url": "Stocktwits",
-          "sourceId": "stocktwits_383"
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
         },
         "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-rebound-micron-rally-lifts-chip-stocks-why-spcx-qcom-tsm-baba-pltr-cbrs-wen-ibrx-are-in-focus/cZKyP4nR7Or",
+          "url": "https://finance.yahoo.com/technology/ai/articles/globalfoundries-ai-mix-improves-30-163400380.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rebound-084841545.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/globalfoundries-ai-mix-improves-30-163400380.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24054,75 +23955,32 @@
       }
     },
     {
-      "id": "1a1e5b3a-c285-3eda-b466-6fad24aa597c",
+      "id": "d775fda6-ef9b-36fa-9d90-4d4a5c9eae92",
       "content": {
-        "id": "1a1e5b3a-c285-3eda-b466-6fad24aa597c",
+        "id": "d775fda6-ef9b-36fa-9d90-4d4a5c9eae92",
         "contentType": "STORY",
-        "title": "SK Hynix Seeks $29 Billion With New US Listing to Fund AI Boom",
+        "title": "Forget Intel: 1 Semiconductor Juggernaut to Buy Hand Over Fist While Turnaround Hype Rules Wall Street",
         "description": "",
-        "summary": "(Bloomberg) -- SK Hynix Inc. is looking to raise 45.45 trillion won ($29.4 billion) by selling depositary receipts on the Nasdaq exchange.Most Read from BloombergStocks Slide as Wall Street Gets AI Wake-Up Call: Markets WrapOracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles‘FOMO Really Got Me’: Taiwanese Go Deep Into Debt to Amp 100% Stock RallySpaceX Falls for Third Day, Erases $600 Billion in Market ValueKorean Stocks Tumble 10% as Extreme Volatility Rattles InvestorsThe company",
-        "pubDate": "2026-06-24T08:15:47Z",
-        "displayTime": "2026-06-24T08:15:47Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-seeks-29-billion-081547052.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-seeks-29-billion-081547052.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "eaaa7aaf-af1e-3614-92d0-fb48beae7788",
-      "content": {
-        "id": "eaaa7aaf-af1e-3614-92d0-fb48beae7788",
-        "contentType": "STORY",
-        "title": "TSM Stock Jumps Overnight On Reports Of Foundry Price Hike Amid Massive Capacity Expansion",
-        "description": "",
-        "summary": "The contract chipmaker is raising prices between 5% to 10% on all leading-edge 7nm and below chip manufacturing processes, according to Tim Culpan.",
-        "pubDate": "2026-06-24T05:28:44Z",
-        "displayTime": "2026-06-24T05:28:44Z",
+        "summary": "Intel (NASDAQ:INTC) is the loudest ticker on Wall Street right now, riding a turnaround narrative powered by NVIDIA’s $5.0 billion equity stake, SoftBank’s $2.0 billion investment, and $8.9 billion in total U.S. Government support. But here’s what you should actually be watching: Taiwan Semiconductor Manufacturing (NYSE:TSM). The Intel Rally Has Outrun the Business Intel shares ... Forget Intel: 1 Semiconductor Juggernaut to Buy Hand Over Fist While Turnaround Hype Rules Wall Street",
+        "pubDate": "2026-06-25T16:26:47Z",
+        "displayTime": "2026-06-25T16:26:47Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/4044e417f2494657326b43a383543f64",
-          "originalWidth": 1280,
-          "originalHeight": 853,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/9ccdbf83ab2876268d6b1d507666d0a9",
+          "originalWidth": 1366,
+          "originalHeight": 768,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jId67.uQMkYMo0bAS6F0vw--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/4044e417f2494657326b43a383543f64",
-              "width": 1280,
-              "height": 853,
+              "url": "https://s.yimg.com/uu/api/res/1.2/R041Bl8.YDcUIgndj2hkDQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/9ccdbf83ab2876268d6b1d507666d0a9",
+              "width": 1366,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_XgGFp8brfjYgyEXQ3cbXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/4044e417f2494657326b43a383543f64",
+              "url": "https://s.yimg.com/uu/api/res/1.2/YvSw_WPimtmnjHmpx57SfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9ccdbf83ab2876268d6b1d507666d0a9",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24130,18 +23988,204 @@
           ]
         },
         "provider": {
-          "displayName": "Stocktwits",
-          "url": "Stocktwits",
-          "sourceId": "stocktwits_383"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/tsm-stock-jumps-overnight-on-reports-of-foundry-price-hike-amid-massive-capacity-expansion/cZKUzvlR7Oj",
+          "url": "https://247wallst.com/investing/2026/06/25/forget-intel-1-semiconductor-juggernaut-to-buy-hand-over-fist-while-turnaround-hype-rules-wall-street/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsm-stock-jumps-overnight-reports-052844936.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-intel-1-semiconductor-juggernaut-162647466.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4a13a22c-3fa2-3e7d-8df6-4914b571c4d9",
+      "content": {
+        "id": "4a13a22c-3fa2-3e7d-8df6-4914b571c4d9",
+        "contentType": "STORY",
+        "title": "Intel vs TSM: Which Chip Giant is the Better Investment?",
+        "description": "",
+        "summary": "Intel (NASDAQ:INTC) and Taiwan Semiconductor Manufacturing (NYSE:TSM) just delivered very different earnings stories. Intel posted a 2,183.46% non-GAAP EPS beat under CEO Lip-Bu Tan while absorbing a $4.07 billion restructuring charge. TSMC kept compounding, with Q1 revenue rising 21.4% YoY and net income jumping 43.8%. Both sit at the heart of the AI hardware buildout, ... Intel vs TSM: Which Chip Giant is the Better Investment?",
+        "pubDate": "2026-06-25T16:23:23Z",
+        "displayTime": "2026-06-25T16:23:23Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/07e51f859cfa002d7671caebe4f8edd3",
+          "originalWidth": 1500,
+          "originalHeight": 1001,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mCKpljj1CKhuMVKGaywt_Q--~B/aD0xMDAxO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/07e51f859cfa002d7671caebe4f8edd3",
+              "width": 1500,
+              "height": 1001,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/FV9kqfF8TPIAQnmn80C.4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/07e51f859cfa002d7671caebe4f8edd3",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/06/25/intel-vs-tsm-which-chip-giant-is-the-better-investment/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-tsm-chip-giant-162323993.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "364b4e50-721a-3e2d-bf34-dacc949d2389",
+      "content": {
+        "id": "364b4e50-721a-3e2d-bf34-dacc949d2389",
+        "contentType": "STORY",
+        "title": "Why Wedbush Says This Overlooked Chip Stock Could Be 2026’s Biggest Winner",
+        "description": "",
+        "summary": "A major deal with CoreWeave is reshaping the outlook for Backblaze as AI demand boosts interest in low-cost data storage.",
+        "pubDate": "2026-06-25T11:30:02Z",
+        "displayTime": "2026-06-25T11:30:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/ac3288324a2ac3f2fff832e265843d6d",
+          "originalWidth": 1600,
+          "originalHeight": 1067,
+          "caption": "2d illustration of Cloud computing by Blackboard via Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WLW9mNDOGkHq8HTZZCUiDg--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/ac3288324a2ac3f2fff832e265843d6d",
+              "width": 1600,
+              "height": 1067,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rs5.rniwZYYceNCsxY2bnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/ac3288324a2ac3f2fff832e265843d6d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/2645243/why-wedbush-says-this-overlooked-chip-stock-could-be-2026s-biggest-winner",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-wedbush-says-overlooked-chip-113002921.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f09d85e2-7a13-39e3-9c97-31cb24f039c9",
+      "content": {
+        "id": "f09d85e2-7a13-39e3-9c97-31cb24f039c9",
+        "contentType": "STORY",
+        "title": "IBM unveils tech for chip smaller than 1 nanometer in AI computing push",
+        "description": "",
+        "summary": "IBM on Thursday unveiled what it said was the world's first technology capable of producing chips smaller than ‌one nanometer, as tech companies race to build semiconductors that can handle increasingly ‌demanding AI workloads.  The new chip technology, which bolsters IBM's ‌position to compete with contract ⁠chipmakers TSMC and Intel, has a transistor architecture of 0.7 nanometers, or 7 angstroms.  Last week, Intel said the new generation of its 18A manufacturing ⁠process, which makes 1.8 nanometer chips, moved into risk production, the testing phase before commercial manufacturing.",
+        "pubDate": "2026-06-25T10:09:09Z",
+        "displayTime": "2026-06-25T10:09:09Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/699d2c29947a7cf398bd00bf829fdb9f",
+          "originalWidth": 800,
+          "originalHeight": 482,
+          "caption": "Visitors attend the Mobile World Congress",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/J.G.zTMr_YRnrA6Qdf3YFg--~B/aD00ODI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/699d2c29947a7cf398bd00bf829fdb9f",
+              "width": 800,
+              "height": 482,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/YsOryEfJeM4XguJ6N4SnMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/699d2c29947a7cf398bd00bf829fdb9f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "http://www.reuters.com/",
+          "sourceId": "reuters-finance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/ibm-unveils-tech-chip-smaller-100909449.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/ibm-unveils-tech-chip-smaller-100909449.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24271,42 +24315,42 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2490.0,
-    "open": 2435.0,
+    "previousClose": 2390.0,
+    "open": 2410.0,
     "dayLow": 2390.0,
-    "dayHigh": 2445.0,
-    "regularMarketPreviousClose": 2490.0,
-    "regularMarketOpen": 2435.0,
+    "dayHigh": 2420.0,
+    "regularMarketPreviousClose": 2390.0,
+    "regularMarketOpen": 2410.0,
     "regularMarketDayLow": 2390.0,
-    "regularMarketDayHigh": 2445.0,
+    "regularMarketDayHigh": 2420.0,
     "dividendRate": 24.0,
     "dividendYield": 1.0,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2785,
     "fiveYearAvgDividendYield": 1.71,
     "beta": 1.25,
-    "trailingPE": 32.42877,
+    "trailingPE": 32.468414,
     "forwardPE": 19.266413,
-    "volume": 65632286,
-    "regularMarketVolume": 65632286,
-    "averageVolume": 34728489,
-    "averageVolume10days": 33285664,
-    "averageDailyVolume10Day": 33285664,
+    "volume": 36789437,
+    "regularMarketVolume": 36789437,
+    "averageVolume": 34969537,
+    "averageVolume10days": 35527255,
+    "averageDailyVolume10Day": 35527255,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
     "marketCap": 61978366181376,
-    "nonDilutedMarketCap": 64571601466830,
-    "fiftyTwoWeekLow": 1055.0,
+    "nonDilutedMarketCap": 61978364460130,
+    "fiftyTwoWeekLow": 1060.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
     "priceToSalesTrailing12Months": 15.102294,
-    "fiftyDayAverage": 2251.7,
-    "twoHundredDayAverage": 1767.525,
+    "fiftyDayAverage": 2259.7,
+    "twoHundredDayAverage": 1773.575,
     "trailingAnnualDividendRate": 24.0,
-    "trailingAnnualDividendYield": 0.009638554,
+    "trailingAnnualDividendYield": 0.010041841,
     "currency": "TWD",
     "tradeable": false,
     "enterpriseValue": 59730567364608,
@@ -24314,7 +24358,7 @@
     "floatShares": 23636577284,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00022,
-    "heldPercentInstitutions": 0.43605998,
+    "heldPercentInstitutions": 0.4361,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 227.166,
     "priceToBook": 10.520941,
@@ -24323,23 +24367,23 @@
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.583,
     "netIncomeToCommon": 1908519600128,
-    "trailingEps": 73.7,
+    "trailingEps": 73.61,
     "forwardEps": 124.05008,
-    "pegRatio": 1.24,
+    "pegRatio": 1.18,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
     "enterpriseToRevenue": 14.555,
     "enterpriseToEbitda": 20.914,
-    "52WeekChange": 1.3271029,
-    "SandP52WeekChange": 0.20900631,
+    "52WeekChange": 1.2232559,
+    "SandP52WeekChange": 0.1982081,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
     "currentPrice": 2390.0,
     "targetHighPrice": 3500.0,
     "targetLowPrice": 2051.0,
-    "targetMeanPrice": 2647.5757,
-    "targetMedianPrice": 2600.0,
+    "targetMeanPrice": 2662.7273,
+    "targetMedianPrice": 2615.0,
     "recommendationMean": 1.33333,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 33,
@@ -24370,29 +24414,39 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "epsTrailingTwelveMonths": 73.7,
-    "epsForward": 124.05008,
-    "epsCurrentYear": 98.47038,
-    "priceEpsCurrentYear": 24.271257,
-    "fiftyDayAverageChange": 138.30005,
-    "fiftyDayAverageChangePercent": 0.061420284,
-    "twoHundredDayAverageChange": 622.475,
-    "twoHundredDayAverageChangePercent": 0.3521732,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "fiftyTwoWeekLowChangePercent": 1.2654028,
-    "fiftyTwoWeekRange": "1055.0 - 2535.0",
+    "marketState": "PREPRE",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": 0.0,
+    "regularMarketDayRange": "2390.0 - 2420.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 34969537,
+    "fiftyTwoWeekLowChange": 1330.0,
+    "fiftyTwoWeekLowChangePercent": 1.254717,
+    "fiftyTwoWeekRange": "1060.0 - 2535.0",
     "fiftyTwoWeekHighChange": -145.0,
     "fiftyTwoWeekHighChangePercent": -0.05719921,
-    "fiftyTwoWeekChangePercent": 132.7103,
+    "fiftyTwoWeekChangePercent": 122.325584,
     "earningsTimestamp": 1776317400,
     "earningsTimestampStart": 1784179800,
     "earningsTimestampEnd": 1784179800,
     "earningsCallTimestampStart": 1776319200,
     "earningsCallTimestampEnd": 1776319200,
     "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 73.61,
+    "epsForward": 124.05008,
+    "epsCurrentYear": 98.59787,
+    "priceEpsCurrentYear": 24.239874,
+    "fiftyDayAverageChange": 130.30005,
+    "fiftyDayAverageChangePercent": 0.057662543,
+    "twoHundredDayAverageChange": 616.42505,
+    "twoHundredDayAverageChangePercent": 0.34756076,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -24400,20 +24454,10 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": -100.0,
-    "regularMarketDayRange": "2390.0 - 2445.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 34728489,
-    "fiftyTwoWeekLowChange": 1335.0,
-    "regularMarketChangePercent": -4.016064,
+    "regularMarketChangePercent": 0.0,
     "regularMarketPrice": 2390.0,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "marketState": "PREPRE",
     "corporateActions": [],
-    "regularMarketTime": 1782279008,
-    "trailingPegRatio": 1.2271
+    "regularMarketTime": 1782365405,
+    "trailingPegRatio": 1.1778
   }
 }
