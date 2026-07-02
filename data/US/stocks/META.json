@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-01T23:06:13.602509",
+    "ts": "2026-07-02T22:58:43.955876",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 563.29,
-    "open": 607.91,
-    "dayLow": 595.1,
-    "dayHigh": 628.28,
-    "regularMarketPreviousClose": 563.29,
-    "regularMarketOpen": 607.91,
-    "regularMarketDayLow": 595.1,
-    "regularMarketDayHigh": 628.28,
+    "previousClose": 612.91,
+    "open": 607.895,
+    "dayLow": 580.42,
+    "dayHigh": 610.0,
+    "regularMarketPreviousClose": 612.91,
+    "regularMarketOpen": 607.895,
+    "regularMarketDayLow": 580.42,
+    "regularMarketDayHigh": 610.0,
     "dividendRate": 2.1,
-    "dividendYield": 0.37,
+    "dividendYield": 0.34,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
     "beta": 1.229,
-    "trailingPE": 22.295744,
-    "forwardPE": 16.909746,
-    "volume": 45057181,
-    "regularMarketVolume": 45057181,
-    "averageVolume": 16598149,
-    "averageVolume10days": 17132440,
-    "averageDailyVolume10Day": 17132440,
-    "bid": 614.56,
-    "ask": 615.36,
-    "bidSize": 2,
-    "askSize": 1,
-    "marketCap": 1555824902144,
-    "nonDilutedMarketCap": 1429868462909,
+    "trailingPE": 21.18096,
+    "forwardPE": 15.951086,
+    "volume": 20851640,
+    "regularMarketVolume": 20851640,
+    "averageVolume": 17134355,
+    "averageVolume10days": 20620710,
+    "averageDailyVolume10Day": 20620710,
+    "bid": 584.28,
+    "ask": 595.0,
+    "bidSize": 1,
+    "askSize": 2,
+    "marketCap": 1479647035392,
+    "nonDilutedMarketCap": 1555825027254,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.2376404,
-    "fiftyDayAverage": 608.1078,
-    "twoHundredDayAverage": 648.1345,
+    "priceToSalesTrailing12Months": 6.883264,
+    "fiftyDayAverage": 606.9478,
+    "twoHundredDayAverage": 647.42114,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0037280973,
+    "trailingAnnualDividendYield": 0.003426278,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1435457421312,
+    "enterpriseValue": 1561414074368,
     "profitMargins": 0.32837,
     "floatShares": 2192715434,
     "sharesOutstanding": 2196045588,
@@ -184,28 +184,28 @@
     "dateShortInterest": 1781481600,
     "sharesPercentSharesOut": 0.0117999995,
     "heldPercentInsiders": 0.00102,
-    "heldPercentInstitutions": 0.79307,
+    "heldPercentInstitutions": 0.79304004,
     "shortRatio": 1.69,
     "shortPercentOfFloat": 0.0137,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.3836145,
+    "priceToBook": 6.071053,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.49,
-    "forwardEps": 36.24596,
+    "trailingEps": 27.52,
+    "forwardEps": 36.54297,
     "pegRatio": 0.81,
-    "enterpriseToRevenue": 6.678,
-    "enterpriseToEbitda": 13.132,
-    "52WeekChange": -0.210603,
-    "SandP52WeekChange": 0.20424831,
+    "enterpriseToRevenue": 7.264,
+    "enterpriseToEbitda": 14.285,
+    "52WeekChange": -0.147564,
+    "SandP52WeekChange": 0.19172049,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 612.91,
+    "currentPrice": 582.9,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 664.46,
     "targetMeanPrice": 828.13416,
@@ -240,34 +240,24 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
+    "regularMarketChangePercent": -4.896306,
+    "regularMarketPrice": 582.9,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": 0.3560646,
+    "postMarketPrice": 584.9755,
+    "postMarketChange": 2.0755005,
+    "regularMarketChange": -30.009949,
     "marketState": "POST",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1782947165,
-    "regularMarketTime": 1782936001,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": 8.808961,
-    "regularMarketPrice": 612.91,
-    "postMarketChangePercent": 0.055477455,
-    "postMarketPrice": 613.25,
-    "postMarketChange": 0.34002686,
-    "regularMarketChange": 49.619995,
-    "regularMarketDayRange": "595.1 - 628.28",
+    "regularMarketDayRange": "580.42 - 610.0",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 16598149,
-    "fiftyTwoWeekLowChange": 92.64996,
-    "fiftyTwoWeekLowChangePercent": 0.17808396,
+    "averageDailyVolume3Month": 17134355,
+    "fiftyTwoWeekLowChange": 62.640015,
+    "fiftyTwoWeekLowChangePercent": 0.12040136,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -183.34003,
-    "fiftyTwoWeekHighChangePercent": -0.23025435,
-    "fiftyTwoWeekChangePercent": -21.060299,
+    "fiftyTwoWeekHighChange": -213.34998,
+    "fiftyTwoWeekHighChangePercent": -0.26794344,
+    "fiftyTwoWeekChangePercent": -14.756399,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -275,25 +265,35 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.49,
-    "epsForward": 36.24596,
+    "epsTrailingTwelveMonths": 27.52,
+    "epsForward": 36.54297,
     "epsCurrentYear": 32.21426,
-    "priceEpsCurrentYear": 19.026045,
-    "fiftyDayAverageChange": 4.802185,
-    "fiftyDayAverageChangePercent": 0.007896931,
-    "twoHundredDayAverageChange": -35.22455,
-    "twoHundredDayAverageChangePercent": -0.05434759,
+    "priceEpsCurrentYear": 18.094471,
+    "fiftyDayAverageChange": -24.04779,
+    "fiftyDayAverageChangePercent": -0.039620854,
+    "twoHundredDayAverageChange": -64.52112,
+    "twoHundredDayAverageChangePercent": -0.09965865,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-01",
+    "nameChangeDate": "2026-07-02",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
+    "corporateActions": [],
+    "postMarketTime": 1783033121,
+    "regularMarketTime": 1783022400,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8139
+    "trailingPegRatio": 0.8856
   },
   "financial_statements": {
     "income": {
@@ -1650,151 +1650,32 @@
   },
   "news": [
     {
-      "id": "5834225f-8eed-43ee-a05f-c446e94393f6",
+      "id": "f6d58f2a-ae86-4479-8c9a-a5ba2abc031c",
       "content": {
-        "id": "5834225f-8eed-43ee-a05f-c446e94393f6",
-        "contentType": "VIDEO",
-        "title": "Why Meta's cloud business would be 'very bad' for these 2 companies",
-        "description": "<p>D.A. Davidson head of technology research Gil Luria explains what Meta's (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/META/\" data-i13n=\"slk:META;cpos:1;pos:1\">META</a>) potential cloud business means for CoreWeave (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/CRWV/\" data-i13n=\"cpos:2;pos:1\">CRWV</a>) and Nebius (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/NBIS/\" data-i13n=\"cpos:3;pos:1\">NBIS</a>).</p>",
-        "summary": "D.A. Davidson head of technology research Gil Luria explains what Meta's (META) potential cloud business means for CoreWeave (CRWV) and Nebius (NBIS).",
-        "pubDate": "2026-07-01T20:15:17Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/k.bGLnbjlm5decK0q5AdHw--~B/aD0zMDkzO3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bcfec6da-79c3-4259-bb8a-e9b923d1b317_276f82b9d67e18f0427cbd121b29e82fbfe8ea223d62a766b6b1530a750abc49.jpg",
-          "originalWidth": 5500,
-          "originalHeight": 3093,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/k.bGLnbjlm5decK0q5AdHw--~B/aD0zMDkzO3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bcfec6da-79c3-4259-bb8a-e9b923d1b317_276f82b9d67e18f0427cbd121b29e82fbfe8ea223d62a766b6b1530a750abc49.jpg",
-              "width": 5500,
-              "height": 3093,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9L5KqQBEHptXldElaOc89w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bcfec6da-79c3-4259-bb8a-e9b923d1b317_276f82b9d67e18f0427cbd121b29e82fbfe8ea223d62a766b6b1530a750abc49.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/why-metas-cloud-business-would-be-very-bad-for-these-2-companies-201517062.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/why-metas-cloud-business-would-be-very-bad-for-these-2-companies-201517062.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "3d5dd22a-4fb8-45e2-bd9b-3a8fd790f364",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Tech stocks today: Meta stock jumps on cloud computing plans to rival Amazon, Microsoft",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/wBDNzFeK03t5SvONnZNGZg--~B/aD04NDY7dz0xNTA0O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/2026-07/7ad4c897-b162-4482-a535-ef3c2787fa8e",
-                  "originalWidth": 1504,
-                  "originalHeight": 846,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-stock-jumps-on-cloud-computing-plans-to-rival-amazon-microsoft-151053436.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-stock-jumps-on-cloud-computing-plans-to-rival-amazon-microsoft-151053436.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "a75581a7-a521-40c5-8cf6-71d2875c6c08",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Meta to reportedly rent out excess AI compute, joining the ranks of Amazon & Microsoft",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/JJVr53ZT6hj0K0lVyNB7xA--~B/aD0zNjU2O3c9NjUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0cda7f6e-dcfb-49fd-8ffb-5cfcc356e45a_2f11dd475f3e4234a149a0a26e1464ed48581be4179b4dd4607b4f5dbdf45ac3.jpg",
-                  "originalWidth": 6500,
-                  "originalHeight": 3656,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-to-reportedly-rent-out-excess-ai-compute-joining-the-ranks-of-amazon--microsoft-151209864.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-to-reportedly-rent-out-excess-ai-compute-joining-the-ranks-of-amazon--microsoft-151209864.html"
-                }
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "35fe2c8d-8413-4025-9868-4ab34d6cdd38",
-      "content": {
-        "id": "35fe2c8d-8413-4025-9868-4ab34d6cdd38",
+        "id": "f6d58f2a-ae86-4479-8c9a-a5ba2abc031c",
         "contentType": "STORY",
-        "title": "Meta stock pops on news it will reportedly start a cloud computing business",
+        "title": "Stock analysts may be setting up the market for a summer failure",
         "description": "",
-        "summary": "Meta is reportedly building a cloud computing business.",
-        "pubDate": "2026-07-01T13:44:12Z",
-        "displayTime": "2026-07-01T13:45:56Z",
+        "summary": "There is such a thing as being too bullish.",
+        "pubDate": "2026-07-02T13:51:25Z",
+        "displayTime": "2026-07-02T13:51:25Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2024-10/2f4b02d0-8195-11ef-bfce-89b371837e0b",
-          "originalWidth": 6000,
-          "originalHeight": 4000,
+          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2024-09/4f8e8050-8076-11ef-9f36-c884185dadd3",
+          "originalWidth": 5700,
+          "originalHeight": 3800,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/yijZ_1F.a1zbb98UZtHl8g--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-10/2f4b02d0-8195-11ef-bfce-89b371837e0b",
-              "width": 6000,
-              "height": 4000,
+              "url": "https://s.yimg.com/uu/api/res/1.2/HSdarQQRUusWmJ1wAA9xhA--~B/aD0zODAwO3c9NTcwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-09/4f8e8050-8076-11ef-9f36-c884185dadd3",
+              "width": 5700,
+              "height": 3800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8UtU05J3su88jLaIXh24BA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-10/2f4b02d0-8195-11ef-bfce-89b371837e0b",
+              "url": "https://s.yimg.com/uu/api/res/1.2/C.Pc59AcGoQZBL.SqQGfyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-09/4f8e8050-8076-11ef-9f36-c884185dadd3",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1807,13 +1688,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/article/meta-stock-pops-on-news-it-will-reportedly-start-a-cloud-computing-business-134412120.html",
+          "url": "https://finance.yahoo.com/markets/article/stock-analysts-may-be-setting-up-the-market-for-a-summer-failure-135125532.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/article/meta-stock-pops-on-news-it-will-reportedly-start-a-cloud-computing-business-134412120.html",
+          "url": "https://finance.yahoo.com/markets/article/stock-analysts-may-be-setting-up-the-market-for-a-summer-failure-135125532.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1827,93 +1708,36 @@
             "isPremiumFreeNews": false
           }
         },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "35d2307e-33b6-4027-8d44-0f082dc0bff8",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Scared of an AI stock bubble? Then don't look at this chart.",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/.gvAFh9qVmGQoZAj1wjlCA--~B/aD0zODQwO3c9NTc2MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/a0989c54-de6f-4136-a5f5-6289b6bec6ee",
-                  "originalWidth": 5760,
-                  "originalHeight": 3840,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/scared-of-an-ai-stock-bubble-then-dont-look-at-this-chart-133834616.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/scared-of-an-ai-stock-bubble-then-dont-look-at-this-chart-133834616.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "2b5b205b-fc26-4e49-bb0b-1c9dfa96784a",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Big Tech's first half was a story of hardware versus software",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/GzBKG4pA2.s2WlV9ZVY2ww--~B/aD0yMzMzO3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/e112c611-464d-4706-91dc-4b1e21279060",
-                  "originalWidth": 3500,
-                  "originalHeight": 2333,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/technology/article/big-techs-first-half-was-a-story-of-hardware-versus-software-120311290.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/technology/article/big-techs-first-half-was-a-story-of-hardware-versus-software-120311290.html"
-                }
-              }
-            }
-          ]
-        }
+        "storyline": null
       }
     },
     {
-      "id": "da65a433-b7ba-3b63-9c9d-2ae1f8f32381",
+      "id": "c0b2685f-023f-43a0-9813-992fe94fdbf5",
       "content": {
-        "id": "da65a433-b7ba-3b63-9c9d-2ae1f8f32381",
+        "id": "c0b2685f-023f-43a0-9813-992fe94fdbf5",
         "contentType": "STORY",
-        "title": "Dow Jones Futures: Meta Jumps But Hits SpaceX, Micron; Tesla, Jobs Report Ahead",
+        "title": "The average investor is running away from 'Magnificent 7' stocks",
         "description": "",
-        "summary": "Stocks fell as Meta buzz hit SpaceX, Micron and many AI stocks. Tesla is near a buy point with deliveries due. The June jobs report also is on tap.",
-        "pubDate": "2026-07-01T22:56:37Z",
-        "displayTime": "2026-07-01T22:56:37Z",
-        "isHosted": false,
+        "summary": "No retail love for the \"Magnificent Seven\" is persisting.",
+        "pubDate": "2026-07-02T12:02:04Z",
+        "displayTime": "2026-07-02T12:02:04Z",
+        "isHosted": true,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/da65a433-b7ba-3b63-9c9d-2ae1f8f32381/dow-jones-futures-meta-jumps.html",
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/b978deda5349b23dbd4e3bb021c10efa",
-          "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/vdO4T718h0rUuDJsOjJK6g--~B/aD0yNDIzO3c9MzY0MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/2fb0513e-bd65-416a-b008-d26bfba3e6a8",
+          "originalWidth": 3643,
+          "originalHeight": 2423,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/bmCUhCtMO5I9VJYdsQC1Fw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/b978deda5349b23dbd4e3bb021c10efa",
-              "width": 1000,
-              "height": 563,
+              "url": "https://s.yimg.com/uu/api/res/1.2/vdO4T718h0rUuDJsOjJK6g--~B/aD0yNDIzO3c9MzY0MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/2fb0513e-bd65-416a-b008-d26bfba3e6a8",
+              "width": 3643,
+              "height": 2423,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/PLEtuH50s3Zz6z.Obw2vCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/b978deda5349b23dbd4e3bb021c10efa",
+              "url": "https://s.yimg.com/uu/api/res/1.2/6_dbsg8iPevJltNx4dvCyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/2fb0513e-bd65-416a-b008-d26bfba3e6a8",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1921,12 +1745,160 @@
           ]
         },
         "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-jumps-spacex-micron-tesla-deliveries-jobs-report/?src=A00220&yptr=yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/article/the-average-investor-is-running-away-from-magnificent-7-stocks-120204013.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/article/the-average-investor-is-running-away-from-magnificent-7-stocks-120204013.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2cd9c208-5358-37e4-8046-9a35a4f18cf3",
+      "content": {
+        "id": "2cd9c208-5358-37e4-8046-9a35a4f18cf3",
+        "contentType": "STORY",
+        "title": "Market Chatter: Crusoe in Talks to Raise About $3 Billion at Roughly $30 Billion Valuation",
+        "description": "",
+        "summary": "Crusoe is in talks to raise about $3 billion in a funding round that could value the AI infrastructu",
+        "pubDate": "2026-07-02T22:52:30Z",
+        "displayTime": "2026-07-02T22:52:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-crusoe-talks-raise-225230435.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-crusoe-talks-raise-225230435.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "73f3c684-d2b7-3859-95a4-7521d970795b",
+      "content": {
+        "id": "73f3c684-d2b7-3859-95a4-7521d970795b",
+        "contentType": "STORY",
+        "title": "Crusoe in talks to raise $3 billion funding, Bloomberg News reports",
+        "description": "",
+        "summary": "AI data center startup Crusoe is in talks to raise about $3 billion in a funding ‌round that may triple its valuation, Bloomberg News ‌reported on Thursday, citing people familiar with the situation.  The startup has contracts to ​supply AI computing power for the likes of Meta and Oracle, the report said, as technology giants spend billions of dollars on data centers to meet the massive computing requirements for ‌GenAI.  The startup is ⁠still in active talks on the round, and a final valuation has not been set, according to the report.",
+        "pubDate": "2026-07-02T21:58:16Z",
+        "displayTime": "2026-07-02T21:58:16Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Reuters",
+          "url": "http://www.reuters.com/",
+          "sourceId": "reuters-finance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-talks-raise-3-billion-215816435.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-talks-raise-3-billion-215816435.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "061fc8f8-4f01-30c1-9a52-ccbcc929da06",
+      "content": {
+        "id": "061fc8f8-4f01-30c1-9a52-ccbcc929da06",
+        "contentType": "STORY",
+        "title": "Small-Caps Just Had Their Best First Half Since 1991. The Rally Isn’t Over.",
+        "description": "",
+        "summary": "The S&P 500 advanced 1.8%, while the  rose 2%, and the  gained 2.1%.  While the Russell 2000 dipped for the week, it just finished the best first half of a year since 1991, gaining 22% to the S&P 500’s 10%.  “Portfolio managers [are] looking for other opportunities outside of owning AI,” says Jason Ware, chief investment officer of Albion Financial Group.",
+        "pubDate": "2026-07-02T21:26:00Z",
+        "displayTime": "2026-07-02T21:26:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/061fc8f8-4f01-30c1-9a52-ccbcc929da06/small-caps-just-had-their.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/0d920630d601ef258272d01d4c27f836",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/o7XtIqFUQPVjQHIuZAVHOw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0d920630d601ef258272d01d4c27f836",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gwAB2J3MfPMhiuDTX0ciWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0d920630d601ef258272d01d4c27f836",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/small-caps-just-had-their-best-first-half-since-1991-the-rally-isnt-over-31bef315?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1945,94 +1917,32 @@
       }
     },
     {
-      "id": "d52c7a50-d17f-3e93-a647-dee362e92598",
+      "id": "92721fbc-afa5-3a61-8ae1-9362ae41e02f",
       "content": {
-        "id": "d52c7a50-d17f-3e93-a647-dee362e92598",
+        "id": "92721fbc-afa5-3a61-8ae1-9362ae41e02f",
         "contentType": "STORY",
-        "title": "‘I’m the Biggest Idiot in the World’: Cramer Torches His Own Tech Calls but Backs This One",
+        "title": "Intel Stock Fell 9% in a Day After Soaring About 270% in the First Half. Buy the Dip Before July 23?",
         "description": "",
-        "summary": "Jim Cramer spent Monday night on Mad Money doing something television hosts rarely do on camera: calling himself an idiot. A viewer named Kyle phoned in about her Corning (NYSE:GLW) position, worried about the wild swings, and Cramer used the question to torch his own track record on the mega-caps before validating her thesis. Kyle ... ‘I’m the Biggest Idiot in the World’: Cramer Torches His Own Tech Calls but Backs This One",
-        "pubDate": "2026-07-01T22:34:31Z",
-        "displayTime": "2026-07-01T22:34:31Z",
+        "summary": "The chipmaker's massive rerating just met its first serious stress test.",
+        "pubDate": "2026-07-02T21:26:00Z",
+        "displayTime": "2026-07-02T21:26:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/132aa5b74d960dcdb675aaba7d4ad89c",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4339edfbf822cd02f68cbbe404739deb",
+          "originalWidth": 1400,
+          "originalHeight": 787,
+          "caption": "An AI chip.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/X5HJZvzudqfGr9NFzTSLHw--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/132aa5b74d960dcdb675aaba7d4ad89c",
-              "width": 1366,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/s0GX.ANXQRzZunzLejWkmQ--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4339edfbf822cd02f68cbbe404739deb",
+              "width": 1400,
+              "height": 787,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zqrAHIW07BHaI3X8.gXKiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/132aa5b74d960dcdb675aaba7d4ad89c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/01/im-the-biggest-idiot-in-the-world-cramer-torches-his-own-tech-calls-but-backs-this-one/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/m-biggest-idiot-world-cramer-223431600.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "bf1343d4-a1c1-34c4-8bce-82974584040b",
-      "content": {
-        "id": "bf1343d4-a1c1-34c4-8bce-82974584040b",
-        "contentType": "STORY",
-        "title": "Stock Market Today, July 1: CoreWeave Stock Tumbles as Meta Cloud Report Raises Customer Concerns",
-        "description": "",
-        "summary": "CoreWeave’s backlog remains a major demand signal, but the sell-off shows investors are watching customer concentration and future AI compute competition.",
-        "pubDate": "2026-07-01T21:53:13Z",
-        "displayTime": "2026-07-01T21:53:13Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a19c508dd84971836e666155215947ca",
-          "originalWidth": 800,
-          "originalHeight": 714,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Fj2adpscedFhKLerxxXqIQ--~B/aD03MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a19c508dd84971836e666155215947ca",
-              "width": 800,
-              "height": 714,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JyP2uHZV99hljt5.VLuJCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a19c508dd84971836e666155215947ca",
+              "url": "https://s.yimg.com/uu/api/res/1.2/iwh57NiCfeWIWdNaAW2MaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4339edfbf822cd02f68cbbe404739deb",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2045,13 +1955,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-coreweave-stock-tumbles-as-meta-cloud-report-raises-customer-concerns/",
+          "url": "https://www.fool.com/investing/2026/07/02/intel-stock-fell-9-in-a-day-after-soaring-about-27/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-1-215313563.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-fell-9-day-212600327.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2069,156 +1979,32 @@
       }
     },
     {
-      "id": "0142514a-0e98-3f89-9e4e-16809df2a252",
+      "id": "5c655f8b-8f7f-3b20-a870-fb52e2d70e18",
       "content": {
-        "id": "0142514a-0e98-3f89-9e4e-16809df2a252",
+        "id": "5c655f8b-8f7f-3b20-a870-fb52e2d70e18",
         "contentType": "STORY",
-        "title": "Stock Market Today, July 1: Meta Surges on Reported Plan for AI Cloud Business",
+        "title": "Dollar slides after jobs data, chipmakers weigh on stocks",
         "description": "",
-        "summary": "Meta’s possible cloud business gives investors another way to evaluate whether its AI infrastructure buildout can support future returns.",
-        "pubDate": "2026-07-01T21:36:16Z",
-        "displayTime": "2026-07-01T21:36:16Z",
+        "summary": "By Rodrigo Campos NEW YORK, July 2 (Reuters) - A gauge of stocks across the world ended little changed on Thursday as declining semiconductor shares were offset by optimism over the future path of",
+        "pubDate": "2026-07-02T21:21:04Z",
+        "displayTime": "2026-07-02T21:21:04Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c725e380a362ed46d20e0a5dd798ee91",
-          "originalWidth": 800,
-          "originalHeight": 714,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/qHQTarcXEJw1TRIKhaTIDw--~B/aD03MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c725e380a362ed46d20e0a5dd798ee91",
-              "width": 800,
-              "height": 714,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2G5H3GKtURSM2jMubuSAAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c725e380a362ed46d20e0a5dd798ee91",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-meta-surges-on-reported-plan-for-ai-cloud-business/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-1-213616042.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "16a21f51-cc3c-3a71-8034-2ec21164e605",
-      "content": {
-        "id": "16a21f51-cc3c-3a71-8034-2ec21164e605",
-        "contentType": "STORY",
-        "title": "Stock Market Today, July 1: Meta Shakes Up Cloud Sector and Tech Stocks Weigh on Markets",
-        "description": "",
-        "summary": "Today, July 1, 2026, investors digested slower manufacturing data and the Fed's commitment to lower inflation amid a volatile session.",
-        "pubDate": "2026-07-01T21:32:52Z",
-        "displayTime": "2026-07-01T21:32:52Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5589a785fe2c636a0f46a19208368fc1",
-          "originalWidth": 800,
-          "originalHeight": 714,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Km.fdPwQRJxwS96FJ5tifg--~B/aD03MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5589a785fe2c636a0f46a19208368fc1",
-              "width": 800,
-              "height": 714,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/n.h3LdpEarbC8pLJTJP8sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5589a785fe2c636a0f46a19208368fc1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-meta-shakes-up-cloud-sector-and-tech-stocks-weigh-on-markets/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-1-213252093.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "99ffc63e-b8d4-3ad5-b83a-0ef8caf4340b",
-      "content": {
-        "id": "99ffc63e-b8d4-3ad5-b83a-0ef8caf4340b",
-        "contentType": "STORY",
-        "title": "Wall Street ends choppy session lower as tech shares drop",
-        "description": "",
-        "summary": "By Caroline Valetkevitch and Niket Nishant July 1 (Reuters) - U.S. stocks finished slightly lower on Wednesday as technology shares fell, but gains in Meta Platforms limited the decline in the S&P 500",
-        "pubDate": "2026-07-01T21:28:31Z",
-        "displayTime": "2026-07-01T21:28:31Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters.com/9bbe44ce11f3cd7710f6abe105af94a4",
+          "originalUrl": "https://media.zenfs.com/en/reuters.com/5ba31bca8eaa80d629b9b53f0bd324cc",
           "originalWidth": 800,
           "originalHeight": 533,
-          "caption": "Traders work on the floor at the New York Stock Exchange (NYSE) in New York City, U.S., June 24, 2026.  REUTERS/Brendan McDermid",
+          "caption": "Futures-options traders work on the floor at the New York Stock Exchange's NYSE American (AMEX) in New York City, U.S. June 24, 2026.  REUTERS/Brendan McDermid",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/x8kMHwAjsjg69y3a8lgdmw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/9bbe44ce11f3cd7710f6abe105af94a4",
+              "url": "https://s.yimg.com/uu/api/res/1.2/hg.HhsmY9tX6Jejkci864A--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/5ba31bca8eaa80d629b9b53f0bd324cc",
               "width": 800,
               "height": 533,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5ZkQiRcCImyeF9Vh0hP2Fg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/9bbe44ce11f3cd7710f6abe105af94a4",
+              "url": "https://s.yimg.com/uu/api/res/1.2/YETS98_J6LjiEsAIaow6wg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/5ba31bca8eaa80d629b9b53f0bd324cc",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2231,13 +2017,13 @@
           "sourceId": "reuters.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-second-101234083.html",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-fall-chipmaker-drag-055704480.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-second-101234083.html",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-fall-chipmaker-drag-055704480.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2255,32 +2041,32 @@
       }
     },
     {
-      "id": "62c3b9f4-afc6-3ea2-8df8-b9c75f5d6f80",
+      "id": "aa7c064d-6148-3185-a220-b67519bd16fc",
       "content": {
-        "id": "62c3b9f4-afc6-3ea2-8df8-b9c75f5d6f80",
+        "id": "aa7c064d-6148-3185-a220-b67519bd16fc",
         "contentType": "STORY",
-        "title": "Meta Stock Soars Almost 9% on Reported Plan to Build Cloud Infrastructure",
+        "title": "Chip Stocks Tumble Again",
         "description": "",
-        "summary": "Meta Platforms shares had their best day since January after Bloomberg reported that the Facebook parent will sell access to AI computing power and models similar to those offered by Amazon, Microsoft and Google.",
-        "pubDate": "2026-07-01T21:12:32Z",
-        "displayTime": "2026-07-01T21:12:32Z",
+        "summary": "American employers added 57,000 new jobs last month, the Labor Department said Thursday.  Memory stocks were particularly hard hit, with  Sandisk  falling 14.1% and Samsung Electronics declining 9.1% overnight.",
+        "pubDate": "2026-07-02T20:34:00Z",
+        "displayTime": "2026-07-02T20:34:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/62c3b9f4-afc6-3ea2-8df8-b9c75f5d6f80/meta-stock-soars-almost-9-on.html",
+        "previewUrl": "https://finance.yahoo.com/m/aa7c064d-6148-3185-a220-b67519bd16fc/chip-stocks-tumble-again.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-          "originalWidth": 1200,
-          "originalHeight": 630,
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/7a1367dbf68dfb41106599b0a9b13944",
+          "originalWidth": 1280,
+          "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Fwf5HL4GsEGPbDfR3MJBPg--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-              "width": 1200,
-              "height": 630,
+              "url": "https://s.yimg.com/uu/api/res/1.2/VAqk82jllrMsJFQeg3eoKQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7a1367dbf68dfb41106599b0a9b13944",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Od19.fEmwRTCGhSIbnAHeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7a1367dbf68dfb41106599b0a9b13944",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2293,7 +2079,7 @@
           "sourceId": "wsj.com"
         },
         "canonicalUrl": {
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-01-2026/card/meta-stock-soars-almost-10-on-reported-plan-to-build-cloud-infrastructure-lusNzm2pjxU216rg4mIA?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.wsj.com/finance/investing/chip-stocks-tumble-again-fb8cb62e?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2312,32 +2098,32 @@
       }
     },
     {
-      "id": "5bddb04c-4333-35e4-8743-8f530550f62c",
+      "id": "9d6421f2-d53a-3f8e-a28e-922951262f01",
       "content": {
-        "id": "5bddb04c-4333-35e4-8743-8f530550f62c",
+        "id": "9d6421f2-d53a-3f8e-a28e-922951262f01",
         "contentType": "STORY",
-        "title": "Why Is Reddit (RDDT) Stock Soaring Today",
+        "title": "Exclusive-Zuckerberg says AI agent tech is developing more slowly than expected",
         "description": "",
-        "summary": "Shares of online community and discussion platform Reddit (NYSE:RDDT) jumped 12% in the afternoon session after optimism continued around its AI data-licensing leverage (it's pushing Google and OpenAI for higher, \"dynamic\" pricing on 2027 renewals), layered on a strong risk-on session for internet and advertising names.",
-        "pubDate": "2026-07-01T21:05:00Z",
-        "displayTime": "2026-07-01T21:05:00Z",
+        "summary": "Meta Chief Executive Mark Zuckerberg told an internal town hall on Thursday that AI agent ‌development over the last four months had not \"accelerated in the way we expected,\" ‌according to a recording heard by Reuters.  Zuckerberg added that a company reorganization that included major job cuts was ​not as \"clean\" as it could have been and that executives had miscalculated on the timing of the changes.  Conversations he was having \"with our top people\" when they started planning the restructuring in January and February \"were that they were worried that we weren't going to move fast enough ‌to adapt,\" Zuckerberg said.",
+        "pubDate": "2026-07-02T20:11:23Z",
+        "displayTime": "2026-07-02T20:11:23Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/68ccf4f579eeef4dd3421cd9343df8c8",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "RDDT Cover Image",
+          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/206a9e9e26b850c8ac9930a38f50aa1a",
+          "originalWidth": 800,
+          "originalHeight": 532,
+          "caption": "FILE PHOTO: Meta CEO Mark Zuckerberg delivers a speech during the Meta Connect event in Menlo Park",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fGhmviSufwiaE9wdmwRmFQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/68ccf4f579eeef4dd3421cd9343df8c8",
-              "width": 1400,
-              "height": 700,
+              "url": "https://s.yimg.com/uu/api/res/1.2/nBzxOtlY9nYBYnat0geLFA--~B/aD01MzI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/206a9e9e26b850c8ac9930a38f50aa1a",
+              "width": 800,
+              "height": 532,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mJaJu8edIFzflTN1kISGUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/68ccf4f579eeef4dd3421cd9343df8c8",
+              "url": "https://s.yimg.com/uu/api/res/1.2/lwKMni5JnEX5Sv.QQ9evEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/206a9e9e26b850c8ac9930a38f50aa1a",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2345,18 +2131,80 @@
           ]
         },
         "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
+          "displayName": "Reuters",
+          "url": "http://www.reuters.com/",
+          "sourceId": "reuters-finance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-rddt-stock-soaring-210500876.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-rddt-stock-soaring-210500876.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "15b96bff-db63-3911-8528-636c5682d80d",
+      "content": {
+        "id": "15b96bff-db63-3911-8528-636c5682d80d",
+        "contentType": "STORY",
+        "title": "Meta just picked a fight with Amazon's cash cow",
+        "description": "",
+        "summary": "Wall Street does not punish companies for spending money. It punishes them for spending money without a story. Give investors a believable path from this year's bills to next year's profits and they will forgive almost any number on the capital expenditure line. Take that story away, and every ...",
+        "pubDate": "2026-07-02T20:07:00Z",
+        "displayTime": "2026-07-02T20:07:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/40bae250e5cc8fdc07f4de2bb81dbcc3",
+          "originalWidth": 3840,
+          "originalHeight": 2560,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GgSE06IP5SnVePPcG_bpcw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/40bae250e5cc8fdc07f4de2bb81dbcc3",
+              "width": 3840,
+              "height": 2560,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/YzDr_4PuKisJmchU9r4N1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/40bae250e5cc8fdc07f4de2bb81dbcc3",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/markets/meta-just-picked-a-fight-with-amazons-cash-cow",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-just-picked-fight-amazons-200700165.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
