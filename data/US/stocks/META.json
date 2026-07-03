@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-02T22:58:43.955876",
+    "ts": "2026-07-03T22:56:42.314942",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -146,17 +146,17 @@
     "regularMarketDayLow": 580.42,
     "regularMarketDayHigh": 610.0,
     "dividendRate": 2.1,
-    "dividendYield": 0.34,
+    "dividendYield": 0.36,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
-    "beta": 1.229,
-    "trailingPE": 21.18096,
-    "forwardPE": 15.951086,
+    "beta": 1.246,
+    "trailingPE": 21.18866,
+    "forwardPE": 15.82777,
     "volume": 20851640,
     "regularMarketVolume": 20851640,
-    "averageVolume": 17134355,
-    "averageVolume10days": 20620710,
-    "averageDailyVolume10Day": 20620710,
+    "averageVolume": 17209111,
+    "averageVolume10days": 20749800,
+    "averageDailyVolume10Day": 20749800,
     "bid": 584.28,
     "ask": 595.0,
     "bidSize": 1,
@@ -168,13 +168,13 @@
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "priceToSalesTrailing12Months": 6.883264,
-    "fiftyDayAverage": 606.9478,
-    "twoHundredDayAverage": 647.42114,
+    "fiftyDayAverage": 605.229,
+    "twoHundredDayAverage": 646.51215,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.003426278,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1561414074368,
+    "enterpriseValue": 1485235945472,
     "profitMargins": 0.32837,
     "floatShares": 2192715434,
     "sharesOutstanding": 2196045588,
@@ -184,7 +184,7 @@
     "dateShortInterest": 1781481600,
     "sharesPercentSharesOut": 0.0117999995,
     "heldPercentInsiders": 0.00102,
-    "heldPercentInstitutions": 0.79304004,
+    "heldPercentInstitutions": 0.7928,
     "shortRatio": 1.69,
     "shortPercentOfFloat": 0.0137,
     "impliedSharesOutstanding": 2538423304,
@@ -195,20 +195,20 @@
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.52,
-    "forwardEps": 36.54297,
-    "pegRatio": 0.81,
-    "enterpriseToRevenue": 7.264,
-    "enterpriseToEbitda": 14.285,
-    "52WeekChange": -0.147564,
-    "SandP52WeekChange": 0.19172049,
+    "trailingEps": 27.51,
+    "forwardEps": 36.82768,
+    "pegRatio": 0.84,
+    "enterpriseToRevenue": 6.909,
+    "enterpriseToEbitda": 13.588,
+    "52WeekChange": -0.18855709,
+    "SandP52WeekChange": 0.20116603,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
     "currentPrice": 582.9,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 664.46,
-    "targetMeanPrice": 828.13416,
+    "targetMeanPrice": 828.16864,
     "targetMedianPrice": 825.0,
     "recommendationMean": 1.31746,
     "recommendationKey": "strong_buy",
@@ -240,49 +240,7 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "regularMarketChangePercent": -4.896306,
     "regularMarketPrice": 582.9,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.3560646,
-    "postMarketPrice": 584.9755,
-    "postMarketChange": 2.0755005,
-    "regularMarketChange": -30.009949,
-    "marketState": "POST",
-    "regularMarketDayRange": "580.42 - 610.0",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 17134355,
-    "fiftyTwoWeekLowChange": 62.640015,
-    "fiftyTwoWeekLowChangePercent": 0.12040136,
-    "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -213.34998,
-    "fiftyTwoWeekHighChangePercent": -0.26794344,
-    "fiftyTwoWeekChangePercent": -14.756399,
-    "dividendDate": 1782345600,
-    "earningsTimestamp": 1777492800,
-    "earningsTimestampStart": 1785355200,
-    "earningsTimestampEnd": 1785355200,
-    "earningsCallTimestampStart": 1777498200,
-    "earningsCallTimestampEnd": 1777498200,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.52,
-    "epsForward": 36.54297,
-    "epsCurrentYear": 32.21426,
-    "priceEpsCurrentYear": 18.094471,
-    "fiftyDayAverageChange": -24.04779,
-    "fiftyDayAverageChangePercent": -0.039620854,
-    "twoHundredDayAverageChange": -64.52112,
-    "twoHundredDayAverageChangePercent": -0.09965865,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-02",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "corporateActions": [],
-    "postMarketTime": 1783033121,
-    "regularMarketTime": 1783022400,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -290,8 +248,50 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
+    "postMarketChangePercent": 0.36026344,
+    "postMarketPrice": 585.0,
+    "postMarketChange": 2.0999756,
+    "regularMarketChange": -30.0099,
+    "regularMarketDayRange": "580.42 - 610.0",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 17209111,
+    "fiftyTwoWeekLowChange": 62.640015,
+    "fiftyTwoWeekLowChangePercent": 0.12040136,
+    "fiftyTwoWeekRange": "520.26 - 796.25",
+    "fiftyTwoWeekHighChange": -213.34998,
+    "fiftyTwoWeekHighChangePercent": -0.26794344,
+    "fiftyTwoWeekChangePercent": -18.85571,
+    "dividendDate": 1782345600,
+    "earningsTimestamp": 1777492800,
+    "earningsTimestampStart": 1785355200,
+    "earningsTimestampEnd": 1785355200,
+    "earningsCallTimestampStart": 1777498200,
+    "earningsCallTimestampEnd": 1777498200,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 27.51,
+    "epsForward": 36.82768,
+    "epsCurrentYear": 32.58671,
+    "regularMarketChangePercent": -4.89631,
+    "marketState": "CLOSED",
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
+    "corporateActions": [],
+    "postMarketTime": 1783036798,
+    "regularMarketTime": 1783022400,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "priceEpsCurrentYear": 17.887661,
+    "fiftyDayAverageChange": -22.32898,
+    "fiftyDayAverageChangePercent": -0.03689344,
+    "twoHundredDayAverageChange": -63.61212,
+    "twoHundredDayAverageChangePercent": -0.09839277,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-07-03",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8856
   },
@@ -309,7 +309,7 @@
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.11,
+        "2025-06-30T00:00:00.000": 0.106993,
         "2025-03-31T00:00:00.000": 0.094549,
         "2024-12-31T00:00:00.000": null
       },
@@ -1642,307 +1642,40 @@
       ],
       "Earnings High": 8.55,
       "Earnings Low": 6.8,
-      "Earnings Average": 7.494,
+      "Earnings Average": 7.50889,
       "Revenue High": 62812000000,
       "Revenue Low": 59132000000,
-      "Revenue Average": 60224219380
+      "Revenue Average": 60224815120
     }
   },
   "news": [
     {
-      "id": "f6d58f2a-ae86-4479-8c9a-a5ba2abc031c",
+      "id": "702c5271-fde7-392a-a7c3-7ad278c4ad37",
       "content": {
-        "id": "f6d58f2a-ae86-4479-8c9a-a5ba2abc031c",
+        "id": "702c5271-fde7-392a-a7c3-7ad278c4ad37",
         "contentType": "STORY",
-        "title": "Stock analysts may be setting up the market for a summer failure",
+        "title": "Meta Platforms Will Spend $135 Billion on AI in 2026. There Might Only Be 1 Reason Why.",
         "description": "",
-        "summary": "There is such a thing as being too bullish.",
-        "pubDate": "2026-07-02T13:51:25Z",
-        "displayTime": "2026-07-02T13:51:25Z",
+        "summary": "Like its hyperscaler peers, the social media juggernaut is sparing no expense to become a leader in artificial intelligence.",
+        "pubDate": "2026-07-03T21:55:00Z",
+        "displayTime": "2026-07-03T21:55:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2024-09/4f8e8050-8076-11ef-9f36-c884185dadd3",
-          "originalWidth": 5700,
-          "originalHeight": 3800,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/d852734140b569e283043bab845c8831",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "Meta logo against blue background. ",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HSdarQQRUusWmJ1wAA9xhA--~B/aD0zODAwO3c9NTcwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-09/4f8e8050-8076-11ef-9f36-c884185dadd3",
-              "width": 5700,
-              "height": 3800,
+              "url": "https://s.yimg.com/uu/api/res/1.2/7Ddfax5ht7JhGcYzpx6sWg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d852734140b569e283043bab845c8831",
+              "width": 1200,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/C.Pc59AcGoQZBL.SqQGfyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-09/4f8e8050-8076-11ef-9f36-c884185dadd3",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/stock-analysts-may-be-setting-up-the-market-for-a-summer-failure-135125532.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/stock-analysts-may-be-setting-up-the-market-for-a-summer-failure-135125532.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c0b2685f-023f-43a0-9813-992fe94fdbf5",
-      "content": {
-        "id": "c0b2685f-023f-43a0-9813-992fe94fdbf5",
-        "contentType": "STORY",
-        "title": "The average investor is running away from 'Magnificent 7' stocks",
-        "description": "",
-        "summary": "No retail love for the \"Magnificent Seven\" is persisting.",
-        "pubDate": "2026-07-02T12:02:04Z",
-        "displayTime": "2026-07-02T12:02:04Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/vdO4T718h0rUuDJsOjJK6g--~B/aD0yNDIzO3c9MzY0MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/2fb0513e-bd65-416a-b008-d26bfba3e6a8",
-          "originalWidth": 3643,
-          "originalHeight": 2423,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vdO4T718h0rUuDJsOjJK6g--~B/aD0yNDIzO3c9MzY0MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/2fb0513e-bd65-416a-b008-d26bfba3e6a8",
-              "width": 3643,
-              "height": 2423,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6_dbsg8iPevJltNx4dvCyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/2fb0513e-bd65-416a-b008-d26bfba3e6a8",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/article/the-average-investor-is-running-away-from-magnificent-7-stocks-120204013.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/article/the-average-investor-is-running-away-from-magnificent-7-stocks-120204013.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2cd9c208-5358-37e4-8046-9a35a4f18cf3",
-      "content": {
-        "id": "2cd9c208-5358-37e4-8046-9a35a4f18cf3",
-        "contentType": "STORY",
-        "title": "Market Chatter: Crusoe in Talks to Raise About $3 Billion at Roughly $30 Billion Valuation",
-        "description": "",
-        "summary": "Crusoe is in talks to raise about $3 billion in a funding round that could value the AI infrastructu",
-        "pubDate": "2026-07-02T22:52:30Z",
-        "displayTime": "2026-07-02T22:52:30Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-crusoe-talks-raise-225230435.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-crusoe-talks-raise-225230435.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "73f3c684-d2b7-3859-95a4-7521d970795b",
-      "content": {
-        "id": "73f3c684-d2b7-3859-95a4-7521d970795b",
-        "contentType": "STORY",
-        "title": "Crusoe in talks to raise $3 billion funding, Bloomberg News reports",
-        "description": "",
-        "summary": "AI data center startup Crusoe is in talks to raise about $3 billion in a funding ‌round that may triple its valuation, Bloomberg News ‌reported on Thursday, citing people familiar with the situation.  The startup has contracts to ​supply AI computing power for the likes of Meta and Oracle, the report said, as technology giants spend billions of dollars on data centers to meet the massive computing requirements for ‌GenAI.  The startup is ⁠still in active talks on the round, and a final valuation has not been set, according to the report.",
-        "pubDate": "2026-07-02T21:58:16Z",
-        "displayTime": "2026-07-02T21:58:16Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-talks-raise-3-billion-215816435.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-talks-raise-3-billion-215816435.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "061fc8f8-4f01-30c1-9a52-ccbcc929da06",
-      "content": {
-        "id": "061fc8f8-4f01-30c1-9a52-ccbcc929da06",
-        "contentType": "STORY",
-        "title": "Small-Caps Just Had Their Best First Half Since 1991. The Rally Isn’t Over.",
-        "description": "",
-        "summary": "The S&P 500 advanced 1.8%, while the  rose 2%, and the  gained 2.1%.  While the Russell 2000 dipped for the week, it just finished the best first half of a year since 1991, gaining 22% to the S&P 500’s 10%.  “Portfolio managers [are] looking for other opportunities outside of owning AI,” says Jason Ware, chief investment officer of Albion Financial Group.",
-        "pubDate": "2026-07-02T21:26:00Z",
-        "displayTime": "2026-07-02T21:26:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/061fc8f8-4f01-30c1-9a52-ccbcc929da06/small-caps-just-had-their.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/0d920630d601ef258272d01d4c27f836",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/o7XtIqFUQPVjQHIuZAVHOw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0d920630d601ef258272d01d4c27f836",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/gwAB2J3MfPMhiuDTX0ciWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0d920630d601ef258272d01d4c27f836",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/small-caps-just-had-their-best-first-half-since-1991-the-rally-isnt-over-31bef315?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "92721fbc-afa5-3a61-8ae1-9362ae41e02f",
-      "content": {
-        "id": "92721fbc-afa5-3a61-8ae1-9362ae41e02f",
-        "contentType": "STORY",
-        "title": "Intel Stock Fell 9% in a Day After Soaring About 270% in the First Half. Buy the Dip Before July 23?",
-        "description": "",
-        "summary": "The chipmaker's massive rerating just met its first serious stress test.",
-        "pubDate": "2026-07-02T21:26:00Z",
-        "displayTime": "2026-07-02T21:26:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4339edfbf822cd02f68cbbe404739deb",
-          "originalWidth": 1400,
-          "originalHeight": 787,
-          "caption": "An AI chip.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/s0GX.ANXQRzZunzLejWkmQ--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4339edfbf822cd02f68cbbe404739deb",
-              "width": 1400,
-              "height": 787,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/iwh57NiCfeWIWdNaAW2MaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4339edfbf822cd02f68cbbe404739deb",
+              "url": "https://s.yimg.com/uu/api/res/1.2/yFsA9rMEzDmUvud._g4Frw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d852734140b569e283043bab845c8831",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1955,13 +1688,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/02/intel-stock-fell-9-in-a-day-after-soaring-about-27/",
+          "url": "https://www.fool.com/investing/2026/07/03/meta-135-billion-ai-capex-2026-one-reason/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-fell-9-day-212600327.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-spend-135-billion-215500767.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1979,32 +1712,32 @@
       }
     },
     {
-      "id": "5c655f8b-8f7f-3b20-a870-fb52e2d70e18",
+      "id": "01738ab7-9f5c-3281-b7d6-1bd607758516",
       "content": {
-        "id": "5c655f8b-8f7f-3b20-a870-fb52e2d70e18",
+        "id": "01738ab7-9f5c-3281-b7d6-1bd607758516",
         "contentType": "STORY",
-        "title": "Dollar slides after jobs data, chipmakers weigh on stocks",
+        "title": "Meta Defends WhatsApp Usernames After India Raises Cybercrime Concerns and Seeks an Explanation",
         "description": "",
-        "summary": "By Rodrigo Campos NEW YORK, July 2 (Reuters) - A gauge of stocks across the world ended little changed on Thursday as declining semiconductor shares were offset by optimism over the future path of",
-        "pubDate": "2026-07-02T21:21:04Z",
-        "displayTime": "2026-07-02T21:21:04Z",
+        "summary": "The Government of India has expressed concerns over Meta Platforms Inc. introducing usernames on its messaging platform, WhatsApp, citing a potential increase in cybercrime. Despite the backlash, Meta defended its decision. Meta’s WhatsApp introduced the username feature on Monday, touting...",
+        "pubDate": "2026-07-03T21:31:05Z",
+        "displayTime": "2026-07-03T21:31:05Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters.com/5ba31bca8eaa80d629b9b53f0bd324cc",
-          "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "Futures-options traders work on the floor at the New York Stock Exchange's NYSE American (AMEX) in New York City, U.S. June 24, 2026.  REUTERS/Brendan McDermid",
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/ff30eca6c2d54a2f2c962df623498c26",
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "caption": "Meta Defends WhatsApp Usernames After India Raises Cybercrime Concerns and Seeks an Explanation",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hg.HhsmY9tX6Jejkci864A--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/5ba31bca8eaa80d629b9b53f0bd324cc",
-              "width": 800,
-              "height": 533,
+              "url": "https://s.yimg.com/uu/api/res/1.2/31EqvGt9helZqYg1x7FXcw--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/ff30eca6c2d54a2f2c962df623498c26",
+              "width": 1000,
+              "height": 667,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YETS98_J6LjiEsAIaow6wg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/5ba31bca8eaa80d629b9b53f0bd324cc",
+              "url": "https://s.yimg.com/uu/api/res/1.2/2KJ3KdW1d_0uqrOoIBv0Bw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ff30eca6c2d54a2f2c962df623498c26",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2012,18 +1745,18 @@
           ]
         },
         "provider": {
-          "displayName": "Reuters",
-          "url": "https://www.reuters.com/",
-          "sourceId": "reuters.com"
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-fall-chipmaker-drag-055704480.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-defends-whatsapp-usernames-india-213105934.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-fall-chipmaker-drag-055704480.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-defends-whatsapp-usernames-india-213105934.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2041,32 +1774,32 @@
       }
     },
     {
-      "id": "aa7c064d-6148-3185-a220-b67519bd16fc",
+      "id": "048e6aad-a8dd-3f6c-943e-cf54b580e0ff",
       "content": {
-        "id": "aa7c064d-6148-3185-a220-b67519bd16fc",
+        "id": "048e6aad-a8dd-3f6c-943e-cf54b580e0ff",
         "contentType": "STORY",
-        "title": "Chip Stocks Tumble Again",
+        "title": "This TSX stock jumped 17% on the week and could buck its discount status on massive Alberta power centre project, analyst says",
         "description": "",
-        "summary": "American employers added 57,000 new jobs last month, the Labor Department said Thursday.  Memory stocks were particularly hard hit, with  Sandisk  falling 14.1% and Samsung Electronics declining 9.1% overnight.",
-        "pubDate": "2026-07-02T20:34:00Z",
-        "displayTime": "2026-07-02T20:34:00Z",
-        "isHosted": false,
+        "summary": "The Week in Stocks: Rosenberg's picks for the year's second half, oil patch candidates as conflict eases in the Mideast and more",
+        "pubDate": "2026-07-03T21:13:44Z",
+        "displayTime": "2026-07-03T21:13:44Z",
+        "isHosted": true,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/aa7c064d-6148-3185-a220-b67519bd16fc/chip-stocks-tumble-again.html",
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/7a1367dbf68dfb41106599b0a9b13944",
+          "originalUrl": "https://media.zenfs.com/en/financial_post_articles_610/78e419ec88f357bc3b0fd25ef5b4e50b",
           "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
+          "originalHeight": 960,
+          "caption": "Aecon Group Inc. Sites As Canada Launches Security Review Deal With Chinese Buyer",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VAqk82jllrMsJFQeg3eoKQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7a1367dbf68dfb41106599b0a9b13944",
+              "url": "https://s.yimg.com/uu/api/res/1.2/4yNMxerRF7PbdnNZw0LAXg--~B/aD05NjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/financial_post_articles_610/78e419ec88f357bc3b0fd25ef5b4e50b",
               "width": 1280,
-              "height": 640,
+              "height": 960,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Od19.fEmwRTCGhSIbnAHeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7a1367dbf68dfb41106599b0a9b13944",
+              "url": "https://s.yimg.com/uu/api/res/1.2/YciI26IO6RAsLCLbs2CYOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/financial_post_articles_610/78e419ec88f357bc3b0fd25ef5b4e50b",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2074,75 +1807,18 @@
           ]
         },
         "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
+          "displayName": "Financial Post",
+          "url": "https://financialpost.com/",
+          "sourceId": "financial_post_articles_610"
         },
         "canonicalUrl": {
-          "url": "https://www.wsj.com/finance/investing/chip-stocks-tumble-again-fb8cb62e?siteid=yhoof2&yptr=yahoo",
+          "url": "https://financialpost.com/investing/tsx-stock-jumped-17-this-week-discount",
           "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9d6421f2-d53a-3f8e-a28e-922951262f01",
-      "content": {
-        "id": "9d6421f2-d53a-3f8e-a28e-922951262f01",
-        "contentType": "STORY",
-        "title": "Exclusive-Zuckerberg says AI agent tech is developing more slowly than expected",
-        "description": "",
-        "summary": "Meta Chief Executive Mark Zuckerberg told an internal town hall on Thursday that AI agent ‌development over the last four months had not \"accelerated in the way we expected,\" ‌according to a recording heard by Reuters.  Zuckerberg added that a company reorganization that included major job cuts was ​not as \"clean\" as it could have been and that executives had miscalculated on the timing of the changes.  Conversations he was having \"with our top people\" when they started planning the restructuring in January and February \"were that they were worried that we weren't going to move fast enough ‌to adapt,\" Zuckerberg said.",
-        "pubDate": "2026-07-02T20:11:23Z",
-        "displayTime": "2026-07-02T20:11:23Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/206a9e9e26b850c8ac9930a38f50aa1a",
-          "originalWidth": 800,
-          "originalHeight": 532,
-          "caption": "FILE PHOTO: Meta CEO Mark Zuckerberg delivers a speech during the Meta Connect event in Menlo Park",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nBzxOtlY9nYBYnat0geLFA--~B/aD01MzI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/206a9e9e26b850c8ac9930a38f50aa1a",
-              "width": 800,
-              "height": 532,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lwKMni5JnEX5Sv.QQ9evEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/206a9e9e26b850c8ac9930a38f50aa1a",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
+          "region": "CA",
+          "lang": "en-CA"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html",
+          "url": "https://finance.yahoo.com/news/tsx-stock-jumped-17-week-211344439.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2160,32 +1836,32 @@
       }
     },
     {
-      "id": "15b96bff-db63-3911-8528-636c5682d80d",
+      "id": "59e3422f-39fa-339d-91cf-d452bbebafc0",
       "content": {
-        "id": "15b96bff-db63-3911-8528-636c5682d80d",
+        "id": "59e3422f-39fa-339d-91cf-d452bbebafc0",
         "contentType": "STORY",
-        "title": "Meta just picked a fight with Amazon's cash cow",
+        "title": "Top Invesco Analyst: The AI Trade That “Lifted All Boats” Is Over. Now Profitability Decides Winners As “Capacity Will Catch Up”",
         "description": "",
-        "summary": "Wall Street does not punish companies for spending money. It punishes them for spending money without a story. Give investors a believable path from this year's bills to next year's profits and they will forgive almost any number on the capital expenditure line. Take that story away, and every ...",
-        "pubDate": "2026-07-02T20:07:00Z",
-        "displayTime": "2026-07-02T20:07:00Z",
+        "summary": "Invesco’s Fiona Lim says the AI-fueled semiconductor surge is shifting from a broad, momentum-driven rally to a tougher phase where stock picking and profitability will separate winners from laggards. Speaking on Bloomberg’s Insight with Haslinda Amin on July 3, Lim, who manages Asia ex-Japan equities, warned that the easy gains are likely behind investors: “The ... Top Invesco Analyst: The AI Trade That “Lifted All Boats” Is Over. Now Profitability Decides Winners As “Capacity Will Catch Up”",
+        "pubDate": "2026-07-03T18:47:11Z",
+        "displayTime": "2026-07-03T18:47:11Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/40bae250e5cc8fdc07f4de2bb81dbcc3",
-          "originalWidth": 3840,
-          "originalHeight": 2560,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/04ddbbe16770dc746b6cb05920fe4a39",
+          "originalWidth": 1500,
+          "originalHeight": 998,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GgSE06IP5SnVePPcG_bpcw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/40bae250e5cc8fdc07f4de2bb81dbcc3",
-              "width": 3840,
-              "height": 2560,
+              "url": "https://s.yimg.com/uu/api/res/1.2/mr1XOWNcZLZEa0iacDleIw--~B/aD05OTg7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/04ddbbe16770dc746b6cb05920fe4a39",
+              "width": 1500,
+              "height": 998,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YzDr_4PuKisJmchU9r4N1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/40bae250e5cc8fdc07f4de2bb81dbcc3",
+              "url": "https://s.yimg.com/uu/api/res/1.2/MatgL95u1RxOnyw3mEhbrQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/04ddbbe16770dc746b6cb05920fe4a39",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2193,18 +1869,352 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/markets/meta-just-picked-a-fight-with-amazons-cash-cow",
+          "url": "https://247wallst.com/investing/2026/07/03/top-invesco-analyst-the-ai-trade-that-lifted-all-boats-is-over-now-profitability-decides-winners-as-capacity-will-catch-up/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-just-picked-fight-amazons-200700165.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-invesco-analyst-ai-trade-184711944.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e7e001ff-e72e-3697-be7e-24200597be52",
+      "content": {
+        "id": "e7e001ff-e72e-3697-be7e-24200597be52",
+        "contentType": "STORY",
+        "title": "Here is Why Jim Cramer Thinks Meta Platforms (META) is Misunderstood",
+        "description": "",
+        "summary": "Meta Platforms, Inc. (NASDAQ:META) was among the stocks on Jim Cramer’s Mad Money radar as he taught investors how to profit from the upcoming wave of takeovers. Cramer noted how people view the stock, as he said: Third, Meta, down 11% this month. Meta is going out of style because it’s now viewed as nothing […]",
+        "pubDate": "2026-07-03T17:48:29Z",
+        "displayTime": "2026-07-03T17:48:29Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d",
+          "originalWidth": 1920,
+          "originalHeight": 1440,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/viIrbvBW19MWMVXKBlgCGw--~B/aD0xNDQwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d",
+              "width": 1920,
+              "height": 1440,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Zx5QkpRka04r5CYIQ43.xQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-meta-spending-081829530.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-meta-spending-081829530.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "96a2c4ed-6bf6-39ea-9834-7e1b9431087e",
+      "content": {
+        "id": "96a2c4ed-6bf6-39ea-9834-7e1b9431087e",
+        "contentType": "STORY",
+        "title": "Here’s Why Jim Cramer Thinks Alphabet Is Still Cheap",
+        "description": "",
+        "summary": "Alphabet Inc. (NASDAQ:GOOGL) was among the stocks on Jim Cramer’s Mad Money radar as he taught investors how to profit from the upcoming wave of takeovers. Cramer explained why the stock declined in the second quarter, as he commented: Speaking of Google, parent company Alphabet was able to do a giant fundraise not long ago. […]",
+        "pubDate": "2026-07-03T17:45:47Z",
+        "displayTime": "2026-07-03T17:45:47Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/af2bb6bdbc4f56cfaf197a2118a94cf1",
+          "originalWidth": 1920,
+          "originalHeight": 1440,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5i30it7RT8AZBHZBJSSzig--~B/aD0xNDQwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/af2bb6bdbc4f56cfaf197a2118a94cf1",
+              "width": 1920,
+              "height": 1440,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yqglgDyk7EEaoAgem2eUNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/af2bb6bdbc4f56cfaf197a2118a94cf1",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-alphabet-getting-081847382.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-alphabet-getting-081847382.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ebfb45a5-4372-3cff-89d3-bf75ffa8e96f",
+      "content": {
+        "id": "ebfb45a5-4372-3cff-89d3-bf75ffa8e96f",
+        "contentType": "STORY",
+        "title": "These Investors Say Buy Meta Platforms (META) and Ignore SpaceX Hype",
+        "description": "",
+        "summary": "We just covered Avoid SpaceX and Buy These 11 Stocks Instead. Meta Platforms (NASDAQ:META) ranks #2 (see Avoid SpaceX and Buy These 5 Stocks Instead). Number of Hedge Fund Investors: 262 Meta Platforms (NASDAQ:META) is down about 17% so far this year amid fears that Mark Zuckerberg’s AI spending spree might not result in returns. […]",
+        "pubDate": "2026-07-03T17:39:31Z",
+        "displayTime": "2026-07-03T17:39:31Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631",
+          "originalWidth": 750,
+          "originalHeight": 563,
+          "caption": "Jim Cramer Discusses Major Market Questions About Meta Platforms (META)",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/E36Cwz0Ks290vMwF34DxLQ--~B/aD01NjM7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631",
+              "width": 750,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tRCAgpad.Gf.CTf0GLYsrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-meta-platforms-meta-132231039.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-meta-platforms-meta-132231039.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "668f30cc-a460-33a5-b222-339b3baea37b",
+      "content": {
+        "id": "668f30cc-a460-33a5-b222-339b3baea37b",
+        "contentType": "STORY",
+        "title": "3 Core Artificial Intelligence (AI) Market Leaders to Buy with $1,000 Right Now and Hold for the Next 20 Years",
+        "description": "",
+        "summary": "Finding stocks you can comfortably buy and hold for two decades isn't easy.",
+        "pubDate": "2026-07-03T17:06:00Z",
+        "displayTime": "2026-07-03T17:06:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/75f32dd1380a3e61ad257a8010a9ebf7",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Two investors comparing investments.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/fnsBtTgz8L4tDEq4ArpmEg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/75f32dd1380a3e61ad257a8010a9ebf7",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CWJCYM9VLHQkicoydICR2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/75f32dd1380a3e61ad257a8010a9ebf7",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/03/3-core-artificial-intelligence-ai-market-leaders-t/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-core-artificial-intelligence-ai-170600235.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "086ce0c8-5a81-35d2-b37b-f3fbc5f80274",
+      "content": {
+        "id": "086ce0c8-5a81-35d2-b37b-f3fbc5f80274",
+        "contentType": "STORY",
+        "title": "Meta Could Hand Samsung Its Biggest AI Chip Order Yet in $6.5 Billion Deal",
+        "description": "",
+        "summary": "Meta Could Ditch TSMC for Samsung in Massive $6.5 Billion AI Chip Bet",
+        "pubDate": "2026-07-03T16:58:53Z",
+        "displayTime": "2026-07-03T16:58:53Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-could-hand-samsung-biggest-165853956.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-could-hand-samsung-biggest-165853956.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "eeccab63-fe94-35e7-9620-fdf10b6e04bf",
+      "content": {
+        "id": "eeccab63-fe94-35e7-9620-fdf10b6e04bf",
+        "contentType": "STORY",
+        "title": "Meta's AI Payoff Timeline Looks Messier",
+        "description": "",
+        "summary": "Zuckerberg says progress has lagged internal expectations",
+        "pubDate": "2026-07-03T16:58:18Z",
+        "displayTime": "2026-07-03T16:58:18Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/metas-ai-payoff-timeline-looks-165818735.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/metas-ai-payoff-timeline-looks-165818735.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
