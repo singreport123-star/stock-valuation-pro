@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-05T22:56:06.229983",
+    "ts": "2026-07-06T23:00:33.403244",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,41 +137,41 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 612.91003,
-    "open": 607.895,
-    "dayLow": 580.42,
-    "dayHigh": 610.0,
-    "regularMarketPreviousClose": 612.91003,
-    "regularMarketOpen": 607.895,
-    "regularMarketDayLow": 580.42,
-    "regularMarketDayHigh": 610.0,
+    "previousClose": 582.9,
+    "open": 594.84,
+    "dayLow": 581.76,
+    "dayHigh": 603.58,
+    "regularMarketPreviousClose": 582.9,
+    "regularMarketOpen": 594.84,
+    "regularMarketDayLow": 581.76,
+    "regularMarketDayHigh": 603.58,
     "dividendRate": 2.1,
     "dividendYield": 0.36,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
     "beta": 1.246,
-    "trailingPE": 21.18866,
-    "forwardPE": 15.82777,
-    "volume": 21750522,
-    "regularMarketVolume": 21750522,
-    "averageVolume": 17209111,
+    "trailingPE": 21.820791,
+    "forwardPE": 16.299969,
+    "volume": 15914218,
+    "regularMarketVolume": 15914218,
+    "averageVolume": 17335232,
     "averageVolume10days": 20749800,
     "averageDailyVolume10Day": 20749800,
-    "bid": 584.28,
-    "ask": 595.0,
+    "bid": 601.31,
+    "ask": 603.42,
     "bidSize": 1,
-    "askSize": 2,
-    "marketCap": 1479647035392,
+    "askSize": 1,
+    "marketCap": 1523790118912,
     "nonDilutedMarketCap": 1479646943901,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 6.883264,
+    "priceToSalesTrailing12Months": 7.088616,
     "fiftyDayAverage": 605.229,
     "twoHundredDayAverage": 646.51215,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0034262775,
+    "trailingAnnualDividendYield": 0.0036026759,
     "currency": "USD",
     "tradeable": false,
     "enterpriseValue": 1485235945472,
@@ -189,7 +189,7 @@
     "shortPercentOfFloat": 0.0137,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.071053,
+    "priceToBook": 6.252174,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
@@ -205,7 +205,7 @@
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 582.9,
+    "currentPrice": 600.29,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 664.46,
     "targetMeanPrice": 828.16864,
@@ -240,32 +240,20 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "fiftyDayAverageChange": -22.32898,
-    "fiftyDayAverageChangePercent": -0.03689344,
-    "twoHundredDayAverageChange": -63.61212,
-    "twoHundredDayAverageChangePercent": -0.09839277,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-05",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "marketState": "CLOSED",
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.36026344,
-    "postMarketPrice": 585.0,
-    "postMarketChange": 2.0999756,
-    "regularMarketChange": -30.01001,
-    "regularMarketDayRange": "580.42 - 610.0",
+    "postMarketChangePercent": 0.049983982,
+    "postMarketPrice": 600.59,
+    "postMarketChange": 0.30004883,
+    "regularMarketChange": 17.389954,
+    "regularMarketDayRange": "581.76 - 603.58",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 17209111,
-    "fiftyTwoWeekLowChange": 62.640015,
-    "fiftyTwoWeekLowChangePercent": 0.12040136,
+    "averageDailyVolume3Month": 17335232,
+    "fiftyTwoWeekLowChange": 80.02997,
+    "fiftyTwoWeekLowChangePercent": 0.15382686,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -213.34998,
-    "fiftyTwoWeekHighChangePercent": -0.26794344,
+    "fiftyTwoWeekHighChange": -195.96002,
+    "fiftyTwoWeekHighChangePercent": -0.24610364,
     "fiftyTwoWeekChangePercent": -18.85571,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
@@ -277,12 +265,24 @@
     "epsTrailingTwelveMonths": 27.51,
     "epsForward": 36.82768,
     "epsCurrentYear": 32.58671,
-    "priceEpsCurrentYear": 17.887661,
+    "priceEpsCurrentYear": 18.421312,
+    "fiftyDayAverageChange": -4.939026,
+    "fiftyDayAverageChangePercent": -0.00816059,
+    "twoHundredDayAverageChange": -46.222168,
+    "twoHundredDayAverageChangePercent": -0.07149466,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-07-06",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "marketState": "POST",
+    "corporateActions": [],
+    "postMarketTime": 1783378815,
+    "regularMarketTime": 1783368001,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1783036798,
-    "regularMarketTime": 1783022400,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -290,8 +290,8 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -4.8963156,
-    "regularMarketPrice": 582.9,
+    "regularMarketChangePercent": 2.983351,
+    "regularMarketPrice": 600.29,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8422
   },
@@ -1650,32 +1650,32 @@
   },
   "news": [
     {
-      "id": "e6b67a0d-aa1d-4cd8-a91d-db57a7b2d948",
+      "id": "6c1d6f48-260f-4aec-85a5-d1d9e4c24fd4",
       "content": {
-        "id": "e6b67a0d-aa1d-4cd8-a91d-db57a7b2d948",
+        "id": "6c1d6f48-260f-4aec-85a5-d1d9e4c24fd4",
         "contentType": "STORY",
-        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
+        "title": "Stock market today: Dow posts record, S&P 500 and Nasdaq rally on revived AI optimism",
         "description": "",
-        "summary": "A little bit of everything for investors this holiday weekend!",
-        "pubDate": "2026-07-05T12:30:00Z",
-        "displayTime": "2026-07-05T12:30:00Z",
+        "summary": "Gains were concentrated in tech stocks after the Dow closed shy of 53,000.",
+        "pubDate": "2026-07-05T22:56:45Z",
+        "displayTime": "2026-07-06T20:08:47Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/lSKj7si1nb44j4YomictIQ--~B/aD0zNzE2O3c9NTU3NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/8f9bea58-a079-47fa-9777-be765ce25126",
-          "originalWidth": 5574,
-          "originalHeight": 3716,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/N34HTHhzxdmIPYfP1qW0Nw--~B/aD01MjM5O3c9Nzg1ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/de9f9c9c-fc9c-4864-afa5-9c859871b9ce",
+          "originalWidth": 7858,
+          "originalHeight": 5239,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lSKj7si1nb44j4YomictIQ--~B/aD0zNzE2O3c9NTU3NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/8f9bea58-a079-47fa-9777-be765ce25126",
-              "width": 5574,
-              "height": 3716,
+              "url": "https://s.yimg.com/uu/api/res/1.2/N34HTHhzxdmIPYfP1qW0Nw--~B/aD01MjM5O3c9Nzg1ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/de9f9c9c-fc9c-4864-afa5-9c859871b9ce",
+              "width": 7858,
+              "height": 5239,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CJzn5rEuWh1wCXqPqcAbmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/8f9bea58-a079-47fa-9777-be765ce25126",
+              "url": "https://s.yimg.com/uu/api/res/1.2/5SMWCv_5cyNEYm7fjM0oxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/de9f9c9c-fc9c-4864-afa5-9c859871b9ce",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1688,13 +1688,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-6-nasdaq-sp-rise-225645420.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-6-nasdaq-sp-rise-225645420.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1712,32 +1712,32 @@
       }
     },
     {
-      "id": "5f9e7f46-17b6-3276-a62c-6927709abbf0",
+      "id": "415e8c81-a8f4-4381-b804-03a6b8e950c2",
       "content": {
-        "id": "5f9e7f46-17b6-3276-a62c-6927709abbf0",
+        "id": "415e8c81-a8f4-4381-b804-03a6b8e950c2",
         "contentType": "STORY",
-        "title": "Top Analyst strongly resets AMD stock price target",
+        "title": "Micron stock has now plunged to a surprising level",
         "description": "",
-        "summary": "Wall Street just picked a new favorite in the AI chip race, and it isn't the company most investors expect. According to Investing.com, Cantor Fitzgerald analyst C.J. Muse raised his price target on Advanced Micro Devices (AMD) to $700 from $500 on June 29, keeping his Overweight rating. That ...",
-        "pubDate": "2026-07-05T20:33:00Z",
-        "displayTime": "2026-07-05T20:33:00Z",
+        "summary": "Micron hits an interesting level on the charts.",
+        "pubDate": "2026-07-06T14:11:42Z",
+        "displayTime": "2026-07-06T14:11:42Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/194165e2a9574085161982fd02b43c83",
-          "originalWidth": 3840,
-          "originalHeight": 2560,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Kfwa9zbYjbFBJbUzUQy_jg--~B/aD0xODg0O3c9MzM1MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2837ca50-33ca-11ef-9f4f-67e9f9485266_c20fcfb8d9cbb58c1453ac7d236a0d54e8bebb6652939cbb60055968eff429e8.jpg",
+          "originalWidth": 3350,
+          "originalHeight": 1884,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rJ0S0MMZ0rwVwBF0vO7ncw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/194165e2a9574085161982fd02b43c83",
-              "width": 3840,
-              "height": 2560,
+              "url": "https://s.yimg.com/uu/api/res/1.2/Kfwa9zbYjbFBJbUzUQy_jg--~B/aD0xODg0O3c9MzM1MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2837ca50-33ca-11ef-9f4f-67e9f9485266_c20fcfb8d9cbb58c1453ac7d236a0d54e8bebb6652939cbb60055968eff429e8.jpg",
+              "width": 3350,
+              "height": 1884,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/7v6OBC_qXBF.GowmfovOmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/194165e2a9574085161982fd02b43c83",
+              "url": "https://s.yimg.com/uu/api/res/1.2/.hHLo0ejacb5FdFrmCyQDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2837ca50-33ca-11ef-9f4f-67e9f9485266_c20fcfb8d9cbb58c1453ac7d236a0d54e8bebb6652939cbb60055968eff429e8.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1745,18 +1745,80 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/amd-stock-price-target-reset-cantor-fitzgerald",
+          "url": "https://finance.yahoo.com/markets/article/micron-stock-has-now-plunged-to-a-surprising-level-141142114.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-strongly-resets-amd-203300360.html",
+          "url": "https://finance.yahoo.com/markets/article/micron-stock-has-now-plunged-to-a-surprising-level-141142114.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "1e813018-37c4-3db3-9586-2240e481513d",
+      "content": {
+        "id": "1e813018-37c4-3db3-9586-2240e481513d",
+        "contentType": "STORY",
+        "title": "Is Meta Platforms a Bargain or a Value Trap?",
+        "description": "",
+        "summary": "Meta Platforms has a bad track record of overspending on emerging technology.",
+        "pubDate": "2026-07-06T22:05:00Z",
+        "displayTime": "2026-07-06T22:05:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5e386875b6e5c604e38e64b240b6c9c8",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Investor analyzing stock.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/H9ZLeNeQVOh2EefyJTap0g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5e386875b6e5c604e38e64b240b6c9c8",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ofonYtKNLal4fG5PAMvuSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5e386875b6e5c604e38e64b240b6c9c8",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/06/is-meta-platforms-a-bargain-or-a-value-trap/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-bargain-value-trap-220500677.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1774,15 +1836,315 @@
       }
     },
     {
-      "id": "a244e9fe-85da-31a6-8cfe-bd9a136708ca",
+      "id": "817b07e9-9ed1-36f7-bf11-a334d8ab3f70",
       "content": {
-        "id": "a244e9fe-85da-31a6-8cfe-bd9a136708ca",
+        "id": "817b07e9-9ed1-36f7-bf11-a334d8ab3f70",
         "contentType": "STORY",
-        "title": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
+        "title": "Meta Platforms Is Entering the Neocloud Business. Here's Why CoreWeave Investors Should Not Worry.",
         "description": "",
-        "summary": "Inveting.com -- Meta’s (NASDAQ: META) new planned entry into the cloud business makes it a potential competitor to Amazon’s AWS (NASDAQ: AMZN), Microsoft’s Azure (NASDAQ: MSFT), and Google Cloud (NASDAQ: GOOGL). As the company considers two potential offerings, a hosted API/model access service comparable to AWS Bedrock and a neocloud-like raw silicon offering, Morgan Stanley analysts offer 5 takes exploring the monetisation pathways and potential of META’s announcement.",
-        "pubDate": "2026-07-05T19:50:05Z",
-        "displayTime": "2026-07-05T19:50:05Z",
+        "summary": "CoreWeave stock holds competitive advantages that can solidify its business.",
+        "pubDate": "2026-07-06T21:50:00Z",
+        "displayTime": "2026-07-06T21:50:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a9d41bcae3c336c8670c2a3aa6fadc30",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": " CoreWeave's logo.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gWPDQp5dlPemmvkp8snrwg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a9d41bcae3c336c8670c2a3aa6fadc30",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GeqnfS9UjBNoEiNtdsJlqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a9d41bcae3c336c8670c2a3aa6fadc30",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/06/meta-platforms-is-entering-the-neocloud-business-h/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-entering-neocloud-business-215000240.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "263b5d35-71c3-3566-a96d-6c0e4f7c3d86",
+      "content": {
+        "id": "263b5d35-71c3-3566-a96d-6c0e4f7c3d86",
+        "contentType": "STORY",
+        "title": "How SK Hynix Can Save the AI Rally—or Send Tech Stocks Tumbling Again",
+        "description": "",
+        "summary": "SK Hynix’s planned U.S. listing this week will test the AI-fueled chip rally, offering investors a chance to buy a memory chip maker not named Micron Technology—or to stay away from a group that may have come too far, too fast.  U.S. investors can get exposure to the country with the iShares MSCI Korea exchange-traded fund, but buying  Samsung Electronics  or SK Hynix individually has been almost impossible.",
+        "pubDate": "2026-07-06T19:27:00Z",
+        "displayTime": "2026-07-06T19:27:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/263b5d35-71c3-3566-a96d-6c0e4f7c3d86/how-sk-hynix-can-save-the-ai.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/658bcc446f858ab88f9d5f52a080b587",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ppbODdBqxkfBx5azksfdfg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/658bcc446f858ab88f9d5f52a080b587",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xNeS91bf3wkPkUslLiYqrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/658bcc446f858ab88f9d5f52a080b587",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/sk-hynix-stock-listing-memory-chip-tech-rally-aa517f82?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c08ee3d3-5905-312d-b585-9b6eefb74687",
+      "content": {
+        "id": "c08ee3d3-5905-312d-b585-9b6eefb74687",
+        "contentType": "STORY",
+        "title": "AMD Feels Goldman’s Love, and the Stock Jumps",
+        "description": "",
+        "summary": "AMD stock trades near the top of the S&P 500 as Goldman Sachs raised its price target on expectations of continued AI demand.",
+        "pubDate": "2026-07-06T19:01:00Z",
+        "displayTime": "2026-07-06T19:01:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/c08ee3d3-5905-312d-b585-9b6eefb74687/amd-feels-goldman%E2%80%99s-love-and.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/154aff7b5e5026a4ea5a437057b6f862",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/oBYo.rCSGN54L5swpERlCQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/154aff7b5e5026a4ea5a437057b6f862",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Dk.d6nB6qX80VAp3YQWAJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/154aff7b5e5026a4ea5a437057b6f862",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e395ce85-b75c-3f74-b330-ca519f444dfc",
+      "content": {
+        "id": "e395ce85-b75c-3f74-b330-ca519f444dfc",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg wants in on prediction markets. Meta's reported plans sent these stocks lower as a result",
+        "description": "",
+        "summary": "A New York Times report sparked fresh questions about the future of online betting.",
+        "pubDate": "2026-07-06T18:55:00Z",
+        "displayTime": "2026-07-06T18:55:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/moneywise_ecomm_711/13fc6326427e42c155bbf409f8c43ade",
+          "originalWidth": 4000,
+          "originalHeight": 2250,
+          "caption": "Mark Zuckerberg shakes hands with Merab Dvalishvili following his win in the UFC bantamweight championship fight during UFC 320.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bEugfl4nuifI2ZRQnF71Tw--~B/aD0yMjUwO3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/moneywise_ecomm_711/13fc6326427e42c155bbf409f8c43ade",
+              "width": 4000,
+              "height": 2250,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/kuRou64qRaU..HJi2vCZPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/13fc6326427e42c155bbf409f8c43ade",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Moneywise",
+          "url": "https://moneywise.com/",
+          "sourceId": "moneywise_ecomm_711"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/options/articles/mark-zuckerberg-wants-prediction-markets-185500300.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/options/articles/mark-zuckerberg-wants-prediction-markets-185500300.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "92ffe381-1e6a-32f3-a75c-19ec0bbaa38b",
+      "content": {
+        "id": "92ffe381-1e6a-32f3-a75c-19ec0bbaa38b",
+        "contentType": "STORY",
+        "title": "Amazon Could be On the Cusp of Reshaping the Artificial Intelligence (AI) Chip Market. Should Nvidia Investors be Worried?",
+        "description": "",
+        "summary": "Amazon could start selling its Trainium chips to third-party customers in the near future.",
+        "pubDate": "2026-07-06T18:48:14Z",
+        "displayTime": "2026-07-06T18:48:14Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/70649567c705a6c504c3f0277b2c9912",
+          "originalWidth": 1400,
+          "originalHeight": 700,
+          "caption": "An illustration of an AI chip.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/4x9ex3TqlFETurxeCSR6iQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/70649567c705a6c504c3f0277b2c9912",
+              "width": 1400,
+              "height": 700,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/euKv.hwQhSf6b2fQMIn5_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/70649567c705a6c504c3f0277b2c9912",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/06/amazon-could-be-on-the-cusp-of-reshaping-the-artif/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/amazon-could-cusp-reshaping-artificial-184814235.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "31ae4d58-0170-334e-ac2d-685a3cfdb17e",
+      "content": {
+        "id": "31ae4d58-0170-334e-ac2d-685a3cfdb17e",
+        "contentType": "STORY",
+        "title": "Meta capex to surge in 2027, neocloud fears ’erroneous’ - SemiAnalysis",
+        "description": "",
+        "summary": "Investing.com -- Meta Platforms Inc (NASDAQ:META) has contracted over 5GW of datacenter capacity across cloud and colocation in just the first half of 2026, and research firm SemiAnalysis argues the company's compute buildout is nowhere near its peak, projecting that Meta's 2027 capital expenditure will be \"shockingly high\" and that fears of it cannibalizing neocloud rivals are misplaced.",
+        "pubDate": "2026-07-06T18:46:17Z",
+        "displayTime": "2026-07-06T18:46:17Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -1793,13 +2155,13 @@
           "sourceId": "investing_com_631"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/analyst-shares-5-takes-neocloud-195005562.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-capex-surge-2027-neocloud-184617902.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/analyst-shares-5-takes-neocloud-195005562.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-capex-surge-2027-neocloud-184617902.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1817,385 +2179,32 @@
       }
     },
     {
-      "id": "7dc1b56f-bf18-347b-9c22-6f838e0021ca",
+      "id": "a0e9eab3-a4fd-34cd-ac43-45d7746c5b38",
       "content": {
-        "id": "7dc1b56f-bf18-347b-9c22-6f838e0021ca",
+        "id": "a0e9eab3-a4fd-34cd-ac43-45d7746c5b38",
         "contentType": "STORY",
-        "title": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
+        "title": "The New Business That Flagged AppLovin Stock’s Next Move",
         "description": "",
-        "summary": "A photo finish in market value -- and a chasm in everything underneath it.",
-        "pubDate": "2026-07-05T19:27:00Z",
-        "displayTime": "2026-07-05T19:27:00Z",
+        "summary": "While Wall Street was still sizing up its gaming empire, AppLovin was quietly building a second, faster-growing one right on its earnings calls.",
+        "pubDate": "2026-07-06T18:36:41Z",
+        "displayTime": "2026-07-06T18:36:41Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/e8a45e32c37bf32ae9a673b0e4293766",
-          "originalWidth": 1400,
-          "originalHeight": 787,
-          "caption": "A green stock chart, with a bull, showing a price rising.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JD2jkj8edeheH0DFpQ8p9Q--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e8a45e32c37bf32ae9a673b0e4293766",
-              "width": 1400,
-              "height": 787,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8MxIQlkIg08Aqf1R3kWBxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e8a45e32c37bf32ae9a673b0e4293766",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/05/meta-and-tesla-are-suddenly-worth-the-same-148-tri/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-tesla-suddenly-worth-same-192700154.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f232a1ab-312d-399e-9499-0a0bd8d0946a",
-      "content": {
-        "id": "f232a1ab-312d-399e-9499-0a0bd8d0946a",
-        "contentType": "STORY",
-        "title": "3 Smart Stocks to Buy Now",
-        "description": "",
-        "summary": "The market is giving investors a screaming deal on a handful of stocks.",
-        "pubDate": "2026-07-05T15:50:00Z",
-        "displayTime": "2026-07-05T15:50:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/b55385cf36df24026e29b55a31528075",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Team leader presenting on stocks with tablet in hand and large monitor behind them. ",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KOQpOPPpY3zIAfG0bCUldg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b55385cf36df24026e29b55a31528075",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/16LgITLQyi5wZAKEL06RiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b55385cf36df24026e29b55a31528075",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/05/3-smart-stocks-to-buy-now/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-smart-stocks-buy-now-155000938.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "654fbf42-2c5d-39b6-a89b-44bbfbe03fd3",
-      "content": {
-        "id": "654fbf42-2c5d-39b6-a89b-44bbfbe03fd3",
-        "contentType": "STORY",
-        "title": "1 Thing That Could Send Meta Platforms Stock Soaring in 2026",
-        "description": "",
-        "summary": "Meta Platforms trades at an incredible discount, and its growth is poised to accelerate.",
-        "pubDate": "2026-07-05T14:20:00Z",
-        "displayTime": "2026-07-05T14:20:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/8b590a49d14dfb8bcb20061d2c0b6352",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "A person looks at social media on their smartphone and laptop.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.eaS.fqa8UiJJtUpCz9fnw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8b590a49d14dfb8bcb20061d2c0b6352",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nImcCy7gj_79V5xvmnWQyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8b590a49d14dfb8bcb20061d2c0b6352",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/05/1-thing-that-could-send-meta-platforms-stock-soar/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-thing-could-send-meta-142000275.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a08d06a7-3a34-3e7f-8fb8-1a65b52ae975",
-      "content": {
-        "id": "a08d06a7-3a34-3e7f-8fb8-1a65b52ae975",
-        "contentType": "STORY",
-        "title": "Why CoreWeave Stock Plummeted This Week",
-        "description": "",
-        "summary": "Meta Platform's entry into the compute-as-a-service business could have big implications for CoreWeave.",
-        "pubDate": "2026-07-05T11:38:42Z",
-        "displayTime": "2026-07-05T11:38:42Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/33782afccc9bcc0d4b8f02179ee3f17d",
-          "originalWidth": 1400,
-          "originalHeight": 1118,
-          "caption": "Chart lines going down over a pile of cash.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8SpBUZILzLZABoCCMWW6Zg--~B/aD0xMTE4O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/33782afccc9bcc0d4b8f02179ee3f17d",
-              "width": 1400,
-              "height": 1118,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uhpjZEskRGf35O9cNwqXCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/33782afccc9bcc0d4b8f02179ee3f17d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/05/why-coreweave-stock-plummeted-this-week/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-stock-plummeted-week-113842685.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "592320b3-874c-3210-b23d-7d5f50ac95d1",
-      "content": {
-        "id": "592320b3-874c-3210-b23d-7d5f50ac95d1",
-        "contentType": "STORY",
-        "title": "Down 35%, Is MercadoLibre Stock a Better Buy than SpaceX and the \"Magnificent Seven\" Stocks in July?",
-        "description": "",
-        "summary": "The largest-cap stocks may have limited upside.",
-        "pubDate": "2026-07-05T11:20:00Z",
-        "displayTime": "2026-07-05T11:20:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/34ce160170a1b849a292d4f98d03d152",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "Person sitting with a credit card and clothing bags.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wgRQfetZjk0N4vyUQJnzIA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/34ce160170a1b849a292d4f98d03d152",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3rklF6qXRWZmtKi42Vj8rw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/34ce160170a1b849a292d4f98d03d152",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/05/down-35-is-mercadolibre-a-better-buy-than-spacex-a/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/down-35-mercadolibre-stock-better-112000441.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b843c2a1-dc75-3727-9073-2850b6ac9c5d",
-      "content": {
-        "id": "b843c2a1-dc75-3727-9073-2850b6ac9c5d",
-        "contentType": "STORY",
-        "title": "Nvidia Supplier Hon Hai Reports Surging Sales on Solid AI Demand",
-        "description": "",
-        "summary": "(Bloomberg) -- Nvidia Corp.’s server assembly partner Hon Hai Precision Industry Co. reported a stronger-than-expected increase in quarterly sales, a sign of sustained AI demand.Most Read from BloombergWhy the Great American State Fair Looks So EmptyOil’s Supply Wave, Tumbling Prices Rekindle Fears of Global GlutBrazil Freezes $2 Billion, Pursues Arrests After US SanctionTankers U-Turn in Hormuz, With Some Taking Iran Route InsteadExxon to Change Name for First Time in Decades After RedomicileRe",
-        "pubDate": "2026-07-05T07:47:23Z",
-        "displayTime": "2026-07-05T07:47:23Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-hon-hai-reports-074723309.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-hon-hai-reports-074723309.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "cecb2a24-2d80-36ff-bd80-9419d49893d0",
-      "content": {
-        "id": "cecb2a24-2d80-36ff-bd80-9419d49893d0",
-        "contentType": "STORY",
-        "title": "Meta’s next AI bet has one major catch for investors",
-        "description": "",
-        "summary": "Meta Platforms (META) has spent much of the artificial intelligence boom asking investors to trust the bill. But now Wall Street might finally be getting a clearer answer on how Mark Zuckerberg plans to turn that spending into revenue. Meta is establishing a cloud business to sell spare AI ...",
-        "pubDate": "2026-07-04T21:47:00Z",
-        "displayTime": "2026-07-04T21:47:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/bef2856e3e4ef366e522b8946b81c348",
-          "originalWidth": 3840,
-          "originalHeight": 2555,
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/b873e06c110baeb7d29ba6df6ec3cafb",
+          "originalWidth": 1280,
+          "originalHeight": 721,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lvFQNNMxDKrEPymTtwRgIw--~B/aD0yNTU1O3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/bef2856e3e4ef366e522b8946b81c348",
-              "width": 3840,
-              "height": 2555,
+              "url": "https://s.yimg.com/uu/api/res/1.2/jZNBbCY.0PMC6nYnCandqA--~B/aD03MjE7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/b873e06c110baeb7d29ba6df6ec3cafb",
+              "width": 1280,
+              "height": 721,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Xxev4dqmFK1PJctHljYSnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/bef2856e3e4ef366e522b8946b81c348",
+              "url": "https://s.yimg.com/uu/api/res/1.2/1OpMLAv5oBxLVkp4eCzdaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/b873e06c110baeb7d29ba6df6ec3cafb",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2203,18 +2212,18 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/",
+          "sourceId": "trefis_142"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/metas-next-ai-bet-has-one-major-catch-for-investors",
+          "url": "https://www.trefis.com/articles/605502/the-new-business-that-flagged-applovin-stocks-next-move/2026-07-06",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-next-ai-bet-one-214700848.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/business-flagged-applovin-stock-next-183641024.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
