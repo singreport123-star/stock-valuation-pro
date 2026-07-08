@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-07T22:54:37.664255",
+    "ts": "2026-07-08T22:57:59.666387",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,40 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 600.29004,
-    "open": 608.0,
-    "dayLow": 603.66,
-    "dayHigh": 625.37,
-    "regularMarketPreviousClose": 600.29004,
-    "regularMarketOpen": 608.0,
-    "regularMarketDayLow": 603.66,
-    "regularMarketDayHigh": 625.37,
+    "previousClose": 615.58,
+    "open": 614.385,
+    "dayLow": 598.0105,
+    "dayHigh": 616.0,
+    "regularMarketPreviousClose": 615.58,
+    "regularMarketOpen": 614.385,
+    "regularMarketDayLow": 598.0105,
+    "regularMarketDayHigh": 616.0,
+    "dividendRate": 2.1,
+    "dividendYield": 0.34,
+    "exDividendDate": 1781481600,
+    "payoutRatio": 0.0764,
     "beta": 1.246,
-    "trailingPE": 22.392872,
-    "forwardPE": 16.715145,
-    "volume": 18230404,
-    "regularMarketVolume": 18230404,
-    "averageVolume": 17467213,
-    "averageVolume10days": 19630500,
-    "averageDailyVolume10Day": 19630500,
-    "bid": 616.04,
-    "ask": 616.65,
-    "bidSize": 1,
-    "askSize": 2,
-    "marketCap": 1562602635264,
-    "nonDilutedMarketCap": 1479646943901,
+    "trailingPE": 21.915697,
+    "forwardPE": 16.373953,
+    "volume": 13311707,
+    "regularMarketVolume": 13311707,
+    "averageVolume": 17246391,
+    "averageVolume10days": 19946600,
+    "averageDailyVolume10Day": 19946600,
+    "bid": 607.01,
+    "ask": 623.0,
+    "bidSize": 2,
+    "askSize": 1,
+    "marketCap": 1530973782016,
+    "nonDilutedMarketCap": 1562602617476,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.2691703,
-    "fiftyDayAverage": 603.7404,
-    "twoHundredDayAverage": 645.6186,
+    "priceToSalesTrailing12Months": 7.122034,
+    "fiftyDayAverage": 602.869,
+    "twoHundredDayAverage": 644.8179,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0034983088,
+    "trailingAnnualDividendYield": 0.0034114167,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1529379160064,
+    "enterpriseValue": 1568191676416,
     "profitMargins": 0.32837,
     "floatShares": 2192715434,
     "sharesOutstanding": 2196045588,
@@ -180,28 +184,28 @@
     "dateShortInterest": 1781481600,
     "sharesPercentSharesOut": 0.0117999995,
     "heldPercentInsiders": 0.00102,
-    "heldPercentInstitutions": 0.79279,
+    "heldPercentInstitutions": 0.79263,
     "shortRatio": 1.69,
     "shortPercentOfFloat": 0.0137,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.4114237,
+    "priceToBook": 6.281649,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.49,
-    "forwardEps": 36.82768,
-    "pegRatio": 0.84,
-    "enterpriseToRevenue": 7.115,
-    "enterpriseToEbitda": 13.991,
-    "52WeekChange": -0.16703898,
-    "SandP52WeekChange": 0.21073103,
+    "trailingEps": 27.52,
+    "forwardEps": 36.83411,
+    "pegRatio": 0.87,
+    "enterpriseToRevenue": 7.295,
+    "enterpriseToEbitda": 14.347,
+    "52WeekChange": -0.15993887,
+    "SandP52WeekChange": 0.19807422,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 615.58,
+    "currentPrice": 603.12,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 664.46,
     "targetMeanPrice": 828.16864,
@@ -236,49 +240,6 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1783464871,
-    "regularMarketTime": 1783454401,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.01299865,
-    "postMarketPrice": 615.5,
-    "postMarketChange": -0.08001709,
-    "regularMarketChange": 15.289978,
-    "regularMarketDayRange": "603.66 - 625.37",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 17467213,
-    "fiftyTwoWeekLowChange": 95.32001,
-    "fiftyTwoWeekLowChangePercent": 0.1832161,
-    "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -180.66998,
-    "fiftyTwoWeekHighChangePercent": -0.22690108,
-    "fiftyTwoWeekChangePercent": -16.703897,
-    "dividendDate": 1782345600,
-    "earningsTimestamp": 1777492800,
-    "earningsTimestampStart": 1785355200,
-    "earningsTimestampEnd": 1785355200,
-    "earningsCallTimestampStart": 1777498200,
-    "earningsCallTimestampEnd": 1777498200,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.49,
-    "epsForward": 36.82768,
-    "epsCurrentYear": 32.58671,
-    "priceEpsCurrentYear": 18.890522,
-    "fiftyDayAverageChange": 11.8396,
-    "fiftyDayAverageChangePercent": 0.019610414,
-    "twoHundredDayAverageChange": -30.038574,
-    "twoHundredDayAverageChangePercent": -0.046526812,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-07",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "marketState": "POST",
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -286,10 +247,53 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 2.5470984,
-    "regularMarketPrice": 615.58,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "corporateActions": [],
+    "postMarketTime": 1783551470,
+    "regularMarketTime": 1783540800,
+    "regularMarketChangePercent": -2.0241108,
+    "regularMarketPrice": 603.12,
+    "marketState": "POST",
+    "cryptoTradeable": false,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": 0.067155674,
+    "postMarketPrice": 603.525,
+    "postMarketChange": 0.4050293,
+    "regularMarketChange": -12.460022,
+    "regularMarketDayRange": "598.0105 - 616.0",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 17246391,
+    "fiftyTwoWeekLowChange": 82.859985,
+    "fiftyTwoWeekLowChangePercent": 0.15926649,
+    "fiftyTwoWeekRange": "520.26 - 796.25",
+    "fiftyTwoWeekHighChange": -193.13,
+    "fiftyTwoWeekHighChangePercent": -0.24254946,
+    "fiftyTwoWeekChangePercent": -15.993887,
+    "dividendDate": 1782345600,
+    "earningsTimestamp": 1777492800,
+    "earningsTimestampStart": 1785355200,
+    "earningsTimestampEnd": 1785355200,
+    "earningsCallTimestampStart": 1777498200,
+    "earningsCallTimestampEnd": 1777498200,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 27.52,
+    "epsForward": 36.83411,
+    "epsCurrentYear": 32.58671,
+    "priceEpsCurrentYear": 18.508158,
+    "fiftyDayAverageChange": 0.25097656,
+    "fiftyDayAverageChangePercent": 0.00041630364,
+    "twoHundredDayAverageChange": -41.697876,
+    "twoHundredDayAverageChangePercent": -0.06466613,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-07-08",
+    "averageAnalystRating": "1.3 - Strong Buy",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8422
+    "trailingPegRatio": 0.8894
   },
   "financial_statements": {
     "income": {
@@ -1632,6 +1636,7 @@
     },
     "calendar": {
       "Dividend Date": "2026-06-25",
+      "Ex-Dividend Date": "2026-06-15",
       "Earnings Date": [
         "2026-07-29"
       ],
@@ -1645,32 +1650,32 @@
   },
   "news": [
     {
-      "id": "7c2bdadd-52a5-414c-8164-1beeb2bfe16d",
+      "id": "697ccff8-570c-4943-b392-a8d8ac4f69e3",
       "content": {
-        "id": "7c2bdadd-52a5-414c-8164-1beeb2bfe16d",
-        "contentType": "VIDEO",
-        "title": "DeepSeek looks to reduce reliance on Nvidia with own AI chip",
-        "description": "<p>Yahoo Finance's Dan Howley joins Josh Lipton to examine DeepSeek's development of a custom AI chip to bypass U.S. export restrictions and reduce its reliance on Nvidia.</p>",
-        "summary": "Yahoo Finance's Dan Howley joins Josh Lipton to examine DeepSeek's development of a custom AI chip to bypass U.S. export restrictions and reduce its reliance on Nvidia.",
-        "pubDate": "2026-07-07T20:33:13Z",
-        "displayTime": "",
+        "id": "697ccff8-570c-4943-b392-a8d8ac4f69e3",
+        "contentType": "STORY",
+        "title": "Meta is expanding its data center build-out to Canada",
+        "description": "",
+        "summary": "Meta says it will build its first data center in Canada.",
+        "pubDate": "2026-07-08T20:35:57Z",
+        "displayTime": "2026-07-08T20:35:57Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/TxEKUHc7wqe3A0WDPrvIjw--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/11aa5ea6-d957-4e19-b1a9-708338ea1cba",
-          "originalWidth": 6048,
-          "originalHeight": 4024,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/E8A0bZAYagXnsDrh81ENtQ--~B/aD0zMDkzO3c9NTQ5ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/61dff96f-b87d-4c5f-a5cb-a46f09a963af_6a31163784695ffa484afb6da600f3142ee31ad8b9bfbdd14824c78ab2869bef.jpg",
+          "originalWidth": 5498,
+          "originalHeight": 3093,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/TxEKUHc7wqe3A0WDPrvIjw--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/11aa5ea6-d957-4e19-b1a9-708338ea1cba",
-              "width": 6048,
-              "height": 4024,
+              "url": "https://s.yimg.com/uu/api/res/1.2/E8A0bZAYagXnsDrh81ENtQ--~B/aD0zMDkzO3c9NTQ5ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/61dff96f-b87d-4c5f-a5cb-a46f09a963af_6a31163784695ffa484afb6da600f3142ee31ad8b9bfbdd14824c78ab2869bef.jpg",
+              "width": 5498,
+              "height": 3093,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aFM5Qsx1rFTxumlnZdU8DQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/11aa5ea6-d957-4e19-b1a9-708338ea1cba",
+              "url": "https://s.yimg.com/uu/api/res/1.2/alD4IZnPylinuEKN4Cic3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/61dff96f-b87d-4c5f-a5cb-a46f09a963af_6a31163784695ffa484afb6da600f3142ee31ad8b9bfbdd14824c78ab2869bef.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1678,137 +1683,18 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
+          "url": "https://finance.yahoo.com/technology/article/meta-is-expanding-its-data-center-build-out-to-canada-203557315.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "ff9393e0-ea63-4381-81f5-3418e6d541fb",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Eli Lilly price target boost, Vertex-Crinetics deal, Meta's new social media lawsuit",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ZWtrJboT83WvvfV4n1QA3w--~B/aD0yMjUwO3c9Mzk5OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7db24478-5377-4809-886d-439fade6a92a_77163c45ddf2aaddb438ca04f78ff15d89536a932d194d7cb305766a162d352e.jpg",
-                  "originalWidth": 3999,
-                  "originalHeight": 2250,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/eli-lilly-price-target-boost-vertex-crinetics-deal-metas-new-social-media-lawsuit-192844891.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/eli-lilly-price-target-boost-vertex-crinetics-deal-metas-new-social-media-lawsuit-192844891.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "d0f5fee5-1a93-47ba-9109-d1d8317908cc",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "The government wants its websites to be as shiny as Silicon Valley's. An Airbnb founder is helping.",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/XaRBRTjQNBtUred8CaJbTA--~B/aD00OTA2O3c9NzM1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/a0f000bf-87fc-4389-b0f4-377b2575301d",
-                  "originalWidth": 7356,
-                  "originalHeight": 4906,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/economy/article/the-government-wants-its-websites-to-be-as-shiny-as-silicon-valleys-an-airbnb-founder-is-helping-153012092.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/economy/article/the-government-wants-its-websites-to-be-as-shiny-as-silicon-valleys-an-airbnb-founder-is-helping-153012092.html"
-                }
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "00eb0d82-986d-4168-83fb-9fe282be02ab",
-      "content": {
-        "id": "00eb0d82-986d-4168-83fb-9fe282be02ab",
-        "contentType": "VIDEO",
-        "title": "Who will be the AI trade's real winners: The makers vs. the takers?",
-        "description": "<p>Samsung Electronics (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/005930.KS/\" data-i13n=\"slk:005930.KS;cpos:1;pos:1\">005930.KS</a>) released preliminary second quarter earnings results on Tuesday, reporting a 19-fold profit jump from a year ago, amounting to $58 billion.</p>\n<p>Morning Brief Host Julie Hyman welcomes Yahoo Finance Senior Business Reporter Ines Ferré and Interactive Brokers chief strategist Steve Sosnick to help break down whether Samsung's breakout numbers still weren't enough to impress Wall Street investors and what it signifies for the broader chip space.</p>",
-        "summary": "Samsung Electronics (005930.KS) released preliminary second quarter earnings results on Tuesday, reporting a 19-fold profit jump from a year ago, amounting to $58 billion. Morning Brief Host Julie Hyman welcomes Yahoo Finance Senior Business Reporter Ines Ferré and Interactive Brokers chief strategist Steve Sosnick to help break down whether Samsung's breakout numbers still weren't enough to impress Wall Street investors and what it signifies for the broader chip space.",
-        "pubDate": "2026-07-07T13:31:55Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/i5pRsGUMPZxcwFqKxi46lg--~B/aD0zMzc1O3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3f6981af-ff55-41e9-a86d-bac0d86e864e_ade9996ad04786f10e425e6b2cde883020792cc4135bda60fc51fa10746a92ad.jpg",
-          "originalWidth": 6000,
-          "originalHeight": 3375,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/i5pRsGUMPZxcwFqKxi46lg--~B/aD0zMzc1O3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3f6981af-ff55-41e9-a86d-bac0d86e864e_ade9996ad04786f10e425e6b2cde883020792cc4135bda60fc51fa10746a92ad.jpg",
-              "width": 6000,
-              "height": 3375,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BTTLZ8zzzUaKxkZx4JWe.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3f6981af-ff55-41e9-a86d-bac0d86e864e_ade9996ad04786f10e425e6b2cde883020792cc4135bda60fc51fa10746a92ad.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/who-will-be-the-ai-trades-real-winners-the-makers-vs-the-takers-133155603.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/who-will-be-the-ai-trades-real-winners-the-makers-vs-the-takers-133155603.html",
+          "url": "https://finance.yahoo.com/technology/article/meta-is-expanding-its-data-center-build-out-to-canada-203557315.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1826,51 +1712,32 @@
       }
     },
     {
-      "id": "25c50347-5ec3-3fb8-9d76-88c7e605780c",
+      "id": "31b4268d-7055-3376-9d5e-6abd0568c6b0",
       "content": {
-        "id": "25c50347-5ec3-3fb8-9d76-88c7e605780c",
+        "id": "31b4268d-7055-3376-9d5e-6abd0568c6b0",
         "contentType": "STORY",
-        "title": "Aptos hits a new quarterly high as token burn rate accelerates",
+        "title": "Meta plans billions for first AI data center in Canada, largest outside the US",
         "description": "",
-        "summary": "Aptos (APT) is burning more of its own token than ever before, and the numbers behind that milestone tell a bigger story about the blockchain network's growth. A high-performance layer-1 blockchain, Aptos is built for speed, scalability, and low-cost transactions. Originally ...",
-        "pubDate": "2026-07-07T22:10:42Z",
-        "displayTime": "2026-07-07T22:10:42Z",
+        "summary": "Facebook and Instagram parent Meta said Wednesday it will invest more than US$9.1 billion to build its first artificial intelligence data center in Canada and its largest outside the United States.  The facility will be built in Sturgeon County, Alberta, and powered by a natural gas-fired plant being developed by a consortium that includes Calgary-based Pembina Pipeline Ltd.  Technology and Innovation Minister Nate Glubish called the project “a big deal for Alberta,” saying the province had created a regulatory framework to attract data center investment.",
+        "pubDate": "2026-07-08T22:20:54Z",
+        "displayTime": "2026-07-08T22:20:54Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/d6c8b853012b80e9f18524307a58fba6",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_hkz.I9ve9jppsHKN.uNPQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/d6c8b853012b80e9f18524307a58fba6",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CB5Tj9kIw.gZlZfLdPeLXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d6c8b853012b80e9f18524307a58fba6",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
+        "thumbnail": null,
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "Associated Press",
+          "url": "https://apnews.com/",
+          "sourceId": "ap.org"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/crypto/innovation/aptos-hits-a-new-quarterly-high-as-token-burn-rate-accelerates",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-plans-billions-first-ai-222054408.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/crypto/articles/aptos-hits-quarterly-high-token-221042796.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-plans-billions-first-ai-222054408.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1888,32 +1755,32 @@
       }
     },
     {
-      "id": "6c223b62-227e-32a8-86ea-a125d76b2ac5",
+      "id": "343584d8-fa82-3439-890e-a375d0ddb249",
       "content": {
-        "id": "6c223b62-227e-32a8-86ea-a125d76b2ac5",
+        "id": "343584d8-fa82-3439-890e-a375d0ddb249",
         "contentType": "STORY",
-        "title": "Meta Platforms (META) Rises As Market Takes a Dip: Key Facts",
+        "title": "Best Stocks to Buy Now in July: CEG for Value, Growth, and 70% Upside",
         "description": "",
-        "summary": "Meta Platforms (META) reached $615.58 at the closing of the latest trading day, reflecting a +2.55% change compared to its last close.",
-        "pubDate": "2026-07-07T21:45:03Z",
-        "displayTime": "2026-07-07T21:45:03Z",
+        "summary": "Buy Constellation Energy (CEG) stock now for long-term growth, dividends, value, and 70% upside as the nuclear power giant and 21st-Century energy star attempts to find its footing at a key technical level.",
+        "pubDate": "2026-07-08T21:20:00Z",
+        "displayTime": "2026-07-08T21:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
-          "originalWidth": 900,
-          "originalHeight": 600,
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/b377808ae754d2e05af8d50c0c09c9ec",
+          "originalWidth": 620,
+          "originalHeight": 453,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
-              "width": 900,
-              "height": 600,
+              "url": "https://s.yimg.com/uu/api/res/1.2/zdwEKO2rzQ7tauRcpQQYVw--~B/aD00NTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b377808ae754d2e05af8d50c0c09c9ec",
+              "width": 620,
+              "height": 453,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Kdbk5MmzfS7bSRdtJx6YgQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+              "url": "https://s.yimg.com/uu/api/res/1.2/xlwZaPdlq3nad.Hm1lzMrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b377808ae754d2e05af8d50c0c09c9ec",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1926,13 +1793,13 @@
           "sourceId": "zacks.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-rises-market-214503269.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-stocks-buy-now-july-212000473.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-rises-market-214503269.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-stocks-buy-now-july-212000473.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1950,337 +1817,32 @@
       }
     },
     {
-      "id": "3841ba95-f5fb-3504-b48b-70f7ed8f3cc7",
+      "id": "03d6e2e3-2148-3889-a535-c038b89cee00",
       "content": {
-        "id": "3841ba95-f5fb-3504-b48b-70f7ed8f3cc7",
+        "id": "03d6e2e3-2148-3889-a535-c038b89cee00",
         "contentType": "STORY",
-        "title": "CoreWeave stock sinks as mag 7 move rattles investors",
+        "title": "Why SpaceX’s Multi-Billion Dollar Debt Sale Is Already Losing Money for Investors",
         "description": "",
-        "summary": "Shares of CoreWeave took a hard hit after news broke that Meta Platforms is building a cloud business to sell spare AI computing power. The tech stock fell sharply over two trading sessions last week, and is currently valued at a market cap of $64.4 billion. Notably, Meta (META) is one of ...",
-        "pubDate": "2026-07-07T21:33:00Z",
-        "displayTime": "2026-07-07T21:33:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/d1235e246c05140c922436d79d601e86",
-          "originalWidth": 3840,
-          "originalHeight": 2560,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/EajaSMKZ6DGAgDWC0DC_Qw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/d1235e246c05140c922436d79d601e86",
-              "width": 3840,
-              "height": 2560,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KPFTMsv9fBhB1k5m6bX4Sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d1235e246c05140c922436d79d601e86",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/meta-ai-cloud-competitor-coreweave-crwv",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-sinks-mag-7-213300871.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b6471109-2c46-303a-99fb-f7279d063adb",
-      "content": {
-        "id": "b6471109-2c46-303a-99fb-f7279d063adb",
-        "contentType": "STORY",
-        "title": "Amazon Stocks Climbs As AI Push Drives $25 Billion Bond Sale",
-        "description": "",
-        "summary": "Amazon stock climbed Tuesday, following reports the tech giant is raising at least $25 billion through a bond offering to support its big investments into AI-related infrastructure.  The Seattle-based Amazon is raising the funds through an eight-part bond sale, according to reports in Bloomberg and the Wall Street Journal.  Amazon disclosed plans for the bond sale in regulatory filings Tuesday but did not disclose the amount.",
-        "pubDate": "2026-07-07T21:29:52Z",
-        "displayTime": "2026-07-07T21:29:52Z",
+        "summary": "SpaceX’s  $25 billion bond deal in late June has proven to be a dud amid apparent investor concern that the company will rely on the debt markets for its massive projected capital spending over the coming years.  In a widely hyped sale, SpaceX sold the $25 billion of debt following its IPO in five bond tranches with maturities ranging from five years to 30 years.  There were reports that the deal was more than three times oversubscribed and SpaceX was able to price the bonds at narrower yield premiums above U.S. Treasuries than had been expected.",
+        "pubDate": "2026-07-08T21:03:00Z",
+        "displayTime": "2026-07-08T21:03:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/b6471109-2c46-303a-99fb-f7279d063adb/amazon-stocks-climbs-as-ai.html",
+        "previewUrl": "https://finance.yahoo.com/m/03d6e2e3-2148-3889-a535-c038b89cee00/why-spacex%E2%80%99s-multi-billion.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/bf91185ce248fe08a047579de51632cd",
-          "originalWidth": 1065,
-          "originalHeight": 600,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3ooJKWkn7kwVy9s06OjpBw--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/bf91185ce248fe08a047579de51632cd",
-              "width": 1065,
-              "height": 600,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Fn5AIl9Q_9thrSIYgmTF0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/bf91185ce248fe08a047579de51632cd",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.investors.com/news/technology/amazon-stock-25-billion-bond-ai-costs-rising/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "da072757-8288-35f9-ad93-c43fc1280521",
-      "content": {
-        "id": "da072757-8288-35f9-ad93-c43fc1280521",
-        "contentType": "STORY",
-        "title": "Trading Day: A chip on our shoulder: Volatile semis drag U.S. stocks lower, crude jumps",
-        "description": "",
-        "summary": "By Stephen Culp NEW YORK, July 7 (Reuters) - Wall Street stocks followed their European counterparts lower amid a chip-driven tech selloff on Tuesday as a flare-up of Middle East tensions sent crude",
-        "pubDate": "2026-07-07T21:08:35Z",
-        "displayTime": "2026-07-07T21:08:35Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters.com/e6ba7cb7141e3c164729bee664aa7e9a",
-          "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "Traders work on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., July 6, 2026. REUTERS/Jeenah Moon",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2TsKrhmOkW89BgZi77GZKg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e6ba7cb7141e3c164729bee664aa7e9a",
-              "width": 800,
-              "height": 533,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IJGxNzYp2st1sZaqbJqVww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e6ba7cb7141e3c164729bee664aa7e9a",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "https://www.reuters.com/",
-          "sourceId": "reuters.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-chip-shoulder-volatile-210324129.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-chip-shoulder-volatile-210324129.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e47ae295-8077-31b5-857a-6d00ea55867d",
-      "content": {
-        "id": "e47ae295-8077-31b5-857a-6d00ea55867d",
-        "contentType": "STORY",
-        "title": "3 Tech Stocks That Are Screaming Buys as the Indexes Reach Record Highs",
-        "description": "",
-        "summary": "Despite a frothy market, these overlooked names trade at low valuations.",
-        "pubDate": "2026-07-07T21:05:00Z",
-        "displayTime": "2026-07-07T21:05:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/325f6c3dcec4fb75327570f0e282a70a",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "A hand wrapped in hundred-dollar bills touches a smartphone.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dWm_0qdNYQGRqmjEtO8Eug--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/325f6c3dcec4fb75327570f0e282a70a",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/EnnzI.Lwg.03j9j5YfQ3yw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/325f6c3dcec4fb75327570f0e282a70a",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/07/tech-stocks-screaming-buys-index-record-high/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-stocks-screaming-buys-210500069.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "1f99a3e5-835c-3a5b-9d22-1b62871b2db3",
-      "content": {
-        "id": "1f99a3e5-835c-3a5b-9d22-1b62871b2db3",
-        "contentType": "STORY",
-        "title": "Why Meta Platforms Stock Is Rising Today",
-        "description": "",
-        "summary": "The company is giving investors a picture of a new offering, and investors like what they see.",
-        "pubDate": "2026-07-07T20:54:12Z",
-        "displayTime": "2026-07-07T20:54:12Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/7d424abee7ed9c774213ebf91cf532c8",
-          "originalWidth": 1200,
-          "originalHeight": 633,
-          "caption": "investor looks at stock chart and celebrates.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GEmLplnICECAUa9CsOwkpQ--~B/aD02MzM7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7d424abee7ed9c774213ebf91cf532c8",
-              "width": 1200,
-              "height": 633,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Al9WyZ2gHa63jRA00ltNBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7d424abee7ed9c774213ebf91cf532c8",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/07/why-meta-platforms-stock-is-rising-today/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-platforms-stock-rising-205412595.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "3903bd54-50b0-3770-8309-92109d15f7f9",
-      "content": {
-        "id": "3903bd54-50b0-3770-8309-92109d15f7f9",
-        "contentType": "STORY",
-        "title": "SpaceX Joins the Nasdaq-100. Why the Stock Dropped.",
-        "description": "",
-        "summary": "SpaceX  trading losses on Tuesday didn’t appear to have much to do with space fundamentals.  Elon Musk’s AI and space company entered the  one of the best-known large-cap growth indexes that tracks the largest nonfinancial companies listed on Nasdaq.  A stock pop was possible, as passive funds snap up shares.",
-        "pubDate": "2026-07-07T20:35:00Z",
-        "displayTime": "2026-07-07T20:35:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/3903bd54-50b0-3770-8309-92109d15f7f9/spacex-joins-the-nasdaq-100-.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/88cc1722d3d6de5fce7a06dc8045c9d6",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/5158c8adca02d06d10d5bb06a994b1ee",
           "originalWidth": 1280,
           "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HwGy..UYbX_wwUzOmaIRKA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/88cc1722d3d6de5fce7a06dc8045c9d6",
+              "url": "https://s.yimg.com/uu/api/res/1.2/UOgxlUFUz8MtVaYVU8tBhw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5158c8adca02d06d10d5bb06a994b1ee",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/E1qfqB.XxXHp.m1YAQ7g.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/88cc1722d3d6de5fce7a06dc8045c9d6",
+              "url": "https://s.yimg.com/uu/api/res/1.2/7692ACkihiZHnLVc9ajfPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/5158c8adca02d06d10d5bb06a994b1ee",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2293,12 +1855,365 @@
           "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/spacex-stock-price-nasdaq-100-addition-a0ab3e4d?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/spacex-bonds-debt-sale-stock-ecb75ccc?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "aced3f1f-f200-3fa5-9e1f-0b41adbec7bc",
+      "content": {
+        "id": "aced3f1f-f200-3fa5-9e1f-0b41adbec7bc",
+        "contentType": "STORY",
+        "title": "Meta to build $9 billion data center in western Canada",
+        "description": "",
+        "summary": "Meta said Wednesday it plans to build a $9 billion data center in western Canada's Alberta province, in what local officials called one of the largest private-sector investments ever in Canada.\"This is one of the largest private-sector investments in Canadian history,\" she told reporters, sporting a cowboy hat to mark the ongoing annual rodeo, the Calgary Stampede.",
+        "pubDate": "2026-07-08T20:45:33Z",
+        "displayTime": "2026-07-08T20:45:33Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/afp.com/dcda12bf4120ad43602dc3617c244c44",
+          "originalWidth": 768,
+          "originalHeight": 512,
+          "caption": "US tech giant Meta is building a massive data center in Canada (SEBASTIEN BOZON)",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/4hBo.5EO9GLoDGM5qZ6zEQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/dcda12bf4120ad43602dc3617c244c44",
+              "width": 768,
+              "height": 512,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/e4yoN3sLU7k_DU.xqJQDIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/dcda12bf4120ad43602dc3617c244c44",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "AFP",
+          "url": "http://www.afp.com/",
+          "sourceId": "afp.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/meta-build-9-billion-data-204533628.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/meta-build-9-billion-data-204533628.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b88e51ae-3c08-3ff6-ba88-8bf65f5fe97b",
+      "content": {
+        "id": "b88e51ae-3c08-3ff6-ba88-8bf65f5fe97b",
+        "contentType": "STORY",
+        "title": "Jim Cramer Sees Tech Rebound And Oracle Upside as Data Center Spending Reshapes Market",
+        "description": "",
+        "summary": "On CNBC’s Squawk on the Street, Jim Cramer made a call that resonated across chip and cloud names: the tech tape is bouncing. And that Oracle may be the most interesting contrarian setup in the group. Alongside Carl Quintanilla and David Faber, Cramer framed Monday’s rally as “revenge of that” Friday selloff, arguing “we’re seeing ... Jim Cramer Sees Tech Rebound And Oracle Upside as Data Center Spending Reshapes Market",
+        "pubDate": "2026-07-08T20:36:41Z",
+        "displayTime": "2026-07-08T20:36:41Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/d68a4fc035f57be39081fb7fdaad5b25",
+          "originalWidth": 780,
+          "originalHeight": 590,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/54tTSQTxCxY1rmGLSv.ROg--~B/aD01OTA7dz03ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d68a4fc035f57be39081fb7fdaad5b25",
+              "width": 780,
+              "height": 590,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/4VE8u8l7c1SCXdd7MFZokQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d68a4fc035f57be39081fb7fdaad5b25",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/08/cramer-sees-tech-rebound-and-oracle-upside-as-data-center-spending-reshapes-market/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/jim-cramer-sees-tech-rebound-203641731.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7513a201-58b0-39cd-bee4-3232b8b5f63c",
+      "content": {
+        "id": "7513a201-58b0-39cd-bee4-3232b8b5f63c",
+        "contentType": "STORY",
+        "title": "Does This News Make Meta Platforms Stock a Buy?",
+        "description": "",
+        "summary": "The stock recently jumped significantly on reports that Wall Street deemed exciting.",
+        "pubDate": "2026-07-08T20:20:00Z",
+        "displayTime": "2026-07-08T20:20:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/65e225289d133e981885c4d5542eaabd",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "Meta Platforms logo.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8kMbBEdWYWacdDmXMy73Zw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/65e225289d133e981885c4d5542eaabd",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/VLIfYe93A3BME4DXoTxmZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/65e225289d133e981885c4d5542eaabd",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/08/does-this-news-make-meta-platforms-stock-a-buy/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-news-meta-platforms-stock-202000804.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bb745140-50de-3939-80d8-0d085425066d",
+      "content": {
+        "id": "bb745140-50de-3939-80d8-0d085425066d",
+        "contentType": "STORY",
+        "title": "Capital Power Enters Long-Term Power Deal for Meta's Data Center in Alberta",
+        "description": "",
+        "summary": "Capital Power (CPX.TO) said Wednesday it entered a long-term energy supply agreement to provide 250",
+        "pubDate": "2026-07-08T20:16:54Z",
+        "displayTime": "2026-07-08T20:16:54Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/capital-power-enters-long-term-201654565.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/capital-power-enters-long-term-201654565.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8f60ba23-30f4-3ce0-a34c-68384a47706f",
+      "content": {
+        "id": "8f60ba23-30f4-3ce0-a34c-68384a47706f",
+        "contentType": "STORY",
+        "title": "Meta breaks ground on first Canadian data center in CA$13 billion Alberta build",
+        "description": "",
+        "summary": "Meta begins construction on its first data center in Canada, a CA$13 billion-plus project in Sturgeon County, Alberta, that will employ 4,000 skilled trade workers at peak construction.",
+        "pubDate": "2026-07-08T20:16:15Z",
+        "displayTime": "2026-07-08T20:16:15Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/blockspace_702/473eae804950e6ec9d1894f50ddf7097",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dypNigpyShwXbcSzqqk4uQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/blockspace_702/473eae804950e6ec9d1894f50ddf7097",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rM6tg96gcdQp1NKA08dT0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/blockspace_702/473eae804950e6ec9d1894f50ddf7097",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Blockspace",
+          "url": "https://blockspace.media/",
+          "sourceId": "blockspace_702"
+        },
+        "canonicalUrl": {
+          "url": "https://blockspace.media/insight/meta-data-center-alberta-canada-2026/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/meta-breaks-ground-first-canadian-201615223.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5ec27fa7-cf35-34ed-a43d-efd425c8d2ec",
+      "content": {
+        "id": "5ec27fa7-cf35-34ed-a43d-efd425c8d2ec",
+        "contentType": "STORY",
+        "title": "The MediaTek Ghost Story Just Dropped the World’s Most Powerful Custom-Silicon Juggernaut Into a 25% Discount Zone",
+        "description": "",
+        "summary": "Broadcom (NASDAQ:AVGO) and Marvell Technology (NASDAQ:MRVL) both sell custom AI silicon and networking chips to hyperscalers. Broadcom trades near $370, roughly 25% below its 52-week high after a Google diversification scare. Marvell has quietly tripled off spring lows. The businesses tell very different stories. Broadcom Posts Records While Marvell Reaccelerates Broadcom’s Q2 FY2026 landed at ... The MediaTek Ghost Story Just Dropped the World’s Most Powerful Custom-Silicon Juggernaut Into a 25",
+        "pubDate": "2026-07-08T19:36:29Z",
+        "displayTime": "2026-07-08T19:36:29Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/19139ae5074e50c0153bbad43b9c3c0d",
+          "originalWidth": 1024,
+          "originalHeight": 699,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tkxnwHsgjIhQNMV2NHfVWQ--~B/aD02OTk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/19139ae5074e50c0153bbad43b9c3c0d",
+              "width": 1024,
+              "height": 699,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6PdFJQGOzK3LV7QjxC9DPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/19139ae5074e50c0153bbad43b9c3c0d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/08/the-mediatek-ghost-story-just-dropped-the-worlds-most-powerful-custom-silicon-juggernaut-into-a-25-discount-zone/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/mediatek-ghost-story-just-dropped-193629940.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
