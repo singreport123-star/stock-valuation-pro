@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-07-09T23:04:38.807661"
+    "ts": "2026-07-10T22:54:29.402125"
   },
   "financials": {
     "annual": {
@@ -23833,6 +23833,41 @@
         "buy": 361457,
         "name": "Investment_Trust",
         "sell": 318232
+      },
+      {
+        "date": "2026-07-10",
+        "stock_id": "2330",
+        "buy": 8317600,
+        "name": "Foreign_Investor",
+        "sell": 13320902
+      },
+      {
+        "date": "2026-07-10",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-07-10",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Investment_Trust",
+        "sell": 559000
+      },
+      {
+        "date": "2026-07-10",
+        "stock_id": "2330",
+        "buy": 79000,
+        "name": "Dealer_self",
+        "sell": 22000
+      },
+      {
+        "date": "2026-07-10",
+        "stock_id": "2330",
+        "buy": 105000,
+        "name": "Dealer_Hedging",
+        "sell": 13000
       }
     ],
     "margin_trading": [],
@@ -23902,32 +23937,94 @@
       }
     },
     {
-      "id": "6e8baca0-b324-3166-b745-36b306c19567",
+      "id": "a35beef5-af03-319a-8df3-12afe9566280",
       "content": {
-        "id": "6e8baca0-b324-3166-b745-36b306c19567",
+        "id": "a35beef5-af03-319a-8df3-12afe9566280",
         "contentType": "STORY",
-        "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
+        "title": "Why Is Meta (META) Stock Soaring Today",
         "description": "",
-        "summary": "Micron and Sandisk soared as the Nasdaq reclaimed key support, but are they actionable? Delta, Taiwan Semi, SK Hynix loom.",
-        "pubDate": "2026-07-09T22:32:30Z",
-        "displayTime": "2026-07-09T22:32:30Z",
+        "summary": "Shares of social network operator Meta Platforms (NASDAQ:META) jumped 5.2% in the afternoon session after a cluster of AI infrastructure and product news reframed the company's heavy capital spending as a path to lower costs, new revenue, and faster growth rather than a pure expense drag.",
+        "pubDate": "2026-07-10T21:03:20Z",
+        "displayTime": "2026-07-10T21:03:20Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+          "originalWidth": 1400,
+          "originalHeight": 700,
+          "caption": "META Cover Image",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ol.OYXaTLDXSb6x604S3Pw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+              "width": 1400,
+              "height": 700,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OJ.q7321ts98DrQRXKRU7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "StockStory",
+          "url": "https://stockstory.org/",
+          "sourceId": "stockstory_922"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-meta-stock-soaring-210320840.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-meta-stock-soaring-210320840.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "082a233e-c56a-3b99-a968-08ce2bfc43f7",
+      "content": {
+        "id": "082a233e-c56a-3b99-a968-08ce2bfc43f7",
+        "contentType": "STORY",
+        "title": "Dow Jones Futures: Big Earnings Due As Market Sets Up; Nvidia, Micron, Sandisk, Robinhood, SpaceX In Focus",
+        "description": "",
+        "summary": "Taiwan Semi, Goldman and GE Aerospace are big earnings due with the market improving. Nvidia, Sandisk, Micron, Robinhood are near buy points.",
+        "pubDate": "2026-07-10T20:35:51Z",
+        "displayTime": "2026-07-10T20:35:51Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/6e8baca0-b324-3166-b745-36b306c19567/dow-jones-futures-micron-.html",
+        "previewUrl": "https://finance.yahoo.com/m/082a233e-c56a-3b99-a968-08ce2bfc43f7/dow-jones-futures-big.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/dd3d8b33d715764a9a678ecf8d0d54d9",
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/5e7ff7b358feaef0efdf2c6d084d69bf",
           "originalWidth": 1000,
           "originalHeight": 563,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CQxZyKUHtUwRNyKBSRQ1HA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/dd3d8b33d715764a9a678ecf8d0d54d9",
+              "url": "https://s.yimg.com/uu/api/res/1.2/0T02XPD5GKU3j2ehXDrdDg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5e7ff7b358feaef0efdf2c6d084d69bf",
               "width": 1000,
               "height": 563,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/I.4j9HzEyh_ZjqLAzvFxqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/dd3d8b33d715764a9a678ecf8d0d54d9",
+              "url": "https://s.yimg.com/uu/api/res/1.2/FVUYWFQy3lHt5R408Eq2iQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/5e7ff7b358feaef0efdf2c6d084d69bf",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23940,7 +24037,7 @@
           "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-micron-sandisk-jump-delta-taiwan-semi-sk-hynix/?src=A00220&yptr=yahoo",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23959,156 +24056,32 @@
       }
     },
     {
-      "id": "2a5c4f1e-2321-3a73-8c12-36d954e3309c",
+      "id": "ec61769c-5a03-32e7-b368-96da86f7f899",
       "content": {
-        "id": "2a5c4f1e-2321-3a73-8c12-36d954e3309c",
+        "id": "ec61769c-5a03-32e7-b368-96da86f7f899",
         "contentType": "STORY",
-        "title": "Semiconductor chip plants cost a ton of money. Here's why",
+        "title": "What's Going On With Nvidia Stock Friday",
         "description": "",
-        "summary": "Chip factories have grown into some of the priciest buildings ever constructed. Machines packed inside actually cost more than the walls around them",
-        "pubDate": "2026-07-09T20:55:24Z",
-        "displayTime": "2026-07-09T20:55:24Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/quartz_855/7c375b3e3bbd39ddec1457db797a977d",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/cBCfskTnM0a5JxLdQVw0jg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/7c375b3e3bbd39ddec1457db797a977d",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Apfm3JwgbLa7Aydd7KHMVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/7c375b3e3bbd39ddec1457db797a977d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Quartz",
-          "url": "https://qz.com/",
-          "sourceId": "quartz_855"
-        },
-        "canonicalUrl": {
-          "url": "https://qz.com/semiconductor-fab-cost-breakdown-hidden-expenses-070626",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/semiconductor-chip-plants-cost-ton-205524588.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "cc7d4795-d5bb-31c6-a58c-40ea77a3fc05",
-      "content": {
-        "id": "cc7d4795-d5bb-31c6-a58c-40ea77a3fc05",
-        "contentType": "STORY",
-        "title": "Nvidia owns the AI chips market. Google, Amazon, and others are coming",
-        "description": "",
-        "summary": "Nvidia has owned the AI hardware market for years. Six tech giants are racing to escape its grip at wildly different speeds",
-        "pubDate": "2026-07-09T20:51:36Z",
-        "displayTime": "2026-07-09T20:51:36Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/quartz_855/07cce720df3b26d155aef54779bf46c8",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jxOn2kPrZrM2MLuvv79WWw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/07cce720df3b26d155aef54779bf46c8",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JO4GYew2fyatwsK2UcmUHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/07cce720df3b26d155aef54779bf46c8",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Quartz",
-          "url": "https://qz.com/",
-          "sourceId": "quartz_855"
-        },
-        "canonicalUrl": {
-          "url": "https://qz.com/custom-ai-chips-openai-google-amazon-microsoft-meta-tesla-070626",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-owns-ai-chips-market-205136413.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "5196a196-f8b3-3dbb-b343-7acd9bca6a1b",
-      "content": {
-        "id": "5196a196-f8b3-3dbb-b343-7acd9bca6a1b",
-        "contentType": "STORY",
-        "title": "SK Hynix’s $26.5 Billion Listing Reopens Asia Route to US Market",
-        "description": "",
-        "summary": "(Bloomberg) -- SK Hynix Inc.’s US share sale is set to boost an ailing vehicle that was once essential for Asian firms looking West, and Wall Street is hoping the frenzy for artificial intelligence infrastructure will encourage competitors to follow their path.Most Read from BloombergMicrosoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video GameNvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom LevelsTrump Vents Anger With Iran and Warns Ceasefire May Be ‘Over’US Military Launches",
-        "pubDate": "2026-07-09T19:18:25Z",
-        "displayTime": "2026-07-09T19:18:25Z",
+        "summary": "Nvidia Stock Rises as Meta's New AI Chip Won't Replace Its GPUs",
+        "pubDate": "2026-07-10T20:00:45Z",
+        "displayTime": "2026-07-10T20:00:45Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": null,
         "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-26-5-billion-191825835.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-nvidia-stock-friday-200045889.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-26-5-billion-191825835.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-nvidia-stock-friday-200045889.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24126,32 +24099,256 @@
       }
     },
     {
-      "id": "22885534-ce73-3698-9845-5e930dcc6502",
+      "id": "98dad3bf-b372-3942-b87f-519d0b910616",
       "content": {
-        "id": "22885534-ce73-3698-9845-5e930dcc6502",
+        "id": "98dad3bf-b372-3942-b87f-519d0b910616",
         "contentType": "STORY",
-        "title": "TSMC Q2 Earnings Preview: Why Should You Buy TSM Stock Before July 16?",
+        "title": "TSMC, ASML Kick Off Semiconductor Earnings; Goldman Sachs, JPMorgan In Financial Parade",
         "description": "",
-        "summary": "TSMC heads into its July 16 earnings with strong AI chip demand, expanding advanced capacity and rising estimates. See what's driving expectations.",
-        "pubDate": "2026-07-09T19:00:00Z",
-        "displayTime": "2026-07-09T19:00:00Z",
+        "summary": "Financial stocks will dominate the upcoming earnings calendar. Also, earnings from semiconductor makers ASML and Taiwan Semiconductor are due.",
+        "pubDate": "2026-07-10T17:19:20Z",
+        "displayTime": "2026-07-10T17:19:20Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/98dad3bf-b372-3942-b87f-519d0b910616/tsmc-asml-kick-off.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/f0e323356842efa462e9398e6f8c7ef2",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_IMXvM9A7mBZgdMV.vO.wQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f0e323356842efa462e9398e6f8c7ef2",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/hzkrczZWLmsHzUw1YhLV6Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/f0e323356842efa462e9398e6f8c7ef2",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/research/earnings-preview/tsmc-asml-kick-off-semiconductor-earnings-goldman-sachs-jpmorgan-in-financial-parade/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "981a85f7-75fd-3d09-b195-d5c6b7e9fb62",
+      "content": {
+        "id": "981a85f7-75fd-3d09-b195-d5c6b7e9fb62",
+        "contentType": "STORY",
+        "title": "Nvidia Supplier Plans U.S. Facility",
+        "description": "",
+        "summary": "King Yuan Electronics could invest up to $1.4 billion as chip production expands closer to U.S. customers.",
+        "pubDate": "2026-07-10T17:06:45Z",
+        "displayTime": "2026-07-10T17:06:45Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/nvidia-supplier-plans-u-facility-170645330.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/nvidia-supplier-plans-u-facility-170645330.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7437b3a1-3fad-3e45-bc17-b9177222621e",
+      "content": {
+        "id": "7437b3a1-3fad-3e45-bc17-b9177222621e",
+        "contentType": "STORY",
+        "title": "XSD vs. SMH: Should Your Semiconductor ETF Be Equal-Weight or Cap-Weight?",
+        "description": "",
+        "summary": "The SPDR S&P Semiconductor ETF (NYSEARCA:XSD) and the VanEck Semiconductor ETF (NASDAQ:SMH) both offer exposure to semiconductors, yet they are two very different bets. XSD spreads chips money almost evenly across roughly 40 U.S. semiconductor names. SMH funnels most of its dollars into the 25 largest, tilting hard toward the AI mega-caps. Over the last ... XSD vs. SMH: Should Your Semiconductor ETF Be Equal-Weight or Cap-Weight?",
+        "pubDate": "2026-07-10T16:44:26Z",
+        "displayTime": "2026-07-10T16:44:26Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/23df8c4c88a5320240bdef0f3a4067f3",
+          "originalWidth": 1500,
+          "originalHeight": 840,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1ewu_uwX1LNFVGCxV5Zeag--~B/aD04NDA7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/23df8c4c88a5320240bdef0f3a4067f3",
+              "width": 1500,
+              "height": 840,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NeHUSC0MciS8Xgr8Apq9Sw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/23df8c4c88a5320240bdef0f3a4067f3",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/etf/2026/07/10/xsd-vs-smh-should-your-semiconductor-etf-be-equal-weight-or-cap-weight/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xsd-vs-smh-semiconductor-etf-164426078.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "15531a7c-2818-3d2a-ac55-e978f7ebb286",
+      "content": {
+        "id": "15531a7c-2818-3d2a-ac55-e978f7ebb286",
+        "contentType": "STORY",
+        "title": "A Potential New Rival Wants to Undercut TSMC. Here's What Investors Need to Know.",
+        "description": "",
+        "summary": "Rapidus hopes to mass-produce 2 nm chips in 2027.",
+        "pubDate": "2026-07-10T16:41:58Z",
+        "displayTime": "2026-07-10T16:41:58Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/b324321a15d50fa09fb85d96c388e00b",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "TSMC logo on a red background",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yjDtIPVcaMvwu8anMViqPQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b324321a15d50fa09fb85d96c388e00b",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xx.H.IsVh.5XwTn51ViBwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b324321a15d50fa09fb85d96c388e00b",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/10/a-potential-new-rival-wants-to-undercut-tsmc-heres-what-investors-need-to-know/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/potential-rival-wants-undercut-tsmc-164158030.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a96fd1c8-7faa-326f-8d2d-b631f2489323",
+      "content": {
+        "id": "a96fd1c8-7faa-326f-8d2d-b631f2489323",
+        "contentType": "STORY",
+        "title": "Pre-Markets Muted as Wall Street Heading for a Winning Week",
+        "description": "",
+        "summary": "Pre-Markets Muted as Wall Street Heading for a Winning Week.",
+        "pubDate": "2026-07-10T15:06:00Z",
+        "displayTime": "2026-07-10T15:06:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/f669525e63f99853aaf44cb421e89764",
           "originalWidth": 635,
           "originalHeight": 400,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ShfhwtDyA2WzDBKdAL7M8Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
+              "url": "https://s.yimg.com/uu/api/res/1.2/R0OhzCzPjTb6LSw_liLJNA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f669525e63f99853aaf44cb421e89764",
               "width": 635,
               "height": 400,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WBkF.8AjygV.rmpZ4E0BUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
+              "url": "https://s.yimg.com/uu/api/res/1.2/EixCGFlddLRVcUPG7GCIlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f669525e63f99853aaf44cb421e89764",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24164,13 +24361,13 @@
           "sourceId": "zacks.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-q2-earnings-preview-why-190000466.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-muted-wall-street-150600515.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-q2-earnings-preview-why-190000466.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-muted-wall-street-150600515.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24188,199 +24385,32 @@
       }
     },
     {
-      "id": "0195172d-37d6-3794-8f66-39d51644ffa7",
+      "id": "9bc7b94c-9532-39a6-b09e-a4f1732477fc",
       "content": {
-        "id": "0195172d-37d6-3794-8f66-39d51644ffa7",
+        "id": "9bc7b94c-9532-39a6-b09e-a4f1732477fc",
         "contentType": "STORY",
-        "title": "Taiwan Dollar Hits April 2025 Low as NT$2.5 Trillion Dividend Season Begins",
+        "title": "Pre-Markets Flat to Close Out Trading Week",
         "description": "",
-        "summary": "Record cash dividends and foreign outflows pressured the Taiwan dollar to its weakest level since April 2025.",
-        "pubDate": "2026-07-09T18:57:32Z",
-        "displayTime": "2026-07-09T18:57:32Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/currencies/articles/taiwan-dollar-hits-april-2025-185732247.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/currencies/articles/taiwan-dollar-hits-april-2025-185732247.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2d22801c-1686-3870-bd79-13671a2887b4",
-      "content": {
-        "id": "2d22801c-1686-3870-bd79-13671a2887b4",
-        "contentType": "STORY",
-        "title": "ASML Holdings (ASML): Best QQQ Stocks to Invest in",
-        "description": "",
-        "summary": "ASML Holding (NASDAQ:ASML) is one of the best QQQ Stocks to invest in. On July 6, ASML reported the latest transactions conducted under its ongoing share buyback program. Between June 29 and July 3, the company repurchased a total of 48,397 shares. The daily transactions saw a total value of approximately €15.87 million for each […]",
-        "pubDate": "2026-07-09T18:37:45Z",
-        "displayTime": "2026-07-09T18:37:45Z",
+        "summary": "Ahead of today's open, one of the very first companies to report quarterly earnings, Delta Air Lines (DAL), has done so.",
+        "pubDate": "2026-07-10T14:28:00Z",
+        "displayTime": "2026-07-10T14:28:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/fa57c3492a2096d8f3c4613e1128731f",
-          "originalWidth": 1280,
-          "originalHeight": 1085,
-          "caption": "ASML Holdings (ASML): Best QQQ Stocks to Invest in",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/x2Oeu_1izPnXVxkgcYeHyg--~B/aD0xMDg1O3c9MTI4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/fa57c3492a2096d8f3c4613e1128731f",
-              "width": 1280,
-              "height": 1085,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/m2SMxWvELXDSYTLgVn8FpA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fa57c3492a2096d8f3c4613e1128731f",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holdings-asml-best-qqq-183745732.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holdings-asml-best-qqq-183745732.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6baa60c5-2afa-3e1f-a8a1-59f174bf3df9",
-      "content": {
-        "id": "6baa60c5-2afa-3e1f-a8a1-59f174bf3df9",
-        "contentType": "STORY",
-        "title": "Meta’s new AI chips will begin production in September",
-        "description": "",
-        "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-        "pubDate": "2026-07-09T17:17:37Z",
-        "displayTime": "2026-07-09T17:17:37Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/9ff0462f613f30c8187f95ab9c69c1b5",
-          "originalWidth": 1881,
-          "originalHeight": 957,
-          "caption": "A picture of 72 chips made by Meta in a rack-scale set up.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/71lbUfhFXGEcy37eVoJufw--~B/aD05NTc7dz0xODgxO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_finance_785/9ff0462f613f30c8187f95ab9c69c1b5",
-              "width": 1881,
-              "height": 957,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/iFhNqIq8rgM7UajKQP.f1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/9ff0462f613f30c8187f95ab9c69c1b5",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TechCrunch",
-          "url": "https://techcrunch.com/",
-          "sourceId": "techcrunch_finance_785"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-chips-begin-production-171737841.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-chips-begin-production-171737841.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "0b15ffcc-f13c-3c1b-8b46-9d0ca620cff2",
-      "content": {
-        "id": "0b15ffcc-f13c-3c1b-8b46-9d0ca620cff2",
-        "contentType": "STORY",
-        "title": "Will Earnings Be The Catalyst To Lift TSM Stock Higher?",
-        "description": "",
-        "summary": "TSM stock is trading sideways after hitting a recent high. TSMC's profit is expected to rise 46% in its second quarter.",
-        "pubDate": "2026-07-09T17:02:54Z",
-        "displayTime": "2026-07-09T17:02:54Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/0b15ffcc-f13c-3c1b-8b46-9d0ca620cff2/will-earnings-be-the-catalyst.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/3088f21206d2526712f774046b3b4bf0",
-          "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/5cd9a6e27ddf96a23282e18859eeeb4d",
+          "originalWidth": 635,
+          "originalHeight": 400,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8IShp8aFu5QWUexW2q867g--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/3088f21206d2526712f774046b3b4bf0",
-              "width": 1000,
-              "height": 563,
+              "url": "https://s.yimg.com/uu/api/res/1.2/Eitv41citFAeqlVKMP30nw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5cd9a6e27ddf96a23282e18859eeeb4d",
+              "width": 635,
+              "height": 400,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uh5t1jGjcHP.9OgrYSJYjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/3088f21206d2526712f774046b3b4bf0",
+              "url": "https://s.yimg.com/uu/api/res/1.2/dN9mN5RPNbCfzG5ikUw9Yg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5cd9a6e27ddf96a23282e18859eeeb4d",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24388,17 +24418,22 @@
           ]
         },
         "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/stock-lists/sector-leaders/tsm-stock-tsmc-taiwan-semiconductor-manufacturing-chip/?src=A00220&yptr=yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-flat-close-trading-142800788.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-flat-close-trading-142800788.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
@@ -24539,25 +24574,25 @@
     "fiveYearAvgDividendYield": 1.7,
     "beta": 1.246,
     "trailingPE": 32.78577,
-    "forwardPE": 18.94364,
+    "forwardPE": 18.90572,
     "volume": 30349529,
     "regularMarketVolume": 30349529,
-    "averageVolume": 34552939,
-    "averageVolume10days": 30515821,
-    "averageDailyVolume10Day": 30515821,
+    "averageVolume": 34528700,
+    "averageVolume10days": 29786853,
+    "averageDailyVolume10Day": 29786853,
     "bid": 2415.0,
     "ask": 2420.0,
     "bidSize": 0,
     "askSize": 0,
     "marketCap": 62626671362048,
-    "nonDilutedMarketCap": 63923292215155,
+    "nonDilutedMarketCap": 62626673711805,
     "fiftyTwoWeekLow": 1085.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
     "priceToSalesTrailing12Months": 15.260266,
-    "fiftyDayAverage": 2327.4,
-    "twoHundredDayAverage": 1832.75,
+    "fiftyDayAverage": 2331.4,
+    "twoHundredDayAverage": 1838.35,
     "trailingAnnualDividendRate": 24.0,
     "trailingAnnualDividendYield": 0.009736308,
     "currency": "TWD",
@@ -24567,7 +24602,7 @@
     "floatShares": 23652396030,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00022,
-    "heldPercentInstitutions": 0.4383,
+    "heldPercentInstitutions": 0.43820998,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 227.166,
     "priceToBook": 10.630992,
@@ -24577,25 +24612,25 @@
     "earningsQuarterlyGrowth": 0.583,
     "netIncomeToCommon": 1908519600128,
     "trailingEps": 73.66,
-    "forwardEps": 127.48342,
-    "pegRatio": 1.2,
+    "forwardEps": 127.73912,
+    "pegRatio": 1.18,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
     "enterpriseToRevenue": 14.713,
     "enterpriseToEbitda": 21.141,
-    "52WeekChange": 1.2409091,
-    "SandP52WeekChange": 0.19142711,
+    "52WeekChange": 1.1954546,
+    "SandP52WeekChange": 0.20510244,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
     "currentPrice": 2415.0,
     "targetHighPrice": 3800.0,
     "targetLowPrice": 2051.0,
-    "targetMeanPrice": 2819.8484,
-    "targetMedianPrice": 2780.0,
-    "recommendationMean": 1.33333,
+    "targetMeanPrice": 2833.9707,
+    "targetMedianPrice": 2790.0,
+    "recommendationMean": 1.32353,
     "recommendationKey": "strong_buy",
-    "numberOfAnalystOpinions": 33,
+    "numberOfAnalystOpinions": 34,
     "totalCash": 3383596154880,
     "totalCashPerShare": 130.478,
     "ebitda": 2856031092736,
@@ -24623,50 +24658,50 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "marketState": "PREPRE",
+    "regularMarketChangePercent": -2.0283976,
+    "regularMarketPrice": 2415.0,
+    "marketState": "CLOSED",
     "corporateActions": [],
     "regularMarketTime": 1783575009,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "exchangeTimezoneName": "Asia/Taipei",
     "exchangeTimezoneShortName": "CST",
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -2.0283976,
-    "regularMarketPrice": 2415.0,
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
     "regularMarketChange": -50.0,
     "regularMarketDayRange": "2415.0 - 2460.0",
     "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 34552939,
+    "averageDailyVolume3Month": 34528700,
+    "epsTrailingTwelveMonths": 73.66,
+    "epsForward": 127.73912,
+    "epsCurrentYear": 99.90762,
+    "priceEpsCurrentYear": 24.172329,
+    "fiftyDayAverageChange": 83.6001,
+    "fiftyDayAverageChangePercent": 0.035858326,
+    "twoHundredDayAverageChange": 576.65,
+    "twoHundredDayAverageChangePercent": 0.31367806,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
     "fiftyTwoWeekLowChange": 1330.0,
     "fiftyTwoWeekLowChangePercent": 1.2258065,
     "fiftyTwoWeekRange": "1085.0 - 2535.0",
     "fiftyTwoWeekHighChange": -120.0,
     "fiftyTwoWeekHighChangePercent": -0.04733728,
-    "fiftyTwoWeekChangePercent": 124.09091,
+    "fiftyTwoWeekChangePercent": 119.545456,
     "earningsTimestamp": 1784179800,
     "earningsTimestampStart": 1784179800,
     "earningsTimestampEnd": 1784179800,
     "earningsCallTimestampStart": 1784179800,
     "earningsCallTimestampEnd": 1784179800,
     "isEarningsDateEstimate": false,
-    "epsTrailingTwelveMonths": 73.66,
-    "epsForward": 127.48342,
-    "epsCurrentYear": 99.81394,
-    "priceEpsCurrentYear": 24.195017,
-    "fiftyDayAverageChange": 87.6001,
-    "fiftyDayAverageChangePercent": 0.03763861,
-    "twoHundredDayAverageChange": 582.25,
-    "twoHundredDayAverageChangePercent": 0.31769198,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "trailingPegRatio": 1.2067
+    "trailingPegRatio": 1.1818
   }
 }

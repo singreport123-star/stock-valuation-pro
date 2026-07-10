@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-09T23:04:45.027853",
+    "ts": "2026-07-10T22:54:34.753294",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 603.12,
-    "open": 583.92,
-    "dayLow": 577.07,
-    "dayHigh": 633.27,
-    "regularMarketPreviousClose": 603.12,
-    "regularMarketOpen": 583.92,
-    "regularMarketDayLow": 577.07,
-    "regularMarketDayHigh": 633.27,
+    "previousClose": 631.48,
+    "open": 660.335,
+    "dayLow": 658.01,
+    "dayHigh": 677.85,
+    "regularMarketPreviousClose": 631.48,
+    "regularMarketOpen": 660.335,
+    "regularMarketDayLow": 658.01,
+    "regularMarketDayHigh": 677.85,
     "dividendRate": 2.1,
-    "dividendYield": 0.35,
+    "dividendYield": 0.33,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
     "beta": 1.246,
-    "trailingPE": 22.962908,
-    "forwardPE": 17.14389,
-    "volume": 25282764,
-    "regularMarketVolume": 25282764,
-    "averageVolume": 17158044,
-    "averageVolume10days": 19998640,
-    "averageDailyVolume10Day": 19998640,
-    "bid": 616.93,
-    "ask": 615.56,
-    "bidSize": 4,
+    "trailingPE": 24.361486,
+    "forwardPE": 18.420841,
+    "volume": 39408342,
+    "regularMarketVolume": 39408342,
+    "averageVolume": 17370160,
+    "averageVolume10days": 21225670,
+    "averageDailyVolume10Day": 21225670,
+    "bid": 668.99,
+    "ask": 668.86,
+    "bidSize": 2,
     "askSize": 1,
-    "marketCap": 1602963505152,
-    "nonDilutedMarketCap": 1530973863107,
+    "marketCap": 1698738339840,
+    "nonDilutedMarketCap": 1602963548009,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.456928,
-    "fiftyDayAverage": 601.4308,
-    "twoHundredDayAverage": 643.93225,
+    "priceToSalesTrailing12Months": 7.9024687,
+    "fiftyDayAverage": 600.488,
+    "twoHundredDayAverage": 643.19775,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.003481894,
+    "trailingAnnualDividendYield": 0.003325521,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1536562823168,
+    "enterpriseValue": 1608552546304,
     "profitMargins": 0.32837,
     "floatShares": 2192715434,
     "sharesOutstanding": 2196045588,
@@ -184,31 +184,31 @@
     "dateShortInterest": 1781481600,
     "sharesPercentSharesOut": 0.0117999995,
     "heldPercentInsiders": 0.00102,
-    "heldPercentInstitutions": 0.79243,
+    "heldPercentInstitutions": 0.7924,
     "shortRatio": 1.69,
     "shortPercentOfFloat": 0.0137,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.577026,
+    "priceToBook": 6.969994,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.5,
-    "forwardEps": 36.83411,
+    "trailingEps": 27.47,
+    "forwardEps": 36.32896,
     "pegRatio": 0.87,
-    "enterpriseToRevenue": 7.148,
-    "enterpriseToEbitda": 14.057,
-    "52WeekChange": -0.17067266,
-    "SandP52WeekChange": 0.19142711,
+    "enterpriseToRevenue": 7.483,
+    "enterpriseToEbitda": 14.716,
+    "52WeekChange": -0.11990076,
+    "SandP52WeekChange": 0.20510244,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 631.48,
+    "currentPrice": 669.21,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 664.46,
-    "targetMeanPrice": 828.16864,
+    "targetMeanPrice": 827.91,
     "targetMedianPrice": 825.0,
     "recommendationMean": 1.31746,
     "recommendationKey": "strong_buy",
@@ -240,46 +240,30 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
+    "cryptoTradeable": false,
+    "regularMarketChangePercent": 5.974859,
+    "regularMarketPrice": 669.21,
+    "marketState": "POST",
     "corporateActions": [],
-    "postMarketTime": 1783638282,
-    "regularMarketTime": 1783627201,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": 4.702213,
-    "regularMarketPrice": 631.48,
+    "postMarketTime": 1783724072,
+    "regularMarketTime": 1783713601,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
-    "fiftyDayAverageChange": 30.049194,
-    "fiftyDayAverageChangePercent": 0.04996285,
-    "twoHundredDayAverageChange": -12.4522705,
-    "twoHundredDayAverageChangePercent": -0.019337859,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-09",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.31988657,
-    "postMarketPrice": 633.5,
-    "postMarketChange": 2.0200195,
-    "regularMarketChange": 28.359985,
-    "regularMarketDayRange": "577.07 - 633.27",
+    "postMarketChangePercent": -0.22564064,
+    "postMarketPrice": 667.7,
+    "postMarketChange": -1.5100098,
+    "regularMarketChange": 37.73004,
+    "regularMarketDayRange": "658.01 - 677.85",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 17158044,
-    "fiftyTwoWeekLowChange": 111.21997,
-    "fiftyTwoWeekLowChangePercent": 0.21377766,
+    "averageDailyVolume3Month": 17370160,
+    "fiftyTwoWeekLowChange": 148.95001,
+    "fiftyTwoWeekLowChangePercent": 0.28629917,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -164.77002,
-    "fiftyTwoWeekHighChangePercent": -0.20693251,
-    "fiftyTwoWeekChangePercent": -17.067265,
+    "fiftyTwoWeekHighChange": -127.03998,
+    "fiftyTwoWeekHighChangePercent": -0.15954785,
+    "fiftyTwoWeekChangePercent": -11.990076,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
     "earningsTimestampStart": 1785355200,
@@ -287,13 +271,29 @@
     "earningsCallTimestampStart": 1777498200,
     "earningsCallTimestampEnd": 1777498200,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 27.5,
-    "epsForward": 36.83411,
-    "epsCurrentYear": 32.58671,
-    "priceEpsCurrentYear": 19.37845,
-    "marketState": "POST",
+    "epsTrailingTwelveMonths": 27.47,
+    "epsForward": 36.32896,
+    "epsCurrentYear": 32.29457,
+    "priceEpsCurrentYear": 20.72206,
+    "fiftyDayAverageChange": 68.722046,
+    "fiftyDayAverageChangePercent": 0.11444367,
+    "twoHundredDayAverageChange": 26.012268,
+    "twoHundredDayAverageChangePercent": 0.0404421,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-07-10",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8714
+    "trailingPegRatio": 0.9124
   },
   "financial_statements": {
     "income": {
@@ -1642,40 +1642,40 @@
       ],
       "Earnings High": 8.55,
       "Earnings Low": 6.8,
-      "Earnings Average": 7.50889,
+      "Earnings Average": 7.49333,
       "Revenue High": 62812000000,
       "Revenue Low": 59132000000,
-      "Revenue Average": 60224815120
+      "Revenue Average": 60224819380
     }
   },
   "news": [
     {
-      "id": "51d7015b-6151-4b32-a9a7-388e4f12e72c",
+      "id": "9742ee98-41ca-499c-bb14-ce6390d8e6a6",
       "content": {
-        "id": "51d7015b-6151-4b32-a9a7-388e4f12e72c",
+        "id": "9742ee98-41ca-499c-bb14-ce6390d8e6a6",
         "contentType": "VIDEO",
-        "title": "AI could cause a huge electricity shortfall in the US, Bank of America says: A closer look",
-        "description": "<p>Bank of America (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/BAC/\" data-i13n=\"cpos:1;pos:1\">BAC</a>) predicts that the US could face a major electricity shortage between 2026 and 2030. Yahoo Finance Breaking Business News Reporter Jake Conley breaks down the details.</p>",
-        "summary": "Bank of America (BAC) predicts that the US could face a major electricity shortage between 2026 and 2030. Yahoo Finance Breaking Business News Reporter Jake Conley breaks down the details.",
-        "pubDate": "2026-07-09T20:14:10Z",
+        "title": "What Meta's Muse AI image tool means for Instagram privacy",
+        "description": "<p>Yahoo Finance Tech Editor Dan Howley explains how Meta's new Muse AI tool generates images using a public user's likeness and how users can manage their privacy settings to opt out.</p>",
+        "summary": "Yahoo Finance Tech Editor Dan Howley explains how Meta's new Muse AI tool generates images using a public user's likeness and how users can manage their privacy settings to opt out.",
+        "pubDate": "2026-07-10T20:38:55Z",
         "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Ld140h6sSnF4ZpjGGPTRMA--~B/aD0zMjA2O3c9NTY5OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/9cf796c7-31de-4525-abaa-d7b0f058a7da_21b46772ff756632967345c70c3a1727306f13c0416beaf4248ae6a47cf6d136.jpg_f5593a57b67c0697b40b209018f31cd22e480ea731d2605ee7ffda22e10e3e9c.jpg",
-          "originalWidth": 5699,
-          "originalHeight": 3206,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/B9KzYh3nvruBbIXMBalsYA--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/56e03ad6-823d-4a8c-9067-4b0d9ee1b270",
+          "originalWidth": 6048,
+          "originalHeight": 4024,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Ld140h6sSnF4ZpjGGPTRMA--~B/aD0zMjA2O3c9NTY5OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/9cf796c7-31de-4525-abaa-d7b0f058a7da_21b46772ff756632967345c70c3a1727306f13c0416beaf4248ae6a47cf6d136.jpg_f5593a57b67c0697b40b209018f31cd22e480ea731d2605ee7ffda22e10e3e9c.jpg",
-              "width": 5699,
-              "height": 3206,
+              "url": "https://s.yimg.com/uu/api/res/1.2/B9KzYh3nvruBbIXMBalsYA--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/56e03ad6-823d-4a8c-9067-4b0d9ee1b270",
+              "width": 6048,
+              "height": 4024,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/yTyJfLuuOBO5gU4_iTAckQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/9cf796c7-31de-4525-abaa-d7b0f058a7da_21b46772ff756632967345c70c3a1727306f13c0416beaf4248ae6a47cf6d136.jpg_f5593a57b67c0697b40b209018f31cd22e480ea731d2605ee7ffda22e10e3e9c.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/aw.HhE2xxpQhUNxorENTvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/56e03ad6-823d-4a8c-9067-4b0d9ee1b270",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1688,13 +1688,13 @@
           "sourceId": "video.yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/ai-could-cause-huge-electricity-201410692.html",
+          "url": "https://finance.yahoo.com/video/what-metas-muse-ai-image-tool-means-for-instagram-privacy-203855526.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/ai-could-cause-huge-electricity-201410692.html",
+          "url": "https://finance.yahoo.com/video/what-metas-muse-ai-image-tool-means-for-instagram-privacy-203855526.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1712,14 +1712,14 @@
           "storylineItems": [
             {
               "content": {
-                "id": "2b800815-42a9-4ca8-83a6-d549bac830a3",
+                "id": "759dcdec-08e6-42e2-bb51-56f0cdf7e243",
                 "contentType": "VIDEO",
                 "isHosted": true,
-                "title": "Why AI spending is beginning to hit a 'speed bump'",
+                "title": "OpenAI Executive steps down ahead of anticipated IPO",
                 "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/DSuv6X8pRttw7pFCCLhqcg--~B/aD0xOTg1O3c9MzUzMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bae039df-76a9-4e9c-8cbe-ab54becb1696_a616268fe9b55617cf71e7056b9899cec09fa0b530da5ba2ec3e01407eaea62c.jpg",
-                  "originalWidth": 3530,
-                  "originalHeight": 1985,
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/xDfRK1mvTRaWNsj._b.AzA--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/1ca370d5-3fc4-43db-ba04-a05be20f4473",
+                  "originalWidth": 6048,
+                  "originalHeight": 4024,
                   "caption": "",
                   "resolutions": null
                 },
@@ -1730,37 +1730,37 @@
                 "previewUrl": null,
                 "providerContentUrl": "",
                 "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/why-ai-spending-beginning-hit-200500299.html"
+                  "url": "https://finance.yahoo.com/video/openai-executive-steps-down-ahead-of-anticipated-ipo-201116659.html"
                 },
                 "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/why-ai-spending-beginning-hit-200500299.html"
+                  "url": "https://finance.yahoo.com/video/openai-executive-steps-down-ahead-of-anticipated-ipo-201116659.html"
                 }
               }
             },
             {
               "content": {
-                "id": "3a0f0f07-b3d3-420f-983e-4ea9aa737c1a",
-                "contentType": "VIDEO",
+                "id": "8a2e1fe4-e56a-45cd-9fe2-e46c207c23e8",
+                "contentType": "STORY",
                 "isHosted": true,
-                "title": "Earnings season will prove 'durability of growth' for chip stocks",
+                "title": "Meta stock turns positive on the year on data center plans, new AI model pricing",
                 "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/C7h1y6uk4kLIRO8u3.KE0w--~B/aD00MjU0O3c9NzU2NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/79c328b7-83ae-4f69-aa92-b81edbfb17c0_03e99639e310aa9557ea3ddafcdda781d820453417f1e2156b9ecaa5154c3d22.jpg",
-                  "originalWidth": 7564,
-                  "originalHeight": 4254,
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/E8A0bZAYagXnsDrh81ENtQ--~B/aD0zMDkzO3c9NTQ5ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/61dff96f-b87d-4c5f-a5cb-a46f09a963af_6a31163784695ffa484afb6da600f3142ee31ad8b9bfbdd14824c78ab2869bef.jpg",
+                  "originalWidth": 5498,
+                  "originalHeight": 3093,
                   "caption": "",
                   "resolutions": null
                 },
                 "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
+                  "displayName": "Yahoo Finance",
+                  "sourceId": "yahoofinance.com"
                 },
                 "previewUrl": null,
                 "providerContentUrl": "",
                 "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/earnings-season-prove-durability-growth-164500402.html"
+                  "url": "https://finance.yahoo.com/technology/article/meta-stock-turns-positive-on-the-year-on-data-center-plans-new-ai-model-pricing-174120336.html"
                 },
                 "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/earnings-season-prove-durability-growth-164500402.html"
+                  "url": "https://finance.yahoo.com/technology/article/meta-stock-turns-positive-on-the-year-on-data-center-plans-new-ai-model-pricing-174120336.html"
                 }
               }
             }
@@ -1769,32 +1769,32 @@
       }
     },
     {
-      "id": "94fe4dfb-e80e-43d1-b505-6b46dfee1d85",
+      "id": "445b9b3f-f8ec-4ade-ae0a-e81e95a6cf5b",
       "content": {
-        "id": "94fe4dfb-e80e-43d1-b505-6b46dfee1d85",
-        "contentType": "STORY",
-        "title": "Apollo's Sløk: The market faces big risks if hyperscalers' AI profits get delayed",
-        "description": "",
-        "summary": "If hyperscaler cash flow can't accelerate as Wall Street expects, the market could face a series of risks, Apollo's Torsten Sløk says.",
-        "pubDate": "2026-07-09T16:17:08Z",
-        "displayTime": "2026-07-09T16:17:08Z",
+        "id": "445b9b3f-f8ec-4ade-ae0a-e81e95a6cf5b",
+        "contentType": "VIDEO",
+        "title": "Why Microsoft is not this portfolio manager's stock pick",
+        "description": "<p>Niles Investment Management founder and portfolio manager Dan Niles shares his perspective on Microsoft (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/MSFT/\" data-i13n=\"slk:MSFT;cpos:1;pos:1\">MSFT</a>) in the AI landscape.</p>",
+        "summary": "Niles Investment Management founder and portfolio manager Dan Niles shares his perspective on Microsoft (MSFT) in the AI landscape.",
+        "pubDate": "2026-07-10T12:00:00Z",
+        "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-05/b20f34f0-53f5-11f1-ae16-3303f19107c2",
-          "originalWidth": 5156,
-          "originalHeight": 3635,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/jEOdVAWrIkdZpgbjvrOThw--~B/aD0xNDg0O3c9MjYzODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a1f342f0-8147-11ef-9af7-5654897112f4_cb1737f496bf998d85213fa22b11789f804073303d000289be88498e504d89dc.jpg",
+          "originalWidth": 2638,
+          "originalHeight": 1484,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pZlCk3QpFDBCLMkMQs0QIQ--~B/aD0zNjM1O3c9NTE1NjthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-05/b20f34f0-53f5-11f1-ae16-3303f19107c2",
-              "width": 5156,
-              "height": 3635,
+              "url": "https://s.yimg.com/uu/api/res/1.2/jEOdVAWrIkdZpgbjvrOThw--~B/aD0xNDg0O3c9MjYzODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a1f342f0-8147-11ef-9af7-5654897112f4_cb1737f496bf998d85213fa22b11789f804073303d000289be88498e504d89dc.jpg",
+              "width": 2638,
+              "height": 1484,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/a3q_QAQAZESg.XiiIESEGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-05/b20f34f0-53f5-11f1-ae16-3303f19107c2",
+              "url": "https://s.yimg.com/uu/api/res/1.2/P08YfzxTjbpqmdcKHD2c6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a1f342f0-8147-11ef-9af7-5654897112f4_cb1737f496bf998d85213fa22b11789f804073303d000289be88498e504d89dc.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1802,18 +1802,18 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "video.yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/apollos-sl%C3%B8k-the-market-faces-big-risks-if-hyperscalers-ai-profits-get-delayed-161708773.html",
+          "url": "https://finance.yahoo.com/video/why-microsoft-not-portfolio-managers-120000811.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/apollos-sl%C3%B8k-the-market-faces-big-risks-if-hyperscalers-ai-profits-get-delayed-161708773.html",
+          "url": "https://finance.yahoo.com/video/why-microsoft-not-portfolio-managers-120000811.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1831,32 +1831,32 @@
       }
     },
     {
-      "id": "15c7ccf7-8532-3dd6-adc6-1e5d69c799f1",
+      "id": "ff8de160-1f39-33d7-b365-f675be951dc5",
       "content": {
-        "id": "15c7ccf7-8532-3dd6-adc6-1e5d69c799f1",
+        "id": "ff8de160-1f39-33d7-b365-f675be951dc5",
         "contentType": "STORY",
-        "title": "Alphabet vs. Meta: Which AI Stock Is the Better Buy Right Now?",
+        "title": "3 Reasons I Think Meta Platforms is a Screaming Buy Right Now",
         "description": "",
-        "summary": "Forget the AI benchmark battles. Here's why Alphabet's unmatched distribution could make it the better long-term AI investment over Meta.",
-        "pubDate": "2026-07-09T22:32:00Z",
-        "displayTime": "2026-07-09T22:32:00Z",
+        "summary": "The company's AI strategy is beginning to pay dividends.",
+        "pubDate": "2026-07-10T22:22:00Z",
+        "displayTime": "2026-07-10T22:22:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/8a90e443e7ad65f50f45d73383e2d5c7",
-          "originalWidth": 1400,
-          "originalHeight": 473,
-          "caption": "An individual looks face to face at a robot.",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/2313478f02db7e0c44ba4efe4ba51d03",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "The Meta Platforms logo superimporsed over a picture of the company's headquarters building.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9vwcPMexUBCKs1C3Y22llg--~B/aD00NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8a90e443e7ad65f50f45d73383e2d5c7",
-              "width": 1400,
-              "height": 473,
+              "url": "https://s.yimg.com/uu/api/res/1.2/9DwZ8o9X0MipZWqjxAGgkQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2313478f02db7e0c44ba4efe4ba51d03",
+              "width": 1200,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xzXeGyRyxZcHSypILboZAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8a90e443e7ad65f50f45d73383e2d5c7",
+              "url": "https://s.yimg.com/uu/api/res/1.2/4RNXwXL1FDqC4GeopCU31A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2313478f02db7e0c44ba4efe4ba51d03",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1869,13 +1869,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/09/alphabet-vs-meta-which-ai-stock-is-the-better-buy/",
+          "url": "https://www.fool.com/investing/2026/07/10/3-reasons-i-think-meta-platforms-is-a-screaming-bu/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-meta-ai-stock-223200361.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-think-meta-platforms-222200829.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1893,156 +1893,32 @@
       }
     },
     {
-      "id": "aea24561-b12e-3b4d-85e0-764234d579b8",
+      "id": "1cc32e0c-030b-3682-b38e-f8ead53993de",
       "content": {
-        "id": "aea24561-b12e-3b4d-85e0-764234d579b8",
+        "id": "1cc32e0c-030b-3682-b38e-f8ead53993de",
         "contentType": "STORY",
-        "title": "Coinbase and Grayscale Executives Step Down After Major Crypto Wins",
+        "title": "Stock Market Today, July 10: Markets Edge Higher and SK Hynix Soars on Debut",
         "description": "",
-        "summary": "Coinbase and Grayscale both lose a top executive as Paul Grewal and Edward McGee step down, with internal successors named.",
-        "pubDate": "2026-07-09T22:05:41Z",
-        "displayTime": "2026-07-09T22:05:41Z",
+        "summary": "On July 10, 2026, stock gained on renewed confidence as the S&P 500 edged back toward record highs.",
+        "pubDate": "2026-07-10T21:25:05Z",
+        "displayTime": "2026-07-10T21:25:05Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/7898427305f1a6e471ba29bbdc1bedf5",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5BOEbBfkLRwtDxnOyqJDDg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/7898427305f1a6e471ba29bbdc1bedf5",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BykH0j.DUZAFni5O05jTfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/7898427305f1a6e471ba29bbdc1bedf5",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "BeInCrypto",
-          "url": "https://beincrypto.com/",
-          "sourceId": "beincrypto_us_662"
-        },
-        "canonicalUrl": {
-          "url": "https://beincrypto.com/coinbase-grayscale-executives-step-down/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-grayscale-executives-step-down-220541072.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "609f7873-4453-3305-b1f9-1ea614573322",
-      "content": {
-        "id": "609f7873-4453-3305-b1f9-1ea614573322",
-        "contentType": "STORY",
-        "title": "Meta doubles down on smart glasses amid always-on feature concerns",
-        "description": "",
-        "summary": "Every new computing platform takes something from you in exchange for convenience. The personal computer took your desk, and the smartphone took your attention. Whatever comes next will ask for even more, and the company that builds it gets to decide exactly how much. Meta Platforms (META) has ...",
-        "pubDate": "2026-07-09T21:47:00Z",
-        "displayTime": "2026-07-09T21:47:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/797e37620f83ef15bf975677a9ce7ca9",
-          "originalWidth": 3118,
-          "originalHeight": 2079,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/R2op2MfHE4SyRitP4a.jeg--~B/aD0yMDc5O3c9MzExODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/797e37620f83ef15bf975677a9ce7ca9",
-              "width": 3118,
-              "height": 2079,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VGKgztSs77L1GGubNbaIcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/797e37620f83ef15bf975677a9ce7ca9",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/technology/meta-smart-glasses-always-on-feature-privacy-concerns",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-doubles-down-smart-glasses-214700586.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b112b2ac-8160-30ae-9de2-6b130f6d7a07",
-      "content": {
-        "id": "b112b2ac-8160-30ae-9de2-6b130f6d7a07",
-        "contentType": "STORY",
-        "title": "Trading Day: What war? Chip-led rally helps markets ignore on-again, off-again US-Iran truce",
-        "description": "",
-        "summary": "By Stephen Culp NEW YORK, July 9 (Reuters) - A microchip rebound on Thursday helped investors look past roiling Middle East tensions and the potential of renewed hostilities fueling longer-term",
-        "pubDate": "2026-07-09T21:00:56Z",
-        "displayTime": "2026-07-09T21:00:56Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters.com/9961bc1c7c75e72357c9296ea9a4559e",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/6e1465e3a2bb101fe7b16704415e84a6",
           "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "FILE PHOTO: A trader works on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., July 6, 2026. REUTERS/Jeenah Moon/File Photo",
+          "originalHeight": 714,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/n9agXwHw..er5uTV4SlVNQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/9961bc1c7c75e72357c9296ea9a4559e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ad0Psi3Xzj2DVSuh57QBgg--~B/aD03MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6e1465e3a2bb101fe7b16704415e84a6",
               "width": 800,
-              "height": 533,
+              "height": 714,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/LQ4sdehf61OxIa6p0D46Kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/9961bc1c7c75e72357c9296ea9a4559e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/tVRYC.sQmSIfHMboVHjFVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6e1465e3a2bb101fe7b16704415e84a6",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2050,18 +1926,18 @@
           ]
         },
         "provider": {
-          "displayName": "Reuters",
-          "url": "https://www.reuters.com/",
-          "sourceId": "reuters.com"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-war-chip-led-210056799.html",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/07/10/stock-market-today-july-10-markets-edge-higher-and-sk-hynix-soars-on-debut/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-war-chip-led-210056799.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-10-212505206.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2079,32 +1955,32 @@
       }
     },
     {
-      "id": "5184ae0e-2e87-3ac2-9b4d-1ec6f8728546",
+      "id": "a35beef5-af03-319a-8df3-12afe9566280",
       "content": {
-        "id": "5184ae0e-2e87-3ac2-9b4d-1ec6f8728546",
+        "id": "a35beef5-af03-319a-8df3-12afe9566280",
         "contentType": "STORY",
-        "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
+        "title": "Why Is Meta (META) Stock Soaring Today",
         "description": "",
-        "summary": "The Muse Spark 1.1 model is priced at $1.25 per million input tokens and $4.25 per million output tokens, with $20 in free credits to start",
-        "pubDate": "2026-07-09T20:58:23Z",
-        "displayTime": "2026-07-09T20:58:23Z",
+        "summary": "Shares of social network operator Meta Platforms (NASDAQ:META) jumped 5.2% in the afternoon session after a cluster of AI infrastructure and product news reframed the company's heavy capital spending as a path to lower costs, new revenue, and faster growth rather than a pure expense drag.",
+        "pubDate": "2026-07-10T21:03:20Z",
+        "displayTime": "2026-07-10T21:03:20Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/quartz_855/758cc283370dc90488b48283e7581d70",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+          "originalWidth": 1400,
+          "originalHeight": 700,
+          "caption": "META Cover Image",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tS6FP_Heh5AcvZ7swlp3fg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/758cc283370dc90488b48283e7581d70",
-              "width": 1280,
-              "height": 720,
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ol.OYXaTLDXSb6x604S3Pw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+              "width": 1400,
+              "height": 700,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ODe.zt6AsZ8dkGLDXiaV6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/758cc283370dc90488b48283e7581d70",
+              "url": "https://s.yimg.com/uu/api/res/1.2/OJ.q7321ts98DrQRXKRU7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2112,18 +1988,18 @@
           ]
         },
         "provider": {
-          "displayName": "Quartz",
-          "url": "https://qz.com/",
-          "sourceId": "quartz_855"
+          "displayName": "StockStory",
+          "url": "https://stockstory.org/",
+          "sourceId": "stockstory_922"
         },
         "canonicalUrl": {
-          "url": "https://qz.com/meta-muse-spark-api-developers-paid-anthropic-openai-070926",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-meta-stock-soaring-210320840.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-launches-paid-muse-spark-205823294.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-meta-stock-soaring-210320840.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2141,51 +2017,32 @@
       }
     },
     {
-      "id": "cc7d4795-d5bb-31c6-a58c-40ea77a3fc05",
+      "id": "69ca2655-5266-35f8-9fbc-52773baac235",
       "content": {
-        "id": "cc7d4795-d5bb-31c6-a58c-40ea77a3fc05",
+        "id": "69ca2655-5266-35f8-9fbc-52773baac235",
         "contentType": "STORY",
-        "title": "Nvidia owns the AI chips market. Google, Amazon, and others are coming",
+        "title": "S&P 500 Posts Weekly Gain as Technology, Energy Rally",
         "description": "",
-        "summary": "Nvidia has owned the AI hardware market for years. Six tech giants are racing to escape its grip at wildly different speeds",
-        "pubDate": "2026-07-09T20:51:36Z",
-        "displayTime": "2026-07-09T20:51:36Z",
+        "summary": "The Standard & Poor's 500 index rose 1.2% this week, lifted by a fresh burst of AI enthusiasm amid g",
+        "pubDate": "2026-07-10T20:55:35Z",
+        "displayTime": "2026-07-10T20:55:35Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/quartz_855/07cce720df3b26d155aef54779bf46c8",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jxOn2kPrZrM2MLuvv79WWw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/07cce720df3b26d155aef54779bf46c8",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JO4GYew2fyatwsK2UcmUHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/07cce720df3b26d155aef54779bf46c8",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
+        "thumbnail": null,
         "provider": {
-          "displayName": "Quartz",
-          "url": "https://qz.com/",
-          "sourceId": "quartz_855"
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://qz.com/custom-ai-chips-openai-google-amazon-microsoft-meta-tesla-070626",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205535829.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-owns-ai-chips-market-205136413.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205535829.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2195,7 +2052,7 @@
         },
         "finance": {
           "premiumFinance": {
-            "isPremiumNews": false,
+            "isPremiumNews": true,
             "isPremiumFreeNews": false
           }
         },
@@ -2203,94 +2060,32 @@
       }
     },
     {
-      "id": "e57e42e2-c74f-3668-8252-3b5f21b43a3b",
+      "id": "5e3d4e15-fbc3-3cfd-8a43-b5115c6c94e1",
       "content": {
-        "id": "e57e42e2-c74f-3668-8252-3b5f21b43a3b",
+        "id": "5e3d4e15-fbc3-3cfd-8a43-b5115c6c94e1",
         "contentType": "STORY",
-        "title": "Does Meta pay dividends? Its yield and payouts explained",
+        "title": "SK Hynix, Micron, Meta, Delta, Circle Internet, and More Stocks That Explain Today’s Market",
         "description": "",
-        "summary": "Dividends are one way for profitable companies to reward their shareholders, while also signaling financial strength and confidence in their future cash flow. Tech stocks, however, have traditionally prioritized stock buybacks over dividends as a way to reinvest excess cash and return value to ...",
-        "pubDate": "2026-07-09T20:44:12Z",
-        "displayTime": "2026-07-09T20:44:12Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/885a94024f377a16a134dcd1a3a29214",
-          "originalWidth": 3840,
-          "originalHeight": 2560,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3Cl9mSnm4JYarT4aWx6tTw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/885a94024f377a16a134dcd1a3a29214",
-              "width": 3840,
-              "height": 2560,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/qAYFjeGpYSHiC5EZycSwig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/885a94024f377a16a134dcd1a3a29214",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/meta-dividends",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-meta-pay-dividends-yield-204412579.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "4a598e16-6e98-34db-b246-610b07b06c01",
-      "content": {
-        "id": "4a598e16-6e98-34db-b246-610b07b06c01",
-        "contentType": "STORY",
-        "title": "Meta Stock Jumps As AI Battle Heats Up. Zuckerberg Says Cloud Business 'Make Sense.'",
-        "description": "",
-        "summary": "Meta stock got a boost after revealing its latest AI model and a plan to charge developers that build products with it.",
-        "pubDate": "2026-07-09T20:28:43Z",
-        "displayTime": "2026-07-09T20:28:43Z",
+        "summary": "Stocks rose slightly Friday as  SK Hynix  made its U.S. trading debut.  American depositary receipts of  SK Hynix   began trading at $170 on the Nasdaq and on Friday afternoon closed at $168.01, up 13% from the initial public offering price of $149.  The South Korean memory chip maker is issuing 177.9 million ADRs, with 10 ADRs representing one common share.",
+        "pubDate": "2026-07-10T20:45:00Z",
+        "displayTime": "2026-07-10T20:45:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/4a598e16-6e98-34db-b246-610b07b06c01/meta-stock-jumps-as-ai-battle.html",
+        "previewUrl": "https://finance.yahoo.com/m/5e3d4e15-fbc3-3cfd-8a43-b5115c6c94e1/sk-hynix-micron-meta-.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/2b361c700deeb12a512fd0325e9f3f5b",
-          "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/7a544b4729d7b1d81e618b6c3c06ba8b",
+          "originalWidth": 1280,
+          "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SH8xCDcfy6QjSIH6k2cGBw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/2b361c700deeb12a512fd0325e9f3f5b",
-              "width": 1000,
-              "height": 563,
+              "url": "https://s.yimg.com/uu/api/res/1.2/1GyokYb3rhlU1hBCT9NaMg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7a544b4729d7b1d81e618b6c3c06ba8b",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dIM65rjmsdxKn6G3mNE5.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2b361c700deeb12a512fd0325e9f3f5b",
+              "url": "https://s.yimg.com/uu/api/res/1.2/bq3Z5WKWT3SnF2Ww8qj3XA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/7a544b4729d7b1d81e618b6c3c06ba8b",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2298,12 +2093,12 @@
           ]
         },
         "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/news/technology/meta-reportedly-takes-big-step-toward-ai-chip-but-the-stock-is-falling/?src=A00220&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/stock-movers-7c9adc92?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2315,6 +2110,173 @@
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "1f35f6e0-1f60-3616-82cf-375f74c53cae",
+      "content": {
+        "id": "1f35f6e0-1f60-3616-82cf-375f74c53cae",
+        "contentType": "STORY",
+        "title": "Top Analyst Reports for SpaceX, Meta Platforms & Boeing",
+        "description": "",
+        "summary": "Today's Research Daily features new research reports on 16 major stocks, including Space Exploration Technologies Corp. (SPCX), Meta Platforms, Inc. (META) and The Boeing Company (BA), as well as a micro-cap stock, Value Line, Inc. (VALU).",
+        "pubDate": "2026-07-10T20:44:00Z",
+        "displayTime": "2026-07-10T20:44:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/80f28f7b483b98cd14454c3919ae68aa",
+          "originalWidth": 620,
+          "originalHeight": 413,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LQNC2d8vcX7ygWO62qCA9w--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/80f28f7b483b98cd14454c3919ae68aa",
+              "width": 620,
+              "height": 413,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tw6l3VF4PnvbF24gHT175Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/80f28f7b483b98cd14454c3919ae68aa",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-spacex-meta-204400366.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-spacex-meta-204400366.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "192de850-fe0f-3057-866a-e3ccaafa9383",
+      "content": {
+        "id": "192de850-fe0f-3057-866a-e3ccaafa9383",
+        "contentType": "STORY",
+        "title": "Update: US Equity Indexes Rise as Diplomatic Engagements Between Washington, Iran Send Crude Oil Lower",
+        "description": "",
+        "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+        "pubDate": "2026-07-10T20:40:56Z",
+        "displayTime": "2026-07-10T20:40:56Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-diplomatic-204056155.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-diplomatic-204056155.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "735ee70f-7a5c-36c6-845b-083d32b2d206",
+      "content": {
+        "id": "735ee70f-7a5c-36c6-845b-083d32b2d206",
+        "contentType": "STORY",
+        "title": "Update: US Equities Rise, Oil Prices Ease as Trump Confirms Iran Talks",
+        "description": "",
+        "summary": "(Updates with market moves at the end of the day and weekly index changes.) US equities rose Frid",
+        "pubDate": "2026-07-10T20:25:29Z",
+        "displayTime": "2026-07-10T20:25:29Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/mt_newswires_premium_news_706/2475a8618428bf41d7b045240805a142",
+          "originalWidth": 1000,
+          "originalHeight": 750,
+          "caption": "stocks market trading wall street equity  - Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eYNqcCgn3G_qEuDD8GI7aw--~B/aD03NTA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/mt_newswires_premium_news_706/2475a8618428bf41d7b045240805a142",
+              "width": 1000,
+              "height": 750,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KemtEB6CG4krkJpa4AjedQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/2475a8618428bf41d7b045240805a142",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equities-rise-oil-prices-202529062.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equities-rise-oil-prices-202529062.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
             "isPremiumFreeNews": false
           }
         },
