@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-12T22:40:24.674740",
+    "ts": "2026-07-13T22:49:14.085320",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,41 +137,41 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 631.48004,
-    "open": 660.335,
-    "dayLow": 658.01,
-    "dayHigh": 677.85,
-    "regularMarketPreviousClose": 631.48004,
-    "regularMarketOpen": 660.335,
-    "regularMarketDayLow": 658.01,
-    "regularMarketDayHigh": 677.85,
+    "previousClose": 669.21,
+    "open": 661.51,
+    "dayLow": 654.2,
+    "dayHigh": 676.62,
+    "regularMarketPreviousClose": 669.21,
+    "regularMarketOpen": 661.51,
+    "regularMarketDayLow": 654.2,
+    "regularMarketDayHigh": 676.62,
     "dividendRate": 2.1,
     "dividendYield": 0.31,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
     "beta": 1.246,
-    "trailingPE": 24.33491,
-    "forwardPE": 18.420841,
-    "volume": 40608860,
-    "regularMarketVolume": 40608860,
-    "averageVolume": 17750133,
+    "trailingPE": 23.88109,
+    "forwardPE": 18.077312,
+    "volume": 18010409,
+    "regularMarketVolume": 18010409,
+    "averageVolume": 17884744,
     "averageVolume10days": 23621660,
     "averageDailyVolume10Day": 23621660,
-    "bid": 668.99,
-    "ask": 668.86,
+    "bid": 656.3,
+    "ask": 657.33,
     "bidSize": 2,
-    "askSize": 1,
-    "marketCap": 1698738339840,
+    "askSize": 4,
+    "marketCap": 1667058630656,
     "nonDilutedMarketCap": 1698738259269,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.9024687,
+    "priceToSalesTrailing12Months": 7.755096,
     "fiftyDayAverage": 600.4454,
     "twoHundredDayAverage": 642.718,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0033255205,
+    "trailingAnnualDividendYield": 0.003138028,
     "currency": "USD",
     "tradeable": false,
     "enterpriseValue": 1704327249920,
@@ -189,7 +189,7 @@
     "shortPercentOfFloat": 0.015700001,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.969994,
+    "priceToBook": 6.840011,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
@@ -205,7 +205,7 @@
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 669.21,
+    "currentPrice": 656.73,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 664.46,
     "targetMeanPrice": 828.341,
@@ -240,23 +240,19 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "corporateActions": [],
-    "postMarketTime": 1783727999,
-    "regularMarketTime": 1783713601,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.18081349,
-    "postMarketPrice": 668.0,
-    "postMarketChange": -1.210022,
-    "regularMarketChange": 37.72998,
-    "regularMarketDayRange": "658.01 - 677.85",
+    "marketState": "POST",
+    "postMarketChangePercent": 0.0030483657,
+    "postMarketPrice": 656.75,
+    "postMarketChange": 0.020019531,
+    "regularMarketChange": -12.4800415,
+    "regularMarketDayRange": "654.2 - 676.62",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 17750133,
-    "fiftyTwoWeekLowChange": 148.95001,
-    "fiftyTwoWeekLowChangePercent": 0.28629917,
+    "averageDailyVolume3Month": 17884744,
+    "fiftyTwoWeekLowChange": 136.46997,
+    "fiftyTwoWeekLowChangePercent": 0.2623111,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -127.03998,
-    "fiftyTwoWeekHighChangePercent": -0.15954785,
+    "fiftyTwoWeekHighChange": -139.52002,
+    "fiftyTwoWeekHighChangePercent": -0.17522137,
     "fiftyTwoWeekChangePercent": -7.172781,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1777492800,
@@ -268,9 +264,20 @@
     "epsTrailingTwelveMonths": 27.5,
     "epsForward": 36.32896,
     "epsCurrentYear": 31.939,
-    "marketState": "CLOSED",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
+    "priceEpsCurrentYear": 20.562008,
+    "fiftyDayAverageChange": 56.284607,
+    "fiftyDayAverageChangePercent": 0.093738094,
+    "twoHundredDayAverageChange": 14.011963,
+    "twoHundredDayAverageChangePercent": 0.021801105,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-07-13",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "corporateActions": [],
+    "postMarketTime": 1783982941,
+    "regularMarketTime": 1783972801,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -278,19 +285,12 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 5.974849,
-    "regularMarketPrice": 669.21,
-    "priceEpsCurrentYear": 20.952755,
-    "fiftyDayAverageChange": 68.76465,
-    "fiftyDayAverageChangePercent": 0.11452274,
-    "twoHundredDayAverageChange": 26.492004,
-    "twoHundredDayAverageChangePercent": 0.041218705,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-12",
-    "averageAnalystRating": "1.3 - Strong Buy",
+    "regularMarketChangePercent": -1.8648916,
+    "regularMarketPrice": 656.73,
+    "longName": "Meta Platforms, Inc.",
+    "shortName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
     "cryptoTradeable": false,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.9669
@@ -1650,94 +1650,32 @@
   },
   "news": [
     {
-      "id": "b9cd5434-cc5b-3be3-942d-0358539208b6",
+      "id": "6447edd7-4637-453c-ab12-0ee2fb2b911e",
       "content": {
-        "id": "b9cd5434-cc5b-3be3-942d-0358539208b6",
-        "contentType": "STORY",
-        "title": "OpenAI Applications Chief Fidji Simo Steps Down From Full-Time Role Over Chronic Illness Recovery, Says 'I Failed to Make This Decision Many Times Before'",
-        "description": "",
-        "summary": "Fidji Simo stepped down from her full-time role as OpenAI‘s president of applications on Thursday, transitioning to a part-time advisory position after her chronic illness recovery proved longer than she had anticipated. In her X post, Simo wrote that she...",
-        "pubDate": "2026-07-12T21:31:09Z",
-        "displayTime": "2026-07-12T21:31:09Z",
+        "id": "6447edd7-4637-453c-ab12-0ee2fb2b911e",
+        "contentType": "VIDEO",
+        "title": "Meta's data center costs are skyrocketing. Here's what you need to know.",
+        "description": "<p>Meta (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/META/\" data-i13n=\"cpos:1;pos:1\">META</a>) raised the budget for its Louisiana data center from $27 billion to $50 billion. Yahoo Finance Technology Editor Dan Howley takes a closer look at the company's surging costs.</p>",
+        "summary": "Meta (META) raised the budget for its Louisiana data center from $27 billion to $50 billion. Yahoo Finance Technology Editor Dan Howley takes a closer look at the company's surging costs.",
+        "pubDate": "2026-07-13T20:34:16Z",
+        "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/2152a732259ee0fe1e9fc286dbab3583",
-          "originalWidth": 667,
-          "originalHeight": 720,
-          "caption": "OpenAI Applications Chief Fidji Simo Steps Down From Full-Time Role Over Chronic Illness Recovery, Says 'I Failed to Make This Decision Many Times Before'",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YNuqOED7SyeeBiqkpcqqFQ--~B/aD03MjA7dz02Njc7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/2152a732259ee0fe1e9fc286dbab3583",
-              "width": 667,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/eMueE.JHc04Yxv1FehQAUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/2152a732259ee0fe1e9fc286dbab3583",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/openai-applications-chief-fidji-simo-213109230.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/openai-applications-chief-fidji-simo-213109230.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "51476c23-664a-3a09-b5b5-07b439c2d79d",
-      "content": {
-        "id": "51476c23-664a-3a09-b5b5-07b439c2d79d",
-        "contentType": "STORY",
-        "title": "Meta (META) Faces $2 Billion AI Deal Reversal And EU App Design Probe",
-        "description": "",
-        "summary": "Chinese regulators have required Meta Platforms to unwind its planned $2b acquisition of AI start up Manus, clearing the way for Tencent to become the largest shareholder. The reversal marks a setback for Meta's AI plans in China and raises questions about its ability to secure and retain key AI assets in important markets. Separately, the European Commission has issued preliminary findings that Facebook and Instagram use potentially \"addictive\" design features such as infinite scroll and...",
-        "pubDate": "2026-07-12T21:08:01Z",
-        "displayTime": "2026-07-12T21:08:01Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-          "originalWidth": 1194,
-          "originalHeight": 432,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/BotysmorrQxkShY3Ui_I3Q--~B/aD0xNDI3O3c9MjUzNzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dbbe06eb-fda0-4327-a9ee-88d379ff2b36_b4dc1468279d78f1b0e751c17e98d53ca80756c01b8d3374ecb0abfc8bb0990a.jpg",
+          "originalWidth": 2537,
+          "originalHeight": 1427,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BrUhbDoJKeNJUavlZ7MvVQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-              "width": 1194,
-              "height": 432,
+              "url": "https://s.yimg.com/uu/api/res/1.2/BotysmorrQxkShY3Ui_I3Q--~B/aD0xNDI3O3c9MjUzNzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dbbe06eb-fda0-4327-a9ee-88d379ff2b36_b4dc1468279d78f1b0e751c17e98d53ca80756c01b8d3374ecb0abfc8bb0990a.jpg",
+              "width": 2537,
+              "height": 1427,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/J6fEwVETVa_jUCz0igm0HA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/taGuBp967z.l983b4dUUqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dbbe06eb-fda0-4327-a9ee-88d379ff2b36_b4dc1468279d78f1b0e751c17e98d53ca80756c01b8d3374ecb0abfc8bb0990a.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1745,24 +1683,24 @@
           ]
         },
         "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "video.yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-faces-2-billion-210801965.html",
+          "url": "https://finance.yahoo.com/video/metas-data-center-costs-are-skyrocketing-heres-what-you-need-to-know-203416070.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-faces-2-billion-210801965.html",
+          "url": "https://finance.yahoo.com/video/metas-data-center-costs-are-skyrocketing-heres-what-you-need-to-know-203416070.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": false
+          "editorsPick": true
         },
         "finance": {
           "premiumFinance": {
@@ -1770,36 +1708,93 @@
             "isPremiumFreeNews": false
           }
         },
-        "storyline": null
+        "storyline": {
+          "storylineItems": [
+            {
+              "content": {
+                "id": "2fa7ee91-9a00-4a22-aad7-d4317b3f89cd",
+                "contentType": "STORY",
+                "isHosted": true,
+                "title": "Tech stocks live updates: Tech stocks fall as AI trade faces scrutiny, SK Hynix falls",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/gV7OPdQWAPZMwS.nmCpP0A--~B/aD0zNzc1O3c9NTY2MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/e2b4c8dc-2acd-4fe5-b7d3-5b8ec3f38692",
+                  "originalWidth": 5663,
+                  "originalHeight": 3775,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance",
+                  "sourceId": "yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-updates-ai-trade-sk-hynix-124717493.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-updates-ai-trade-sk-hynix-124717493.html"
+                }
+              }
+            },
+            {
+              "content": {
+                "id": "dd9d27a9-c52f-450f-b84a-490945cf7b14",
+                "contentType": "STORY",
+                "isHosted": true,
+                "title": "Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/CQOBa2yj9HLyUm.W5YG5MQ--~B/aD01MjgwO3c9NzYxMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/a0826235-c643-455f-8aee-34f117174773",
+                  "originalWidth": 7610,
+                  "originalHeight": 5280,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance",
+                  "sourceId": "yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/retail-investors-are-cashing-out-of-apple-tesla-and-chip-stocks-chart-of-the-day-162404788.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/retail-investors-are-cashing-out-of-apple-tesla-and-chip-stocks-chart-of-the-day-162404788.html"
+                }
+              }
+            }
+          ]
+        }
       }
     },
     {
-      "id": "d942518c-92d8-35b8-871c-bd804ed1b6ef",
+      "id": "1facd0ae-02a4-4f9b-a0d9-52bdb7a65239",
       "content": {
-        "id": "d942518c-92d8-35b8-871c-bd804ed1b6ef",
+        "id": "1facd0ae-02a4-4f9b-a0d9-52bdb7a65239",
         "contentType": "STORY",
-        "title": "Is the AI Bubble About to Burst?",
+        "title": "Nvidia, Micron, and other chip players are poised to become cash-producing machines",
         "description": "",
-        "summary": "Artificial intelligence is transforming business, but mounting evidence suggests its greatest value lies in supporting human expertise rather than replacing it.",
-        "pubDate": "2026-07-12T19:00:00Z",
-        "displayTime": "2026-07-12T19:00:00Z",
+        "summary": "Chip players are churning out cash while hyperscalers spend big on the AI build-out.",
+        "pubDate": "2026-07-13T15:02:32Z",
+        "displayTime": "2026-07-13T15:02:32Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/oilprice.com/7856d9d7438a4a93ef29874c4df27a63",
-          "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/rAQXv6ZR4In3zRETcbn3bg--~B/aD0xNDMyO3c9MjU0NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e91eb520-a8ee-11ed-9ee7-7c2a1d4e1bb3_6a84ab4e016f3200c2080bdff523c1397d618eedd9451e3c4623486139a93917.jpg",
+          "originalWidth": 2546,
+          "originalHeight": 1432,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WNu0J0_4LDRys1OgwGtWrA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/oilprice.com/7856d9d7438a4a93ef29874c4df27a63",
-              "width": 1000,
-              "height": 563,
+              "url": "https://s.yimg.com/uu/api/res/1.2/rAQXv6ZR4In3zRETcbn3bg--~B/aD0xNDMyO3c9MjU0NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e91eb520-a8ee-11ed-9ee7-7c2a1d4e1bb3_6a84ab4e016f3200c2080bdff523c1397d618eedd9451e3c4623486139a93917.jpg",
+              "width": 2546,
+              "height": 1432,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/f1JTxVh7M3tbxBnWoCbVSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/7856d9d7438a4a93ef29874c4df27a63",
+              "url": "https://s.yimg.com/uu/api/res/1.2/MBFsP_Cb5btH_BcHwHyzeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e91eb520-a8ee-11ed-9ee7-7c2a1d4e1bb3_6a84ab4e016f3200c2080bdff523c1397d618eedd9451e3c4623486139a93917.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1807,18 +1802,142 @@
           ]
         },
         "provider": {
-          "displayName": "Oilprice.com",
-          "url": "http://oilprice.com",
-          "sourceId": "oilprice.com"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-micron-and-other-chip-players-are-poised-to-become-cash-producing-machines-150232841.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-micron-and-other-chip-players-are-poised-to-become-cash-producing-machines-150232841.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bcaad1bf-7c68-41d9-aa0d-aadcc5f6d9da",
+      "content": {
+        "id": "bcaad1bf-7c68-41d9-aa0d-aadcc5f6d9da",
+        "contentType": "VIDEO",
+        "title": "Tech Sell-Off: How investors should navigate the market",
+        "description": "<p>Yahoo Finance Executive Editor Brian Sozzi sits down with Visible Alpha Head of TMT Research Melissa Otto to discuss how investors should navigate the technology sector following its recent market sell-off.</p>",
+        "summary": "Yahoo Finance Executive Editor Brian Sozzi sits down with Visible Alpha Head of TMT Research Melissa Otto to discuss how investors should navigate the technology sector following its recent market sell-off.",
+        "pubDate": "2026-07-13T14:56:38Z",
+        "displayTime": "",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-05/931d3430-4a80-11f1-bbd6-22e861a81f02",
+          "originalWidth": 8000,
+          "originalHeight": 4099,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/TtYMVwCfMUz78jL.B76fHg--~B/aD00MDk5O3c9ODAwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-05/931d3430-4a80-11f1-bbd6-22e861a81f02",
+              "width": 8000,
+              "height": 4099,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8XML8v7_w3DAR4qXz6Z3GA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-05/931d3430-4a80-11f1-bbd6-22e861a81f02",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "video.yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/video/tech-sell-off-how-investors-should-navigate-the-market-145638154.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/video/tech-sell-off-how-investors-should-navigate-the-market-145638154.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3898fb68-5147-3b2f-8320-51c3554ec9ad",
+      "content": {
+        "id": "3898fb68-5147-3b2f-8320-51c3554ec9ad",
+        "contentType": "STORY",
+        "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD",
+        "description": "",
+        "summary": "TSMC posted a blowout quarter while memory stocks cratered, and the split signals something important about where AI hardware demand is actually holding up and where it is starting to crack.",
+        "pubDate": "2026-07-13T21:45:00Z",
+        "displayTime": "2026-07-13T21:45:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/48a4ee66064ca201687004fa47cb92f6",
+          "originalWidth": 500,
+          "originalHeight": 333,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NdH3iQDl6_ZDiumH7ydtAg--~B/aD0zMzM7dz01MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/48a4ee66064ca201687004fa47cb92f6",
+              "width": 500,
+              "height": 333,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9Ps2VSABBVtk3xDu7fa7Zw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/48a4ee66064ca201687004fa47cb92f6",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/13/tsmc-sales-jump-36-as-memory-stocks-plunge-what-it-means-for-nvidia-and-amd/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sales-jump-36-memory-214500837.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1836,32 +1955,94 @@
       }
     },
     {
-      "id": "4890ee8f-7be3-3f3f-a32e-d4b9d018d4ce",
+      "id": "3c8a1d2e-a15c-3a3b-ba99-c3009ad46644",
       "content": {
-        "id": "4890ee8f-7be3-3f3f-a32e-d4b9d018d4ce",
+        "id": "3c8a1d2e-a15c-3a3b-ba99-c3009ad46644",
         "contentType": "STORY",
-        "title": "Big Tech Is Pouring Billions Into AI, and the Stock Market Wants to See the Payoff—Now",
+        "title": "Cboe Global Markets to Launch Extended Hours for Single-Stock Options. Here's Why It Wins When Volatility Spikes.",
         "description": "",
-        "summary": "Analysts expect Alphabet’s second-quarter capital expenditures to reach $44.9 billion, a 100% increase from the prior year period.",
-        "pubDate": "2026-07-12T18:16:00Z",
-        "displayTime": "2026-07-12T18:16:00Z",
+        "summary": "This stock thrives on volatility.",
+        "pubDate": "2026-07-13T21:25:00Z",
+        "displayTime": "2026-07-13T21:25:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/8b3c7c01126a64075f37ed94aed1c620",
+          "originalWidth": 1200,
+          "originalHeight": 782,
+          "caption": "A trader looking up at a stock trading video screen. ",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/jUf8fK9U6hNL_xlE.MmD9Q--~B/aD03ODI7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8b3c7c01126a64075f37ed94aed1c620",
+              "width": 1200,
+              "height": 782,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/W8sNbLKZx1tpO3Og2IsF9A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8b3c7c01126a64075f37ed94aed1c620",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/13/cboe-global-markets-begins-extended-hours-for-sing/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/options/articles/cboe-global-markets-launch-extended-212500508.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5c3f659d-71a8-31f7-a452-f104234e74cc",
+      "content": {
+        "id": "5c3f659d-71a8-31f7-a452-f104234e74cc",
+        "contentType": "STORY",
+        "title": "SK Hynix, Sandisk, AppLovin, Intuit, Meta, SpaceX, and More Stocks That Explain Today’s Market",
+        "description": "",
+        "summary": "AI stocks tumble as investors wonder how much longer Big Tech companies can maintain their aggressive spending plans.",
+        "pubDate": "2026-07-13T20:16:00Z",
+        "displayTime": "2026-07-13T20:16:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/4890ee8f-7be3-3f3f-a32e-d4b9d018d4ce/big-tech-is-pouring-billions.html",
+        "previewUrl": "https://finance.yahoo.com/m/5c3f659d-71a8-31f7-a452-f104234e74cc/sk-hynix-sandisk-applovin-.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/d57028a796539aad0506ba0df74347a6",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/4419d9277b22b49d3b60ddbb097e24fc",
           "originalWidth": 1280,
           "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/TWxYeZNbU8WKR8dep9PDNg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d57028a796539aad0506ba0df74347a6",
+              "url": "https://s.yimg.com/uu/api/res/1.2/xh5_VHT99o_RwnkP_4zTmg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4419d9277b22b49d3b60ddbb097e24fc",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/sS.In65TvYkNA22IQsOOCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/d57028a796539aad0506ba0df74347a6",
+              "url": "https://s.yimg.com/uu/api/res/1.2/yD5IgBBqPZlELEf0etS0JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4419d9277b22b49d3b60ddbb097e24fc",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1874,7 +2055,7 @@
           "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/big-tech-earnings-ai-spending-2c8774f5?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/stock-movers-8959cfe7?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1893,94 +2074,32 @@
       }
     },
     {
-      "id": "0139ca11-53ad-3cd3-a20f-b4fcb54ed890",
+      "id": "f80418d0-7057-33b2-ac96-d0d427ccefe9",
       "content": {
-        "id": "0139ca11-53ad-3cd3-a20f-b4fcb54ed890",
+        "id": "f80418d0-7057-33b2-ac96-d0d427ccefe9",
         "contentType": "STORY",
-        "title": "$10,000 Invested in Mark Zuckerberg's Meta a Decade Ago Is Worth This Much Today",
+        "title": "CoreWeave (CRWV) Stock Faces Meta Compute Threat As Ark Invest Adds Shares",
         "description": "",
-        "summary": "A look at what a decade of patience in the social media giant actually paid.",
-        "pubDate": "2026-07-12T16:33:00Z",
-        "displayTime": "2026-07-12T16:33:00Z",
+        "summary": "Meta Platforms has launched \"Meta Compute,\" a third-party cloud AI offering that directly overlaps with CoreWeave's services. The move turns Meta from a major customer into a significant new competitor for CoreWeave. At the same time, Ark Invest and Cathie Wood have increased their holdings in CoreWeave (NasdaqGS:CRWV). CoreWeave enters this new phase with its shares at $88.88 and a mixed recent track record. The stock is up 2.8% over the past week and 12.1% year to date, but is down 11.6%...",
+        "pubDate": "2026-07-13T20:09:34Z",
+        "displayTime": "2026-07-13T20:09:34Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c840f27e17df878344c054f10692df44",
-          "originalWidth": 1400,
-          "originalHeight": 795,
-          "caption": "A chart showing a soaring stock price.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hcl._dXLBgEvbUOsSXNKkw--~B/aD03OTU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c840f27e17df878344c054f10692df44",
-              "width": 1400,
-              "height": 795,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/29iQbOHohrYySe6jBT8IdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c840f27e17df878344c054f10692df44",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/12/10000-invested-in-mark-zuckerbergs-meta-a-decade-a/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-invested-mark-zuckerbergs-163300912.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "54e7352c-8574-3e15-a2ff-2177c0b2661d",
-      "content": {
-        "id": "54e7352c-8574-3e15-a2ff-2177c0b2661d",
-        "contentType": "STORY",
-        "title": "Is Meta Platforms a good long-term investment?",
-        "description": "",
-        "summary": "If you can find a fortune teller bold enough to share their secrets, they’ll probably tell you that predicting the future has less to do with what's inside their crystal ball than with what you see around you. The same is true for investing. While crystal balls belong at state fairs, successful ...",
-        "pubDate": "2026-07-12T16:30:00Z",
-        "displayTime": "2026-07-12T16:30:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/75af1d21ffbc3d0e8eae2881840ade78",
-          "originalWidth": 3840,
-          "originalHeight": 2555,
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/47b1af040582d42464f0a0f280b2e22b",
+          "originalWidth": 1194,
+          "originalHeight": 432,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/FEnytt9fai3moJcZjT0XDA--~B/aD0yNTU1O3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/75af1d21ffbc3d0e8eae2881840ade78",
-              "width": 3840,
-              "height": 2555,
+              "url": "https://s.yimg.com/uu/api/res/1.2/MV0GKRdHWnut1p2TaHOYMQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/47b1af040582d42464f0a0f280b2e22b",
+              "width": 1194,
+              "height": 432,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DAAVAw4IPTMEEc7zYOqQkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/75af1d21ffbc3d0e8eae2881840ade78",
+              "url": "https://s.yimg.com/uu/api/res/1.2/xa.weXHMj76pLUj0AQi7xw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/47b1af040582d42464f0a0f280b2e22b",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1988,18 +2107,18 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/is-meta-platforms-a-good-long-term-investment",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-stock-faces-meta-200934969.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-good-long-term-163000909.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-stock-faces-meta-200934969.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2017,51 +2136,75 @@
       }
     },
     {
-      "id": "9d701069-641f-39cd-a32c-584184c9e69f",
+      "id": "b5e649d6-3cfd-3ab1-82ea-33c719d58449",
       "content": {
-        "id": "9d701069-641f-39cd-a32c-584184c9e69f",
+        "id": "b5e649d6-3cfd-3ab1-82ea-33c719d58449",
         "contentType": "STORY",
-        "title": "Mark Zuckerberg Posted on Elon Musk's X for the First Time Since 2023 to Promote Meta's Muse AI—MKBHD Explains How to Opt Out",
+        "title": "Sector Update: Tech Stocks Fall Late Afternoon",
         "description": "",
-        "summary": "On Thursday, Meta Platforms Inc. CEO Mark Zuckerberg returned to X after nearly three years to unveil the company’s latest AI model. Mark Zuckerberg Returns To X Zuckerberg broke his long silence on X to introduce Muse Spark 1.1, Meta’s...",
-        "pubDate": "2026-07-12T14:31:32Z",
-        "displayTime": "2026-07-12T14:31:32Z",
+        "summary": "Tech stocks were lower late Monday afternoon, with the State Street Technology Select Sector SPDR ET",
+        "pubDate": "2026-07-13T19:55:40Z",
+        "displayTime": "2026-07-13T19:55:40Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/64347b023670e8fb61a6ff089df44e95",
-          "originalWidth": 1024,
-          "originalHeight": 576,
-          "caption": "Mark Zuckerberg Posted on Elon Musk's X for the First Time Since 2023 to Promote Meta's Muse AI—MKBHD Explains How to Opt Out",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/j3jPZKOcAbxEOAix0N9_NQ--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/64347b023670e8fb61a6ff089df44e95",
-              "width": 1024,
-              "height": 576,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/grjlMh1JvV.jsPdCJY7qVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/64347b023670e8fb61a6ff089df44e95",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
+        "thumbnail": null,
         "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://tech.yahoo.com/ai/meta-ai/articles/mark-zuckerberg-posted-elon-musks-143132975.html",
-          "site": "tech",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-195540793.html",
+          "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://tech.yahoo.com/ai/meta-ai/articles/mark-zuckerberg-posted-elon-musks-143132975.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-195540793.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": true,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "012ea745-20eb-3d79-8303-eb30a907301c",
+      "content": {
+        "id": "012ea745-20eb-3d79-8303-eb30a907301c",
+        "contentType": "STORY",
+        "title": "Google Takes Aim at Nvidia's AI Chip Market",
+        "description": "",
+        "summary": "The company is looking beyond its own data centers as it tries to sell more TPUs to outside cloud providers.",
+        "pubDate": "2026-07-13T19:36:36Z",
+        "displayTime": "2026-07-13T19:36:36Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/google-takes-aim-nvidias-ai-193636716.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/google-takes-aim-nvidias-ai-193636716.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2079,156 +2222,32 @@
       }
     },
     {
-      "id": "af938867-070f-3fdc-9087-95324dd714dc",
+      "id": "79a46fbc-f057-3ba2-b9ef-432436b6802f",
       "content": {
-        "id": "af938867-070f-3fdc-9087-95324dd714dc",
+        "id": "79a46fbc-f057-3ba2-b9ef-432436b6802f",
         "contentType": "STORY",
-        "title": "Meta Platforms Inc. (META) Is A Top AI Stock In D. E. Shaw’s Holdings",
+        "title": "Quality Stocks Aren’t the Names You’d Expect",
         "description": "",
-        "summary": "Meta Platforms Inc. (NASDAQ:META) is one of the 10 Best Stocks to Buy in 2026 According to Billionaire D.E. Shaw. Social media giant Meta Platforms Inc. (NASDAQ:META) has been in the news lately due to its reported decision to sell excess computing capacity. The reports come as discussions and debates about its spending, despite not […]",
-        "pubDate": "2026-07-12T14:04:50Z",
-        "displayTime": "2026-07-12T14:04:50Z",
-        "isHosted": true,
+        "summary": "he varying definitions of this stock grouping can make it hard to determine whether investors should put their money there.",
+        "pubDate": "2026-07-13T19:25:00Z",
+        "displayTime": "2026-07-13T19:25:00Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/79a46fbc-f057-3ba2-b9ef-432436b6802f/quality-stocks-aren%E2%80%99t-the.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631",
-          "originalWidth": 750,
-          "originalHeight": 563,
-          "caption": "Meta Platforms Inc. (META) Is A Top AI Stock In D. E. Shaw's Holdings",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/E36Cwz0Ks290vMwF34DxLQ--~B/aD01NjM7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631",
-              "width": 750,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tRCAgpad.Gf.CTf0GLYsrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-inc-meta-top-140450076.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-inc-meta-top-140450076.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "41cbf208-cb61-31ee-875c-f6607a55fe39",
-      "content": {
-        "id": "41cbf208-cb61-31ee-875c-f6607a55fe39",
-        "contentType": "STORY",
-        "title": "The U.S. Economy Is Addicted to AI Spending. What Happens If It Slows?",
-        "description": "",
-        "summary": "AI spending has grown so massive it now drives a historic share of U.S. economic output, and that concentration is creating a risk most investors have not priced in yet.",
-        "pubDate": "2026-07-12T13:40:29Z",
-        "displayTime": "2026-07-12T13:40:29Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/249e5786154ef2539072f483a4858f39",
-          "originalWidth": 1500,
-          "originalHeight": 843,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6dvW3uYyzwGt10vyNV77Yg--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/249e5786154ef2539072f483a4858f39",
-              "width": 1500,
-              "height": 843,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/44Y605xYWgJJrfYStouwCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/249e5786154ef2539072f483a4858f39",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/12/the-u-s-economy-is-addicted-to-ai-spending-what-happens-if-it-slows/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/articles/u-economy-addicted-ai-spending-134029657.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e6a1e22e-3cd8-3241-ae73-defba596199e",
-      "content": {
-        "id": "e6a1e22e-3cd8-3241-ae73-defba596199e",
-        "contentType": "STORY",
-        "title": "Broadcom vs. Marvell: A Valuation Showdown for the Custom AI Chip Trade",
-        "description": "",
-        "summary": "Broadcom and Marvell are both riding the custom AI chip boom, but one offers faster growth while the other may be the better value for long-term investors.",
-        "pubDate": "2026-07-12T13:38:00Z",
-        "displayTime": "2026-07-12T13:38:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/caa3b562d3e0bf52cd605dcfb70ce70b",
-          "originalWidth": 1400,
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/1a0f8bb3498b20b6226f311fa94f4a39",
+          "originalWidth": 1280,
           "originalHeight": 640,
-          "caption": "A computer chip sits in a computer. ",
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GcXHQEPD3QTQqz9tC5bW6A--~B/aD02NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/caa3b562d3e0bf52cd605dcfb70ce70b",
-              "width": 1400,
+              "url": "https://s.yimg.com/uu/api/res/1.2/uEHN1N0ihqPz4mo1_hooUQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/1a0f8bb3498b20b6226f311fa94f4a39",
+              "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Qyh7FMAY_F_8TqgEi3sbFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/caa3b562d3e0bf52cd605dcfb70ce70b",
+              "url": "https://s.yimg.com/uu/api/res/1.2/oxvApjWYMQtonYyx8fSNCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/1a0f8bb3498b20b6226f311fa94f4a39",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2236,22 +2255,17 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/12/broadcom-vs-marvell-a-valuation-showdown-for-the-c/",
+          "url": "https://www.barrons.com/articles/quality-tech-stocks-investing-market-eade9ddd?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-marvell-valuation-showdown-133800694.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },

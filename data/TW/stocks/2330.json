@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-07-12T22:40:19.313427"
+    "ts": "2026-07-13T22:49:08.625478"
   },
   "financials": {
     "annual": {
@@ -2509,6 +2509,15 @@
         "revenue_month": 5,
         "revenue_year": 2026,
         "create_time": "2026-06-10"
+      },
+      {
+        "date": "2026-07-01",
+        "stock_id": "2330",
+        "country": "Taiwan",
+        "revenue": 442679969000,
+        "revenue_month": 6,
+        "revenue_year": 2026,
+        "create_time": "2026-07-13"
       }
     ],
     "inst_investors": [
@@ -23826,6 +23835,41 @@
         "buy": 361457,
         "name": "Investment_Trust",
         "sell": 318232
+      },
+      {
+        "date": "2026-07-13",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-07-13",
+        "stock_id": "2330",
+        "buy": 755576,
+        "name": "Investment_Trust",
+        "sell": 225500
+      },
+      {
+        "date": "2026-07-13",
+        "stock_id": "2330",
+        "buy": 774795,
+        "name": "Dealer_self",
+        "sell": 406500
+      },
+      {
+        "date": "2026-07-13",
+        "stock_id": "2330",
+        "buy": 495864,
+        "name": "Dealer_Hedging",
+        "sell": 241349
+      },
+      {
+        "date": "2026-07-13",
+        "stock_id": "2330",
+        "buy": 23184896,
+        "name": "Foreign_Investor",
+        "sell": 25229698
       }
     ],
     "margin_trading": [],
@@ -23833,32 +23877,32 @@
   },
   "news": [
     {
-      "id": "082a233e-c56a-3b99-a968-08ce2bfc43f7",
+      "id": "dfe86e71-51b1-3d4f-a761-f5397f3ebbd1",
       "content": {
-        "id": "082a233e-c56a-3b99-a968-08ce2bfc43f7",
+        "id": "dfe86e71-51b1-3d4f-a761-f5397f3ebbd1",
         "contentType": "STORY",
-        "title": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+        "title": "Analyst Dan Ives Calls Memory Chips the “Golden Child” of the AI Revolution with “15-to-1” Demand-to-Supply Imbalance",
         "description": "",
-        "summary": "futures loom amid U.S.-Iran attacks. Taiwan Semi, Goldman and GE earnings are ahead. Nvidia, Sandisk, Micron are near buy points.",
-        "pubDate": "2026-07-12T22:34:53Z",
-        "displayTime": "2026-07-12T22:34:53Z",
-        "isHosted": false,
+        "summary": "Wedbush's Dan Ives is calling one corner of the semiconductor market the single most important asset in the AI buildout, and he says the supply crunch powering it will not let up for years. The stocks he is watching right now tell a very specific story about where the money is moving.",
+        "pubDate": "2026-07-13T22:34:25Z",
+        "displayTime": "2026-07-13T22:34:25Z",
+        "isHosted": true,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/082a233e-c56a-3b99-a968-08ce2bfc43f7/dow-jones-futures-fall-oil.html",
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/af29ffd2755319037ad2b4e57387fc84",
-          "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/61d766ae2930fdb5b81207bfc96291a9",
+          "originalWidth": 1500,
+          "originalHeight": 933,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Jv_ljs_jJn3a4d42pGYnvw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/af29ffd2755319037ad2b4e57387fc84",
-              "width": 1000,
-              "height": 563,
+              "url": "https://s.yimg.com/uu/api/res/1.2/21QIGz34P.DAF1ldqYEJew--~B/aD05MzM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/61d766ae2930fdb5b81207bfc96291a9",
+              "width": 1500,
+              "height": 933,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zqpei9RYydF6EOQ9R3lMOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/af29ffd2755319037ad2b4e57387fc84",
+              "url": "https://s.yimg.com/uu/api/res/1.2/tU.VI6UmPih8Sm005X3A3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/61d766ae2930fdb5b81207bfc96291a9",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23866,17 +23910,22 @@
           ]
         },
         "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+          "url": "https://247wallst.com/investing/2026/07/13/analyst-dan-ives-calls-memory-chips-the-golden-child-of-the-ai-revolution-with-15-to-1-demand-to-supply-imbalance/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/analyst-dan-ives-calls-memory-223425937.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
@@ -23890,32 +23939,94 @@
       }
     },
     {
-      "id": "73937fd6-a4d6-3f00-a0ca-40f831d909a2",
+      "id": "3898fb68-5147-3b2f-8320-51c3554ec9ad",
       "content": {
-        "id": "73937fd6-a4d6-3f00-a0ca-40f831d909a2",
+        "id": "3898fb68-5147-3b2f-8320-51c3554ec9ad",
         "contentType": "STORY",
-        "title": "Inflation, Bank of America, Wells Fargo, Goldman, ASML, J&J, and More to Watch This Week",
+        "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD",
         "description": "",
-        "summary": "Big banks kick off earnings season this week, which will also bring reports from GE Aerospace, Netflix, and Taiwan Semi. In economic news, we’ll get the consumer and producer price indexes, and retail sales data.",
-        "pubDate": "2026-07-12T18:00:00Z",
-        "displayTime": "2026-07-12T18:00:00Z",
+        "summary": "TSMC posted a blowout quarter while memory stocks cratered, and the split signals something important about where AI hardware demand is actually holding up and where it is starting to crack.",
+        "pubDate": "2026-07-13T21:45:00Z",
+        "displayTime": "2026-07-13T21:45:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/48a4ee66064ca201687004fa47cb92f6",
+          "originalWidth": 500,
+          "originalHeight": 333,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NdH3iQDl6_ZDiumH7ydtAg--~B/aD0zMzM7dz01MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/48a4ee66064ca201687004fa47cb92f6",
+              "width": 500,
+              "height": 333,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9Ps2VSABBVtk3xDu7fa7Zw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/48a4ee66064ca201687004fa47cb92f6",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/13/tsmc-sales-jump-36-as-memory-stocks-plunge-what-it-means-for-nvidia-and-amd/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sales-jump-36-memory-214500837.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6ef9b2e8-e562-344a-af4d-dd77a6b79dfc",
+      "content": {
+        "id": "6ef9b2e8-e562-344a-af4d-dd77a6b79dfc",
+        "contentType": "STORY",
+        "title": "Why TSMC’s Record Revenue Isn’t Reviving the AI Trade",
+        "description": "",
+        "summary": "The chip maker reports a 68% monthly sales jump, but investors are still questioning how long the AI spending boom can last.",
+        "pubDate": "2026-07-13T20:50:00Z",
+        "displayTime": "2026-07-13T20:50:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/73937fd6-a4d6-3f00-a0ca-40f831d909a2/inflation-bank-of-america-.html",
+        "previewUrl": "https://finance.yahoo.com/m/6ef9b2e8-e562-344a-af4d-dd77a6b79dfc/why-tsmc%E2%80%99s-record-revenue.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/5d04647b38eadf10cb9dc5daa84dad2f",
           "originalWidth": 1280,
           "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nrBCSNExwipwcZyJuHDxOQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5",
+              "url": "https://s.yimg.com/uu/api/res/1.2/GXpL1N.t2hnxWumqV8Wy_g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5d04647b38eadf10cb9dc5daa84dad2f",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4n7bJyMLxuaR48xuQm3XKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5",
+              "url": "https://s.yimg.com/uu/api/res/1.2/NpZioYinHvMWzDku7NwM9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/5d04647b38eadf10cb9dc5daa84dad2f",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -23928,7 +24039,7 @@
           "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/inflation-bank-of-america-wells-fargo-goldman-asml-j-j-and-more-to-watch-this-week-71bddc40?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/tsmc-stock-taiwan-semiconductor-record-revenue-ai-9d5ffe6c?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -23947,218 +24058,32 @@
       }
     },
     {
-      "id": "50067fc9-9c62-3fc0-8595-85c139f1d630",
+      "id": "bc731bd7-164f-3a39-8914-952d250a5dbb",
       "content": {
-        "id": "50067fc9-9c62-3fc0-8595-85c139f1d630",
+        "id": "bc731bd7-164f-3a39-8914-952d250a5dbb",
         "contentType": "STORY",
-        "title": "Ken Griffin Warns Losing TSMC Chips Could Trigger a 'Great Depression:' They're in 'Every High-End Product'",
+        "title": "Arm And Marvell Tumble As Chip Stocks Sell Off",
         "description": "",
-        "summary": "Speaking at the Goldman Sachs Apex Symposium, Citadel founder and CEO Ken Griffin warned that losing access to Taiwanese semiconductor chips would cause the U.S. gross domestic product (GDP) to decline by 8% within six months, triggering a modern “Great...",
-        "pubDate": "2026-07-12T16:31:21Z",
-        "displayTime": "2026-07-12T16:31:21Z",
-        "isHosted": true,
+        "summary": "Chip stocks sold off on Monday despite an upbeat report from Taiwan Semiconductor Manufacturing. Arm and other stocks broke support.",
+        "pubDate": "2026-07-13T20:49:00Z",
+        "displayTime": "2026-07-13T20:49:00Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/bc731bd7-164f-3a39-8914-952d250a5dbb/arm-and-marvell-tumble-as.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/efdf48ac44fda13204903c94be3fcbc2",
-          "originalWidth": 1024,
-          "originalHeight": 720,
-          "caption": "Ken Griffin Warns Losing TSMC Chips Could Trigger a 'Great Depression:' They're in 'Every High-End Product'",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4134bWzgScKR.XeXUg_nQw--~B/aD03MjA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/efdf48ac44fda13204903c94be3fcbc2",
-              "width": 1024,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3uin9gZTL3lKF4dncLuWMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/efdf48ac44fda13204903c94be3fcbc2",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/economy/articles/ken-griffin-warns-losing-tsmc-163121216.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/articles/ken-griffin-warns-losing-tsmc-163121216.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "cd438975-1fa6-32fc-b62b-8b9bbbd178e6",
-      "content": {
-        "id": "cd438975-1fa6-32fc-b62b-8b9bbbd178e6",
-        "contentType": "STORY",
-        "title": "Could SpaceX Become the Next $3 Trillion Company?",
-        "description": "",
-        "summary": "Space Exploration Technologies is currently the seventh-largest company in the world by market capitalization.",
-        "pubDate": "2026-07-12T13:25:00Z",
-        "displayTime": "2026-07-12T13:25:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c7c445a4c642a40c7841e369a7ffdb3f",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Image of a rocket launching.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/j9HVUMo1jjVHFshdQMbFzg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c7c445a4c642a40c7841e369a7ffdb3f",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3bikMsZJnq.b8iC2r2FZBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c7c445a4c642a40c7841e369a7ffdb3f",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/12/could-spacex-become-the-next-3-trillion-company/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-spacex-become-next-3-132500670.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8cebddb0-9b9e-3e74-882f-d06ef0ecec68",
-      "content": {
-        "id": "8cebddb0-9b9e-3e74-882f-d06ef0ecec68",
-        "contentType": "STORY",
-        "title": "Nvidia Investors Need to Be Paying Attention on July 16",
-        "description": "",
-        "summary": "TSMC's language could set the tone over the next few months for investors.",
-        "pubDate": "2026-07-12T09:35:00Z",
-        "displayTime": "2026-07-12T09:35:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/02474492b29dfe606acfc71822c9334c",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Two investors comparing information.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6JwI2uI2I4bAdpUA7zqQyw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/02474492b29dfe606acfc71822c9334c",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vZUde_1C2TU5EW1XJft9MA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/02474492b29dfe606acfc71822c9334c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/12/nvidia-investors-need-to-be-paying-attention-on-ju/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-investors-paying-attention-july-093500920.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "091e8475-8f98-354b-864f-4ac4253ce707",
-      "content": {
-        "id": "091e8475-8f98-354b-864f-4ac4253ce707",
-        "contentType": "STORY",
-        "title": "Can Meta Platforms (META) Turn Surplus AI Capacity Into a Durable Enterprise Revenue Engine?",
-        "description": "",
-        "summary": "In recent weeks, Meta Platforms announced a plan to launch “Meta Compute” to rent out excess AI capacity, accelerate production of its in-house Iris data-center chip with Broadcom and TSMC from September, and roll out advanced AI models like Muse Spark 1.1 and Muse Image alongside a new chief data officer appointment. These moves signal Meta’s push to turn its vast AI infrastructure and models into an enterprise-facing cloud and tooling business, even as it balances cost efficiency gains...",
-        "pubDate": "2026-07-12T06:11:55Z",
-        "displayTime": "2026-07-12T06:11:55Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-          "originalWidth": 1194,
-          "originalHeight": 432,
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/2031f73c1dbd2657c4d9acc75895aac3",
+          "originalWidth": 1000,
+          "originalHeight": 563,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BrUhbDoJKeNJUavlZ7MvVQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-              "width": 1194,
-              "height": 432,
+              "url": "https://s.yimg.com/uu/api/res/1.2/lSPXTa9dh9vmu6PP4wSFNg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/2031f73c1dbd2657c4d9acc75895aac3",
+              "width": 1000,
+              "height": 563,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/J6fEwVETVa_jUCz0igm0HA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/dCu16LP9WxcRl9yu.5MhMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2031f73c1dbd2657c4d9acc75895aac3",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24166,22 +24091,17 @@
           ]
         },
         "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-turn-surplus-061155319.html",
+          "url": "https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-turn-surplus-061155319.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
@@ -24195,94 +24115,32 @@
       }
     },
     {
-      "id": "1faa7b37-25f3-39ce-8e69-efb39f06681d",
+      "id": "b7241a55-936d-38db-a264-ab0ba8eddc85",
       "content": {
-        "id": "1faa7b37-25f3-39ce-8e69-efb39f06681d",
+        "id": "b7241a55-936d-38db-a264-ab0ba8eddc85",
         "contentType": "STORY",
-        "title": "Prediction: Taiwan Semiconductor's Stock Will Soar on July 17",
+        "title": "Taiwan Semiconductor Posts Stronger-Than-Expected June Sales",
         "description": "",
-        "summary": "Taiwan Semiconductor Manufacturing will set the tone for AI demand during earnings season.",
-        "pubDate": "2026-07-11T15:52:00Z",
-        "displayTime": "2026-07-11T15:52:00Z",
-        "isHosted": true,
+        "summary": "Taiwan Semiconductor Manufacturing beat expectations for June sales. It's set to report Q2 earnings on Thursday. TSM stock slid.",
+        "pubDate": "2026-07-13T20:29:04Z",
+        "displayTime": "2026-07-13T20:29:04Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/b7241a55-936d-38db-a264-ab0ba8eddc85/taiwan-semiconductor-posts.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/9daf78a128543301085737d199613701",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "Image of Taiwan Semiconductor's logo.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/LVEpFkLEKlG0MfGl._lGEQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9daf78a128543301085737d199613701",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8zShlciLtywm2_bs63hlrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9daf78a128543301085737d199613701",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/11/predict-taiwan-semiconductor-tsmc-stock-will-soar/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductors-stock-soar-155200485.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "784ea5d4-63b7-37be-a243-99854b5f0767",
-      "content": {
-        "id": "784ea5d4-63b7-37be-a243-99854b5f0767",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Announces NT$155.6b Q4 Cash Dividend",
-        "description": "",
-        "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) announced a substantial cash dividend for the fourth quarter, highlighting strong cash generation. The payout focuses attention on the company’s approach to returning cash to shareholders through regular dividends. The decision underscores how TSMC is using its industry position and balance sheet to support ongoing shareholder returns. Taiwan Semiconductor Manufacturing sits at the center of the global chip supply chain, and its dividend policy...",
-        "pubDate": "2026-07-11T10:10:41Z",
-        "displayTime": "2026-07-11T10:10:41Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
-          "originalWidth": 1194,
-          "originalHeight": 432,
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/3f413d8999efc1242a290eb11cb5035c",
+          "originalWidth": 1000,
+          "originalHeight": 563,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5Tyy8Oun7d69.ebTzNgpXA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
-              "width": 1194,
-              "height": 432,
+              "url": "https://s.yimg.com/uu/api/res/1.2/W7uFcbjomL.RKfEpz0EoKA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/3f413d8999efc1242a290eb11cb5035c",
+              "width": 1000,
+              "height": 563,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/sdqM2NN9Xy0ai0FXQvYklw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
+              "url": "https://s.yimg.com/uu/api/res/1.2/1Pt0BeHUS6jyIXImE4klvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/3f413d8999efc1242a290eb11cb5035c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24290,18 +24148,132 @@
           ]
         },
         "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-101041247.html",
+          "url": "https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-june-2026-sales/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5c3f659d-71a8-31f7-a452-f104234e74cc",
+      "content": {
+        "id": "5c3f659d-71a8-31f7-a452-f104234e74cc",
+        "contentType": "STORY",
+        "title": "SK Hynix, Sandisk, AppLovin, Intuit, Meta, SpaceX, and More Stocks That Explain Today’s Market",
+        "description": "",
+        "summary": "AI stocks tumble as investors wonder how much longer Big Tech companies can maintain their aggressive spending plans.",
+        "pubDate": "2026-07-13T20:16:00Z",
+        "displayTime": "2026-07-13T20:16:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/5c3f659d-71a8-31f7-a452-f104234e74cc/sk-hynix-sandisk-applovin-.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/4419d9277b22b49d3b60ddbb097e24fc",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xh5_VHT99o_RwnkP_4zTmg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4419d9277b22b49d3b60ddbb097e24fc",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yD5IgBBqPZlELEf0etS0JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4419d9277b22b49d3b60ddbb097e24fc",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/stock-movers-8959cfe7?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6e6a0852-ce38-35c7-ad49-fd5ca04fd7a3",
+      "content": {
+        "id": "6e6a0852-ce38-35c7-ad49-fd5ca04fd7a3",
+        "contentType": "STORY",
+        "title": "Should You Buy TSM Stock Ahead of Q2 Earnings on HPC Strength?",
+        "description": "",
+        "summary": "TSM will release Q2 earnings on July 16 with AI-driven HPC demand, 3nm technologies and record revenues expected to support another strong quarter.",
+        "pubDate": "2026-07-13T19:00:00Z",
+        "displayTime": "2026-07-13T19:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/0a03ce4508f037a370f4217f0d5fccc1",
+          "originalWidth": 620,
+          "originalHeight": 349,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/BzOXdQ7DqcGcFrEuRGAhYg--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0a03ce4508f037a370f4217f0d5fccc1",
+              "width": 620,
+              "height": 349,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MiGya4vRmlxB.ln2U_yHjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0a03ce4508f037a370f4217f0d5fccc1",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-tsm-stock-ahead-q2-190000563.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-101041247.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-tsm-stock-ahead-q2-190000563.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24319,51 +24291,32 @@
       }
     },
     {
-      "id": "9c7381cd-71d1-33ce-ba36-4eaccb7154cf",
+      "id": "0f566c42-163a-321d-91d5-591be5f66fa5",
       "content": {
-        "id": "9c7381cd-71d1-33ce-ba36-4eaccb7154cf",
+        "id": "0f566c42-163a-321d-91d5-591be5f66fa5",
         "contentType": "STORY",
-        "title": "Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enters Production in September.",
+        "title": "TSMC Revenue Tops Forecasts on AI Strength",
         "description": "",
-        "summary": "A reported September production date hints at how the company plans to get more out of its massive AI budget.",
-        "pubDate": "2026-07-11T03:01:00Z",
-        "displayTime": "2026-07-11T03:01:00Z",
+        "summary": "June growth strengthens expectations ahead of full earnings",
+        "pubDate": "2026-07-13T17:19:45Z",
+        "displayTime": "2026-07-13T17:19:45Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/86447e25d1519a0574a98bbb00fe5f96",
-          "originalWidth": 1400,
-          "originalHeight": 787,
-          "caption": "Rows of computer servers in a data center.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/M0xPHJJBDTyy2t1t3F0yMg--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/86447e25d1519a0574a98bbb00fe5f96",
-              "width": 1400,
-              "height": 787,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/c9gwcl4zCEcTi2qFt1rFag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/86447e25d1519a0574a98bbb00fe5f96",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
+        "thumbnail": null,
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/10/mark-zuckerberg-is-turning-meta-into-a-bigger-chip/",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-tops-forecasts-ai-171945309.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-turning-meta-bigger-030100431.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-tops-forecasts-ai-171945309.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24381,32 +24334,75 @@
       }
     },
     {
-      "id": "a35beef5-af03-319a-8df3-12afe9566280",
+      "id": "c1f1cd8c-8dd1-3b61-a860-b169ae6749b8",
       "content": {
-        "id": "a35beef5-af03-319a-8df3-12afe9566280",
+        "id": "c1f1cd8c-8dd1-3b61-a860-b169ae6749b8",
         "contentType": "STORY",
-        "title": "Why Is Meta (META) Stock Soaring Today",
+        "title": "TSMC Reports 36% Sales Growth as AI Demand Stays Strong",
         "description": "",
-        "summary": "Shares of social network operator Meta Platforms (NASDAQ:META) jumped 5.2% in the afternoon session after a cluster of AI infrastructure and product news reframed the company's heavy capital spending as a path to lower costs, new revenue, and faster growth rather than a pure expense drag.",
-        "pubDate": "2026-07-10T21:03:20Z",
-        "displayTime": "2026-07-10T21:03:20Z",
+        "summary": "Quarterly revenue matched estimates as investors await earnings and 2026 capital spending guidance.",
+        "pubDate": "2026-07-13T17:18:05Z",
+        "displayTime": "2026-07-13T17:18:05Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-reports-36-sales-growth-171805440.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-reports-36-sales-growth-171805440.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3afded46-f533-393a-a0f1-f2fa7bbf777e",
+      "content": {
+        "id": "3afded46-f533-393a-a0f1-f2fa7bbf777e",
+        "contentType": "STORY",
+        "title": "Premium Smartphone Demand Holds Up: What's Ahead for Amkor Technology?",
+        "description": "",
+        "summary": "AMKR is riding resilient premium smartphone demand as rising AI and chip complexity boost advanced packaging opportunities ahead.",
+        "pubDate": "2026-07-13T16:25:00Z",
+        "displayTime": "2026-07-13T16:25:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "META Cover Image",
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Ol.OYXaTLDXSb6x604S3Pw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
-              "width": 1400,
-              "height": 700,
+              "url": "https://s.yimg.com/uu/api/res/1.2/YT7fN0e2Shv68o.6OVnGmA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563",
+              "width": 635,
+              "height": 400,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OJ.q7321ts98DrQRXKRU7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+              "url": "https://s.yimg.com/uu/api/res/1.2/s92i05mNfpgSAUlGy2OXZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24414,18 +24410,18 @@
           ]
         },
         "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-meta-stock-soaring-210320840.html",
+          "url": "https://finance.yahoo.com/technology/articles/premium-smartphone-demand-holds-whats-162500286.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-meta-stock-soaring-210320840.html",
+          "url": "https://finance.yahoo.com/technology/articles/premium-smartphone-demand-holds-whats-162500286.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24555,45 +24551,45 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2465.0,
-    "open": 2450.0,
-    "dayLow": 2415.0,
-    "dayHigh": 2460.0,
-    "regularMarketPreviousClose": 2465.0,
-    "regularMarketOpen": 2450.0,
-    "regularMarketDayLow": 2415.0,
-    "regularMarketDayHigh": 2460.0,
+    "previousClose": 2415.0,
+    "open": 2460.0,
+    "dayLow": 2445.0,
+    "dayHigh": 2480.0,
+    "regularMarketPreviousClose": 2415.0,
+    "regularMarketOpen": 2460.0,
+    "regularMarketDayLow": 2445.0,
+    "regularMarketDayHigh": 2480.0,
     "dividendRate": 24.0,
     "dividendYield": 0.99,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2785,
     "fiveYearAvgDividendYield": 1.7,
     "beta": 1.246,
-    "trailingPE": 32.78577,
-    "forwardPE": 18.90572,
-    "volume": 30548318,
-    "regularMarketVolume": 30548318,
-    "averageVolume": 33980625,
+    "trailingPE": 33.125168,
+    "forwardPE": 19.02018,
+    "volume": 34539893,
+    "regularMarketVolume": 34539893,
+    "averageVolume": 34061462,
     "averageVolume10days": 25832127,
     "averageDailyVolume10Day": 25832127,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 62626671362048,
+    "marketCap": 63274980737024,
     "nonDilutedMarketCap": 62626673711805,
     "fiftyTwoWeekLow": 1085.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 15.260266,
+    "priceToSalesTrailing12Months": 15.418241,
     "fiftyDayAverage": 2336.1,
     "twoHundredDayAverage": 1843.725,
     "trailingAnnualDividendRate": 24.0,
-    "trailingAnnualDividendYield": 0.009736308,
+    "trailingAnnualDividendYield": 0.009937888,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 60378876739584,
+    "enterpriseValue": 61027186114560,
     "profitMargins": 0.46505,
     "floatShares": 23652396030,
     "sharesOutstanding": 25932370067,
@@ -24601,25 +24597,25 @@
     "heldPercentInstitutions": 0.43839002,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 227.166,
-    "priceToBook": 10.630992,
+    "priceToBook": 10.741044,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.583,
     "netIncomeToCommon": 1908519600128,
     "trailingEps": 73.66,
-    "forwardEps": 127.73912,
+    "forwardEps": 128.2848,
     "pegRatio": 1.18,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 14.713,
-    "enterpriseToEbitda": 21.141,
+    "enterpriseToRevenue": 14.871,
+    "enterpriseToEbitda": 21.368,
     "52WeekChange": 1.2054794,
     "SandP52WeekChange": 0.20847368,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
-    "currentPrice": 2415.0,
+    "currentPrice": 2440.0,
     "targetHighPrice": 3800.0,
     "targetLowPrice": 2051.0,
     "targetMeanPrice": 2833.9707,
@@ -24654,10 +24650,10 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChangePercent": 1.0351967,
+    "regularMarketPrice": 2440.0,
     "corporateActions": [],
-    "regularMarketTime": 1783575009,
+    "regularMarketTime": 1783920608,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -24665,20 +24661,15 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "marketState": "PREPRE",
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "regularMarketChangePercent": -2.0283976,
-    "regularMarketPrice": 2415.0,
-    "regularMarketChange": -50.0,
-    "regularMarketDayRange": "2415.0 - 2460.0",
+    "regularMarketChange": 25.0,
+    "regularMarketDayRange": "2445.0 - 2480.0",
     "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 33980625,
-    "fiftyTwoWeekLowChange": 1330.0,
-    "fiftyTwoWeekLowChangePercent": 1.2258065,
+    "averageDailyVolume3Month": 34061462,
+    "fiftyTwoWeekLowChange": 1355.0,
+    "fiftyTwoWeekLowChangePercent": 1.248848,
     "fiftyTwoWeekRange": "1085.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -120.0,
-    "fiftyTwoWeekHighChangePercent": -0.04733728,
+    "fiftyTwoWeekHighChange": -95.0,
+    "fiftyTwoWeekHighChangePercent": -0.037475344,
     "fiftyTwoWeekChangePercent": 120.547935,
     "earningsTimestamp": 1784179800,
     "earningsTimestampStart": 1784179800,
@@ -24687,15 +24678,20 @@
     "earningsCallTimestampEnd": 1784179800,
     "isEarningsDateEstimate": false,
     "epsTrailingTwelveMonths": 73.66,
-    "epsForward": 127.73912,
+    "epsForward": 128.2848,
     "epsCurrentYear": 99.90762,
-    "priceEpsCurrentYear": 24.172329,
-    "fiftyDayAverageChange": 78.8999,
-    "fiftyDayAverageChangePercent": 0.033774197,
-    "twoHundredDayAverageChange": 571.275,
-    "twoHundredDayAverageChangePercent": 0.30984828,
+    "priceEpsCurrentYear": 24.422562,
+    "fiftyDayAverageChange": 103.8999,
+    "fiftyDayAverageChangePercent": 0.044475794,
+    "twoHundredDayAverageChange": 596.275,
+    "twoHundredDayAverageChangePercent": 0.3234078,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "marketState": "PREPRE",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
     "trailingPegRatio": 1.1813
