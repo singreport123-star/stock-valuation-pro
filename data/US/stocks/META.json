@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-17T22:41:23.126250",
+    "ts": "2026-07-18T22:41:27.337370",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -146,35 +146,35 @@
     "regularMarketDayLow": 626.0,
     "regularMarketDayHigh": 652.2,
     "dividendRate": 2.1,
-    "dividendYield": 0.32,
+    "dividendYield": 0.33,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
     "beta": 1.246,
-    "trailingPE": 23.482733,
+    "trailingPE": 23.474201,
     "forwardPE": 17.782232,
     "volume": 20966389,
-    "regularMarketVolume": 20966389,
-    "averageVolume": 18094791,
-    "averageVolume10days": 21010190,
-    "averageDailyVolume10Day": 21010190,
+    "regularMarketVolume": 20965907,
+    "averageVolume": 18162004,
+    "averageVolume10days": 21065800,
+    "averageDailyVolume10Day": 21065800,
     "bid": 643.43,
     "ask": 644.0,
     "bidSize": 2,
     "askSize": 3,
     "marketCap": 1639846903808,
-    "nonDilutedMarketCap": 1686883822439,
+    "nonDilutedMarketCap": 1639846838616,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "priceToSalesTrailing12Months": 7.628508,
-    "fiftyDayAverage": 603.714,
-    "twoHundredDayAverage": 640.9925,
+    "fiftyDayAverage": 604.535,
+    "twoHundredDayAverage": 640.50555,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0031600806,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1692472836096,
+    "enterpriseValue": 1645435813888,
     "profitMargins": 0.32837,
     "floatShares": 2192690050,
     "sharesOutstanding": 2196045588,
@@ -184,7 +184,7 @@
     "dateShortInterest": 1782777600,
     "sharesPercentSharesOut": 0.0136,
     "heldPercentInsiders": 0.00103,
-    "heldPercentInstitutions": 0.79877996,
+    "heldPercentInstitutions": 0.79897004,
     "shortRatio": 1.82,
     "shortPercentOfFloat": 0.015700001,
     "impliedSharesOutstanding": 2538423304,
@@ -195,22 +195,22 @@
     "mostRecentQuarter": 1774915200,
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.51,
+    "trailingEps": 27.52,
     "forwardEps": 36.32896,
-    "pegRatio": 0.96,
-    "enterpriseToRevenue": 7.873,
-    "enterpriseToEbitda": 15.484,
-    "52WeekChange": -0.056426406,
-    "SandP52WeekChange": 0.19644618,
+    "pegRatio": 0.94,
+    "enterpriseToRevenue": 7.655,
+    "enterpriseToEbitda": 15.053,
+    "52WeekChange": -0.09391701,
+    "SandP52WeekChange": 0.18270898,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
     "currentPrice": 646.01,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 664.46,
-    "targetMeanPrice": 826.63416,
-    "targetMedianPrice": 823.66,
-    "recommendationMean": 1.31746,
+    "targetMeanPrice": 822.68585,
+    "targetMedianPrice": 821.16,
+    "recommendationMean": 1.34921,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 58,
     "totalCash": 81180000256,
@@ -240,37 +240,13 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "POST",
-    "shortName": "Meta Platforms, Inc.",
+    "regularMarketChangePercent": -2.78839,
+    "regularMarketPrice": 646.01,
     "longName": "Meta Platforms, Inc.",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.15247215,
-    "postMarketPrice": 645.025,
-    "postMarketChange": -0.98498535,
-    "regularMarketChange": -18.529968,
-    "regularMarketDayRange": "626.0 - 652.2",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18094791,
-    "fiftyTwoWeekLowChange": 125.75,
-    "fiftyTwoWeekLowChangePercent": 0.24170606,
-    "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -150.23999,
-    "fiftyTwoWeekHighChangePercent": -0.18868445,
-    "fiftyTwoWeekChangePercent": -5.6426406,
-    "dividendDate": 1782345600,
-    "earningsTimestamp": 1785355200,
-    "earningsTimestampStart": 1785355200,
-    "earningsTimestampEnd": 1785355200,
-    "earningsCallTimestampStart": 1785357000,
-    "earningsCallTimestampEnd": 1785357000,
-    "isEarningsDateEstimate": false,
-    "epsTrailingTwelveMonths": 27.51,
-    "epsForward": 36.32896,
-    "epsCurrentYear": 31.97818,
-    "priceEpsCurrentYear": 20.201588,
+    "marketState": "CLOSED",
+    "shortName": "Meta Platforms, Inc.",
     "corporateActions": [],
-    "postMarketTime": 1784328077,
+    "postMarketTime": 1784332798,
     "regularMarketTime": 1784318401,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
@@ -279,21 +255,45 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -2.7883902,
-    "regularMarketPrice": 646.01,
-    "fiftyDayAverageChange": 42.29602,
-    "fiftyDayAverageChangePercent": 0.0700597,
-    "twoHundredDayAverageChange": 5.017517,
-    "twoHundredDayAverageChangePercent": 0.007827732,
+    "fiftyDayAverageChange": 41.475037,
+    "fiftyDayAverageChangePercent": 0.06860651,
+    "twoHundredDayAverageChange": 5.5044556,
+    "twoHundredDayAverageChangePercent": 0.008593923,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-17",
+    "nameChangeDate": "2026-07-18",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": -0.8976186,
+    "postMarketPrice": 640.2113,
+    "postMarketChange": -5.798706,
+    "regularMarketChange": -18.53,
+    "regularMarketDayRange": "626.0 - 652.2",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 18162004,
+    "fiftyTwoWeekLowChange": 125.75,
+    "fiftyTwoWeekLowChangePercent": 0.24170606,
+    "fiftyTwoWeekRange": "520.26 - 796.25",
+    "fiftyTwoWeekHighChange": -150.23999,
+    "fiftyTwoWeekHighChangePercent": -0.18868445,
+    "fiftyTwoWeekChangePercent": -9.391701,
+    "dividendDate": 1782345600,
+    "earningsTimestamp": 1785355200,
+    "earningsTimestampStart": 1785355200,
+    "earningsTimestampEnd": 1785355200,
+    "earningsCallTimestampStart": 1785355200,
+    "earningsCallTimestampEnd": 1785355200,
+    "isEarningsDateEstimate": false,
+    "epsTrailingTwelveMonths": 27.52,
+    "epsForward": 36.32896,
+    "epsCurrentYear": 31.939,
+    "priceEpsCurrentYear": 20.22637,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.9602
+    "trailingPegRatio": 0.9424
   },
   "financial_statements": {
     "income": {
@@ -1604,8 +1604,8 @@
       "0": {
         "period": "0m",
         "strongBuy": 8,
-        "buy": 49,
-        "hold": 6,
+        "buy": 48,
+        "hold": 7,
         "sell": 0,
         "strongSell": 0
       },
@@ -1641,208 +1641,41 @@
         "2026-07-29"
       ],
       "Earnings High": 8.55,
-      "Earnings Low": 6.8,
-      "Earnings Average": 7.49333,
+      "Earnings Low": 6.46,
+      "Earnings Average": 7.39,
       "Revenue High": 62812000000,
-      "Revenue Low": 59132000000,
-      "Revenue Average": 60241316740
+      "Revenue Low": 59034000000,
+      "Revenue Average": 60253188980
     }
   },
   "news": [
     {
-      "id": "ccb99c45-cff5-4abb-847f-316dea877710",
+      "id": "a716624e-8642-3ff9-bade-39ed3087da65",
       "content": {
-        "id": "ccb99c45-cff5-4abb-847f-316dea877710",
-        "contentType": "VIDEO",
-        "title": "How Starlink is SpaceX's key to making big 'star bucks'",
-        "description": "<p>SpaceX (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/SPCX/\" data-i13n=\"slk:SPCX;cpos:1;pos:1\">SPCX</a>) canceled the test launch of its latest Starship rocket on Thursday due to engine ignition failure. The space venture's stock sinks lower ahead of Friday's close after already dropping below its mega-IPO price earlier this week.</p>\n<p>William Blair research analyst of industrials Louie DiPalma — whose firm maintains an Outperform rating on SpaceX's stock — comes on to talk more about the opportunities and risks ahead for Elon Musk's company.</p>",
-        "summary": "SpaceX (SPCX) canceled the test launch of its latest Starship rocket on Thursday due to engine ignition failure. The space venture's stock sinks lower ahead of Friday's close after already dropping below its mega-IPO price earlier this week. William Blair research analyst of industrials Louie DiPalma — whose firm maintains an Outperform rating on SpaceX's stock — comes on to talk more about the opportunities and risks ahead for Elon Musk's company.",
-        "pubDate": "2026-07-17T20:25:00Z",
-        "displayTime": "",
+        "id": "a716624e-8642-3ff9-bade-39ed3087da65",
+        "contentType": "STORY",
+        "title": "Meta Platforms Is Up 21% This Month, and Here Is What's Driving the Surge",
+        "description": "",
+        "summary": "The tech company just added $270 billion to its market cap.",
+        "pubDate": "2026-07-18T19:50:00Z",
+        "displayTime": "2026-07-18T19:50:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/db2nxDxvrcfq.fbEaRJThQ--~B/aD0xOTUzO3c9MzQ3MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fced8e5b-8329-47bd-a70f-dd575c69e025_8163b63a318277451dd86da8c653e6cf3e7892605dc885e4a7b2e6c8df6abfec.jpg",
-          "originalWidth": 3472,
-          "originalHeight": 1953,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ed9ec74f8c7c27e9d395192173bb8c3c",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "Meta logo on blue filter with office building in background.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/db2nxDxvrcfq.fbEaRJThQ--~B/aD0xOTUzO3c9MzQ3MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fced8e5b-8329-47bd-a70f-dd575c69e025_8163b63a318277451dd86da8c653e6cf3e7892605dc885e4a7b2e6c8df6abfec.jpg",
-              "width": 3472,
-              "height": 1953,
+              "url": "https://s.yimg.com/uu/api/res/1.2/GcgQrJEsm2IaMOf6KeQnig--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ed9ec74f8c7c27e9d395192173bb8c3c",
+              "width": 1200,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/eja9XN8w.CruFX8ff0lHyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fced8e5b-8329-47bd-a70f-dd575c69e025_8163b63a318277451dd86da8c653e6cf3e7892605dc885e4a7b2e6c8df6abfec.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/starlink-spacexs-key-making-big-202500888.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/starlink-spacexs-key-making-big-202500888.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9fca9953-9b15-3356-9aad-caa524002a71",
-      "content": {
-        "id": "9fca9953-9b15-3356-9aad-caa524002a71",
-        "contentType": "STORY",
-        "title": "Meta in talks to rent some of its billions in AI infrastructure to Anthropic",
-        "description": "",
-        "summary": "Meta is in talks with Anthropic about leasing computing capacity to the AI startup. It’s a move that could put the social media giant in competition with Amazon, Microsoft and Google in a new line of business: cloud computing.",
-        "pubDate": "2026-07-17T21:07:52Z",
-        "displayTime": "2026-07-17T21:07:52Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/cnn_business_articles_218/7b275c74a9c939a51b461ed2618682c0",
-          "originalWidth": 960,
-          "originalHeight": 540,
-          "caption": "(L-R): Dario Amodei, CEO and co-founder of Anthropic; Mark Zuckerberg, CEO of Meta Platforms. - Markus Schreiber/AP/Dimitrios Kambouris/Getty Images",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lSN1QHT9YetKVI8KpOwQWQ--~B/aD01NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnn_business_articles_218/7b275c74a9c939a51b461ed2618682c0",
-              "width": 960,
-              "height": 540,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/RTSfPLwBHdx.YYcUqaLTLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnn_business_articles_218/7b275c74a9c939a51b461ed2618682c0",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "CNN Business",
-          "url": "https://www.cnn.com/business",
-          "sourceId": "cnn_business_articles_218"
-        },
-        "canonicalUrl": {
-          "url": "https://www.cnn.com/2026/07/17/tech/meta-anthropic-ai-cloud-computing",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-talks-rent-billions-ai-210752025.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "33958735-5425-39b5-9e75-68819d993bf8",
-      "content": {
-        "id": "33958735-5425-39b5-9e75-68819d993bf8",
-        "contentType": "STORY",
-        "title": "Update: US Equity Indexes Drop as Chipmakers Head for Bear Market, Crude Oil Surges After Iran Expands Attack in Middle East",
-        "description": "",
-        "summary": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
-        "pubDate": "2026-07-17T20:51:29Z",
-        "displayTime": "2026-07-17T20:51:29Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-chipmakers-205129832.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-chipmakers-205129832.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e37b00fa-c11d-353c-8e12-699fa682306e",
-      "content": {
-        "id": "e37b00fa-c11d-353c-8e12-699fa682306e",
-        "contentType": "STORY",
-        "title": "Meta Platforms: AI Return on Invested Capital Is Uncertain (NASDAQ:META)",
-        "description": "",
-        "summary": "The social media giant's dominant position in its space doesn't prevent investors from being concerned about its AI spending spree.",
-        "pubDate": "2026-07-17T20:29:00Z",
-        "displayTime": "2026-07-17T20:29:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/dafa6469ff3fdfca76e8813ba4e717ac",
-          "originalWidth": 1400,
-          "originalHeight": 877,
-          "caption": "Meta name and logo on smartphone screen.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2VdQU0ChYJQN4HxlR5KYJQ--~B/aD04Nzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/dafa6469ff3fdfca76e8813ba4e717ac",
-              "width": 1400,
-              "height": 877,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wZQ8hoWXtxCLLh.K7xiUzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/dafa6469ff3fdfca76e8813ba4e717ac",
+              "url": "https://s.yimg.com/uu/api/res/1.2/TyDae6uGwhKfM8f7.GMqZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ed9ec74f8c7c27e9d395192173bb8c3c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1855,13 +1688,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/17/meta-ai-return-on-invested-capital-uncertain/",
+          "url": "https://www.fool.com/investing/2026/07/18/meta-platforms-stock-up-21-july-driving-surge/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-ai-return-invested-202900518.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-21-month-whats-195000181.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1879,32 +1712,32 @@
       }
     },
     {
-      "id": "434b9034-ffb1-3067-bf3c-75f8b5686e26",
+      "id": "2cd6fced-1271-3d10-8e4e-0dfbc760cfe3",
       "content": {
-        "id": "434b9034-ffb1-3067-bf3c-75f8b5686e26",
+        "id": "2cd6fced-1271-3d10-8e4e-0dfbc760cfe3",
         "contentType": "STORY",
-        "title": "What Lucid, SpaceX, and Amazon All Have In Common. (Hint: Think Cash.)",
+        "title": "This Nuclear Stock Is Down 46%, and It's a Screaming Buy",
         "description": "",
-        "summary": "In the stock market, earnings and earnings growth are paramount, but in business there is something that matters even more.  Shares of the EV start-up fell as low as $2.37, down more than 50%, on Tuesday after news portal electric-vehicles.com said the company was considering a bankruptcy filing, which Lucid strenuously denied.  Lucid stock was susceptible to damage because the company isn’t profitable and will need billions in new capital over the coming years to reach that point—expected when it is selling about 150,000 cars a year.",
-        "pubDate": "2026-07-17T20:13:00Z",
-        "displayTime": "2026-07-17T20:13:00Z",
-        "isHosted": false,
+        "summary": "Oklo stock has plummeted in 2026, in spite of the company's positive progress. This is the buying window long-term investors have been waiting for.",
+        "pubDate": "2026-07-18T19:05:00Z",
+        "displayTime": "2026-07-18T19:05:00Z",
+        "isHosted": true,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/434b9034-ffb1-3067-bf3c-75f8b5686e26/what-lucid-spacex-and.html",
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/23fa8d53955109fb2892513ec54d7e9f",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/724dbeb5b1134542a384651e07d8f661",
+          "originalWidth": 1400,
+          "originalHeight": 787,
+          "caption": "A rendering of Oklo's powerhouse. ",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nR_ITopeF6rKYarAVdptbg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/23fa8d53955109fb2892513ec54d7e9f",
-              "width": 1280,
-              "height": 640,
+              "url": "https://s.yimg.com/uu/api/res/1.2/b8Ouf13bKO9OmaZvBSiIaw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/724dbeb5b1134542a384651e07d8f661",
+              "width": 1400,
+              "height": 787,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vM70djguR7hh72rZd1lj.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/23fa8d53955109fb2892513ec54d7e9f",
+              "url": "https://s.yimg.com/uu/api/res/1.2/wUyVIYclHuAt6Q32OaDirw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/724dbeb5b1134542a384651e07d8f661",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1912,56 +1745,18 @@
           ]
         },
         "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/lucid-spacex-amazon-stockcash-5885a8a6?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "fb468731-c2c3-307a-b500-fefe8c969a65",
-      "content": {
-        "id": "fb468731-c2c3-307a-b500-fefe8c969a65",
-        "contentType": "STORY",
-        "title": "AMD's AI Event Faces Customer Test",
-        "description": "",
-        "summary": "Investors want customers, chips and stronger deal economics",
-        "pubDate": "2026-07-17T20:01:58Z",
-        "displayTime": "2026-07-17T20:01:58Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/amds-ai-event-faces-customer-200158533.html",
+          "url": "https://www.fool.com/investing/2026/07/18/this-nuclear-stock-is-down-46-and-its-a-screaming/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/amds-ai-event-faces-customer-200158533.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-down-46-screaming-190500883.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1979,161 +1774,32 @@
       }
     },
     {
-      "id": "09105d2d-f953-3ca0-abfe-9154e27974cf",
+      "id": "e7d78c20-cf80-3da5-b912-3f817dbab6aa",
       "content": {
-        "id": "09105d2d-f953-3ca0-abfe-9154e27974cf",
+        "id": "e7d78c20-cf80-3da5-b912-3f817dbab6aa",
         "contentType": "STORY",
-        "title": "Nebius Raises $775 Million in First Secured Debt Deal",
+        "title": "Meta, Anthropic drop bombshell news on AI market",
         "description": "",
-        "summary": "The facility, maturing in 2030, is priced at SOFR plus 2.50%",
-        "pubDate": "2026-07-17T20:01:00Z",
-        "displayTime": "2026-07-17T20:01:00Z",
+        "summary": "Last October, Mark Zuckerberg mentioned almost in passing that companies kept asking Meta if they could buy computing capacity from it, at a premium. It sounded like a hypothetical. On July 17, the New York Times turned it into a very real story. Meta and Anthropic are in early talks for a ...",
+        "pubDate": "2026-07-18T17:47:00Z",
+        "displayTime": "2026-07-18T17:47:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nebius-raises-775-million-first-200100839.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nebius-raises-775-million-first-200100839.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b57dfe1b-3f9d-3aed-9122-e3e263157015",
-      "content": {
-        "id": "b57dfe1b-3f9d-3aed-9122-e3e263157015",
-        "contentType": "STORY",
-        "title": "Qualcomm (QCOM) Slips 2% After GF Securities Starts Coverage With Hold Rating",
-        "description": "",
-        "summary": "Qualcomm Faces Fresh Wall Street Warning Despite Ambitious AI Growth Plans",
-        "pubDate": "2026-07-17T20:00:26Z",
-        "displayTime": "2026-07-17T20:00:26Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-slips-2-gf-200026317.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-slips-2-gf-200026317.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6ed1e7d4-ceaa-3446-95f0-f68b560132f1",
-      "content": {
-        "id": "6ed1e7d4-ceaa-3446-95f0-f68b560132f1",
-        "contentType": "STORY",
-        "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-        "description": "",
-        "summary": "Tech stocks were falling late Friday afternoon, with the State Street Technology Select Sector SPDR",
-        "pubDate": "2026-07-17T19:31:35Z",
-        "displayTime": "2026-07-17T19:31:35Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193135217.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193135217.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "fa48c6a6-e57b-3054-b38b-86cef7fc1edb",
-      "content": {
-        "id": "fa48c6a6-e57b-3054-b38b-86cef7fc1edb",
-        "contentType": "STORY",
-        "title": "Meta’s Next $10 Billion Deal? Why Anthropic May Rent AI Hardware From Zuckerberg.",
-        "description": "",
-        "summary": "Anthropic might be looking to make a deal with  Meta Platforms  to get access to more computing power, a move that would mark a major, but unsurprising, shift in the Facebook parent’s business.  The New York Times   reported Friday that  Meta  is in talks to rent computing power to Anthropic in a deal that could be worth as much as $10 billion over two years, citing people familiar with the matter.  Meta didn’t immediately respond to requests for comment.",
-        "pubDate": "2026-07-17T18:52:00Z",
-        "displayTime": "2026-07-17T18:52:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/fa48c6a6-e57b-3054-b38b-86cef7fc1edb/meta%E2%80%99s-next-10-billion-deal-.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/eaa2d62ff1e165a393fd8cdff18022b7",
-          "originalWidth": 1280,
-          "originalHeight": 640,
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/8853422bc3d57c9f9c8afa98383ed260",
+          "originalWidth": 3840,
+          "originalHeight": 2560,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/m.z.HLY2nnA65_rwwD5VmA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/eaa2d62ff1e165a393fd8cdff18022b7",
-              "width": 1280,
-              "height": 640,
+              "url": "https://s.yimg.com/uu/api/res/1.2/8dKIe8kE6nydA_I_JN1eyg--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/8853422bc3d57c9f9c8afa98383ed260",
+              "width": 3840,
+              "height": 2560,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ovrhRJTjtckfr8UXcKwV8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/eaa2d62ff1e165a393fd8cdff18022b7",
+              "url": "https://s.yimg.com/uu/api/res/1.2/_QKXHhUK4GAGWeeWBewDjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8853422bc3d57c9f9c8afa98383ed260",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2141,17 +1807,456 @@
           ]
         },
         "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/anthropic-meta-ai-deal-report-d4a64b79?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.thestreet.com/technology/meta-anthropic-ai-compute-deal",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-anthropic-drop-bombshell-news-174700402.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "28dd5d1c-0f09-3039-8ca6-1d0bd23d3cb1",
+      "content": {
+        "id": "28dd5d1c-0f09-3039-8ca6-1d0bd23d3cb1",
+        "contentType": "STORY",
+        "title": "The AI Capex Question Every QQQ Holder Should Be Asking Right Now",
+        "description": "",
+        "summary": "QQQ sits near all-time highs, but its fate in the second half of 2026 hinges on just two variables that most holders never track. Get either one wrong and the fund's year-to-date cushion evaporates faster than it built.",
+        "pubDate": "2026-07-18T16:11:00Z",
+        "displayTime": "2026-07-18T16:11:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/c6aec1bd430c7d2a03ac7590008ecd9d",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ota35VtPcuqjErktdCqQHQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/c6aec1bd430c7d2a03ac7590008ecd9d",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/w6A8grA6QvwizYuCqZdl0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c6aec1bd430c7d2a03ac7590008ecd9d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/etf/2026/07/18/the-ai-capex-question-every-qqq-holder-should-be-asking-right-now/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-capex-every-qqq-holder-161100385.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d8a4d36f-c6c1-3a42-b182-e4a4b2d4c40b",
+      "content": {
+        "id": "d8a4d36f-c6c1-3a42-b182-e4a4b2d4c40b",
+        "contentType": "STORY",
+        "title": "Meta Reportedly In Talks With Anthropic Over a $10 Billion AI Deal",
+        "description": "",
+        "summary": "Meta may lease AI computing power to Anthropic in a $10 billion deal, according to reports. Here is what is on the table.",
+        "pubDate": "2026-07-18T15:05:06Z",
+        "displayTime": "2026-07-18T15:05:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/5b87afdb770f1fd590a7869c24334b1d",
+          "originalWidth": 5120,
+          "originalHeight": 2880,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OnXpJkCRXtUcOvIoj3lZ2A--~B/aD0yODgwO3c9NTEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/5b87afdb770f1fd590a7869c24334b1d",
+              "width": 5120,
+              "height": 2880,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.e.uQ_WaiFmQbidiLA4TcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/5b87afdb770f1fd590a7869c24334b1d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/",
+          "sourceId": "beincrypto_us_662"
+        },
+        "canonicalUrl": {
+          "url": "https://beincrypto.com/meta-anthropic-ai-compute-lease-deal/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-reportedly-talks-anthropic-over-150506603.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "15b4a54c-9c4f-3633-8d7a-8a375306883a",
+      "content": {
+        "id": "15b4a54c-9c4f-3633-8d7a-8a375306883a",
+        "contentType": "STORY",
+        "title": "The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think",
+        "description": "",
+        "summary": "Tech giants now control nearly half the S&P 500, surpassing even dot-com bubble levels, and the AI spending race is raising uncomfortable questions about what happens when a handful of companies drive the fate of an entire index.",
+        "pubDate": "2026-07-18T14:21:32Z",
+        "displayTime": "2026-07-18T14:21:32Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/bb12aa15aef694d51fc240765059ae1f",
+          "originalWidth": 1500,
+          "originalHeight": 999,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/BmPuROMiKCBmWcA9m11CAw--~B/aD05OTk7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/bb12aa15aef694d51fc240765059ae1f",
+              "width": 1500,
+              "height": 999,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nTQab8MBlspb4GKX1sNupQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bb12aa15aef694d51fc240765059ae1f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/18/the-sp-500-is-becoming-a-tech-index-in-disguise-but-that-may-not-be-the-risk-investors-think/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-becoming-tech-index-142132586.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "79aa6002-1e76-3afe-b3c8-4841f9e20976",
+      "content": {
+        "id": "79aa6002-1e76-3afe-b3c8-4841f9e20976",
+        "contentType": "STORY",
+        "title": "The Misunderstood Truth About AI Demand Has Me Buying Meta Over and Over",
+        "description": "",
+        "summary": "When Meta's CFO admitted the company keeps underestimating its own compute needs, most investors saw a red flag. One analyst saw the opposite, and has been loading up on shares ever since.",
+        "pubDate": "2026-07-18T14:11:34Z",
+        "displayTime": "2026-07-18T14:11:34Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/31d2ef481947249c472924f1c2bc35a5",
+          "originalWidth": 1500,
+          "originalHeight": 1000,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pPnP4eF2VeKuUIoOfyv2WQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/31d2ef481947249c472924f1c2bc35a5",
+              "width": 1500,
+              "height": 1000,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xctujbrTSBbpMRY3FjSFtA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/31d2ef481947249c472924f1c2bc35a5",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/18/the-misunderstood-truth-about-ai-demand-has-me-buying-meta-over-and-over/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/misunderstood-truth-ai-demand-buying-141134702.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "84d36456-418f-3782-8491-56cc8603c8eb",
+      "content": {
+        "id": "84d36456-418f-3782-8491-56cc8603c8eb",
+        "contentType": "STORY",
+        "title": "Apple Avoided the AI CapEx Spending Trap — Now the Bill May Be Coming Due",
+        "description": "",
+        "summary": "Apple's frugal AI strategy saved billions while rivals committed to a spending arms race, but new reports reveal a quiet technical crisis that may force the company into an entirely different kind of expensive bet.",
+        "pubDate": "2026-07-18T11:59:57Z",
+        "displayTime": "2026-07-18T11:59:57Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/17959a742d297a5a3cedbbc67592799d",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/88oh61EaWZzQUPJqoysy9Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/17959a742d297a5a3cedbbc67592799d",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/heXICSnRq_u0q2UemK6ksA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/17959a742d297a5a3cedbbc67592799d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/18/apple-avoided-the-ai-capex-spending-trap-now-the-bill-may-be-coming-due/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-avoided-ai-capex-spending-115957731.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a3143aba-6514-39f0-82ff-319f8ea68181",
+      "content": {
+        "id": "a3143aba-6514-39f0-82ff-319f8ea68181",
+        "contentType": "STORY",
+        "title": "Google Cloud Revenue Grew 63% Last Quarter. Here's Why That Number Matters More Than Alphabet's Ad Business Right Now.",
+        "description": "",
+        "summary": "Investors are focusing more on what could be the company's most important segment going forward.",
+        "pubDate": "2026-07-18T10:05:00Z",
+        "displayTime": "2026-07-18T10:05:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/03e8c7372f0d31fafa3a69db8e1b8e3c",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "Alphabet company name on red filter with office in background.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/vPjlO9gcaJmNYonNyTcrcQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/03e8c7372f0d31fafa3a69db8e1b8e3c",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0o.7rDuZjU1hDUk_zCtkog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/03e8c7372f0d31fafa3a69db8e1b8e3c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/18/google-cloud-revenue-ad-business-alphabet/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/google-cloud-revenue-grew-63-100500769.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b12496f9-e20f-30da-a53b-5d4fdd54bf55",
+      "content": {
+        "id": "b12496f9-e20f-30da-a53b-5d4fdd54bf55",
+        "contentType": "STORY",
+        "title": "Big Tech's $182 Billion AI Debt Spree: How META, NVDA and AMZN Are Reshaping Credit Markets",
+        "description": "",
+        "summary": "A massive borrowing binge by technology giants expanding their artificial intelligence capabilities is fundamentally transforming fixed-income dynamics. Companies like Meta Platforms Inc., Nvidia Corp., and Amazon.com Inc. are leading a historic capital expenditure push, issuing hundreds of billions in corporate...",
+        "pubDate": "2026-07-18T10:01:23Z",
+        "displayTime": "2026-07-18T10:01:23Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/a3e56b817eb52a63ac7ea33bc56fc30d",
+          "originalWidth": 1024,
+          "originalHeight": 576,
+          "caption": "Big Tech's $182 Billion AI Debt Spree: How META, NVDA and AMZN Are Reshaping Credit Markets",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/We2Fl_uXVUqjSy_RTqUfag--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/a3e56b817eb52a63ac7ea33bc56fc30d",
+              "width": 1024,
+              "height": 576,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GpnKyC9NSgReBC_9.XWI5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/a3e56b817eb52a63ac7ea33bc56fc30d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/big-techs-182-billion-ai-100123901.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/big-techs-182-billion-ai-100123901.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
