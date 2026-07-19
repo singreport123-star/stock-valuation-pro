@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-18T22:41:27.337370",
+    "ts": "2026-07-19T22:43:25.345297",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,11 +137,11 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 664.54,
+    "previousClose": 664.54004,
     "open": 647.7,
     "dayLow": 626.0,
     "dayHigh": 652.2,
-    "regularMarketPreviousClose": 664.54,
+    "regularMarketPreviousClose": 664.54004,
     "regularMarketOpen": 647.7,
     "regularMarketDayLow": 626.0,
     "regularMarketDayHigh": 652.2,
@@ -152,8 +152,8 @@
     "beta": 1.246,
     "trailingPE": 23.474201,
     "forwardPE": 17.782232,
-    "volume": 20966389,
-    "regularMarketVolume": 20965907,
+    "volume": 22267862,
+    "regularMarketVolume": 22267862,
     "averageVolume": 18162004,
     "averageVolume10days": 21065800,
     "averageDailyVolume10Day": 21065800,
@@ -171,7 +171,7 @@
     "fiftyDayAverage": 604.535,
     "twoHundredDayAverage": 640.50555,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0031600806,
+    "trailingAnnualDividendYield": 0.0031600804,
     "currency": "USD",
     "tradeable": false,
     "enterpriseValue": 1645435813888,
@@ -240,11 +240,12 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "regularMarketChangePercent": -2.78839,
-    "regularMarketPrice": 646.01,
-    "longName": "Meta Platforms, Inc.",
+    "cryptoTradeable": false,
     "marketState": "CLOSED",
     "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "regularMarketChangePercent": -2.7883992,
+    "regularMarketPrice": 646.01,
     "corporateActions": [],
     "postMarketTime": 1784332798,
     "regularMarketTime": 1784318401,
@@ -255,23 +256,10 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "fiftyDayAverageChange": 41.475037,
-    "fiftyDayAverageChangePercent": 0.06860651,
-    "twoHundredDayAverageChange": 5.5044556,
-    "twoHundredDayAverageChangePercent": 0.008593923,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-18",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
     "postMarketChangePercent": -0.8976186,
     "postMarketPrice": 640.2113,
     "postMarketChange": -5.798706,
-    "regularMarketChange": -18.53,
+    "regularMarketChange": -18.53003,
     "regularMarketDayRange": "626.0 - 652.2",
     "fullExchangeName": "NasdaqGS",
     "averageDailyVolume3Month": 18162004,
@@ -292,6 +280,18 @@
     "epsForward": 36.32896,
     "epsCurrentYear": 31.939,
     "priceEpsCurrentYear": 20.22637,
+    "fiftyDayAverageChange": 41.475037,
+    "fiftyDayAverageChangePercent": 0.06860651,
+    "twoHundredDayAverageChange": 5.5044556,
+    "twoHundredDayAverageChangePercent": 0.008593923,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-07-19",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.9424
   },
@@ -309,7 +309,7 @@
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.106993,
+        "2025-06-30T00:00:00.000": 0.11,
         "2025-03-31T00:00:00.000": 0.094549,
         "2024-12-31T00:00:00.000": null
       },
@@ -1650,342 +1650,32 @@
   },
   "news": [
     {
-      "id": "a716624e-8642-3ff9-bade-39ed3087da65",
+      "id": "f2c4d76e-3fef-3800-83da-1205825e90b6",
       "content": {
-        "id": "a716624e-8642-3ff9-bade-39ed3087da65",
+        "id": "f2c4d76e-3fef-3800-83da-1205825e90b6",
         "contentType": "STORY",
-        "title": "Meta Platforms Is Up 21% This Month, and Here Is What's Driving the Surge",
+        "title": "I Can’t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
         "description": "",
-        "summary": "The tech company just added $270 billion to its market cap.",
-        "pubDate": "2026-07-18T19:50:00Z",
-        "displayTime": "2026-07-18T19:50:00Z",
+        "summary": "Every headline says Google is hemorrhaging its best AI minds to Anthropic and OpenAI, and that narrative has created one of the most exploitable gaps between fear and reality in the market right now.",
+        "pubDate": "2026-07-19T16:12:10Z",
+        "displayTime": "2026-07-19T16:12:10Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ed9ec74f8c7c27e9d395192173bb8c3c",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "Meta logo on blue filter with office building in background.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GcgQrJEsm2IaMOf6KeQnig--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ed9ec74f8c7c27e9d395192173bb8c3c",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/TyDae6uGwhKfM8f7.GMqZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ed9ec74f8c7c27e9d395192173bb8c3c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/18/meta-platforms-stock-up-21-july-driving-surge/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-21-month-whats-195000181.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2cd6fced-1271-3d10-8e4e-0dfbc760cfe3",
-      "content": {
-        "id": "2cd6fced-1271-3d10-8e4e-0dfbc760cfe3",
-        "contentType": "STORY",
-        "title": "This Nuclear Stock Is Down 46%, and It's a Screaming Buy",
-        "description": "",
-        "summary": "Oklo stock has plummeted in 2026, in spite of the company's positive progress. This is the buying window long-term investors have been waiting for.",
-        "pubDate": "2026-07-18T19:05:00Z",
-        "displayTime": "2026-07-18T19:05:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/724dbeb5b1134542a384651e07d8f661",
-          "originalWidth": 1400,
-          "originalHeight": 787,
-          "caption": "A rendering of Oklo's powerhouse. ",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/b8Ouf13bKO9OmaZvBSiIaw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/724dbeb5b1134542a384651e07d8f661",
-              "width": 1400,
-              "height": 787,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wUyVIYclHuAt6Q32OaDirw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/724dbeb5b1134542a384651e07d8f661",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/18/this-nuclear-stock-is-down-46-and-its-a-screaming/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-down-46-screaming-190500883.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e7d78c20-cf80-3da5-b912-3f817dbab6aa",
-      "content": {
-        "id": "e7d78c20-cf80-3da5-b912-3f817dbab6aa",
-        "contentType": "STORY",
-        "title": "Meta, Anthropic drop bombshell news on AI market",
-        "description": "",
-        "summary": "Last October, Mark Zuckerberg mentioned almost in passing that companies kept asking Meta if they could buy computing capacity from it, at a premium. It sounded like a hypothetical. On July 17, the New York Times turned it into a very real story. Meta and Anthropic are in early talks for a ...",
-        "pubDate": "2026-07-18T17:47:00Z",
-        "displayTime": "2026-07-18T17:47:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/8853422bc3d57c9f9c8afa98383ed260",
-          "originalWidth": 3840,
-          "originalHeight": 2560,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8dKIe8kE6nydA_I_JN1eyg--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/8853422bc3d57c9f9c8afa98383ed260",
-              "width": 3840,
-              "height": 2560,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_QKXHhUK4GAGWeeWBewDjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8853422bc3d57c9f9c8afa98383ed260",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/technology/meta-anthropic-ai-compute-deal",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-anthropic-drop-bombshell-news-174700402.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "28dd5d1c-0f09-3039-8ca6-1d0bd23d3cb1",
-      "content": {
-        "id": "28dd5d1c-0f09-3039-8ca6-1d0bd23d3cb1",
-        "contentType": "STORY",
-        "title": "The AI Capex Question Every QQQ Holder Should Be Asking Right Now",
-        "description": "",
-        "summary": "QQQ sits near all-time highs, but its fate in the second half of 2026 hinges on just two variables that most holders never track. Get either one wrong and the fund's year-to-date cushion evaporates faster than it built.",
-        "pubDate": "2026-07-18T16:11:00Z",
-        "displayTime": "2026-07-18T16:11:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/c6aec1bd430c7d2a03ac7590008ecd9d",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Ota35VtPcuqjErktdCqQHQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/c6aec1bd430c7d2a03ac7590008ecd9d",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/w6A8grA6QvwizYuCqZdl0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c6aec1bd430c7d2a03ac7590008ecd9d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/etf/2026/07/18/the-ai-capex-question-every-qqq-holder-should-be-asking-right-now/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-capex-every-qqq-holder-161100385.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d8a4d36f-c6c1-3a42-b182-e4a4b2d4c40b",
-      "content": {
-        "id": "d8a4d36f-c6c1-3a42-b182-e4a4b2d4c40b",
-        "contentType": "STORY",
-        "title": "Meta Reportedly In Talks With Anthropic Over a $10 Billion AI Deal",
-        "description": "",
-        "summary": "Meta may lease AI computing power to Anthropic in a $10 billion deal, according to reports. Here is what is on the table.",
-        "pubDate": "2026-07-18T15:05:06Z",
-        "displayTime": "2026-07-18T15:05:06Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/5b87afdb770f1fd590a7869c24334b1d",
-          "originalWidth": 5120,
-          "originalHeight": 2880,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OnXpJkCRXtUcOvIoj3lZ2A--~B/aD0yODgwO3c9NTEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/5b87afdb770f1fd590a7869c24334b1d",
-              "width": 5120,
-              "height": 2880,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.e.uQ_WaiFmQbidiLA4TcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/5b87afdb770f1fd590a7869c24334b1d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "BeInCrypto",
-          "url": "https://beincrypto.com/",
-          "sourceId": "beincrypto_us_662"
-        },
-        "canonicalUrl": {
-          "url": "https://beincrypto.com/meta-anthropic-ai-compute-lease-deal/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-reportedly-talks-anthropic-over-150506603.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "15b4a54c-9c4f-3633-8d7a-8a375306883a",
-      "content": {
-        "id": "15b4a54c-9c4f-3633-8d7a-8a375306883a",
-        "contentType": "STORY",
-        "title": "The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think",
-        "description": "",
-        "summary": "Tech giants now control nearly half the S&P 500, surpassing even dot-com bubble levels, and the AI spending race is raising uncomfortable questions about what happens when a handful of companies drive the fate of an entire index.",
-        "pubDate": "2026-07-18T14:21:32Z",
-        "displayTime": "2026-07-18T14:21:32Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/bb12aa15aef694d51fc240765059ae1f",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/56bd9567fcff0d866895c5b2c21e9ca1",
           "originalWidth": 1500,
-          "originalHeight": 999,
+          "originalHeight": 936,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BmPuROMiKCBmWcA9m11CAw--~B/aD05OTk7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/bb12aa15aef694d51fc240765059ae1f",
+              "url": "https://s.yimg.com/uu/api/res/1.2/xLrlxuVUNmFyRF1KWXl1XA--~B/aD05MzY7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/56bd9567fcff0d866895c5b2c21e9ca1",
               "width": 1500,
-              "height": 999,
+              "height": 936,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nTQab8MBlspb4GKX1sNupQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bb12aa15aef694d51fc240765059ae1f",
+              "url": "https://s.yimg.com/uu/api/res/1.2/QHSMscg.eeo5pitq3aulqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/56bd9567fcff0d866895c5b2c21e9ca1",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1998,13 +1688,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/18/the-sp-500-is-becoming-a-tech-index-in-disguise-but-that-may-not-be-the-risk-investors-think/",
+          "url": "https://247wallst.com/investing/2026/07/19/i-cant-stop-buying-alphabet-because-the-ai-talent-narrative-is-wrong/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-becoming-tech-index-142132586.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/t-stop-buying-alphabet-because-161210758.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2022,32 +1712,32 @@
       }
     },
     {
-      "id": "79aa6002-1e76-3afe-b3c8-4841f9e20976",
+      "id": "ffcfecff-4171-3bcb-9704-b93e2677d563",
       "content": {
-        "id": "79aa6002-1e76-3afe-b3c8-4841f9e20976",
+        "id": "ffcfecff-4171-3bcb-9704-b93e2677d563",
         "contentType": "STORY",
-        "title": "The Misunderstood Truth About AI Demand Has Me Buying Meta Over and Over",
+        "title": "Can Nebius Group Really 10X by 2030? The Math Says Yes",
         "description": "",
-        "summary": "When Meta's CFO admitted the company keeps underestimating its own compute needs, most investors saw a red flag. One analyst saw the opposite, and has been loading up on shares ever since.",
-        "pubDate": "2026-07-18T14:11:34Z",
-        "displayTime": "2026-07-18T14:11:34Z",
+        "summary": "Wolfe Research has a number that should stop any serious investor cold, and Nebius Group's own internal projections are not far behind. The question is whether one company can actually build the AI infrastructure layer the entire industry needs before the window closes.",
+        "pubDate": "2026-07-19T16:04:31Z",
+        "displayTime": "2026-07-19T16:04:31Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/31d2ef481947249c472924f1c2bc35a5",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/6586c810414a0873cf67f1eadb2d1500",
           "originalWidth": 1500,
           "originalHeight": 1000,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pPnP4eF2VeKuUIoOfyv2WQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/31d2ef481947249c472924f1c2bc35a5",
+              "url": "https://s.yimg.com/uu/api/res/1.2/7JqcQaXvAXTrxWuyMDyk9Q--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/6586c810414a0873cf67f1eadb2d1500",
               "width": 1500,
               "height": 1000,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xctujbrTSBbpMRY3FjSFtA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/31d2ef481947249c472924f1c2bc35a5",
+              "url": "https://s.yimg.com/uu/api/res/1.2/oY4d9inMWeSTXzJPCdzKHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6586c810414a0873cf67f1eadb2d1500",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2060,13 +1750,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/18/the-misunderstood-truth-about-ai-demand-has-me-buying-meta-over-and-over/",
+          "url": "https://247wallst.com/investing/2026/07/19/can-nebius-group-really-10x-by-2030-the-math-says-yes/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/misunderstood-truth-ai-demand-buying-141134702.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nebius-group-really-10x-2030-160431339.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2084,94 +1774,32 @@
       }
     },
     {
-      "id": "84d36456-418f-3782-8491-56cc8603c8eb",
+      "id": "a8af03a4-4baa-3166-a589-19d295afe77f",
       "content": {
-        "id": "84d36456-418f-3782-8491-56cc8603c8eb",
+        "id": "a8af03a4-4baa-3166-a589-19d295afe77f",
         "contentType": "STORY",
-        "title": "Apple Avoided the AI CapEx Spending Trap — Now the Bill May Be Coming Due",
+        "title": "Meta Platforms: Is This the Most Undervalued Stock in Big Tech? (NASDAQ: META)",
         "description": "",
-        "summary": "Apple's frugal AI strategy saved billions while rivals committed to a spending arms race, but new reports reveal a quiet technical crisis that may force the company into an entirely different kind of expensive bet.",
-        "pubDate": "2026-07-18T11:59:57Z",
-        "displayTime": "2026-07-18T11:59:57Z",
+        "summary": "Although it may be unloved, this big tech stock is worth considering.",
+        "pubDate": "2026-07-19T13:55:00Z",
+        "displayTime": "2026-07-19T13:55:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/17959a742d297a5a3cedbbc67592799d",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/88oh61EaWZzQUPJqoysy9Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/17959a742d297a5a3cedbbc67592799d",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/heXICSnRq_u0q2UemK6ksA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/17959a742d297a5a3cedbbc67592799d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/18/apple-avoided-the-ai-capex-spending-trap-now-the-bill-may-be-coming-due/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/apple-avoided-ai-capex-spending-115957731.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a3143aba-6514-39f0-82ff-319f8ea68181",
-      "content": {
-        "id": "a3143aba-6514-39f0-82ff-319f8ea68181",
-        "contentType": "STORY",
-        "title": "Google Cloud Revenue Grew 63% Last Quarter. Here's Why That Number Matters More Than Alphabet's Ad Business Right Now.",
-        "description": "",
-        "summary": "Investors are focusing more on what could be the company's most important segment going forward.",
-        "pubDate": "2026-07-18T10:05:00Z",
-        "displayTime": "2026-07-18T10:05:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/03e8c7372f0d31fafa3a69db8e1b8e3c",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/8a8b5d11d1f99990a9286cb27058018e",
           "originalWidth": 1200,
           "originalHeight": 800,
-          "caption": "Alphabet company name on red filter with office in background.",
+          "caption": "Meta Platforms' logo against a blue background.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vPjlO9gcaJmNYonNyTcrcQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/03e8c7372f0d31fafa3a69db8e1b8e3c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/XIQz_MRfrr5vrckHpH5kWw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8a8b5d11d1f99990a9286cb27058018e",
               "width": 1200,
               "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0o.7rDuZjU1hDUk_zCtkog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/03e8c7372f0d31fafa3a69db8e1b8e3c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Yu5lHgcLC9AdLrsFBwrVaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8a8b5d11d1f99990a9286cb27058018e",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2184,13 +1812,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/18/google-cloud-revenue-ad-business-alphabet/",
+          "url": "https://www.fool.com/investing/2026/07/19/meta-platforms-is-this-the-most-undervalued-stock/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/google-cloud-revenue-grew-63-100500769.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-most-undervalued-stock-135500895.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2208,32 +1836,347 @@
       }
     },
     {
-      "id": "b12496f9-e20f-30da-a53b-5d4fdd54bf55",
+      "id": "6dce44c8-9464-3009-85d6-a7f3f04b58ce",
       "content": {
-        "id": "b12496f9-e20f-30da-a53b-5d4fdd54bf55",
+        "id": "6dce44c8-9464-3009-85d6-a7f3f04b58ce",
         "contentType": "STORY",
-        "title": "Big Tech's $182 Billion AI Debt Spree: How META, NVDA and AMZN Are Reshaping Credit Markets",
+        "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
         "description": "",
-        "summary": "A massive borrowing binge by technology giants expanding their artificial intelligence capabilities is fundamentally transforming fixed-income dynamics. Companies like Meta Platforms Inc., Nvidia Corp., and Amazon.com Inc. are leading a historic capital expenditure push, issuing hundreds of billions in corporate...",
-        "pubDate": "2026-07-18T10:01:23Z",
-        "displayTime": "2026-07-18T10:01:23Z",
+        "summary": "(Bloomberg) -- After last week’s wipeout in chips and the broader selloff in technology stocks, pressure is building for the biggest spenders on artificial intelligence to justify their expenditures to beleaguered traders with increasingly itchy fingers hovering over their sell buttons.Most Read from BloombergUS Strikes Iran to ‘Punish’ It for Attack That Killed 2 TroopsFCC Near Rulings Against Disney Over ‘The View,’ TV LicensesThousands of Trucks Haul Iraq’s Oil Through Syria in Sign of Hormuz",
+        "pubDate": "2026-07-19T13:00:00Z",
+        "displayTime": "2026-07-19T13:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4b873602-726d-362b-9521-3bfe218356fa",
+      "content": {
+        "id": "4b873602-726d-362b-9521-3bfe218356fa",
+        "contentType": "STORY",
+        "title": "5 \"Magnificent Seven\" Stocks I'm Buying and 2 That I'm Selling",
+        "description": "",
+        "summary": "Every stock in the \"Magnificent Seven\" has a different outlook.",
+        "pubDate": "2026-07-19T12:25:00Z",
+        "displayTime": "2026-07-19T12:25:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/a3e56b817eb52a63ac7ea33bc56fc30d",
-          "originalWidth": 1024,
-          "originalHeight": 576,
-          "caption": "Big Tech's $182 Billion AI Debt Spree: How META, NVDA and AMZN Are Reshaping Credit Markets",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/df25256491563a868b5cc7b10f13d153",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Two technicians in a data center looking at a laptop.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/We2Fl_uXVUqjSy_RTqUfag--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/a3e56b817eb52a63ac7ea33bc56fc30d",
-              "width": 1024,
-              "height": 576,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZStEDzV9CpB.wnhpJshrEQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/df25256491563a868b5cc7b10f13d153",
+              "width": 1400,
+              "height": 933,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GpnKyC9NSgReBC_9.XWI5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/a3e56b817eb52a63ac7ea33bc56fc30d",
+              "url": "https://s.yimg.com/uu/api/res/1.2/t.Nz4tgaENWXR6vN_JWbsw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/df25256491563a868b5cc7b10f13d153",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/19/magnificent-seven-stocks-buying-and-selling/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-magnificent-seven-stocks-im-122500026.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "24eccd80-9a05-3c86-8d59-bb28b6d4da84",
+      "content": {
+        "id": "24eccd80-9a05-3c86-8d59-bb28b6d4da84",
+        "contentType": "STORY",
+        "title": "The 3 Biggest Bargain \"Magnificent Seven\" Stocks to Buy Today",
+        "description": "",
+        "summary": "Nvidia, Meta Platforms, and Microsoft are all trading at cheap valuations.",
+        "pubDate": "2026-07-19T09:20:00Z",
+        "displayTime": "2026-07-19T09:20:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c5446a51141598d867961d398a4f8149",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "The Nvidia logo against a green background.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IYF1Is1piMPyGteKKcdh3w--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c5446a51141598d867961d398a4f8149",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Vy81ZyM26uF8qtuvCaJScA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5446a51141598d867961d398a4f8149",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/19/the-three-biggest-bargain-magnificent-seven-stocks/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-biggest-bargain-magnificent-seven-092000684.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "14dbd6c8-c8e4-3dbf-b432-af98554f4355",
+      "content": {
+        "id": "14dbd6c8-c8e4-3dbf-b432-af98554f4355",
+        "contentType": "STORY",
+        "title": "China’s Moonshot Plans IPO in Six Months After AI Breakthrough",
+        "description": "",
+        "summary": "(Bloomberg) -- Moonshot AI has told investors it’s preparing to list in as early as six months, seizing the opportunity to tap capital markets after its latest model upended industry perceptions of China’s burgeoning capabilities and sent global tech stocks reeling.Most Read from BloombergFCC Near Rulings Against Disney Over ‘The View,’ TV LicensesUS Strikes Iran to ‘Punish’ It for Attack That Killed 2 TroopsThousands of Trucks Haul Iraq’s Oil Through Syria in Sign of Hormuz LegacyTaylor Farms P",
+        "pubDate": "2026-07-19T05:31:31Z",
+        "displayTime": "2026-07-19T05:31:31Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-plans-ipo-six-053131621.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-plans-ipo-six-053131621.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "373cc21d-c541-346f-bf97-99c4067651be",
+      "content": {
+        "id": "373cc21d-c541-346f-bf97-99c4067651be",
+        "contentType": "STORY",
+        "title": "Andrew and Tristan Tate arrested in Miami on UK extradition request",
+        "description": "",
+        "summary": "Investing.com -- Social media influencers Andrew and Tristan Tate were arrested in Miami on Saturday after British authorities requested their extradition on charges including rape and sex trafficking, The Wall Street Journal reported.",
+        "pubDate": "2026-07-19T04:26:41Z",
+        "displayTime": "2026-07-19T04:26:41Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://www.yahoo.com/news/us/articles/andrew-tristan-tate-arrested-miami-042641374.html",
+          "site": "news",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://www.yahoo.com/news/us/articles/andrew-tristan-tate-arrested-miami-042641374.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b6862bf4-2dd4-3e2f-b1bf-f598c43fd592",
+      "content": {
+        "id": "b6862bf4-2dd4-3e2f-b1bf-f598c43fd592",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg's Meta and Other Hyperscalers Face a Major Bottleneck. Here Are 2 Industrial Stocks That Will Benefit",
+        "description": "",
+        "summary": "The race to build AI data centers is huge, and key industry suppliers are reaping big rewards.",
+        "pubDate": "2026-07-19T01:35:00Z",
+        "displayTime": "2026-07-19T01:35:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/7bd824a8b524a533415bc7cd25de33f1",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "A contractor, architect, and engineer working as a team at a construction site.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/DUaMcbb2vyBD6Kd6GkCdKA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7bd824a8b524a533415bc7cd25de33f1",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MqnjohT6_EMBFCFpD1.LSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7bd824a8b524a533415bc7cd25de33f1",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/18/mark-zuckerbergs-meta-and-other-hyperscalers-face/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-meta-other-hyperscalers-013500162.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9bd4b8de-4428-391b-8d02-bff88d72cea6",
+      "content": {
+        "id": "9bd4b8de-4428-391b-8d02-bff88d72cea6",
+        "contentType": "STORY",
+        "title": "Marco Rubio Says President Lula 'Put His Ego Ahead of Making a Deal' as Trump Slaps Brazil With 25% Tariffs",
+        "description": "",
+        "summary": "The Trump Administration announced a 25% tariff on most Brazilian imports late Wednesday, effective July 22. The U.S. has invoked Section 301 of the Trade Act of 1974, targeting certain Brazilian practices, which include directives to American tech giants like...",
+        "pubDate": "2026-07-18T23:31:11Z",
+        "displayTime": "2026-07-18T23:31:11Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/987c6731d09e084bda136858cc3b8b02",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "Marco Rubio Says President Lula 'Put His Ego Ahead of Making a Deal' as Trump Slaps Brazil With 25% Tariffs",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/vb8nPJemdNeS2CESYNuSog--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/987c6731d09e084bda136858cc3b8b02",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/A0olPKeUQGmej28xRTsORg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/987c6731d09e084bda136858cc3b8b02",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2246,13 +2189,13 @@
           "sourceId": "benzinga_79"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/big-techs-182-billion-ai-100123901.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/marco-rubio-says-president-lula-233111694.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/big-techs-182-billion-ai-100123901.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/marco-rubio-says-president-lula-233111694.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"

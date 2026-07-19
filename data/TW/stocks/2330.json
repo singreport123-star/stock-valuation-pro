@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-07-18T22:41:21.861738"
+    "ts": "2026-07-19T22:43:20.326913"
   },
   "financials": {
     "annual": {
@@ -272,6 +272,13 @@
           "2023-12-31T00:00:00.000": -48294000000.0,
           "2022-12-31T00:00:00.000": null,
           "2021-12-31T00:00:00.000": -294000000.0
+        },
+        "Interest Expense Non Operating": {
+          "2025-12-31T00:00:00.000": 12370400000.0,
+          "2024-12-31T00:00:00.000": 10495400000.0,
+          "2023-12-31T00:00:00.000": 11999400000.0,
+          "2022-12-31T00:00:00.000": 11750000000.0,
+          "2021-12-31T00:00:00.000": null
         },
         "Interest Income Non Operating": {
           "2025-12-31T00:00:00.000": 105739100000.0,
@@ -1162,9 +1169,9 @@
           "2026-03-31T00:00:00.000": 28862263000.0,
           "2025-12-31T00:00:00.000": 29507445000.0,
           "2025-09-30T00:00:00.000": 26180345000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 25191998000.0,
           "2025-03-31T00:00:00.000": 24859312000.0,
-          "2024-12-31T00:00:00.000": 24273341000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Normalized Income": {
           "2026-06-30T00:00:00.000": 706562000000.0,
@@ -1333,7 +1340,7 @@
           "2026-03-31T00:00:00.000": 0.0,
           "2025-12-31T00:00:00.000": -14000.0,
           "2025-09-30T00:00:00.000": 0.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 0.0,
           "2025-03-31T00:00:00.000": -167986000.0,
           "2024-12-31T00:00:00.000": null
         },
@@ -1342,7 +1349,7 @@
           "2026-03-31T00:00:00.000": 0.0,
           "2025-12-31T00:00:00.000": -14000.0,
           "2025-09-30T00:00:00.000": 0.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 0.0,
           "2025-03-31T00:00:00.000": -167986000.0,
           "2024-12-31T00:00:00.000": null
         },
@@ -1396,9 +1403,9 @@
           "2026-03-31T00:00:00.000": 28862263000.0,
           "2025-12-31T00:00:00.000": 29507445000.0,
           "2025-09-30T00:00:00.000": 26180345000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 25191998000.0,
           "2025-03-31T00:00:00.000": 24859312000.0,
-          "2024-12-31T00:00:00.000": 24273341000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Operating Income": {
           "2026-06-30T00:00:00.000": 766603000000.0,
@@ -1486,9 +1493,9 @@
           "2026-03-31T00:00:00.000": 21833650000.0,
           "2025-12-31T00:00:00.000": 18416945000.0,
           "2025-09-30T00:00:00.000": 20048234000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 18955373000.0,
           "2025-03-31T00:00:00.000": 24883748000.0,
-          "2024-12-31T00:00:00.000": 25427041000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Other Gand A": {
           "2026-06-30T00:00:00.000": null,
@@ -1641,8 +1648,8 @@
           "2026-03-31T00:00:00.000": 41428669000.0,
           "2025-12-31T00:00:00.000": 41180500000.0,
           "2025-09-30T00:00:00.000": 37270830000.0,
-          "2025-06-30T00:00:00.000": null,
-          "2025-03-31T00:00:00.000": 37461877000.0,
+          "2025-06-30T00:00:00.000": 35557875000.0,
+          "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
         "Stockholders Equity": {
@@ -1740,8 +1747,8 @@
           "2026-03-31T00:00:00.000": 259323701000.0,
           "2025-12-31T00:00:00.000": 259325300000.0,
           "2025-09-30T00:00:00.000": 259325245000.0,
-          "2025-06-30T00:00:00.000": null,
-          "2025-03-31T00:00:00.000": 259326155000.0,
+          "2025-06-30T00:00:00.000": 259326155000.0,
+          "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
         "Total Liabilities Net Minority Interest": {
@@ -1884,9 +1891,9 @@
           "2026-03-31T00:00:00.000": 137670588000.0,
           "2025-12-31T00:00:00.000": 103355300000.0,
           "2025-09-30T00:00:00.000": 74537336000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 116534813000.0,
           "2025-03-31T00:00:00.000": 92607250000.0,
-          "2024-12-31T00:00:00.000": 70871200000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Payables And Accrued Expenses": {
           "2026-06-30T00:00:00.000": 1690352000000.0,
@@ -1902,8 +1909,8 @@
           "2026-03-31T00:00:00.000": 381925612000.0,
           "2025-12-31T00:00:00.000": 401124100000.0,
           "2025-09-30T00:00:00.000": 431951770000.0,
-          "2025-06-30T00:00:00.000": null,
-          "2025-03-31T00:00:00.000": 475731629000.0,
+          "2025-06-30T00:00:00.000": 444583112000.0,
+          "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
         "Payables": {
@@ -1929,9 +1936,9 @@
           "2026-03-31T00:00:00.000": 1800925000.0,
           "2025-12-31T00:00:00.000": 1778700000.0,
           "2025-09-30T00:00:00.000": 1961260000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 1276538000.0,
           "2025-03-31T00:00:00.000": 1216344000.0,
-          "2024-12-31T00:00:00.000": 1426000000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Dividends Payable": {
           "2026-06-30T00:00:00.000": 337436000000.0,
@@ -1992,18 +1999,18 @@
           "2026-03-31T00:00:00.000": 133813351000.0,
           "2025-12-31T00:00:00.000": 115627400000.0,
           "2025-09-30T00:00:00.000": 133755209000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 79382453000.0,
           "2025-03-31T00:00:00.000": 87019951000.0,
-          "2024-12-31T00:00:00.000": 81715400000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Non Current Prepaid Assets": {
           "2026-06-30T00:00:00.000": null,
           "2026-03-31T00:00:00.000": 4356387000.0,
           "2025-12-31T00:00:00.000": 4242600000.0,
           "2025-09-30T00:00:00.000": 5092503000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 4854963000.0,
           "2025-03-31T00:00:00.000": 5583601000.0,
-          "2024-12-31T00:00:00.000": 5495900000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Non Current Deferred Assets": {
           "2026-06-30T00:00:00.000": null,
@@ -2109,9 +2116,9 @@
           "2026-03-31T00:00:00.000": 18753326000.0,
           "2025-12-31T00:00:00.000": 19061500000.0,
           "2025-09-30T00:00:00.000": 19790940000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 19127165000.0,
           "2025-03-31T00:00:00.000": 19320140000.0,
-          "2024-12-31T00:00:00.000": 20211600000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Goodwill": {
           "2026-06-30T00:00:00.000": null,
@@ -2127,7 +2134,7 @@
           "2026-03-31T00:00:00.000": 4000644989000.0,
           "2025-12-31T00:00:00.000": 3735759800000.0,
           "2025-09-30T00:00:00.000": 3542609617000.0,
-          "2025-06-30T00:00:00.000": 3386210000000.0,
+          "2025-06-30T00:00:00.000": 3430064270000.0,
           "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
@@ -2136,9 +2143,9 @@
           "2026-03-31T00:00:00.000": -5505093438000.0,
           "2025-12-31T00:00:00.000": -5394603600000.0,
           "2025-09-30T00:00:00.000": -5246578063000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": -5087976537000.0,
           "2025-03-31T00:00:00.000": -4945640145000.0,
-          "2024-12-31T00:00:00.000": -4775331300000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Gross PPE": {
           "2026-06-30T00:00:00.000": 4582018000000.0,
@@ -2190,9 +2197,9 @@
           "2026-03-31T00:00:00.000": 54791818000.0,
           "2025-12-31T00:00:00.000": 53319200000.0,
           "2025-09-30T00:00:00.000": 52318405000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 52604650000.0,
           "2025-03-31T00:00:00.000": 51539268000.0,
-          "2024-12-31T00:00:00.000": 50035200000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Properties": {
           "2026-06-30T00:00:00.000": null,
@@ -2217,8 +2224,8 @@
           "2026-03-31T00:00:00.000": 136373194000.0,
           "2025-12-31T00:00:00.000": 118664400000.0,
           "2025-09-30T00:00:00.000": 34378423000.0,
-          "2025-06-30T00:00:00.000": null,
-          "2025-03-31T00:00:00.000": 45703772000.0,
+          "2025-06-30T00:00:00.000": 38838612000.0,
+          "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
         "Hedging Assets Current": {
@@ -2271,17 +2278,17 @@
           "2026-03-31T00:00:00.000": 66591013000.0,
           "2025-12-31T00:00:00.000": 70682200000.0,
           "2025-09-30T00:00:00.000": 72674914000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 73376535000.0,
           "2025-03-31T00:00:00.000": 72055331000.0,
-          "2024-12-31T00:00:00.000": 71493000000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Receivables": {
           "2026-06-30T00:00:00.000": 440923000000.0,
           "2026-03-31T00:00:00.000": 364689948000.0,
           "2025-12-31T00:00:00.000": 282059200000.0,
           "2025-09-30T00:00:00.000": 307871434000.0,
-          "2025-06-30T00:00:00.000": null,
-          "2025-03-31T00:00:00.000": 243949574000.0,
+          "2025-06-30T00:00:00.000": 238252943000.0,
+          "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
         "Receivables Adjustments Allowances": {
@@ -24165,32 +24172,32 @@
   },
   "news": [
     {
-      "id": "8613f047-b630-4cec-9702-db3d6df93d93",
+      "id": "5e3f3bb0-2b13-388f-b47d-93f7b54accd9",
       "content": {
-        "id": "8613f047-b630-4cec-9702-db3d6df93d93",
+        "id": "5e3f3bb0-2b13-388f-b47d-93f7b54accd9",
         "contentType": "STORY",
-        "title": "This week's AI winners and losers",
+        "title": "Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) Build-Out Is Alive and Well With This Jaw-Dropping Announcement",
         "description": "",
-        "summary": "Yahoo Finance's AI winners and losers include TSMC, Moonshot AI, IBM, and the chip industry.",
-        "pubDate": "2026-07-18T13:16:54Z",
-        "displayTime": "2026-07-18T13:16:54Z",
+        "summary": "TSMC is at the heart of the data center infrastructure build-out.",
+        "pubDate": "2026-07-19T18:30:00Z",
+        "displayTime": "2026-07-19T18:30:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/dDGonrGHEXtkXjVpmaLSDw--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/284f8a2f-d6ac-4569-aeed-c575129f270b",
-          "originalWidth": 6048,
-          "originalHeight": 4024,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5dc99bb770b58e6e720048a19fd62b9f",
+          "originalWidth": 1400,
+          "originalHeight": 840,
+          "caption": "Image of TSMC's headquarters.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dDGonrGHEXtkXjVpmaLSDw--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/284f8a2f-d6ac-4569-aeed-c575129f270b",
-              "width": 6048,
-              "height": 4024,
+              "url": "https://s.yimg.com/uu/api/res/1.2/GbgkIwAkM3XUN6hss7zDFg--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5dc99bb770b58e6e720048a19fd62b9f",
+              "width": 1400,
+              "height": 840,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6L2nioLWFDUPjxi0R7di1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/284f8a2f-d6ac-4569-aeed-c575129f270b",
+              "url": "https://s.yimg.com/uu/api/res/1.2/j0HO3wYCobrlvaYbHiNbng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5dc99bb770b58e6e720048a19fd62b9f",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24198,24 +24205,501 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
+          "url": "https://www.fool.com/investing/2026/07/19/taiwan-semiconductor-manufacturing-just-showed-the/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-just-showed-183000953.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0040d3b9-a496-34db-a277-9c4d3a685dbc",
+      "content": {
+        "id": "0040d3b9-a496-34db-a277-9c4d3a685dbc",
+        "contentType": "STORY",
+        "title": "Micron Has Strong Q3 Earnings and Rising Guidance. Is It a Buy?",
+        "description": "",
+        "summary": "Micron just posted one of the most explosive quarters in semiconductor history, yet the stock has cratered nearly 14% in a single week as three distinct threats converge on the memory giant. Whether this selloff is a gift or a warning depends entirely on which scenario plays out next.",
+        "pubDate": "2026-07-19T16:00:50Z",
+        "displayTime": "2026-07-19T16:00:50Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/8df37ca298d80708d42e6ab56d00eebe",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/q1O0Xpjjxn6Dvq.u_H_Ljw--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/8df37ca298d80708d42e6ab56d00eebe",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lsKHRj0VqdVWJuHWJ0kpHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8df37ca298d80708d42e6ab56d00eebe",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/19/why-micron-belongs-in-your-portfolio-with-strong-q3-earnings-and-rising-guidance/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-strong-q3-earnings-rising-160050172.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "120fa123-fed4-3894-a83e-6fabbf22748d",
+      "content": {
+        "id": "120fa123-fed4-3894-a83e-6fabbf22748d",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor’s $100 Billion Arizona Expansion Is a Bullish Sign for Investors",
+        "description": "",
+        "summary": "TSMC stock still looks like a 'Buy' after its latest earnings print.",
+        "pubDate": "2026-07-19T15:00:02Z",
+        "displayTime": "2026-07-19T15:00:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/c989733e98f10248b955874599824334",
+          "originalWidth": 1600,
+          "originalHeight": 985,
+          "caption": "Close-up view of modern GPU card with circuit by sdecoret via Adobe Stock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EzV1wwdehSoJaUzYXYaIFg--~B/aD05ODU7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/c989733e98f10248b955874599824334",
+              "width": 1600,
+              "height": 985,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lzJIRKEWQmoECJc_Jpn39g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/c989733e98f10248b955874599824334",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/3355078/taiwan-semiconductors-100-billion-arizona-expansion-is-a-bullish-sign-for-investors",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-100-billion-arizona-150002813.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4d0a1a2c-fe2c-3d65-8da4-f17708445082",
+      "content": {
+        "id": "4d0a1a2c-fe2c-3d65-8da4-f17708445082",
+        "contentType": "STORY",
+        "title": "TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?",
+        "description": "",
+        "summary": "TSMC and ASML are two of the most important companies in the semiconductor value chain.",
+        "pubDate": "2026-07-19T13:40:00Z",
+        "displayTime": "2026-07-19T13:40:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/036d28b309abc1da6cb6a364744a459f",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "ASML and TSMC logos against blue and red backgrounds, respectively. ",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Uck2drA0qzpe4mB0ztPn5g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/036d28b309abc1da6cb6a364744a459f",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/TSluD1EqybdQ48Uhfge7eA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/036d28b309abc1da6cb6a364744a459f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/19/tsmc-vs-asml-which-is-the-better-ai-semiconductor/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-vs-asml-better-ai-134000738.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6dce44c8-9464-3009-85d6-a7f3f04b58ce",
+      "content": {
+        "id": "6dce44c8-9464-3009-85d6-a7f3f04b58ce",
+        "contentType": "STORY",
+        "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+        "description": "",
+        "summary": "(Bloomberg) -- After last week’s wipeout in chips and the broader selloff in technology stocks, pressure is building for the biggest spenders on artificial intelligence to justify their expenditures to beleaguered traders with increasingly itchy fingers hovering over their sell buttons.Most Read from BloombergUS Strikes Iran to ‘Punish’ It for Attack That Killed 2 TroopsFCC Near Rulings Against Disney Over ‘The View,’ TV LicensesThousands of Trucks Haul Iraq’s Oil Through Syria in Sign of Hormuz",
+        "pubDate": "2026-07-19T13:00:00Z",
+        "displayTime": "2026-07-19T13:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a6df3266-fd68-38ab-a474-a6f3fe5b9948",
+      "content": {
+        "id": "a6df3266-fd68-38ab-a474-a6f3fe5b9948",
+        "contentType": "STORY",
+        "title": "3 Stocks I'm Buying After Taiwan Semiconductor's Stellar Announcement",
+        "description": "",
+        "summary": "TSMC's earnings announcement should light a fire in the AI investment theme.",
+        "pubDate": "2026-07-19T11:27:00Z",
+        "displayTime": "2026-07-19T11:27:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/77381c7d9269aded44f474ad8520673d",
+          "originalWidth": 1400,
+          "originalHeight": 772,
+          "caption": "Investor looking at a stock dashboard.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EkaFXh_w8bGyK0ZB3nWySA--~B/aD03NzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/77381c7d9269aded44f474ad8520673d",
+              "width": 1400,
+              "height": 772,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9K7hsSapknhZzgOQQIC0Yw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/77381c7d9269aded44f474ad8520673d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/19/3-stocks-im-buying-after-taiwan-semiconductors-ste/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-im-buying-taiwan-112700104.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "1809a065-139c-3ca7-8c1b-265f15295328",
+      "content": {
+        "id": "1809a065-139c-3ca7-8c1b-265f15295328",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor Manufacturing: Is the Stock a Buy as Revenue Continues to Soar?",
+        "description": "",
+        "summary": "TSMC turned in another strong quarter and upped its guidance.",
+        "pubDate": "2026-07-19T10:35:00Z",
+        "displayTime": "2026-07-19T10:35:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4fb7070d36b77d95cbc212baa32c532a",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "TSMC logo.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Y0NEAqXfIlWZAG6ggHMCFg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4fb7070d36b77d95cbc212baa32c532a",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZrIKOYzSOF.ITseoW9xUMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4fb7070d36b77d95cbc212baa32c532a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/19/taiwan-semiconductor-manufacturing-stock-buy/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-stock-buy-103500496.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "33ebac4d-7800-30ab-8d6e-feeaa5d9828e",
+      "content": {
+        "id": "33ebac4d-7800-30ab-8d6e-feeaa5d9828e",
+        "contentType": "STORY",
+        "title": "Earnings From Taiwan Semiconductor and ASML Show Soaring Demand, So Why Are AI Stocks Falling? (And Here's What Investors Should Do Next.)",
+        "description": "",
+        "summary": "AI stocks have driven stock market direction.",
+        "pubDate": "2026-07-19T08:00:00Z",
+        "displayTime": "2026-07-19T08:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a60caf10a388e3e5e7faa704793e5a4b",
+          "originalWidth": 1400,
+          "originalHeight": 929,
+          "caption": "An investor looks at declining stock chart on a tablet. ",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MOzoJlDkr3uxzbyFGkXJwg--~B/aD05Mjk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a60caf10a388e3e5e7faa704793e5a4b",
+              "width": 1400,
+              "height": 929,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yw6qunkCR4Dlbs274LQBoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a60caf10a388e3e5e7faa704793e5a4b",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/19/tsmc-asml-strong-earnings-why-ai-stocks-falling/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-taiwan-semiconductor-asml-show-080000902.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3bb9cc49-c2f7-3ca8-a083-e8224c666c88",
+      "content": {
+        "id": "3bb9cc49-c2f7-3ca8-a083-e8224c666c88",
+        "contentType": "STORY",
+        "title": "Massive TSMC deal is huge stride for US in high-tech race",
+        "description": "",
+        "summary": "Washington spent four years trying to convince the world's most important chipmaker to build in America. On Thursday, July 16, it got a positive answer. Taiwan Semiconductor Manufacturing Company (TSM) confirmed an additional $100 billion for its Arizona operations. That lifted its total US ...",
+        "pubDate": "2026-07-18T23:03:00Z",
+        "displayTime": "2026-07-18T23:03:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/0a22d9a5938297120fa8a23ef7f10010",
+          "originalWidth": 3840,
+          "originalHeight": 2560,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LdQG_8TWgMA0GALrXCy6Ng--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/0a22d9a5938297120fa8a23ef7f10010",
+              "width": 3840,
+              "height": 2560,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Hn9QrXkCngLSqLXKvSrYcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/0a22d9a5938297120fa8a23ef7f10010",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/stocks/tsmc-tsm-arizona-265-billion-stock-drop-capex",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/massive-tsmc-deal-huge-stride-230300784.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -24272,459 +24756,6 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/technology/articles/tsmc-pouring-100-billion-more-193035757.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "718b0a57-3c3e-3786-b2cf-c109a903c5ab",
-      "content": {
-        "id": "718b0a57-3c3e-3786-b2cf-c109a903c5ab",
-        "contentType": "STORY",
-        "title": "TSMC: Stock to Avoid or Incredible Buying Opportunity? (NYSE: TSM)",
-        "description": "",
-        "summary": "TSMC expects strong revenue growth, but it's also spending heavily to build new foundry capacity.",
-        "pubDate": "2026-07-18T13:11:00Z",
-        "displayTime": "2026-07-18T13:11:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/adbcac0ed7924f102409bbae4fd40b07",
-          "originalWidth": 1400,
-          "originalHeight": 840,
-          "caption": "TSMC's headquarters, with three-dimensional \"T,\" \"S,\" \"M,\" and \"C\" letters in front.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/R1w.D4I3x7oi98qvP5C5mQ--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/adbcac0ed7924f102409bbae4fd40b07",
-              "width": 1400,
-              "height": 840,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/e0Cdpbg1HmKL7ac9mx2WFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/adbcac0ed7924f102409bbae4fd40b07",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/18/tsmc-stock-to-avoid-or-incredible-buying-opportuni/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-avoid-incredible-buying-131100467.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "76cd19c1-dab3-3d41-bddf-6adc066f94b4",
-      "content": {
-        "id": "76cd19c1-dab3-3d41-bddf-6adc066f94b4",
-        "contentType": "STORY",
-        "title": "'Wrong Picks or Just Bad Timing?' A Newbie Investor Wonders Why Their Stock Portfolio Fell 9%. Here Are the Stocks They Bought",
-        "description": "",
-        "summary": "Watching a new investment portfolio drop nearly 10% within days of buying can make anyone question whether they made a mistake. That’s exactly what happened to one beginner investor after a basket of technology and AI-related stocks fell sharply, leaving...",
-        "pubDate": "2026-07-17T22:31:16Z",
-        "displayTime": "2026-07-17T22:31:16Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/345753046488278794af189cd7bc6c68",
-          "originalWidth": 1000,
-          "originalHeight": 666,
-          "caption": "'Wrong Picks or Just Bad Timing?' A Newbie Investor Wonders Why Their Stock Portfolio Fell 9%. Here Are the Stocks They Bought",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9F5XFElPcuBNdcZJ6ztyzg--~B/aD02NjY7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/345753046488278794af189cd7bc6c68",
-              "width": 1000,
-              "height": 666,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tyBYbDW.Kcn2i.CAoOMFyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/345753046488278794af189cd7bc6c68",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wrong-picks-just-bad-timing-223116532.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wrong-picks-just-bad-timing-223116532.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9d93c425-db95-321c-b4cb-a17a79d3b330",
-      "content": {
-        "id": "9d93c425-db95-321c-b4cb-a17a79d3b330",
-        "contentType": "VIDEO",
-        "title": "Wall St ends lower for the day and week as chip selloff broadens",
-        "description": "<title><body><p>STORY: Wall Street ended the week with another down day on Friday, as the Dow dropped more than three-quarters of a percent, the S&P 500 shed 1% and the Nasdaq lost 1.4%.</p><p>All three indexes also posted weekly losses.</p><p>Semiconductor shares initially led the selloff, which broadened as the session progressed.</p><p>The Philadelphia Semiconductor Index, while still up about 65% year-to-date, logged its steepest weekly loss in over a year this week, and has tumbled nearly 18% so far in July. </p><p>Eric Lynch, managing director & co-portfolio manager at Suncoast Equity Management, said the decline reflects investor jitters over billions in AI-related spending.</p><p>\"You're seeing just continued consternation surrounding, 'Hey, what's the ETA on this return on investment?' Right? And when TSMC [Taiwan Semiconductor Manufacturing Company], the fab [fabrication] company, reported this week, they said, \"Look, things are great, but we're going to be building 15% even higher CapEx than we guided for, and our revenues are going to go up not quite as much as that,' in terms of the increase in guidance. So investors were concerned. And so it's probably going to be really important to see what the hyperscalers do this earnings season. Microsoft, Google, Amazon - are they seeing revenues that are actually in line or, ahead of, their CapEx, or not?”</p><p>:: Netflix</p><p>Elsewhere in the market, shares of Netflix tumbled more than 7% after the streaming giant's weaker-than-expected earnings forecast, raising doubts about the sustainability of the content growth momentum.</p><p>Shares of Uber dropped 2% after the ridesharing service announced it would acquire Germany's Delivery Hero in a deal worth nearly $15 billion.</p><p>:: Intuitive Surgical </p><p>And shares of Intuitive Surgical plunged 14% after the company maintained its global growth forecast for procedures performed with its da Vinci surgical robots, and warned that changes to some insurance plans could hurt demand.</p></body></title>",
-        "summary": "<body><p>STORY: Wall Street ended the week with another down day on Friday, as the Dow dropped more than three-quarters of a percent, the S&P 500 shed 1% and the Nasdaq lost 1.4%.</p><p>All three indexes also posted weekly losses.</p><p>Semiconductor shares initially led the selloff, which broadened as the session progressed.</p><p>The Philadelphia Semiconductor Index, while still up about 65% year-to-date, logged its steepest weekly loss in over a year this week, and has tumbled nearly 18% so far in July.&nbsp;</p><p>Eric Lynch, managing director & co-portfolio manager at Suncoast Equity Management, said the decline reflects investor jitters over billions in AI-related spending.</p><p>\"You're seeing just continued consternation surrounding, 'Hey, what's the ETA on this return on investment?' Right? And when TSMC [Taiwan Semiconductor Manufacturing Company], the fab [fabrication] company, reported this week, they said, \"Look, things are great, but we're going to be building 15% even higher CapEx than we guided for, and our revenues are going to go up not quite as much as that,' in terms of the increase in guidance. So investors were concerned. And so it's probably going to be really important to see what the hyperscalers do this earnings season. Microsoft, Google, Amazon - are they seeing revenues that are actually in line or, ahead of, their CapEx, or not?”</p><p>:: Netflix</p><p>Elsewhere in the market, shares of&nbsp;Netflix tumbled more than 7% after the streaming giant's weaker-than-expected earnings forecast, raising doubts about the sustainability of the content growth momentum.</p><p>Shares of Uber dropped 2% after the ridesharing service announced it would acquire Germany's Delivery Hero in a deal worth nearly $15 billion.</p><p>:: Intuitive Surgical&nbsp;</p><p>And shares of Intuitive Surgical plunged 14% after the company maintained its global growth forecast for procedures performed with its da Vinci surgical robots, and warned that changes to some insurance plans could hurt demand.</p></body>",
-        "pubDate": "2026-07-17T22:14:49Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/PGRifWeBAJMF9NbDsDt.9w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/848c43ac-dace-4f82-afda-ad231f067aa5/main/1280x720/1m3s285ms/match/image.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/PGRifWeBAJMF9NbDsDt.9w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/848c43ac-dace-4f82-afda-ad231f067aa5/main/1280x720/1m3s285ms/match/image.jpg",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/oReC0ubYB.BJmoACNGPGIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/848c43ac-dace-4f82-afda-ad231f067aa5/main/1280x720/1m3s285ms/match/image.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters Videos",
-          "url": "http://www.reuters.com/",
-          "sourceId": "video.reutersnews.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/wall-st-ends-lower-day-221449448.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/wall-st-ends-lower-day-221449448.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "aae85174-3617-31f3-9a1a-6193e51a965b",
-      "content": {
-        "id": "aae85174-3617-31f3-9a1a-6193e51a965b",
-        "contentType": "STORY",
-        "title": "Nvidia and AMD Hit by AI Selloff",
-        "description": "",
-        "summary": "Japan's tech selloff spills into U.S. trading",
-        "pubDate": "2026-07-17T20:01:09Z",
-        "displayTime": "2026-07-17T20:01:09Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ab336de3-835f-3360-800a-f32f1dabd98a",
-      "content": {
-        "id": "ab336de3-835f-3360-800a-f32f1dabd98a",
-        "contentType": "STORY",
-        "title": "A $100 Billion Reason to Buy Taiwan Semi Stock Now",
-        "description": "",
-        "summary": "TSMC’s massive investment signals growing ambitions, giving investors another reason to watch the chip giant closely.",
-        "pubDate": "2026-07-17T19:14:14Z",
-        "displayTime": "2026-07-17T19:14:14Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/ba8ef178d7eb024986f75df9e9466d24",
-          "originalWidth": 1600,
-          "originalHeight": 1067,
-          "caption": "Technological process of soldering chip components on PCB board by I Viewfinder via Adobe Stock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jcEpij8Qyp006BtlAyw89A--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/ba8ef178d7eb024986f75df9e9466d24",
-              "width": 1600,
-              "height": 1067,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/iI7IuxqduanUKtiMSCpEvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/ba8ef178d7eb024986f75df9e9466d24",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/3340816/a-100-billion-reason-to-buy-taiwan-semi-stock-now",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/100-billion-reason-buy-taiwan-191414554.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "0ed80cd2-81df-31e5-b489-caeab37b6289",
-      "content": {
-        "id": "0ed80cd2-81df-31e5-b489-caeab37b6289",
-        "contentType": "STORY",
-        "title": "Micron vs. TSMC: Which AI Semiconductor Stock Is a Better Buy Now?",
-        "description": "",
-        "summary": "Micron and TSMC are benefiting from AI demand, but Micron's lower valuation, stronger returns and lighter debt may give it the investment edge.",
-        "pubDate": "2026-07-17T19:00:00Z",
-        "displayTime": "2026-07-17T19:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/b2af4509c87c42937f5e0b482f3c4171",
-          "originalWidth": 619,
-          "originalHeight": 193,
-          "caption": "Zacks Investment Research",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/y_L_GdpZ1Omxm2UaYsUjQA--~B/aD0xOTM7dz02MTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b2af4509c87c42937f5e0b482f3c4171",
-              "width": 619,
-              "height": 193,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/K34hy0N2UiZRxByhNKJdug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b2af4509c87c42937f5e0b482f3c4171",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-tsmc-ai-semiconductor-190000377.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-tsmc-ai-semiconductor-190000377.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "41b5d5b8-e935-3a76-bac9-563d53e3bb68",
-      "content": {
-        "id": "41b5d5b8-e935-3a76-bac9-563d53e3bb68",
-        "contentType": "STORY",
-        "title": "Intel Stock Back In Growth Mode, But Sellers Still Smack Shares Ahead Of Q2 Report",
-        "description": "",
-        "summary": "Intel has transformed itself and is back in growth mode ahead of earnings. But Intel stock hasn't been immune to the chip market sell-off.",
-        "pubDate": "2026-07-17T18:34:14Z",
-        "displayTime": "2026-07-17T18:34:14Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/41b5d5b8-e935-3a76-bac9-563d53e3bb68/intel-stock-back-in-growth.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/5458d0196eb3c0adf8d3a87bd4098f8a",
-          "originalWidth": 1000,
-          "originalHeight": 563,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SZUoys_yq4o5stTiNgU7qg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5458d0196eb3c0adf8d3a87bd4098f8a",
-              "width": 1000,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zCaw.EGtZqVLFg1KGEWUAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/5458d0196eb3c0adf8d3a87bd4098f8a",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.investors.com/research/earnings-preview/intel-stock-intc-earnings-semiconductor-industry/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e724f211-cc6c-3d0e-94df-1f7b76798c00",
-      "content": {
-        "id": "e724f211-cc6c-3d0e-94df-1f7b76798c00",
-        "contentType": "STORY",
-        "title": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
-        "description": "",
-        "summary": "AI Chip Stocks Under Pressure as China's Moonshot Challenges U.S. AI Leaders",
-        "pubDate": "2026-07-17T17:52:11Z",
-        "displayTime": "2026-07-17T17:52:11Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-mircon-tsmc-shares-175211072.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-mircon-tsmc-shares-175211072.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24856,35 +24887,36 @@
     "priceHint": 2,
     "previousClose": 2470.0,
     "open": 2375.0,
-    "dayLow": 2310.0,
+    "dayLow": 2290.0,
     "dayHigh": 2395.0,
     "regularMarketPreviousClose": 2470.0,
     "regularMarketOpen": 2375.0,
-    "regularMarketDayLow": 2310.0,
+    "regularMarketDayLow": 2290.0,
     "regularMarketDayHigh": 2395.0,
     "dividendRate": 24.0,
     "dividendYield": 1.05,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2573,
     "fiveYearAvgDividendYield": 1.7,
-    "trailingPE": 27.101381,
-    "forwardPE": 17.132996,
-    "volume": 80101437,
-    "regularMarketVolume": 80101437,
+    "beta": 1.246,
+    "trailingPE": 26.80871,
+    "forwardPE": 16.947973,
+    "volume": 95832670,
+    "regularMarketVolume": 95832670,
     "averageVolume": 34305319,
     "averageVolume10days": 29783749,
     "averageDailyVolume10Day": 29783749,
-    "bid": 2315.0,
-    "ask": 2320.0,
+    "bid": 0.0,
+    "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 60033438056448,
+    "marketCap": 59385128681472,
     "nonDilutedMarketCap": 59385127453430,
     "fiftyTwoWeekLow": 1125.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 13.519546,
+    "priceToSalesTrailing12Months": 13.373546,
     "fiftyDayAverage": 2352.9,
     "twoHundredDayAverage": 1871.2,
     "trailingAnnualDividendRate": 12.0,
@@ -24899,7 +24931,7 @@
     "heldPercentInstitutions": 0.43834,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 227.166,
-    "priceToBook": 10.190785,
+    "priceToBook": 10.080734,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
@@ -24917,7 +24949,7 @@
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
-    "currentPrice": 2315.0,
+    "currentPrice": 2290.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2051.0,
     "targetMeanPrice": 3064.2856,
@@ -24952,39 +24984,16 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "marketState": "CLOSED",
-    "regularMarketPrice": 2315.0,
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "regularMarketChangePercent": -6.275304,
-    "fiftyDayAverageChange": -37.899902,
-    "fiftyDayAverageChangePercent": -0.016107742,
-    "twoHundredDayAverageChange": 443.80005,
-    "twoHundredDayAverageChangePercent": 0.23717403,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "corporateActions": [],
-    "regularMarketTime": 1784266207,
-    "exchange": "TAI",
-    "messageBoardId": "finmb_380075",
-    "exchangeTimezoneName": "Asia/Taipei",
-    "exchangeTimezoneShortName": "CST",
-    "gmtOffSetMilliseconds": 28800000,
-    "market": "tw_market",
-    "esgPopulated": false,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": -155.0,
-    "regularMarketDayRange": "2310.0 - 2395.0",
+    "marketState": "PREPRE",
+    "regularMarketChange": -180.0,
+    "regularMarketDayRange": "2290.0 - 2395.0",
     "fullExchangeName": "Taiwan",
     "averageDailyVolume3Month": 34305319,
-    "fiftyTwoWeekLowChange": 1190.0,
-    "fiftyTwoWeekLowChangePercent": 1.0577778,
+    "fiftyTwoWeekLowChange": 1165.0,
+    "fiftyTwoWeekLowChangePercent": 1.0355556,
     "fiftyTwoWeekRange": "1125.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -220.0,
-    "fiftyTwoWeekHighChangePercent": -0.08678501,
+    "fiftyTwoWeekHighChange": -245.0,
+    "fiftyTwoWeekHighChangePercent": -0.09664694,
     "fiftyTwoWeekChangePercent": 99.13044,
     "earningsTimestamp": 1784179800,
     "earningsTimestampStart": 1792042200,
@@ -24995,7 +25004,30 @@
     "epsTrailingTwelveMonths": 85.42,
     "epsForward": 135.1194,
     "epsCurrentYear": 107.27477,
-    "priceEpsCurrentYear": 21.580097,
+    "priceEpsCurrentYear": 21.34705,
+    "fiftyDayAverageChange": -62.899902,
+    "fiftyDayAverageChangePercent": -0.026732927,
+    "twoHundredDayAverageChange": 418.80005,
+    "twoHundredDayAverageChangePercent": 0.22381362,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "corporateActions": [],
+    "regularMarketTime": 1784266207,
+    "exchange": "TAI",
+    "messageBoardId": "finmb_380075",
+    "exchangeTimezoneName": "Asia/Taipei",
+    "exchangeTimezoneShortName": "CST",
+    "gmtOffSetMilliseconds": 28800000,
+    "market": "tw_market",
+    "esgPopulated": false,
+    "regularMarketChangePercent": -7.2874494,
+    "regularMarketPrice": 2290.0,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "trailingPegRatio": 0.9071
   }
 }
