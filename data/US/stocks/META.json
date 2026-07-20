@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-19T22:43:25.345297",
+    "ts": "2026-07-20T22:51:55.483102",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 664.54004,
-    "open": 647.7,
-    "dayLow": 626.0,
-    "dayHigh": 652.2,
-    "regularMarketPreviousClose": 664.54004,
-    "regularMarketOpen": 647.7,
-    "regularMarketDayLow": 626.0,
-    "regularMarketDayHigh": 652.2,
+    "previousClose": 646.01,
+    "open": 646.7,
+    "dayLow": 636.0105,
+    "dayHigh": 653.3,
+    "regularMarketPreviousClose": 646.01,
+    "regularMarketOpen": 646.7,
+    "regularMarketDayLow": 636.0105,
+    "regularMarketDayHigh": 653.3,
     "dividendRate": 2.1,
     "dividendYield": 0.33,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0764,
     "beta": 1.246,
-    "trailingPE": 23.474201,
-    "forwardPE": 17.782232,
-    "volume": 22267862,
-    "regularMarketVolume": 22267862,
-    "averageVolume": 18162004,
+    "trailingPE": 23.468386,
+    "forwardPE": 17.777826,
+    "volume": 9924164,
+    "regularMarketVolume": 9924164,
+    "averageVolume": 18254267,
     "averageVolume10days": 21065800,
     "averageDailyVolume10Day": 21065800,
-    "bid": 643.43,
-    "ask": 644.0,
-    "bidSize": 2,
-    "askSize": 3,
-    "marketCap": 1639846903808,
+    "bid": 649.88,
+    "ask": 646.9,
+    "bidSize": 3,
+    "askSize": 2,
+    "marketCap": 1639440580608,
     "nonDilutedMarketCap": 1639846838616,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 7.628508,
+    "priceToSalesTrailing12Months": 7.626618,
     "fiftyDayAverage": 604.535,
     "twoHundredDayAverage": 640.50555,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0031600804,
+    "trailingAnnualDividendYield": 0.0032507235,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1645435813888,
+    "enterpriseValue": 1645029752832,
     "profitMargins": 0.32837,
     "floatShares": 2192690050,
     "sharesOutstanding": 2196045588,
@@ -189,7 +189,7 @@
     "shortPercentOfFloat": 0.015700001,
     "impliedSharesOutstanding": 2538423304,
     "bookValue": 96.013,
-    "priceToBook": 6.7283597,
+    "priceToBook": 6.726693,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1774915200,
@@ -198,14 +198,14 @@
     "trailingEps": 27.52,
     "forwardEps": 36.32896,
     "pegRatio": 0.94,
-    "enterpriseToRevenue": 7.655,
-    "enterpriseToEbitda": 15.053,
+    "enterpriseToRevenue": 7.653,
+    "enterpriseToEbitda": 15.049,
     "52WeekChange": -0.09391701,
     "SandP52WeekChange": 0.18270898,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 646.01,
+    "currentPrice": 645.85,
     "targetHighPrice": 1015.0,
     "targetLowPrice": 664.46,
     "targetMeanPrice": 822.68585,
@@ -240,34 +240,20 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "cryptoTradeable": false,
-    "marketState": "CLOSED",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "regularMarketChangePercent": -2.7883992,
-    "regularMarketPrice": 646.01,
-    "corporateActions": [],
-    "postMarketTime": 1784332798,
-    "regularMarketTime": 1784318401,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "postMarketChangePercent": -0.8976186,
-    "postMarketPrice": 640.2113,
-    "postMarketChange": -5.798706,
-    "regularMarketChange": -18.53003,
-    "regularMarketDayRange": "626.0 - 652.2",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": -0.45675486,
+    "postMarketPrice": 642.9,
+    "postMarketChange": -2.9499512,
+    "regularMarketChange": -0.16003418,
+    "regularMarketDayRange": "636.0105 - 653.3",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18162004,
-    "fiftyTwoWeekLowChange": 125.75,
-    "fiftyTwoWeekLowChangePercent": 0.24170606,
+    "averageDailyVolume3Month": 18254267,
+    "fiftyTwoWeekLowChange": 125.589966,
+    "fiftyTwoWeekLowChangePercent": 0.24139847,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -150.23999,
-    "fiftyTwoWeekHighChangePercent": -0.18868445,
+    "fiftyTwoWeekHighChange": -150.40002,
+    "fiftyTwoWeekHighChangePercent": -0.18888544,
     "fiftyTwoWeekChangePercent": -9.391701,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
@@ -279,19 +265,33 @@
     "epsTrailingTwelveMonths": 27.52,
     "epsForward": 36.32896,
     "epsCurrentYear": 31.939,
-    "priceEpsCurrentYear": 20.22637,
-    "fiftyDayAverageChange": 41.475037,
-    "fiftyDayAverageChangePercent": 0.06860651,
-    "twoHundredDayAverageChange": 5.5044556,
-    "twoHundredDayAverageChangePercent": 0.008593923,
+    "priceEpsCurrentYear": 20.22136,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "fiftyDayAverageChange": 41.315002,
+    "fiftyDayAverageChangePercent": 0.06834179,
+    "twoHundredDayAverageChange": 5.3444214,
+    "twoHundredDayAverageChangePercent": 0.008344067,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-19",
+    "nameChangeDate": "2026-07-20",
     "averageAnalystRating": "1.3 - Strong Buy",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
+    "cryptoTradeable": false,
+    "corporateActions": [],
+    "postMarketTime": 1784587909,
+    "regularMarketTime": 1784577601,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "regularMarketChangePercent": -0.02477271,
+    "regularMarketPrice": 645.85,
+    "marketState": "POST",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.9424
   },
@@ -1645,37 +1645,37 @@
       "Earnings Average": 7.39,
       "Revenue High": 62812000000,
       "Revenue Low": 59034000000,
-      "Revenue Average": 60253188980
+      "Revenue Average": 60257954600
     }
   },
   "news": [
     {
-      "id": "f2c4d76e-3fef-3800-83da-1205825e90b6",
+      "id": "3a31b773-fabf-4d73-87ee-2cddb7362996",
       "content": {
-        "id": "f2c4d76e-3fef-3800-83da-1205825e90b6",
+        "id": "3a31b773-fabf-4d73-87ee-2cddb7362996",
         "contentType": "STORY",
-        "title": "I Can’t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
+        "title": "AMD stock rises on price target bumps, Microsoft deal",
         "description": "",
-        "summary": "Every headline says Google is hemorrhaging its best AI minds to Anthropic and OpenAI, and that narrative has created one of the most exploitable gaps between fear and reality in the market right now.",
-        "pubDate": "2026-07-19T16:12:10Z",
-        "displayTime": "2026-07-19T16:12:10Z",
+        "summary": "AMD stock rose more than 3% on Monday.",
+        "pubDate": "2026-07-20T17:01:06Z",
+        "displayTime": "2026-07-20T17:01:06Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/56bd9567fcff0d866895c5b2c21e9ca1",
-          "originalWidth": 1500,
-          "originalHeight": 936,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Pa3TXrslTnHj4AMv8Al.ig--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/382f9cfb-75b6-4dcd-ae63-16a1bbd363d6",
+          "originalWidth": 4000,
+          "originalHeight": 2667,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xLrlxuVUNmFyRF1KWXl1XA--~B/aD05MzY7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/56bd9567fcff0d866895c5b2c21e9ca1",
-              "width": 1500,
-              "height": 936,
+              "url": "https://s.yimg.com/uu/api/res/1.2/Pa3TXrslTnHj4AMv8Al.ig--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/382f9cfb-75b6-4dcd-ae63-16a1bbd363d6",
+              "width": 4000,
+              "height": 2667,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QHSMscg.eeo5pitq3aulqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/56bd9567fcff0d866895c5b2c21e9ca1",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Q7uXglZRzg3zAIv01zPyLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/382f9cfb-75b6-4dcd-ae63-16a1bbd363d6",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1683,24 +1683,24 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/19/i-cant-stop-buying-alphabet-because-the-ai-talent-narrative-is-wrong/",
+          "url": "https://finance.yahoo.com/technology/article/amd-stock-rises-on-price-target-bumps-microsoft-deal-170106894.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/t-stop-buying-alphabet-because-161210758.html",
+          "url": "https://finance.yahoo.com/technology/article/amd-stock-rises-on-price-target-bumps-microsoft-deal-170106894.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": false
+          "editorsPick": true
         },
         "finance": {
           "premiumFinance": {
@@ -1712,32 +1712,32 @@
       }
     },
     {
-      "id": "ffcfecff-4171-3bcb-9704-b93e2677d563",
+      "id": "093018e1-2cfd-40f8-a766-6fcf4235af1c",
       "content": {
-        "id": "ffcfecff-4171-3bcb-9704-b93e2677d563",
+        "id": "093018e1-2cfd-40f8-a766-6fcf4235af1c",
         "contentType": "STORY",
-        "title": "Can Nebius Group Really 10X by 2030? The Math Says Yes",
+        "title": "Why it's time to retire the 'Magnificent 7' name: Strategist",
         "description": "",
-        "summary": "Wolfe Research has a number that should stop any serious investor cold, and Nebius Group's own internal projections are not far behind. The question is whether one company can actually build the AI infrastructure layer the entire industry needs before the window closes.",
-        "pubDate": "2026-07-19T16:04:31Z",
-        "displayTime": "2026-07-19T16:04:31Z",
+        "summary": "It's time to retire the group name as the AI revolution creates new power players.",
+        "pubDate": "2026-07-20T16:55:52Z",
+        "displayTime": "2026-07-20T16:55:52Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/6586c810414a0873cf67f1eadb2d1500",
-          "originalWidth": 1500,
-          "originalHeight": 1000,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/8_Uy25XfYvqCXPVS2aAwYQ--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/553bdd84-0db1-4bff-9dd0-aebf2d361c06",
+          "originalWidth": 6000,
+          "originalHeight": 4000,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/7JqcQaXvAXTrxWuyMDyk9Q--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/6586c810414a0873cf67f1eadb2d1500",
-              "width": 1500,
-              "height": 1000,
+              "url": "https://s.yimg.com/uu/api/res/1.2/8_Uy25XfYvqCXPVS2aAwYQ--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/553bdd84-0db1-4bff-9dd0-aebf2d361c06",
+              "width": 6000,
+              "height": 4000,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/oY4d9inMWeSTXzJPCdzKHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6586c810414a0873cf67f1eadb2d1500",
+              "url": "https://s.yimg.com/uu/api/res/1.2/SepQBhKm7eL6tNE6CMWjeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/553bdd84-0db1-4bff-9dd0-aebf2d361c06",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1745,18 +1745,80 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/19/can-nebius-group-really-10x-by-2030-the-math-says-yes/",
+          "url": "https://finance.yahoo.com/markets/article/why-its-time-to-retire-the-magnificent-7-name-strategist-165552204.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nebius-group-really-10x-2030-160431339.html",
+          "url": "https://finance.yahoo.com/markets/article/why-its-time-to-retire-the-magnificent-7-name-strategist-165552204.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "59f03975-b6e9-3d89-a241-177a2c4dd5b9",
+      "content": {
+        "id": "59f03975-b6e9-3d89-a241-177a2c4dd5b9",
+        "contentType": "STORY",
+        "title": "Nebius Group (NBIS) Secures $775 Million In Debt To Expand Its AI Cloud",
+        "description": "",
+        "summary": "Nebius Group secured $775 million in senior secured debt backed by GPU assets and contracted revenue. The financing marks NasdaqGS:NBIS's first major asset-backed deal to support its global AI cloud expansion. Key customers linked to the underlying contracts include large technology partners such as Microsoft and Meta. Nebius Group, trading as NasdaqGS:NBIS, is drawing attention after arranging a $775 million asset-backed debt facility tied to its operational GPU base and customer...",
+        "pubDate": "2026-07-20T21:08:17Z",
+        "displayTime": "2026-07-20T21:08:17Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/p9AmAMKjf.qGqvNo1JBhgQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wGj4CqPUCYLMz_BgnPGdqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/587bca1ec4acb3634ab3a458c085a4fc",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-secures-775-210817297.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-secures-775-210817297.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1774,32 +1836,32 @@
       }
     },
     {
-      "id": "a8af03a4-4baa-3166-a589-19d295afe77f",
+      "id": "a8f787c6-aedc-3150-9014-7f6d527205dc",
       "content": {
-        "id": "a8af03a4-4baa-3166-a589-19d295afe77f",
+        "id": "a8f787c6-aedc-3150-9014-7f6d527205dc",
         "contentType": "STORY",
-        "title": "Meta Platforms: Is This the Most Undervalued Stock in Big Tech? (NASDAQ: META)",
+        "title": "SpaceX Stock Closes Lower for the Seventh Straight Trading Session",
         "description": "",
-        "summary": "Although it may be unloved, this big tech stock is worth considering.",
-        "pubDate": "2026-07-19T13:55:00Z",
-        "displayTime": "2026-07-19T13:55:00Z",
-        "isHosted": true,
+        "summary": "Shares of Elon Musk’s SpaceX suffered their seventh straight day of declines, falling 3.3% to $119.85. SpaceX, whose stock is now well below its $135 offering price from June, on Monday dropped below Meta Platforms to become the eighth-largest U.",
+        "pubDate": "2026-07-20T20:58:12Z",
+        "displayTime": "2026-07-20T20:58:12Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/a8f787c6-aedc-3150-9014-7f6d527205dc/spacex-stock-closes-lower-for.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/8a8b5d11d1f99990a9286cb27058018e",
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
           "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "Meta Platforms' logo against a blue background.",
+          "originalHeight": 630,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XIQz_MRfrr5vrckHpH5kWw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8a8b5d11d1f99990a9286cb27058018e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Fwf5HL4GsEGPbDfR3MJBPg--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
               "width": 1200,
-              "height": 800,
+              "height": 630,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Yu5lHgcLC9AdLrsFBwrVaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8a8b5d11d1f99990a9286cb27058018e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1807,18 +1869,75 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/19/meta-platforms-is-this-the-most-undervalued-stock/",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026/card/spacex-stock-closes-lower-for-the-seventh-straight-trading-session-uQzNtm4W4ImOr5kyFiPd?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ecbf54e4-52e3-3fe8-a7d9-ff0356cd7a0a",
+      "content": {
+        "id": "ecbf54e4-52e3-3fe8-a7d9-ff0356cd7a0a",
+        "contentType": "VIDEO",
+        "title": "Who is the tenant for Hut 8’s 1 GW Beacon Point data center?",
+        "description": "Hut 8 did not disclose the tenant for its 1 GW Beacon Point data center, but process of elimination points to Amazon, Nvidia, Meta, or Microsoft.",
+        "summary": "Hut 8 did not disclose the tenant for its 1 GW Beacon Point data center, but process of elimination points to Amazon, Nvidia, Meta, or Microsoft.",
+        "pubDate": "2026-07-20T20:28:33Z",
+        "displayTime": "",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/blockspace_702/e88fd6a3ceaaddfe2d3e4e882ffd61fe",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eogxRpaBTL2skngybwh_Dw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/blockspace_702/e88fd6a3ceaaddfe2d3e4e882ffd61fe",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/B0.6OVAsa8Mb_pJRNBx8fQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/blockspace_702/e88fd6a3ceaaddfe2d3e4e882ffd61fe",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Blockspace",
+          "url": "https://blockspace.media/",
+          "sourceId": "blockspace_702"
+        },
+        "canonicalUrl": {
+          "url": "https://blockspace.media/short/ai-stocks-surge-to-open-the-week-as-q2-earnings-approach/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-most-undervalued-stock-135500895.html",
+          "url": "https://finance.yahoo.com/video/tenant-hut-8-1-gw-202833658.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1836,32 +1955,156 @@
       }
     },
     {
-      "id": "6dce44c8-9464-3009-85d6-a7f3f04b58ce",
+      "id": "72d3608b-a140-3a63-bb31-fa6481c106a2",
       "content": {
-        "id": "6dce44c8-9464-3009-85d6-a7f3f04b58ce",
+        "id": "72d3608b-a140-3a63-bb31-fa6481c106a2",
         "contentType": "STORY",
-        "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+        "title": "Why Nvidia Stock is Flat Since November Despite Tripling Its Net Income",
         "description": "",
-        "summary": "(Bloomberg) -- After last week’s wipeout in chips and the broader selloff in technology stocks, pressure is building for the biggest spenders on artificial intelligence to justify their expenditures to beleaguered traders with increasingly itchy fingers hovering over their sell buttons.Most Read from BloombergUS Strikes Iran to ‘Punish’ It for Attack That Killed 2 TroopsFCC Near Rulings Against Disney Over ‘The View,’ TV LicensesThousands of Trucks Haul Iraq’s Oil Through Syria in Sign of Hormuz",
-        "pubDate": "2026-07-19T13:00:00Z",
-        "displayTime": "2026-07-19T13:00:00Z",
+        "summary": "In the past few years, NVIDIA Corporation (NASDAQ:NVDA) has been one of the most-covered stocks in the media as analysts and experts give their take on the undisputed engine of the AI revolution. A lot of this analysis has been dedicated to the graphics processing power of the company and how it has helped turn […]",
+        "pubDate": "2026-07-20T19:43:53Z",
+        "displayTime": "2026-07-20T19:43:53Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/a28a9847196e20d557458644f8b04938",
+          "originalWidth": 1456,
+          "originalHeight": 816,
+          "caption": "Astera Labs Inc (ALAB) Gains Outperform Rating as GenAI Demand Drives Growth",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/aVUkt6YmU2kjIZatDh.BBA--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/a28a9847196e20d557458644f8b04938",
+              "width": 1456,
+              "height": 816,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zJCoUAPxGVxTkWb1mPDoeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a28a9847196e20d557458644f8b04938",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-flat-since-194353578.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-flat-since-194353578.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8ef26564-b5a5-34ea-93bd-a3008b1358a4",
+      "content": {
+        "id": "8ef26564-b5a5-34ea-93bd-a3008b1358a4",
+        "contentType": "STORY",
+        "title": "Will Alphabet's Q2 Earnings Reignite the Tech Rally?",
+        "description": "",
+        "summary": "Expectations are running high for Alphabet's Q2 results on Wednesday, July 22, but so is the company's earnings momentum.",
+        "pubDate": "2026-07-20T19:34:00Z",
+        "displayTime": "2026-07-20T19:34:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/0f8833006679b7636bbb8b6c36edb2dd",
+          "originalWidth": 619,
+          "originalHeight": 280,
+          "caption": "Zacks Investment Research",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/kxi_S9N8R0YbcrKXB0EUCA--~B/aD0yODA7dz02MTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0f8833006679b7636bbb8b6c36edb2dd",
+              "width": 619,
+              "height": 280,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_AFyPv2aE0wvYluGsVbmKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0f8833006679b7636bbb8b6c36edb2dd",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabets-q2-earnings-reignite-tech-193400716.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabets-q2-earnings-reignite-tech-193400716.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "59fae4a0-5043-3877-8d9b-8e247a2fbcbd",
+      "content": {
+        "id": "59fae4a0-5043-3877-8d9b-8e247a2fbcbd",
+        "contentType": "STORY",
+        "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+        "description": "",
+        "summary": "Tech stocks rose late Monday afternoon with the State Street Technology Select Sector SPDR ETF (XLK)",
+        "pubDate": "2026-07-20T19:28:29Z",
+        "displayTime": "2026-07-20T19:28:29Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": null,
         "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-192829589.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-192829589.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1871,7 +2114,7 @@
         },
         "finance": {
           "premiumFinance": {
-            "isPremiumNews": false,
+            "isPremiumNews": true,
             "isPremiumFreeNews": false
           }
         },
@@ -1879,32 +2122,32 @@
       }
     },
     {
-      "id": "4b873602-726d-362b-9521-3bfe218356fa",
+      "id": "b20c71b2-2a55-318a-bb97-be7aafb99cdf",
       "content": {
-        "id": "4b873602-726d-362b-9521-3bfe218356fa",
+        "id": "b20c71b2-2a55-318a-bb97-be7aafb99cdf",
         "contentType": "STORY",
-        "title": "5 \"Magnificent Seven\" Stocks I'm Buying and 2 That I'm Selling",
+        "title": "Meta Platforms expected to top earnings estimates as ad growth remains healthy, says BofA",
         "description": "",
-        "summary": "Every stock in the \"Magnificent Seven\" has a different outlook.",
-        "pubDate": "2026-07-19T12:25:00Z",
-        "displayTime": "2026-07-19T12:25:00Z",
+        "summary": "Meta Platforms Inc (NASDAQ:META, XETRA:FB2A, SIX:FB) is expected to deliver second quarter results above Wall Street expectations when it reports earnings on July 29, according to Bank of America analysts, who believe that healthy advertising demand and AI-driven improvements should support...",
+        "pubDate": "2026-07-20T19:27:00Z",
+        "displayTime": "2026-07-20T19:27:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/df25256491563a868b5cc7b10f13d153",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Two technicians in a data center looking at a laptop.",
+          "originalUrl": "https://media.zenfs.com/en/proactive_us_504/2594d6783922992b4e3b2768e2abe6f1",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "Meta Platforms expected to top earnings estimates as ad growth remains healthy, says BofA",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZStEDzV9CpB.wnhpJshrEQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/df25256491563a868b5cc7b10f13d153",
-              "width": 1400,
-              "height": 933,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ANxwLPqyEsnFxoeggEsS0g--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/proactive_us_504/2594d6783922992b4e3b2768e2abe6f1",
+              "width": 1280,
+              "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/t.Nz4tgaENWXR6vN_JWbsw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/df25256491563a868b5cc7b10f13d153",
+              "url": "https://s.yimg.com/uu/api/res/1.2/APOcv3pdpB0RE_.S74sQZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/2594d6783922992b4e3b2768e2abe6f1",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1912,18 +2155,18 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "Proactive",
+          "url": "https://www.proactiveinvestors.com/",
+          "sourceId": "proactive_us_504"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/19/magnificent-seven-stocks-buying-and-selling/",
+          "url": "https://www.proactiveinvestors.com/companies/news/1095727/meta-platforms-expected-to-top-earnings-estimates-as-ad-growth-remains-healthy-says-bofa-1095727.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-magnificent-seven-stocks-im-122500026.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-expected-top-earnings-192700479.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1941,242 +2184,32 @@
       }
     },
     {
-      "id": "24eccd80-9a05-3c86-8d59-bb28b6d4da84",
+      "id": "a7ebecd3-69bc-3e4e-9217-348799cb6ebe",
       "content": {
-        "id": "24eccd80-9a05-3c86-8d59-bb28b6d4da84",
+        "id": "a7ebecd3-69bc-3e4e-9217-348799cb6ebe",
         "contentType": "STORY",
-        "title": "The 3 Biggest Bargain \"Magnificent Seven\" Stocks to Buy Today",
+        "title": "'Mag 7 Is Dead': Why This Buzzy Term Is Losing Analysts",
         "description": "",
-        "summary": "Nvidia, Meta Platforms, and Microsoft are all trading at cheap valuations.",
-        "pubDate": "2026-07-19T09:20:00Z",
-        "displayTime": "2026-07-19T09:20:00Z",
-        "isHosted": true,
+        "summary": "The next \"Magnificent Seven\" stocks won't be the \"Mag 10,\" Citi analysts say: Watch these \"Growth Industry\" sectors instead.",
+        "pubDate": "2026-07-20T18:30:35Z",
+        "displayTime": "2026-07-20T18:30:35Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/a7ebecd3-69bc-3e4e-9217-348799cb6ebe/-mag-7-is-dead-why-this.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c5446a51141598d867961d398a4f8149",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "The Nvidia logo against a green background.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IYF1Is1piMPyGteKKcdh3w--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c5446a51141598d867961d398a4f8149",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Vy81ZyM26uF8qtuvCaJScA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5446a51141598d867961d398a4f8149",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/19/the-three-biggest-bargain-magnificent-seven-stocks/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-biggest-bargain-magnificent-seven-092000684.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "14dbd6c8-c8e4-3dbf-b432-af98554f4355",
-      "content": {
-        "id": "14dbd6c8-c8e4-3dbf-b432-af98554f4355",
-        "contentType": "STORY",
-        "title": "China’s Moonshot Plans IPO in Six Months After AI Breakthrough",
-        "description": "",
-        "summary": "(Bloomberg) -- Moonshot AI has told investors it’s preparing to list in as early as six months, seizing the opportunity to tap capital markets after its latest model upended industry perceptions of China’s burgeoning capabilities and sent global tech stocks reeling.Most Read from BloombergFCC Near Rulings Against Disney Over ‘The View,’ TV LicensesUS Strikes Iran to ‘Punish’ It for Attack That Killed 2 TroopsThousands of Trucks Haul Iraq’s Oil Through Syria in Sign of Hormuz LegacyTaylor Farms P",
-        "pubDate": "2026-07-19T05:31:31Z",
-        "displayTime": "2026-07-19T05:31:31Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-plans-ipo-six-053131621.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-plans-ipo-six-053131621.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "373cc21d-c541-346f-bf97-99c4067651be",
-      "content": {
-        "id": "373cc21d-c541-346f-bf97-99c4067651be",
-        "contentType": "STORY",
-        "title": "Andrew and Tristan Tate arrested in Miami on UK extradition request",
-        "description": "",
-        "summary": "Investing.com -- Social media influencers Andrew and Tristan Tate were arrested in Miami on Saturday after British authorities requested their extradition on charges including rape and sex trafficking, The Wall Street Journal reported.",
-        "pubDate": "2026-07-19T04:26:41Z",
-        "displayTime": "2026-07-19T04:26:41Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
-        },
-        "canonicalUrl": {
-          "url": "https://www.yahoo.com/news/us/articles/andrew-tristan-tate-arrested-miami-042641374.html",
-          "site": "news",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://www.yahoo.com/news/us/articles/andrew-tristan-tate-arrested-miami-042641374.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b6862bf4-2dd4-3e2f-b1bf-f598c43fd592",
-      "content": {
-        "id": "b6862bf4-2dd4-3e2f-b1bf-f598c43fd592",
-        "contentType": "STORY",
-        "title": "Mark Zuckerberg's Meta and Other Hyperscalers Face a Major Bottleneck. Here Are 2 Industrial Stocks That Will Benefit",
-        "description": "",
-        "summary": "The race to build AI data centers is huge, and key industry suppliers are reaping big rewards.",
-        "pubDate": "2026-07-19T01:35:00Z",
-        "displayTime": "2026-07-19T01:35:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/7bd824a8b524a533415bc7cd25de33f1",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "A contractor, architect, and engineer working as a team at a construction site.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DUaMcbb2vyBD6Kd6GkCdKA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7bd824a8b524a533415bc7cd25de33f1",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/MqnjohT6_EMBFCFpD1.LSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7bd824a8b524a533415bc7cd25de33f1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/18/mark-zuckerbergs-meta-and-other-hyperscalers-face/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-meta-other-hyperscalers-013500162.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9bd4b8de-4428-391b-8d02-bff88d72cea6",
-      "content": {
-        "id": "9bd4b8de-4428-391b-8d02-bff88d72cea6",
-        "contentType": "STORY",
-        "title": "Marco Rubio Says President Lula 'Put His Ego Ahead of Making a Deal' as Trump Slaps Brazil With 25% Tariffs",
-        "description": "",
-        "summary": "The Trump Administration announced a 25% tariff on most Brazilian imports late Wednesday, effective July 22. The U.S. has invoked Section 301 of the Trade Act of 1974, targeting certain Brazilian practices, which include directives to American tech giants like...",
-        "pubDate": "2026-07-18T23:31:11Z",
-        "displayTime": "2026-07-18T23:31:11Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/987c6731d09e084bda136858cc3b8b02",
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/59a1ab471e7d787a792c1ff22df55ac5",
           "originalWidth": 1000,
           "originalHeight": 563,
-          "caption": "Marco Rubio Says President Lula 'Put His Ego Ahead of Making a Deal' as Trump Slaps Brazil With 25% Tariffs",
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vb8nPJemdNeS2CESYNuSog--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/987c6731d09e084bda136858cc3b8b02",
+              "url": "https://s.yimg.com/uu/api/res/1.2/CaFRwYnEDQXvflIxfbKwyg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/59a1ab471e7d787a792c1ff22df55ac5",
               "width": 1000,
               "height": 563,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/A0olPKeUQGmej28xRTsORg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/987c6731d09e084bda136858cc3b8b02",
+              "url": "https://s.yimg.com/uu/api/res/1.2/eJTjBL_DKIuJF5iZvTi9VQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/59a1ab471e7d787a792c1ff22df55ac5",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2184,22 +2217,17 @@
           ]
         },
         "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/marco-rubio-says-president-lula-233111694.html",
+          "url": "https://www.investors.com/news/magnificent-seven-stocks-mag-7-dead-watch-these-sectors/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/marco-rubio-says-president-lula-233111694.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
