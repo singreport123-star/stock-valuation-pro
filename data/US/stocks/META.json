@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-25T22:45:45.474817",
+    "ts": "2026-07-26T22:53:22.269203",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -152,8 +152,8 @@
     "beta": 1.246,
     "trailingPE": 21.643272,
     "forwardPE": 16.08101,
-    "volume": 11309789,
-    "regularMarketVolume": 11309789,
+    "volume": 11491558,
+    "regularMarketVolume": 11491558,
     "averageVolume": 18193911,
     "averageVolume10days": 15103120,
     "averageDailyVolume10Day": 15103120,
@@ -197,7 +197,7 @@
     "netIncomeToCommon": 70586998784,
     "trailingEps": 27.5,
     "forwardEps": 37.01198,
-    "pegRatio": 0.88,
+    "pegRatio": 0.87,
     "enterpriseToRevenue": 7.054,
     "enterpriseToEbitda": 13.873,
     "52WeekChange": -0.17061716,
@@ -240,21 +240,13 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": -1.80003,
-    "regularMarketPrice": 595.19,
-    "corporateActions": [],
-    "postMarketTime": 1784937596,
-    "regularMarketTime": 1784923200,
-    "cryptoTradeable": false,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
+    "postMarketChangePercent": -0.17473042,
+    "postMarketPrice": 594.15,
+    "postMarketChange": -1.039978,
+    "regularMarketChange": -10.909973,
+    "regularMarketDayRange": "594.6 - 609.98",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 18193911,
     "fiftyTwoWeekLowChange": 74.92999,
     "fiftyTwoWeekLowChangePercent": 0.14402412,
     "fiftyTwoWeekRange": "520.26 - 796.25",
@@ -270,8 +262,8 @@
     "isEarningsDateEstimate": false,
     "epsTrailingTwelveMonths": 27.5,
     "epsForward": 37.01198,
-    "epsCurrentYear": 32.34939,
-    "priceEpsCurrentYear": 18.398802,
+    "epsCurrentYear": 31.72233,
+    "priceEpsCurrentYear": 18.762493,
     "fiftyDayAverageChange": -10.883789,
     "fiftyDayAverageChangePercent": -0.01795786,
     "twoHundredDayAverageChange": -42.881226,
@@ -280,18 +272,26 @@
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-25",
+    "nameChangeDate": "2026-07-26",
     "averageAnalystRating": "1.3 - Strong Buy",
-    "marketState": "CLOSED",
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.17473042,
-    "postMarketPrice": 594.15,
-    "postMarketChange": -1.039978,
-    "regularMarketChange": -10.91,
-    "regularMarketDayRange": "594.6 - 609.98",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18193911,
+    "cryptoTradeable": false,
+    "regularMarketChangePercent": -1.8000286,
+    "regularMarketPrice": 595.19,
+    "marketState": "CLOSED",
+    "corporateActions": [],
+    "postMarketTime": 1784937596,
+    "regularMarketTime": 1784923200,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8682
   },
@@ -1650,32 +1650,32 @@
   },
   "news": [
     {
-      "id": "063caf42-8f0b-4800-85d8-b24564966ac9",
+      "id": "d0688212-4a5d-40ae-8b8e-b772260d26bd",
       "content": {
-        "id": "063caf42-8f0b-4800-85d8-b24564966ac9",
+        "id": "d0688212-4a5d-40ae-8b8e-b772260d26bd",
         "contentType": "STORY",
-        "title": "Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap",
+        "title": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
         "description": "",
-        "summary": "Some markets observations, compliments of Yahoo Finance AlphaSpace.",
-        "pubDate": "2026-07-25T12:38:16Z",
-        "displayTime": "2026-07-25T12:38:16Z",
+        "summary": "Investors step into the busiest week of the quarter with hyperscaler earnings, the June Fed meeting, and escalations in the Middle East all in focus.",
+        "pubDate": "2026-07-26T10:00:00Z",
+        "displayTime": "2026-07-26T10:00:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/KpJuYRg131mIzLAX2NX6Rg--~B/aD0yMTY3O3c9MzI1MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/ed937aaa-069e-453c-8853-fc66794cae36",
-          "originalWidth": 3250,
-          "originalHeight": 2167,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/bQYkykIqzHQgHGd_WMzPnQ--~B/aD0yNTQxO3c9NDUxODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/8b6b89a0-c9f0-11f0-a6f3-d6e700d35e52_6bb72032e410d47e9b3fb1dcd33d486c09d968f582f49482433761af555b04e1.jpg",
+          "originalWidth": 4518,
+          "originalHeight": 2541,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KpJuYRg131mIzLAX2NX6Rg--~B/aD0yMTY3O3c9MzI1MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/ed937aaa-069e-453c-8853-fc66794cae36",
-              "width": 3250,
-              "height": 2167,
+              "url": "https://s.yimg.com/uu/api/res/1.2/bQYkykIqzHQgHGd_WMzPnQ--~B/aD0yNTQxO3c9NDUxODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/8b6b89a0-c9f0-11f0-a6f3-d6e700d35e52_6bb72032e410d47e9b3fb1dcd33d486c09d968f582f49482433761af555b04e1.jpg",
+              "width": 4518,
+              "height": 2541,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/yRQfDjbdjTlakOrjrw7xEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/ed937aaa-069e-453c-8853-fc66794cae36",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZhsHIQLkz5iRJEjh_gd8CQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/8b6b89a0-c9f0-11f0-a6f3-d6e700d35e52_6bb72032e410d47e9b3fb1dcd33d486c09d968f582f49482433761af555b04e1.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1688,75 +1688,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html",
+          "url": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "efc1f35f-dd7f-4249-b1b0-0dae492f6f76",
-      "content": {
-        "id": "efc1f35f-dd7f-4249-b1b0-0dae492f6f76",
-        "contentType": "STORY",
-        "title": "Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day",
-        "description": "",
-        "summary": "Wall Street spent months buying the AI buildout — this week it started asking who actually pays for it.",
-        "pubDate": "2026-07-25T12:14:03Z",
-        "displayTime": "2026-07-25T12:14:03Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/1eFz0XcoIEabBj0raqpLJw--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/808285e7-299d-4c28-82c0-39298db912d1",
-          "originalWidth": 6000,
-          "originalHeight": 4000,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1eFz0XcoIEabBj0raqpLJw--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/808285e7-299d-4c28-82c0-39298db912d1",
-              "width": 6000,
-              "height": 4000,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/POh3YF0j0HP6LaG56KAqzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/808285e7-299d-4c28-82c0-39298db912d1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/google-and-tesla-lost-half-a-trillion-dollars-this-week-as-their-suppliers-cashed-in-chart-of-the-day-121403846.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/google-and-tesla-lost-half-a-trillion-dollars-this-week-as-their-suppliers-cashed-in-chart-of-the-day-121403846.html",
+          "url": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1778,28 +1716,28 @@
       "content": {
         "id": "56d0a8cb-a014-3c28-a929-8720c9c346e7",
         "contentType": "STORY",
-        "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+        "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
         "description": "",
-        "summary": "Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Apple, Microsoft, Meta Platforms, Amazon.com headline a massive earnings wave. The Federal Reserve meets, with a rate hike a possibility.",
-        "pubDate": "2026-07-25T22:02:53Z",
-        "displayTime": "2026-07-25T22:02:53Z",
+        "summary": "U.S.-Iran attacks have paused amid deal hopes. Apple, Amazon, Meta lead an earnings wave. A Fed rate hike is on the table.",
+        "pubDate": "2026-07-26T22:42:36Z",
+        "displayTime": "2026-07-26T22:42:36Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/56d0a8cb-a014-3c28-a929-8720c9c346e7/dow-jones-futures-market.html",
+        "previewUrl": "https://finance.yahoo.com/m/56d0a8cb-a014-3c28-a929-8720c9c346e7/dow-jones-futures-rise-oil.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
-          "originalWidth": 1012,
-          "originalHeight": 572,
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/ea51fbcb43d5660ef8dcf5463ac0cf50",
+          "originalWidth": 1000,
+          "originalHeight": 563,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
-              "width": 1012,
-              "height": 572,
+              "url": "https://s.yimg.com/uu/api/res/1.2/lgFDYNQjww4pG9Wjg2ft7A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ea51fbcb43d5660ef8dcf5463ac0cf50",
+              "width": 1000,
+              "height": 563,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xMA.4iyBt4eHLqHAohBJ_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
+              "url": "https://s.yimg.com/uu/api/res/1.2/q7_6.6GCjQLb8xwzcQQirA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ea51fbcb43d5660ef8dcf5463ac0cf50",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1831,404 +1769,32 @@
       }
     },
     {
-      "id": "82e76796-5ba7-3e7a-8e7b-48fc20521553",
+      "id": "41a0c34d-a0bc-3696-a49f-efb3f43985a2",
       "content": {
-        "id": "82e76796-5ba7-3e7a-8e7b-48fc20521553",
+        "id": "41a0c34d-a0bc-3696-a49f-efb3f43985a2",
         "contentType": "STORY",
-        "title": "Meta (META) Launches Lightspeed Tie Up To Track In Store Sales From Ads",
+        "title": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
         "description": "",
-        "summary": "Meta Platforms (NasdaqGS:META) and Lightspeed Commerce have launched a direct integration that syncs in-store sales data with Meta's advertising systems. The integration allows physical retailers to connect point-of-sale transactions to Meta ad campaigns, even without an ecommerce site. The move is aimed at improving attribution of Meta ads to offline purchases and expanding Meta's role in brick-and-mortar retail marketing. Meta Platforms enters this partnership with Lightspeed Commerce...",
-        "pubDate": "2026-07-25T17:10:12Z",
-        "displayTime": "2026-07-25T17:10:12Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BrUhbDoJKeNJUavlZ7MvVQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/J6fEwVETVa_jUCz0igm0HA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-meta-launches-lightspeed-tie-171012283.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-meta-launches-lightspeed-tie-171012283.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6c644ce2-d912-377b-b42e-8c6bbf05f8a3",
-      "content": {
-        "id": "6c644ce2-d912-377b-b42e-8c6bbf05f8a3",
-        "contentType": "STORY",
-        "title": "Meta Stock Is Down Nearly 10% in 2026. Should You Buy Before July 29 Q2 Earnings?",
-        "description": "",
-        "summary": "Meta's stock has shed nearly 10% while its business keeps accelerating, creating a tension that puts investors in a tough spot ahead of the July 29 earnings report. Whether the pullback is an opportunity or a warning depends on one question Wall Street is still debating.",
-        "pubDate": "2026-07-25T16:35:49Z",
-        "displayTime": "2026-07-25T16:35:49Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/8f2ba9a723b482884a03c5aa30ea6dc4",
-          "originalWidth": 1376,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/P.prHEd9YtZ4CRwwhJ7UTg--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/8f2ba9a723b482884a03c5aa30ea6dc4",
-              "width": 1376,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WIkL.lGm1fUanRILveMluA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8f2ba9a723b482884a03c5aa30ea6dc4",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/25/meta-stock-is-down-nearly-10-in-2026-should-you-buy-before-july-29-q2-earnings/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-down-nearly-10-163549883.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2a65111f-c2f4-3cf3-8f44-3764a4eedc3b",
-      "content": {
-        "id": "2a65111f-c2f4-3cf3-8f44-3764a4eedc3b",
-        "contentType": "STORY",
-        "title": "Cathie Wood Just Poured $18 Million Into Meta Stock. Here’s Why.",
-        "description": "",
-        "summary": "Cathie Wood's latest trade makes a strong case for Meta stock prior to Q2 earnings.",
-        "pubDate": "2026-07-25T15:30:02Z",
-        "displayTime": "2026-07-25T15:30:02Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/3d03ec2eef9331b0929d56564138ff61",
-          "originalWidth": 1600,
-          "originalHeight": 1063,
-          "caption": "Facebook on a phone by Firmbee_com via Unsplash",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/UtaTmSKhZIaZUDhcmOUz9A--~B/aD0xMDYzO3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/3d03ec2eef9331b0929d56564138ff61",
-              "width": 1600,
-              "height": 1063,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jIkCrVRa7CtfOYgwrtkDnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/3d03ec2eef9331b0929d56564138ff61",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/3463183/cathie-wood-just-poured-18-million-into-meta-stock-heres-why",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-poured-18-153002939.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "eccc15cb-c523-3752-89d8-b66b23a6dc44",
-      "content": {
-        "id": "eccc15cb-c523-3752-89d8-b66b23a6dc44",
-        "contentType": "STORY",
-        "title": "Big Tech’s Trillion-Dollar Bet Is Starting to Crack, Investors Are Looking Elsewhere for Profits",
-        "description": "",
-        "summary": "Big Tech is pouring hundreds of billions into AI every year, but investors are quietly starting to separate the winners from the companies that may never see a return on their colossal bets.",
-        "pubDate": "2026-07-25T15:18:25Z",
-        "displayTime": "2026-07-25T15:18:25Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/64df1276247f5da8b4c017177e38a948",
-          "originalWidth": 1500,
-          "originalHeight": 996,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_eKvQLWnXfgmC6BWknZnRw--~B/aD05OTY7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/64df1276247f5da8b4c017177e38a948",
-              "width": 1500,
-              "height": 996,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WEbIc1KGf19ZAY5zQkZx0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/64df1276247f5da8b4c017177e38a948",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/25/big-techs-trillion-dollar-bet-is-starting-to-crack-investors-are-looking-elsewhere-for-profits/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-trillion-dollar-bet-151825804.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "0c899706-c450-3c3b-8b5c-2bc67cace7ac",
-      "content": {
-        "id": "0c899706-c450-3c3b-8b5c-2bc67cace7ac",
-        "contentType": "STORY",
-        "title": "Mark Cuban sees a problem with the AI spending spree",
-        "description": "",
-        "summary": "Drive past enough American commercial real estate and you start to notice the second acts. The bowling alley that became a church. The Sears that became a self-storage warehouse. Somebody put up the building for one reason, the reason expired, and the concrete found a new job. That pattern is not a ...",
-        "pubDate": "2026-07-25T15:17:00Z",
-        "displayTime": "2026-07-25T15:17:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/62ee117bacd46aaf0e8775094fb81f6d",
-          "originalWidth": 3840,
-          "originalHeight": 2558,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uZmmNjrF3tGep62k2HQPHQ--~B/aD0yNTU4O3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/62ee117bacd46aaf0e8775094fb81f6d",
-              "width": 3840,
-              "height": 2558,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VG9_s67iOYqimLZvtAN79A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/62ee117bacd46aaf0e8775094fb81f6d",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/technology/mark-cuban-sees-a-problem-with-the-ai-spending-spree",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-sees-problem-ai-151700372.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6c55cf41-a50b-3967-8912-f064f7f0da17",
-      "content": {
-        "id": "6c55cf41-a50b-3967-8912-f064f7f0da17",
-        "contentType": "STORY",
-        "title": "Data Centers — Not Iran — Are Fueling the U.S.’s Coming Energy Crisis",
-        "description": "",
-        "summary": "Iran's conflict is spiking oil prices and rattling markets, but a quieter energy threat is already reshaping how Americans pay their utility bills, and Big Tech may be the one responsible.",
-        "pubDate": "2026-07-25T13:44:21Z",
-        "displayTime": "2026-07-25T13:44:21Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/2f8dd63af5180f56a11a3dc4a66256a8",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/oQ6UBMIcgZr9GOWJ8VuHRQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/2f8dd63af5180f56a11a3dc4a66256a8",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/15qTq14praOd7QUD_zoBdw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2f8dd63af5180f56a11a3dc4a66256a8",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/25/data-centers-not-iran-are-fueling-the-u-s-s-coming-energy-crisis/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/data-centers-not-iran-fueling-134421519.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ae22dc7a-e688-3361-91b9-acdbe80645c5",
-      "content": {
-        "id": "ae22dc7a-e688-3361-91b9-acdbe80645c5",
-        "contentType": "STORY",
-        "title": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
-        "description": "",
-        "summary": "The Nvidia CEO publishes an open letter in support of the open-weight artificial-intelligence models competing with OpenAI and Anthropic.",
-        "pubDate": "2026-07-25T13:42:00Z",
-        "displayTime": "2026-07-25T13:42:00Z",
+        "summary": "This is a huge earnings week, with nearly a third of S&P 500 companies reporting. The Fed is expected to hold rates steady after its confab ends Wednesday, and we’ll see key inflation data on Thursday.",
+        "pubDate": "2026-07-26T18:00:00Z",
+        "displayTime": "2026-07-26T18:00:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/ae22dc7a-e688-3361-91b9-acdbe80645c5/why-nvidia-ceo-jensen-huang.html",
+        "previewUrl": "https://finance.yahoo.com/m/41a0c34d-a0bc-3696-a49f-efb3f43985a2/fed-meeting-inflation-.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/26bbdecee6b02efe32ae4ee570554d7e",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5",
           "originalWidth": 1280,
           "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/gzEI19xVfRqD9XpdnXQGJg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/26bbdecee6b02efe32ae4ee570554d7e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/nrBCSNExwipwcZyJuHDxOQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lwle_sltQDQkMYGdX.4A3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/26bbdecee6b02efe32ae4ee570554d7e",
+              "url": "https://s.yimg.com/uu/api/res/1.2/4n7bJyMLxuaR48xuQm3XKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2241,12 +1807,422 @@
           "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/fed-meeting-inflation-boeing-meta-apple-exxon-01806fda?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "53eee934-c8ee-3ad1-88cb-3b16272f2ff2",
+      "content": {
+        "id": "53eee934-c8ee-3ad1-88cb-3b16272f2ff2",
+        "contentType": "STORY",
+        "title": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+        "description": "",
+        "summary": "The stakes are high as hundreds of billions of dollars flow into AI data centers.",
+        "pubDate": "2026-07-26T16:35:00Z",
+        "displayTime": "2026-07-26T16:35:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/1c6be590fe48f865cf2d70aced8270e9",
+          "originalWidth": 1400,
+          "originalHeight": 757,
+          "caption": "Rows of racks inside of an AI data center.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lU_Ypryqm9dbszvl63Nd5Q--~B/aD03NTc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1c6be590fe48f865cf2d70aced8270e9",
+              "width": 1400,
+              "height": 757,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1kXeKAyLjk9_P6jOFeA_Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1c6be590fe48f865cf2d70aced8270e9",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/26/neocloud-stocks-vs-hyperscalers-win-ai-capex/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/neocloud-stocks-vs-hyperscalers-actually-163500706.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4e3127c8-8a76-36f7-9499-351446d08adb",
+      "content": {
+        "id": "4e3127c8-8a76-36f7-9499-351446d08adb",
+        "contentType": "STORY",
+        "title": "Magnificent 7 Trade Is Broken — Here’s Where Smart Investors Should Look Next",
+        "description": "",
+        "summary": "Buying all seven tech giants together made investors rich during the AI boom, but the basket trade has quietly become a drag on portfolios. Some of these companies are pulling ahead while others face serious questions about whether AI will ever pay off for them.",
+        "pubDate": "2026-07-26T15:24:30Z",
+        "displayTime": "2026-07-26T15:24:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/5b34665cd2315d0535d997c8aa8f24e4",
+          "originalWidth": 1500,
+          "originalHeight": 1000,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/aCVszNIyyG.LOTbb4LG16A--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/5b34665cd2315d0535d997c8aa8f24e4",
+              "width": 1500,
+              "height": 1000,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Xj4yfbov4nPS6xI221jd2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5b34665cd2315d0535d997c8aa8f24e4",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/26/magnificent-7-trade-is-broken-heres-where-smart-investors-should-look-next/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-7-trade-broken-where-152430787.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e58d294d-295a-3542-8fc9-19d41d2fc7fa",
+      "content": {
+        "id": "e58d294d-295a-3542-8fc9-19d41d2fc7fa",
+        "contentType": "STORY",
+        "title": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash",
+        "description": "",
+        "summary": "Hyperscaler cash levels will be a key focus in the coming week as Apple, Amazon, Meta and Microsoft report.",
+        "pubDate": "2026-07-26T15:06:23Z",
+        "displayTime": "2026-07-26T15:06:23Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/e58d294d-295a-3542-8fc9-19d41d2fc7fa/stock-market-week-ahead-mag.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/47d5a5c281fb3fb15d7459a397cccb9f",
+          "originalWidth": 945,
+          "originalHeight": 533,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KVBHhMqaXzOCJ5bURaYxMA--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/47d5a5c281fb3fb15d7459a397cccb9f",
+              "width": 945,
+              "height": 533,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/K81DjgMVkCQLbfYWcdvncw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/47d5a5c281fb3fb15d7459a397cccb9f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-mag-7-and-the-fed-but-its-all-about-the-cash/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "94747edf-8ab7-3b02-b542-3bb3edee5a95",
+      "content": {
+        "id": "94747edf-8ab7-3b02-b542-3bb3edee5a95",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg's Meta Is Also One of CoreWeave's Biggest Customers, in a Deal Worth $35 Billion Through 2032. That Didn't Stop CoreWeave Shares From Sinking on Meta's Own Cloud News.",
+        "description": "",
+        "summary": "A report stating that Meta Platforms intends to sell its excess cloud computing capacity doesn't bode well for CoreWeave.",
+        "pubDate": "2026-07-26T13:20:00Z",
+        "displayTime": "2026-07-26T13:20:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/cf24ce92e228ee2a24f58d6b2cf1641c",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "CoreWeave company name and logo in white font on a blue background.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/q6qv1jbBr9w58yLbvUA6rg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cf24ce92e228ee2a24f58d6b2cf1641c",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/TP1ipvf3XswLd2TvWRMFJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cf24ce92e228ee2a24f58d6b2cf1641c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/26/mark-zuckerbergs-meta-is-also-one-of-coreweaves-bi/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerbergs-meta-one-coreweaves-132000989.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "aed9bec1-21db-35b0-8c32-74d838522bfd",
+      "content": {
+        "id": "aed9bec1-21db-35b0-8c32-74d838522bfd",
+        "contentType": "STORY",
+        "title": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
+        "description": "",
+        "summary": "Investing.com -- Barclays said a sharp slowdown in share buybacks by major U.S. technology companies is unlikely to weigh significantly on the broader equity market, arguing that investors have increasingly rewarded growth over capital returns as artificial intelligence spending accelerates.",
+        "pubDate": "2026-07-26T13:13:21Z",
+        "displayTime": "2026-07-26T13:13:21Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/companies-aggressive-buybacks-lagged-p-131321741.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/companies-aggressive-buybacks-lagged-p-131321741.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a141d374-3303-3991-ada6-1aa898126521",
+      "content": {
+        "id": "a141d374-3303-3991-ada6-1aa898126521",
+        "contentType": "STORY",
+        "title": "What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision",
+        "description": "",
+        "summary": "Earnings reports from four of the world’s largest tech companies, a decision on interest rates, and key economic data releases will be in focus this week.",
+        "pubDate": "2026-07-26T12:40:00Z",
+        "displayTime": "2026-07-26T12:40:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/investopedia_245/5c8b6b8eae402208d4d017a81b2dad85",
+          "originalWidth": 5324,
+          "originalHeight": 3549,
+          "caption": "Investors will be eager to hear about AI investment plans from the mega-cap tech companies reporting this week.Credit: Jose Sarmento Matos / Bloomberg / Getty Images",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/j4UT1exwyElaBAuROmguQQ--~B/aD0zNTQ5O3c9NTMyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/investopedia_245/5c8b6b8eae402208d4d017a81b2dad85",
+              "width": 5324,
+              "height": 3549,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rCU88Gt9eF8xCGeUgOaMtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/5c8b6b8eae402208d4d017a81b2dad85",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investopedia",
+          "url": "https://www.investopedia.com/",
+          "sourceId": "investopedia_245"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-amazon-apple-meta-microsoft-earnings-fed-interest-rate-decision-12025525",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-amazon-apple-124000801.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f2995cf9-fd1b-3345-b728-16b29eaf3c3b",
+      "content": {
+        "id": "f2995cf9-fd1b-3345-b728-16b29eaf3c3b",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg, Microsoft CEO just made major AI decision",
+        "description": "",
+        "summary": "Jensen Huang has been one of the most prominent voices in technology for years, but he had never once posted on X (the former Twitter). On July 24, he did. What he chose to say with his first-ever post on the platform says a lot about the fight now underway over who controls the future of AI. Huang ...",
+        "pubDate": "2026-07-26T12:03:00Z",
+        "displayTime": "2026-07-26T12:03:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/06e6c30bfa7b48b42e7bf5cfda68b753",
+          "originalWidth": 3840,
+          "originalHeight": 2560,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nYvGaOASRzoTocbo3IBEhA--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/06e6c30bfa7b48b42e7bf5cfda68b753",
+              "width": 3840,
+              "height": 2560,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KGVUpztIms3kNI5tMGg6Zw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/06e6c30bfa7b48b42e7bf5cfda68b753",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/technology/zuckerberg-microsoft-ceo-ai-decision-open-source-jensen-huang-elon-musk",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-microsoft-ceo-just-120300771.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
