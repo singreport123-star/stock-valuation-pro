@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-07-27T22:54:31.211556"
+    "ts": "2026-07-28T22:53:11.243524"
   },
   "financials": {
     "annual": {
@@ -272,6 +272,13 @@
           "2023-12-31T00:00:00.000": -48294000000.0,
           "2022-12-31T00:00:00.000": null,
           "2021-12-31T00:00:00.000": -294000000.0
+        },
+        "Interest Expense Non Operating": {
+          "2025-12-31T00:00:00.000": 12370400000.0,
+          "2024-12-31T00:00:00.000": 10495400000.0,
+          "2023-12-31T00:00:00.000": 11999400000.0,
+          "2022-12-31T00:00:00.000": 11750000000.0,
+          "2021-12-31T00:00:00.000": null
         },
         "Interest Income Non Operating": {
           "2025-12-31T00:00:00.000": 105739100000.0,
@@ -1162,9 +1169,9 @@
           "2026-03-31T00:00:00.000": 28862263000.0,
           "2025-12-31T00:00:00.000": 29507445000.0,
           "2025-09-30T00:00:00.000": 26180345000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 25191998000.0,
           "2025-03-31T00:00:00.000": 24859312000.0,
-          "2024-12-31T00:00:00.000": 24273341000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Normalized Income": {
           "2026-06-30T00:00:00.000": 706562000000.0,
@@ -1333,7 +1340,7 @@
           "2026-03-31T00:00:00.000": 0.0,
           "2025-12-31T00:00:00.000": -14000.0,
           "2025-09-30T00:00:00.000": 0.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 0.0,
           "2025-03-31T00:00:00.000": -167986000.0,
           "2024-12-31T00:00:00.000": null
         },
@@ -1342,7 +1349,7 @@
           "2026-03-31T00:00:00.000": 0.0,
           "2025-12-31T00:00:00.000": -14000.0,
           "2025-09-30T00:00:00.000": 0.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 0.0,
           "2025-03-31T00:00:00.000": -167986000.0,
           "2024-12-31T00:00:00.000": null
         },
@@ -1396,9 +1403,9 @@
           "2026-03-31T00:00:00.000": 28862263000.0,
           "2025-12-31T00:00:00.000": 29507445000.0,
           "2025-09-30T00:00:00.000": 26180345000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 25191998000.0,
           "2025-03-31T00:00:00.000": 24859312000.0,
-          "2024-12-31T00:00:00.000": 24273341000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Operating Income": {
           "2026-06-30T00:00:00.000": 766603000000.0,
@@ -1486,9 +1493,9 @@
           "2026-03-31T00:00:00.000": 21833650000.0,
           "2025-12-31T00:00:00.000": 18416945000.0,
           "2025-09-30T00:00:00.000": 20048234000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 18955373000.0,
           "2025-03-31T00:00:00.000": 24883748000.0,
-          "2024-12-31T00:00:00.000": 25427041000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Other Gand A": {
           "2026-06-30T00:00:00.000": null,
@@ -1641,8 +1648,8 @@
           "2026-03-31T00:00:00.000": 41428669000.0,
           "2025-12-31T00:00:00.000": 41180500000.0,
           "2025-09-30T00:00:00.000": 37270830000.0,
-          "2025-06-30T00:00:00.000": null,
-          "2025-03-31T00:00:00.000": 37461877000.0,
+          "2025-06-30T00:00:00.000": 35557875000.0,
+          "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
         "Stockholders Equity": {
@@ -1740,8 +1747,8 @@
           "2026-03-31T00:00:00.000": 259323701000.0,
           "2025-12-31T00:00:00.000": 259325300000.0,
           "2025-09-30T00:00:00.000": 259325245000.0,
-          "2025-06-30T00:00:00.000": null,
-          "2025-03-31T00:00:00.000": 259326155000.0,
+          "2025-06-30T00:00:00.000": 259326155000.0,
+          "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
         "Total Liabilities Net Minority Interest": {
@@ -1884,9 +1891,9 @@
           "2026-03-31T00:00:00.000": 137670588000.0,
           "2025-12-31T00:00:00.000": 103355300000.0,
           "2025-09-30T00:00:00.000": 74537336000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 116534813000.0,
           "2025-03-31T00:00:00.000": 92607250000.0,
-          "2024-12-31T00:00:00.000": 70871200000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Payables And Accrued Expenses": {
           "2026-06-30T00:00:00.000": 1690352000000.0,
@@ -1902,8 +1909,8 @@
           "2026-03-31T00:00:00.000": 381925612000.0,
           "2025-12-31T00:00:00.000": 401124100000.0,
           "2025-09-30T00:00:00.000": 431951770000.0,
-          "2025-06-30T00:00:00.000": null,
-          "2025-03-31T00:00:00.000": 475731629000.0,
+          "2025-06-30T00:00:00.000": 444583112000.0,
+          "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
         "Payables": {
@@ -1929,9 +1936,9 @@
           "2026-03-31T00:00:00.000": 1800925000.0,
           "2025-12-31T00:00:00.000": 1778700000.0,
           "2025-09-30T00:00:00.000": 1961260000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 1276538000.0,
           "2025-03-31T00:00:00.000": 1216344000.0,
-          "2024-12-31T00:00:00.000": 1426000000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Dividends Payable": {
           "2026-06-30T00:00:00.000": 337436000000.0,
@@ -1992,18 +1999,18 @@
           "2026-03-31T00:00:00.000": 133813351000.0,
           "2025-12-31T00:00:00.000": 115627400000.0,
           "2025-09-30T00:00:00.000": 133755209000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 79382453000.0,
           "2025-03-31T00:00:00.000": 87019951000.0,
-          "2024-12-31T00:00:00.000": 81715400000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Non Current Prepaid Assets": {
           "2026-06-30T00:00:00.000": null,
           "2026-03-31T00:00:00.000": 4356387000.0,
           "2025-12-31T00:00:00.000": 4242600000.0,
           "2025-09-30T00:00:00.000": 5092503000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 4854963000.0,
           "2025-03-31T00:00:00.000": 5583601000.0,
-          "2024-12-31T00:00:00.000": 5495900000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Non Current Deferred Assets": {
           "2026-06-30T00:00:00.000": null,
@@ -2109,9 +2116,9 @@
           "2026-03-31T00:00:00.000": 18753326000.0,
           "2025-12-31T00:00:00.000": 19061500000.0,
           "2025-09-30T00:00:00.000": 19790940000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 19127165000.0,
           "2025-03-31T00:00:00.000": 19320140000.0,
-          "2024-12-31T00:00:00.000": 20211600000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Goodwill": {
           "2026-06-30T00:00:00.000": null,
@@ -2127,7 +2134,7 @@
           "2026-03-31T00:00:00.000": 4000644989000.0,
           "2025-12-31T00:00:00.000": 3735759800000.0,
           "2025-09-30T00:00:00.000": 3542609617000.0,
-          "2025-06-30T00:00:00.000": 3386210000000.0,
+          "2025-06-30T00:00:00.000": 3430064270000.0,
           "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
@@ -2136,9 +2143,9 @@
           "2026-03-31T00:00:00.000": -5505093438000.0,
           "2025-12-31T00:00:00.000": -5394603600000.0,
           "2025-09-30T00:00:00.000": -5246578063000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": -5087976537000.0,
           "2025-03-31T00:00:00.000": -4945640145000.0,
-          "2024-12-31T00:00:00.000": -4775331300000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Gross PPE": {
           "2026-06-30T00:00:00.000": 4582018000000.0,
@@ -2190,9 +2197,9 @@
           "2026-03-31T00:00:00.000": 54791818000.0,
           "2025-12-31T00:00:00.000": 53319200000.0,
           "2025-09-30T00:00:00.000": 52318405000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 52604650000.0,
           "2025-03-31T00:00:00.000": 51539268000.0,
-          "2024-12-31T00:00:00.000": 50035200000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Properties": {
           "2026-06-30T00:00:00.000": null,
@@ -2217,8 +2224,8 @@
           "2026-03-31T00:00:00.000": 136373194000.0,
           "2025-12-31T00:00:00.000": 118664400000.0,
           "2025-09-30T00:00:00.000": 34378423000.0,
-          "2025-06-30T00:00:00.000": null,
-          "2025-03-31T00:00:00.000": 45703772000.0,
+          "2025-06-30T00:00:00.000": 38838612000.0,
+          "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
         "Hedging Assets Current": {
@@ -2271,17 +2278,17 @@
           "2026-03-31T00:00:00.000": 66591013000.0,
           "2025-12-31T00:00:00.000": 70682200000.0,
           "2025-09-30T00:00:00.000": 72674914000.0,
-          "2025-06-30T00:00:00.000": null,
+          "2025-06-30T00:00:00.000": 73376535000.0,
           "2025-03-31T00:00:00.000": 72055331000.0,
-          "2024-12-31T00:00:00.000": 71493000000.0
+          "2024-12-31T00:00:00.000": null
         },
         "Receivables": {
           "2026-06-30T00:00:00.000": 440923000000.0,
           "2026-03-31T00:00:00.000": 364689948000.0,
           "2025-12-31T00:00:00.000": 282059200000.0,
           "2025-09-30T00:00:00.000": 307871434000.0,
-          "2025-06-30T00:00:00.000": null,
-          "2025-03-31T00:00:00.000": 243949574000.0,
+          "2025-06-30T00:00:00.000": 238252943000.0,
+          "2025-03-31T00:00:00.000": null,
           "2024-12-31T00:00:00.000": null
         },
         "Receivables Adjustments Allowances": {
@@ -24368,6 +24375,41 @@
         "buy": 578125,
         "name": "Investment_Trust",
         "sell": 11270
+      },
+      {
+        "date": "2026-07-28",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-07-28",
+        "stock_id": "2330",
+        "buy": 175350,
+        "name": "Dealer_self",
+        "sell": 222500
+      },
+      {
+        "date": "2026-07-28",
+        "stock_id": "2330",
+        "buy": 6041515,
+        "name": "Dealer_Hedging",
+        "sell": 870969
+      },
+      {
+        "date": "2026-07-28",
+        "stock_id": "2330",
+        "buy": 16164851,
+        "name": "Foreign_Investor",
+        "sell": 30824183
+      },
+      {
+        "date": "2026-07-28",
+        "stock_id": "2330",
+        "buy": 1427295,
+        "name": "Investment_Trust",
+        "sell": 1143000
       }
     ],
     "margin_trading": [],
@@ -24383,7 +24425,7 @@
         "description": "",
         "summary": "Look out below for semis?",
         "pubDate": "2026-07-27T14:54:40Z",
-        "displayTime": "2026-07-27T14:54:40Z",
+        "displayTime": "2026-07-28T08:54:41Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -24437,32 +24479,32 @@
       }
     },
     {
-      "id": "192a33a9-d2c4-3794-8ae0-defa4f6a452a",
+      "id": "533c91f9-6cc5-3664-9640-9e28fff8adf7",
       "content": {
-        "id": "192a33a9-d2c4-3794-8ae0-defa4f6a452a",
+        "id": "533c91f9-6cc5-3664-9640-9e28fff8adf7",
         "contentType": "STORY",
-        "title": "Amkor Technology Q2 Earnings Call Highlights",
+        "title": "These 3 Companies Reported Record Results and Raised Guidance",
         "description": "",
-        "summary": "Amkor Technology (NASDAQ:AMKR) reported record second-quarter revenue of $1.9 billion, up 13% sequentially and 26% from a year earlier, as growth in computing and automotive and industrial markets helped the semiconductor packaging and test company exceed the high end of its guidance. Chief Executi",
-        "pubDate": "2026-07-27T22:02:43Z",
-        "displayTime": "2026-07-27T22:02:43Z",
+        "summary": "Abbott Laboratories, Taiwan Semiconductor, and Johnson & Johnson have all delivered strong earnings releases in the Q2 cycle, with each breaking records while also lifting their outlooks.",
+        "pubDate": "2026-07-28T21:28:00Z",
+        "displayTime": "2026-07-28T21:28:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/0df54274d3539f2ac934203618db1039",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "caption": "Amkor Technology logo",
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/067a7f214ef4416fda1758872409cee2",
+          "originalWidth": 620,
+          "originalHeight": 413,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aDf49rz28.dT5Xh14ggVPg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/0df54274d3539f2ac934203618db1039",
-              "width": 1200,
-              "height": 675,
+              "url": "https://s.yimg.com/uu/api/res/1.2/winE2J8O3BcKPUkGt02gmA--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/067a7f214ef4416fda1758872409cee2",
+              "width": 620,
+              "height": 413,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JuaE.AU0A7fSrK4SNypyYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/0df54274d3539f2ac934203618db1039",
+              "url": "https://s.yimg.com/uu/api/res/1.2/d5NBgZ6_CfSd12KRkAEYqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/067a7f214ef4416fda1758872409cee2",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24470,18 +24512,385 @@
           ]
         },
         "provider": {
-          "displayName": "MarketBeat",
-          "url": "https://www.marketbeat.com/",
-          "sourceId": "marketbeat_955"
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
         },
         "canonicalUrl": {
-          "url": "https://www.marketbeat.com/instant-alerts/amkor-technology-q2-earnings-call-highlights-2026-07-27/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-companies-reported-record-results-212800831.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-q2-earnings-call-220243706.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-companies-reported-record-results-212800831.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7f37b354-5ee0-3ba6-80b5-cb058e742eee",
+      "content": {
+        "id": "7f37b354-5ee0-3ba6-80b5-cb058e742eee",
+        "contentType": "STORY",
+        "title": "Why Amkor Plunged Today",
+        "description": "",
+        "summary": "Is this a golden buying opportunity for the AI beneficiary?",
+        "pubDate": "2026-07-28T20:05:42Z",
+        "displayTime": "2026-07-28T20:05:42Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/3c29f00d3c16fa8775b342bc300b530f",
+          "originalWidth": 1400,
+          "originalHeight": 787,
+          "caption": "Semiconductors on a package underneath production machine. ",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8sxLQosvH6MBT5hRaZu3zw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3c29f00d3c16fa8775b342bc300b530f",
+              "width": 1400,
+              "height": 787,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WxxjNh0BYpQiNT7E1IN1Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3c29f00d3c16fa8775b342bc300b530f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/28/why-amkor-plunged-today/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-amkor-plunged-today-200542942.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c733fe5f-72b8-365a-992a-381ef656434a",
+      "content": {
+        "id": "c733fe5f-72b8-365a-992a-381ef656434a",
+        "contentType": "STORY",
+        "title": "Wall Street’s Top AI Bull Dan Ives Says the Revolution Is Only in the Third Inning. Here’s What That Means for Your Portfolio.",
+        "description": "",
+        "summary": "Wedbush's most vocal AI bull thinks investors keep flinching at the wrong signals, and he has a map of five stocks that traces where the real money is moving before the crowd catches on.",
+        "pubDate": "2026-07-28T17:59:11Z",
+        "displayTime": "2026-07-28T17:59:11Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/e061ddb31fa43662c3b350bcd85b809f",
+          "originalWidth": 1168,
+          "originalHeight": 784,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7Ko6PUsNGSYZ5VBlMJraiw--~B/aD03ODQ7dz0xMTY4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/e061ddb31fa43662c3b350bcd85b809f",
+              "width": 1168,
+              "height": 784,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7Yw5QbALsKtFeIof1an_RA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e061ddb31fa43662c3b350bcd85b809f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/07/28/wall-streets-top-ai-bull-dan-ives-says-the-revolution-is-only-in-the-third-inning-heres-what-that-means-for-your-portfolio/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-top-ai-bull-175911850.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6edd2d7c-3d9a-3ebb-a730-9180adbaa8cd",
+      "content": {
+        "id": "6edd2d7c-3d9a-3ebb-a730-9180adbaa8cd",
+        "contentType": "STORY",
+        "title": "Billionaire Stanley Druckenmiller Slashed His Stake in This Stock. But Wall Street Thinks It Could Jump 50%.",
+        "description": "",
+        "summary": "Stanley Druckenmiller continues to sell a core position.",
+        "pubDate": "2026-07-28T15:50:00Z",
+        "displayTime": "2026-07-28T15:50:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/e9f9cafd26c7076610b7b967778d3125",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "caption": "Stanley Druckenmiller.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XJEF39P8aHCvvkZM6MeImA--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e9f9cafd26c7076610b7b967778d3125",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5B4USl.kVLH39RDF0q4jzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e9f9cafd26c7076610b7b967778d3125",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/07/28/stanley-druckenmiller-slashed-his-stake-in-this/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-slashed-stake-155000309.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "da225021-626d-3f70-a462-1d752950fda2",
+      "content": {
+        "id": "da225021-626d-3f70-a462-1d752950fda2",
+        "contentType": "STORY",
+        "title": "Japan Quake Leads to Mall Collapse, Trapping People Inside",
+        "description": "",
+        "summary": "Rescue operations were under way at a shopping mall and over 200,000 people in the region were issued with evacuation orders.",
+        "pubDate": "2026-07-28T14:34:00Z",
+        "displayTime": "2026-07-28T14:34:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/da225021-626d-3f70-a462-1d752950fda2/japan-quake-leads-to-mall.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/9fbe26e995508026317a82cdd29e882c",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/573vGK5cOdLeDUVRkoN22Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/9fbe26e995508026317a82cdd29e882c",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XikIYCsSKFIYZoQJIgpacQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/9fbe26e995508026317a82cdd29e882c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/world/asia/japan-quake-causes-explosion-at-mall-traps-shoppers-7a1d5591?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9d2b1e8a-710e-350b-b664-b771dd5f707b",
+      "content": {
+        "id": "9d2b1e8a-710e-350b-b664-b771dd5f707b",
+        "contentType": "STORY",
+        "title": "TSMC says Japan plant gradually resuming operations after earthquake",
+        "description": "",
+        "summary": "Taiwan Semiconductor Manufacturing Co, the world's largest ‌contract chipmaker, said late ‌on Tuesday it had begun gradually resuming ​operations at its Japan Advanced Semiconductor Manufacturing (JASM) plant in Japan's Kumamoto prefecture after a strong earthquake prompted ‌the precautionary evacuation ⁠of workers.  The company said all personnel at the Japan site were confirmed ​safe after ​being evacuated ​in accordance with ‌internal safety procedures.  JASM's construction site was ‌unaffected, TSMC said, adding ​that parts ​of the construction work had been suspended as a safety ​precaution because ‌there could still be occasional ​aftershocks.",
+        "pubDate": "2026-07-28T14:24:11Z",
+        "displayTime": "2026-07-28T14:24:11Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/720cbdb28323a22fba5ea035c8fed63f",
+          "originalWidth": 800,
+          "originalHeight": 534,
+          "caption": "FILE PHOTO: A TSMC logo can be seen outside of TSMC Museum of Innovation in Hsinchu",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GeWzR6nxcvtjnqLHZ8GVoA--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/720cbdb28323a22fba5ea035c8fed63f",
+              "width": 800,
+              "height": 534,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/YWhQO2bqyFQ4XgVzhkgVSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/720cbdb28323a22fba5ea035c8fed63f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "http://www.reuters.com/",
+          "sourceId": "reuters-finance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-says-japan-plant-gradually-142411723.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-says-japan-plant-gradually-142411723.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6cda8145-0b32-34dc-97fb-ecd3cdde46b7",
+      "content": {
+        "id": "6cda8145-0b32-34dc-97fb-ecd3cdde46b7",
+        "contentType": "STORY",
+        "title": "This Chip ETF Just Pulled Off a Historic 2026 While Nvidia Stumbled",
+        "description": "",
+        "summary": "A chip ETF just posted one of its best years on record, and the stock everyone expected to lead it barely showed up. The real story is which names hijacked the rally and why the fund's rulebook deserves more credit than any of its holdings.",
+        "pubDate": "2026-07-28T14:15:44Z",
+        "displayTime": "2026-07-28T14:15:44Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/7317409b54b4e09ed1d3d866c2cdd588",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Y7UemW6c94CofFeJvme_Pg--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/7317409b54b4e09ed1d3d866c2cdd588",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KPQ_pDyaV.LhessaxMm1CQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7317409b54b4e09ed1d3d866c2cdd588",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/etf/2026/07/28/this-chip-etf-just-pulled-off-a-historic-2026-while-nvidia-stumbled/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chip-etf-just-pulled-off-141544471.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24505,9 +24914,9 @@
         "contentType": "STORY",
         "title": "Cadence Stock Can Be an AI Winner. The Earnings Prove It.",
         "description": "",
-        "summary": "Cadence Design Systems  stock rose Monday after the chip-design company reported better-than-expected earnings and reaffirmed its positioning as an artificial-intelligence beneficiary.  Cadence reported adjusted earnings of $2.11 a share in the second quarter, up from $1.65 a year ago and above analysts’ consensus estimate of $2.05, according to FactSet.  Cadence lifted its full-year guidance for adjusted earnings per share to between $8.05 and $8.15, up from a previous range of $7.85 to $7.95.",
-        "pubDate": "2026-07-27T20:49:00Z",
-        "displayTime": "2026-07-27T20:49:00Z",
+        "summary": "Cadence Design Systems  stock jumped Tuesday after the chip-design company reported better-than-expected earnings and reaffirmed its positioning as an artificial-intelligence beneficiary.  Cadence reported adjusted earnings of $2.11 a share in the second quarter, up from $1.65 a year ago and above analysts’ consensus estimate of $2.05, according to FactSet.  Cadence lifted its full-year guidance for adjusted earnings per share to between $8.05 and $8.15, up from a previous range of $7.85 to $7.95.",
+        "pubDate": "2026-07-28T14:02:00Z",
+        "displayTime": "2026-07-28T14:02:00Z",
         "isHosted": false,
         "bypassModal": false,
         "previewUrl": "https://finance.yahoo.com/m/4f4570d5-881e-3137-a175-217fff5870f4/cadence-stock-can-be-an-ai.html",
@@ -24537,7 +24946,7 @@
           "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/cadence-stock-ai-chips-earnings-a7b17581?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/cadence-design-earnings-stock-price-a7b17581?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24556,94 +24965,32 @@
       }
     },
     {
-      "id": "cc2081d5-7539-3f2f-9eed-4b69dc9e1447",
+      "id": "e4c638c0-6317-3d1f-9462-646871061cd5",
       "content": {
-        "id": "cc2081d5-7539-3f2f-9eed-4b69dc9e1447",
+        "id": "e4c638c0-6317-3d1f-9462-646871061cd5",
         "contentType": "STORY",
-        "title": "Missed NVIDIA? This AI Infrastructure Stock Has More Room to Run",
+        "title": "Billionaire Investor Andreas Halvorsen’s Top 5 Picks: Are They a Buy Now?",
         "description": "",
-        "summary": "Western Digital is riding AI storage demand with rising revenues, expanding margins and bullish analyst targets. See why WDC could extend its rally.",
-        "pubDate": "2026-07-27T19:00:00Z",
-        "displayTime": "2026-07-27T19:00:00Z",
+        "summary": "Viking Global just filed its 13F, handing retail investors a five-stock shortlist that spans AI chips, streaming turnarounds, and a rate-cycle trade, and four of them are flashing buy signals before the next earnings window closes.",
+        "pubDate": "2026-07-28T13:57:19Z",
+        "displayTime": "2026-07-28T13:57:19Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/dbd59e776cc7fd086e5fb1bd7661e329",
-          "originalWidth": 619,
-          "originalHeight": 197,
-          "caption": "Zacks Investment Research",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YzO1mi6vfsQpqz6nAkxBdw--~B/aD0xOTc7dz02MTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dbd59e776cc7fd086e5fb1bd7661e329",
-              "width": 619,
-              "height": 197,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Vk8m0hfUaXR68N6LeFExLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dbd59e776cc7fd086e5fb1bd7661e329",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/missed-nvidia-ai-infrastructure-stock-190000631.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/missed-nvidia-ai-infrastructure-stock-190000631.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "673aeedd-b310-38e2-887d-da384a0d3f77",
-      "content": {
-        "id": "673aeedd-b310-38e2-887d-da384a0d3f77",
-        "contentType": "STORY",
-        "title": "NVIDIA Plans a $750 Billion Spending Spree. Is This the Dot-Com All Over or the Beginning of a Massive AI Boom?",
-        "description": "",
-        "summary": "NVIDIA just committed to a spending package that dwarfs the budgets of most nations, and the market reacted by punishing the stock. Whether that reaction reflects legitimate bubble fears or a historic buying opportunity depends on one critical question investors are still fighting over.",
-        "pubDate": "2026-07-27T16:09:06Z",
-        "displayTime": "2026-07-27T16:09:06Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/e8616aa34c8bf9c6cf817c8b0d6a7264",
-          "originalWidth": 1366,
-          "originalHeight": 768,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/34211d253b5fc849415e8a86dbace625",
+          "originalWidth": 1500,
+          "originalHeight": 998,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CTF3O7sahEi.GtXPo_LobA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/e8616aa34c8bf9c6cf817c8b0d6a7264",
-              "width": 1366,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/leAKdZQHe4HTaoGNjx1fXw--~B/aD05OTg7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/34211d253b5fc849415e8a86dbace625",
+              "width": 1500,
+              "height": 998,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/q6D4lnF1p2racIhavHo5Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e8616aa34c8bf9c6cf817c8b0d6a7264",
+              "url": "https://s.yimg.com/uu/api/res/1.2/dWjh0DegCERaXh3a68mz1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/34211d253b5fc849415e8a86dbace625",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24656,304 +25003,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/07/27/nvidia-plans-a-750-billion-spending-spree-is-this-the-dot-com-all-over-or-the-beginning-of-a-massive-ai-boom/",
+          "url": "https://247wallst.com/investing/2026/07/28/billionaire-investor-andreas-halvorsens-top-5-picks-are-they-a-buy-now/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-plans-750-billion-spending-160906231.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b22db4ec-93ff-3ba4-baa0-7f0fae4b12ba",
-      "content": {
-        "id": "b22db4ec-93ff-3ba4-baa0-7f0fae4b12ba",
-        "contentType": "STORY",
-        "title": "SanDisk’s $42 Billion Backlog Is Real — So Is the Valuation Question Now Hitting Every Memory Stock",
-        "description": "",
-        "summary": "The AI memory supercycle has emerged as one of 2026’s most defining stories, and also one of its most contested. Hyperscaler capital expenditure is expected to reach $750 billion this year, with Goldman Sachs forecasting $7.6 trillion in total AI infrastructure spending through 2031, resulting in a supply shortage of NAND and DRAM memory as […]",
-        "pubDate": "2026-07-27T15:42:53Z",
-        "displayTime": "2026-07-27T15:42:53Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/9be1fb103254a8d41e3017b4cff039ae",
-          "originalWidth": 2318,
-          "originalHeight": 1304,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.W42sx5SraknmAPIrqTZGQ--~B/aD0xMzA0O3c9MjMxODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/9be1fb103254a8d41e3017b4cff039ae",
-              "width": 2318,
-              "height": 1304,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/o1RJOaNjZLuUCnHXH_BfcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/9be1fb103254a8d41e3017b4cff039ae",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-42-billion-backlog-real-154253850.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-42-billion-backlog-real-154253850.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ab65f1c2-74c3-3648-a405-024aa3cd8900",
-      "content": {
-        "id": "ab65f1c2-74c3-3648-a405-024aa3cd8900",
-        "contentType": "STORY",
-        "title": "Beijing Just Aimed at Taiwan Semiconductor Manufacturing Company (NYSE:TSM). Here’s Why the Bull Case Still Wins",
-        "description": "",
-        "summary": "On July 21, the Financial Times reported that China’s Ministry of Commerce is considering implementing export controls that would bar Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) and QUALCOMM Incorporated (NASDAQ:QCOM) from manufacturing chips based on designs from Huawei, Alibaba, and ByteDance. Such headlines are likely to hit a foundry stock hard. In the case of […]",
-        "pubDate": "2026-07-27T14:08:27Z",
-        "displayTime": "2026-07-27T14:08:27Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/f90919c411d1aa5d89e5e74b1fb5e45e",
-          "originalWidth": 1456,
-          "originalHeight": 816,
-          "caption": "Is TSM a good stock to buy?",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DxYQcvd_gWJWaXO.7PRDtw--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/f90919c411d1aa5d89e5e74b1fb5e45e",
-              "width": 1456,
-              "height": 816,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/10gTbzkytW6VKJUk9nUfvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f90919c411d1aa5d89e5e74b1fb5e45e",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/beijing-just-aimed-taiwan-semiconductor-140827384.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/beijing-just-aimed-taiwan-semiconductor-140827384.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "5e4d5203-0446-3ff3-b9da-41ad3f84c0fb",
-      "content": {
-        "id": "5e4d5203-0446-3ff3-b9da-41ad3f84c0fb",
-        "contentType": "STORY",
-        "title": "KKR Plans LCY Exit as Chairman Targets Bigger U.S. Semiconductor Expansion",
-        "description": "",
-        "summary": "LCY could accelerate growth after KKR's planned exit, with larger U.S. investments under consideration.",
-        "pubDate": "2026-07-27T13:09:32Z",
-        "displayTime": "2026-07-27T13:09:32Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/kkr-plans-lcy-exit-chairman-130932515.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/kkr-plans-lcy-exit-chairman-130932515.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e022cf52-e5aa-3c3f-8004-04202bb6bc44",
-      "content": {
-        "id": "e022cf52-e5aa-3c3f-8004-04202bb6bc44",
-        "contentType": "STORY",
-        "title": "TSMC Raises 2026 CapEx Budget to Capture Long-Term AI, HPC Demand",
-        "description": "",
-        "summary": "Taiwan Semiconductor ups its 2026 capital budget to as much as $64 billion, betting on long-term AI and HPC demand while expanding capacity without expected bottlenecks.",
-        "pubDate": "2026-07-27T12:39:00Z",
-        "displayTime": "2026-07-27T12:39:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/76b77267780db8a8e104d16effc1eb76",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XbuIpQrVk99nJInENBcC7Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76b77267780db8a8e104d16effc1eb76",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/R0FxnzQTatK8QbQzoMj4Ig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76b77267780db8a8e104d16effc1eb76",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-raises-2026-capex-budget-123900508.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-raises-2026-capex-budget-123900508.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a90161c4-9f0a-31c3-b965-3a40b706c819",
-      "content": {
-        "id": "a90161c4-9f0a-31c3-b965-3a40b706c819",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor's Latest Move Shows It's a Screaming Buy",
-        "description": "",
-        "summary": "Taiwan Semiconductor's latest Arizona expansion is huge news for investors.",
-        "pubDate": "2026-07-27T11:50:00Z",
-        "displayTime": "2026-07-27T11:50:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/f6b24e6f3c8ce9a13c1101db41444e94",
-          "originalWidth": 1400,
-          "originalHeight": 840,
-          "caption": "Image of Taiwan Semiconductor's headquarters.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/a_9mdjok4RlI7rRoundHdA--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f6b24e6f3c8ce9a13c1101db41444e94",
-              "width": 1400,
-              "height": 840,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/UEAgwSIP6qUEFUDCvPPuyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f6b24e6f3c8ce9a13c1101db41444e94",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/07/27/taiwan-semiconductors-latest-move-shows-its-a-scre/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductors-latest-move-shows-115000073.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-andreas-halvorsen-top-135719093.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -25084,52 +25140,52 @@
     "maxAge": 86400,
     "priceHint": 2,
     "previousClose": 2350.0,
-    "open": 2330.0,
-    "dayLow": 2330.0,
-    "dayHigh": 2365.0,
+    "open": 2270.0,
+    "dayLow": 2270.0,
+    "dayHigh": 2305.0,
     "regularMarketPreviousClose": 2350.0,
-    "regularMarketOpen": 2330.0,
-    "regularMarketDayLow": 2330.0,
-    "regularMarketDayHigh": 2365.0,
+    "regularMarketOpen": 2270.0,
+    "regularMarketDayLow": 2270.0,
+    "regularMarketDayHigh": 2305.0,
     "dividendRate": 24.0,
     "dividendYield": 1.02,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2785,
     "fiveYearAvgDividendYield": 1.7,
     "beta": 1.246,
-    "trailingPE": 31.94671,
-    "forwardPE": 17.126072,
-    "volume": 25513792,
-    "regularMarketVolume": 25513792,
-    "averageVolume": 33415209,
-    "averageVolume10days": 34910836,
-    "averageDailyVolume10Day": 34910836,
+    "trailingPE": 30.995108,
+    "forwardPE": 16.615934,
+    "volume": 43808482,
+    "regularMarketVolume": 43808482,
+    "averageVolume": 33042073,
+    "averageVolume10days": 34021089,
+    "averageDailyVolume10Day": 34021089,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 60941068664832,
+    "marketCap": 59125803253760,
     "nonDilutedMarketCap": 60941069657450,
     "fiftyTwoWeekLow": 1125.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 13.723944,
-    "fiftyDayAverage": 2365.2,
-    "twoHundredDayAverage": 1895.925,
+    "priceToSalesTrailing12Months": 13.3151455,
+    "fiftyDayAverage": 2366.9,
+    "twoHundredDayAverage": 1900.475,
     "trailingAnnualDividendRate": 12.0,
     "trailingAnnualDividendYield": 0.005106383,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 58446586052608,
+    "enterpriseValue": 56631345807360,
     "profitMargins": 0.49923,
     "floatShares": 23652058560,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00022,
-    "heldPercentInstitutions": 0.43682,
+    "heldPercentInstitutions": 0.43681,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.053,
-    "priceToBook": 9.473782,
+    "priceToBook": 9.191585,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
@@ -25140,14 +25196,14 @@
     "pegRatio": 0.93,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.162,
-    "enterpriseToEbitda": 18.407,
-    "52WeekChange": 1.0524018,
-    "SandP52WeekChange": 0.159976,
+    "enterpriseToRevenue": 12.753,
+    "enterpriseToEbitda": 17.835,
+    "52WeekChange": 1.0704846,
+    "SandP52WeekChange": 0.16360748,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
-    "currentPrice": 2350.0,
+    "currentPrice": 2280.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2147.0,
     "targetMeanPrice": 3106.4058,
@@ -25182,30 +25238,14 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "exchange": "TAI",
-    "messageBoardId": "finmb_380075",
-    "exchangeTimezoneName": "Asia/Taipei",
-    "exchangeTimezoneShortName": "CST",
-    "gmtOffSetMilliseconds": 28800000,
-    "market": "tw_market",
-    "esgPopulated": false,
-    "marketState": "PREPRE",
-    "regularMarketChangePercent": 0.0,
-    "regularMarketPrice": 2350.0,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "corporateActions": [],
-    "regularMarketTime": 1785130208,
-    "regularMarketChange": 0.0,
-    "regularMarketDayRange": "2330.0 - 2365.0",
     "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 33415209,
-    "fiftyTwoWeekLowChange": 1225.0,
-    "fiftyTwoWeekLowChangePercent": 1.0888889,
+    "averageDailyVolume3Month": 33042073,
+    "fiftyTwoWeekLowChange": 1155.0,
+    "fiftyTwoWeekLowChangePercent": 1.0266666,
     "fiftyTwoWeekRange": "1125.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -185.0,
-    "fiftyTwoWeekHighChangePercent": -0.0729783,
-    "fiftyTwoWeekChangePercent": 105.24018,
+    "fiftyTwoWeekHighChange": -255.0,
+    "fiftyTwoWeekHighChangePercent": -0.10059172,
+    "fiftyTwoWeekChangePercent": 107.04846,
     "earningsTimestamp": 1784179800,
     "earningsTimestampStart": 1792042200,
     "earningsTimestampEnd": 1792042200,
@@ -25214,18 +25254,34 @@
     "isEarningsDateEstimate": true,
     "epsTrailingTwelveMonths": 73.56,
     "epsForward": 137.21768,
-    "epsCurrentYear": 106.65105,
-    "priceEpsCurrentYear": 22.034477,
-    "fiftyDayAverageChange": -15.199951,
-    "fiftyDayAverageChangePercent": -0.0064264974,
-    "twoHundredDayAverageChange": 454.07495,
-    "twoHundredDayAverageChangePercent": 0.23950048,
+    "epsCurrentYear": 106.92136,
+    "priceEpsCurrentYear": 21.324083,
+    "fiftyDayAverageChange": -86.8999,
+    "fiftyDayAverageChangePercent": -0.03671465,
+    "twoHundredDayAverageChange": 379.52502,
+    "twoHundredDayAverageChangePercent": 0.19970009,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
     "hasPrePostMarketData": false,
     "firstTradeDateMilliseconds": 946947600000,
-    "trailingPegRatio": 0.9284
+    "regularMarketChange": -70.0,
+    "regularMarketDayRange": "2270.0 - 2305.0",
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "corporateActions": [],
+    "regularMarketTime": 1785216608,
+    "exchange": "TAI",
+    "messageBoardId": "finmb_380075",
+    "exchangeTimezoneName": "Asia/Taipei",
+    "exchangeTimezoneShortName": "CST",
+    "gmtOffSetMilliseconds": 28800000,
+    "market": "tw_market",
+    "esgPopulated": false,
+    "regularMarketChangePercent": -2.9787235,
+    "regularMarketPrice": 2280.0,
+    "marketState": "PREPRE",
+    "trailingPegRatio": 0.9279
   }
 }
