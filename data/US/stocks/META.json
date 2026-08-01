@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-07-31T22:53:38.233266",
+    "ts": "2026-08-01T22:46:41.839484",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -132,7 +132,7 @@
     "compensationRisk": 10,
     "shareHolderRightsRisk": 10,
     "overallRisk": 10,
-    "governanceEpochDate": 1782864000,
+    "governanceEpochDate": 1785542400,
     "compensationAsOfEpochDate": 1767139200,
     "executiveTeam": [],
     "maxAge": 86400,
@@ -146,37 +146,37 @@
     "regularMarketDayLow": 540.24,
     "regularMarketDayHigh": 558.33,
     "dividendRate": 2.1,
-    "dividendYield": 0.39,
+    "dividendYield": 0.38,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.246,
-    "trailingPE": 20.95258,
+    "trailingPE": 20.960468,
     "forwardPE": 15.656394,
     "volume": 24155637,
     "regularMarketVolume": 24155637,
-    "averageVolume": 18075216,
-    "averageVolume10days": 16738830,
-    "averageDailyVolume10Day": 16738830,
+    "averageVolume": 18122133,
+    "averageVolume10days": 16943330,
+    "averageDailyVolume10Day": 16943330,
     "bid": 546.0,
     "ask": 594.66,
     "bidSize": 1,
     "askSize": 1,
     "marketCap": 1418222239744,
-    "nonDilutedMarketCap": 1373182280461,
+    "nonDilutedMarketCap": 1418222190519,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "priceToSalesTrailing12Months": 6.213542,
-    "fiftyDayAverage": 603.1022,
-    "twoHundredDayAverage": 635.28217,
+    "fiftyDayAverage": 602.1842,
+    "twoHundredDayAverage": 634.4872,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0038958867,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1392811311104,
+    "enterpriseValue": 1440280215552,
     "profitMargins": 0.29834998,
-    "floatShares": 2196643400,
+    "floatShares": 2200535877,
     "sharesOutstanding": 2205128509,
     "sharesShort": 37847633,
     "sharesShortPriorMonth": 29985155,
@@ -184,7 +184,7 @@
     "dateShortInterest": 1784073600,
     "sharesPercentSharesOut": 0.0149,
     "heldPercentInsiders": 0.00119,
-    "heldPercentInstitutions": 0.79232,
+    "heldPercentInstitutions": 0.78925,
     "shortRatio": 1.85,
     "shortPercentOfFloat": 0.0172,
     "impliedSharesOutstanding": 2547506225,
@@ -195,13 +195,13 @@
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.57,
+    "trailingEps": 26.56,
     "forwardEps": 35.558,
     "pegRatio": 0.85,
-    "enterpriseToRevenue": 6.102,
-    "enterpriseToEbitda": 12.702,
-    "52WeekChange": -0.28130293,
-    "SandP52WeekChange": 0.19230807,
+    "enterpriseToRevenue": 6.31,
+    "enterpriseToEbitda": 13.135,
+    "52WeekChange": -0.2829321,
+    "SandP52WeekChange": 0.18322134,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
@@ -214,7 +214,7 @@
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 57,
     "totalCash": 90259996672,
-    "totalCashPerShare": 35.494,
+    "totalCashPerShare": 35.431,
     "ebitda": 109654999040,
     "totalDebt": 112317997056,
     "quickRatio": 1.987,
@@ -225,7 +225,7 @@
     "returnOnAssets": 0.14591,
     "returnOnEquity": 0.29848,
     "grossProfits": 186586005504,
-    "freeCashflow": 21381750784,
+    "freeCashflow": 21553625088,
     "operatingCashflow": 130301001728,
     "earningsGrowth": -0.134,
     "revenueGrowth": 0.28,
@@ -240,50 +240,8 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "longName": "Meta Platforms, Inc.",
-    "regularMarketChangePercent": 3.2799642,
-    "regularMarketPrice": 556.71,
-    "cryptoTradeable": false,
-    "shortName": "Meta Platforms, Inc.",
-    "marketState": "POST",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.2666773,
-    "postMarketPrice": 555.2254,
-    "postMarketChange": -1.4846191,
-    "regularMarketChange": 17.679993,
-    "regularMarketDayRange": "540.24 - 558.33",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18075216,
-    "fiftyTwoWeekLowChange": 36.450012,
-    "fiftyTwoWeekLowChangePercent": 0.07006115,
-    "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -239.53998,
-    "fiftyTwoWeekHighChangePercent": -0.30083513,
-    "fiftyTwoWeekChangePercent": -28.130293,
-    "dividendDate": 1782345600,
-    "earningsTimestamp": 1785355200,
-    "earningsTimestampStart": 1793217600,
-    "earningsTimestampEnd": 1793217600,
-    "earningsCallTimestampStart": 1785357000,
-    "earningsCallTimestampEnd": 1785357000,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.57,
-    "epsForward": 35.558,
-    "epsCurrentYear": 30.63333,
-    "priceEpsCurrentYear": 18.173344,
-    "fiftyDayAverageChange": -46.39215,
-    "fiftyDayAverageChangePercent": -0.07692254,
-    "twoHundredDayAverageChange": -78.57214,
-    "twoHundredDayAverageChangePercent": -0.1236807,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-07-31",
-    "averageAnalystRating": "1.4 - Strong Buy",
     "corporateActions": [],
-    "postMarketTime": 1785538415,
+    "postMarketTime": 1785542393,
     "regularMarketTime": 1785528001,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
@@ -292,26 +250,68 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
+    "regularMarketChangePercent": 3.27996,
+    "regularMarketPrice": 556.71,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "earningsCallTimestampStart": 1785357000,
+    "earningsCallTimestampEnd": 1785357000,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 26.56,
+    "epsForward": 35.558,
+    "epsCurrentYear": 30.63333,
+    "priceEpsCurrentYear": 18.173344,
+    "fiftyDayAverageChange": -45.474182,
+    "fiftyDayAverageChangePercent": -0.075515404,
+    "twoHundredDayAverageChange": -77.77716,
+    "twoHundredDayAverageChangePercent": -0.12258271,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-08-01",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": -0.50475067,
+    "postMarketPrice": 553.9,
+    "postMarketChange": -2.8099976,
+    "regularMarketChange": 17.68,
+    "regularMarketDayRange": "540.24 - 558.33",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 18122133,
+    "fiftyTwoWeekLowChange": 36.450012,
+    "fiftyTwoWeekLowChangePercent": 0.07006115,
+    "fiftyTwoWeekRange": "520.26 - 796.25",
+    "fiftyTwoWeekHighChange": -239.53998,
+    "fiftyTwoWeekHighChangePercent": -0.30083513,
+    "fiftyTwoWeekChangePercent": -28.293211,
+    "dividendDate": 1782345600,
+    "earningsTimestamp": 1785355200,
+    "earningsTimestampStart": 1793217600,
+    "earningsTimestampEnd": 1793217600,
+    "marketState": "CLOSED",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.7863
+    "trailingPegRatio": 0.8311
   },
   "financial_statements": {
     "income": {
       "Tax Effect Of Unusual Items": {
-        "2026-06-30T00:00:00.000": -14729153.337599,
+        "2026-06-30T00:00:00.000": -15200000.0,
         "2026-03-31T00:00:00.000": -520800000.0,
         "2025-12-31T00:00:00.000": -12035497.357419,
         "2025-09-30T00:00:00.000": 8820000.0,
-        "2025-06-30T00:00:00.000": -15728012.07753,
+        "2025-06-30T00:00:00.000": -16170000.0,
         "2025-03-31T00:00:00.000": null,
         "2024-12-31T00:00:00.000": null
       },
       "Tax Rate For Calcs": {
-        "2026-06-30T00:00:00.000": 0.155044,
+        "2026-06-30T00:00:00.000": 0.16,
         "2026-03-31T00:00:00.000": 0.4,
         "2025-12-31T00:00:00.000": 0.101996,
         "2025-09-30T00:00:00.000": 0.21,
-        "2025-06-30T00:00:00.000": 0.106993,
+        "2025-06-30T00:00:00.000": 0.11,
         "2025-03-31T00:00:00.000": null,
         "2024-12-31T00:00:00.000": null
       },
@@ -415,11 +415,11 @@
         "2024-12-31T00:00:00.000": null
       },
       "Normalized Income": {
-        "2026-06-30T00:00:00.000": 15928270846.662401,
+        "2026-06-30T00:00:00.000": 15927800000.0,
         "2026-03-31T00:00:00.000": 27554200000.0,
         "2025-12-31T00:00:00.000": 22873964502.642582,
         "2025-09-30T00:00:00.000": 2675820000.0,
-        "2025-06-30T00:00:00.000": 18468271987.92247,
+        "2025-06-30T00:00:00.000": 18467830000.0,
         "2025-03-31T00:00:00.000": null,
         "2024-12-31T00:00:00.000": null
       },
@@ -1696,32 +1696,32 @@
   },
   "news": [
     {
-      "id": "8134df5d-2b39-47b0-bf7b-f82fae7bc4b8",
+      "id": "a3272765-5f08-3002-a033-326b8ab193a9",
       "content": {
-        "id": "8134df5d-2b39-47b0-bf7b-f82fae7bc4b8",
+        "id": "a3272765-5f08-3002-a033-326b8ab193a9",
         "contentType": "STORY",
-        "title": "Tech stocks today: Amazon beats, Apple sinks",
+        "title": "Bernie Sanders Mocks Meta CEO Mark Zuckerberg Over Potential $10.5 Billion Tax Bill in California: 'How Will He Survive?'",
         "description": "",
-        "summary": "Tech stocks climbed higher on Thursday, as Microsoft posted strong earnings results.",
-        "pubDate": "2026-07-27T13:46:11Z",
-        "displayTime": "2026-07-31T19:12:39Z",
+        "summary": "Sen. Bernie Sanders (I-Vt.) on Thursday said Meta Platforms Inc. CEO Mark Zuckerberg could owe about $10.5 billion if California voters approve a proposed 5% billionaire wealth tax in November, saying the revenue could help preserve healthcare for 3 million...",
+        "pubDate": "2026-08-01T21:30:19Z",
+        "displayTime": "2026-08-01T21:30:19Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/LohPc3uQK809XGquSCk6SQ--~B/aD0zNjE2O3c9NTcyNTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/07741e02-d03a-40ad-b072-6487b1c8aad1",
-          "originalWidth": 5725,
-          "originalHeight": 3616,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/862079edf9bf22b0b4748aa658a0c15e",
+          "originalWidth": 1000,
+          "originalHeight": 720,
+          "caption": "Bernie Sanders Mocks Meta CEO Mark Zuckerberg Over Potential $10.5 Billion Tax Bill in California: 'How Will He Survive?'",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/LohPc3uQK809XGquSCk6SQ--~B/aD0zNjE2O3c9NTcyNTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/07741e02-d03a-40ad-b072-6487b1c8aad1",
-              "width": 5725,
-              "height": 3616,
+              "url": "https://s.yimg.com/uu/api/res/1.2/cX3Fd1boDSDW7MAXNYJLtQ--~B/aD03MjA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/862079edf9bf22b0b4748aa658a0c15e",
+              "width": 1000,
+              "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YwRGwppD71dFa5k_U2aXwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/07741e02-d03a-40ad-b072-6487b1c8aad1",
+              "url": "https://s.yimg.com/uu/api/res/1.2/B1fmuM6CrvTpEsl0aS_sQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/862079edf9bf22b0b4748aa658a0c15e",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1729,318 +1729,18 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html",
-          "site": "finance",
+          "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-mocks-meta-ceo-213019729.html",
+          "site": "news",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "bec9c463-9864-46dc-947e-ebc8e48b3064",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Amazon's AWS business has taken on a life of its own: Earnings call takeaways",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/LTHuPSSOAyyGJjpfHpV1wQ--~B/aD0yMzYyO3c9NDIwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/d1f7ca5b-02b0-4e12-9bc5-c8c9f17362e2_0527b7ba659d67d2fdfe82bc7cbce94a868883c64c747f29ead1dc295afa6ea5.jpg",
-                  "originalWidth": 4200,
-                  "originalHeight": 2362,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/amazons-aws-business-taken-life-143824372.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/amazons-aws-business-taken-life-143824372.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "6dd78720-13c5-4595-a8ed-6b34bb87c804",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Where Apple is diverging from rest of Mag 7 earnings",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/fDwdB9dQQHxhLDbnpR7P_Q--~B/aD0xMzg2O3c9MjQ2NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a6d1af3b-866e-4dd6-b149-de56b8a99525_cb33732c55bee0c497f9ad2c84b8a56d18aeeed413214d677a29967b13a8fc50.jpg",
-                  "originalWidth": 2465,
-                  "originalHeight": 1386,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/where-apple-diverging-rest-mag-143000980.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/where-apple-diverging-rest-mag-143000980.html"
-                }
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "1597f0a3-a6a3-4a17-bbe1-8d5b6e62f946",
-      "content": {
-        "id": "1597f0a3-a6a3-4a17-bbe1-8d5b6e62f946",
-        "contentType": "STORY",
-        "title": "Apple is growing without the AI spending spree engulfing Big Tech: Chart of the Day",
-        "description": "",
-        "summary": "Apple is growing like an AI spender but isn't spending like one. Thursday's earnings show that route may be cheaper — but it's not free of obstacles.",
-        "pubDate": "2026-07-31T10:00:00Z",
-        "displayTime": "2026-07-31T14:19:05Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/fDwdB9dQQHxhLDbnpR7P_Q--~B/aD0xMzg2O3c9MjQ2NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a6d1af3b-866e-4dd6-b149-de56b8a99525_cb33732c55bee0c497f9ad2c84b8a56d18aeeed413214d677a29967b13a8fc50.jpg",
-          "originalWidth": 2465,
-          "originalHeight": 1386,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fDwdB9dQQHxhLDbnpR7P_Q--~B/aD0xMzg2O3c9MjQ2NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a6d1af3b-866e-4dd6-b149-de56b8a99525_cb33732c55bee0c497f9ad2c84b8a56d18aeeed413214d677a29967b13a8fc50.jpg",
-              "width": 2465,
-              "height": 1386,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Eri6ga8jycb0UGd9nhncbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a6d1af3b-866e-4dd6-b149-de56b8a99525_cb33732c55bee0c497f9ad2c84b8a56d18aeeed413214d677a29967b13a8fc50.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/apple-is-growing-without-the-ai-spending-spree-engulfing-big-tech-chart-of-the-day-100000942.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/apple-is-growing-without-the-ai-spending-spree-engulfing-big-tech-chart-of-the-day-100000942.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "63be37f1-ef3c-44cd-b278-99b9f2761f48",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Apple CEO Tim Cook says this '100-year flood' won't be receding anytime soon",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-09/55713080-8e4e-11f0-afb7-ac4e08e66f18",
-                  "originalWidth": 5609,
-                  "originalHeight": 3739,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/technology/article/apple-ceo-tim-cook-says-this-100-year-flood-wont-be-receding-anytime-soon-121832016.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/technology/article/apple-ceo-tim-cook-says-this-100-year-flood-wont-be-receding-anytime-soon-121832016.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "38a23c64-312a-4bb4-913a-d3d5926294eb",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Amazon stock soars after Q2 earnings beat expectations as AI, chip businesses see $25 billion run rate",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/3KfdbdLUKiBED9CsnblWnw--~B/aD0zNjE2O3c9NTcyNTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/b3041475-68d9-4536-a776-dfe19381157a",
-                  "originalWidth": 5725,
-                  "originalHeight": 3616,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/news/amazon-stock-soars-after-q2-earnings-beat-expectations-as-ai-chip-businesses-see-25-billion-run-rate-115622323.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/news/amazon-stock-soars-after-q2-earnings-beat-expectations-as-ai-chip-businesses-see-25-billion-run-rate-115622323.html"
-                }
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "6bc29578-9ca0-40b2-8a9c-dbef61c0efc0",
-      "content": {
-        "id": "6bc29578-9ca0-40b2-8a9c-dbef61c0efc0",
-        "contentType": "STORY",
-        "title": "The AI spending boom is forcing a rethink on stock buybacks: One Big Investment Idea",
-        "description": "",
-        "summary": "Stock buybacks are near historic highs. But their biggest benefit to investors — making each remaining share more valuable — is fading in the era of the AI spending boom.",
-        "pubDate": "2026-07-31T10:00:00Z",
-        "displayTime": "2026-07-31T10:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-07/78304e40-8ac8-11f1-b7be-d41290f0df5f",
-          "originalWidth": 6000,
-          "originalHeight": 4000,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wDluIfPyV0FqhJjvm.Twjg--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-07/78304e40-8ac8-11f1-b7be-d41290f0df5f",
-              "width": 6000,
-              "height": 4000,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tSm9d2krOX_SB_8ortd0EA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-07/78304e40-8ac8-11f1-b7be-d41290f0df5f",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/the-ai-spending-boom-is-forcing-a-rethink-on-stock-buybacks-one-big-investment-idea-100000480.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/the-ai-spending-boom-is-forcing-a-rethink-on-stock-buybacks-one-big-investment-idea-100000480.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "4a5dc9da-0610-3276-a6e5-cb423dad3658",
-      "content": {
-        "id": "4a5dc9da-0610-3276-a6e5-cb423dad3658",
-        "contentType": "STORY",
-        "title": "Teetering US stock market faces jobs report, big earnings week",
-        "description": "",
-        "summary": "By Lewis Krauskopf NEW YORK, July 31 (Reuters) - U.S. employment data and a batch of corporate results this coming week will keep equity investors on edge over the direction of the stock market, which",
-        "pubDate": "2026-07-31T21:41:08Z",
-        "displayTime": "2026-07-31T21:41:08Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters.com/3d86a697f6c787819b308e8b95332b8c",
-          "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "A trader works on the floor at the New York Stock Exchange (NYSE) in New York City, U.S., July 29, 2026.  REUTERS/Brendan McDermid",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ob2m4xR_OJaFKCJsg0gcCw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/3d86a697f6c787819b308e8b95332b8c",
-              "width": 800,
-              "height": 533,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OUb5NDf3DRRCRA3gUDWJzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/3d86a697f6c787819b308e8b95332b8c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "https://www.reuters.com/",
-          "sourceId": "reuters.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/teetering-us-stock-market-faces-100238136.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/teetering-us-stock-market-faces-100238136.html",
+          "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-mocks-meta-ceo-213019729.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2058,32 +1758,447 @@
       }
     },
     {
-      "id": "e55c9baa-918b-3e70-a13c-6f67083daec7",
+      "id": "1f2e6d27-dcf8-3365-90ae-09eca95c0aa5",
       "content": {
-        "id": "e55c9baa-918b-3e70-a13c-6f67083daec7",
+        "id": "1f2e6d27-dcf8-3365-90ae-09eca95c0aa5",
         "contentType": "STORY",
-        "title": "Amazon and Apple Deliver the Drama to Close a Turbulent Month",
+        "title": "Will Profitability Gains, Buybacks and Meta Tie-Up Change Lightspeed Commerce's (TSX:LSPD) Narrative",
         "description": "",
-        "summary": "A surge in  Amazon  stock Friday gave the Nasdaq enough momentum to obscure  Apple  slump.  Beneath the surface of the Nasdaq composite’s 1% gain was a tug of war between Apple stock, which fell 7.4%, and Amazon’s which surged 15%.  The post-earnings slide, Apple’s largest since 2014, followed company forecasts for its September quarter that fell short of Wall Street’s expectations.",
-        "pubDate": "2026-07-31T21:12:00Z",
-        "displayTime": "2026-07-31T21:12:00Z",
+        "summary": "Lightspeed Commerce Inc. reported its first-quarter 2027 results in late July, with revenue of US$322.7 million and net loss narrowing to US$2.42 million, while confirming revenue guidance for the September quarter and full fiscal year and completing a US$65.13 million buyback of 6,973,406 shares. A key development was the launch of the Lightspeed with Meta Conversions API integration for Lightspeed Retail, aiming to give brick-and-mortar merchants clearer insight into how Meta ads drive...",
+        "pubDate": "2026-08-01T18:09:35Z",
+        "displayTime": "2026-08-01T18:09:35Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gnGTQ_q9KCdl7Xvx_ppB0g--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/profitability-gains-buybacks-meta-tie-180935109.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/profitability-gains-buybacks-meta-tie-180935109.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "fc9a12ca-fbcf-3b35-9e55-3440906c2e97",
+      "content": {
+        "id": "fc9a12ca-fbcf-3b35-9e55-3440906c2e97",
+        "contentType": "STORY",
+        "title": "Meta Is Paying Workers to Learn a Trade. For Someone Near 60, the Real Prize May Be Delaying Social Security.",
+        "description": "",
+        "summary": "Meta's free trades program promises laid-off workers a guaranteed job offer, but for someone closing in on 60, the most valuable thing those wages could buy has nothing to do with the work itself.",
+        "pubDate": "2026-08-01T18:02:39Z",
+        "displayTime": "2026-08-01T18:02:39Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/cd7ccd2b0215612751830210f7ecc6be",
+          "originalWidth": 1500,
+          "originalHeight": 1000,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nDI00KjR9eVf.OTZmB6DYw--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/cd7ccd2b0215612751830210f7ecc6be",
+              "width": 1500,
+              "height": 1000,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zEImsZ9gboVORGWJWXUXug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cd7ccd2b0215612751830210f7ecc6be",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/personal-finance/social-security/2026/08/01/meta-is-paying-workers-to-learn-a-trade-for-someone-near-60-the-real-prize-may-be-delaying-social-security/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/small-business/articles/meta-paying-workers-learn-trade-180239159.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bdbc34c5-c282-3c5d-bde0-c73065e91c1a",
+      "content": {
+        "id": "bdbc34c5-c282-3c5d-bde0-c73065e91c1a",
+        "contentType": "STORY",
+        "title": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip",
+        "description": "",
+        "summary": "Morgan Stanley says that despite doubts about AI spending, there remains a major opportunity for investors.",
+        "pubDate": "2026-08-01T16:18:00Z",
+        "displayTime": "2026-08-01T16:18:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/e12d4b7b2795eb2ff5f341a904e80e08",
+          "originalWidth": 1400,
+          "originalHeight": 993,
+          "caption": "The letters A and I in a hurricane.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sdy9Wnh9A31753ZieB2wjA--~B/aD05OTM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e12d4b7b2795eb2ff5f341a904e80e08",
+              "width": 1400,
+              "height": 993,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LPGQ.G6Ua82vGTHpFd8wlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e12d4b7b2795eb2ff5f341a904e80e08",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/01/what-morgan-stanley-buy-ai-infrastructure/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/heres-morgan-stanley-says-buying-161800106.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e7d7d87f-382f-3ace-b311-a220821c43d8",
+      "content": {
+        "id": "e7d7d87f-382f-3ace-b311-a220821c43d8",
+        "contentType": "STORY",
+        "title": "Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?",
+        "description": "",
+        "summary": "Billionaire Chase Coleman just stacked Tiger Global's top five positions directly on the AI infrastructure supercycle, and every single pick still shows double-digit upside potential heading into August. The question is whether the window to get in front of the next earnings wave is already closing.",
+        "pubDate": "2026-08-01T14:30:36Z",
+        "displayTime": "2026-08-01T14:30:36Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
+          "originalWidth": 1500,
+          "originalHeight": 1000,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/SR9S_alf9hbAcW7FiKbCcg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
+              "width": 1500,
+              "height": 1000,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OkquM2zlCFLylfKLgddt3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/01/should-you-buy-billionaire-investor-chase-colemans-top-5-growth-stocks-in-august/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-billionaire-investor-chase-coleman-143036832.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "dd198184-000b-3c68-838b-32e26ee8b43a",
+      "content": {
+        "id": "dd198184-000b-3c68-838b-32e26ee8b43a",
+        "contentType": "STORY",
+        "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
+        "description": "",
+        "summary": "(Bloomberg) -- Equity investors are learning a harsh lesson this corporate earnings season: Not all artificial intelligence trades are created equal.Most Read from BloombergSingapore's Gated Island for the Rich Is Marred by Decayed HomesMoonshot’s Kimi Uses 20,000 Nvidia Chip Cluster From AlibabaTrump Orders Iran Attack as Soon as This Weekend, WSJ SaysAnthropic AI Models Hacked Three Organizations During TestsVitol, Cargill Cut Ties With Radiant World Amid Fake Invoice ConcernsWhile profits at",
+        "pubDate": "2026-08-01T12:00:00Z",
+        "displayTime": "2026-08-01T12:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-isn-t-catch-trade-120000618.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-isn-t-catch-trade-120000618.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "301bc271-14b4-3cca-9d85-9053207c527b",
+      "content": {
+        "id": "301bc271-14b4-3cca-9d85-9053207c527b",
+        "contentType": "STORY",
+        "title": "Miivo AI launches customer insights platform - ICYMI",
+        "description": "",
+        "summary": "Miivo AI (TSX-V:MIVO) CEO Alex Damouni talked with Proactive about the company's new Customer Insights Platform and how it supports small and medium-sized businesses by improving customer engagement through AI-powered automation. Proactive: Welcome back inside our Proactive newsroom. Joining...",
+        "pubDate": "2026-08-01T12:00:00Z",
+        "displayTime": "2026-08-01T12:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/proactive_us_504/58933e3bae1db47d834e5767cd93440d",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "Miivo AI launches customer insights platform - ICYMI",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NTtQ.pzZ489zW8nStmRdcQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/proactive_us_504/58933e3bae1db47d834e5767cd93440d",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/FXkrIgsphMCrFD4HcvNc3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/58933e3bae1db47d834e5767cd93440d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Proactive",
+          "url": "https://www.proactiveinvestors.com/",
+          "sourceId": "proactive_us_504"
+        },
+        "canonicalUrl": {
+          "url": "https://www.proactiveinvestors.com/companies/news/1096386/miivo-ai-launches-customer-insights-platform-icymi-1096386.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/small-business/articles/miivo-ai-launches-customer-insights-120000307.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b24c7cf3-e21c-301f-8df2-c23cb754d23f",
+      "content": {
+        "id": "b24c7cf3-e21c-301f-8df2-c23cb754d23f",
+        "contentType": "STORY",
+        "title": "Why Google, Microsoft, And Meta Are Building In West Texas? According To Galaxy Digital Executive",
+        "description": "",
+        "summary": "Galaxy has already repurposed its Helios site from Bitcoin mining to AI infrastructure, with the first 200 MW of an 800 MW deal being delivered to CoreWeave.",
+        "pubDate": "2026-08-01T10:42:32Z",
+        "displayTime": "2026-08-01T10:42:32Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/ace0aca037921d34e1b41c807738638f",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/I_h7P8KssOb_ztDGX4AHSA--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/ace0aca037921d34e1b41c807738638f",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/K2ViqdB6hr4bD84KHZ751A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/ace0aca037921d34e1b41c807738638f",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Stocktwits",
+          "url": "Stocktwits",
+          "sourceId": "stocktwits_383"
+        },
+        "canonicalUrl": {
+          "url": "https://stocktwits.com/news-articles/markets/equity/google-microsoft-meta-west-texas-galaxy-digital/cZ8xvbPRJ5e",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-google-microsoft-meta-building-104232951.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e29b02e1-93ce-3793-b8df-7336f2ae85dd",
+      "content": {
+        "id": "e29b02e1-93ce-3793-b8df-7336f2ae85dd",
+        "contentType": "STORY",
+        "title": "Wall Street Thinks It Knows How Tech Giants Will Make AI Pay",
+        "description": "",
+        "summary": "Investors are coming around to the idea that Big Tech spending on AI can make sense—as long as there is a cloud-computing business involved.",
+        "pubDate": "2026-08-01T09:30:00Z",
+        "displayTime": "2026-08-01T09:30:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/e55c9baa-918b-3e70-a13c-6f67083daec7/amazon-and-apple-deliver-the.html",
+        "previewUrl": "https://finance.yahoo.com/m/e29b02e1-93ce-3793-b8df-7336f2ae85dd/wall-street-thinks-it-knows.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/d8d0b365729a5fb8dd9923706c94d566",
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/6e472993a8169ecf95ba5cb3f535c9e7",
           "originalWidth": 1280,
           "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2lLGHQBo5ee0s1nABU0XkQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d8d0b365729a5fb8dd9923706c94d566",
+              "url": "https://s.yimg.com/uu/api/res/1.2/JBuuLUs9Pp.G6nGzwfvd8Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/6e472993a8169ecf95ba5cb3f535c9e7",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9GVKkAd1wVHWkfvMif331w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d8d0b365729a5fb8dd9923706c94d566",
+              "url": "https://s.yimg.com/uu/api/res/1.2/pTP4.AeSWabBiwkm3awz3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/6e472993a8169ecf95ba5cb3f535c9e7",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2096,7 +2211,7 @@
           "sourceId": "wsj.com"
         },
         "canonicalUrl": {
-          "url": "https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.wsj.com/tech/ai/wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay-96f76438?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2115,250 +2230,55 @@
       }
     },
     {
-      "id": "c7088c5b-b522-3124-b711-72c511e1146a",
+      "id": "8ebe53b6-761f-3831-adc5-520591d0f9f6",
       "content": {
-        "id": "c7088c5b-b522-3124-b711-72c511e1146a",
+        "id": "8ebe53b6-761f-3831-adc5-520591d0f9f6",
         "contentType": "STORY",
-        "title": "Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today’s Market",
+        "title": "Capital Power Q2 Earnings Call Highlights",
         "description": "",
-        "summary": "FEATURE  It shaped up to be a positive end to a bad month for stocks. The tech rebound continued, even as a big decline from Apple weighed on the major indexes.  Amazon gained 15% after second-quarter earnings and revenue comfortably beat expectations.",
-        "pubDate": "2026-07-31T21:06:00Z",
-        "displayTime": "2026-07-31T21:06:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/c7088c5b-b522-3124-b711-72c511e1146a/amazon-apple-microsoft-.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/2eef8481b71804d704a5581f3665b1a2",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/glgjfF8eqwaW5R2ZYEU.tA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2eef8481b71804d704a5581f3665b1a2",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hIKedwRz9pEmoC2QPseH.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2eef8481b71804d704a5581f3665b1a2",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/stock-movers-e7d1ed18?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "59d9b868-b4a7-3c71-a11d-26bc1b354d90",
-      "content": {
-        "id": "59d9b868-b4a7-3c71-a11d-26bc1b354d90",
-        "contentType": "STORY",
-        "title": "Winners and Losers in Tech Stocks This Week",
-        "description": "",
-        "summary": "Over the past two days, four of the trillion-dollar tech giants have reported earnings. Each day, there's been one clear winner and one clear loser. Today, Amazon stock was the winner while Apple shares fell.",
-        "pubDate": "2026-07-31T20:51:04Z",
-        "displayTime": "2026-07-31T20:51:04Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/59d9b868-b4a7-3c71-a11d-26bc1b354d90/winners-and-losers-in-tech.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/2f65765fa892bb99499c52b9a86d5e81",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ikE9zZFBk3oeuDYfk5Wohg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/2f65765fa892bb99499c52b9a86d5e81",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wigv0d7Ky1wbRULZjKZtxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/2f65765fa892bb99499c52b9a86d5e81",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2026/card/winners-and-losers-in-tech-stocks-this-week-KdVigj0wqusyZzG2wNIR?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "eddfe5d7-7a94-391b-ab88-3dd59ac43876",
-      "content": {
-        "id": "eddfe5d7-7a94-391b-ab88-3dd59ac43876",
-        "contentType": "STORY",
-        "title": "Research Firm Says Big Tech Earnings Just Flipped Valuation Risk",
-        "description": "",
-        "summary": "Profit growth is finally catching up with market dominance",
-        "pubDate": "2026-07-31T19:55:52Z",
-        "displayTime": "2026-07-31T19:55:52Z",
+        "summary": "Capital Power (TSE:CPX) said its second-quarter results reflected higher generation, contributions from its expanded PJM platform and continued commercial optimization, while management raised its estimate of annual adjusted EBITDA upside embedded in its existing portfolio to approximately C$1.25 bi",
+        "pubDate": "2026-08-01T09:03:46Z",
+        "displayTime": "2026-08-01T09:03:46Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/2a3dfc6d2328b802ec10305b658f8909",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "Capital Power logo",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/RhKjFJFf.JH93fliBCBwyg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/2a3dfc6d2328b802ec10305b658f8909",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XjOXVs_LP7XOhFPxRSIFTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/2a3dfc6d2328b802ec10305b658f8909",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
         "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
+          "displayName": "MarketBeat",
+          "url": "https://www.marketbeat.com/",
+          "sourceId": "marketbeat_955"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/research-firm-says-big-tech-195552438.html",
+          "url": "https://www.marketbeat.com/instant-alerts/capital-power-q2-earnings-call-highlights-2026-08-01/?utm_source=yahoofinance&utm_medium=yahoofinance",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/research-firm-says-big-tech-195552438.html",
+          "url": "https://finance.yahoo.com/energy/articles/capital-power-q2-earnings-call-090346806.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "816fc83e-a7d2-34e9-8d7e-e4574600272e",
-      "content": {
-        "id": "816fc83e-a7d2-34e9-8d7e-e4574600272e",
-        "contentType": "STORY",
-        "title": "Meta Stock Rebounds as Amazon Revives AI Confidence",
-        "description": "",
-        "summary": "Amazon's accelerating cloud business encouraged investors to reconsider whether large AI investments can generate sufficient revenue.",
-        "pubDate": "2026-07-31T19:39:16Z",
-        "displayTime": "2026-07-31T19:39:16Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rebounds-amazon-revives-193916486.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rebounds-amazon-revives-193916486.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e95ae3b8-3603-3be1-a346-e45d2290aa27",
-      "content": {
-        "id": "e95ae3b8-3603-3be1-a346-e45d2290aa27",
-        "contentType": "STORY",
-        "title": "5 Lessons From an Exhausting Week in Tech. And 2 Big Winners.",
-        "description": "",
-        "summary": "Earnings from Microsoft and Amazon offered hope that the AI trade remains very much alive. Plus, good news for software.",
-        "pubDate": "2026-07-31T19:28:00Z",
-        "displayTime": "2026-07-31T19:28:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/e95ae3b8-3603-3be1-a346-e45d2290aa27/5-lessons-from-an-exhausting.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/f70ccb37fff293f9e15fc2122cb08441",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YXUwK_AgiMzwaMO_2L6KdQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f70ccb37fff293f9e15fc2122cb08441",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uoKbYdFldx0mnEx.2hFySg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/f70ccb37fff293f9e15fc2122cb08441",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/amazon-microsoft-apple-stock-price-earnings-cdc55c8a?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
