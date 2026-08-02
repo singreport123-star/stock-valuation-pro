@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-01T22:46:41.839484",
+    "ts": "2026-08-02T22:48:25.840278",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -151,9 +151,9 @@
     "payoutRatio": 0.0791,
     "beta": 1.246,
     "trailingPE": 20.960468,
-    "forwardPE": 15.656394,
-    "volume": 24155637,
-    "regularMarketVolume": 24155637,
+    "forwardPE": 15.754086,
+    "volume": 24261457,
+    "regularMarketVolume": 24261457,
     "averageVolume": 18122133,
     "averageVolume10days": 16943330,
     "averageDailyVolume10Day": 16943330,
@@ -176,7 +176,7 @@
     "tradeable": false,
     "enterpriseValue": 1440280215552,
     "profitMargins": 0.29834998,
-    "floatShares": 2200535877,
+    "floatShares": 2201809630,
     "sharesOutstanding": 2205128509,
     "sharesShort": 37847633,
     "sharesShortPriorMonth": 29985155,
@@ -196,8 +196,8 @@
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
     "trailingEps": 26.56,
-    "forwardEps": 35.558,
-    "pegRatio": 0.85,
+    "forwardEps": 35.3375,
+    "pegRatio": 0.83,
     "enterpriseToRevenue": 6.31,
     "enterpriseToEbitda": 13.135,
     "52WeekChange": -0.2829321,
@@ -208,8 +208,8 @@
     "currentPrice": 556.71,
     "targetHighPrice": 1000.0,
     "targetLowPrice": 580.0,
-    "targetMeanPrice": 778.68036,
-    "targetMedianPrice": 780.0,
+    "targetMeanPrice": 768.58105,
+    "targetMedianPrice": 775.0,
     "recommendationMean": 1.35484,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 57,
@@ -240,9 +240,6 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "corporateActions": [],
-    "postMarketTime": 1785542393,
-    "regularMarketTime": 1785528001,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -250,34 +247,12 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 3.27996,
+    "regularMarketChangePercent": 3.2799642,
     "regularMarketPrice": 556.71,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "earningsCallTimestampStart": 1785357000,
-    "earningsCallTimestampEnd": 1785357000,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.56,
-    "epsForward": 35.558,
-    "epsCurrentYear": 30.63333,
-    "priceEpsCurrentYear": 18.173344,
-    "fiftyDayAverageChange": -45.474182,
-    "fiftyDayAverageChangePercent": -0.075515404,
-    "twoHundredDayAverageChange": -77.77716,
-    "twoHundredDayAverageChangePercent": -0.12258271,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-01",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
     "postMarketChangePercent": -0.50475067,
     "postMarketPrice": 553.9,
     "postMarketChange": -2.8099976,
-    "regularMarketChange": 17.68,
+    "regularMarketChange": 17.679993,
     "regularMarketDayRange": "540.24 - 558.33",
     "fullExchangeName": "NasdaqGS",
     "averageDailyVolume3Month": 18122133,
@@ -291,7 +266,32 @@
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
     "earningsTimestampEnd": 1793217600,
+    "earningsCallTimestampStart": 1785357000,
+    "earningsCallTimestampEnd": 1785357000,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 26.56,
+    "epsForward": 35.3375,
+    "epsCurrentYear": 30.93077,
+    "priceEpsCurrentYear": 17.998583,
+    "fiftyDayAverageChange": -45.474182,
+    "fiftyDayAverageChangePercent": -0.075515404,
+    "twoHundredDayAverageChange": -77.77716,
+    "twoHundredDayAverageChangePercent": -0.12258271,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-08-02",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
     "marketState": "CLOSED",
+    "corporateActions": [],
+    "postMarketTime": 1785542393,
+    "regularMarketTime": 1785528001,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8311
   },
@@ -1670,14 +1670,6 @@
         "hold": 7,
         "sell": 0,
         "strongSell": 0
-      },
-      "3": {
-        "period": "-3m",
-        "strongBuy": 9,
-        "buy": 47,
-        "hold": 7,
-        "sell": 0,
-        "strongSell": 0
       }
     },
     "calendar": {
@@ -1686,104 +1678,42 @@
       "Earnings Date": [
         "2026-10-28"
       ],
-      "Earnings High": 7.35,
-      "Earnings Low": 6.49,
-      "Earnings Average": 6.96667,
-      "Revenue High": 64382000000,
+      "Earnings High": 7.64,
+      "Earnings Low": 6.31,
+      "Earnings Average": 6.99,
+      "Revenue High": 65278000000,
       "Revenue Low": 61702000000,
-      "Revenue Average": 63261416510
+      "Revenue Average": 63266420060
     }
   },
   "news": [
     {
-      "id": "a3272765-5f08-3002-a033-326b8ab193a9",
+      "id": "f2d921c7-87b4-45e9-99d1-2e049178bb51",
       "content": {
-        "id": "a3272765-5f08-3002-a033-326b8ab193a9",
+        "id": "f2d921c7-87b4-45e9-99d1-2e049178bb51",
         "contentType": "STORY",
-        "title": "Bernie Sanders Mocks Meta CEO Mark Zuckerberg Over Potential $10.5 Billion Tax Bill in California: 'How Will He Survive?'",
+        "title": "The tech stock dumpster fire should remind you of this important investing lesson",
         "description": "",
-        "summary": "Sen. Bernie Sanders (I-Vt.) on Thursday said Meta Platforms Inc. CEO Mark Zuckerberg could owe about $10.5 billion if California voters approve a proposed 5% billionaire wealth tax in November, saying the revenue could help preserve healthcare for 3 million...",
-        "pubDate": "2026-08-01T21:30:19Z",
-        "displayTime": "2026-08-01T21:30:19Z",
+        "summary": "Nothing wrong with a comeback story.",
+        "pubDate": "2026-08-02T12:30:00Z",
+        "displayTime": "2026-08-02T12:30:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/862079edf9bf22b0b4748aa658a0c15e",
-          "originalWidth": 1000,
-          "originalHeight": 720,
-          "caption": "Bernie Sanders Mocks Meta CEO Mark Zuckerberg Over Potential $10.5 Billion Tax Bill in California: 'How Will He Survive?'",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/cX3Fd1boDSDW7MAXNYJLtQ--~B/aD03MjA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/862079edf9bf22b0b4748aa658a0c15e",
-              "width": 1000,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/B1fmuM6CrvTpEsl0aS_sQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/862079edf9bf22b0b4748aa658a0c15e",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-mocks-meta-ceo-213019729.html",
-          "site": "news",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-mocks-meta-ceo-213019729.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "1f2e6d27-dcf8-3365-90ae-09eca95c0aa5",
-      "content": {
-        "id": "1f2e6d27-dcf8-3365-90ae-09eca95c0aa5",
-        "contentType": "STORY",
-        "title": "Will Profitability Gains, Buybacks and Meta Tie-Up Change Lightspeed Commerce's (TSX:LSPD) Narrative",
-        "description": "",
-        "summary": "Lightspeed Commerce Inc. reported its first-quarter 2027 results in late July, with revenue of US$322.7 million and net loss narrowing to US$2.42 million, while confirming revenue guidance for the September quarter and full fiscal year and completing a US$65.13 million buyback of 6,973,406 shares. A key development was the launch of the Lightspeed with Meta Conversions API integration for Lightspeed Retail, aiming to give brick-and-mortar merchants clearer insight into how Meta ads drive...",
-        "pubDate": "2026-08-01T18:09:35Z",
-        "displayTime": "2026-08-01T18:09:35Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
-          "originalWidth": 1194,
-          "originalHeight": 432,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/UpCFh_R3t0VeQoh2uX_loA--~B/aD0yNjE2O3c9MzkyNDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/aa83c5e4-524c-4551-873c-f930814afc46",
+          "originalWidth": 3924,
+          "originalHeight": 2616,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/gnGTQ_q9KCdl7Xvx_ppB0g--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
-              "width": 1194,
-              "height": 432,
+              "url": "https://s.yimg.com/uu/api/res/1.2/UpCFh_R3t0VeQoh2uX_loA--~B/aD0yNjE2O3c9MzkyNDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/aa83c5e4-524c-4551-873c-f930814afc46",
+              "width": 3924,
+              "height": 2616,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+              "url": "https://s.yimg.com/uu/api/res/1.2/MJ28W483C3UdUuGdV.BxqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/aa83c5e4-524c-4551-873c-f930814afc46",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1791,24 +1721,24 @@
           ]
         },
         "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/profitability-gains-buybacks-meta-tie-180935109.html",
+          "url": "https://finance.yahoo.com/markets/article/the-tech-stock-dumpster-fire-should-remind-you-of-this-important-investing-lesson-123000193.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/profitability-gains-buybacks-meta-tie-180935109.html",
+          "url": "https://finance.yahoo.com/markets/article/the-tech-stock-dumpster-fire-should-remind-you-of-this-important-investing-lesson-123000193.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": false
+          "editorsPick": true
         },
         "finance": {
           "premiumFinance": {
@@ -1820,94 +1750,32 @@
       }
     },
     {
-      "id": "fc9a12ca-fbcf-3b35-9e55-3440906c2e97",
+      "id": "8bc4a9fc-8497-36cd-9ff2-1dc399cb6e2f",
       "content": {
-        "id": "fc9a12ca-fbcf-3b35-9e55-3440906c2e97",
+        "id": "8bc4a9fc-8497-36cd-9ff2-1dc399cb6e2f",
         "contentType": "STORY",
-        "title": "Meta Is Paying Workers to Learn a Trade. For Someone Near 60, the Real Prize May Be Delaying Social Security.",
+        "title": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
         "description": "",
-        "summary": "Meta's free trades program promises laid-off workers a guaranteed job offer, but for someone closing in on 60, the most valuable thing those wages could buy has nothing to do with the work itself.",
-        "pubDate": "2026-08-01T18:02:39Z",
-        "displayTime": "2026-08-01T18:02:39Z",
+        "summary": "The IPO stock was fast-tracked into the tech index on July 7.",
+        "pubDate": "2026-08-02T21:39:00Z",
+        "displayTime": "2026-08-02T21:39:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/cd7ccd2b0215612751830210f7ecc6be",
-          "originalWidth": 1500,
-          "originalHeight": 1000,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/7b4e1cd423cc6162292edb23490b24d9",
+          "originalWidth": 1200,
+          "originalHeight": 633,
+          "caption": "An astronaut in a space suit.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nDI00KjR9eVf.OTZmB6DYw--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/cd7ccd2b0215612751830210f7ecc6be",
-              "width": 1500,
-              "height": 1000,
+              "url": "https://s.yimg.com/uu/api/res/1.2/5To7WFsLhm6KWRGaUrUnHQ--~B/aD02MzM7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7b4e1cd423cc6162292edb23490b24d9",
+              "width": 1200,
+              "height": 633,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zEImsZ9gboVORGWJWXUXug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cd7ccd2b0215612751830210f7ecc6be",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/personal-finance/social-security/2026/08/01/meta-is-paying-workers-to-learn-a-trade-for-someone-near-60-the-real-prize-may-be-delaying-social-security/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/small-business/articles/meta-paying-workers-learn-trade-180239159.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "bdbc34c5-c282-3c5d-bde0-c73065e91c1a",
-      "content": {
-        "id": "bdbc34c5-c282-3c5d-bde0-c73065e91c1a",
-        "contentType": "STORY",
-        "title": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip",
-        "description": "",
-        "summary": "Morgan Stanley says that despite doubts about AI spending, there remains a major opportunity for investors.",
-        "pubDate": "2026-08-01T16:18:00Z",
-        "displayTime": "2026-08-01T16:18:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/e12d4b7b2795eb2ff5f341a904e80e08",
-          "originalWidth": 1400,
-          "originalHeight": 993,
-          "caption": "The letters A and I in a hurricane.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/sdy9Wnh9A31753ZieB2wjA--~B/aD05OTM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e12d4b7b2795eb2ff5f341a904e80e08",
-              "width": 1400,
-              "height": 993,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/LPGQ.G6Ua82vGTHpFd8wlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e12d4b7b2795eb2ff5f341a904e80e08",
+              "url": "https://s.yimg.com/uu/api/res/1.2/tnalkrr69jPKxhRAi5DPaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7b4e1cd423cc6162292edb23490b24d9",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1920,13 +1788,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/01/what-morgan-stanley-buy-ai-infrastructure/",
+          "url": "https://www.fool.com/investing/2026/08/02/spacex-vs-the-magnificent-seven-how-the-new-nasdaq/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/heres-morgan-stanley-says-buying-161800106.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-magnificent-seven-nasdaq-213900951.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1944,32 +1812,261 @@
       }
     },
     {
-      "id": "e7d7d87f-382f-3ace-b311-a220821c43d8",
+      "id": "f7c2e09b-4089-3ebb-af6f-bf19430bebd6",
       "content": {
-        "id": "e7d7d87f-382f-3ace-b311-a220821c43d8",
+        "id": "f7c2e09b-4089-3ebb-af6f-bf19430bebd6",
         "contentType": "STORY",
-        "title": "Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?",
+        "title": "Is Meta Platforms Stock a Buy on the Dip as Revenue Surges?",
         "description": "",
-        "summary": "Billionaire Chase Coleman just stacked Tiger Global's top five positions directly on the AI infrastructure supercycle, and every single pick still shows double-digit upside potential heading into August. The question is whether the window to get in front of the next earnings wave is already closing.",
-        "pubDate": "2026-08-01T14:30:36Z",
-        "displayTime": "2026-08-01T14:30:36Z",
+        "summary": "Meta's quarterly results were much better than some reports would have you believe.",
+        "pubDate": "2026-08-02T21:20:00Z",
+        "displayTime": "2026-08-02T21:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
-          "originalWidth": 1500,
-          "originalHeight": 1000,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/bab0c0a64f05cd8cf75f49d9b2337e43",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "Meta logo.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SR9S_alf9hbAcW7FiKbCcg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
-              "width": 1500,
-              "height": 1000,
+              "url": "https://s.yimg.com/uu/api/res/1.2/iclIXPyrcbd0t9nRjSp4bw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bab0c0a64f05cd8cf75f49d9b2337e43",
+              "width": 1200,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OkquM2zlCFLylfKLgddt3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
+              "url": "https://s.yimg.com/uu/api/res/1.2/n8syhaBouO3t1GFbw6SVVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bab0c0a64f05cd8cf75f49d9b2337e43",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/02/is-meta-platforms-stock-a-buy-on-dip-as-revenue/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stock-buy-dip-212000574.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9bb71c31-90c0-3be1-899d-aa72648b201d",
+      "content": {
+        "id": "9bb71c31-90c0-3be1-899d-aa72648b201d",
+        "contentType": "STORY",
+        "title": "Big Tech’s $2 trillion AI shakeout just changed everything",
+        "description": "",
+        "summary": "Wall Street just drove a harsh line through the artificial intelligence trade. Amazon (AMZN), Microsoft (MSFT) and Alphabet (GOOGL)added nearly $1.5 trillion in combined market value during earnings week, according to CNBC. Microsoft gained more than $600 billion, while Amazon and Alphabet each ...",
+        "pubDate": "2026-08-02T18:33:00Z",
+        "displayTime": "2026-08-02T18:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/8a41ec0d674670f228af738e897836b3",
+          "originalWidth": 3840,
+          "originalHeight": 2948,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/OCDKCTffQd25gG3HCpwI5w--~B/aD0yOTQ4O3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/8a41ec0d674670f228af738e897836b3",
+              "width": 3840,
+              "height": 2948,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8O5B2SqMj84Sbz..pp0B_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8a41ec0d674670f228af738e897836b3",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/big-techs-2-trillion-ai-shakeout-just-changed-everything",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-2-trillion-ai-183300493.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "930ee4a3-86d6-3f0c-be7c-8c97c8460934",
+      "content": {
+        "id": "930ee4a3-86d6-3f0c-be7c-8c97c8460934",
+        "contentType": "STORY",
+        "title": "Is ARK Trimming Bitmine Immersion Technologies (BMNR) Redefining the Ethereum Treasury Playbook?",
+        "description": "",
+        "summary": "In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...",
+        "pubDate": "2026-08-02T18:08:40Z",
+        "displayTime": "2026-08-02T18:08:40Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bVME5zY4X.madJsOrjI1Fg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WSEIooIySC0v8cwU.bfMaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "951c8c32-f1a5-3ef8-b9e3-2def78172328",
+      "content": {
+        "id": "951c8c32-f1a5-3ef8-b9e3-2def78172328",
+        "contentType": "STORY",
+        "title": "Meta’s Per-Token Pricing Shifts the Frontier From Human Headcount to AI Output",
+        "description": "",
+        "summary": "On August 1, 2026, Meta Business Agent will transition from a free testing phase to a commercial model priced at $2.00 per million tokens. This is not merely a change in billing; it is a structural signal that the pricing frontier for agentic commerce is shifting from human headcount to AI output volume. For years, […]",
+        "pubDate": "2026-08-02T16:20:46Z",
+        "displayTime": "2026-08-02T16:20:46Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Forkast News",
+          "url": "https://forkast.news/",
+          "sourceId": "forkast_news_articles_672"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-per-token-pricing-shifts-162046992.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-per-token-pricing-shifts-162046992.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e73f5db4-7f3a-369e-9702-1f0a50872ad1",
+      "content": {
+        "id": "e73f5db4-7f3a-369e-9702-1f0a50872ad1",
+        "contentType": "STORY",
+        "title": "An Analyst Just Called Meta a Top Large-Cap Buy. Here’s Why We Agree.",
+        "description": "",
+        "summary": "Meta just got crushed on a quarter where ad revenue grew nearly 28% year over year, and the gap between that selloff and the stock's actual fundamentals is creating one of the more compelling setups in large-cap tech right now.",
+        "pubDate": "2026-08-02T15:00:00Z",
+        "displayTime": "2026-08-02T15:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/bbd14952ea6e727e22d849b48f997afe",
+          "originalWidth": 1500,
+          "originalHeight": 927,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gvHUr25R_TjQagXwE8oH8g--~B/aD05Mjc7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/bbd14952ea6e727e22d849b48f997afe",
+              "width": 1500,
+              "height": 927,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pnYpCwDV.cPsbSnPvrAdvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bbd14952ea6e727e22d849b48f997afe",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1982,13 +2079,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/01/should-you-buy-billionaire-investor-chase-colemans-top-5-growth-stocks-in-august/",
+          "url": "https://247wallst.com/investing/2026/08/02/an-analyst-just-called-meta-a-top-large-cap-buy-heres-why-we-agree/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-billionaire-investor-chase-coleman-143036832.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-called-meta-top-150000569.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2006,75 +2103,32 @@
       }
     },
     {
-      "id": "dd198184-000b-3c68-838b-32e26ee8b43a",
+      "id": "035589f1-1383-3d27-bcf5-df8a47ad7fd4",
       "content": {
-        "id": "dd198184-000b-3c68-838b-32e26ee8b43a",
+        "id": "035589f1-1383-3d27-bcf5-df8a47ad7fd4",
         "contentType": "STORY",
-        "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
+        "title": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
         "description": "",
-        "summary": "(Bloomberg) -- Equity investors are learning a harsh lesson this corporate earnings season: Not all artificial intelligence trades are created equal.Most Read from BloombergSingapore's Gated Island for the Rich Is Marred by Decayed HomesMoonshot’s Kimi Uses 20,000 Nvidia Chip Cluster From AlibabaTrump Orders Iran Attack as Soon as This Weekend, WSJ SaysAnthropic AI Models Hacked Three Organizations During TestsVitol, Cargill Cut Ties With Radiant World Amid Fake Invoice ConcernsWhile profits at",
-        "pubDate": "2026-08-01T12:00:00Z",
-        "displayTime": "2026-08-01T12:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-isn-t-catch-trade-120000618.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-isn-t-catch-trade-120000618.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "301bc271-14b4-3cca-9d85-9053207c527b",
-      "content": {
-        "id": "301bc271-14b4-3cca-9d85-9053207c527b",
-        "contentType": "STORY",
-        "title": "Miivo AI launches customer insights platform - ICYMI",
-        "description": "",
-        "summary": "Miivo AI (TSX-V:MIVO) CEO Alex Damouni talked with Proactive about the company's new Customer Insights Platform and how it supports small and medium-sized businesses by improving customer engagement through AI-powered automation. Proactive: Welcome back inside our Proactive newsroom. Joining...",
-        "pubDate": "2026-08-01T12:00:00Z",
-        "displayTime": "2026-08-01T12:00:00Z",
+        "summary": "CoreWeave partnered with Leidos to provide AI cloud services for federal agencies.",
+        "pubDate": "2026-08-02T14:12:39Z",
+        "displayTime": "2026-08-02T14:12:39Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/proactive_us_504/58933e3bae1db47d834e5767cd93440d",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "Miivo AI launches customer insights platform - ICYMI",
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/de3c56ef59782b3aa873c0db6aa67f6c",
+          "originalWidth": 1600,
+          "originalHeight": 944,
+          "caption": "Businessman trading stock market on teblet screen by Nespix via iStock",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NTtQ.pzZ489zW8nStmRdcQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/proactive_us_504/58933e3bae1db47d834e5767cd93440d",
-              "width": 1280,
-              "height": 720,
+              "url": "https://s.yimg.com/uu/api/res/1.2/xC7EBWEHFEA87HFuGwVcXQ--~B/aD05NDQ7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/de3c56ef59782b3aa873c0db6aa67f6c",
+              "width": 1600,
+              "height": 944,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/FXkrIgsphMCrFD4HcvNc3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/58933e3bae1db47d834e5767cd93440d",
+              "url": "https://s.yimg.com/uu/api/res/1.2/.SjH7AGpOAminhi.BGAw2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/de3c56ef59782b3aa873c0db6aa67f6c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2082,18 +2136,18 @@
           ]
         },
         "provider": {
-          "displayName": "Proactive",
-          "url": "https://www.proactiveinvestors.com/",
-          "sourceId": "proactive_us_504"
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
         },
         "canonicalUrl": {
-          "url": "https://www.proactiveinvestors.com/companies/news/1096386/miivo-ai-launches-customer-insights-platform-icymi-1096386.html",
+          "url": "https://www.barchart.com/story/news/3602297/coreweave-just-scored-a-leidos-partnership-what-that-means-for-crwv-stock-here",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/small-business/articles/miivo-ai-launches-customer-insights-120000307.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-just-scored-leidos-partnership-141239028.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2111,151 +2165,32 @@
       }
     },
     {
-      "id": "b24c7cf3-e21c-301f-8df2-c23cb754d23f",
+      "id": "95d1de7e-42d5-36e4-bb5a-d9d5cef4851a",
       "content": {
-        "id": "b24c7cf3-e21c-301f-8df2-c23cb754d23f",
+        "id": "95d1de7e-42d5-36e4-bb5a-d9d5cef4851a",
         "contentType": "STORY",
-        "title": "Why Google, Microsoft, And Meta Are Building In West Texas? According To Galaxy Digital Executive",
+        "title": "Microsoft vs. Meta Platforms: Which Is the Better Magnificent Seven Stock to Buy Right Now?",
         "description": "",
-        "summary": "Galaxy has already repurposed its Helios site from Bitcoin mining to AI infrastructure, with the first 200 MW of an 800 MW deal being delivered to CoreWeave.",
-        "pubDate": "2026-08-01T10:42:32Z",
-        "displayTime": "2026-08-01T10:42:32Z",
+        "summary": "Investors looking to add one of these tech giants to their portfolios have an easy decision to make.",
+        "pubDate": "2026-08-02T13:43:00Z",
+        "displayTime": "2026-08-02T13:43:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/ace0aca037921d34e1b41c807738638f",
-          "originalWidth": 1280,
-          "originalHeight": 853,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/I_h7P8KssOb_ztDGX4AHSA--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/ace0aca037921d34e1b41c807738638f",
-              "width": 1280,
-              "height": 853,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/K2ViqdB6hr4bD84KHZ751A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/ace0aca037921d34e1b41c807738638f",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Stocktwits",
-          "url": "Stocktwits",
-          "sourceId": "stocktwits_383"
-        },
-        "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/google-microsoft-meta-west-texas-galaxy-digital/cZ8xvbPRJ5e",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-google-microsoft-meta-building-104232951.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e29b02e1-93ce-3793-b8df-7336f2ae85dd",
-      "content": {
-        "id": "e29b02e1-93ce-3793-b8df-7336f2ae85dd",
-        "contentType": "STORY",
-        "title": "Wall Street Thinks It Knows How Tech Giants Will Make AI Pay",
-        "description": "",
-        "summary": "Investors are coming around to the idea that Big Tech spending on AI can make sense—as long as there is a cloud-computing business involved.",
-        "pubDate": "2026-08-01T09:30:00Z",
-        "displayTime": "2026-08-01T09:30:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/e29b02e1-93ce-3793-b8df-7336f2ae85dd/wall-street-thinks-it-knows.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/6e472993a8169ecf95ba5cb3f535c9e7",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JBuuLUs9Pp.G6nGzwfvd8Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/6e472993a8169ecf95ba5cb3f535c9e7",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pTP4.AeSWabBiwkm3awz3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/6e472993a8169ecf95ba5cb3f535c9e7",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.wsj.com/tech/ai/wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay-96f76438?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8ebe53b6-761f-3831-adc5-520591d0f9f6",
-      "content": {
-        "id": "8ebe53b6-761f-3831-adc5-520591d0f9f6",
-        "contentType": "STORY",
-        "title": "Capital Power Q2 Earnings Call Highlights",
-        "description": "",
-        "summary": "Capital Power (TSE:CPX) said its second-quarter results reflected higher generation, contributions from its expanded PJM platform and continued commercial optimization, while management raised its estimate of annual adjusted EBITDA upside embedded in its existing portfolio to approximately C$1.25 bi",
-        "pubDate": "2026-08-01T09:03:46Z",
-        "displayTime": "2026-08-01T09:03:46Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/2a3dfc6d2328b802ec10305b658f8909",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4eaf6cf8b4ca441df355ac62c807cdc6",
           "originalWidth": 1200,
-          "originalHeight": 675,
-          "caption": "Capital Power logo",
+          "originalHeight": 800,
+          "caption": "Meta and Microsoft logos displayed side by side.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/RhKjFJFf.JH93fliBCBwyg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/2a3dfc6d2328b802ec10305b658f8909",
+              "url": "https://s.yimg.com/uu/api/res/1.2/zoysFbs.GxvXSIjwhi258g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4eaf6cf8b4ca441df355ac62c807cdc6",
               "width": 1200,
-              "height": 675,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XjOXVs_LP7XOhFPxRSIFTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/2a3dfc6d2328b802ec10305b658f8909",
+              "url": "https://s.yimg.com/uu/api/res/1.2/DG.b5dlze5lVPIz4whgLKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4eaf6cf8b4ca441df355ac62c807cdc6",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2263,18 +2198,80 @@
           ]
         },
         "provider": {
-          "displayName": "MarketBeat",
-          "url": "https://www.marketbeat.com/",
-          "sourceId": "marketbeat_955"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.marketbeat.com/instant-alerts/capital-power-q2-earnings-call-highlights-2026-08-01/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "url": "https://www.fool.com/investing/2026/08/02/microsoft-vs-meta-platforms-which-is-the-better-ma/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/capital-power-q2-earnings-call-090346806.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-meta-platforms-better-134300858.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6d5c1788-fdd1-30f9-a311-107c711d1b86",
+      "content": {
+        "id": "6d5c1788-fdd1-30f9-a311-107c711d1b86",
+        "contentType": "STORY",
+        "title": "Morgan Stanley spots four overlooked Meta profit engines",
+        "description": "",
+        "summary": "Meta Platforms reported its second-quarter earnings with one issue dominating investor attention: the soaring cost of its artificial-intelligence expansion. Meta is not alone. Amazon raised its expected 2026 capital spending to approximately $220 billion, while Microsoft expects to invest around ...",
+        "pubDate": "2026-08-02T13:33:00Z",
+        "displayTime": "2026-08-02T13:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/bef2856e3e4ef366e522b8946b81c348",
+          "originalWidth": 3840,
+          "originalHeight": 2555,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lvFQNNMxDKrEPymTtwRgIw--~B/aD0yNTU1O3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/bef2856e3e4ef366e522b8946b81c348",
+              "width": 3840,
+              "height": 2555,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Xxev4dqmFK1PJctHljYSnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/bef2856e3e4ef366e522b8946b81c348",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/morgan-stanley-four-meta-stock-ai-profit-engines",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-spots-four-overlooked-133300262.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
