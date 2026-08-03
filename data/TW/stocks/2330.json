@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-08-02T22:48:20.352019"
+    "ts": "2026-08-03T22:54:25.817203"
   },
   "financials": {
     "annual": {
@@ -24508,12 +24508,381 @@
         "buy": 7243889,
         "name": "Investment_Trust",
         "sell": 180000
+      },
+      {
+        "date": "2026-08-03",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-08-03",
+        "stock_id": "2330",
+        "buy": 130210,
+        "name": "Dealer_self",
+        "sell": 786110
+      },
+      {
+        "date": "2026-08-03",
+        "stock_id": "2330",
+        "buy": 207753,
+        "name": "Dealer_Hedging",
+        "sell": 1139253
+      },
+      {
+        "date": "2026-08-03",
+        "stock_id": "2330",
+        "buy": 16552046,
+        "name": "Foreign_Investor",
+        "sell": 26268993
+      },
+      {
+        "date": "2026-08-03",
+        "stock_id": "2330",
+        "buy": 549182,
+        "name": "Investment_Trust",
+        "sell": 161732
       }
     ],
     "margin_trading": [],
     "cb_transaction": []
   },
   "news": [
+    {
+      "id": "c0658692-a410-349f-8571-ea6fc8feaa4a",
+      "content": {
+        "id": "c0658692-a410-349f-8571-ea6fc8feaa4a",
+        "contentType": "STORY",
+        "title": "After Comparing Every AI ETF, These 3 Beat the Nasdaq Without Betting on a Single Stock",
+        "description": "",
+        "summary": "Most AI ETFs quietly repackage the same Nasdaq heavyweights and charge you extra for the privilege. A closer look at the full field reveals three funds that actually go somewhere the index cannot follow.",
+        "pubDate": "2026-08-03T17:06:39Z",
+        "displayTime": "2026-08-03T17:06:39Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/31d73006cd1383ae1aeedd91099afffd",
+          "originalWidth": 1500,
+          "originalHeight": 843,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tIdq9Uac8R4tsYuC.vHn8A--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/31d73006cd1383ae1aeedd91099afffd",
+              "width": 1500,
+              "height": 843,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mMJdaFFQLKCp1R3T2rkHhg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/31d73006cd1383ae1aeedd91099afffd",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/03/after-comparing-every-ai-etf-these-3-beat-the-nasdaq-without-betting-on-a-single-stock/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/comparing-every-ai-etf-3-170639618.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7ffd65eb-d384-3cb6-b5f5-3c7fd32ae146",
+      "content": {
+        "id": "7ffd65eb-d384-3cb6-b5f5-3c7fd32ae146",
+        "contentType": "STORY",
+        "title": "Cathie Wood Just Bet $26 Million on SpaceX Days Before Earnings",
+        "description": "",
+        "summary": "Cathie Wood Bets Big on SpaceX as She Adds Millions to Tesla and CoreWeave",
+        "pubDate": "2026-08-03T16:56:44Z",
+        "displayTime": "2026-08-03T16:56:44Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-bet-26-165644982.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-bet-26-165644982.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c6d96301-2270-3952-91ef-36568269a66e",
+      "content": {
+        "id": "c6d96301-2270-3952-91ef-36568269a66e",
+        "contentType": "STORY",
+        "title": "Cathie Wood Is Leaning Harder Into Her Highest-Conviction Themes",
+        "description": "",
+        "summary": "Ark bought about $26 million of SpaceX shares across several funds.",
+        "pubDate": "2026-08-03T16:23:45Z",
+        "displayTime": "2026-08-03T16:23:45Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-leaning-harder-her-162345430.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-leaning-harder-her-162345430.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "590c7192-6647-3d14-bf16-ce485c23f90c",
+      "content": {
+        "id": "590c7192-6647-3d14-bf16-ce485c23f90c",
+        "contentType": "STORY",
+        "title": "Buying Intel Over TSMC Isn’t as Crazy as It Might Seem",
+        "description": "",
+        "summary": "TSMC dominates on every traditional metric, yet one overlooked structural factor is quietly making its scrappier rival a more compelling bet for the next 24 months.",
+        "pubDate": "2026-08-03T16:06:51Z",
+        "displayTime": "2026-08-03T16:06:51Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f65ea3181dec7d15163c60674e3ffc45",
+          "originalWidth": 1500,
+          "originalHeight": 1500,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/egRIhpzSNMhMTw_Td6nadw--~B/aD0xNTAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/f65ea3181dec7d15163c60674e3ffc45",
+              "width": 1500,
+              "height": 1500,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ISv1BXkSB24p5Z_wvfJunA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f65ea3181dec7d15163c60674e3ffc45",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/03/buying-intel-over-tsmc-isnt-as-crazy-as-it-might-seem/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buying-intel-over-tsmc-isn-160651028.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5525a114-adce-3b89-a3d9-190d1a230f2f",
+      "content": {
+        "id": "5525a114-adce-3b89-a3d9-190d1a230f2f",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
+        "description": "",
+        "summary": "The chip foundry giant is back at a milestone valuation with a market-average multiple attached. That combination deserves a closer look.",
+        "pubDate": "2026-08-03T13:46:00Z",
+        "displayTime": "2026-08-03T13:46:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/9cc6544c495473695ba7c9daa4a97c57",
+          "originalWidth": 1400,
+          "originalHeight": 840,
+          "caption": "Fabrication of semiconductor chip.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2HeZLJSi81nwQDCawwIOzw--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9cc6544c495473695ba7c9daa4a97c57",
+              "width": 1400,
+              "height": 840,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/AeUD0FYyz0ROlboqMmQcxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9cc6544c495473695ba7c9daa4a97c57",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/03/taiwan-semiconductor-just-reclaimed-a-2-trillion-m/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-just-reclaimed-2-134600639.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "cb7a1a3d-1141-3719-b92e-7b54163450db",
+      "content": {
+        "id": "cb7a1a3d-1141-3719-b92e-7b54163450db",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM):  An Unmatched Technological Lead in Semiconductors",
+        "description": "",
+        "summary": "Fundsmith, an investment management firm based in London, has released its second-quarter 2026 investor letter for its “Fundsmith Equity Fund.” A copy of the letter can be downloaded here. The Fund returned -2.9% in the first half of 2026, underperforming the MSCI World Index by 14.1 percentage points, driven by challenges from a momentum-driven market […]",
+        "pubDate": "2026-08-03T11:52:24Z",
+        "displayTime": "2026-08-03T11:52:24Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+          "originalWidth": 768,
+          "originalHeight": 430,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tCOW6llD_6zKTOeDO62Lmw--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+              "width": 768,
+              "height": 430,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3YrBn2qkfInvbSvM95LGXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-115224595.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-115224595.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
     {
       "id": "2509faf2-207c-342e-a3c9-22334b02c3fa",
       "content": {
@@ -24761,354 +25130,6 @@
         },
         "storyline": null
       }
-    },
-    {
-      "id": "9335ced2-fbd8-389a-ba47-56c228d92fe0",
-      "content": {
-        "id": "9335ced2-fbd8-389a-ba47-56c228d92fe0",
-        "contentType": "STORY",
-        "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
-        "description": "",
-        "summary": "Taiwan Semiconductor Manufacturing Co. is reportedly developing an advanced packaging technology, which could erode Intel Corp.‘s competitive advantage. Intel’s stock is trading 4.62% higher in Friday’s pre-market trading session, while TSMC stock is trading 3.69% higher. Don’t Miss: A single...",
-        "pubDate": "2026-08-01T22:00:22Z",
-        "displayTime": "2026-08-01T22:00:22Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/1aef8f9ec0e38d88ecc393854b6845d6",
-          "originalWidth": 1000,
-          "originalHeight": 665,
-          "caption": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JzvXPUrE2CdCWVDRXi4EHA--~B/aD02NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/1aef8f9ec0e38d88ecc393854b6845d6",
-              "width": 1000,
-              "height": 665,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Jn_aufoDTw7zzLmDOlRszA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/1aef8f9ec0e38d88ecc393854b6845d6",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e7d7d87f-382f-3ace-b311-a220821c43d8",
-      "content": {
-        "id": "e7d7d87f-382f-3ace-b311-a220821c43d8",
-        "contentType": "STORY",
-        "title": "Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?",
-        "description": "",
-        "summary": "Billionaire Chase Coleman just stacked Tiger Global's top five positions directly on the AI infrastructure supercycle, and every single pick still shows double-digit upside potential heading into August. The question is whether the window to get in front of the next earnings wave is already closing.",
-        "pubDate": "2026-08-01T14:30:36Z",
-        "displayTime": "2026-08-01T14:30:36Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
-          "originalWidth": 1500,
-          "originalHeight": 1000,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SR9S_alf9hbAcW7FiKbCcg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
-              "width": 1500,
-              "height": 1000,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OkquM2zlCFLylfKLgddt3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/01/should-you-buy-billionaire-investor-chase-colemans-top-5-growth-stocks-in-august/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-billionaire-investor-chase-coleman-143036832.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "dd198184-000b-3c68-838b-32e26ee8b43a",
-      "content": {
-        "id": "dd198184-000b-3c68-838b-32e26ee8b43a",
-        "contentType": "STORY",
-        "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
-        "description": "",
-        "summary": "(Bloomberg) -- Equity investors are learning a harsh lesson this corporate earnings season: Not all artificial intelligence trades are created equal.Most Read from BloombergSingapore's Gated Island for the Rich Is Marred by Decayed HomesMoonshot’s Kimi Uses 20,000 Nvidia Chip Cluster From AlibabaTrump Orders Iran Attack as Soon as This Weekend, WSJ SaysAnthropic AI Models Hacked Three Organizations During TestsVitol, Cargill Cut Ties With Radiant World Amid Fake Invoice ConcernsWhile profits at",
-        "pubDate": "2026-08-01T12:00:00Z",
-        "displayTime": "2026-08-01T12:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-isn-t-catch-trade-120000618.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-isn-t-catch-trade-120000618.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c56da8ac-2b34-36ed-b488-91e5f47c7048",
-      "content": {
-        "id": "c56da8ac-2b34-36ed-b488-91e5f47c7048",
-        "contentType": "STORY",
-        "title": "TSMC is quietly borrowing a page from Intel's playbook",
-        "description": "",
-        "summary": "Companies rarely name a secret internal project after a rival’s product. Doing so hands over the story before it even becomes public: that the smaller competitor built something worth copying. That is essentially what just happened inside Taiwan Semiconductor Manufacturing. TSMC engineers are ...",
-        "pubDate": "2026-08-01T02:33:00Z",
-        "displayTime": "2026-08-01T02:33:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/c00b82904e1a1fe94b05bb3bde97a9b1",
-          "originalWidth": 3840,
-          "originalHeight": 2560,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4TmO7DeuBTEZ_rnGyhX2hw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/c00b82904e1a1fe94b05bb3bde97a9b1",
-              "width": 3840,
-              "height": 2560,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hK5VbHnoYMDwD3DZNrHlyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c00b82904e1a1fe94b05bb3bde97a9b1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/technology/tsmc-intel-emib-chip-packaging-rivalry",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-quietly-borrowing-page-intels-023300464.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8346002e-8b9b-3182-bc2b-8b0064acce18",
-      "content": {
-        "id": "8346002e-8b9b-3182-bc2b-8b0064acce18",
-        "contentType": "STORY",
-        "title": "Reshoring, Robots Will Boost Growth",
-        "description": "",
-        "summary": "Readers weigh in on the nascent construction boom, the Taylor rule, and the case for APA as a takeover target.",
-        "pubDate": "2026-07-31T22:25:00Z",
-        "displayTime": "2026-07-31T22:25:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/8346002e-8b9b-3182-bc2b-8b0064acce18/reshoring-robots-will-boost.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/8c1af82d0bb5981dfeab5aeb4dd81ed3",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/powEfhKpC0wwgMzBaHy9cw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8c1af82d0bb5981dfeab5aeb4dd81ed3",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0o6RcmzjZJX13IK3wGf9vA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/8c1af82d0bb5981dfeab5aeb4dd81ed3",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/reshoring-robots-will-boost-growth-185e4743?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9f528ebd-cf31-3d86-99d4-68486f035e28",
-      "content": {
-        "id": "9f528ebd-cf31-3d86-99d4-68486f035e28",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Looks Reasonable Despite Its 335% Run",
-        "description": "",
-        "summary": "Taiwan Semiconductor Manufacturing stock has surged over the past three years, yet the latest valuation checks suggest it now sits close to its estimated intrinsic value rather than being clearly cheap or clearly expensive. Over the last three years, Taiwan Semiconductor Manufacturing has returned about 335%, which puts extra focus on whether that past performance is already fully reflected in the current share price. Investor expectations around long term demand for advanced chips can...",
-        "pubDate": "2026-07-31T22:09:59Z",
-        "displayTime": "2026-07-31T22:09:59Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5Tyy8Oun7d69.ebTzNgpXA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/sdqM2NN9Xy0ai0FXQvYklw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-220959432.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-220959432.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
     }
   ],
   "info": {
@@ -25223,24 +25244,24 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2205.0,
-    "open": 2350.0,
-    "dayLow": 2345.0,
-    "dayHigh": 2425.0,
-    "regularMarketPreviousClose": 2205.0,
-    "regularMarketOpen": 2350.0,
-    "regularMarketDayLow": 2345.0,
-    "regularMarketDayHigh": 2425.0,
+    "previousClose": 2425.0,
+    "open": 2390.0,
+    "dayLow": 2365.0,
+    "dayHigh": 2395.0,
+    "regularMarketPreviousClose": 2425.0,
+    "regularMarketOpen": 2390.0,
+    "regularMarketDayLow": 2365.0,
+    "regularMarketDayHigh": 2395.0,
     "dividendRate": 24.0,
     "dividendYield": 0.99,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2785,
     "fiveYearAvgDividendYield": 1.69,
-    "beta": 1.246,
-    "trailingPE": 32.894737,
-    "forwardPE": 17.651737,
-    "volume": 64039645,
-    "regularMarketVolume": 64039645,
+    "beta": 1.258,
+    "trailingPE": 32.14867,
+    "forwardPE": 17.247553,
+    "volume": 32959497,
+    "regularMarketVolume": 32959497,
     "averageVolume": 33599321,
     "averageVolume10days": 36658811,
     "averageDailyVolume10Day": 36658811,
@@ -25248,17 +25269,17 @@
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 62885996789760,
+    "marketCap": 61459715325952,
     "nonDilutedMarketCap": 62885997412475,
     "fiftyTwoWeekLow": 1125.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 14.1619425,
+    "priceToSalesTrailing12Months": 13.840743,
     "fiftyDayAverage": 2371.9,
     "twoHundredDayAverage": 1917.075,
     "trailingAnnualDividendRate": 12.0,
-    "trailingAnnualDividendYield": 0.005442177,
+    "trailingAnnualDividendYield": 0.0049484535,
     "currency": "TWD",
     "tradeable": false,
     "enterpriseValue": 60391489011712,
@@ -25269,14 +25290,14 @@
     "heldPercentInstitutions": 0.43088,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.053,
-    "priceToBook": 9.776136,
+    "priceToBook": 9.55441,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808939520,
     "trailingEps": 73.72,
-    "forwardEps": 137.38025,
+    "forwardEps": 137.4108,
     "pegRatio": 0.91,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
@@ -25287,7 +25308,7 @@
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
-    "currentPrice": 2425.0,
+    "currentPrice": 2370.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2147.0,
     "targetMeanPrice": 3117.263,
@@ -25322,8 +25343,9 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
+    "marketState": "PREPRE",
     "corporateActions": [],
-    "regularMarketTime": 1785475805,
+    "regularMarketTime": 1785735003,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -25331,41 +25353,40 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 9.9773245,
-    "regularMarketPrice": 2425.0,
     "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
     "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "earningsCallTimestampStart": 1784181600,
-    "earningsCallTimestampEnd": 1784181600,
-    "isEarningsDateEstimate": false,
-    "epsTrailingTwelveMonths": 73.72,
-    "epsForward": 137.38025,
-    "epsCurrentYear": 107.16798,
-    "priceEpsCurrentYear": 22.628029,
-    "fiftyDayAverageChange": 53.100098,
-    "fiftyDayAverageChangePercent": 0.022387158,
-    "twoHundredDayAverageChange": 507.92505,
-    "twoHundredDayAverageChangePercent": 0.26494792,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
     "hasPrePostMarketData": false,
     "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": 220.0,
-    "regularMarketDayRange": "2345.0 - 2425.0",
+    "regularMarketChange": -55.0,
+    "regularMarketDayRange": "2365.0 - 2395.0",
     "fullExchangeName": "Taiwan",
     "averageDailyVolume3Month": 33599321,
-    "fiftyTwoWeekLowChange": 1300.0,
-    "fiftyTwoWeekLowChangePercent": 1.1555556,
+    "fiftyTwoWeekLowChange": 1245.0,
+    "fiftyTwoWeekLowChangePercent": 1.1066667,
     "fiftyTwoWeekRange": "1125.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -110.0,
-    "fiftyTwoWeekHighChangePercent": -0.043392505,
+    "fiftyTwoWeekHighChange": -165.0,
+    "fiftyTwoWeekHighChangePercent": -0.06508876,
     "fiftyTwoWeekChangePercent": 113.65638,
     "earningsTimestamp": 1784179800,
     "earningsTimestampStart": 1792042200,
     "earningsTimestampEnd": 1792042200,
-    "marketState": "PREPRE",
+    "earningsCallTimestampStart": 1784181600,
+    "earningsCallTimestampEnd": 1784181600,
+    "isEarningsDateEstimate": false,
+    "epsTrailingTwelveMonths": 73.72,
+    "epsForward": 137.4108,
+    "epsCurrentYear": 107.16798,
+    "priceEpsCurrentYear": 22.114815,
+    "fiftyDayAverageChange": -1.8999023,
+    "fiftyDayAverageChangePercent": -0.0008010044,
+    "twoHundredDayAverageChange": 452.92505,
+    "twoHundredDayAverageChangePercent": 0.23625839,
+    "regularMarketChangePercent": -2.2680414,
+    "regularMarketPrice": 2370.0,
     "trailingPegRatio": 0.9087
   }
 }
