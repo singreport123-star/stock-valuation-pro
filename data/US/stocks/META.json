@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-07T01:28:22.458776",
+    "ts": "2026-08-07T22:27:31.813030",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,41 +137,41 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 588.77,
-    "open": 586.335,
-    "dayLow": 585.995,
-    "dayHigh": 595.31,
-    "regularMarketPreviousClose": 588.77,
-    "regularMarketOpen": 586.335,
-    "regularMarketDayLow": 585.995,
-    "regularMarketDayHigh": 595.31,
+    "previousClose": 589.9,
+    "open": 585.64,
+    "dayLow": 585.62,
+    "dayHigh": 598.7399,
+    "regularMarketPreviousClose": 589.9,
+    "regularMarketOpen": 585.64,
+    "regularMarketDayLow": 585.62,
+    "regularMarketDayHigh": 598.7399,
     "dividendRate": 2.1,
     "dividendYield": 0.36,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 22.218458,
-    "forwardPE": 16.788929,
-    "volume": 11663468,
-    "regularMarketVolume": 11663468,
-    "averageVolume": 18271311,
+    "trailingPE": 22.301317,
+    "forwardPE": 16.851542,
+    "volume": 11039349,
+    "regularMarketVolume": 11039349,
+    "averageVolume": 18372394,
     "averageVolume10days": 18520520,
     "averageDailyVolume10Day": 18520520,
-    "bid": 591.73,
-    "ask": 588.79,
+    "bid": 592.09,
+    "ask": 595.49,
     "bidSize": 1,
     "askSize": 2,
-    "marketCap": 1502773903360,
-    "nonDilutedMarketCap": 1418222190519,
+    "marketCap": 1508378279936,
+    "nonDilutedMarketCap": 1502773922127,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 6.583981,
+    "priceToSalesTrailing12Months": 6.6085353,
     "fiftyDayAverage": 601.8878,
     "twoHundredDayAverage": 633.89514,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0035667575,
+    "trailingAnnualDividendYield": 0.0035599251,
     "currency": "USD",
     "tradeable": false,
     "enterpriseValue": 1524831879168,
@@ -184,12 +184,12 @@
     "dateShortInterest": 1784073600,
     "sharesPercentSharesOut": 0.0149,
     "heldPercentInsiders": 0.00145,
-    "heldPercentInstitutions": 0.78653,
+    "heldPercentInstitutions": 0.78609,
     "shortRatio": 1.85,
     "shortPercentOfFloat": 0.0172,
     "impliedSharesOutstanding": 2547506225,
     "bookValue": 96.013,
-    "priceToBook": 6.14396,
+    "priceToBook": 6.166873,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
@@ -200,12 +200,12 @@
     "pegRatio": 0.88,
     "enterpriseToRevenue": 6.681,
     "enterpriseToEbitda": 13.906,
-    "52WeekChange": -0.22523397,
-    "SandP52WeekChange": 0.19881701,
+    "52WeekChange": -0.23275703,
+    "SandP52WeekChange": 0.18953896,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 589.9,
+    "currentPrice": 592.1,
     "targetHighPrice": 1000.0,
     "targetLowPrice": 580.0,
     "targetMeanPrice": 756.94946,
@@ -240,9 +240,9 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "corporateActions": [],
-    "postMarketTime": 1786060789,
-    "regularMarketTime": 1786046401,
+    "marketState": "POST",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -250,25 +250,24 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 0.191926,
-    "regularMarketPrice": 589.9,
-    "marketState": "POSTPOST",
-    "longName": "Meta Platforms, Inc.",
-    "shortName": "Meta Platforms, Inc.",
-    "cryptoTradeable": false,
-    "postMarketChangePercent": -0.13562448,
-    "postMarketPrice": 589.1,
-    "postMarketChange": -0.8000488,
-    "regularMarketChange": 1.13,
-    "regularMarketDayRange": "585.995 - 595.31",
+    "postMarketChangePercent": 0.013514118,
+    "postMarketPrice": 592.18,
+    "postMarketChange": 0.08001709,
+    "regularMarketChange": 2.1999512,
+    "regularMarketDayRange": "585.62 - 598.7399",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18271311,
-    "fiftyTwoWeekLowChange": 69.640015,
-    "fiftyTwoWeekLowChangePercent": 0.13385618,
+    "averageDailyVolume3Month": 18372394,
+    "corporateActions": [],
+    "postMarketTime": 1786141645,
+    "regularMarketTime": 1786132801,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "fiftyTwoWeekLowChange": 71.839966,
+    "fiftyTwoWeekLowChangePercent": 0.13808474,
     "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -206.34998,
-    "fiftyTwoWeekHighChangePercent": -0.25915223,
-    "fiftyTwoWeekChangePercent": -22.523397,
+    "fiftyTwoWeekHighChange": -204.15002,
+    "fiftyTwoWeekHighChangePercent": -0.25638935,
+    "fiftyTwoWeekChangePercent": -23.275703,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -279,21 +278,22 @@
     "epsTrailingTwelveMonths": 26.55,
     "epsForward": 35.13625,
     "epsCurrentYear": 30.99357,
-    "priceEpsCurrentYear": 19.03298,
-    "fiftyDayAverageChange": -11.987793,
-    "fiftyDayAverageChangePercent": -0.019916989,
-    "twoHundredDayAverageChange": -43.995117,
-    "twoHundredDayAverageChangePercent": -0.06940441,
+    "regularMarketChangePercent": 0.37293628,
+    "regularMarketPrice": 592.1,
+    "priceEpsCurrentYear": 19.103962,
+    "fiftyDayAverageChange": -9.787842,
+    "fiftyDayAverageChangePercent": -0.016261904,
+    "twoHundredDayAverageChange": -41.795166,
+    "twoHundredDayAverageChangePercent": -0.06593388,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-06",
+    "nameChangeDate": "2026-08-07",
     "averageAnalystRating": "1.4 - Strong Buy",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
+    "cryptoTradeable": false,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8311
+    "trailingPegRatio": 0.8806
   },
   "financial_statements": {
     "income": {
@@ -1696,32 +1696,32 @@
   },
   "news": [
     {
-      "id": "45cdf302-d639-402f-9903-4497498de78c",
+      "id": "c2d00c1d-7468-49d1-8c37-fefdf3063ae0",
       "content": {
-        "id": "45cdf302-d639-402f-9903-4497498de78c",
+        "id": "c2d00c1d-7468-49d1-8c37-fefdf3063ae0",
         "contentType": "VIDEO",
-        "title": "Microsoft is starting to show its payoff on major AI plays",
-        "description": "<p>Investors may have renewed confidence in Microsoft's (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/MSFT/\" data-i13n=\"slk:MSFT;cpos:1;pos:1\">MSFT</a>) AI strategy on the tech giant's reported growth in its Azure Cloud and Copilot businesses.</p>\n<p>Yahoo Finance Tech Editor Dan Howley dives into the details.</p>",
-        "summary": "Investors may have renewed confidence in Microsoft's (MSFT) AI strategy on the tech giant's reported growth in its Azure Cloud and Copilot businesses. Yahoo Finance Tech Editor Dan Howley dives into the details.",
-        "pubDate": "2026-08-06T19:37:32Z",
+        "title": "AI theme has 'a long way to run': Strategist",
+        "description": "<p>Yahoo Finance host Jared Blikre and The Wealth Consulting Group Chief Market Strategist Talley Léger discuss market leadership shifting from tech concentration to diffusion, explaining why investors must take a 'leap of faith' on massive AI capital spending by tech hyperscalers like Alphabet (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/GOOG/\" data-i13n=\"cpos:1;pos:1\">GOOG</a>), Meta (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/META/\" data-i13n=\"cpos:2;pos:1\">META</a>), and Microsoft (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/MSFT/\" data-i13n=\"cpos:3;pos:1\">MSFT</a>).</p>",
+        "summary": "Yahoo Finance host Jared Blikre and The Wealth Consulting Group Chief Market Strategist Talley Léger discuss market leadership shifting from tech concentration to diffusion, explaining why investors must take a 'leap of faith' on massive AI capital spending by tech hyperscalers like Alphabet (GOOG), Meta (META), and Microsoft (MSFT).",
+        "pubDate": "2026-08-07T20:49:08Z",
         "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/V9X57YAyir035O4GQf.ejQ--~B/aD0yMzQ5O3c9NDE3NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4cc330d7-ead0-4df6-a8c1-c9efabe07ab7_2c74a6a928b5180b2824383faca676b9c11ab3703bd15131dd98e701d6d73b8a.jpg",
-          "originalWidth": 4176,
-          "originalHeight": 2349,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/oOl6q3M4dSiaiIz36qkY4g--~B/aD04Mjk7dz0xNDc0O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1786135666552_5513.jpg_30e1206eb17d08d329fcf76a20b9aa0b5b29780966932d5075edcf27980ce224.jpg",
+          "originalWidth": 1474,
+          "originalHeight": 829,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/V9X57YAyir035O4GQf.ejQ--~B/aD0yMzQ5O3c9NDE3NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4cc330d7-ead0-4df6-a8c1-c9efabe07ab7_2c74a6a928b5180b2824383faca676b9c11ab3703bd15131dd98e701d6d73b8a.jpg",
-              "width": 4176,
-              "height": 2349,
+              "url": "https://s.yimg.com/uu/api/res/1.2/oOl6q3M4dSiaiIz36qkY4g--~B/aD04Mjk7dz0xNDc0O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1786135666552_5513.jpg_30e1206eb17d08d329fcf76a20b9aa0b5b29780966932d5075edcf27980ce224.jpg",
+              "width": 1474,
+              "height": 829,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fC1N8.8Xp7TCjVycMShW0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4cc330d7-ead0-4df6-a8c1-c9efabe07ab7_2c74a6a928b5180b2824383faca676b9c11ab3703bd15131dd98e701d6d73b8a.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/sXBeUQKExuQycZrZ7rFrxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1786135666552_5513.jpg_30e1206eb17d08d329fcf76a20b9aa0b5b29780966932d5075edcf27980ce224.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1734,13 +1734,132 @@
           "sourceId": "video.yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/microsoft-starting-show-payoff-major-193732756.html",
+          "url": "https://finance.yahoo.com/video/ai-theme-long-way-run-204908888.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/microsoft-starting-show-payoff-major-193732756.html",
+          "url": "https://finance.yahoo.com/video/ai-theme-long-way-run-204908888.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": {
+          "storylineItems": [
+            {
+              "content": {
+                "id": "9a147fad-81bf-4c88-bb5f-fb3bb8575f0a",
+                "contentType": "VIDEO",
+                "isHosted": true,
+                "title": "What we know about OpenAI's upcoming handheld device: Bloomberg",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/QLCCMgI27ytDWCGmus73Tg--~B/aD0xODI4O3c9MzI1MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cf318a45-87f2-4b0b-8b77-65272c5410af_eb53165770835016541088cd3c0d6d91f38c0b5208b3a4c3be2d20c6526b8a5c.jpg",
+                  "originalWidth": 3250,
+                  "originalHeight": 1828,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance Video",
+                  "sourceId": "video.yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/video/know-openais-upcoming-handheld-device-140247594.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/video/know-openais-upcoming-handheld-device-140247594.html"
+                }
+              }
+            },
+            {
+              "content": {
+                "id": "4c968232-20e9-4c3b-9d4f-7ed26c6186ec",
+                "contentType": "VIDEO",
+                "isHosted": true,
+                "title": "Meta ordered to pay $942M: Why the judge compared the company to 'noxious pollution'",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/2pPCyFLIoraTebpkNjo3BA--~B/aD0zNDAyO3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1f36d3fb-2431-48b0-b5d6-40cd0d963dbe_82147412c60f5e687584439f1a5206eeeffcd927aac143998a71ea9cd4952f9f.jpg_c238c8412fa13b7a585a2bfa4eb58655783263eea6da2bdc23b69ff9639d7e1d.jpg",
+                  "originalWidth": 6048,
+                  "originalHeight": 3402,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance Video",
+                  "sourceId": "video.yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/video/meta-ordered-pay-942m-why-135234668.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/video/meta-ordered-pay-942m-why-135234668.html"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "82584f80-615d-4e76-b932-4af72f3d0b45",
+      "content": {
+        "id": "82584f80-615d-4e76-b932-4af72f3d0b45",
+        "contentType": "STORY",
+        "title": "Big Tech is borrowing its way through the AI boom: Chart of the Day",
+        "description": "",
+        "summary": "Alphabet is borrowing at a historic pace — and it isn't alone.",
+        "pubDate": "2026-08-07T10:00:00Z",
+        "displayTime": "2026-08-07T10:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/3yGwSKZmkuq0dhQbjE04hQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/80563996-6fb3-4d38-9cb3-80df08f0774c",
+          "originalWidth": 4000,
+          "originalHeight": 2667,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3yGwSKZmkuq0dhQbjE04hQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/80563996-6fb3-4d38-9cb3-80df08f0774c",
+              "width": 4000,
+              "height": 2667,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/JAzb6OT5kbydAp7YibKxYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/80563996-6fb3-4d38-9cb3-80df08f0774c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/article/big-tech-is-borrowing-its-way-through-the-ai-boom-chart-of-the-day-100000605.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/article/big-tech-is-borrowing-its-way-through-the-ai-boom-chart-of-the-day-100000605.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1758,270 +1877,32 @@
       }
     },
     {
-      "id": "63482ddb-98fe-489d-b9c1-b06d8c9e4915",
+      "id": "5bf1816e-4a2a-315b-aa07-49b0d3454d01",
       "content": {
-        "id": "63482ddb-98fe-489d-b9c1-b06d8c9e4915",
-        "contentType": "VIDEO",
-        "title": "Alphabet's $25B debt sale underscores hyperscalers' AI arms race",
-        "description": "<p>Yahoo Finance Markets and Data Editor Jared Blikre joins Market Domination to discuss Alphabet (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/GOOGL/\" data-i13n=\"cpos:1;pos:1\">GOOGL</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/GOOG/\" data-i13n=\"cpos:2;pos:1\">GOOG</a>) following the tech giant's $25 billion debt raise, the latest move in the hyperscalers' AI infrastructure spending race. </p>",
-        "summary": "Yahoo Finance Markets and Data Editor Jared Blikre joins Market Domination to discuss Alphabet (GOOGL, GOOG) following the tech giant's $25 billion debt raise, the latest move in the hyperscalers' AI infrastructure spending race.",
-        "pubDate": "2026-08-06T19:18:00Z",
-        "displayTime": "",
+        "id": "5bf1816e-4a2a-315b-aa07-49b0d3454d01",
+        "contentType": "STORY",
+        "title": "META Stock Returns To Familiar Ground",
+        "description": "",
+        "summary": "After a sharp pullback, Meta Platforms is testing a price floor that has held strong on seven prior occasions. The business arriving this time is different, setting up a classic standoff between history and today's reality.",
+        "pubDate": "2026-08-07T20:54:10Z",
+        "displayTime": "2026-08-07T20:54:10Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/34TjYcGqLEolmytuF.OWAQ--~B/aD0zMzMzO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/6f52dec2-6957-4c02-9310-d5452d621b19",
-          "originalWidth": 5000,
-          "originalHeight": 3333,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/34TjYcGqLEolmytuF.OWAQ--~B/aD0zMzMzO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/6f52dec2-6957-4c02-9310-d5452d621b19",
-              "width": 5000,
-              "height": 3333,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IlrlWNa0kVo8A1RTeUiPYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/6f52dec2-6957-4c02-9310-d5452d621b19",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/alphabets-25b-debt-sale-underscores-191800525.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/alphabets-25b-debt-sale-underscores-191800525.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ee54333e-decb-3750-9f55-a3ee9cc52914",
-      "content": {
-        "id": "ee54333e-decb-3750-9f55-a3ee9cc52914",
-        "contentType": "STORY",
-        "title": "Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media",
-        "description": "",
-        "summary": "A New Mexico judge ordered the social-media giant to create a new $567 million fund in addition to paying $375 million in previously determined civil penalties.",
-        "pubDate": "2026-08-07T00:01:00Z",
-        "displayTime": "2026-08-07T00:01:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/ee54333e-decb-3750-9f55-a3ee9cc52914/meta-ordered-to-pay-942.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/7c017ac0a705f7a6aabe72705d274e77",
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/bfeb32af92839dda7f7bc44b5bdf6a6f",
           "originalWidth": 1280,
-          "originalHeight": 640,
+          "originalHeight": 768,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nj38AI_0hAUuEqrKB4SovQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7c017ac0a705f7a6aabe72705d274e77",
+              "url": "https://s.yimg.com/uu/api/res/1.2/GkIc50QDfso8N0Mb19sz4g--~B/aD03Njg7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/bfeb32af92839dda7f7bc44b5bdf6a6f",
               "width": 1280,
-              "height": 640,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zncIVG36NEiBtUuqmbFsow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7c017ac0a705f7a6aabe72705d274e77",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e3170607-e013-3c14-9507-8fac138e4dfa",
-      "content": {
-        "id": "e3170607-e013-3c14-9507-8fac138e4dfa",
-        "contentType": "STORY",
-        "title": "Meta ordered to pay $567 million in New Mexico for teen mental health fund",
-        "description": "",
-        "summary": "A New Mexico state court ordered Meta on Thursday to pay $567 million ‌and change how its platforms function for young users in the state ‌after finding the company is to blame for harming children's mental health.  Judge Bryan Biedscheid in Santa Fe ​ruled the company had created a public nuisance in New Mexico, siding with the state's Attorney General Raúl Torrez, a Democrat.  Torrez had accused the social media company of designing its products to addict young users and failing to protect children from ‌sexual exploitation on its platforms.",
-        "pubDate": "2026-08-06T23:50:44Z",
-        "displayTime": "2026-08-06T23:50:44Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/cfe2eaa70675fa7d586d5124b16da4e5",
-          "originalWidth": 800,
-          "originalHeight": 534,
-          "caption": "Illustration shows 3D-printed Meta logo",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/p5KBJYs7x4BU7THA9Cv3zg--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/cfe2eaa70675fa7d586d5124b16da4e5",
-              "width": 800,
-              "height": 534,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6sUoXAjcUbVmsgCt645n7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/cfe2eaa70675fa7d586d5124b16da4e5",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/healthcare/articles/mexico-court-orders-meta-pay-235044490.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/healthcare/articles/mexico-court-orders-meta-pay-235044490.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "469fa8c1-0411-3099-9283-5b6de7225491",
-      "content": {
-        "id": "469fa8c1-0411-3099-9283-5b6de7225491",
-        "contentType": "STORY",
-        "title": "Alphabet Promised More AI Spending. Now It’s Asking the Bond Market For the Cash.",
-        "description": "",
-        "summary": "Alphabet launched a 10-part bond offering after raising its 2026 capital spending forecast to fund AI infrastructure and other corporate needs.",
-        "pubDate": "2026-08-06T23:04:00Z",
-        "displayTime": "2026-08-06T23:04:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/469fa8c1-0411-3099-9283-5b6de7225491/alphabet-promised-more-ai.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/0cbd0d6881bc984290724439d1f08ded",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/f.z7CA4Fx6JW.urNeib.Vw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0cbd0d6881bc984290724439d1f08ded",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OH.XfeVzvrML754WJk6gLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0cbd0d6881bc984290724439d1f08ded",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/alphabet-stock-ai-spending-bond-market-af919d25?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a20936de-8276-3993-9f91-64d04d3cbcc0",
-      "content": {
-        "id": "a20936de-8276-3993-9f91-64d04d3cbcc0",
-        "contentType": "STORY",
-        "title": "The Unspoken Agreement You've Made Holding Meta Platforms Stock",
-        "description": "",
-        "summary": "Owning these shares means signing up for significant price swings, with option pricing reflecting typical levels of market uncertainty.",
-        "pubDate": "2026-08-06T21:48:42Z",
-        "displayTime": "2026-08-06T21:48:42Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CvaJcxu7XFdF35j0KNDlVw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/obnFCplbltxpHAz9yzrk.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371",
+              "url": "https://s.yimg.com/uu/api/res/1.2/JrisLz9KSSplvEvL5e6e7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/bfeb32af92839dda7f7bc44b5bdf6a6f",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2034,13 +1915,13 @@
           "sourceId": "trefis_142"
         },
         "canonicalUrl": {
-          "url": "https://www.trefis.com/articles/610349/the-unspoken-agreement-youve-made-holding-meta-platforms-stock/2026-08-06",
+          "url": "https://www.trefis.com/articles/610552/meta-stock-returns-to-familiar-ground/2026-08-07",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/options/articles/unspoken-agreement-youve-made-holding-214842128.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-returns-familiar-ground-205410001.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2058,15 +1939,15 @@
       }
     },
     {
-      "id": "07f65409-acbd-312e-8d07-af8e83871473",
+      "id": "97955721-cb25-37fa-9a1b-764e0d1addfd",
       "content": {
-        "id": "07f65409-acbd-312e-8d07-af8e83871473",
+        "id": "97955721-cb25-37fa-9a1b-764e0d1addfd",
         "contentType": "STORY",
-        "title": "Meta's AI Safety Test Just Escaped the Lab",
+        "title": "Meta Faces New Risk After Major Court Ruling",
         "description": "",
-        "summary": "A testing partner's misconfiguration reportedly gave the model unintended internet access.",
-        "pubDate": "2026-08-06T21:26:10Z",
-        "displayTime": "2026-08-06T21:26:10Z",
+        "summary": "The bigger threat may extend far beyond New Mexico",
+        "pubDate": "2026-08-07T19:56:14Z",
+        "displayTime": "2026-08-07T19:56:14Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -2077,13 +1958,13 @@
           "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/metas-ai-safety-test-just-212610643.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-faces-risk-major-court-195614005.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/metas-ai-safety-test-just-212610643.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-faces-risk-major-court-195614005.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2101,32 +1982,323 @@
       }
     },
     {
-      "id": "e2da848e-7db5-3833-b27f-3af8c1ec8cd4",
+      "id": "2bf9e770-c1f4-3a1b-bd48-d0b132278554",
       "content": {
-        "id": "e2da848e-7db5-3833-b27f-3af8c1ec8cd4",
+        "id": "2bf9e770-c1f4-3a1b-bd48-d0b132278554",
         "contentType": "STORY",
-        "title": "$2.9 Billion In Payouts, A Lagging Stock: The SNAP Trade-Off",
+        "title": "Meta Stock Rises 1.2% Despite $942 Million Child-Safety Judgment",
         "description": "",
-        "summary": "The social media company sent a fortune back to its owners, but the stock went nowhere. Here’s what the cash really bought, and what has to happen next for the bet to pay off.",
-        "pubDate": "2026-08-06T21:07:09Z",
-        "displayTime": "2026-08-06T21:07:09Z",
+        "summary": "The New Mexico decision adds financial and operational obligations while Meta prepares an appeal.",
+        "pubDate": "2026-08-07T19:53:17Z",
+        "displayTime": "2026-08-07T19:53:17Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rises-1-2-195317524.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rises-1-2-195317524.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c10a02ae-68f9-3834-949a-a6fa1a8625c4",
+      "content": {
+        "id": "c10a02ae-68f9-3834-949a-a6fa1a8625c4",
+        "contentType": "STORY",
+        "title": "Explainer-How could New Mexico's $567 million ruling change Meta?",
+        "description": "",
+        "summary": "Aug 7 (Reuters) - A New Mexico state court ordered Meta Platforms, owner of Facebook and Instagram, to make major changes to its platforms and pay the largest sum yet in a growing wave of U. litigation over claims that social media harms young people.",
+        "pubDate": "2026-08-07T19:39:38Z",
+        "displayTime": "2026-08-07T19:39:38Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371",
-          "originalWidth": 1280,
-          "originalHeight": 720,
+          "originalUrl": "https://media.zenfs.com/en/reuters.com/70a15c4644c0cbd26e53ca8e176e4377",
+          "originalWidth": 800,
+          "originalHeight": 534,
+          "caption": "FILE PHOTO: The logo of Meta at the Meta Lab in Los Angeles, California, U.S., May 20, 2026. REUTERS/Daniel Cole/File Photo",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Bb3vu7L46f._8RJzEswadA--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/70a15c4644c0cbd26e53ca8e176e4377",
+              "width": 800,
+              "height": 534,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6TOe8PJFf3vnI45Lzps7MA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/70a15c4644c0cbd26e53ca8e176e4377",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "https://www.reuters.com/",
+          "sourceId": "reuters.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/news/explainer-could-mexicos-567-million-193540756.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/explainer-could-mexicos-567-million-193540756.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "05f2e4db-9178-3e3e-9403-06720821bc68",
+      "content": {
+        "id": "05f2e4db-9178-3e3e-9403-06720821bc68",
+        "contentType": "STORY",
+        "title": "Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026",
+        "description": "",
+        "summary": "Beyond GPUs, AI's next winners may emerge across networking, software and quantum as investment broadens and governments boost next-gen computing.",
+        "pubDate": "2026-08-07T19:00:00Z",
+        "displayTime": "2026-08-07T19:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/75c16e79f641f4f89b5422b8c03fc4ec",
+          "originalWidth": 635,
+          "originalHeight": 400,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CvaJcxu7XFdF35j0KNDlVw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Z3ZsZgDuuN3uuSEEcGh.Fg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/75c16e79f641f4f89b5422b8c03fc4ec",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7iwO8PCzF7oAu5AmphEkGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/75c16e79f641f4f89b5422b8c03fc4ec",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-gpus-next-ai-190000472.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-gpus-next-ai-190000472.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bab74b32-e6f3-382f-8b4d-d7c78717cc70",
+      "content": {
+        "id": "bab74b32-e6f3-382f-8b4d-d7c78717cc70",
+        "contentType": "STORY",
+        "title": "Jim Cramer Believes Meta Platforms, Inc. (NASDAQ:META) Can Do Better",
+        "description": "",
+        "summary": "Meta Platforms, Inc. (NASDAQ:META)’s shares are down by 22% over the past year and by 9% year-to-date. The stock cosed 7.9% lower on July 30th, after the firm reported its fiscal second quarter earnings the previous day. However, they are up. by 9.4% since then. Cramer, who has mostly praised Meta Platforms, Inc. (NASDAQ:META) in […]",
+        "pubDate": "2026-08-07T18:33:57Z",
+        "displayTime": "2026-08-07T18:33:57Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
+          "originalWidth": 1152,
+          "originalHeight": 768,
+          "caption": " ",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tak3wMpuXBTxJSxoMu1s0A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
+              "width": 1152,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1YlUJhYmLscmbZq2_91pWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-meta-platforms-183357464.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-meta-platforms-183357464.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8a300d83-7180-3918-afc9-0cbd25ba693f",
+      "content": {
+        "id": "8a300d83-7180-3918-afc9-0cbd25ba693f",
+        "contentType": "STORY",
+        "title": "What Does Meta (META) Have To Change After The $942 Million Teen Safety Ruling?",
+        "description": "",
+        "summary": "Meta Platforms (NasdaqGS:META) has been ordered by a New Mexico state court to pay a US$942 million penalty tied to teen safety on its platforms. The ruling requires Meta to introduce stricter protections and usage limits for teenagers, directly affecting its core social media operations. The court compared Meta's impact on youth to public pollution, framing the decision as a major test case for online child safety rules. This decision adds to growing legal and regulatory pressure around...",
+        "pubDate": "2026-08-07T18:11:56Z",
+        "displayTime": "2026-08-07T18:11:56Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/BrUhbDoJKeNJUavlZ7MvVQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/J6fEwVETVa_jUCz0igm0HA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-meta-meta-change-942-181156175.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-meta-meta-change-942-181156175.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4d8527fe-fdb9-39db-a071-29250cb25543",
+      "content": {
+        "id": "4d8527fe-fdb9-39db-a071-29250cb25543",
+        "contentType": "STORY",
+        "title": "Meta was just slapped with a $942-million bill for harming kids — it makes that back in roughly five days",
+        "description": "",
+        "summary": "The judge said there’s a limit to what the state can do to penalize a company of this size.",
+        "pubDate": "2026-08-07T17:35:00Z",
+        "displayTime": "2026-08-07T17:35:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/moneywise_327/0db873f4851e0b71ec42d531dc50db17",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "Meta CEO Mark Zuckerberg leaves the Federal Courthouse in downtown Los Angeles after defending the company in a landmark social media addiction trial.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.FMPlpyClLyXZq_91HT2DQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_327/0db873f4851e0b71ec42d531dc50db17",
               "width": 1280,
               "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/obnFCplbltxpHAz9yzrk.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371",
+              "url": "https://s.yimg.com/uu/api/res/1.2/O1JvAT5qYr2P7YFb34khhg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/0db873f4851e0b71ec42d531dc50db17",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2134,136 +2306,22 @@
           ]
         },
         "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/",
-          "sourceId": "trefis_142"
+          "displayName": "Moneywise",
+          "url": "https://moneywise.com/",
+          "sourceId": "moneywise_327"
         },
         "canonicalUrl": {
-          "url": "https://www.trefis.com/articles/610341/2-9-billion-in-payouts-a-lagging-stock-the-snap-trade-off/2026-08-06",
+          "url": "https://finance.yahoo.com/media-advertising/articles/meta-just-slapped-942-million-173500875.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-9-billion-payouts-lagging-210709748.html",
+          "url": "https://finance.yahoo.com/media-advertising/articles/meta-just-slapped-942-million-173500875.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "1b53b2c0-2a97-33a2-9ad0-71d1341b42cf",
-      "content": {
-        "id": "1b53b2c0-2a97-33a2-9ad0-71d1341b42cf",
-        "contentType": "STORY",
-        "title": "Sandisk Earnings Were So Much Better Than Expected. Why the Stock Is Dropping Anyway.",
-        "description": "",
-        "summary": "Sandisk stock falls Thursday after a disappointing outlook from the memory maker seemed to overshadow strong fourth-quarter results.",
-        "pubDate": "2026-08-06T19:28:00Z",
-        "displayTime": "2026-08-06T19:28:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/1b53b2c0-2a97-33a2-9ad0-71d1341b42cf/sandisk-earnings-were-so-much.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/4dc658f962b1a2ce6a632a1354a163c9",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WAs3.AYD7ucKrG.pSdx_Jw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4dc658f962b1a2ce6a632a1354a163c9",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jOngdms8bae3uB45Qh674Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4dc658f962b1a2ce6a632a1354a163c9",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/sandisk-earnings-stock-price-3eb4ce48?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8051f77f-0a54-35e7-9432-58a73518e848",
-      "content": {
-        "id": "8051f77f-0a54-35e7-9432-58a73518e848",
-        "contentType": "STORY",
-        "title": "The Fed’s Next Rate Move Might Actually Be a Cut. How the Market Would React.",
-        "description": "",
-        "summary": "The central bank has let the bond market do its heavy lifting when it comes to rates. But a cut is on the horizon if a weak jobs and inflation stir up Wall Street.",
-        "pubDate": "2026-08-06T19:15:00Z",
-        "displayTime": "2026-08-06T19:15:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/8051f77f-0a54-35e7-9432-58a73518e848/the-fed%E2%80%99s-next-rate-move.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/f4680bfb67bc2da1bd02f9ee692cbdf9",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QzZmzZMALG0Fyxd2hng27Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f4680bfb67bc2da1bd02f9ee692cbdf9",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HnCkJRqAYObQUgnda319dQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/f4680bfb67bc2da1bd02f9ee692cbdf9",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/stocks-bonds-inflation-jobs-fed-rates-bd1e32d3?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
