@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-07T22:27:31.813030",
+    "ts": "2026-08-08T22:20:37.092678",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -146,37 +146,37 @@
     "regularMarketDayLow": 585.62,
     "regularMarketDayHigh": 598.7399,
     "dividendRate": 2.1,
-    "dividendYield": 0.36,
+    "dividendYield": 0.35,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 22.301317,
+    "trailingPE": 22.318129,
     "forwardPE": 16.851542,
     "volume": 11039349,
     "regularMarketVolume": 11039349,
-    "averageVolume": 18372394,
-    "averageVolume10days": 18520520,
-    "averageDailyVolume10Day": 18520520,
+    "averageVolume": 18166272,
+    "averageVolume10days": 19394140,
+    "averageDailyVolume10Day": 19394140,
     "bid": 592.09,
     "ask": 595.49,
     "bidSize": 1,
     "askSize": 2,
     "marketCap": 1508378279936,
-    "nonDilutedMarketCap": 1502773922127,
+    "nonDilutedMarketCap": 1508378435821,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 796.25,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "priceToSalesTrailing12Months": 6.6085353,
-    "fiftyDayAverage": 601.8878,
-    "twoHundredDayAverage": 633.89514,
+    "fiftyDayAverage": 599.7572,
+    "twoHundredDayAverage": 631.29517,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0035599251,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1524831879168,
+    "enterpriseValue": 1530436386816,
     "profitMargins": 0.29834998,
-    "floatShares": 2201784155,
+    "floatShares": 2199313074,
     "sharesOutstanding": 2205128509,
     "sharesShort": 37847633,
     "sharesShortPriorMonth": 29985155,
@@ -184,7 +184,7 @@
     "dateShortInterest": 1784073600,
     "sharesPercentSharesOut": 0.0149,
     "heldPercentInsiders": 0.00145,
-    "heldPercentInstitutions": 0.78609,
+    "heldPercentInstitutions": 0.79004997,
     "shortRatio": 1.85,
     "shortPercentOfFloat": 0.0172,
     "impliedSharesOutstanding": 2547506225,
@@ -195,13 +195,13 @@
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.55,
+    "trailingEps": 26.53,
     "forwardEps": 35.13625,
     "pegRatio": 0.88,
-    "enterpriseToRevenue": 6.681,
-    "enterpriseToEbitda": 13.906,
-    "52WeekChange": -0.23275703,
-    "SandP52WeekChange": 0.18953896,
+    "enterpriseToRevenue": 6.705,
+    "enterpriseToEbitda": 13.957,
+    "52WeekChange": -0.22689229,
+    "SandP52WeekChange": 0.21718061,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
@@ -240,34 +240,24 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "POST",
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "postMarketChangePercent": 0.013514118,
-    "postMarketPrice": 592.18,
-    "postMarketChange": 0.08001709,
-    "regularMarketChange": 2.1999512,
+    "marketState": "CLOSED",
+    "regularMarketChangePercent": 0.372936,
+    "regularMarketPrice": 592.1,
+    "postMarketChangePercent": -0.05066506,
+    "postMarketPrice": 591.8,
+    "postMarketChange": -0.2999878,
+    "regularMarketChange": 2.19995,
     "regularMarketDayRange": "585.62 - 598.7399",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18372394,
-    "corporateActions": [],
-    "postMarketTime": 1786141645,
-    "regularMarketTime": 1786132801,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
+    "averageDailyVolume3Month": 18166272,
     "fiftyTwoWeekLowChange": 71.839966,
     "fiftyTwoWeekLowChangePercent": 0.13808474,
     "fiftyTwoWeekRange": "520.26 - 796.25",
     "fiftyTwoWeekHighChange": -204.15002,
     "fiftyTwoWeekHighChangePercent": -0.25638935,
-    "fiftyTwoWeekChangePercent": -23.275703,
+    "fiftyTwoWeekChangePercent": -22.68923,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -275,25 +265,35 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.55,
+    "epsTrailingTwelveMonths": 26.53,
     "epsForward": 35.13625,
     "epsCurrentYear": 30.99357,
-    "regularMarketChangePercent": 0.37293628,
-    "regularMarketPrice": 592.1,
     "priceEpsCurrentYear": 19.103962,
-    "fiftyDayAverageChange": -9.787842,
-    "fiftyDayAverageChangePercent": -0.016261904,
-    "twoHundredDayAverageChange": -41.795166,
-    "twoHundredDayAverageChangePercent": -0.06593388,
+    "fiftyDayAverageChange": -7.6572266,
+    "fiftyDayAverageChangePercent": -0.012767211,
+    "twoHundredDayAverageChange": -39.19519,
+    "twoHundredDayAverageChangePercent": -0.062086947,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-07",
+    "nameChangeDate": "2026-08-08",
     "averageAnalystRating": "1.4 - Strong Buy",
     "cryptoTradeable": false,
+    "postMarketTime": 1786147192,
+    "regularMarketTime": 1786132801,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "corporateActions": [],
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8806
+    "trailingPegRatio": 0.8839
   },
   "financial_statements": {
     "income": {
@@ -1696,32 +1696,32 @@
   },
   "news": [
     {
-      "id": "c2d00c1d-7468-49d1-8c37-fefdf3063ae0",
+      "id": "872c89e4-4d33-3c3f-94d6-0c5c5c570d52",
       "content": {
-        "id": "c2d00c1d-7468-49d1-8c37-fefdf3063ae0",
-        "contentType": "VIDEO",
-        "title": "AI theme has 'a long way to run': Strategist",
-        "description": "<p>Yahoo Finance host Jared Blikre and The Wealth Consulting Group Chief Market Strategist Talley Léger discuss market leadership shifting from tech concentration to diffusion, explaining why investors must take a 'leap of faith' on massive AI capital spending by tech hyperscalers like Alphabet (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/GOOG/\" data-i13n=\"cpos:1;pos:1\">GOOG</a>), Meta (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/META/\" data-i13n=\"cpos:2;pos:1\">META</a>), and Microsoft (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/MSFT/\" data-i13n=\"cpos:3;pos:1\">MSFT</a>).</p>",
-        "summary": "Yahoo Finance host Jared Blikre and The Wealth Consulting Group Chief Market Strategist Talley Léger discuss market leadership shifting from tech concentration to diffusion, explaining why investors must take a 'leap of faith' on massive AI capital spending by tech hyperscalers like Alphabet (GOOG), Meta (META), and Microsoft (MSFT).",
-        "pubDate": "2026-08-07T20:49:08Z",
-        "displayTime": "",
+        "id": "872c89e4-4d33-3c3f-94d6-0c5c5c570d52",
+        "contentType": "STORY",
+        "title": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
+        "description": "",
+        "summary": "As investors scrutinize the AI data center capital spending of the \"Magnificent Seven,\" the quarter's standout is Microsoft.",
+        "pubDate": "2026-08-08T21:01:02Z",
+        "displayTime": "2026-08-08T21:01:02Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/oOl6q3M4dSiaiIz36qkY4g--~B/aD04Mjk7dz0xNDc0O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1786135666552_5513.jpg_30e1206eb17d08d329fcf76a20b9aa0b5b29780966932d5075edcf27980ce224.jpg",
-          "originalWidth": 1474,
-          "originalHeight": 829,
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/1344521cb4ef7eb7c422ff0baa2e9aab",
+          "originalWidth": 800,
+          "originalHeight": 450,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/oOl6q3M4dSiaiIz36qkY4g--~B/aD04Mjk7dz0xNDc0O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1786135666552_5513.jpg_30e1206eb17d08d329fcf76a20b9aa0b5b29780966932d5075edcf27980ce224.jpg",
-              "width": 1474,
-              "height": 829,
+              "url": "https://s.yimg.com/uu/api/res/1.2/aIxqNnFlc36g9c89rkDjDg--~B/aD00NTA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1344521cb4ef7eb7c422ff0baa2e9aab",
+              "width": 800,
+              "height": 450,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/sXBeUQKExuQycZrZ7rFrxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1786135666552_5513.jpg_30e1206eb17d08d329fcf76a20b9aa0b5b29780966932d5075edcf27980ce224.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/4CiSOsdxGldv7Fg6_n3diQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1344521cb4ef7eb7c422ff0baa2e9aab",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1729,24 +1729,24 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/ai-theme-long-way-run-204908888.html",
+          "url": "https://www.fool.com/investing/2026/08/08/microsoft-shows-the-magnificent-seven-what-ai-investment-looks-like/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/ai-theme-long-way-run-204908888.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-shows-magnificent-seven-ai-210102010.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -1754,93 +1754,36 @@
             "isPremiumFreeNews": false
           }
         },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "9a147fad-81bf-4c88-bb5f-fb3bb8575f0a",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "What we know about OpenAI's upcoming handheld device: Bloomberg",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/QLCCMgI27ytDWCGmus73Tg--~B/aD0xODI4O3c9MzI1MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cf318a45-87f2-4b0b-8b77-65272c5410af_eb53165770835016541088cd3c0d6d91f38c0b5208b3a4c3be2d20c6526b8a5c.jpg",
-                  "originalWidth": 3250,
-                  "originalHeight": 1828,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/know-openais-upcoming-handheld-device-140247594.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/know-openais-upcoming-handheld-device-140247594.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "4c968232-20e9-4c3b-9d4f-7ed26c6186ec",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Meta ordered to pay $942M: Why the judge compared the company to 'noxious pollution'",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/2pPCyFLIoraTebpkNjo3BA--~B/aD0zNDAyO3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1f36d3fb-2431-48b0-b5d6-40cd0d963dbe_82147412c60f5e687584439f1a5206eeeffcd927aac143998a71ea9cd4952f9f.jpg_c238c8412fa13b7a585a2bfa4eb58655783263eea6da2bdc23b69ff9639d7e1d.jpg",
-                  "originalWidth": 6048,
-                  "originalHeight": 3402,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-ordered-pay-942m-why-135234668.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-ordered-pay-942m-why-135234668.html"
-                }
-              }
-            }
-          ]
-        }
+        "storyline": null
       }
     },
     {
-      "id": "82584f80-615d-4e76-b932-4af72f3d0b45",
+      "id": "cf91b8e2-925e-38ce-ad80-733990207323",
       "content": {
-        "id": "82584f80-615d-4e76-b932-4af72f3d0b45",
+        "id": "cf91b8e2-925e-38ce-ad80-733990207323",
         "contentType": "STORY",
-        "title": "Big Tech is borrowing its way through the AI boom: Chart of the Day",
+        "title": "Does Broadcom (AVGO) Now Lead The Biggest AI Infrastructure Spend Outside GPUs?",
         "description": "",
-        "summary": "Alphabet is borrowing at a historic pace — and it isn't alone.",
-        "pubDate": "2026-08-07T10:00:00Z",
-        "displayTime": "2026-08-07T10:00:00Z",
+        "summary": "Broadcom (NasdaqGS:AVGO) has become a dominant supplier for hyperscale AI clusters used by major cloud and AI providers such as Anthropic, OpenAI, and Meta. Multi-year commitments from these customers are channeling significant capital expenditure into Broadcom's AI infrastructure hardware, even as some of that spend bypasses GPU market leader Nvidia. The agreements increase Broadcom's visibility on future AI related revenue tied to large scale data center buildouts. Broadcom is one of...",
+        "pubDate": "2026-08-08T14:11:16Z",
+        "displayTime": "2026-08-08T14:11:16Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/3yGwSKZmkuq0dhQbjE04hQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/80563996-6fb3-4d38-9cb3-80df08f0774c",
-          "originalWidth": 4000,
-          "originalHeight": 2667,
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/dfc5c49a1ab838a9c236bef742ffecf1",
+          "originalWidth": 1194,
+          "originalHeight": 432,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3yGwSKZmkuq0dhQbjE04hQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/80563996-6fb3-4d38-9cb3-80df08f0774c",
-              "width": 4000,
-              "height": 2667,
+              "url": "https://s.yimg.com/uu/api/res/1.2/q7CEgJDIR38z7SHlrATgRA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/dfc5c49a1ab838a9c236bef742ffecf1",
+              "width": 1194,
+              "height": 432,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JAzb6OT5kbydAp7YibKxYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/80563996-6fb3-4d38-9cb3-80df08f0774c",
+              "url": "https://s.yimg.com/uu/api/res/1.2/fAtX1UcMD13NawIOD5fjUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/dfc5c49a1ab838a9c236bef742ffecf1",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1848,24 +1791,272 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/big-tech-is-borrowing-its-way-through-the-ai-boom-chart-of-the-day-100000605.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/does-broadcom-avgo-now-lead-141116363.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/big-tech-is-borrowing-its-way-through-the-ai-boom-chart-of-the-day-100000605.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/does-broadcom-avgo-now-lead-141116363.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7f7d1de6-083a-3a3a-b980-eaf7dae3e9dd",
+      "content": {
+        "id": "7f7d1de6-083a-3a3a-b980-eaf7dae3e9dd",
+        "contentType": "STORY",
+        "title": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031",
+        "description": "",
+        "summary": "AMD's Data Center business just posted 57% year-over-year growth, but whether that momentum can carry a $5,000 investment to a meaningful return by 2031 depends on three drivers and three risks that pull in opposite directions.",
+        "pubDate": "2026-08-08T13:00:11Z",
+        "displayTime": "2026-08-08T13:00:11Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/7a046a19daacd3e91a0772303c71a3b8",
+          "originalWidth": 1600,
+          "originalHeight": 840,
+          "caption": "AMD price target",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/f_zw6nV0PxPA5Az1g_rWPg--~B/aD04NDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/7a046a19daacd3e91a0772303c71a3b8",
+              "width": 1600,
+              "height": 840,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/v4_ZuTozb7XVNuvD6eNICQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7a046a19daacd3e91a0772303c71a3b8",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/08/advanced-micro-devices-amd-price-prediction-how-much-a-5000-investment-could-be-worth-by-2031/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-price-130011101.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c4aa48b5-1dac-3103-b130-6c35cf136510",
+      "content": {
+        "id": "c4aa48b5-1dac-3103-b130-6c35cf136510",
+        "contentType": "STORY",
+        "title": "7 Reasons Pershing Square (PS) Looks Pricey After Ackman Spotlighted AI Holdings",
+        "description": "",
+        "summary": "Pershing Square stock reacts to focus on concentrated portfolio and AI-linked holdings Pershing Square (PS) is back in focus after Bill Ackman spotlighted the hedge fund’s concentrated portfolio of seven stocks and emphasized key positions in Microsoft and Meta tied to artificial intelligence themes. See our latest analysis for Pershing Square. Pershing Square’s recent Microsoft and Meta commentary comes after a sharp rebound in momentum, with the stock posting a 56.53% year to date share...",
+        "pubDate": "2026-08-08T03:19:28Z",
+        "displayTime": "2026-08-08T03:19:28Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/4470f143ba4f4c0e99553a639759c619",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6aUxsyZINKOU9.9KrHnBOA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/4470f143ba4f4c0e99553a639759c619",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/50CFm8d8WWbAzkmx4kxXiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/4470f143ba4f4c0e99553a639759c619",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/7-reasons-pershing-square-ps-031928456.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/7-reasons-pershing-square-ps-031928456.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a4bd022b-1245-3c3f-84b5-3685a7982857",
+      "content": {
+        "id": "a4bd022b-1245-3c3f-84b5-3685a7982857",
+        "contentType": "STORY",
+        "title": "Black Hills Q2 Earnings Call Highlights",
+        "description": "",
+        "summary": "Black Hills (NYSE:BKH) said it remains on track to meet its 2026 earnings guidance as new rates and rider recovery, large-load demand growth and ongoing capital investments supported second-quarter results. The utility reported second-quarter GAAP earnings per share of $0.50, including $0.04 per sh",
+        "pubDate": "2026-08-08T00:04:09Z",
+        "displayTime": "2026-08-08T00:04:09Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/086582f29db918058f607a21b79c3969",
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "caption": "Black Hills logo",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/U04ShiwO1K1UZEUlpWotnQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/086582f29db918058f607a21b79c3969",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ez5869B2OOBBiDUw.nTlBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/086582f29db918058f607a21b79c3969",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "MarketBeat",
+          "url": "https://www.marketbeat.com/",
+          "sourceId": "marketbeat_955"
+        },
+        "canonicalUrl": {
+          "url": "https://www.marketbeat.com/instant-alerts/black-hills-q2-earnings-call-highlights-2026-08-07/?utm_source=yahoofinance&utm_medium=yahoofinance",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/black-hills-q2-earnings-call-000409239.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0c0863d0-5dd3-3d75-ad09-c33acd0682c3",
+      "content": {
+        "id": "0c0863d0-5dd3-3d75-ad09-c33acd0682c3",
+        "contentType": "STORY",
+        "title": "Meta (META) Q2 2026 Earnings Call Transcript",
+        "description": "",
+        "summary": "Revenue surged 28% on advertising strength, but net income fell 14% due to legal charges.",
+        "pubDate": "2026-08-07T23:58:47Z",
+        "displayTime": "2026-08-07T23:58:47Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+          "originalWidth": 400,
+          "originalHeight": 427,
+          "caption": "Logo of jester cap with thought bubble.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/AgPxjmk.l0_x4qaFILkqiQ--~B/aD00Mjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+              "width": 400,
+              "height": 427,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GLLDkBGnPusEHUUPHMcY8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/meta-meta-q2-2026-earnings-call-transcript/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-q2-2026-earnings-235847315.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -1922,6 +2113,68 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-returns-familiar-ground-205410001.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c2d00c1d-7468-49d1-8c37-fefdf3063ae0",
+      "content": {
+        "id": "c2d00c1d-7468-49d1-8c37-fefdf3063ae0",
+        "contentType": "VIDEO",
+        "title": "AI theme has 'a long way to run': Strategist",
+        "description": "<p>Yahoo Finance host Jared Blikre and The Wealth Consulting Group Chief Market Strategist Talley Léger discuss market leadership shifting from tech concentration to diffusion, explaining why investors must take a 'leap of faith' on massive AI capital spending by tech hyperscalers like Alphabet (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/GOOG/\" data-i13n=\"cpos:1;pos:1\">GOOG</a>), Meta (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/META/\" data-i13n=\"cpos:2;pos:1\">META</a>), and Microsoft (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/MSFT/\" data-i13n=\"cpos:3;pos:1\">MSFT</a>).</p>",
+        "summary": "Yahoo Finance host Jared Blikre and The Wealth Consulting Group Chief Market Strategist Talley Léger discuss market leadership shifting from tech concentration to diffusion, explaining why investors must take a 'leap of faith' on massive AI capital spending by tech hyperscalers like Alphabet (GOOG), Meta (META), and Microsoft (MSFT).",
+        "pubDate": "2026-08-07T20:49:08Z",
+        "displayTime": "",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/oOl6q3M4dSiaiIz36qkY4g--~B/aD04Mjk7dz0xNDc0O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1786135666552_5513.jpg_30e1206eb17d08d329fcf76a20b9aa0b5b29780966932d5075edcf27980ce224.jpg",
+          "originalWidth": 1474,
+          "originalHeight": 829,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/oOl6q3M4dSiaiIz36qkY4g--~B/aD04Mjk7dz0xNDc0O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1786135666552_5513.jpg_30e1206eb17d08d329fcf76a20b9aa0b5b29780966932d5075edcf27980ce224.jpg",
+              "width": 1474,
+              "height": 829,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sXBeUQKExuQycZrZ7rFrxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1786135666552_5513.jpg_30e1206eb17d08d329fcf76a20b9aa0b5b29780966932d5075edcf27980ce224.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "video.yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/video/ai-theme-long-way-run-204908888.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/video/ai-theme-long-way-run-204908888.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2008,316 +2261,6 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rises-1-2-195317524.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c10a02ae-68f9-3834-949a-a6fa1a8625c4",
-      "content": {
-        "id": "c10a02ae-68f9-3834-949a-a6fa1a8625c4",
-        "contentType": "STORY",
-        "title": "Explainer-How could New Mexico's $567 million ruling change Meta?",
-        "description": "",
-        "summary": "Aug 7 (Reuters) - A New Mexico state court ordered Meta Platforms, owner of Facebook and Instagram, to make major changes to its platforms and pay the largest sum yet in a growing wave of U. litigation over claims that social media harms young people.",
-        "pubDate": "2026-08-07T19:39:38Z",
-        "displayTime": "2026-08-07T19:39:38Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters.com/70a15c4644c0cbd26e53ca8e176e4377",
-          "originalWidth": 800,
-          "originalHeight": 534,
-          "caption": "FILE PHOTO: The logo of Meta at the Meta Lab in Los Angeles, California, U.S., May 20, 2026. REUTERS/Daniel Cole/File Photo",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Bb3vu7L46f._8RJzEswadA--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/70a15c4644c0cbd26e53ca8e176e4377",
-              "width": 800,
-              "height": 534,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6TOe8PJFf3vnI45Lzps7MA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/70a15c4644c0cbd26e53ca8e176e4377",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "https://www.reuters.com/",
-          "sourceId": "reuters.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/news/explainer-could-mexicos-567-million-193540756.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/explainer-could-mexicos-567-million-193540756.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "05f2e4db-9178-3e3e-9403-06720821bc68",
-      "content": {
-        "id": "05f2e4db-9178-3e3e-9403-06720821bc68",
-        "contentType": "STORY",
-        "title": "Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026",
-        "description": "",
-        "summary": "Beyond GPUs, AI's next winners may emerge across networking, software and quantum as investment broadens and governments boost next-gen computing.",
-        "pubDate": "2026-08-07T19:00:00Z",
-        "displayTime": "2026-08-07T19:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/75c16e79f641f4f89b5422b8c03fc4ec",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Z3ZsZgDuuN3uuSEEcGh.Fg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/75c16e79f641f4f89b5422b8c03fc4ec",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/7iwO8PCzF7oAu5AmphEkGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/75c16e79f641f4f89b5422b8c03fc4ec",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-gpus-next-ai-190000472.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-gpus-next-ai-190000472.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "bab74b32-e6f3-382f-8b4d-d7c78717cc70",
-      "content": {
-        "id": "bab74b32-e6f3-382f-8b4d-d7c78717cc70",
-        "contentType": "STORY",
-        "title": "Jim Cramer Believes Meta Platforms, Inc. (NASDAQ:META) Can Do Better",
-        "description": "",
-        "summary": "Meta Platforms, Inc. (NASDAQ:META)’s shares are down by 22% over the past year and by 9% year-to-date. The stock cosed 7.9% lower on July 30th, after the firm reported its fiscal second quarter earnings the previous day. However, they are up. by 9.4% since then. Cramer, who has mostly praised Meta Platforms, Inc. (NASDAQ:META) in […]",
-        "pubDate": "2026-08-07T18:33:57Z",
-        "displayTime": "2026-08-07T18:33:57Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
-          "originalWidth": 1152,
-          "originalHeight": 768,
-          "caption": " ",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tak3wMpuXBTxJSxoMu1s0A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
-              "width": 1152,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1YlUJhYmLscmbZq2_91pWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-meta-platforms-183357464.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-meta-platforms-183357464.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8a300d83-7180-3918-afc9-0cbd25ba693f",
-      "content": {
-        "id": "8a300d83-7180-3918-afc9-0cbd25ba693f",
-        "contentType": "STORY",
-        "title": "What Does Meta (META) Have To Change After The $942 Million Teen Safety Ruling?",
-        "description": "",
-        "summary": "Meta Platforms (NasdaqGS:META) has been ordered by a New Mexico state court to pay a US$942 million penalty tied to teen safety on its platforms. The ruling requires Meta to introduce stricter protections and usage limits for teenagers, directly affecting its core social media operations. The court compared Meta's impact on youth to public pollution, framing the decision as a major test case for online child safety rules. This decision adds to growing legal and regulatory pressure around...",
-        "pubDate": "2026-08-07T18:11:56Z",
-        "displayTime": "2026-08-07T18:11:56Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BrUhbDoJKeNJUavlZ7MvVQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/J6fEwVETVa_jUCz0igm0HA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-meta-meta-change-942-181156175.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-meta-meta-change-942-181156175.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "4d8527fe-fdb9-39db-a071-29250cb25543",
-      "content": {
-        "id": "4d8527fe-fdb9-39db-a071-29250cb25543",
-        "contentType": "STORY",
-        "title": "Meta was just slapped with a $942-million bill for harming kids — it makes that back in roughly five days",
-        "description": "",
-        "summary": "The judge said there’s a limit to what the state can do to penalize a company of this size.",
-        "pubDate": "2026-08-07T17:35:00Z",
-        "displayTime": "2026-08-07T17:35:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/moneywise_327/0db873f4851e0b71ec42d531dc50db17",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "Meta CEO Mark Zuckerberg leaves the Federal Courthouse in downtown Los Angeles after defending the company in a landmark social media addiction trial.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.FMPlpyClLyXZq_91HT2DQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_327/0db873f4851e0b71ec42d531dc50db17",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/O1JvAT5qYr2P7YFb34khhg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/0db873f4851e0b71ec42d531dc50db17",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Moneywise",
-          "url": "https://moneywise.com/",
-          "sourceId": "moneywise_327"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-just-slapped-942-million-173500875.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-just-slapped-942-million-173500875.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
