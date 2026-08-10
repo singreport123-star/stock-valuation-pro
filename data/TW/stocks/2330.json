@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-08-09T22:21:47.922499"
+    "ts": "2026-08-10T22:28:40.848377"
   },
   "financials": {
     "annual": {
@@ -2666,6 +2666,15 @@
         "revenue_month": 6,
         "revenue_year": 2026,
         "create_time": "2026-07-13"
+      },
+      {
+        "date": "2026-08-01",
+        "stock_id": "2330",
+        "country": "Taiwan",
+        "revenue": 467580548000,
+        "revenue_month": 7,
+        "revenue_year": 2026,
+        "create_time": "2026-08-10"
       }
     ],
     "inst_investors": [
@@ -24648,6 +24657,41 @@
         "buy": 15796298,
         "name": "Foreign_Investor",
         "sell": 15154638
+      },
+      {
+        "date": "2026-08-10",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-08-10",
+        "stock_id": "2330",
+        "buy": 394050,
+        "name": "Dealer_self",
+        "sell": 79163
+      },
+      {
+        "date": "2026-08-10",
+        "stock_id": "2330",
+        "buy": 301245,
+        "name": "Dealer_Hedging",
+        "sell": 167877
+      },
+      {
+        "date": "2026-08-10",
+        "stock_id": "2330",
+        "buy": 13479627,
+        "name": "Foreign_Investor",
+        "sell": 13360531
+      },
+      {
+        "date": "2026-08-10",
+        "stock_id": "2330",
+        "buy": 251132,
+        "name": "Investment_Trust",
+        "sell": 98503
       }
     ],
     "margin_trading": [],
@@ -24655,342 +24699,32 @@
   },
   "news": [
     {
-      "id": "f242688d-7909-3034-897f-089770eaef33",
+      "id": "9282a0f0-4bcd-4276-a0a9-db2134e200e8",
       "content": {
-        "id": "f242688d-7909-3034-897f-089770eaef33",
+        "id": "9282a0f0-4bcd-4276-a0a9-db2134e200e8",
         "contentType": "STORY",
-        "title": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
+        "title": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45%",
         "description": "",
-        "summary": "Taiwan Semiconductor is a fantastic stock pick.",
-        "pubDate": "2026-08-09T19:50:00Z",
-        "displayTime": "2026-08-09T19:50:00Z",
+        "summary": "Shares of semiconductor tool makers jumped after Taiwan Semiconductor posted a jump in revenue for July.",
+        "pubDate": "2026-08-10T13:38:13Z",
+        "displayTime": "2026-08-10T13:38:13Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/9bad285855eb7c9258ba02e3944a20b2",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "Image of the TSMC logo.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BCMXC_7__M1XHdanDx9p5g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9bad285855eb7c9258ba02e3944a20b2",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/eyYshvpxCJSiTz4X3SDW0A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9bad285855eb7c9258ba02e3944a20b2",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/09/a-10000-investment-in-taiwan-semiconductor-today/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-taiwan-semiconductor-195000867.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "86d469cb-6c5f-3da0-87a3-8b680e4958c2",
-      "content": {
-        "id": "86d469cb-6c5f-3da0-87a3-8b680e4958c2",
-        "contentType": "STORY",
-        "title": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
-        "description": "",
-        "summary": "Ark Invest just doubled down on Nvidia and TSMC stock, and the reason why is obvious.",
-        "pubDate": "2026-08-09T07:25:00Z",
-        "displayTime": "2026-08-09T07:25:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/67177beacfac5d008f712d66e1987110",
-          "originalWidth": 1280,
-          "originalHeight": 854,
-          "caption": "Cathie Wood speaking during an interview.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NkYyeVTQ65O7_GsCoLCQ7Q--~B/aD04NTQ7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/67177beacfac5d008f712d66e1987110",
-              "width": 1280,
-              "height": 854,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/e__1kzah3kzblyjNlD6nFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/67177beacfac5d008f712d66e1987110",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/09/cathie-woods-ark-piled-into-nvidia-and-taiwan-semi/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-piled-nvidia-072500018.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a6f7a491-4673-3d8e-9246-5f4d79cf4a63",
-      "content": {
-        "id": "a6f7a491-4673-3d8e-9246-5f4d79cf4a63",
-        "contentType": "STORY",
-        "title": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
-        "description": "",
-        "summary": "The largest companies are huge because they have run their businesses very well.",
-        "pubDate": "2026-08-09T06:50:00Z",
-        "displayTime": "2026-08-09T06:50:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ca9db08f0e413188191b547b6c454465",
-          "originalWidth": 1400,
-          "originalHeight": 738,
-          "caption": "A person sits and looks up while in thought.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vFRKpR1ViVZD7Z63d38AqA--~B/aD03Mzg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ca9db08f0e413188191b547b6c454465",
-              "width": 1400,
-              "height": 738,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xuCEwAMJiioNHTC3jZYmqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ca9db08f0e413188191b547b6c454465",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/09/how-many-of-the-largest-companies-do-you-own-and-s/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/many-largest-companies-own-own-065000979.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "5f22eb67-b675-35fe-a0f8-6bccf942ee5e",
-      "content": {
-        "id": "5f22eb67-b675-35fe-a0f8-6bccf942ee5e",
-        "contentType": "STORY",
-        "title": "Jim Cramer Called Linde plc (NASDAQ:LIN)’s Share Price Movement “Stupid”",
-        "description": "",
-        "summary": "Industrial giant Linde plc (NASDAQ:LIN)’s shares are up by 4.30% over the past year and by 14% year-to-date. The stock closed 5.9% lower on July 31st, the day that it reported its second-quarter earnings. During the quarter, Linde plc (NASDAQ:LIN) posted $9.29 billion in revenue and $4.50 in adjusted earnings per share to beat analyst […]",
-        "pubDate": "2026-08-07T18:31:06Z",
-        "displayTime": "2026-08-07T18:31:06Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
-          "originalWidth": 1152,
-          "originalHeight": 768,
-          "caption": " ",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tak3wMpuXBTxJSxoMu1s0A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
-              "width": 1152,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/1YlUJhYmLscmbZq2_91pWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-called-linde-plc-183106534.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-called-linde-plc-183106534.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d95c9935-6f5f-3ef2-8626-c67b752a309b",
-      "content": {
-        "id": "d95c9935-6f5f-3ef2-8626-c67b752a309b",
-        "contentType": "STORY",
-        "title": "Forget Taiwan Semiconductor: 2 AI Semiconductor Equipment Stocks to Buy and Hold Instead",
-        "description": "",
-        "summary": "These supporting stocks often get ignored in favor of higher-profile names.",
-        "pubDate": "2026-08-07T16:50:00Z",
-        "displayTime": "2026-08-07T16:50:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/2615f38b183aa38f80486be64a96a544",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Technician examines a semiconductor wafer.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nDKaSfml3mOY3UsKi4cIdQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2615f38b183aa38f80486be64a96a544",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AUbsyEKPOlcFzoth_stj7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2615f38b183aa38f80486be64a96a544",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/07/forget-tsmc-2-ai-semiconductor-equipment/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/forget-taiwan-semiconductor-2-ai-165000875.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "58d6a1e0-fbda-31ff-a30b-8369770df329",
-      "content": {
-        "id": "58d6a1e0-fbda-31ff-a30b-8369770df329",
-        "contentType": "STORY",
-        "title": "BTQ and ITRI clear first milestone in quantum-security chip roadmap",
-        "description": "",
-        "summary": "BTQ Technologies has completed the first milestone in a multi-year effort to build chips that can protect data against future quantum computers, the company said on August 7. BTQ Technologies (Nasdaq: BTQ) is a company developing security technology for what it calls the quantum era. Its partner, ...",
-        "pubDate": "2026-08-07T16:36:23Z",
-        "displayTime": "2026-08-07T16:36:23Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/14a5196f65480ae17de501cd576b704a",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
+          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-07/18c026f0-8132-11f1-bb9d-ea7d18b91fd7",
+          "originalWidth": 6000,
+          "originalHeight": 4136,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/leIrjfscYZyVTO2Gjmpf3A--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/14a5196f65480ae17de501cd576b704a",
-              "width": 1920,
-              "height": 1080,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ufK5l8p7oREqvfNf3_NP0g--~B/aD00MTM2O3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-07/18c026f0-8132-11f1-bb9d-ea7d18b91fd7",
+              "width": 6000,
+              "height": 4136,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fW0qP57Q4FE_aivvsvE1Ng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/14a5196f65480ae17de501cd576b704a",
+              "url": "https://s.yimg.com/uu/api/res/1.2/pbUlqDno_SHmU_TjMSHtmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-07/18c026f0-8132-11f1-bb9d-ea7d18b91fd7",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24998,24 +24732,24 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/crypto/innovation/btq-and-itri-clear-first-milestone-in-quantum-security-chip-roadmap",
+          "url": "https://finance.yahoo.com/markets/stocks/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/btq-itri-clear-first-milestone-163623121.html",
+          "url": "https://finance.yahoo.com/markets/stocks/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": false
+          "editorsPick": true
         },
         "finance": {
           "premiumFinance": {
@@ -25027,32 +24761,32 @@
       }
     },
     {
-      "id": "20af072b-ab10-35e5-a078-fc21408d197e",
+      "id": "f68ebe2d-276a-3ec4-89f2-69daaa1475ed",
       "content": {
-        "id": "20af072b-ab10-35e5-a078-fc21408d197e",
+        "id": "f68ebe2d-276a-3ec4-89f2-69daaa1475ed",
         "contentType": "STORY",
-        "title": "Could Taiwan Semiconductor Manufacturing (TSM) Be the Most Critical Bottleneck in the AI Chip Boom?",
+        "title": "Applied Materials (AMAT) Gets A Demand Lift From 44.7% AI Chip Growth",
         "description": "",
-        "summary": "Sands Capital, an investment management company, released its “Sands Capital Technology Innovators Fund” Q2 2026 investor letter. A copy of the letter can be downloaded here. In the quarter, global equities rebounded sharply, with the MSCI ACWI posting its strongest quarterly gain since 2020, supported by broad market strength, easing geopolitical tensions, and continued enthusiasm for […]",
-        "pubDate": "2026-08-07T15:21:56Z",
-        "displayTime": "2026-08-07T15:21:56Z",
+        "summary": "Applied Materials (NasdaqGS: AMAT) is in focus after TSMC reported a 44.7% year over year revenue jump in July on strong AI chip demand. TSMC, the leading semiconductor foundry, cited AI related chips as a key driver of July revenue, signaling strong demand for advanced manufacturing capacity. The surge in TSMC revenue points to potential increases in capital spending on wafer fabrication and equipment that could be relevant for chip equipment suppliers. Stronger AI chip demand at TSMC...",
+        "pubDate": "2026-08-10T21:09:41Z",
+        "displayTime": "2026-08-10T21:09:41Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
-          "originalWidth": 768,
-          "originalHeight": 430,
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
+          "originalWidth": 1194,
+          "originalHeight": 432,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tCOW6llD_6zKTOeDO62Lmw--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
-              "width": 768,
-              "height": 430,
+              "url": "https://s.yimg.com/uu/api/res/1.2/mKc.reAobIqN0pRLFgUsDQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
+              "width": 1194,
+              "height": 432,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3YrBn2qkfInvbSvM95LGXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+              "url": "https://s.yimg.com/uu/api/res/1.2/fDWj3i2q23Hz4JLTMAbekg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -25060,18 +24794,18 @@
           ]
         },
         "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/could-taiwan-semiconductor-manufacturing-tsm-152156862.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-gets-demand-210941837.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/could-taiwan-semiconductor-manufacturing-tsm-152156862.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-gets-demand-210941837.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -25089,94 +24823,32 @@
       }
     },
     {
-      "id": "4c059d34-a61d-3e80-bdc1-44aa7e7dae81",
+      "id": "f4a2cd6d-e861-305e-b2e4-431697498054",
       "content": {
-        "id": "4c059d34-a61d-3e80-bdc1-44aa7e7dae81",
+        "id": "f4a2cd6d-e861-305e-b2e4-431697498054",
         "contentType": "STORY",
-        "title": "Semiconductor Sales Continue to Grow on AI Optimism: 4 Stocks to Grab",
+        "title": "TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug",
         "description": "",
-        "summary": "MU and semiconductor sales surge as AI demand supports chip growth, with four stocks highlighted for potential upside.",
-        "pubDate": "2026-08-07T13:36:00Z",
-        "displayTime": "2026-08-07T13:36:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/f3466aebbef6850826a46314bf4b3ccf",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/yq04QnX6H3bPSGZ9wbT0Ig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f3466aebbef6850826a46314bf4b3ccf",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DpuXJP4iA.6Po3Dc3WzOWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f3466aebbef6850826a46314bf4b3ccf",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/semiconductor-sales-continue-grow-ai-133600129.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/semiconductor-sales-continue-grow-ai-133600129.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "316189c0-0208-3a52-907e-8f1448ccd2e8",
-      "content": {
-        "id": "316189c0-0208-3a52-907e-8f1448ccd2e8",
-        "contentType": "STORY",
-        "title": "Dow Jones Futures Rise As Cloudflare Leads Big Software Winners; Jobs Report On Tap",
-        "description": "",
-        "summary": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late.",
-        "pubDate": "2026-08-07T12:03:57Z",
-        "displayTime": "2026-08-07T12:03:57Z",
+        "summary": "TSMC said its sales in July rose nearly 6% from June and 45% year over year thanks to strong demand for AI chips.",
+        "pubDate": "2026-08-10T21:01:52Z",
+        "displayTime": "2026-08-10T21:01:52Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures-rise-as.html",
+        "previewUrl": "https://finance.yahoo.com/m/f4a2cd6d-e861-305e-b2e4-431697498054/tsmc-sales-jump-45-on-strong.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/28ad5e95b79cd942453df4d3a968579b",
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/f573ab1c6f63691a764e5395d29b2a37",
           "originalWidth": 1000,
           "originalHeight": 563,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DRzDdo_GF4H6QLGA.sqYNQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/28ad5e95b79cd942453df4d3a968579b",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ii4m5IQM7pj7JJ7mHWLiZg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f573ab1c6f63691a764e5395d29b2a37",
               "width": 1000,
               "height": 563,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SZsik52qwwlKW77EXpGs7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/28ad5e95b79cd942453df4d3a968579b",
+              "url": "https://s.yimg.com/uu/api/res/1.2/.0VXiHXj8PfO4gdStsiWuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/f573ab1c6f63691a764e5395d29b2a37",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -25189,7 +24861,7 @@
           "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobs-report-cloudflare-sezzle-earnings-movers/?src=A00220&yptr=yahoo",
+          "url": "https://www.investors.com/news/technology/tsm-stock-tsmc-july-sales-sox-index/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -25208,32 +24880,356 @@
       }
     },
     {
-      "id": "44f43c8d-e196-3a92-904d-54129c8fc7b0",
+      "id": "1b1029b5-e8b9-3ad6-8694-3ae17d20f495",
       "content": {
-        "id": "44f43c8d-e196-3a92-904d-54129c8fc7b0",
+        "id": "1b1029b5-e8b9-3ad6-8694-3ae17d20f495",
         "contentType": "STORY",
-        "title": "Lazard Fund Beating 93% of Peers Adds Samsung During Memory Rout",
+        "title": "The ETFs Most Exposed to the 2026 Chip Supply Chain Crisis — Winners and Losers",
         "description": "",
-        "summary": "(Bloomberg) -- The manager of a $9.6 billion Lazard Asset Management fund used the July plunge in Samsung Electronics Co. to add the stock to her portfolio for the first time in more than a year.Most Read from BloombergOpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIran Says Agreement on Hormuz Shipping Reached With OmanTrump Administration Considers Order on Autism and VaccinesIshbia’s Mortgage Firm Suffers Record D",
-        "pubDate": "2026-08-07T06:14:37Z",
-        "displayTime": "2026-08-07T06:14:37Z",
+        "summary": "<p>High-bandwidth memory is sold out for all of 2026. SK Hynix has warned the shortage could last past 2030. Automakers are cutting production of budget models, and PC and smartphone prices are set to rise 10-20% by year-end. The chip supply chain crisis is the defining market story of 2026 and it is reshaping which ETFs win and which get squeezed. Here are the funds most exposed, on both sides of the trade.</p>",
+        "pubDate": "2026-08-10T20:15:22Z",
+        "displayTime": "2026-08-10T20:15:22Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/indexuniverse.com/ad8cc6c7e427f938acc6314f383dd877",
+          "originalWidth": 760,
+          "originalHeight": 520,
+          "caption": "Semiconductor chip",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/..yR7NdBkXEe998rhe4NuQ--~B/aD01MjA7dz03NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/ad8cc6c7e427f938acc6314f383dd877",
+              "width": 760,
+              "height": 520,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yQ6.NVtT6Rl0_Qr.mRtklQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/ad8cc6c7e427f938acc6314f383dd877",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
         "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
+          "displayName": "etf.com",
+          "url": "https://www.etf.com/",
+          "sourceId": "indexuniverse.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lazard-fund-beating-93-peers-061437504.html",
+          "url": "http://www.etf.com/sections/news/etfs-most-exposed-2026-chip-supply-chain-crisis-winners-and-losers?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lazard-fund-beating-93-peers-061437504.html",
+          "url": "https://finance.yahoo.com/technology/articles/etfs-most-exposed-2026-chip-201522189.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3fa6825c-f0cf-3012-b3ca-8afa12f2b5c9",
+      "content": {
+        "id": "3fa6825c-f0cf-3012-b3ca-8afa12f2b5c9",
+        "contentType": "STORY",
+        "title": "ASML Stock Rises 1.7% as AI Demand Signal Strengthens",
+        "description": "",
+        "summary": "TSMC's accelerating monthly sales reinforce ASML's decision to expand lithography capacity by approximately 30% annually.",
+        "pubDate": "2026-08-10T20:03:47Z",
+        "displayTime": "2026-08-10T20:03:47Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-rises-1-7-200347865.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-rises-1-7-200347865.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "233aa611-7939-3d15-894b-dda2fe14a308",
+      "content": {
+        "id": "233aa611-7939-3d15-894b-dda2fe14a308",
+        "contentType": "STORY",
+        "title": "Why Intel Stock Is Falling Today",
+        "description": "",
+        "summary": "Intel Stock Falls as Chip Giant Unveils $15 Billion AI-Focused Funding Plan",
+        "pubDate": "2026-08-10T19:57:55Z",
+        "displayTime": "2026-08-10T19:57:55Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-falling-today-195755496.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-falling-today-195755496.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d4942994-33df-36f0-8f6d-cc4d4e58e946",
+      "content": {
+        "id": "d4942994-33df-36f0-8f6d-cc4d4e58e946",
+        "contentType": "STORY",
+        "title": "Microsoft Is Set to Make a Whole Lot More of Its Own AI Chips",
+        "description": "",
+        "summary": "Microsoft joins a growing field of tech companies scaling up production of their own chips to battle AI costs.",
+        "pubDate": "2026-08-10T19:50:00Z",
+        "displayTime": "2026-08-10T19:50:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/d4942994-33df-36f0-8f6d-cc4d4e58e946/microsoft-is-set-to-make-a.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/2ff809f670146f0bb3dacde6a2dfac2d",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5GhyYhlT2L3X4O26ow3xDQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2ff809f670146f0bb3dacde6a2dfac2d",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/na9JNz6gOGXQpRS37DEg.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2ff809f670146f0bb3dacde6a2dfac2d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/microsoft-ai-chips-6a99e6f5?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d04c95c2-b091-3f35-9830-055442303e87",
+      "content": {
+        "id": "d04c95c2-b091-3f35-9830-055442303e87",
+        "contentType": "STORY",
+        "title": "Stocks to Watch: Berkshire Hathaway, Applied Materials, Sunrise Energy",
+        "description": "",
+        "summary": "↗️ Berkshire Hathaway (BRK.B): The company said its quarterly profit more than doubled, powered by investment gains and strong results from its industrial and retail businesses. Shares were up 1.3% in late afternoon trading.",
+        "pubDate": "2026-08-10T19:27:15Z",
+        "displayTime": "2026-08-10T19:27:15Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/d04c95c2-b091-3f35-9830-055442303e87/stocks-to-watch-berkshire.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/0fbf9851de26f3476c0f617f934f5b6b",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6iCg_N1pKOvZzU0e4DBQXA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/0fbf9851de26f3476c0f617f934f5b6b",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/sXK76v3qvYJfYFGYuJfDPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/0fbf9851de26f3476c0f617f934f5b6b",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026/card/stocks-to-watch-berkshire-hathaway-super-micro-computer-sunrise-energy-lRwcXvs1cYkQcD4lv59a?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8d8b0f48-50a3-3cbf-bc42-72fdcb7c1f7d",
+      "content": {
+        "id": "8d8b0f48-50a3-3cbf-bc42-72fdcb7c1f7d",
+        "contentType": "STORY",
+        "title": "Microsoft Rethinks Its Nvidia Reliance",
+        "description": "",
+        "summary": "Custom silicon could reshape Microsoft's AI cost structure",
+        "pubDate": "2026-08-10T18:52:18Z",
+        "displayTime": "2026-08-10T18:52:18Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-rethinks-nvidia-reliance-185218565.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-rethinks-nvidia-reliance-185218565.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "32423fcb-5160-301e-8826-05f66bfba691",
+      "content": {
+        "id": "32423fcb-5160-301e-8826-05f66bfba691",
+        "contentType": "STORY",
+        "title": "ASML Faces a Fresh Threat Out of China. Is the Dip in the Stock Worth Buying?",
+        "description": "",
+        "summary": "A Chinese company is reportedly manufacturing its own DUV systems.",
+        "pubDate": "2026-08-10T18:30:00Z",
+        "displayTime": "2026-08-10T18:30:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/976a4a57c869a1c9724d7bbc910bd69d",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Two silicon wafers.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HTgXM_jpAxFByL6zcy0rRw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/976a4a57c869a1c9724d7bbc910bd69d",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/uTPqUkaCGzgYsfiQW8MI9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/976a4a57c869a1c9724d7bbc910bd69d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/10/asml-faces-a-fresh-threat-out-of-china-is-the-dip/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-faces-fresh-threat-china-183000881.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -25363,24 +25359,24 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2365.0,
+    "previousClose": 2370.0,
     "open": 2390.0,
-    "dayLow": 2355.0,
-    "dayHigh": 2395.0,
-    "regularMarketPreviousClose": 2365.0,
+    "dayLow": 2380.0,
+    "dayHigh": 2410.0,
+    "regularMarketPreviousClose": 2370.0,
     "regularMarketOpen": 2390.0,
-    "regularMarketDayLow": 2355.0,
-    "regularMarketDayHigh": 2395.0,
+    "regularMarketDayLow": 2380.0,
+    "regularMarketDayHigh": 2410.0,
     "dividendRate": 24.0,
     "dividendYield": 1.01,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2785,
     "fiveYearAvgDividendYield": 1.69,
     "beta": 1.258,
-    "trailingPE": 32.153034,
-    "forwardPE": 17.190422,
-    "volume": 22870025,
-    "regularMarketVolume": 22870025,
+    "trailingPE": 32.36334,
+    "forwardPE": 17.192911,
+    "volume": 19997608,
+    "regularMarketVolume": 19997608,
     "averageVolume": 33422562,
     "averageVolume10days": 36041854,
     "averageDailyVolume10Day": 36041854,
@@ -25388,46 +25384,46 @@
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 61459715325952,
+    "marketCap": 61719040753664,
     "nonDilutedMarketCap": 61459717058790,
     "fiftyTwoWeekLow": 1135.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 13.840743,
+    "priceToSalesTrailing12Months": 13.899143,
     "fiftyDayAverage": 2379.9,
     "twoHundredDayAverage": 1939.625,
     "trailingAnnualDividendRate": 12.0,
-    "trailingAnnualDividendYield": 0.005073996,
+    "trailingAnnualDividendYield": 0.005063291,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 58965228519424,
+    "enterpriseValue": 59224545558528,
     "profitMargins": 0.49923,
-    "floatShares": 23441490720,
+    "floatShares": 23511766440,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00022,
     "heldPercentInstitutions": 0.42969,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.053,
-    "priceToBook": 9.55441,
+    "priceToBook": 9.594724,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808939520,
-    "trailingEps": 73.71,
-    "forwardEps": 137.86748,
+    "trailingEps": 73.54,
+    "forwardEps": 138.42914,
     "pegRatio": 0.89,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.279,
-    "enterpriseToEbitda": 18.57,
+    "enterpriseToRevenue": 13.337,
+    "enterpriseToEbitda": 18.652,
     "52WeekChange": 1.0084746,
     "SandP52WeekChange": 0.21718061,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
-    "currentPrice": 2370.0,
+    "currentPrice": 2380.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2147.0,
     "targetMeanPrice": 3126.7485,
@@ -25462,28 +25458,20 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "marketState": "PREPRE",
-    "corporateActions": [],
-    "regularMarketTime": 1786080606,
-    "exchange": "TAI",
-    "messageBoardId": "finmb_380075",
-    "exchangeTimezoneName": "Asia/Taipei",
-    "exchangeTimezoneShortName": "CST",
-    "gmtOffSetMilliseconds": 28800000,
-    "market": "tw_market",
-    "esgPopulated": false,
     "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": 5.0,
-    "regularMarketDayRange": "2355.0 - 2395.0",
+    "regularMarketChangePercent": 0.42194092,
+    "regularMarketPrice": 2380.0,
+    "marketState": "PREPRE",
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "regularMarketChange": 10.0,
+    "regularMarketDayRange": "2380.0 - 2410.0",
     "fullExchangeName": "Taiwan",
     "averageDailyVolume3Month": 33422562,
-    "fiftyTwoWeekLowChange": 1235.0,
-    "fiftyTwoWeekLowChangePercent": 1.0881057,
+    "fiftyTwoWeekLowChange": 1245.0,
+    "fiftyTwoWeekLowChangePercent": 1.0969163,
     "fiftyTwoWeekRange": "1135.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -165.0,
-    "fiftyTwoWeekHighChangePercent": -0.06508876,
+    "fiftyTwoWeekHighChange": -155.0,
+    "fiftyTwoWeekHighChangePercent": -0.061143983,
     "fiftyTwoWeekChangePercent": 100.84746,
     "earningsTimestamp": 1784179800,
     "earningsTimestampStart": 1792042200,
@@ -25491,21 +25479,29 @@
     "earningsCallTimestampStart": 1784181600,
     "earningsCallTimestampEnd": 1784181600,
     "isEarningsDateEstimate": false,
-    "epsTrailingTwelveMonths": 73.71,
-    "epsForward": 137.86748,
+    "epsTrailingTwelveMonths": 73.54,
+    "epsForward": 138.42914,
     "epsCurrentYear": 107.06744,
-    "priceEpsCurrentYear": 22.135582,
-    "fiftyDayAverageChange": -9.899902,
-    "fiftyDayAverageChangePercent": -0.004159798,
-    "twoHundredDayAverageChange": 430.375,
-    "twoHundredDayAverageChangePercent": 0.22188568,
+    "priceEpsCurrentYear": 22.228981,
+    "fiftyDayAverageChange": 0.100097656,
+    "fiftyDayAverageChangePercent": 4.2059608e-05,
+    "twoHundredDayAverageChange": 440.375,
+    "twoHundredDayAverageChangePercent": 0.2270413,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
     "cryptoTradeable": false,
-    "regularMarketChangePercent": 0.21141648,
-    "regularMarketPrice": 2370.0,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "corporateActions": [],
+    "regularMarketTime": 1786339802,
+    "exchange": "TAI",
+    "messageBoardId": "finmb_380075",
+    "exchangeTimezoneName": "Asia/Taipei",
+    "exchangeTimezoneShortName": "CST",
+    "gmtOffSetMilliseconds": 28800000,
+    "market": "tw_market",
+    "esgPopulated": false,
     "trailingPegRatio": 0.8866
   }
 }
