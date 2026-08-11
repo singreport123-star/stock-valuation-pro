@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-08-10T22:28:40.848377"
+    "ts": "2026-08-11T22:33:52.529201"
   },
   "financials": {
     "annual": {
@@ -24692,6 +24692,41 @@
         "buy": 251132,
         "name": "Investment_Trust",
         "sell": 98503
+      },
+      {
+        "date": "2026-08-11",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-08-11",
+        "stock_id": "2330",
+        "buy": 71250,
+        "name": "Dealer_self",
+        "sell": 151000
+      },
+      {
+        "date": "2026-08-11",
+        "stock_id": "2330",
+        "buy": 72630,
+        "name": "Dealer_Hedging",
+        "sell": 181813
+      },
+      {
+        "date": "2026-08-11",
+        "stock_id": "2330",
+        "buy": 13868559,
+        "name": "Foreign_Investor",
+        "sell": 10370322
+      },
+      {
+        "date": "2026-08-11",
+        "stock_id": "2330",
+        "buy": 445988,
+        "name": "Investment_Trust",
+        "sell": 64148
       }
     ],
     "margin_trading": [],
@@ -24699,156 +24734,32 @@
   },
   "news": [
     {
-      "id": "9282a0f0-4bcd-4276-a0a9-db2134e200e8",
+      "id": "7170c7f6-3bd3-35bf-bee2-a691a7f3afbd",
       "content": {
-        "id": "9282a0f0-4bcd-4276-a0a9-db2134e200e8",
+        "id": "7170c7f6-3bd3-35bf-bee2-a691a7f3afbd",
         "contentType": "STORY",
-        "title": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45%",
+        "title": "Dow Jones Futures: Stocks Pause Before CPI Inflation; 3 Nvidia Partners Lead Earnings Movers Late",
         "description": "",
-        "summary": "Shares of semiconductor tool makers jumped after Taiwan Semiconductor posted a jump in revenue for July.",
-        "pubDate": "2026-08-10T13:38:13Z",
-        "displayTime": "2026-08-10T13:38:13Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-07/18c026f0-8132-11f1-bb9d-ea7d18b91fd7",
-          "originalWidth": 6000,
-          "originalHeight": 4136,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ufK5l8p7oREqvfNf3_NP0g--~B/aD00MTM2O3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-07/18c026f0-8132-11f1-bb9d-ea7d18b91fd7",
-              "width": 6000,
-              "height": 4136,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pbUlqDno_SHmU_TjMSHtmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-07/18c026f0-8132-11f1-bb9d-ea7d18b91fd7",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f68ebe2d-276a-3ec4-89f2-69daaa1475ed",
-      "content": {
-        "id": "f68ebe2d-276a-3ec4-89f2-69daaa1475ed",
-        "contentType": "STORY",
-        "title": "Applied Materials (AMAT) Gets A Demand Lift From 44.7% AI Chip Growth",
-        "description": "",
-        "summary": "Applied Materials (NasdaqGS: AMAT) is in focus after TSMC reported a 44.7% year over year revenue jump in July on strong AI chip demand. TSMC, the leading semiconductor foundry, cited AI related chips as a key driver of July revenue, signaling strong demand for advanced manufacturing capacity. The surge in TSMC revenue points to potential increases in capital spending on wafer fabrication and equipment that could be relevant for chip equipment suppliers. Stronger AI chip demand at TSMC...",
-        "pubDate": "2026-08-10T21:09:41Z",
-        "displayTime": "2026-08-10T21:09:41Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mKc.reAobIqN0pRLFgUsDQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fDWj3i2q23Hz4JLTMAbekg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e3984aabc512bf84f3b7f3c0af116fa5",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-gets-demand-210941837.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-amat-gets-demand-210941837.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f4a2cd6d-e861-305e-b2e4-431697498054",
-      "content": {
-        "id": "f4a2cd6d-e861-305e-b2e4-431697498054",
-        "contentType": "STORY",
-        "title": "TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug",
-        "description": "",
-        "summary": "TSMC said its sales in July rose nearly 6% from June and 45% year over year thanks to strong demand for AI chips.",
-        "pubDate": "2026-08-10T21:01:52Z",
-        "displayTime": "2026-08-10T21:01:52Z",
+        "summary": "The major market indexes pulled back amid higher oil prices and upcoming CPI inflation data. Nvidia partners Lumentum, CoreWeave, Super Micro reported late.",
+        "pubDate": "2026-08-11T22:15:38Z",
+        "displayTime": "2026-08-11T22:15:38Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/f4a2cd6d-e861-305e-b2e4-431697498054/tsmc-sales-jump-45-on-strong.html",
+        "previewUrl": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures-stocks.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/f573ab1c6f63691a764e5395d29b2a37",
-          "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/900ebd097ac67cb752ad0a04001cac81.jpg",
+          "originalWidth": 720,
+          "originalHeight": 406,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Ii4m5IQM7pj7JJ7mHWLiZg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f573ab1c6f63691a764e5395d29b2a37",
-              "width": 1000,
-              "height": 563,
+              "url": "https://s.yimg.com/uu/api/res/1.2/jx2vdiWZ1VGAzG8FgIJ1fQ--~B/aD00MDY7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/900ebd097ac67cb752ad0a04001cac81.jpg",
+              "width": 720,
+              "height": 406,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.0VXiHXj8PfO4gdStsiWuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/f573ab1c6f63691a764e5395d29b2a37",
+              "url": "https://s.yimg.com/uu/api/res/1.2/oDsgQVzOqhryPrDK2wGQ3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/900ebd097ac67cb752ad0a04001cac81.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24861,7 +24772,7 @@
           "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/news/technology/tsm-stock-tsmc-july-sales-sox-index/?src=A00220&yptr=yahoo",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24880,77 +24791,15 @@
       }
     },
     {
-      "id": "1b1029b5-e8b9-3ad6-8694-3ae17d20f495",
+      "id": "6a2e9cac-0e0b-3e66-92fc-b3a047ad9c4a",
       "content": {
-        "id": "1b1029b5-e8b9-3ad6-8694-3ae17d20f495",
+        "id": "6a2e9cac-0e0b-3e66-92fc-b3a047ad9c4a",
         "contentType": "STORY",
-        "title": "The ETFs Most Exposed to the 2026 Chip Supply Chain Crisis — Winners and Losers",
+        "title": "Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC",
         "description": "",
-        "summary": "<p>High-bandwidth memory is sold out for all of 2026. SK Hynix has warned the shortage could last past 2030. Automakers are cutting production of budget models, and PC and smartphone prices are set to rise 10-20% by year-end. The chip supply chain crisis is the defining market story of 2026 and it is reshaping which ETFs win and which get squeezed. Here are the funds most exposed, on both sides of the trade.</p>",
-        "pubDate": "2026-08-10T20:15:22Z",
-        "displayTime": "2026-08-10T20:15:22Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/indexuniverse.com/ad8cc6c7e427f938acc6314f383dd877",
-          "originalWidth": 760,
-          "originalHeight": 520,
-          "caption": "Semiconductor chip",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/..yR7NdBkXEe998rhe4NuQ--~B/aD01MjA7dz03NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/ad8cc6c7e427f938acc6314f383dd877",
-              "width": 760,
-              "height": 520,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/yQ6.NVtT6Rl0_Qr.mRtklQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/ad8cc6c7e427f938acc6314f383dd877",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "etf.com",
-          "url": "https://www.etf.com/",
-          "sourceId": "indexuniverse.com"
-        },
-        "canonicalUrl": {
-          "url": "http://www.etf.com/sections/news/etfs-most-exposed-2026-chip-supply-chain-crisis-winners-and-losers?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/etfs-most-exposed-2026-chip-201522189.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "3fa6825c-f0cf-3012-b3ca-8afa12f2b5c9",
-      "content": {
-        "id": "3fa6825c-f0cf-3012-b3ca-8afa12f2b5c9",
-        "contentType": "STORY",
-        "title": "ASML Stock Rises 1.7% as AI Demand Signal Strengthens",
-        "description": "",
-        "summary": "TSMC's accelerating monthly sales reinforce ASML's decision to expand lithography capacity by approximately 30% annually.",
-        "pubDate": "2026-08-10T20:03:47Z",
-        "displayTime": "2026-08-10T20:03:47Z",
+        "summary": "Microsoft New AI Chip May Create a Fresh Threat to Nvidia",
+        "pubDate": "2026-08-11T19:20:55Z",
+        "displayTime": "2026-08-11T19:20:55Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -24961,13 +24810,13 @@
           "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-rises-1-7-200347865.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-chip-could-big-192055770.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-rises-1-7-200347865.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-chip-could-big-192055770.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24985,15 +24834,15 @@
       }
     },
     {
-      "id": "233aa611-7939-3d15-894b-dda2fe14a308",
+      "id": "a08794e0-c7b2-3245-a48d-12710a1b667c",
       "content": {
-        "id": "233aa611-7939-3d15-894b-dda2fe14a308",
+        "id": "a08794e0-c7b2-3245-a48d-12710a1b667c",
         "contentType": "STORY",
-        "title": "Why Intel Stock Is Falling Today",
+        "title": "Microsoft Stock Slips as Custom AI-Chip Ambitions Accelerate",
         "description": "",
-        "summary": "Intel Stock Falls as Chip Giant Unveils $15 Billion AI-Focused Funding Plan",
-        "pubDate": "2026-08-10T19:57:55Z",
-        "displayTime": "2026-08-10T19:57:55Z",
+        "summary": "Microsoft's expanding Maia program could lower inference costs while reducing its reliance on externally supplied accelerators.",
+        "pubDate": "2026-08-11T19:15:35Z",
+        "displayTime": "2026-08-11T19:15:35Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -25004,13 +24853,13 @@
           "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-falling-today-195755496.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-slips-custom-ai-191535812.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-falling-today-195755496.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-slips-custom-ai-191535812.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -25028,32 +24877,32 @@
       }
     },
     {
-      "id": "d4942994-33df-36f0-8f6d-cc4d4e58e946",
+      "id": "da27e2e0-805d-3eae-afea-25616ff04a1d",
       "content": {
-        "id": "d4942994-33df-36f0-8f6d-cc4d4e58e946",
+        "id": "da27e2e0-805d-3eae-afea-25616ff04a1d",
         "contentType": "STORY",
-        "title": "Microsoft Is Set to Make a Whole Lot More of Its Own AI Chips",
+        "title": "ASML Holding (ENXTAM:ASML) Gains On TSMC Demand Signal, Is The Stock Now Too Expensive?",
         "description": "",
-        "summary": "Microsoft joins a growing field of tech companies scaling up production of their own chips to battle AI costs.",
-        "pubDate": "2026-08-10T19:50:00Z",
-        "displayTime": "2026-08-10T19:50:00Z",
-        "isHosted": false,
+        "summary": "Strong revenue figures and an upgraded outlook from Taiwan Semiconductor Manufacturing have put a fresh spotlight on ASML Holding (ENXTAM:ASML) as investors reassess how rising AI chip demand could affect the stock. See our latest analysis for ASML Holding. The ASML Holding share price has moved sharply this year, with a 1-day share price return of 2.66% and 7-day share price return of 5.53% around TSMC’s strong revenue update. The year-to-date share price return of 57.56% and 1-year total...",
+        "pubDate": "2026-08-11T19:14:33Z",
+        "displayTime": "2026-08-11T19:14:33Z",
+        "isHosted": true,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/d4942994-33df-36f0-8f6d-cc4d4e58e946/microsoft-is-set-to-make-a.html",
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/2ff809f670146f0bb3dacde6a2dfac2d",
-          "originalWidth": 1280,
-          "originalHeight": 640,
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5GhyYhlT2L3X4O26ow3xDQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2ff809f670146f0bb3dacde6a2dfac2d",
-              "width": 1280,
-              "height": 640,
+              "url": "https://s.yimg.com/uu/api/res/1.2/pjyX36.59jkPI0zNN59xGw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
+              "width": 1194,
+              "height": 432,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/na9JNz6gOGXQpRS37DEg.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2ff809f670146f0bb3dacde6a2dfac2d",
+              "url": "https://s.yimg.com/uu/api/res/1.2/j1HHAomrGBcFOFymg0gl_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -25061,17 +24910,22 @@
           ]
         },
         "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/microsoft-ai-chips-6a99e6f5?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-enxtam-asml-gains-191433381.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-enxtam-asml-gains-191433381.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
@@ -25085,72 +24939,15 @@
       }
     },
     {
-      "id": "d04c95c2-b091-3f35-9830-055442303e87",
+      "id": "7e434cdb-004d-39bd-8f8d-02f9be9d9923",
       "content": {
-        "id": "d04c95c2-b091-3f35-9830-055442303e87",
+        "id": "7e434cdb-004d-39bd-8f8d-02f9be9d9923",
         "contentType": "STORY",
-        "title": "Stocks to Watch: Berkshire Hathaway, Applied Materials, Sunrise Energy",
+        "title": "Marvell Could Be Next Winner in Microsoft AI Bet",
         "description": "",
-        "summary": "↗️ Berkshire Hathaway (BRK.B): The company said its quarterly profit more than doubled, powered by investment gains and strong results from its industrial and retail businesses. Shares were up 1.3% in late afternoon trading.",
-        "pubDate": "2026-08-10T19:27:15Z",
-        "displayTime": "2026-08-10T19:27:15Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/d04c95c2-b091-3f35-9830-055442303e87/stocks-to-watch-berkshire.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/0fbf9851de26f3476c0f617f934f5b6b",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6iCg_N1pKOvZzU0e4DBQXA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/0fbf9851de26f3476c0f617f934f5b6b",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/sXK76v3qvYJfYFGYuJfDPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/0fbf9851de26f3476c0f617f934f5b6b",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026/card/stocks-to-watch-berkshire-hathaway-super-micro-computer-sunrise-energy-lRwcXvs1cYkQcD4lv59a?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8d8b0f48-50a3-3cbf-bc42-72fdcb7c1f7d",
-      "content": {
-        "id": "8d8b0f48-50a3-3cbf-bc42-72fdcb7c1f7d",
-        "contentType": "STORY",
-        "title": "Microsoft Rethinks Its Nvidia Reliance",
-        "description": "",
-        "summary": "Custom silicon could reshape Microsoft's AI cost structure",
-        "pubDate": "2026-08-10T18:52:18Z",
-        "displayTime": "2026-08-10T18:52:18Z",
+        "summary": "Microsoft's next silicon push could create an unexpected beneficiary",
+        "pubDate": "2026-08-11T17:40:05Z",
+        "displayTime": "2026-08-11T17:40:05Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -25161,13 +24958,13 @@
           "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-rethinks-nvidia-reliance-185218565.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-could-next-winner-microsoft-174005451.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-rethinks-nvidia-reliance-185218565.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-could-next-winner-microsoft-174005451.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -25185,32 +24982,32 @@
       }
     },
     {
-      "id": "32423fcb-5160-301e-8826-05f66bfba691",
+      "id": "1d7bbe95-3a8b-363a-9db0-1c49f23882d4",
       "content": {
-        "id": "32423fcb-5160-301e-8826-05f66bfba691",
+        "id": "1d7bbe95-3a8b-363a-9db0-1c49f23882d4",
         "contentType": "STORY",
-        "title": "ASML Faces a Fresh Threat Out of China. Is the Dip in the Stock Worth Buying?",
+        "title": "Why ASML Holding Stock Rallied Tuesday Morning",
         "description": "",
-        "summary": "A Chinese company is reportedly manufacturing its own DUV systems.",
-        "pubDate": "2026-08-10T18:30:00Z",
-        "displayTime": "2026-08-10T18:30:00Z",
+        "summary": "A customer's robust sales are fueling the rally.",
+        "pubDate": "2026-08-11T17:23:23Z",
+        "displayTime": "2026-08-11T17:23:23Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/976a4a57c869a1c9724d7bbc910bd69d",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Two silicon wafers.",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5f970962c16782f27f3da27d8c5d908d.png",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "The ASML logo superimposed over an image of one of the company's lithography systems.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HTgXM_jpAxFByL6zcy0rRw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/976a4a57c869a1c9724d7bbc910bd69d",
-              "width": 1400,
-              "height": 933,
+              "url": "https://s.yimg.com/uu/api/res/1.2/.NeKxJQkVMHZl37fTHdY5w--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5f970962c16782f27f3da27d8c5d908d.png",
+              "width": 1200,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uTPqUkaCGzgYsfiQW8MI9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/976a4a57c869a1c9724d7bbc910bd69d",
+              "url": "https://s.yimg.com/uu/api/res/1.2/c2nGSwF9H2kTN39emG_Usw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5f970962c16782f27f3da27d8c5d908d.png",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -25223,17 +25020,203 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/10/asml-faces-a-fresh-threat-out-of-china-is-the-dip/",
+          "url": "https://www.fool.com/investing/2026/08/11/why-asml-holding-stock-rallied-tuesday-morning/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-faces-fresh-threat-china-183000881.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-asml-holding-stock-rallied-172323164.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "14fc6f73-db3a-374a-9dc6-31ec308b3487",
+      "content": {
+        "id": "14fc6f73-db3a-374a-9dc6-31ec308b3487",
+        "contentType": "STORY",
+        "title": "TSMC Stock Rises as Bernstein Spots Massive CPU Opportunity",
+        "description": "",
+        "summary": "TSMC Stock Rises as Bernstein Spots Massive CPU Opportunity",
+        "pubDate": "2026-08-11T15:49:20Z",
+        "displayTime": "2026-08-11T15:49:20Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-bernstein-spots-154920503.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-bernstein-spots-154920503.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "96112bd3-e9e8-3459-a834-ba9b23ee34fd",
+      "content": {
+        "id": "96112bd3-e9e8-3459-a834-ba9b23ee34fd",
+        "contentType": "STORY",
+        "title": "ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand",
+        "description": "",
+        "summary": "ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand",
+        "pubDate": "2026-08-11T15:45:23Z",
+        "displayTime": "2026-08-11T15:45:23Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-jumps-4-1-154523781.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-jumps-4-1-154523781.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7da30c5c-0701-3fbe-8fac-b37f84f44eef",
+      "content": {
+        "id": "7da30c5c-0701-3fbe-8fac-b37f84f44eef",
+        "contentType": "STORY",
+        "title": "Microsoft's Maia 300 Could Be a Win for Marvell and TSMC",
+        "description": "",
+        "summary": "Microsoft is reportedly seeking capacity for more than 300,000 chips in 2027.",
+        "pubDate": "2026-08-11T15:10:04Z",
+        "displayTime": "2026-08-11T15:10:04Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-maia-300-could-win-151004887.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-maia-300-could-win-151004887.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "07231a19-d990-3bdf-97ac-46be445719e1",
+      "content": {
+        "id": "07231a19-d990-3bdf-97ac-46be445719e1",
+        "contentType": "STORY",
+        "title": "Nvidia Rises Amid Massive Wall Street Partnership; Is Nvidia A Buy Now?",
+        "description": "",
+        "summary": "Nvidia rises in a base on Tuesday after the company announced a partnership with large investment banks to raise $500 billion.",
+        "pubDate": "2026-08-11T14:42:50Z",
+        "displayTime": "2026-08-11T14:42:50Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/07231a19-d990-3bdf-97ac-46be445719e1/nvidia-rises-amid-massive.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/fdb94943d2246b226d3097f7cc05b8d0",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MKkJXByJ5Makuns8v7ks2w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fdb94943d2246b226d3097f7cc05b8d0",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0A2jnAzI3jLCI0C6D_H0JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/fdb94943d2246b226d3097f7cc05b8d0",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/research/nvidia-nvda-stock-earnings-august-2026/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
@@ -25359,53 +25342,53 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2370.0,
+    "previousClose": 2380.0,
     "open": 2390.0,
-    "dayLow": 2380.0,
-    "dayHigh": 2410.0,
-    "regularMarketPreviousClose": 2370.0,
+    "dayLow": 2375.0,
+    "dayHigh": 2405.0,
+    "regularMarketPreviousClose": 2380.0,
     "regularMarketOpen": 2390.0,
-    "regularMarketDayLow": 2380.0,
-    "regularMarketDayHigh": 2410.0,
+    "regularMarketDayLow": 2375.0,
+    "regularMarketDayHigh": 2405.0,
     "dividendRate": 24.0,
     "dividendYield": 1.01,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2785,
     "fiveYearAvgDividendYield": 1.69,
     "beta": 1.258,
-    "trailingPE": 32.36334,
-    "forwardPE": 17.192911,
-    "volume": 19997608,
-    "regularMarketVolume": 19997608,
-    "averageVolume": 33422562,
-    "averageVolume10days": 36041854,
-    "averageDailyVolume10Day": 36041854,
+    "trailingPE": 32.56731,
+    "forwardPE": 17.301271,
+    "volume": 16787061,
+    "regularMarketVolume": 16787061,
+    "averageVolume": 33135821,
+    "averageVolume10days": 35527026,
+    "averageDailyVolume10Day": 35527026,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 61719040753664,
-    "nonDilutedMarketCap": 61459717058790,
+    "marketCap": 62108024700928,
+    "nonDilutedMarketCap": 61719040759460,
     "fiftyTwoWeekLow": 1135.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 13.899143,
-    "fiftyDayAverage": 2379.9,
-    "twoHundredDayAverage": 1939.625,
+    "priceToSalesTrailing12Months": 13.986743,
+    "fiftyDayAverage": 2380.4,
+    "twoHundredDayAverage": 1944.125,
     "trailingAnnualDividendRate": 12.0,
-    "trailingAnnualDividendYield": 0.005063291,
+    "trailingAnnualDividendYield": 0.005042017,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 59224545558528,
+    "enterpriseValue": 59613525311488,
     "profitMargins": 0.49923,
-    "floatShares": 23511766440,
+    "floatShares": 23404667280,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00022,
-    "heldPercentInstitutions": 0.42969,
+    "heldPercentInstitutions": 0.43054,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.053,
-    "priceToBook": 9.594724,
+    "priceToBook": 9.655195,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
@@ -25416,18 +25399,18 @@
     "pegRatio": 0.89,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.337,
-    "enterpriseToEbitda": 18.652,
-    "52WeekChange": 1.0084746,
-    "SandP52WeekChange": 0.21718061,
+    "enterpriseToRevenue": 13.425,
+    "enterpriseToEbitda": 18.775,
+    "52WeekChange": 1.0169492,
+    "SandP52WeekChange": 0.20282328,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
-    "currentPrice": 2380.0,
+    "currentPrice": 2395.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2147.0,
-    "targetMeanPrice": 3126.7485,
-    "targetMedianPrice": 3160.0,
+    "targetMeanPrice": 3141.6,
+    "targetMedianPrice": 3190.0,
     "recommendationMean": 1.31429,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 35,
@@ -25459,20 +25442,20 @@
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
     "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "regularMarketChangePercent": 0.42194092,
-    "regularMarketPrice": 2380.0,
+    "regularMarketChangePercent": 0.6302521,
+    "regularMarketPrice": 2395.0,
     "marketState": "PREPRE",
     "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "regularMarketChange": 10.0,
-    "regularMarketDayRange": "2380.0 - 2410.0",
+    "regularMarketChange": 15.0,
+    "regularMarketDayRange": "2375.0 - 2405.0",
     "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 33422562,
-    "fiftyTwoWeekLowChange": 1245.0,
-    "fiftyTwoWeekLowChangePercent": 1.0969163,
+    "averageDailyVolume3Month": 33135821,
+    "fiftyTwoWeekLowChange": 1260.0,
+    "fiftyTwoWeekLowChangePercent": 1.1101322,
     "fiftyTwoWeekRange": "1135.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -155.0,
-    "fiftyTwoWeekHighChangePercent": -0.061143983,
-    "fiftyTwoWeekChangePercent": 100.84746,
+    "fiftyTwoWeekHighChange": -140.0,
+    "fiftyTwoWeekHighChangePercent": -0.055226825,
+    "fiftyTwoWeekChangePercent": 101.694916,
     "earningsTimestamp": 1784179800,
     "earningsTimestampStart": 1792042200,
     "earningsTimestampEnd": 1792042200,
@@ -25481,12 +25464,12 @@
     "isEarningsDateEstimate": false,
     "epsTrailingTwelveMonths": 73.54,
     "epsForward": 138.42914,
-    "epsCurrentYear": 107.06744,
-    "priceEpsCurrentYear": 22.228981,
-    "fiftyDayAverageChange": 0.100097656,
-    "fiftyDayAverageChangePercent": 4.2059608e-05,
-    "twoHundredDayAverageChange": 440.375,
-    "twoHundredDayAverageChangePercent": 0.2270413,
+    "epsCurrentYear": 107.34259,
+    "priceEpsCurrentYear": 22.31174,
+    "fiftyDayAverageChange": 14.600098,
+    "fiftyDayAverageChangePercent": 0.006133464,
+    "twoHundredDayAverageChange": 450.875,
+    "twoHundredDayAverageChangePercent": 0.23191667,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
@@ -25494,7 +25477,7 @@
     "firstTradeDateMilliseconds": 946947600000,
     "cryptoTradeable": false,
     "corporateActions": [],
-    "regularMarketTime": 1786339802,
+    "regularMarketTime": 1786426206,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -25502,6 +25485,6 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "trailingPegRatio": 0.8866
+    "trailingPegRatio": 0.8902
   }
 }
