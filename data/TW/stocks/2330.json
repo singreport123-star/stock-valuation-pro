@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-08-11T22:33:52.529201"
+    "ts": "2026-08-12T22:32:16.547012"
   },
   "financials": {
     "annual": {
@@ -24727,6 +24727,41 @@
         "buy": 445988,
         "name": "Investment_Trust",
         "sell": 64148
+      },
+      {
+        "date": "2026-08-12",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-08-12",
+        "stock_id": "2330",
+        "buy": 868191,
+        "name": "Investment_Trust",
+        "sell": 281137
+      },
+      {
+        "date": "2026-08-12",
+        "stock_id": "2330",
+        "buy": 64498,
+        "name": "Dealer_self",
+        "sell": 299400
+      },
+      {
+        "date": "2026-08-12",
+        "stock_id": "2330",
+        "buy": 241937,
+        "name": "Dealer_Hedging",
+        "sell": 297321
+      },
+      {
+        "date": "2026-08-12",
+        "stock_id": "2330",
+        "buy": 12178064,
+        "name": "Foreign_Investor",
+        "sell": 9551161
       }
     ],
     "margin_trading": [],
@@ -24734,18 +24769,309 @@
   },
   "news": [
     {
+      "id": "ee69eeec-3995-3c92-9447-b042111d40b0",
+      "content": {
+        "id": "ee69eeec-3995-3c92-9447-b042111d40b0",
+        "contentType": "STORY",
+        "title": "TSMC Stock Rises 2.2% as $4.69 Billion Sony Venture Launches",
+        "description": "",
+        "summary": "The companies are combining Sony's sensor designs with TSMC manufacturing to build next-generation smartphone components in Japan.",
+        "pubDate": "2026-08-12T17:25:57Z",
+        "displayTime": "2026-08-12T17:25:57Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-2-2-172557376.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-2-2-172557376.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a3bb3484-ddf6-3798-908d-f170325cc77b",
+      "content": {
+        "id": "a3bb3484-ddf6-3798-908d-f170325cc77b",
+        "contentType": "STORY",
+        "title": "Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three",
+        "description": "",
+        "summary": "Microsoft, TSMC, and AMD each own a different layer of the AI stack, but owning all three at current prices is not the same trade. One name is running years ahead of the deliverables that would justify it.",
+        "pubDate": "2026-08-12T17:00:31Z",
+        "displayTime": "2026-08-12T17:00:31Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b2cb3de75ceeb0ef0e45e381603258e4.jpg",
+          "originalWidth": 1024,
+          "originalHeight": 1024,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/YDyQjXQzjBAfy0fIjAQBog--~B/aD0xMDI0O3c9MTAyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/b2cb3de75ceeb0ef0e45e381603258e4.jpg",
+              "width": 1024,
+              "height": 1024,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/r24iIaamkFXcRrl4CFqV4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b2cb3de75ceeb0ef0e45e381603258e4.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/12/azure-foundries-and-accelerators-grading-the-ai-buildouts-big-three/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/azure-foundries-accelerators-grading-ai-170031235.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "fbb87ef9-52f9-33f0-8636-e5d855f12315",
+      "content": {
+        "id": "fbb87ef9-52f9-33f0-8636-e5d855f12315",
+        "contentType": "STORY",
+        "title": "ASML Holding N.V. (ASML) vs. Taiwan Semiconductor Manufacturing Company Limited (TSM): A Key Supplier Says it Can Keep Up With the AI Boom",
+        "description": "",
+        "summary": "Zeiss, the German optics maker whose mirrors are critical to ASML Holding N.V. (NASDAQ:ASML)’s most advanced chipmaking machines, said this week that it’s confident it has the capacity to handle booming AI-driven demand. The statement pushes back on investor worries about bottlenecks in the AI supply chain, worries that touch nearly every company racing to […]",
+        "pubDate": "2026-08-12T13:38:46Z",
+        "displayTime": "2026-08-12T13:38:46Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/b36da0caf4f59d829430a8a0f203a758.jpg",
+          "originalWidth": 1456,
+          "originalHeight": 816,
+          "caption": "ASML Holding N.V. (ASML) vs. Taiwan Semiconductor Manufacturing Company Limited (TSM): A Key Supplier Says It Can Keep Up With the AI Boom",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Wi6lxoCtqgzv9EmiraDg.g--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/b36da0caf4f59d829430a8a0f203a758.jpg",
+              "width": 1456,
+              "height": 816,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Zwe_j69EhiTANJW5d8catA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/b36da0caf4f59d829430a8a0f203a758.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-133846677.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-133846677.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "92f56a4e-5cc6-34f8-bf7d-096b4223dcfa",
+      "content": {
+        "id": "92f56a4e-5cc6-34f8-bf7d-096b4223dcfa",
+        "contentType": "STORY",
+        "title": "TSMC & Sony Establish JV in Japan to Develop Smartphone Image Sensors",
+        "description": "",
+        "summary": "TSMC and Sony are set to form a JV in Japan to develop and manufacture smartphone image sensors, with volume production set for 2029.",
+        "pubDate": "2026-08-12T13:37:00Z",
+        "displayTime": "2026-08-12T13:37:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mLNJC3mbLrixuV.IIIBs0A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/l9hFfwa31EUQjsgiO7lY8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-sony-establish-jv-japan-133700498.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-sony-establish-jv-japan-133700498.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2597e46b-1a97-389e-a4a8-0ceb63b8271d",
+      "content": {
+        "id": "2597e46b-1a97-389e-a4a8-0ceb63b8271d",
+        "contentType": "STORY",
+        "title": "Apple is testing Chinese DRAM even after CXMT refused to cut prices",
+        "description": "",
+        "summary": "Apple is reportedly testing CXMT memory across products including iPhones and MacBooks, even after the Chinese supplier refused to offer the cheaper DRAM pricing Apple wanted.",
+        "pubDate": "2026-08-12T13:22:41Z",
+        "displayTime": "2026-08-12T13:22:41Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/digital_trends_973/8f854cdabb3a07b91bf9174e6fa5be8b.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3sVbXNFLy7tLisNO0F2EDA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_973/8f854cdabb3a07b91bf9174e6fa5be8b.jpg",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zWGkQzVRmYPsyRPLNgTm1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/digital_trends_973/8f854cdabb3a07b91bf9174e6fa5be8b.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Digital Trends",
+          "url": "https://www.digitaltrends.com/",
+          "sourceId": "digital_trends_973"
+        },
+        "canonicalUrl": {
+          "url": "https://www.digitaltrends.com/computing/apple-is-testing-chinese-dram-even-after-cxmt-refused-to-cut-prices/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/apple-testing-chinese-dram-even-132241349.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
       "id": "7170c7f6-3bd3-35bf-bee2-a691a7f3afbd",
       "content": {
         "id": "7170c7f6-3bd3-35bf-bee2-a691a7f3afbd",
         "contentType": "STORY",
-        "title": "Dow Jones Futures: Stocks Pause Before CPI Inflation; 3 Nvidia Partners Lead Earnings Movers Late",
+        "title": "Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers",
         "description": "",
-        "summary": "The major market indexes pulled back amid higher oil prices and upcoming CPI inflation data. Nvidia partners Lumentum, CoreWeave, Super Micro reported late.",
-        "pubDate": "2026-08-11T22:15:38Z",
-        "displayTime": "2026-08-11T22:15:38Z",
+        "summary": "Futures rose ahead of CPI inflation data. Nvidia partners Lumentum, CoreWeave, Super Micro jumped on earnings, lifting AI stocks.",
+        "pubDate": "2026-08-12T12:09:21Z",
+        "displayTime": "2026-08-12T12:09:21Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures-stocks.html",
+        "previewUrl": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures-rise-with.html",
         "thumbnail": {
           "originalUrl": "https://media.zenfs.com/en/ibd.com/900ebd097ac67cb752ad0a04001cac81.jpg",
           "originalWidth": 720,
@@ -24778,6 +25104,68 @@
           "lang": "en-US"
         },
         "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b8e02cb7-345d-351a-8152-7e7f4f9a519a",
+      "content": {
+        "id": "b8e02cb7-345d-351a-8152-7e7f4f9a519a",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor's July Revenue Rose 45% and the Stock Sits 13% Below Its High",
+        "description": "",
+        "summary": "The foundry giant's monthly numbers keep setting records. The share price assumes they stop.",
+        "pubDate": "2026-08-12T07:58:00Z",
+        "displayTime": "2026-08-12T07:58:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c019ba078e1588c5704b0de00433662a.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 840,
+          "caption": "Taiwan Semiconductor meeting with TSMC logo on the sidewalk.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/MbocOkaYf9VqwCi.hkK.Pg--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c019ba078e1588c5704b0de00433662a.jpg",
+              "width": 1400,
+              "height": 840,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lD6DEvTNTNHl3yWGDAoIJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c019ba078e1588c5704b0de00433662a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/12/taiwan-semiconductors-july-revenue-rose-45-and-the/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductors-july-revenue-rose-075800266.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
@@ -24937,297 +25325,6 @@
         },
         "storyline": null
       }
-    },
-    {
-      "id": "7e434cdb-004d-39bd-8f8d-02f9be9d9923",
-      "content": {
-        "id": "7e434cdb-004d-39bd-8f8d-02f9be9d9923",
-        "contentType": "STORY",
-        "title": "Marvell Could Be Next Winner in Microsoft AI Bet",
-        "description": "",
-        "summary": "Microsoft's next silicon push could create an unexpected beneficiary",
-        "pubDate": "2026-08-11T17:40:05Z",
-        "displayTime": "2026-08-11T17:40:05Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-could-next-winner-microsoft-174005451.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/marvell-could-next-winner-microsoft-174005451.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "1d7bbe95-3a8b-363a-9db0-1c49f23882d4",
-      "content": {
-        "id": "1d7bbe95-3a8b-363a-9db0-1c49f23882d4",
-        "contentType": "STORY",
-        "title": "Why ASML Holding Stock Rallied Tuesday Morning",
-        "description": "",
-        "summary": "A customer's robust sales are fueling the rally.",
-        "pubDate": "2026-08-11T17:23:23Z",
-        "displayTime": "2026-08-11T17:23:23Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5f970962c16782f27f3da27d8c5d908d.png",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "The ASML logo superimposed over an image of one of the company's lithography systems.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.NeKxJQkVMHZl37fTHdY5w--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5f970962c16782f27f3da27d8c5d908d.png",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/c2nGSwF9H2kTN39emG_Usw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5f970962c16782f27f3da27d8c5d908d.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/11/why-asml-holding-stock-rallied-tuesday-morning/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-asml-holding-stock-rallied-172323164.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "14fc6f73-db3a-374a-9dc6-31ec308b3487",
-      "content": {
-        "id": "14fc6f73-db3a-374a-9dc6-31ec308b3487",
-        "contentType": "STORY",
-        "title": "TSMC Stock Rises as Bernstein Spots Massive CPU Opportunity",
-        "description": "",
-        "summary": "TSMC Stock Rises as Bernstein Spots Massive CPU Opportunity",
-        "pubDate": "2026-08-11T15:49:20Z",
-        "displayTime": "2026-08-11T15:49:20Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-bernstein-spots-154920503.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-bernstein-spots-154920503.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "96112bd3-e9e8-3459-a834-ba9b23ee34fd",
-      "content": {
-        "id": "96112bd3-e9e8-3459-a834-ba9b23ee34fd",
-        "contentType": "STORY",
-        "title": "ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand",
-        "description": "",
-        "summary": "ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand",
-        "pubDate": "2026-08-11T15:45:23Z",
-        "displayTime": "2026-08-11T15:45:23Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-jumps-4-1-154523781.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-jumps-4-1-154523781.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7da30c5c-0701-3fbe-8fac-b37f84f44eef",
-      "content": {
-        "id": "7da30c5c-0701-3fbe-8fac-b37f84f44eef",
-        "contentType": "STORY",
-        "title": "Microsoft's Maia 300 Could Be a Win for Marvell and TSMC",
-        "description": "",
-        "summary": "Microsoft is reportedly seeking capacity for more than 300,000 chips in 2027.",
-        "pubDate": "2026-08-11T15:10:04Z",
-        "displayTime": "2026-08-11T15:10:04Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-maia-300-could-win-151004887.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-maia-300-could-win-151004887.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "07231a19-d990-3bdf-97ac-46be445719e1",
-      "content": {
-        "id": "07231a19-d990-3bdf-97ac-46be445719e1",
-        "contentType": "STORY",
-        "title": "Nvidia Rises Amid Massive Wall Street Partnership; Is Nvidia A Buy Now?",
-        "description": "",
-        "summary": "Nvidia rises in a base on Tuesday after the company announced a partnership with large investment banks to raise $500 billion.",
-        "pubDate": "2026-08-11T14:42:50Z",
-        "displayTime": "2026-08-11T14:42:50Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/07231a19-d990-3bdf-97ac-46be445719e1/nvidia-rises-amid-massive.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/fdb94943d2246b226d3097f7cc05b8d0",
-          "originalWidth": 1000,
-          "originalHeight": 563,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/MKkJXByJ5Makuns8v7ks2w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fdb94943d2246b226d3097f7cc05b8d0",
-              "width": 1000,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0A2jnAzI3jLCI0C6D_H0JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/fdb94943d2246b226d3097f7cc05b8d0",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.investors.com/research/nvidia-nvda-stock-earnings-august-2026/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
     }
   ],
   "info": {
@@ -25342,71 +25439,71 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2380.0,
-    "open": 2390.0,
-    "dayLow": 2375.0,
-    "dayHigh": 2405.0,
-    "regularMarketPreviousClose": 2380.0,
-    "regularMarketOpen": 2390.0,
-    "regularMarketDayLow": 2375.0,
-    "regularMarketDayHigh": 2405.0,
+    "previousClose": 2395.0,
+    "open": 2405.0,
+    "dayLow": 2390.0,
+    "dayHigh": 2415.0,
+    "regularMarketPreviousClose": 2395.0,
+    "regularMarketOpen": 2405.0,
+    "regularMarketDayLow": 2390.0,
+    "regularMarketDayHigh": 2415.0,
     "dividendRate": 24.0,
-    "dividendYield": 1.01,
+    "dividendYield": 1.0,
     "exDividendDate": 1789516800,
-    "payoutRatio": 0.2785,
+    "payoutRatio": 0.2573,
     "fiveYearAvgDividendYield": 1.69,
     "beta": 1.258,
-    "trailingPE": 32.56731,
-    "forwardPE": 17.301271,
-    "volume": 16787061,
-    "regularMarketVolume": 16787061,
-    "averageVolume": 33135821,
-    "averageVolume10days": 35527026,
-    "averageDailyVolume10Day": 35527026,
+    "trailingPE": 28.009743,
+    "forwardPE": 17.440744,
+    "volume": 19132786,
+    "regularMarketVolume": 19132786,
+    "averageVolume": 32689702,
+    "averageVolume10days": 33460134,
+    "averageDailyVolume10Day": 33460134,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 62108024700928,
-    "nonDilutedMarketCap": 61719040759460,
+    "marketCap": 62626671362048,
+    "nonDilutedMarketCap": 62108026310465,
     "fiftyTwoWeekLow": 1135.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 13.986743,
-    "fiftyDayAverage": 2380.4,
-    "twoHundredDayAverage": 1944.125,
+    "priceToSalesTrailing12Months": 14.103542,
+    "fiftyDayAverage": 2381.2,
+    "twoHundredDayAverage": 1948.725,
     "trailingAnnualDividendRate": 12.0,
-    "trailingAnnualDividendYield": 0.005042017,
+    "trailingAnnualDividendYield": 0.0050104386,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 59613525311488,
+    "enterpriseValue": 60132167778304,
     "profitMargins": 0.49923,
     "floatShares": 23404667280,
     "sharesOutstanding": 25932370067,
-    "heldPercentInsiders": 0.00022,
-    "heldPercentInstitutions": 0.43054,
+    "heldPercentInsiders": 0.00023,
+    "heldPercentInstitutions": 0.43055,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.053,
-    "priceToBook": 9.655195,
+    "priceToBook": 9.735823,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808939520,
-    "trailingEps": 73.54,
-    "forwardEps": 138.42914,
+    "trailingEps": 86.22,
+    "forwardEps": 138.46886,
     "pegRatio": 0.89,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.425,
-    "enterpriseToEbitda": 18.775,
-    "52WeekChange": 1.0169492,
-    "SandP52WeekChange": 0.20282328,
+    "enterpriseToRevenue": 13.542,
+    "enterpriseToEbitda": 18.938,
+    "52WeekChange": 0.9958333,
+    "SandP52WeekChange": 0.19509852,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1789516800,
     "quoteType": "EQUITY",
-    "currentPrice": 2395.0,
+    "currentPrice": 2415.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2147.0,
     "targetMeanPrice": 3141.6,
@@ -25441,43 +25538,8 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "regularMarketChangePercent": 0.6302521,
-    "regularMarketPrice": 2395.0,
-    "marketState": "PREPRE",
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "regularMarketChange": 15.0,
-    "regularMarketDayRange": "2375.0 - 2405.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 33135821,
-    "fiftyTwoWeekLowChange": 1260.0,
-    "fiftyTwoWeekLowChangePercent": 1.1101322,
-    "fiftyTwoWeekRange": "1135.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -140.0,
-    "fiftyTwoWeekHighChangePercent": -0.055226825,
-    "fiftyTwoWeekChangePercent": 101.694916,
-    "earningsTimestamp": 1784179800,
-    "earningsTimestampStart": 1792042200,
-    "earningsTimestampEnd": 1792042200,
-    "earningsCallTimestampStart": 1784181600,
-    "earningsCallTimestampEnd": 1784181600,
-    "isEarningsDateEstimate": false,
-    "epsTrailingTwelveMonths": 73.54,
-    "epsForward": 138.42914,
-    "epsCurrentYear": 107.34259,
-    "priceEpsCurrentYear": 22.31174,
-    "fiftyDayAverageChange": 14.600098,
-    "fiftyDayAverageChangePercent": 0.006133464,
-    "twoHundredDayAverageChange": 450.875,
-    "twoHundredDayAverageChangePercent": 0.23191667,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "cryptoTradeable": false,
     "corporateActions": [],
-    "regularMarketTime": 1786426206,
+    "regularMarketTime": 1786512608,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -25485,6 +25547,41 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "trailingPegRatio": 0.8902
+    "regularMarketChangePercent": 0.8350731,
+    "regularMarketPrice": 2415.0,
+    "marketState": "PREPRE",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": 20.0,
+    "regularMarketDayRange": "2390.0 - 2415.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 32689702,
+    "fiftyTwoWeekLowChange": 1280.0,
+    "fiftyTwoWeekLowChangePercent": 1.1277533,
+    "fiftyTwoWeekRange": "1135.0 - 2535.0",
+    "fiftyTwoWeekHighChange": -120.0,
+    "fiftyTwoWeekHighChangePercent": -0.04733728,
+    "fiftyTwoWeekChangePercent": 99.58333,
+    "earningsTimestamp": 1784179800,
+    "earningsTimestampStart": 1792042200,
+    "earningsTimestampEnd": 1792042200,
+    "earningsCallTimestampStart": 1784181600,
+    "earningsCallTimestampEnd": 1784181600,
+    "isEarningsDateEstimate": false,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "epsTrailingTwelveMonths": 86.22,
+    "epsForward": 138.46886,
+    "epsCurrentYear": 107.34259,
+    "priceEpsCurrentYear": 22.49806,
+    "fiftyDayAverageChange": 33.80005,
+    "fiftyDayAverageChangePercent": 0.014194544,
+    "twoHundredDayAverageChange": 466.27502,
+    "twoHundredDayAverageChangePercent": 0.23927185,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "trailingPegRatio": 0.8956
   }
 }
