@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-08-12T22:32:16.547012"
+    "ts": "2026-08-13T22:33:22.459476"
   },
   "financials": {
     "annual": {
@@ -24762,12 +24762,462 @@
         "buy": 12178064,
         "name": "Foreign_Investor",
         "sell": 9551161
+      },
+      {
+        "date": "2026-08-13",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-08-13",
+        "stock_id": "2330",
+        "buy": 331726,
+        "name": "Dealer_self",
+        "sell": 133810
+      },
+      {
+        "date": "2026-08-13",
+        "stock_id": "2330",
+        "buy": 150569,
+        "name": "Dealer_Hedging",
+        "sell": 255304
+      },
+      {
+        "date": "2026-08-13",
+        "stock_id": "2330",
+        "buy": 18369301,
+        "name": "Foreign_Investor",
+        "sell": 14397070
+      },
+      {
+        "date": "2026-08-13",
+        "stock_id": "2330",
+        "buy": 2350600,
+        "name": "Investment_Trust",
+        "sell": 1614607
       }
     ],
     "margin_trading": [],
     "cb_transaction": []
   },
   "news": [
+    {
+      "id": "f017af59-a7e2-3987-a577-385603326240",
+      "content": {
+        "id": "f017af59-a7e2-3987-a577-385603326240",
+        "contentType": "STORY",
+        "title": "Analyst Sees Trouble Brewing for Hot Chip Stocks",
+        "description": "",
+        "summary": "Strong earnings may no longer be enough for chip investors",
+        "pubDate": "2026-08-13T19:31:24Z",
+        "displayTime": "2026-08-13T19:31:24Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/analyst-sees-trouble-brewing-hot-193124128.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/analyst-sees-trouble-brewing-hot-193124128.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7e25cd3b-dee5-3267-af01-a8da99287d96",
+      "content": {
+        "id": "7e25cd3b-dee5-3267-af01-a8da99287d96",
+        "contentType": "STORY",
+        "title": "These 3 Tech Stocks Made Double-Digit Dividend Raises This Year",
+        "description": "",
+        "summary": "The trio is playing a major role in the AI revolution.",
+        "pubDate": "2026-08-13T18:03:00Z",
+        "displayTime": "2026-08-13T18:03:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/3dc8e6271d8dad609402628b4fee69dd.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Person looking pleased while gazing at a smartphone.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nOkKmDwVPEowwXf31v_TWA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3dc8e6271d8dad609402628b4fee69dd.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IoEREY7P7jJSH1sDu40Gxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3dc8e6271d8dad609402628b4fee69dd.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/13/these-3-tech-stocks-made-double-digit-dividend/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-stocks-made-double-180300206.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c01d0472-453c-3e77-8867-8de02ade834e",
+      "content": {
+        "id": "c01d0472-453c-3e77-8867-8de02ade834e",
+        "contentType": "STORY",
+        "title": "Intel’s Best Growth in 15 Years: 25% Revenue Surge and Our New Price Target",
+        "description": "",
+        "summary": "Intel just posted its strongest revenue growth in over 15 years, yet shares sit more than 30% below their recent peak after a massive stock offering rattled investors. Whether that gap is a buying opportunity or a warning sign depends entirely on one unresolved question about its foundry business.",
+        "pubDate": "2026-08-13T14:00:30Z",
+        "displayTime": "2026-08-13T14:00:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe.jpg",
+          "originalWidth": 2844,
+          "originalHeight": 1600,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/aKWWM6sVhHAo_lEAUcWl8A--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe.jpg",
+              "width": 2844,
+              "height": 1600,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/F99T8.hDAAXrZTKpaKKUjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/13/intels-best-growth-in-15-years-25-revenue-surge-and-our-new-price-target/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-best-growth-15-years-140030886.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2e0153ea-98b2-38fd-bb4e-b53a99b75f3e",
+      "content": {
+        "id": "2e0153ea-98b2-38fd-bb4e-b53a99b75f3e",
+        "contentType": "STORY",
+        "title": "The Biggest Chip Stocks All Yield Under 1%. Here's Where the Cash Actually Goes.",
+        "description": "",
+        "summary": "The most profitable corner of the technology market pays income investors a pittance -- and each of these four companies has a different reason.",
+        "pubDate": "2026-08-13T13:32:00Z",
+        "displayTime": "2026-08-13T13:32:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/d770feb99a1f61e6fc9412a19cbdd39b.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 840,
+          "caption": "TSMC logo on a building.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LrC7mWMa7w5w88fGCQIe7w--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d770feb99a1f61e6fc9412a19cbdd39b.jpg",
+              "width": 1400,
+              "height": 840,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/o8TLuxcJ4BUzSOWRs5.TwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d770feb99a1f61e6fc9412a19cbdd39b.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/13/the-biggest-chip-stocks-all-yield-under-1-heres-wh/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-chip-stocks-yield-under-133200550.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "52802b40-b4a0-3767-a100-48b67989699d",
+      "content": {
+        "id": "52802b40-b4a0-3767-a100-48b67989699d",
+        "contentType": "STORY",
+        "title": "Buy AI-Driven SNDK and AMKR to Benefit From Recent Stock Price Debacle",
+        "description": "",
+        "summary": "SNDK and AMKR are AI-driven semiconductor plays with sharp recent declines, solid estimates and significant upside potential.",
+        "pubDate": "2026-08-13T13:03:00Z",
+        "displayTime": "2026-08-13T13:03:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/dc67eec2fca5ba831905c521f4bac089.jpg",
+          "originalWidth": 619,
+          "originalHeight": 230,
+          "caption": "Zacks Investment Research",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zekcsyEzxGFIzpQaSHEhYg--~B/aD0yMzA7dz02MTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dc67eec2fca5ba831905c521f4bac089.jpg",
+              "width": 619,
+              "height": 230,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0FpRJRA4SV7nGZIlCoIclA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dc67eec2fca5ba831905c521f4bac089.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-ai-driven-sndk-amkr-130300725.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-ai-driven-sndk-amkr-130300725.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8115a720-d976-381f-b265-8ff9eac11790",
+      "content": {
+        "id": "8115a720-d976-381f-b265-8ff9eac11790",
+        "contentType": "STORY",
+        "title": "Elon Musk’s New Texas Facility Will be 36 Times Bigger Than the Empire State Building. Here’s Everything We Know So Far.",
+        "description": "",
+        "summary": "Elon Musk wants to build a chip factory so large it dwarfs every structure humans have ever assembled, on a dried-up reservoir outside Houston, for a purpose that sounds more like science fiction than a construction permit.",
+        "pubDate": "2026-08-13T11:26:35Z",
+        "displayTime": "2026-08-13T11:26:35Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/693f73acff2f3d449caa78d1471fb67c.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/aXq9sLc_qP3gV_.cmpk.Yg--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/693f73acff2f3d449caa78d1471fb67c.jpg",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LWddqv1xxhgi3DfX_8I3bg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/693f73acff2f3d449caa78d1471fb67c.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/13/elon-musks-new-texas-facility-will-be-36-times-bigger-than-the-empire-state-building-heres-everything-we-know-so-far-2/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/elon-musk-texas-facility-36-112635296.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "dd86668e-68b2-3caa-a4e7-a83dfb74ae3f",
+      "content": {
+        "id": "dd86668e-68b2-3caa-a4e7-a83dfb74ae3f",
+        "contentType": "STORY",
+        "title": "Nvidia’s biggest risk may be coming from inside its customer base",
+        "description": "",
+        "summary": "Nvidia (NVDA) sold its most valuable chips to the world’s biggest tech businesses in the AI boom. What is disconcerting is that some of those same consumers now are paying big to establish alternatives. Microsoft (MSFT) might be poised to demonstrate just how serious that threat has gotten. The ...",
+        "pubDate": "2026-08-13T02:37:00Z",
+        "displayTime": "2026-08-13T02:37:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/d1a84b230e3954f4dc6d8ec1e9704d28.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2560,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ui7RdePULAxcziU404FdXg--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/d1a84b230e3954f4dc6d8ec1e9704d28.jpg",
+              "width": 3840,
+              "height": 2560,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/FcmSN09WvVJkPSNGzGUnTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d1a84b230e3954f4dc6d8ec1e9704d28.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/nvidias-biggest-risk-may-be-coming-from-inside-its-customer-base",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-biggest-risk-may-coming-023700599.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
     {
       "id": "ee69eeec-3995-3c92-9447-b042111d40b0",
       "content": {
@@ -24934,397 +25384,6 @@
         },
         "storyline": null
       }
-    },
-    {
-      "id": "92f56a4e-5cc6-34f8-bf7d-096b4223dcfa",
-      "content": {
-        "id": "92f56a4e-5cc6-34f8-bf7d-096b4223dcfa",
-        "contentType": "STORY",
-        "title": "TSMC & Sony Establish JV in Japan to Develop Smartphone Image Sensors",
-        "description": "",
-        "summary": "TSMC and Sony are set to form a JV in Japan to develop and manufacture smartphone image sensors, with volume production set for 2029.",
-        "pubDate": "2026-08-12T13:37:00Z",
-        "displayTime": "2026-08-12T13:37:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mLNJC3mbLrixuV.IIIBs0A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/l9hFfwa31EUQjsgiO7lY8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-sony-establish-jv-japan-133700498.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-sony-establish-jv-japan-133700498.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2597e46b-1a97-389e-a4a8-0ceb63b8271d",
-      "content": {
-        "id": "2597e46b-1a97-389e-a4a8-0ceb63b8271d",
-        "contentType": "STORY",
-        "title": "Apple is testing Chinese DRAM even after CXMT refused to cut prices",
-        "description": "",
-        "summary": "Apple is reportedly testing CXMT memory across products including iPhones and MacBooks, even after the Chinese supplier refused to offer the cheaper DRAM pricing Apple wanted.",
-        "pubDate": "2026-08-12T13:22:41Z",
-        "displayTime": "2026-08-12T13:22:41Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/digital_trends_973/8f854cdabb3a07b91bf9174e6fa5be8b.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3sVbXNFLy7tLisNO0F2EDA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_973/8f854cdabb3a07b91bf9174e6fa5be8b.jpg",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zWGkQzVRmYPsyRPLNgTm1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/digital_trends_973/8f854cdabb3a07b91bf9174e6fa5be8b.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Digital Trends",
-          "url": "https://www.digitaltrends.com/",
-          "sourceId": "digital_trends_973"
-        },
-        "canonicalUrl": {
-          "url": "https://www.digitaltrends.com/computing/apple-is-testing-chinese-dram-even-after-cxmt-refused-to-cut-prices/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/apple-testing-chinese-dram-even-132241349.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7170c7f6-3bd3-35bf-bee2-a691a7f3afbd",
-      "content": {
-        "id": "7170c7f6-3bd3-35bf-bee2-a691a7f3afbd",
-        "contentType": "STORY",
-        "title": "Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers",
-        "description": "",
-        "summary": "Futures rose ahead of CPI inflation data. Nvidia partners Lumentum, CoreWeave, Super Micro jumped on earnings, lifting AI stocks.",
-        "pubDate": "2026-08-12T12:09:21Z",
-        "displayTime": "2026-08-12T12:09:21Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures-rise-with.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/900ebd097ac67cb752ad0a04001cac81.jpg",
-          "originalWidth": 720,
-          "originalHeight": 406,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jx2vdiWZ1VGAzG8FgIJ1fQ--~B/aD00MDY7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/900ebd097ac67cb752ad0a04001cac81.jpg",
-              "width": 720,
-              "height": 406,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/oDsgQVzOqhryPrDK2wGQ3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/900ebd097ac67cb752ad0a04001cac81.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b8e02cb7-345d-351a-8152-7e7f4f9a519a",
-      "content": {
-        "id": "b8e02cb7-345d-351a-8152-7e7f4f9a519a",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor's July Revenue Rose 45% and the Stock Sits 13% Below Its High",
-        "description": "",
-        "summary": "The foundry giant's monthly numbers keep setting records. The share price assumes they stop.",
-        "pubDate": "2026-08-12T07:58:00Z",
-        "displayTime": "2026-08-12T07:58:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c019ba078e1588c5704b0de00433662a.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 840,
-          "caption": "Taiwan Semiconductor meeting with TSMC logo on the sidewalk.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/MbocOkaYf9VqwCi.hkK.Pg--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c019ba078e1588c5704b0de00433662a.jpg",
-              "width": 1400,
-              "height": 840,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lD6DEvTNTNHl3yWGDAoIJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c019ba078e1588c5704b0de00433662a.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/12/taiwan-semiconductors-july-revenue-rose-45-and-the/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductors-july-revenue-rose-075800266.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6a2e9cac-0e0b-3e66-92fc-b3a047ad9c4a",
-      "content": {
-        "id": "6a2e9cac-0e0b-3e66-92fc-b3a047ad9c4a",
-        "contentType": "STORY",
-        "title": "Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC",
-        "description": "",
-        "summary": "Microsoft New AI Chip May Create a Fresh Threat to Nvidia",
-        "pubDate": "2026-08-11T19:20:55Z",
-        "displayTime": "2026-08-11T19:20:55Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-chip-could-big-192055770.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-chip-could-big-192055770.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a08794e0-c7b2-3245-a48d-12710a1b667c",
-      "content": {
-        "id": "a08794e0-c7b2-3245-a48d-12710a1b667c",
-        "contentType": "STORY",
-        "title": "Microsoft Stock Slips as Custom AI-Chip Ambitions Accelerate",
-        "description": "",
-        "summary": "Microsoft's expanding Maia program could lower inference costs while reducing its reliance on externally supplied accelerators.",
-        "pubDate": "2026-08-11T19:15:35Z",
-        "displayTime": "2026-08-11T19:15:35Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-slips-custom-ai-191535812.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-slips-custom-ai-191535812.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "da27e2e0-805d-3eae-afea-25616ff04a1d",
-      "content": {
-        "id": "da27e2e0-805d-3eae-afea-25616ff04a1d",
-        "contentType": "STORY",
-        "title": "ASML Holding (ENXTAM:ASML) Gains On TSMC Demand Signal, Is The Stock Now Too Expensive?",
-        "description": "",
-        "summary": "Strong revenue figures and an upgraded outlook from Taiwan Semiconductor Manufacturing have put a fresh spotlight on ASML Holding (ENXTAM:ASML) as investors reassess how rising AI chip demand could affect the stock. See our latest analysis for ASML Holding. The ASML Holding share price has moved sharply this year, with a 1-day share price return of 2.66% and 7-day share price return of 5.53% around TSMC’s strong revenue update. The year-to-date share price return of 57.56% and 1-year total...",
-        "pubDate": "2026-08-11T19:14:33Z",
-        "displayTime": "2026-08-11T19:14:33Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pjyX36.59jkPI0zNN59xGw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/j1HHAomrGBcFOFymg0gl_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-enxtam-asml-gains-191433381.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-enxtam-asml-gains-191433381.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
     }
   ],
   "info": {
@@ -25439,71 +25498,71 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2395.0,
-    "open": 2405.0,
-    "dayLow": 2390.0,
-    "dayHigh": 2415.0,
-    "regularMarketPreviousClose": 2395.0,
-    "regularMarketOpen": 2405.0,
-    "regularMarketDayLow": 2390.0,
-    "regularMarketDayHigh": 2415.0,
-    "dividendRate": 24.0,
-    "dividendYield": 1.0,
+    "previousClose": 2415.0,
+    "open": 2440.0,
+    "dayLow": 2425.0,
+    "dayHigh": 2445.0,
+    "regularMarketPreviousClose": 2415.0,
+    "regularMarketOpen": 2440.0,
+    "regularMarketDayLow": 2425.0,
+    "regularMarketDayHigh": 2445.0,
+    "dividendRate": 28.0,
+    "dividendYield": 1.15,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2573,
     "fiveYearAvgDividendYield": 1.69,
     "beta": 1.258,
-    "trailingPE": 28.009743,
-    "forwardPE": 17.440744,
-    "volume": 19132786,
-    "regularMarketVolume": 19132786,
-    "averageVolume": 32689702,
-    "averageVolume10days": 33460134,
-    "averageDailyVolume10Day": 33460134,
+    "trailingPE": 28.489529,
+    "forwardPE": 17.585182,
+    "volume": 23011787,
+    "regularMarketVolume": 23011787,
+    "averageVolume": 32414060,
+    "averageVolume10days": 29686090,
+    "averageDailyVolume10Day": 29686090,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 62626671362048,
+    "marketCap": 63145322217472,
     "nonDilutedMarketCap": 62108026310465,
     "fiftyTwoWeekLow": 1135.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 14.103542,
-    "fiftyDayAverage": 2381.2,
-    "twoHundredDayAverage": 1948.725,
+    "priceToSalesTrailing12Months": 14.220343,
+    "fiftyDayAverage": 2381.9,
+    "twoHundredDayAverage": 1953.275,
     "trailingAnnualDividendRate": 12.0,
-    "trailingAnnualDividendYield": 0.0050104386,
+    "trailingAnnualDividendYield": 0.004968944,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 60132167778304,
+    "enterpriseValue": 60650806050816,
     "profitMargins": 0.49923,
-    "floatShares": 23404667280,
+    "floatShares": 23402592720,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00023,
-    "heldPercentInstitutions": 0.43055,
+    "heldPercentInstitutions": 0.43054,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.053,
-    "priceToBook": 9.735823,
+    "priceToBook": 9.816451,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808939520,
-    "trailingEps": 86.22,
+    "trailingEps": 85.47,
     "forwardEps": 138.46886,
     "pegRatio": 0.89,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.542,
-    "enterpriseToEbitda": 18.938,
-    "52WeekChange": 0.9958333,
-    "SandP52WeekChange": 0.19509852,
+    "enterpriseToRevenue": 13.659,
+    "enterpriseToEbitda": 19.101,
+    "52WeekChange": 1.0553191,
+    "SandP52WeekChange": 0.19787467,
     "lastDividendValue": 7.0,
-    "lastDividendDate": 1789516800,
+    "lastDividendDate": 1796860800,
     "quoteType": "EQUITY",
-    "currentPrice": 2415.0,
+    "currentPrice": 2435.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2147.0,
     "targetMeanPrice": 3141.6,
@@ -25539,7 +25598,7 @@
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
     "corporateActions": [],
-    "regularMarketTime": 1786512608,
+    "regularMarketTime": 1786599007,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -25547,21 +25606,21 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 0.8350731,
-    "regularMarketPrice": 2415.0,
+    "regularMarketChangePercent": 0.82815737,
+    "regularMarketPrice": 2435.0,
     "marketState": "PREPRE",
     "hasPrePostMarketData": false,
     "firstTradeDateMilliseconds": 946947600000,
     "regularMarketChange": 20.0,
-    "regularMarketDayRange": "2390.0 - 2415.0",
+    "regularMarketDayRange": "2425.0 - 2445.0",
     "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 32689702,
-    "fiftyTwoWeekLowChange": 1280.0,
-    "fiftyTwoWeekLowChangePercent": 1.1277533,
+    "averageDailyVolume3Month": 32414060,
+    "fiftyTwoWeekLowChange": 1300.0,
+    "fiftyTwoWeekLowChangePercent": 1.1453744,
     "fiftyTwoWeekRange": "1135.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -120.0,
-    "fiftyTwoWeekHighChangePercent": -0.04733728,
-    "fiftyTwoWeekChangePercent": 99.58333,
+    "fiftyTwoWeekHighChange": -100.0,
+    "fiftyTwoWeekHighChangePercent": -0.039447732,
+    "fiftyTwoWeekChangePercent": 105.531906,
     "earningsTimestamp": 1784179800,
     "earningsTimestampStart": 1792042200,
     "earningsTimestampEnd": 1792042200,
@@ -25570,14 +25629,14 @@
     "isEarningsDateEstimate": false,
     "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
     "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "epsTrailingTwelveMonths": 86.22,
+    "epsTrailingTwelveMonths": 85.47,
     "epsForward": 138.46886,
     "epsCurrentYear": 107.34259,
-    "priceEpsCurrentYear": 22.49806,
-    "fiftyDayAverageChange": 33.80005,
-    "fiftyDayAverageChangePercent": 0.014194544,
-    "twoHundredDayAverageChange": 466.27502,
-    "twoHundredDayAverageChangePercent": 0.23927185,
+    "priceEpsCurrentYear": 22.68438,
+    "fiftyDayAverageChange": 53.100098,
+    "fiftyDayAverageChangePercent": 0.022293169,
+    "twoHundredDayAverageChange": 481.72498,
+    "twoHundredDayAverageChangePercent": 0.24662425,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
