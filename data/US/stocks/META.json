@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-14T22:14:41.884852",
+    "ts": "2026-08-15T22:13:32.836293",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -146,7 +146,7 @@
     "regularMarketDayLow": 589.29,
     "regularMarketDayHigh": 601.86,
     "dividendRate": 2.1,
-    "dividendYield": 0.35,
+    "dividendYield": 0.36,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
@@ -154,29 +154,29 @@
     "forwardPE": 16.908413,
     "volume": 8401479,
     "regularMarketVolume": 8401479,
-    "averageVolume": 18212669,
-    "averageVolume10days": 16154860,
-    "averageDailyVolume10Day": 16154860,
+    "averageVolume": 18139983,
+    "averageVolume10days": 14605320,
+    "averageDailyVolume10Day": 14605320,
     "bid": 594.8,
     "ask": 600.0,
     "bidSize": 1,
     "askSize": 3,
     "marketCap": 1502646501376,
-    "nonDilutedMarketCap": 1526261929521,
+    "nonDilutedMarketCap": 1502646546815,
     "fiftyTwoWeekLow": 520.26,
-    "fiftyTwoWeekHigh": 796.25,
+    "fiftyTwoWeekHigh": 790.8,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "priceToSalesTrailing12Months": 6.583423,
-    "fiftyDayAverage": 597.7964,
-    "twoHundredDayAverage": 628.4393,
+    "fiftyDayAverage": 597.1338,
+    "twoHundredDayAverage": 627.6344,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0035295899,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1537747714048,
+    "enterpriseValue": 1524704608256,
     "profitMargins": 0.29834998,
-    "floatShares": 2199440449,
+    "floatShares": 2201784155,
     "sharesOutstanding": 2205128509,
     "sharesShort": 31458758,
     "sharesShortPriorMonth": 34489980,
@@ -184,7 +184,7 @@
     "dateShortInterest": 1785456000,
     "sharesPercentSharesOut": 0.0123000005,
     "heldPercentInsiders": 0.00147,
-    "heldPercentInstitutions": 0.79466003,
+    "heldPercentInstitutions": 0.79447997,
     "shortRatio": 1.55,
     "shortPercentOfFloat": 0.0143,
     "impliedSharesOutstanding": 2547506225,
@@ -198,10 +198,10 @@
     "trailingEps": 26.54,
     "forwardEps": 34.885,
     "pegRatio": 0.89,
-    "enterpriseToRevenue": 6.737,
-    "enterpriseToEbitda": 14.024,
-    "52WeekChange": -0.24229842,
-    "SandP52WeekChange": 0.20918322,
+    "enterpriseToRevenue": 6.68,
+    "enterpriseToEbitda": 13.905,
+    "52WeekChange": -0.23133558,
+    "SandP52WeekChange": 0.2072537,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
@@ -240,37 +240,6 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "POST",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1786745678,
-    "regularMarketTime": 1786737601,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": -0.8605468,
-    "regularMarketPrice": 589.85,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.049171668,
-    "postMarketPrice": 590.14,
-    "postMarketChange": 0.29003906,
-    "regularMarketChange": -5.119995,
-    "fulldayPrice": 590.14,
-    "regularMarketDayRange": "589.29 - 601.86",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18212669,
-    "fiftyTwoWeekLowChange": 69.589966,
-    "fiftyTwoWeekLowChangePercent": 0.13375998,
-    "fiftyTwoWeekRange": "520.26 - 796.25",
-    "fiftyTwoWeekHighChange": -206.40002,
-    "fiftyTwoWeekHighChangePercent": -0.2592151,
-    "fiftyTwoWeekChangePercent": -24.229843,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -282,19 +251,50 @@
     "epsForward": 34.885,
     "epsCurrentYear": 31.05,
     "priceEpsCurrentYear": 18.996778,
-    "fiftyDayAverageChange": -7.946411,
-    "fiftyDayAverageChangePercent": -0.013292839,
-    "twoHundredDayAverageChange": -38.589294,
-    "twoHundredDayAverageChangePercent": -0.06140497,
+    "fiftyDayAverageChange": -7.2838135,
+    "fiftyDayAverageChangePercent": -0.012197959,
+    "twoHundredDayAverageChange": -37.784424,
+    "twoHundredDayAverageChangePercent": -0.06020133,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-14",
+    "nameChangeDate": "2026-08-15",
     "averageAnalystRating": "1.4 - Strong Buy",
     "cryptoTradeable": false,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": 0.07121199,
+    "postMarketPrice": 590.27,
+    "postMarketChange": 0.42004395,
+    "regularMarketChange": -5.12,
+    "fulldayPrice": 590.27,
+    "regularMarketDayRange": "589.29 - 601.86",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 18139983,
+    "fiftyTwoWeekLowChange": 69.589966,
+    "fiftyTwoWeekLowChangePercent": 0.13375998,
+    "fiftyTwoWeekRange": "520.26 - 790.8",
+    "fiftyTwoWeekHighChange": -200.95001,
+    "fiftyTwoWeekHighChangePercent": -0.25410977,
+    "fiftyTwoWeekChangePercent": -23.133558,
+    "corporateActions": [],
+    "marketState": "CLOSED",
+    "postMarketTime": 1786751993,
+    "regularMarketTime": 1786737601,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "regularMarketPrice": 589.85,
+    "regularMarketChangePercent": -0.860547,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8881
+    "trailingPegRatio": 0.8805
   },
   "financial_statements": {
     "income": {
@@ -1697,94 +1697,32 @@
   },
   "news": [
     {
-      "id": "671f0efd-6227-3825-8b85-42157d5015e5",
+      "id": "fb9c0c70-7865-316d-8dec-34052d756c15",
       "content": {
-        "id": "671f0efd-6227-3825-8b85-42157d5015e5",
+        "id": "fb9c0c70-7865-316d-8dec-34052d756c15",
         "contentType": "STORY",
-        "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
+        "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
         "description": "",
-        "summary": "Institutional investors pulled back slightly from key stock market segments such as semiconductors, AI infrastructure and megacap technology companies during the second quarter, with few big bets in either direction, U.S. Securities and Exchange Commission filings show.  A Reuters analysis of quarterly 13F filings from 6,371 pension ‌funds, hedge funds, wealth managers and other institutional investors reveals a narrow gap between the number of investors increasing their positions and those reducing them, but in many cases the gap ‌swung slightly negative.  Nearly 44% of filers reviewed trimmed their holdings of the Magnificent Seven group of megacap tech firms such as Microsoft and Meta Platforms, while 42% initiated or expanded their holdings of this group.",
-        "pubDate": "2026-08-14T21:54:16Z",
-        "displayTime": "2026-08-14T21:54:16Z",
+        "summary": "Even before Nvidia Corp.’s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don’t appear on major AI companies’ balance sheets, but could materialize at the worst possible time.",
+        "pubDate": "2026-08-15T19:00:00Z",
+        "displayTime": "2026-08-15T19:00:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/7bab38a91b8780fc72012c172d48b4c0.jpg",
-          "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "FILE PHOTO: A screen shows trading of the S&P 500 Index after the opening bell at the New York Stock Exchange (NYSE) in New York City",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hlYrRUy948FyAKubzUVR6A--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/7bab38a91b8780fc72012c172d48b4c0.jpg",
-              "width": 800,
-              "height": 533,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZMJaI0awe37x5NwdTtHdYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/7bab38a91b8780fc72012c172d48b4c0.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-reveal-cautious-approach-215416925.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-reveal-cautious-approach-215416925.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "14e98452-4c01-30c3-8fdd-8105114c8e82",
-      "content": {
-        "id": "14e98452-4c01-30c3-8fdd-8105114c8e82",
-        "contentType": "STORY",
-        "title": "Reddit Stock's Pullback Is Tempting, But Don't Ignore The User Question",
-        "description": "",
-        "summary": "The social media company's business is booming, but a nagging concern about its audience has investors on edge after the recent drop.",
-        "pubDate": "2026-08-14T21:37:30Z",
-        "displayTime": "2026-08-14T21:37:30Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 720,
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/0688883c1e30e70e235e132023879535.jpg",
+          "originalWidth": 2000,
+          "originalHeight": 1333,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4.eTOg1JZ1OaAXbDB8zwnw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://s.yimg.com/uu/api/res/1.2/NqLfjr89bagE.xNaKThOBg--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/0688883c1e30e70e235e132023879535.jpg",
+              "width": 2000,
+              "height": 1333,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Jqe0dFfcyAeKrB4A7ZiNYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/.6KQvFT0eXFzwn2E5OpSWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/0688883c1e30e70e235e132023879535.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1792,18 +1730,18 @@
           ]
         },
         "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/",
-          "sourceId": "trefis_142"
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
         },
         "canonicalUrl": {
-          "url": "https://www.trefis.com/articles/611486/reddit-stocks-pullback-is-tempting-but-dont-ignore-the-user-question/2026-08-14",
+          "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-stocks-pullback-tempting-dont-213730810.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1821,137 +1759,32 @@
       }
     },
     {
-      "id": "78f96790-0151-398c-ac7c-7c81fe305b0f",
+      "id": "f62db4ed-6fcd-3546-8145-639dbd7b1490",
       "content": {
-        "id": "78f96790-0151-398c-ac7c-7c81fe305b0f",
+        "id": "f62db4ed-6fcd-3546-8145-639dbd7b1490",
         "contentType": "STORY",
-        "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
+        "title": "The 5 Biggest Risks Americans Don’t Think About Behind the Data Center Boom",
         "description": "",
-        "summary": "Tiger Global Management trimmed several of its Big Tech stakes, exited Netflix, and took positions in Advanced ‌Micro Devices and SpaceX during the second quarter, according to ‌regulatory disclosures filed Friday.  • The hedge fund cut its Alphabet holdings by 45.4% to 5.81 million shares as of June 30 from the end of March, and its Nvidia stake by 6.8% to 11.20 million shares.  • ‌It trimmed its Microsoft ⁠stake by 9.3% to 2.27 million shares and its Amazon position by 3.2% to 9.68 million shares.",
-        "pubDate": "2026-08-14T19:27:54Z",
-        "displayTime": "2026-08-14T19:27:54Z",
+        "summary": "Half a trillion dollars in AI infrastructure spending looks like a Wall Street windfall, but the hidden costs are landing somewhere else entirely, and most Americans have no idea they are already on the hook.",
+        "pubDate": "2026-08-15T13:00:00Z",
+        "displayTime": "2026-08-15T13:00:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/b7a648e444593d979c65750b5e76c673.jpg",
-          "originalWidth": 800,
-          "originalHeight": 533,
-          "caption": "FILE PHOTO: Illustration shows SpaceX logo",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VvN89itOizca88JMEOp1rw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/b7a648e444593d979c65750b5e76c673.jpg",
-              "width": 800,
-              "height": 533,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xBT7XOODX9_8GO9bKNeBXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/b7a648e444593d979c65750b5e76c673.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Reuters",
-          "url": "http://www.reuters.com/",
-          "sourceId": "reuters-finance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-management-cuts-stakes-192754927.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-management-cuts-stakes-192754927.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "861ad0eb-6fe3-37cf-b3a7-ea43c43506c0",
-      "content": {
-        "id": "861ad0eb-6fe3-37cf-b3a7-ea43c43506c0",
-        "contentType": "STORY",
-        "title": "Meta Stock Edges Higher as Australia Enforcement Risk Intensifies",
-        "description": "",
-        "summary": "Meta removed hundreds of thousands of suspected teen accounts, but regulators say platform compliance remains inadequate.",
-        "pubDate": "2026-08-14T19:20:37Z",
-        "displayTime": "2026-08-14T19:20:37Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-edges-higher-australia-192037912.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-edges-higher-australia-192037912.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f4e80c9b-ad0a-36a0-87bd-a84ad827139a",
-      "content": {
-        "id": "f4e80c9b-ad0a-36a0-87bd-a84ad827139a",
-        "contentType": "STORY",
-        "title": "Reddit Is Still Down 24% This Year. What Will It Take to Get RDDT Stock Back Up to $200?",
-        "description": "",
-        "summary": "Reddit just scored S&P 500 membership, but the pop is already fading and the stock sits down 24% for the year. The path back to $200 depends on forces that index inclusion alone cannot deliver.",
-        "pubDate": "2026-08-14T19:02:31Z",
-        "displayTime": "2026-08-14T19:02:31Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/db3279a8a45b963d967cb5f0e77cd5cf.jpg",
-          "originalWidth": 2842,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/4e5801942adf37b47805b32793ceff8e.jpg",
+          "originalWidth": 2844,
           "originalHeight": 1600,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/O3OmQuEm1EAmuy2LJa8cQA--~B/aD0xNjAwO3c9Mjg0MjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/db3279a8a45b963d967cb5f0e77cd5cf.jpg",
-              "width": 2842,
+              "url": "https://s.yimg.com/uu/api/res/1.2/dseCrjuwD2xf5Bf6oagSMA--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/4e5801942adf37b47805b32793ceff8e.jpg",
+              "width": 2844,
               "height": 1600,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BCnHoQNybokGcFkDdf22_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/db3279a8a45b963d967cb5f0e77cd5cf.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/C3SVO5SC3QRXKXlTExB.7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4e5801942adf37b47805b32793ceff8e.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1964,13 +1797,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/14/reddit-is-still-down-24-this-year-what-will-it-take-to-get-rddt-stock-back-up-to-200/",
+          "url": "https://247wallst.com/investing/2026/08/15/the-5-biggest-risks-americans-dont-think-about-behind-the-data-center-boom/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-still-down-24-rddt-190231874.html",
+          "url": "https://finance.yahoo.com/technology/articles/5-biggest-risks-americans-don-130000152.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1988,32 +1821,32 @@
       }
     },
     {
-      "id": "294bdceb-248a-36e3-858f-4f57712baad3",
+      "id": "8c58d730-a640-3a47-bfb5-73763f50dedc",
       "content": {
-        "id": "294bdceb-248a-36e3-858f-4f57712baad3",
+        "id": "8c58d730-a640-3a47-bfb5-73763f50dedc",
         "contentType": "STORY",
-        "title": "How Serious Are Thousands of Addiction Lawsuits for Meta (META) and Snap (SNAP)?",
+        "title": "How New Mexico’s $567 Million Ruling Could Change Meta",
         "description": "",
-        "summary": "A federal appeals court removed another procedural obstacle facing more than 3,000 lawsuits accusing Meta Platforms, Inc. (NASDAQ:META), Snap Inc. (NYSE:SNAP), Alphabet, and TikTok of harming young users through allegedly addictive product features. The Ninth Circuit did not decide whether the companies are liable. It ruled that Section 230 provides a defense against liability, not […]",
-        "pubDate": "2026-08-14T18:26:23Z",
-        "displayTime": "2026-08-14T18:26:23Z",
+        "summary": "A New Mexico judge has imposed Meta Platforms, Inc. (NASDAQ:META)’s highest single penalty yet in the wave of litigation over social media’s effects on children, and while the monetary amount is making headlines, the more important aspect of the verdict may be what it pushes the company to change. Public Nuisance Ruling On August 6, […]",
+        "pubDate": "2026-08-15T10:25:45Z",
+        "displayTime": "2026-08-15T10:25:45Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/a37c50f24b21e63109c4eb5dd9d15d7f.jpg",
-          "originalWidth": 1456,
-          "originalHeight": 816,
-          "caption": "Evercore ISI Maintains \"Outperform\" Rating on Apple Inc. (NASDAQ:AAPL), Sees AI Benefits Driving Future Growth",
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/1489ff0a46fcd275e32302bd21aa1f9d.jpg",
+          "originalWidth": 6000,
+          "originalHeight": 4000,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QbdJ68bdKOmaP1Vs8Be5Sw--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/a37c50f24b21e63109c4eb5dd9d15d7f.jpg",
-              "width": 1456,
-              "height": 816,
+              "url": "https://s.yimg.com/uu/api/res/1.2/PsCGdoFP4tV3eWm1JMwD6w--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/1489ff0a46fcd275e32302bd21aa1f9d.jpg",
+              "width": 6000,
+              "height": 4000,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pqeR2sVIx1Jj222ZaDHTzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a37c50f24b21e63109c4eb5dd9d15d7f.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/7oNRsc_uy9jbu16LxlsGbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1489ff0a46fcd275e32302bd21aa1f9d.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2026,13 +1859,13 @@
           "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/serious-thousands-addiction-lawsuits-meta-182623555.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mexico-567-million-ruling-could-102545540.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/serious-thousands-addiction-lawsuits-meta-182623555.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mexico-567-million-ruling-could-102545540.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2050,15 +1883,139 @@
       }
     },
     {
-      "id": "5ab1a6e3-43cd-31b4-9308-1885fd07ac54",
+      "id": "6d9823ea-2f54-327d-9e0b-53d37bd5d6b5",
       "content": {
-        "id": "5ab1a6e3-43cd-31b4-9308-1885fd07ac54",
+        "id": "6d9823ea-2f54-327d-9e0b-53d37bd5d6b5",
         "contentType": "STORY",
-        "title": "Meta's $27 Billion AI Risk Hides Off Balance Sheet",
+        "title": "Mark Zuckerberg Just Wrote a 6,500-Word Manifesto on the Future of AI, and Did Not Mention Crypto Once. Here's What He's Missing.",
         "description": "",
-        "summary": "Data-center guarantees could matter if AI economics weaken.",
-        "pubDate": "2026-08-14T18:14:15Z",
-        "displayTime": "2026-08-14T18:14:15Z",
+        "summary": "The AI future includes crypto as well. Here's why.",
+        "pubDate": "2026-08-15T09:20:00Z",
+        "displayTime": "2026-08-15T09:20:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/983f25e3019b0f610fd72aaa64c8aff2.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 700,
+          "caption": "Figure standing before a shadowy digital wall of purple.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/4rD1uNoOEnVuQaD9QI5Kxw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/983f25e3019b0f610fd72aaa64c8aff2.jpg",
+              "width": 1400,
+              "height": 700,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/YcUYiUUotJMDcC3vncS5qw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/983f25e3019b0f610fd72aaa64c8aff2.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/15/mark-zuckerberg-just-wrote-a-6500-word-manifesto-o/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-just-wrote-6-092000445.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "fa2ff136-5f92-37ac-a3bf-c01b6441fd18",
+      "content": {
+        "id": "fa2ff136-5f92-37ac-a3bf-c01b6441fd18",
+        "contentType": "STORY",
+        "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
+        "description": "",
+        "summary": "Alibaba Group Holding’s open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta Platforms Inc., Alphabet Inc. and domestic peers to become the world’s No. 1 artificial-intelligence model.",
+        "pubDate": "2026-08-15T09:16:06Z",
+        "displayTime": "2026-08-15T09:16:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/3479b262dba3ef3c2f9613e7185421ae.jpg",
+          "originalWidth": 2000,
+          "originalHeight": 1333,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wl0mKSQhf.x0qvF_ixtR9g--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/3479b262dba3ef3c2f9613e7185421ae.jpg",
+              "width": 2000,
+              "height": 1333,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HPoE2gF0YgCAz8jLb1p4Sw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/3479b262dba3ef3c2f9613e7185421ae.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company",
+          "sourceId": "bloomberg_holding_pen_162"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "213d6d57-7c02-399b-b3e0-29c50a3a50ae",
+      "content": {
+        "id": "213d6d57-7c02-399b-b3e0-29c50a3a50ae",
+        "contentType": "STORY",
+        "title": "Pershing Square Holdings Ltd (LSE:PSH) (Q2 2026) Earnings Call Highlights: Strategic Leverage ...",
+        "description": "",
+        "summary": "CEO Bill Ackman outlines plans for investment-grade debt, a new venture vehicle, and potential upside from Fannie Mae and Freddie Mac to drive long-term shareholder value.",
+        "pubDate": "2026-08-15T01:07:34Z",
+        "displayTime": "2026-08-15T01:07:34Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -2069,13 +2026,13 @@
           "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/metas-27-billion-ai-risk-181415924.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pershing-square-holdings-ltd-lse-010734806.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/metas-27-billion-ai-risk-181415924.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pershing-square-holdings-ltd-lse-010734806.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2093,94 +2050,32 @@
       }
     },
     {
-      "id": "51321337-59d2-3a11-9980-d44f46c249e8",
+      "id": "e268538e-b72b-3989-ba68-71d1b0163bb7",
       "content": {
-        "id": "51321337-59d2-3a11-9980-d44f46c249e8",
+        "id": "e268538e-b72b-3989-ba68-71d1b0163bb7",
         "contentType": "STORY",
-        "title": "Nvidia Poised for Strong Quarterly Results, Outlook, UBS Says",
+        "title": "Meta (META) Stock Sees Fair Value Cut As AI Spending Raises Margin Questions",
         "description": "",
-        "summary": "Nvidia (NVDA) is likely to post strong fiscal second-quarter results and issue an upbeat sales outlo",
-        "pubDate": "2026-08-14T18:06:39Z",
-        "displayTime": "2026-08-14T18:06:39Z",
+        "summary": "The fair value estimate for Meta Platforms has been trimmed from about US$828.80 to about US$754.10, pointing to a more conservative price target in updated models. This shift lines up with a split analyst view, where some highlight long term upside from AI and advertising while others focus on higher spending and less certain AI monetization timing. Reading on, you will see how this evolving narrative shapes key questions to watch and how to track future updates. Analyst Price Targets don't...",
+        "pubDate": "2026-08-15T00:17:27Z",
+        "displayTime": "2026-08-15T00:17:27Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/mt_newswires_premium_news_706/d356018d0856749562f6751f58b8f658.jpg",
-          "originalWidth": 1024,
-          "originalHeight": 681,
-          "caption": "Jensen Huang Nvidia NVDA.jpg - Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QXiI1qm47JnSmGth3Y8LmA--~B/aD02ODE7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/mt_newswires_premium_news_706/d356018d0856749562f6751f58b8f658.jpg",
-              "width": 1024,
-              "height": 681,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/h7pCBgx8CPzyU6GTAc9UUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/d356018d0856749562f6751f58b8f658.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-poised-strong-quarterly-results-180639120.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-poised-strong-quarterly-results-180639120.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b7e4a394-902b-35bc-a59c-267b04bae492",
-      "content": {
-        "id": "b7e4a394-902b-35bc-a59c-267b04bae492",
-        "contentType": "STORY",
-        "title": "Why I Won’t Touch Anthropic’s $2 Trillion October IPO With a 10-Foot Pole",
-        "description": "",
-        "summary": "Anthropic's investors are penciling in a $2 trillion October IPO that would shatter every record in stock market history, and the revenue growth backing that number is genuinely jaw-dropping. But one overlooked pattern in mega-cap listings suggests the opening bell could be the worst time to buy.",
-        "pubDate": "2026-08-14T14:26:08Z",
-        "displayTime": "2026-08-14T14:26:08Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/92fabb2a2a8204edc81ce6f5d4531e38.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 767,
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6DgMs2zXX.6eDJfJPePFwg--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/92fabb2a2a8204edc81ce6f5d4531e38.jpg",
-              "width": 1366,
-              "height": 767,
+              "url": "https://s.yimg.com/uu/api/res/1.2/nCAI77amckTuvVDu_618MQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+              "width": 1194,
+              "height": 432,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/73sRYiSRgvBvUHLN3vVfUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/92fabb2a2a8204edc81ce6f5d4531e38.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ba6AOYNIX1c_OX_7XUvNcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2188,18 +2083,18 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/14/why-i-wont-touch-anthropics-2-trillion-october-ipo-with-a-10-foot-pole/",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-sees-fair-001727047.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-won-t-touch-anthropic-142608706.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-sees-fair-001727047.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2217,32 +2112,32 @@
       }
     },
     {
-      "id": "fe9892a6-35c4-3bc2-9299-cbf3b22ebb24",
+      "id": "f0b9af5c-5fd0-3bd0-973e-e0a8de88b3a6",
       "content": {
-        "id": "fe9892a6-35c4-3bc2-9299-cbf3b22ebb24",
+        "id": "f0b9af5c-5fd0-3bd0-973e-e0a8de88b3a6",
         "contentType": "STORY",
-        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+        "title": "Why Is Tether Looking Like a Central Bank?",
         "description": "",
-        "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-        "pubDate": "2026-08-14T14:05:00Z",
-        "displayTime": "2026-08-14T14:05:00Z",
-        "isHosted": true,
+        "summary": "Gold  recent rally is mostly due to five big buyers: four central banks and Tether, a company that deals in cryptocurrency.  Tether is buying for the very reasons that central banks are—to diversify its holdings and hedge against inflation and significant dollar weakness, which Tether’s crypto stablecoin  USDT  is pegged to.  In the first half, Tether bought more than 27 metric tons of gold—matching Kazakhstan.",
+        "pubDate": "2026-08-14T23:49:00Z",
+        "displayTime": "2026-08-14T23:49:00Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/f0b9af5c-5fd0-3bd0-973e-e0a8de88b3a6/why-is-tether-looking-like-a.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/e16435d3cf402a3f803dbe6d2d239e01.jpg",
-          "originalWidth": 3000,
-          "originalHeight": 2000,
-          "caption": "Flared natural gas is burned off at Apache Corporations operations at the Deadwood natural gas plant in the Permian Basin.",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/e1139fce46e97b1918ec7246ae8ca901.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/UgspXByKU.gwaTzLHnag1g--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_finance_785/e16435d3cf402a3f803dbe6d2d239e01.jpg",
-              "width": 3000,
-              "height": 2000,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ASKdgNUz9lz2K7gHQJRCaw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e1139fce46e97b1918ec7246ae8ca901.jpg",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/S6yLMkbM6nGCqhWhz8vD7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/e16435d3cf402a3f803dbe6d2d239e01.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/m5otZNNY50BCn0gM5TXA8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/e1139fce46e97b1918ec7246ae8ca901.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2250,18 +2145,132 @@
           ]
         },
         "provider": {
-          "displayName": "TechCrunch",
-          "url": "https://techcrunch.com/",
-          "sourceId": "techcrunch_finance_785"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/hyperscalers-might-regret-embracing-natural-140500532.html",
+          "url": "https://www.barrons.com/articles/why-is-tether-looking-like-a-central-bank-d9abebb7?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "64c7a299-0ef1-3afe-9888-95b3474ece56",
+      "content": {
+        "id": "64c7a299-0ef1-3afe-9888-95b3474ece56",
+        "contentType": "STORY",
+        "title": "Third Point Exited Nvidia and Broadcom, Made New Bet on Warner Bros. Discovery in Second Quarter",
+        "description": "",
+        "summary": "The investment firm shifted away from some of the market’s biggest semiconductor winners in the second quarter.",
+        "pubDate": "2026-08-14T22:43:00Z",
+        "displayTime": "2026-08-14T22:43:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/64c7a299-0ef1-3afe-9888-95b3474ece56/third-point-exited-nvidia-and.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/b942c48f82496f1bf6276140e46760be.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EaobSoqx8x80JJcm_ckWMA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/b942c48f82496f1bf6276140e46760be.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KyLuHhXHITUzD_zUUIxczw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b942c48f82496f1bf6276140e46760be.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/third-point-nvidia-broadcom-warner-bros-discovery-stock-1f4560da?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ea4f74a2-d87f-3bac-9b4d-d19e836acad1",
+      "content": {
+        "id": "ea4f74a2-d87f-3bac-9b4d-d19e836acad1",
+        "contentType": "STORY",
+        "title": "AI Infrastructure Stocks: Billions of Reasons to Stay Bullish",
+        "description": "",
+        "summary": "Investors have hundreds of billions ($) of reasons why to remain bullish on the AI buildout, particularly for companies like Vertiv (VRT) and Broadcom (AVGO), as companies continue to invest heavily in their AI futures.",
+        "pubDate": "2026-08-14T22:12:00Z",
+        "displayTime": "2026-08-14T22:12:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/66aab1b6882a9874a6ec7e76752bb0ed.jpg",
+          "originalWidth": 620,
+          "originalHeight": 413,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GgCw5Rg7YIK9_3zXiQ1U1w--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/66aab1b6882a9874a6ec7e76752bb0ed.jpg",
+              "width": 620,
+              "height": 413,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/c5XvPOrzPQnWPIL7SSW1lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/66aab1b6882a9874a6ec7e76752bb0ed.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-billions-reasons-221200697.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/hyperscalers-might-regret-embracing-natural-140500532.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-billions-reasons-221200697.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
