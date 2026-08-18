@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-17T22:16:23.626920",
+    "ts": "2026-08-18T22:14:29.612856",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 589.85,
-    "open": 589.75,
-    "dayLow": 564.75,
-    "dayHigh": 590.24,
-    "regularMarketPreviousClose": 589.85,
-    "regularMarketOpen": 589.75,
-    "regularMarketDayLow": 564.75,
-    "regularMarketDayHigh": 590.24,
+    "previousClose": 568.97,
+    "open": 557.31,
+    "dayLow": 543.21,
+    "dayHigh": 560.66,
+    "regularMarketPreviousClose": 568.97,
+    "regularMarketOpen": 557.31,
+    "regularMarketDayLow": 543.21,
+    "regularMarketDayHigh": 560.66,
     "dividendRate": 2.1,
-    "dividendYield": 0.36,
+    "dividendYield": 0.37,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 21.438204,
-    "forwardPE": 16.309875,
-    "volume": 17080805,
-    "regularMarketVolume": 17080805,
-    "averageVolume": 18139983,
-    "averageVolume10days": 14605320,
-    "averageDailyVolume10Day": 14605320,
-    "bid": 560.0,
-    "ask": 567.03,
+    "trailingPE": 20.461798,
+    "forwardPE": 15.584636,
+    "volume": 26550374,
+    "regularMarketVolume": 26550374,
+    "averageVolume": 18195277,
+    "averageVolume10days": 13731570,
+    "averageDailyVolume10Day": 13731570,
+    "bid": 545.0,
+    "ask": 558.0,
     "bidSize": 1,
     "askSize": 1,
-    "marketCap": 1449454469120,
-    "nonDilutedMarketCap": 1502646546815,
+    "marketCap": 1385002696704,
+    "nonDilutedMarketCap": 1449454616837,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 790.8,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 6.350377,
-    "fiftyDayAverage": 597.1338,
-    "twoHundredDayAverage": 627.6344,
+    "priceToSalesTrailing12Months": 6.068,
+    "fiftyDayAverage": 595.9618,
+    "twoHundredDayAverage": 626.72205,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.003560227,
+    "trailingAnnualDividendYield": 0.00369088,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1524704608256,
+    "enterpriseValue": 1471512576000,
     "profitMargins": 0.29834998,
     "floatShares": 2201784155,
     "sharesOutstanding": 2205128509,
@@ -184,28 +184,28 @@
     "dateShortInterest": 1785456000,
     "sharesPercentSharesOut": 0.0123000005,
     "heldPercentInsiders": 0.00147,
-    "heldPercentInstitutions": 0.79447997,
+    "heldPercentInstitutions": 0.79469,
     "shortRatio": 1.55,
     "shortPercentOfFloat": 0.0143,
     "impliedSharesOutstanding": 2547506225,
     "bookValue": 102.52,
-    "priceToBook": 5.549844,
+    "priceToBook": 5.303063,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.54,
+    "trailingEps": 26.57,
     "forwardEps": 34.885,
     "pegRatio": 0.88,
-    "enterpriseToRevenue": 6.68,
-    "enterpriseToEbitda": 13.905,
-    "52WeekChange": -0.23133558,
-    "SandP52WeekChange": 0.2072537,
+    "enterpriseToRevenue": 6.447,
+    "enterpriseToEbitda": 13.419,
+    "52WeekChange": -0.24286741,
+    "SandP52WeekChange": 0.2080195,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 568.97,
+    "currentPrice": 543.67,
     "targetHighPrice": 1000.0,
     "targetLowPrice": 580.0,
     "targetMeanPrice": 754.14246,
@@ -240,23 +240,45 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "twoHundredDayAverageChangePercent": -0.13251817,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-08-18",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
     "marketState": "POST",
+    "corporateActions": [],
+    "postMarketTime": 1787091266,
+    "regularMarketTime": 1787083200,
+    "regularMarketChangePercent": -4.44663,
+    "regularMarketPrice": 543.67,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.0035078295,
-    "postMarketPrice": 568.95,
-    "postMarketChange": -0.019958496,
-    "regularMarketChange": -20.880005,
-    "fulldayPrice": 568.95,
-    "regularMarketDayRange": "564.75 - 590.24",
+    "postMarketChangePercent": 0.3494812,
+    "postMarketPrice": 545.57,
+    "postMarketChange": 1.9000244,
+    "regularMarketChange": -25.299988,
+    "fulldayPrice": 545.57,
+    "regularMarketDayRange": "543.21 - 560.66",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18139983,
-    "fiftyTwoWeekLowChange": 48.70996,
-    "fiftyTwoWeekLowChangePercent": 0.093626186,
+    "averageDailyVolume3Month": 18195277,
+    "fiftyTwoWeekLowChange": 23.409973,
+    "fiftyTwoWeekLowChangePercent": 0.04499668,
     "fiftyTwoWeekRange": "520.26 - 790.8",
-    "fiftyTwoWeekHighChange": -221.83002,
-    "fiftyTwoWeekHighChangePercent": -0.28051344,
-    "fiftyTwoWeekChangePercent": -23.133558,
+    "fiftyTwoWeekHighChange": -247.13,
+    "fiftyTwoWeekHighChangePercent": -0.31250635,
+    "fiftyTwoWeekChangePercent": -24.286741,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -264,37 +286,15 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.54,
+    "epsTrailingTwelveMonths": 26.57,
     "epsForward": 34.885,
     "epsCurrentYear": 31.05,
-    "priceEpsCurrentYear": 18.324316,
-    "fiftyDayAverageChange": -28.163818,
-    "fiftyDayAverageChangePercent": -0.047165006,
-    "twoHundredDayAverageChange": -58.66443,
-    "twoHundredDayAverageChangePercent": -0.09346911,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-17",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
-    "exchange": "NMS",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1787004974,
-    "regularMarketTime": 1786996801,
-    "regularMarketChangePercent": -3.539884,
-    "regularMarketPrice": 568.97,
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
+    "priceEpsCurrentYear": 17.5095,
+    "fiftyDayAverageChange": -52.29181,
+    "fiftyDayAverageChangePercent": -0.08774356,
+    "twoHundredDayAverageChange": -83.05206,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8805
+    "trailingPegRatio": 0.8494
   },
   "financial_statements": {
     "income": {
@@ -1697,32 +1697,32 @@
   },
   "news": [
     {
-      "id": "b55ced8e-733a-4440-a80d-adead8c248d9",
+      "id": "6428ed8c-2691-4c30-af76-5e3067819c91",
       "content": {
-        "id": "b55ced8e-733a-4440-a80d-adead8c248d9",
+        "id": "6428ed8c-2691-4c30-af76-5e3067819c91",
         "contentType": "STORY",
-        "title": "Tech stocks today: Anthropic's huge haul, Meta trial to kick off",
+        "title": "Meta social media addiction trial kicks off with major implications for company's future",
         "description": "",
-        "summary": "Tech stock coverage for the week of Aug. 17.",
-        "pubDate": "2026-08-17T13:29:45Z",
-        "displayTime": "2026-08-17T21:27:36Z",
+        "summary": "Meta is in court again, as it faces another social media addiction suit.",
+        "pubDate": "2026-08-18T21:54:58Z",
+        "displayTime": "2026-08-18T21:54:58Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Y7oxUGJU3.BxTz.7A5c2cw--~B/aD0yOTk4O3c9NDQ5NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/31840294-779d-41c0-9ba3-dec79446c47f",
-          "originalWidth": 4497,
-          "originalHeight": 2998,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/LT3bBLVtOsfFnQuLCvMh_g--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/1888944e-e585-4acc-bd46-6c13922844a1",
+          "originalWidth": 6048,
+          "originalHeight": 4024,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Y7oxUGJU3.BxTz.7A5c2cw--~B/aD0yOTk4O3c9NDQ5NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/31840294-779d-41c0-9ba3-dec79446c47f",
-              "width": 4497,
-              "height": 2998,
+              "url": "https://s.yimg.com/uu/api/res/1.2/LT3bBLVtOsfFnQuLCvMh_g--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/1888944e-e585-4acc-bd46-6c13922844a1",
+              "width": 6048,
+              "height": 4024,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KwOjIw0Twfi0BmeVjUgDoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/31840294-779d-41c0-9ba3-dec79446c47f",
+              "url": "https://s.yimg.com/uu/api/res/1.2/TAuOiK9G92WggSYs755_.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/1888944e-e585-4acc-bd46-6c13922844a1",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1735,13 +1735,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropics-huge-haul-meta-trial-to-kick-off-132945569.html",
+          "url": "https://finance.yahoo.com/technology/article/meta-social-media-addiction-trial-kicks-off-with-major-implications-for-companys-future-215458217.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropics-huge-haul-meta-trial-to-kick-off-132945569.html",
+          "url": "https://finance.yahoo.com/technology/article/meta-social-media-addiction-trial-kicks-off-with-major-implications-for-companys-future-215458217.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1759,14 +1759,14 @@
           "storylineItems": [
             {
               "content": {
-                "id": "5fc4027a-746d-4c9d-bb0d-0e8938f2cdff",
+                "id": "dabc68fe-9c00-41e6-9f23-80532d556ee5",
                 "contentType": "VIDEO",
                 "isHosted": true,
-                "title": "What AGs will be looking at in Meta's latest social media addiction trial",
+                "title": "Meta takes the stand in child safety trial: Takeaways from the first day",
                 "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/VYaGb_bLKBh2RwFf8HICYg--~B/aD0yMzI2O3c9NDEzNTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7c0233e0-b2d8-46d8-a99c-d53e67fb5fdd_6ffed825b86481750a9b2b34161671644bcab3b64c40ae557149ab88df1a7384.jpg",
-                  "originalWidth": 4135,
-                  "originalHeight": 2326,
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/VOijW2HScLxDaUOkWLx76g--~B/aD0xMzY3O3c9MjQzMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4422e5f0-0d18-11f1-ac7f-49df0345cf07_5563a986ffece1c860ba4950a823ecfa5e718fedf49c0a5529f75f5cde72b536.jpg",
+                  "originalWidth": 2430,
+                  "originalHeight": 1367,
                   "caption": "",
                   "resolutions": null
                 },
@@ -1777,115 +1777,23 @@
                 "previewUrl": null,
                 "providerContentUrl": "",
                 "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/ags-looking-metas-latest-social-201700367.html"
+                  "url": "https://finance.yahoo.com/video/meta-takes-stand-child-safety-203000629.html"
                 },
                 "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/ags-looking-metas-latest-social-201700367.html"
+                  "url": "https://finance.yahoo.com/video/meta-takes-stand-child-safety-203000629.html"
                 }
               }
             },
             {
               "content": {
-                "id": "91160cb6-0acd-453b-b91b-a786bc7f45b1",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Meta faces major social media addiction trial this week: What to watch",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/2AQonbW7aFTnEarh3mge5g--~B/aD0yODYyO3c9NTA4ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7bff18c4-3a32-4e91-81ff-d738d1b783af_210e6e51c385f6f1417fb4b1dc6fdfaa62064c71eb387ace91f55237c9f3dcae.jpg",
-                  "originalWidth": 5088,
-                  "originalHeight": 2862,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-faces-major-social-media-145105633.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-faces-major-social-media-145105633.html"
-                }
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "435444e6-a034-4de4-bfac-a8ade3444f3a",
-      "content": {
-        "id": "435444e6-a034-4de4-bfac-a8ade3444f3a",
-        "contentType": "VIDEO",
-        "title": "WSJ reports $3T in AI spending commitments is kept off balance sheets: A full breakdown",
-        "description": "<p>Morning Brief host Julie Hyman breaks down what you need to know about the Wall Street Journal's report on Big Tech's off-balance sheet AI spending.</p>",
-        "summary": "Morning Brief host Julie Hyman breaks down what you need to know about the Wall Street Journal's report on Big Tech's off-balance sheet AI spending.",
-        "pubDate": "2026-08-17T14:45:01Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/VOv9JIvW3qWx6.CIUZiD5g--~B/aD0yNTYxO3c9NDU1NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/49ccc8ec-2808-417c-9615-0c002b9e1f14_2fe68c3d162656183e709c5fa6d52f52f8deeacf53fe3154e4eda8d6af067925.jpg",
-          "originalWidth": 4554,
-          "originalHeight": 2561,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VOv9JIvW3qWx6.CIUZiD5g--~B/aD0yNTYxO3c9NDU1NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/49ccc8ec-2808-417c-9615-0c002b9e1f14_2fe68c3d162656183e709c5fa6d52f52f8deeacf53fe3154e4eda8d6af067925.jpg",
-              "width": 4554,
-              "height": 2561,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/yFOu3V6JzhhuJH3XdlPqLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/49ccc8ec-2808-417c-9615-0c002b9e1f14_2fe68c3d162656183e709c5fa6d52f52f8deeacf53fe3154e4eda8d6af067925.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/wsj-reports-3t-ai-spending-144501122.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/wsj-reports-3t-ai-spending-144501122.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "d2083f3b-23ee-4232-85d1-fb4c5fbed7a8",
+                "id": "b55ced8e-733a-4440-a80d-adead8c248d9",
                 "contentType": "STORY",
                 "isHosted": true,
-                "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
+                "title": "Tech stocks today: Meta social media trial kicks off, chip stocks fall",
                 "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/kNd4EW_CsDaFVmwVA0gxag--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/cca126fd-3052-40bc-abe0-0aced9fba51c",
-                  "originalWidth": 6000,
-                  "originalHeight": 4000,
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Ub0Eyf9IzitSsEPOXkwddw--~B/aD03OTg7dz0xMjMyO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/2026-08/4e6269c8-fcbc-4d7e-8987-e075ef2c21b2",
+                  "originalWidth": 1232,
+                  "originalHeight": 798,
                   "caption": "",
                   "resolutions": null
                 },
@@ -1896,42 +1804,77 @@
                 "previewUrl": null,
                 "providerContentUrl": "",
                 "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html"
+                  "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-social-media-trial-kicks-off-chip-stocks-fall-132945569.html"
                 },
                 "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "1dbc0ff0-f293-45c7-9e65-2b8a85b0a4ab",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Meta social media addiction trial, earnings from Walmart & Target: What to watch on Monday",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/hdhOfEfYgj.HoxHaq93LVg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/wtw-whattowatchthumb-08142026_0041.png",
-                  "originalWidth": 1920,
-                  "originalHeight": 1080,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-social-media-addiction-trial-120000243.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-social-media-addiction-trial-120000243.html"
+                  "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-social-media-trial-kicks-off-chip-stocks-fall-132945569.html"
                 }
               }
             }
           ]
         }
+      }
+    },
+    {
+      "id": "35565963-3296-4b71-acd6-0b4f73b12a8b",
+      "content": {
+        "id": "35565963-3296-4b71-acd6-0b4f73b12a8b",
+        "contentType": "STORY",
+        "title": "Why tech stock bulls may not shake this AI problem",
+        "description": "",
+        "summary": "Aggressive AI spending is unlikely to be reined in by the execs doling out the checks.",
+        "pubDate": "2026-08-18T13:28:40Z",
+        "displayTime": "2026-08-18T13:28:40Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/0t7osgnN1NnjzNb5eIcroQ--~B/aD01NDAyO3c9NzE5NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/0cd8ab42-4b96-4bfe-bb9b-4b6c03186083",
+          "originalWidth": 7195,
+          "originalHeight": 5402,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0t7osgnN1NnjzNb5eIcroQ--~B/aD01NDAyO3c9NzE5NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/0cd8ab42-4b96-4bfe-bb9b-4b6c03186083",
+              "width": 7195,
+              "height": 5402,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/oWv9b8JG0QldvymLyiXkew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/0cd8ab42-4b96-4bfe-bb9b-4b6c03186083",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
       }
     },
     {
@@ -1943,7 +1886,7 @@
         "description": "",
         "summary": "A lawsuit filed by 29 attorneys general related to Meta's impact on teens will go to trial Tuesday.",
         "pubDate": "2026-08-16T13:51:41Z",
-        "displayTime": "2026-08-17T05:47:17Z",
+        "displayTime": "2026-08-18T05:21:29Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -1997,51 +1940,32 @@
       }
     },
     {
-      "id": "c40d72b1-1193-34c1-b148-cd952e438849",
+      "id": "810d6a02-957f-3c26-9109-0bdd41623ccd",
       "content": {
-        "id": "c40d72b1-1193-34c1-b148-cd952e438849",
+        "id": "810d6a02-957f-3c26-9109-0bdd41623ccd",
         "contentType": "STORY",
-        "title": "Stock Market Today, Aug. 17: Markets Inch Lower and Treasury Yields Rise as Investors Wait for Retail Earnings",
+        "title": "Big Investors Send Conflicting Signal on Meta Platforms Stock",
         "description": "",
-        "summary": "On Aug. 17, 2026, bond yields climbed while major indices drifted near record levels ahead of pivotal retail earnings reports.",
-        "pubDate": "2026-08-17T21:30:24Z",
-        "displayTime": "2026-08-17T21:30:24Z",
+        "summary": "AI spending is forcing investors to pick a side",
+        "pubDate": "2026-08-18T20:46:06Z",
+        "displayTime": "2026-08-18T20:46:06Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/44108f481967b6b8d31e96d1e24908fa.png",
-          "originalWidth": 200,
-          "originalHeight": 200,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/qITABGLG78Pc9P2axC_oqA--~B/aD0yMDA7dz0yMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44108f481967b6b8d31e96d1e24908fa.png",
-              "width": 200,
-              "height": 200,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Q6MZpqYtt8irylshqlci4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44108f481967b6b8d31e96d1e24908fa.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
+        "thumbnail": null,
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/08/17/stock-market-today-aug-17-markets-inch-lower-and-treasury-yields-rise-as-investors-wait-for-retail-earnings/",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-investors-send-conflicting-signal-204606493.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-17-213024169.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-investors-send-conflicting-signal-204606493.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2059,32 +1983,94 @@
       }
     },
     {
-      "id": "fa8d80bf-8dca-303e-b153-8392c8151aeb",
+      "id": "f1729a26-bf72-31dd-941e-f5516a26f222",
       "content": {
-        "id": "fa8d80bf-8dca-303e-b153-8392c8151aeb",
+        "id": "f1729a26-bf72-31dd-941e-f5516a26f222",
         "contentType": "STORY",
-        "title": "How Heavy AI Spending Can Pay Off for Amazon and Meta",
+        "title": "Meta Faces Up To $1.4 Trillion For “Addictive” Products",
         "description": "",
-        "summary": "Mark Mahaney sees growing signs that internet behemoths will get a return on their soaring capital expenditures.",
-        "pubDate": "2026-08-17T21:16:00Z",
-        "displayTime": "2026-08-17T21:16:00Z",
+        "summary": "Twenty-nine states dragged Meta into Judge Yvonne Gonzalez Rogers’ Oakland courtroom, chasing damages that could reach $1.4 trillion.",
+        "pubDate": "2026-08-18T20:45:10Z",
+        "displayTime": "2026-08-18T20:45:10Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/moby_896/7e17c7c6815514956b66991317a4c39f.jpg",
+          "originalWidth": 928,
+          "originalHeight": 1152,
+          "caption": "Meta Faces Up To $1.4 Trillion For “Addictive” Products",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dnb8rYRTmb0NDGVJYfidFA--~B/aD0xMTUyO3c9OTI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moby_896/7e17c7c6815514956b66991317a4c39f.jpg",
+              "width": 928,
+              "height": 1152,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rYNCT.3heV1Zc4.cInaleQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/7e17c7c6815514956b66991317a4c39f.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Moby",
+          "url": "https://moby.co/",
+          "sourceId": "moby_896"
+        },
+        "canonicalUrl": {
+          "url": "https://app.moby.co/home/news/news-meta-faces-up-to-14-trillion-for-addictive-products?utm_source=yahoo_finance&utm_medium=rss",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-faces-1-4-trillion-204510546.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3e7e2b4b-76f8-32a1-bc4b-99f8d8af4c48",
+      "content": {
+        "id": "3e7e2b4b-76f8-32a1-bc4b-99f8d8af4c48",
+        "contentType": "STORY",
+        "title": "When It Comes to Investing, Risk Is Loud. Opportunity Is Quiet.",
+        "description": "",
+        "summary": "Mark Zuckerberg, CEO of  Facebook  parent Meta, has said the best piece of advice former Meta board member Peter Thiel gave him was this: “In a world that’s changing so quickly, the biggest risk you can take, is not taking enough risk.”  In today’s world, it would be long-duration investing.",
+        "pubDate": "2026-08-18T20:37:00Z",
+        "displayTime": "2026-08-18T20:37:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/fa8d80bf-8dca-303e-b153-8392c8151aeb/how-heavy-ai-spending-can-pay.html",
+        "previewUrl": "https://finance.yahoo.com/m/3e7e2b4b-76f8-32a1-bc4b-99f8d8af4c48/when-it-comes-to-investing-.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/8500bf3d84c42e4f62c08c2d5a7b422e.jpg",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/00943d2e75b157093f58d018fc7c5f2f.jpg",
           "originalWidth": 1280,
           "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9KpYXgG4l7FjwJtq2tufgg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8500bf3d84c42e4f62c08c2d5a7b422e.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/O1.9.ZsYFuo5c8WPQ0gkLg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/00943d2e75b157093f58d018fc7c5f2f.jpg",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/d6HZouAe1oXK6zwh9oqatQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/8500bf3d84c42e4f62c08c2d5a7b422e.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/nusT6LqMI.laDeW0apfqYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/00943d2e75b157093f58d018fc7c5f2f.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2097,7 +2083,7 @@
           "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/amazon-meta-stocks-ai-a973fab2?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/advisor/articles/investing-risk-avoidance-stocks-bonds-09db98e4?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2116,32 +2102,32 @@
       }
     },
     {
-      "id": "05cc7f2a-0039-3f92-b625-f45275a66952",
+      "id": "75e7acfa-5019-3120-8238-c95aa7205fa5",
       "content": {
-        "id": "05cc7f2a-0039-3f92-b625-f45275a66952",
+        "id": "75e7acfa-5019-3120-8238-c95aa7205fa5",
         "contentType": "STORY",
-        "title": "Rum Group (RUM) Jumps 10.5% as $1.4T Meta Trial Boosts Platform Outlook",
+        "title": "Update: Equities Fall For Third Day as Oil Stretches Gains Amid Middle East Anxiety",
         "description": "",
-        "summary": "Rum Group Inc. (NASDAQ:RUM), formerly Rumble Inc., saw its share price climb by 10.46 percent on Monday to close at $8.24 apiece, as investors placed their bets on a potential customer switch to its platform amid Meta Platforms’ ongoing federal trial over alleged harms to young users. Meta, which operates social media platforms Facebook and […]",
-        "pubDate": "2026-08-17T20:44:40Z",
-        "displayTime": "2026-08-17T20:44:40Z",
+        "summary": "(Updates with market moves at the end of the day, and other changes, if any.) US stocks fell for",
+        "pubDate": "2026-08-18T20:26:10Z",
+        "displayTime": "2026-08-18T20:26:10Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/25c2f9a82d994c0db376f8bb184a1aeb.jpg",
-          "originalWidth": 768,
-          "originalHeight": 512,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/mt_newswires_premium_news_706/0c887a492733aab96ac405a5871f559a.jpg",
+          "originalWidth": 1024,
+          "originalHeight": 768,
+          "caption": "Stocks_Chart market equity trading wall street - Shutterstock",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lPBUo..0xrBeST0zw7RSVw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/25c2f9a82d994c0db376f8bb184a1aeb.jpg",
-              "width": 768,
-              "height": 512,
+              "url": "https://s.yimg.com/uu/api/res/1.2/lk4m_urow6F0cirU9hd_sg--~B/aD03Njg7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/mt_newswires_premium_news_706/0c887a492733aab96ac405a5871f559a.jpg",
+              "width": 1024,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Z2bNdBC_QwDWZ6cn9vodng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/25c2f9a82d994c0db376f8bb184a1aeb.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/fb0LtwKui2R9tggqdGl7Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/0c887a492733aab96ac405a5871f559a.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2149,104 +2135,18 @@
           ]
         },
         "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rum-group-rum-jumps-10-204440874.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rum-group-rum-jumps-10-204440874.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "20bf077e-a8b3-3062-8473-81df740dc128",
-      "content": {
-        "id": "20bf077e-a8b3-3062-8473-81df740dc128",
-        "contentType": "STORY",
-        "title": "Apple Changes App Tracking Rules in Europe",
-        "description": "",
-        "summary": "The move could help Meta and other advertisers.",
-        "pubDate": "2026-08-17T20:14:38Z",
-        "displayTime": "2026-08-17T20:14:38Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/apple-changes-app-tracking-rules-201438480.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/apple-changes-app-tracking-rules-201438480.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "aea6a90f-9e59-3fca-a7bf-7514e10ca3a5",
-      "content": {
-        "id": "aea6a90f-9e59-3fca-a7bf-7514e10ca3a5",
-        "contentType": "STORY",
-        "title": "Sector Update: Tech Stocks Rise Late Afternoon",
-        "description": "",
-        "summary": "Tech stocks were higher late Monday afternoon, with the State Street Technology Select Sector SPDR E",
-        "pubDate": "2026-08-17T19:54:17Z",
-        "displayTime": "2026-08-17T19:54:17Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
           "displayName": "MT Newswires",
           "url": "https://www.mtnewswires.com/",
           "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-195417941.html",
+          "url": "https://finance.yahoo.com/markets/articles/equities-fall-third-day-oil-202610757.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-195417941.html",
+          "url": "https://finance.yahoo.com/markets/articles/equities-fall-third-day-oil-202610757.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2264,32 +2164,32 @@
       }
     },
     {
-      "id": "b36e808c-bee9-3e0b-94bb-38868171a8ee",
+      "id": "0c1f16f3-f194-3c26-b4d5-05eeea6fc988",
       "content": {
-        "id": "b36e808c-bee9-3e0b-94bb-38868171a8ee",
+        "id": "0c1f16f3-f194-3c26-b4d5-05eeea6fc988",
         "contentType": "STORY",
-        "title": "Meta Platforms Drops 4%, Pinterest Falls 4% as Social Media Legal Risk Resurfaces",
+        "title": "Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms",
         "description": "",
-        "summary": "A child safety trial opening Tuesday in federal court is hammering Meta Platforms stock and pulling Pinterest and Snap down with it, even though neither faces the bench, as potential damages the company itself has flagged approach its entire market cap.",
-        "pubDate": "2026-08-17T19:30:04Z",
-        "displayTime": "2026-08-17T19:30:04Z",
-        "isHosted": true,
+        "summary": "Crusoe IPO looms after last funding round valued the AI data center developer at $10 billion. Reports suggest firm's valuation may triple.",
+        "pubDate": "2026-08-18T20:20:45Z",
+        "displayTime": "2026-08-18T20:20:45Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/0c1f16f3-f194-3c26-b4d5-05eeea6fc988/is-this-the-next-coreweave-or.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/10593b666236fbeee6605d63dcb27c92.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 768,
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/819ecf1385c68630a974c3bfb29460a0.jpg",
+          "originalWidth": 1000,
+          "originalHeight": 511,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/r63TuUVW_O3OfPGmLuMRbw--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/10593b666236fbeee6605d63dcb27c92.jpg",
-              "width": 1366,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/DHhsjrp.kPeB6y.LwvlzUg--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/819ecf1385c68630a974c3bfb29460a0.jpg",
+              "width": 1000,
+              "height": 511,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2RjRI0NghfNMf6OxfH66rw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/10593b666236fbeee6605d63dcb27c92.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/5Ql6pet8Y3_5TsIXx_uOJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/819ecf1385c68630a974c3bfb29460a0.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2297,18 +2197,56 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/17/meta-platforms-drops-4-pinterest-falls-4-as-social-media-legal-risk-resurfaces/",
+          "url": "https://www.investors.com/news/is-this-the-next-coreweave-or-nebius-group-a-crusoe-ipo-looms/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6ab535f2-4acf-3626-ba15-c67c2d22e0f7",
+      "content": {
+        "id": "6ab535f2-4acf-3626-ba15-c67c2d22e0f7",
+        "contentType": "STORY",
+        "title": "Meta Stock Sinks 3.8% as Legal and AI Costs Collide",
+        "description": "",
+        "summary": "A social-media trial adds fresh pressure while Meta's spending already outruns its revenue growth.",
+        "pubDate": "2026-08-18T20:19:21Z",
+        "displayTime": "2026-08-18T20:19:21Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-sinks-3-8-201921919.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-drops-4-pinterest-193004326.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-sinks-3-8-201921919.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2326,32 +2264,32 @@
       }
     },
     {
-      "id": "f6f40415-3e2a-374d-b18d-e37e0885b182",
+      "id": "4a8e884e-0077-33c5-94a0-bbfa0df5041b",
       "content": {
-        "id": "f6f40415-3e2a-374d-b18d-e37e0885b182",
+        "id": "4a8e884e-0077-33c5-94a0-bbfa0df5041b",
         "contentType": "STORY",
-        "title": "3 Unpopular Stocks Walking a Fine Line",
+        "title": "Sector Update: Tech Stocks Fall Late Afternoon",
         "description": "",
-        "summary": "Wall Street’s bearish price targets for the stocks in this article signal serious concerns. Such forecasts are uncommon in an industry where maintaining cordial corporate relationships often trumps delivering the hard truth.",
-        "pubDate": "2026-08-17T19:18:20Z",
-        "displayTime": "2026-08-17T19:18:20Z",
+        "summary": "Tech stocks were lower late Tuesday afternoon, with the State Street Technology Select Sector SPDR E",
+        "pubDate": "2026-08-18T19:35:26Z",
+        "displayTime": "2026-08-18T19:35:26Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": null,
         "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
+          "displayName": "MT Newswires",
+          "url": "https://www.mtnewswires.com/",
+          "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-walking-fine-191820890.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-walking-fine-191820890.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2361,7 +2299,7 @@
         },
         "finance": {
           "premiumFinance": {
-            "isPremiumNews": false,
+            "isPremiumNews": true,
             "isPremiumFreeNews": false
           }
         },

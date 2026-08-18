@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-08-17T22:16:15.640489"
+    "ts": "2026-08-18T22:14:24.032665"
   },
   "financials": {
     "annual": {
@@ -24867,6 +24867,41 @@
         "buy": 25783,
         "name": "Investment_Trust",
         "sell": 2083789
+      },
+      {
+        "date": "2026-08-18",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-08-18",
+        "stock_id": "2330",
+        "buy": 78137,
+        "name": "Dealer_self",
+        "sell": 166253
+      },
+      {
+        "date": "2026-08-18",
+        "stock_id": "2330",
+        "buy": 217549,
+        "name": "Dealer_Hedging",
+        "sell": 239352
+      },
+      {
+        "date": "2026-08-18",
+        "stock_id": "2330",
+        "buy": 11521568,
+        "name": "Foreign_Investor",
+        "sell": 14766686
+      },
+      {
+        "date": "2026-08-18",
+        "stock_id": "2330",
+        "buy": 1100681,
+        "name": "Investment_Trust",
+        "sell": 473991
       }
     ],
     "margin_trading": [],
@@ -24874,32 +24909,161 @@
   },
   "news": [
     {
-      "id": "fa7380e4-db7e-3df7-afa2-5c96c9ebab6f",
+      "id": "9d89294d-a367-3607-9086-b162854e7823",
       "content": {
-        "id": "fa7380e4-db7e-3df7-afa2-5c96c9ebab6f",
+        "id": "9d89294d-a367-3607-9086-b162854e7823",
         "contentType": "STORY",
-        "title": "Situational Awareness’ 13F Reveals an $11 Billion AI Bet That Unraveled in Under a Month",
+        "title": "Bank of America Has a Message for Taiwan Semi Investors",
         "description": "",
-        "summary": "Leopold Aschenbrenner built one of the most concentrated AI bets in hedge fund history, and then watched it come apart in under a month in ways that forced a fire sale to a rival firm.",
-        "pubDate": "2026-08-17T21:48:19Z",
-        "displayTime": "2026-08-17T21:48:19Z",
+        "summary": "Better U.S. economics could ease a major investor concern",
+        "pubDate": "2026-08-18T20:50:42Z",
+        "displayTime": "2026-08-18T20:50:42Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/bank-america-message-taiwan-semi-205042603.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/bank-america-message-taiwan-semi-205042603.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6ab0dd17-81b2-3061-9ae1-ab4ae45aa349",
+      "content": {
+        "id": "6ab0dd17-81b2-3061-9ae1-ab4ae45aa349",
+        "contentType": "STORY",
+        "title": "BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans",
+        "description": "",
+        "summary": "Taiwan Semiconductor Stock Gets a Major Boost: BofA Sees U.S. Fab Expansion Gaining Momentum",
+        "pubDate": "2026-08-18T20:47:02Z",
+        "displayTime": "2026-08-18T20:47:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/bofa-sends-bullish-message-taiwan-204702561.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/bofa-sends-bullish-message-taiwan-204702561.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bf53d1a7-7469-3589-9dbc-03b9c87e17ce",
+      "content": {
+        "id": "bf53d1a7-7469-3589-9dbc-03b9c87e17ce",
+        "contentType": "STORY",
+        "title": "TSMC Stock Slides Over 4% Despite 45% Revenue Surge",
+        "description": "",
+        "summary": "The AI foundry leader is delivering explosive growth, but Tuesday's bond shock spared nobody.",
+        "pubDate": "2026-08-18T18:58:01Z",
+        "displayTime": "2026-08-18T18:58:01Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-slides-over-4-185801894.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-slides-over-4-185801894.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8bf284a8-5b1c-36dd-92da-3fa1a4015d17",
+      "content": {
+        "id": "8bf284a8-5b1c-36dd-92da-3fa1a4015d17",
+        "contentType": "STORY",
+        "title": "United Microelectronics Falls 7%, Tower Semiconductor Sinks 10%, GlobalFoundries Drops 7% as AI Spending Fears Hit Foundries",
+        "description": "",
+        "summary": "A Wall Street Journal report on $3 trillion in off-balance-sheet tech commitments just sent shockwaves through the foundry sector, and the ripple effects are raising uncomfortable questions about whether the AI buildout can actually support current chip valuations.",
+        "pubDate": "2026-08-18T18:39:58Z",
+        "displayTime": "2026-08-18T18:39:58Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/53160dee00cf48aca65affcdbf1ea611",
-          "originalWidth": 1376,
-          "originalHeight": 768,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/0b4bc36eca336ee2323794f659a74294.jpg",
+          "originalWidth": 2848,
+          "originalHeight": 1600,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Q5TY5vvVq33wyBUQjZuw5w--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/53160dee00cf48aca65affcdbf1ea611",
-              "width": 1376,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/oZQ3F6koH8dHZQi37N05xA--~B/aD0xNjAwO3c9Mjg0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/0b4bc36eca336ee2323794f659a74294.jpg",
+              "width": 2848,
+              "height": 1600,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fKbUnWaC_Opy3qvEQZdk3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/53160dee00cf48aca65affcdbf1ea611",
+              "url": "https://s.yimg.com/uu/api/res/1.2/I6kYYNE3wB1.NfX5yGPYeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0b4bc36eca336ee2323794f659a74294.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -24912,13 +25076,13 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/17/situational-awareness-13f-reveals-an-11-billion-ai-bet-that-unraveled-in-under-a-month/",
+          "url": "https://247wallst.com/investing/2026/08/18/united-microelectronics-falls-7-tower-semiconductor-sinks-10-globalfoundries-drops-7-as-ai-spending-fears-hit-foundries/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-13f-reveals-11-214819871.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/united-microelectronics-falls-7-tower-183958599.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -24936,75 +25100,32 @@
       }
     },
     {
-      "id": "1fbeb269-65b2-3da4-980a-3879c9bb1e44",
+      "id": "8ad2d48f-8802-361e-baad-c409e31f2734",
       "content": {
-        "id": "1fbeb269-65b2-3da4-980a-3879c9bb1e44",
+        "id": "8ad2d48f-8802-361e-baad-c409e31f2734",
         "contentType": "STORY",
-        "title": "Nvidia's Next AI Infrastructure Bet Is Scaling Fast",
+        "title": "Famous Billionaires Were Rushing to Buy Taiwan Semiconductor (TSM). Here’s Why",
         "description": "",
-        "summary": "The next infrastructure wave may extend far beyond GPUs.",
-        "pubDate": "2026-08-17T20:36:10Z",
-        "displayTime": "2026-08-17T20:36:10Z",
+        "summary": "Taiwan Semiconductor (NYSE: TSM) is one of the most widely held AI chip stocks among elite hedge funds and billionaire investors, the latest 13F filings for the second quarter show. Insider Monkey data shows TSM appeared in 250 hedge fund portfolios by the end of the second quarter, sharply up from 236 in the first […]",
+        "pubDate": "2026-08-18T18:39:16Z",
+        "displayTime": "2026-08-18T18:39:16Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-next-ai-infrastructure-bet-203610188.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-next-ai-infrastructure-bet-203610188.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "badd95c3-60f3-3400-b02b-19b6385bb030",
-      "content": {
-        "id": "badd95c3-60f3-3400-b02b-19b6385bb030",
-        "contentType": "STORY",
-        "title": "Four Reasons To Put This Nvidia, AMD Partner On Your Watchlist Right Now",
-        "description": "",
-        "summary": "Collaborating with tech giants like Nvidia, AMD and Apple, Teradyne stock etches a new buy point as these clues bode well.",
-        "pubDate": "2026-08-17T20:07:13Z",
-        "displayTime": "2026-08-17T20:07:13Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/badd95c3-60f3-3400-b02b-19b6385bb030/four-reasons-to-put-this.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/e007bdf83c41746c6c55a810c8af9744.jpg",
-          "originalWidth": 1000,
-          "originalHeight": 563,
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/98c0c7d011f7e68747c68035233f9ade.jpg",
+          "originalWidth": 768,
+          "originalHeight": 576,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Bsu3cTIIjFmZv9cwTJSvtg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e007bdf83c41746c6c55a810c8af9744.jpg",
-              "width": 1000,
-              "height": 563,
+              "url": "https://s.yimg.com/uu/api/res/1.2/bat6x6iQrc6ensMVRMdUIA--~B/aD01NzY7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/98c0c7d011f7e68747c68035233f9ade.jpg",
+              "width": 768,
+              "height": 576,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/FpBjHlxJ5jNg5HRkeyI5jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/e007bdf83c41746c6c55a810c8af9744.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/i0hU7UivIQN26xu9eAAw0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/98c0c7d011f7e68747c68035233f9ade.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -25012,17 +25133,22 @@
           ]
         },
         "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/teradyne-stock-eyes-breakout-semiconductor-partners-nvidia-taiwan-semi-apple-tech-markets/?src=A00220&yptr=yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/famous-billionaires-were-rushing-buy-183916148.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/famous-billionaires-were-rushing-buy-183916148.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
@@ -25036,32 +25162,199 @@
       }
     },
     {
-      "id": "667b476d-0507-3278-801b-f4e4dd689759",
+      "id": "3b549f5b-a385-3dea-b31d-71e57898f6a0",
       "content": {
-        "id": "667b476d-0507-3278-801b-f4e4dd689759",
+        "id": "3b549f5b-a385-3dea-b31d-71e57898f6a0",
         "contentType": "STORY",
-        "title": "Druckenmiller dumps Micron, Intel, buys Amazon in Q2 2026",
+        "title": "Beyond Nvidia: Buy These ETFs to Capture AI's Optical Boom",
         "description": "",
-        "summary": "The family office increased its Amazon stake by more than 1,000% while completely exiting Broadcom, Intel, and Micron",
-        "pubDate": "2026-08-17T17:20:50Z",
-        "displayTime": "2026-08-17T17:20:50Z",
+        "summary": "Optics are emerging as the next AI infrastructure bottleneck. These three ETFs offer diversified exposure to the photonics boom.",
+        "pubDate": "2026-08-18T13:49:00Z",
+        "displayTime": "2026-08-18T13:49:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-buy-etfs-capture-134900872.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-buy-etfs-capture-134900872.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "892fc6ec-2ece-31db-926b-6f1892d1e6af",
+      "content": {
+        "id": "892fc6ec-2ece-31db-926b-6f1892d1e6af",
+        "contentType": "STORY",
+        "title": "David Tepper’s 3 Biggest Bets in The Second Quarter: Buy, Sell or Hold?",
+        "description": "",
+        "summary": "Appaloosa Management's three biggest Q2 positions span consumer tech, foundry dominance, and speculative AI infrastructure, but at today's prices Tepper's bets carry very different levels of risk for anyone thinking about following his lead.",
+        "pubDate": "2026-08-18T13:00:03Z",
+        "displayTime": "2026-08-18T13:00:03Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/quartz_855/f1e3095bbc28867d8bbabb2b4d5f0dba.jpg",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/814b6ac5816e4a61c081dede58fc3060.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IvpLFUXNebzNsY5JoZoJ3Q--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/814b6ac5816e4a61c081dede58fc3060.jpg",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/y.9T_5gAAcSIye8hwdS88Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/814b6ac5816e4a61c081dede58fc3060.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/18/david-teppers-3-biggest-bets-in-the-second-quarter-buy-sell-or-hold/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/david-tepper-3-biggest-bets-130003431.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b823901e-575c-35ef-ba3b-66a96e4c0850",
+      "content": {
+        "id": "b823901e-575c-35ef-ba3b-66a96e4c0850",
+        "contentType": "STORY",
+        "title": "Billionaire David Tepper’s Top 5 Holdings Just Revealed",
+        "description": "",
+        "summary": "Billionaire hedge fund manager David Tepper just filed his latest 13F, and the moves inside reveal a calculated reshuffling of billions across the biggest names in AI infrastructure. One major trim and one complete exit signal something worth understanding before you assume he is simply buying the AI boom.",
+        "pubDate": "2026-08-18T12:36:10Z",
+        "displayTime": "2026-08-18T12:36:10Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/814b6ac5816e4a61c081dede58fc3060.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IvpLFUXNebzNsY5JoZoJ3Q--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/814b6ac5816e4a61c081dede58fc3060.jpg",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/y.9T_5gAAcSIye8hwdS88Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/814b6ac5816e4a61c081dede58fc3060.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/18/billionaire-david-teppers-top-5-holdings-just-revealed/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-top-5-123610504.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "cfb870d5-2bd9-3fd9-b1f7-e053a6345b45",
+      "content": {
+        "id": "cfb870d5-2bd9-3fd9-b1f7-e053a6345b45",
+        "contentType": "STORY",
+        "title": "Situational Awareness 13F: Micron and Sandisk dominated fund before July collapse",
+        "description": "",
+        "summary": "The fund's top 5 positions — including Sandisk at $5.7 billion and Micron at $5.6 billion — all fell sharply in July as the AI trade reversed",
+        "pubDate": "2026-08-18T11:36:00Z",
+        "displayTime": "2026-08-18T11:36:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/quartz_855/8c088f40c2a9d90a8e492ff8b28db931.jpg",
           "originalWidth": 1280,
           "originalHeight": 720,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/22jvDIQizlMXH.c3_KVI4Q--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/f1e3095bbc28867d8bbabb2b4d5f0dba.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/m9a3ivPyKSLDaNjHc9oGow--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/8c088f40c2a9d90a8e492ff8b28db931.jpg",
               "width": 1280,
               "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Ss.z8JevkFwDI7jcWRFBYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/f1e3095bbc28867d8bbabb2b4d5f0dba.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/iWOBihVMcYA.Xrj06iU6Ng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/8c088f40c2a9d90a8e492ff8b28db931.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -25074,13 +25367,13 @@
           "sourceId": "quartz_855"
         },
         "canonicalUrl": {
-          "url": "https://qz.com/druckenmiller-duquesne-micron-intel-amazon-081726",
+          "url": "https://qz.com/situational-awareness-13f-micron-sandisk-july-collapse-081826",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-dumps-micron-intel-buys-172050129.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-13f-micron-sandisk-113600565.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -25098,156 +25391,32 @@
       }
     },
     {
-      "id": "cc8eb445-594c-3959-b811-8d023bbfe49a",
+      "id": "c35ea2b9-16bf-375c-a2a0-cc5c0adbe107",
       "content": {
-        "id": "cc8eb445-594c-3959-b811-8d023bbfe49a",
+        "id": "c35ea2b9-16bf-375c-a2a0-cc5c0adbe107",
         "contentType": "STORY",
-        "title": "Why There Might Be a Case for Taiwan Semiconductor Stock at $450 in September",
+        "title": "Billionaire David Tepper of Appaloosa Slashed His Micron Stake and Piled Into a \"Fabulous\" AI Stock for a 6th Consecutive Quarter",
         "description": "",
-        "summary": "Although TSM stock has struggled since the end of June, quantitative dynamics may point to a possible upswing next month.",
-        "pubDate": "2026-08-17T14:20:28Z",
-        "displayTime": "2026-08-17T14:20:28Z",
+        "summary": "Two foundational artificial intelligence (AI) stocks have billionaire David Tepper's undivided attention.",
+        "pubDate": "2026-08-18T09:26:00Z",
+        "displayTime": "2026-08-18T09:26:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/b0d8d6d43db7c22459d85ccb50ff1a56.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 1067,
-          "caption": "A close-up shot of the Taiwan Semi logo on a corporate building by Jack Hong via Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/kexiDoxpi9kzdAtpRxtM.Q--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/b0d8d6d43db7c22459d85ccb50ff1a56.jpg",
-              "width": 1600,
-              "height": 1067,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZWnODNFIkxG0tpR1zqOsSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/b0d8d6d43db7c22459d85ccb50ff1a56.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/3887267/why-there-might-be-a-case-for-taiwan-semiconductor-stock-at-450-in-september",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-might-case-taiwan-semiconductor-142028082.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "60075bbc-b054-3e0b-86dc-23fb0ee0b423",
-      "content": {
-        "id": "60075bbc-b054-3e0b-86dc-23fb0ee0b423",
-        "contentType": "STORY",
-        "title": "Billionaire David Tepper Trimmed Micron and Sold out of SanDisk. Here’s the New AI Stocks He’s Buying",
-        "description": "",
-        "summary": "David Tepper just posted a 32% return in six months riding memory chips, then quietly dumped his winners and moved the money somewhere most AI investors are completely ignoring.",
-        "pubDate": "2026-08-17T14:09:13Z",
-        "displayTime": "2026-08-17T14:09:13Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/cea68a742de1a11b87124a4f3a44d8ac.jpg",
-          "originalWidth": 2845,
-          "originalHeight": 1600,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Eqakt4vyKTVdmMwH3THYhQ--~B/aD0xNjAwO3c9Mjg0NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/cea68a742de1a11b87124a4f3a44d8ac.jpg",
-              "width": 2845,
-              "height": 1600,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/s65STbSPcWzD1vdAFWFacw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cea68a742de1a11b87124a4f3a44d8ac.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/17/billionaire-david-tepper-trimmed-micron-and-sold-out-of-sandisk-heres-the-new-ai-stocks-hes-buying/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-trimmed-micron-140913563.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "576d4fa9-56cb-3c14-83ec-f032c517bc72",
-      "content": {
-        "id": "576d4fa9-56cb-3c14-83ec-f032c517bc72",
-        "contentType": "STORY",
-        "title": "3 Ways to Protect Your Retirement Savings Ahead of the Market’s Most Volatile Months",
-        "description": "",
-        "summary": "September and October can be rough for stocks. Here’s how to add some shock absorbers to your portfolio.",
-        "pubDate": "2026-08-17T14:03:00Z",
-        "displayTime": "2026-08-17T14:03:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/576d4fa9-56cb-3c14-83ec-f032c517bc72/3-ways-to-protect-your.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/223e91b0c32036ef6b7ec024ab792c82.jpg",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/6398d8f026341aca06daa2956c13b285.jpg",
           "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
+          "originalHeight": 853,
+          "caption": "Carolina Panthers owner David Tepper standing on the grass of the sports stadium his company owns.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/22ZUoIjPUespLUSGWd7vaw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/223e91b0c32036ef6b7ec024ab792c82.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/5Z9Zx.WUy9Xit2.XeS5eNw--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6398d8f026341aca06daa2956c13b285.jpg",
               "width": 1280,
-              "height": 640,
+              "height": 853,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/bN5BaGundohH3vzjQr.dTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/223e91b0c32036ef6b7ec024ab792c82.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/6z6Bqp6orpl6Up8T81kq_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6398d8f026341aca06daa2956c13b285.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -25255,194 +25424,18 @@
           ]
         },
         "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/retirement-portfolio-stocks-volatility-875dd91a?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6238a164-79a4-30cc-ac25-13cad2788b9b",
-      "content": {
-        "id": "6238a164-79a4-30cc-ac25-13cad2788b9b",
-        "contentType": "STORY",
-        "title": "The Market Is Sending a Signal And These Stocks Stand Out",
-        "description": "",
-        "summary": "Three AI infrastructure giants are flashing the same rare combination of signals at once, and analysts are quietly setting price targets that would require gains few stocks ever deliver in a single year.",
-        "pubDate": "2026-08-17T14:00:12Z",
-        "displayTime": "2026-08-17T14:00:12Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
-          "originalWidth": 2844,
-          "originalHeight": 1600,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/iCqKN2EfX8ALEawq77o1bw--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
-              "width": 2844,
-              "height": 1600,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KxFDG6nJzhhDrWEAzpEFGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/17/the-market-is-sending-a-signal-and-these-stocks-stand-out/",
+          "url": "https://www.fool.com/investing/2026/08/18/billionaire-david-tepper-appaloosa-sell-mu-buy-tsm/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-sending-signal-stocks-stand-140012931.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "11e3f917-3baf-368a-a4c4-2ebc1cfb88d0",
-      "content": {
-        "id": "11e3f917-3baf-368a-a4c4-2ebc1cfb88d0",
-        "contentType": "STORY",
-        "title": "Harvard Has a Massive Stake in SpaceX",
-        "description": "",
-        "summary": "$2.2 billion That’s the stake that Harvard University’s endowment fund holds in SpaceX, according to a Friday securities filing. It amounts to roughly 12.9 million shares. That’s a much bigger investment than in other major tech companies, the document showed: By comparison, Harvard Management has a roughly $350 million stake in Taiwan Semiconductor Manufacturing and $234 million worth of Amazon shares.",
-        "pubDate": "2026-08-17T13:49:22Z",
-        "displayTime": "2026-08-17T13:49:22Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/11e3f917-3baf-368a-a4c4-2ebc1cfb88d0/harvard-has-a-massive-stake.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/d36fb2cc88dca6d91c9c76b943739831.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/MSwVyvYy46d8AnK9c6vhNw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d36fb2cc88dca6d91c9c76b943739831.jpg",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/bNu.ToVbwcGTpoUqYpaztA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d36fb2cc88dca6d91c9c76b943739831.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/harvard-has-a-massive-stake-in-spacex-8P4e6O1CP3NpA1LMTcoM?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "cae2e62d-3789-38bb-9b40-e193d361e267",
-      "content": {
-        "id": "cae2e62d-3789-38bb-9b40-e193d361e267",
-        "contentType": "STORY",
-        "title": "Zacks Market Edge Highlights: ARW, MKSI and MWH",
-        "description": "",
-        "summary": "Arrow Electronics, MKS and SOLV Energy stand out as AI infrastructure plays with surging sales, earnings and orders.",
-        "pubDate": "2026-08-17T09:09:00Z",
-        "displayTime": "2026-08-17T09:09:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/b4d26834b9b65b604420e4a5892a0c23.jpg",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/023ufLULAipHh3oHz3w7HQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b4d26834b9b65b604420e4a5892a0c23.jpg",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OoY.Tg.gyCCmM.W0_wB4NQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b4d26834b9b65b604420e4a5892a0c23.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-arw-090900911.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-arw-090900911.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-appaloosa-slashed-092600175.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -25572,74 +25565,69 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2395.0,
-    "open": 2410.0,
-    "dayLow": 2390.0,
-    "dayHigh": 2420.0,
-    "regularMarketPreviousClose": 2395.0,
-    "regularMarketOpen": 2410.0,
-    "regularMarketDayLow": 2390.0,
-    "regularMarketDayHigh": 2420.0,
-    "dividendRate": 28.0,
-    "dividendYield": 1.17,
-    "exDividendDate": 1789516800,
-    "payoutRatio": 0.2573,
-    "fiveYearAvgDividendYield": 1.69,
+    "previousClose": 2400.0,
+    "open": 2415.0,
+    "dayLow": 2375.0,
+    "dayHigh": 2415.0,
+    "regularMarketPreviousClose": 2400.0,
+    "regularMarketOpen": 2415.0,
+    "regularMarketDayLow": 2375.0,
+    "regularMarketDayHigh": 2415.0,
     "beta": 1.258,
-    "trailingPE": 28.070175,
-    "forwardPE": 17.05123,
-    "volume": 13445406,
-    "regularMarketVolume": 13445406,
-    "averageVolume": 32077637,
-    "averageVolume10days": 23540649,
-    "averageDailyVolume10Day": 23540649,
+    "trailingPE": 27.855804,
+    "forwardPE": 16.74534,
+    "volume": 18775563,
+    "regularMarketVolume": 18775563,
+    "averageVolume": 31869151,
+    "averageVolume10days": 21793302,
+    "averageDailyVolume10Day": 21793302,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 62237687414784,
-    "nonDilutedMarketCap": 62108026310465,
+    "marketCap": 61719040753664,
+    "nonDilutedMarketCap": 62237688160800,
     "fiftyTwoWeekLow": 1135.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "priceToSalesTrailing12Months": 14.015943,
-    "fiftyDayAverage": 2382.3,
-    "twoHundredDayAverage": 1962.4,
+    "priceToSalesTrailing12Months": 13.899143,
+    "fiftyDayAverage": 2383.0,
+    "twoHundredDayAverage": 1966.85,
     "trailingAnnualDividendRate": 26.0,
-    "trailingAnnualDividendYield": 0.0108559495,
+    "trailingAnnualDividendYield": 0.010833333,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 59830190473216,
+    "enterpriseValue": 59311539617792,
     "profitMargins": 0.49923,
     "floatShares": 23652655353,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00023,
-    "heldPercentInstitutions": 0.43085,
+    "heldPercentInstitutions": 0.43308997,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.05,
-    "priceToBook": 9.675468,
+    "priceToBook": 9.59484,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808415232,
-    "trailingEps": 85.5,
-    "forwardEps": 140.75232,
+    "trailingEps": 85.44,
+    "forwardEps": 142.12909,
     "pegRatio": 0.9,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.474,
-    "enterpriseToEbitda": 18.889,
-    "52WeekChange": 1.0296609,
-    "SandP52WeekChange": 0.2072537,
+    "enterpriseToRevenue": 13.357,
+    "enterpriseToEbitda": 18.725,
+    "52WeekChange": 1.0253165,
+    "SandP52WeekChange": 0.2080195,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1796860800,
     "quoteType": "EQUITY",
-    "currentPrice": 2400.0,
+    "currentPrice": 2380.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2147.0,
-    "targetMeanPrice": 3194.5757,
+    "targetMeanPrice": 3205.7878,
     "targetMedianPrice": 3200.0,
     "recommendationMean": 1.30303,
     "recommendationKey": "strong_buy",
@@ -25673,18 +25661,46 @@
     "customPriceAlertConfidence": "LOW",
     "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
     "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "epsTrailingTwelveMonths": 85.5,
-    "epsForward": 140.75232,
-    "epsCurrentYear": 107.38714,
-    "priceEpsCurrentYear": 22.349045,
-    "fiftyDayAverageChange": 17.699951,
-    "fiftyDayAverageChangePercent": 0.007429774,
-    "twoHundredDayAverageChange": 437.59998,
-    "twoHundredDayAverageChangePercent": 0.22299224,
+    "fiftyTwoWeekLowChangePercent": 1.0969163,
+    "fiftyTwoWeekRange": "1135.0 - 2535.0",
+    "fiftyTwoWeekHighChange": -155.0,
+    "fiftyTwoWeekHighChangePercent": -0.061143983,
+    "fiftyTwoWeekChangePercent": 102.53165,
+    "earningsTimestamp": 1784179800,
+    "earningsTimestampStart": 1792042200,
+    "earningsTimestampEnd": 1792042200,
+    "earningsCallTimestampStart": 1784181600,
+    "earningsCallTimestampEnd": 1784181600,
+    "isEarningsDateEstimate": false,
+    "epsTrailingTwelveMonths": 85.44,
+    "epsForward": 142.12909,
+    "epsCurrentYear": 107.62413,
+    "priceEpsCurrentYear": 22.114,
+    "fiftyDayAverageChange": -3.0,
+    "fiftyDayAverageChangePercent": -0.0012589174,
+    "twoHundredDayAverageChange": 413.15002,
+    "twoHundredDayAverageChangePercent": 0.2100567,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": -20.0,
+    "fulldayPrice": 2380.0,
+    "regularMarketDayRange": "2375.0 - 2415.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 31869151,
+    "fiftyTwoWeekLowChange": 1245.0,
+    "regularMarketChangePercent": -0.8333334,
+    "regularMarketPrice": 2380.0,
+    "exchange": "TAI",
+    "messageBoardId": "finmb_380075",
+    "exchangeTimezoneName": "Asia/Taipei",
+    "exchangeTimezoneShortName": "CST",
+    "gmtOffSetMilliseconds": 28800000,
+    "market": "tw_market",
+    "esgPopulated": false,
     "corporateActions": [
       {
         "header": "Dividend",
@@ -25696,36 +25712,8 @@
         }
       }
     ],
-    "regularMarketTime": 1786944608,
-    "exchange": "TAI",
-    "messageBoardId": "finmb_380075",
-    "exchangeTimezoneName": "Asia/Taipei",
-    "exchangeTimezoneShortName": "CST",
-    "gmtOffSetMilliseconds": 28800000,
-    "market": "tw_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": 0.20876828,
-    "regularMarketPrice": 2400.0,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketTime": 1787031008,
     "marketState": "PREPRE",
-    "regularMarketChange": 5.0,
-    "fulldayPrice": 2400.0,
-    "regularMarketDayRange": "2390.0 - 2420.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 32077637,
-    "fiftyTwoWeekLowChange": 1265.0,
-    "fiftyTwoWeekLowChangePercent": 1.1145375,
-    "fiftyTwoWeekRange": "1135.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -135.0,
-    "fiftyTwoWeekHighChangePercent": -0.053254437,
-    "fiftyTwoWeekChangePercent": 102.966095,
-    "earningsTimestamp": 1784179800,
-    "earningsTimestampStart": 1792042200,
-    "earningsTimestampEnd": 1792042200,
-    "earningsCallTimestampStart": 1784181600,
-    "earningsCallTimestampEnd": 1784181600,
-    "isEarningsDateEstimate": false,
-    "trailingPegRatio": 0.8957
+    "trailingPegRatio": 0.8977
   }
 }
