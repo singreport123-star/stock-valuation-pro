@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-18T22:14:29.612856",
+    "ts": "2026-08-19T22:16:44.507299",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,44 +137,45 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 568.97,
-    "open": 557.31,
-    "dayLow": 543.21,
-    "dayHigh": 560.66,
-    "regularMarketPreviousClose": 568.97,
-    "regularMarketOpen": 557.31,
-    "regularMarketDayLow": 543.21,
-    "regularMarketDayHigh": 560.66,
+    "previousClose": 543.67,
+    "open": 541.34,
+    "dayLow": 537.28,
+    "dayHigh": 554.06,
+    "regularMarketPreviousClose": 543.67,
+    "regularMarketOpen": 541.34,
+    "regularMarketDayLow": 537.28,
+    "regularMarketDayHigh": 554.06,
     "dividendRate": 2.1,
-    "dividendYield": 0.37,
+    "dividendYield": 0.39,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 20.461798,
-    "forwardPE": 15.584636,
-    "volume": 26550374,
-    "regularMarketVolume": 26550374,
-    "averageVolume": 18195277,
-    "averageVolume10days": 13731570,
-    "averageDailyVolume10Day": 13731570,
-    "bid": 545.0,
-    "ask": 558.0,
+    "trailingPE": 20.581606,
+    "forwardPE": 15.733613,
+    "volume": 16348636,
+    "regularMarketVolume": 16348636,
+    "averageVolume": 18442140,
+    "averageVolume10days": 14641190,
+    "averageDailyVolume10Day": 14641190,
+    "bid": 549.42,
+    "ask": 555.0,
     "bidSize": 1,
-    "askSize": 1,
-    "marketCap": 1385002696704,
-    "nonDilutedMarketCap": 1449454616837,
+    "askSize": 2,
+    "marketCap": 1391014838272,
+    "nonDilutedMarketCap": 1385002709345,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 790.8,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "priceToSalesTrailing12Months": 6.068,
-    "fiftyDayAverage": 595.9618,
-    "twoHundredDayAverage": 626.72205,
+    "fulldayPrice": 548.75,
+    "priceToSalesTrailing12Months": 6.0943403,
+    "fiftyDayAverage": 594.9752,
+    "twoHundredDayAverage": 625.68207,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.00369088,
+    "trailingAnnualDividendYield": 0.003862637,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1471512576000,
+    "enterpriseValue": 1407060672512,
     "profitMargins": 0.29834998,
     "floatShares": 2201784155,
     "sharesOutstanding": 2205128509,
@@ -189,23 +190,23 @@
     "shortPercentOfFloat": 0.0143,
     "impliedSharesOutstanding": 2547506225,
     "bookValue": 102.52,
-    "priceToBook": 5.303063,
+    "priceToBook": 5.326083,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.57,
-    "forwardEps": 34.885,
+    "trailingEps": 26.53,
+    "forwardEps": 34.70468,
     "pegRatio": 0.88,
-    "enterpriseToRevenue": 6.447,
-    "enterpriseToEbitda": 13.419,
-    "52WeekChange": -0.24286741,
-    "SandP52WeekChange": 0.2080195,
+    "enterpriseToRevenue": 6.165,
+    "enterpriseToEbitda": 12.832,
+    "52WeekChange": -0.2728963,
+    "SandP52WeekChange": 0.20263052,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 543.67,
+    "currentPrice": 546.03,
     "targetHighPrice": 1000.0,
     "targetLowPrice": 580.0,
     "targetMeanPrice": 754.14246,
@@ -240,16 +241,10 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "twoHundredDayAverageChangePercent": -0.13251817,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-18",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
+    "marketState": "POST",
+    "corporateActions": [],
+    "postMarketTime": 1787177801,
+    "regularMarketTime": 1787169601,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -257,28 +252,34 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "marketState": "POST",
-    "corporateActions": [],
-    "postMarketTime": 1787091266,
-    "regularMarketTime": 1787083200,
-    "regularMarketChangePercent": -4.44663,
-    "regularMarketPrice": 543.67,
+    "regularMarketChangePercent": 0.4340954,
+    "regularMarketPrice": 546.03,
+    "fiftyDayAverageChange": -48.94519,
+    "fiftyDayAverageChangePercent": -0.08226425,
+    "twoHundredDayAverageChange": -79.65204,
+    "twoHundredDayAverageChangePercent": -0.12730433,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-08-19",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.3494812,
-    "postMarketPrice": 545.57,
-    "postMarketChange": 1.9000244,
-    "regularMarketChange": -25.299988,
-    "fulldayPrice": 545.57,
-    "regularMarketDayRange": "543.21 - 560.66",
+    "postMarketChangePercent": 0.49813575,
+    "postMarketPrice": 548.75,
+    "postMarketChange": 2.7199707,
+    "regularMarketChange": 2.3600464,
+    "regularMarketDayRange": "537.28 - 554.06",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18195277,
-    "fiftyTwoWeekLowChange": 23.409973,
-    "fiftyTwoWeekLowChangePercent": 0.04499668,
+    "averageDailyVolume3Month": 18442140,
+    "fiftyTwoWeekLowChange": 25.77002,
+    "fiftyTwoWeekLowChangePercent": 0.04953296,
     "fiftyTwoWeekRange": "520.26 - 790.8",
-    "fiftyTwoWeekHighChange": -247.13,
-    "fiftyTwoWeekHighChangePercent": -0.31250635,
-    "fiftyTwoWeekChangePercent": -24.286741,
+    "fiftyTwoWeekHighChange": -244.76996,
+    "fiftyTwoWeekHighChangePercent": -0.30952194,
+    "fiftyTwoWeekChangePercent": -27.289629,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -286,15 +287,14 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.57,
-    "epsForward": 34.885,
+    "epsTrailingTwelveMonths": 26.53,
+    "epsForward": 34.70468,
     "epsCurrentYear": 31.05,
-    "priceEpsCurrentYear": 17.5095,
-    "fiftyDayAverageChange": -52.29181,
-    "fiftyDayAverageChangePercent": -0.08774356,
-    "twoHundredDayAverageChange": -83.05206,
+    "priceEpsCurrentYear": 17.585508,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8494
+    "trailingPegRatio": 0.8116
   },
   "financial_statements": {
     "income": {
@@ -1697,6 +1697,68 @@
   },
   "news": [
     {
+      "id": "b55ced8e-733a-4440-a80d-adead8c248d9",
+      "content": {
+        "id": "b55ced8e-733a-4440-a80d-adead8c248d9",
+        "contentType": "STORY",
+        "title": "Tech stocks today: OpenAI's growth disappoints, chip stock slide continues",
+        "description": "",
+        "summary": "Tech stock coverage for the week of Aug. 17.",
+        "pubDate": "2026-08-17T13:29:45Z",
+        "displayTime": "2026-08-19T20:13:34Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/LcxqJ8DJBXE2HR6VZGbIyw--~B/aD0zMTgzO3c9NDc0NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/604a927e-7254-408c-91bc-bc0660353dfd",
+          "originalWidth": 4744,
+          "originalHeight": 3183,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LcxqJ8DJBXE2HR6VZGbIyw--~B/aD0zMTgzO3c9NDc0NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/604a927e-7254-408c-91bc-bc0660353dfd",
+              "width": 4744,
+              "height": 3183,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IHyjkBekEFkUdcXXFcakDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-04/604a927e-7254-408c-91bc-bc0660353dfd",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-chip-stock-slide-continues-132945569.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-chip-stock-slide-continues-132945569.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
       "id": "6428ed8c-2691-4c30-af76-5e3067819c91",
       "content": {
         "id": "6428ed8c-2691-4c30-af76-5e3067819c91",
@@ -1705,7 +1767,7 @@
         "description": "",
         "summary": "Meta is in court again, as it faces another social media addiction suit.",
         "pubDate": "2026-08-18T21:54:58Z",
-        "displayTime": "2026-08-18T21:54:58Z",
+        "displayTime": "2026-08-19T09:48:24Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -1755,93 +1817,36 @@
             "isPremiumFreeNews": false
           }
         },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "dabc68fe-9c00-41e6-9f23-80532d556ee5",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Meta takes the stand in child safety trial: Takeaways from the first day",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/VOijW2HScLxDaUOkWLx76g--~B/aD0xMzY3O3c9MjQzMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4422e5f0-0d18-11f1-ac7f-49df0345cf07_5563a986ffece1c860ba4950a823ecfa5e718fedf49c0a5529f75f5cde72b536.jpg",
-                  "originalWidth": 2430,
-                  "originalHeight": 1367,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-takes-stand-child-safety-203000629.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/meta-takes-stand-child-safety-203000629.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "b55ced8e-733a-4440-a80d-adead8c248d9",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Tech stocks today: Meta social media trial kicks off, chip stocks fall",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Ub0Eyf9IzitSsEPOXkwddw--~B/aD03OTg7dz0xMjMyO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/2026-08/4e6269c8-fcbc-4d7e-8987-e075ef2c21b2",
-                  "originalWidth": 1232,
-                  "originalHeight": 798,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-social-media-trial-kicks-off-chip-stocks-fall-132945569.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-social-media-trial-kicks-off-chip-stocks-fall-132945569.html"
-                }
-              }
-            }
-          ]
-        }
+        "storyline": null
       }
     },
     {
-      "id": "35565963-3296-4b71-acd6-0b4f73b12a8b",
+      "id": "f1aa11cc-1062-3fa8-9ab3-bc8039f786ee",
       "content": {
-        "id": "35565963-3296-4b71-acd6-0b4f73b12a8b",
+        "id": "f1aa11cc-1062-3fa8-9ab3-bc8039f786ee",
         "contentType": "STORY",
-        "title": "Why tech stock bulls may not shake this AI problem",
+        "title": "Broadcom (AVGO) Is Down More Than 20%—Why TD Cowen Still Sees 27% Upside",
         "description": "",
-        "summary": "Aggressive AI spending is unlikely to be reined in by the execs doling out the checks.",
-        "pubDate": "2026-08-18T13:28:40Z",
-        "displayTime": "2026-08-18T13:28:40Z",
+        "summary": "Broadcom Inc. (NASDAQ:AVGO) stock is down roughly 20% from its all-time highs in June, a pullback driven by a mix of lofty AI expectations, a high valuation multiple, broader market pressures, the Mediatek-driven narrative, and more recently, Marvell Technology Inc. (NASDAQ:MRVL). Despite the drop, TD Cowen analyst Joshua Buchalter recently reiterated a Buy rating on […]",
+        "pubDate": "2026-08-19T21:49:54Z",
+        "displayTime": "2026-08-19T21:49:54Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/0t7osgnN1NnjzNb5eIcroQ--~B/aD01NDAyO3c9NzE5NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/0cd8ab42-4b96-4bfe-bb9b-4b6c03186083",
-          "originalWidth": 7195,
-          "originalHeight": 5402,
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/85dc518cfcd6ab9c337f2c7f5c8a8bcb.jpg",
+          "originalWidth": 1456,
+          "originalHeight": 816,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0t7osgnN1NnjzNb5eIcroQ--~B/aD01NDAyO3c9NzE5NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/0cd8ab42-4b96-4bfe-bb9b-4b6c03186083",
-              "width": 7195,
-              "height": 5402,
+              "url": "https://s.yimg.com/uu/api/res/1.2/QmuEBU3fq9IBfT1vp07Zpg--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/85dc518cfcd6ab9c337f2c7f5c8a8bcb.jpg",
+              "width": 1456,
+              "height": 816,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/oWv9b8JG0QldvymLyiXkew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/0cd8ab42-4b96-4bfe-bb9b-4b6c03186083",
+              "url": "https://s.yimg.com/uu/api/res/1.2/nsUI.DC7JG8XPWUINkDffg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/85dc518cfcd6ab9c337f2c7f5c8a8bcb.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1849,123 +1854,18 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-down-more-20-214954022.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6ecad0d8-5de2-499b-8b88-e03fbc779f36",
-      "content": {
-        "id": "6ecad0d8-5de2-499b-8b88-e03fbc779f36",
-        "contentType": "STORY",
-        "title": "Meta to face massive social media addiction trial Tuesday",
-        "description": "",
-        "summary": "A lawsuit filed by 29 attorneys general related to Meta's impact on teens will go to trial Tuesday.",
-        "pubDate": "2026-08-16T13:51:41Z",
-        "displayTime": "2026-08-18T05:21:29Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/QxwLbAnL3JbD.ysaHE02tQ--~B/aD0yMjIzO3c9MzI1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/587bf975-6756-4c97-9db8-5ec6325d8ad3",
-          "originalWidth": 3256,
-          "originalHeight": 2223,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QxwLbAnL3JbD.ysaHE02tQ--~B/aD0yMjIzO3c9MzI1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/587bf975-6756-4c97-9db8-5ec6325d8ad3",
-              "width": 3256,
-              "height": 2223,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BiIFGKdvYv9rYXJ3B1ziUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-03/587bf975-6756-4c97-9db8-5ec6325d8ad3",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/article/meta-to-face-massive-social-media-addiction-trial-tuesday-135141870.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/article/meta-to-face-massive-social-media-addiction-trial-tuesday-135141870.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "810d6a02-957f-3c26-9109-0bdd41623ccd",
-      "content": {
-        "id": "810d6a02-957f-3c26-9109-0bdd41623ccd",
-        "contentType": "STORY",
-        "title": "Big Investors Send Conflicting Signal on Meta Platforms Stock",
-        "description": "",
-        "summary": "AI spending is forcing investors to pick a side",
-        "pubDate": "2026-08-18T20:46:06Z",
-        "displayTime": "2026-08-18T20:46:06Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/big-investors-send-conflicting-signal-204606493.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/big-investors-send-conflicting-signal-204606493.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-down-more-20-214954022.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1983,94 +1883,32 @@
       }
     },
     {
-      "id": "f1729a26-bf72-31dd-941e-f5516a26f222",
+      "id": "46f8fa17-303a-343f-a3b9-950a7371d812",
       "content": {
-        "id": "f1729a26-bf72-31dd-941e-f5516a26f222",
+        "id": "46f8fa17-303a-343f-a3b9-950a7371d812",
         "contentType": "STORY",
-        "title": "Meta Faces Up To $1.4 Trillion For “Addictive” Products",
+        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
         "description": "",
-        "summary": "Twenty-nine states dragged Meta into Judge Yvonne Gonzalez Rogers’ Oakland courtroom, chasing damages that could reach $1.4 trillion.",
-        "pubDate": "2026-08-18T20:45:10Z",
-        "displayTime": "2026-08-18T20:45:10Z",
+        "summary": "Its largest peers all trailed the market over the same year, so the re-rating was about what Alphabet's own spending started to earn rather than about artificial intelligence in general.",
+        "pubDate": "2026-08-19T20:58:21Z",
+        "displayTime": "2026-08-19T20:58:21Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/moby_896/7e17c7c6815514956b66991317a4c39f.jpg",
-          "originalWidth": 928,
-          "originalHeight": 1152,
-          "caption": "Meta Faces Up To $1.4 Trillion For “Addictive” Products",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dnb8rYRTmb0NDGVJYfidFA--~B/aD0xMTUyO3c9OTI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moby_896/7e17c7c6815514956b66991317a4c39f.jpg",
-              "width": 928,
-              "height": 1152,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rYNCT.3heV1Zc4.cInaleQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/7e17c7c6815514956b66991317a4c39f.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Moby",
-          "url": "https://moby.co/",
-          "sourceId": "moby_896"
-        },
-        "canonicalUrl": {
-          "url": "https://app.moby.co/home/news/news-meta-faces-up-to-14-trillion-for-addictive-products?utm_source=yahoo_finance&utm_medium=rss",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-faces-1-4-trillion-204510546.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "3e7e2b4b-76f8-32a1-bc4b-99f8d8af4c48",
-      "content": {
-        "id": "3e7e2b4b-76f8-32a1-bc4b-99f8d8af4c48",
-        "contentType": "STORY",
-        "title": "When It Comes to Investing, Risk Is Loud. Opportunity Is Quiet.",
-        "description": "",
-        "summary": "Mark Zuckerberg, CEO of  Facebook  parent Meta, has said the best piece of advice former Meta board member Peter Thiel gave him was this: “In a world that’s changing so quickly, the biggest risk you can take, is not taking enough risk.”  In today’s world, it would be long-duration investing.",
-        "pubDate": "2026-08-18T20:37:00Z",
-        "displayTime": "2026-08-18T20:37:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/3e7e2b4b-76f8-32a1-bc4b-99f8d8af4c48/when-it-comes-to-investing-.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/00943d2e75b157093f58d018fc7c5f2f.jpg",
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/5a42bac006b4b44b0a6da7b76ba60c19.jpg",
           "originalWidth": 1280,
-          "originalHeight": 640,
+          "originalHeight": 851,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/O1.9.ZsYFuo5c8WPQ0gkLg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/00943d2e75b157093f58d018fc7c5f2f.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/tU_g7CbKOyZZDQ63kg8ITA--~B/aD04NTE7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/5a42bac006b4b44b0a6da7b76ba60c19.jpg",
               "width": 1280,
-              "height": 640,
+              "height": 851,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nusT6LqMI.laDeW0apfqYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/00943d2e75b157093f58d018fc7c5f2f.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/XNd.KxoFIIZ5HCxzfkGwvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/5a42bac006b4b44b0a6da7b76ba60c19.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2078,17 +1916,22 @@
           ]
         },
         "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/",
+          "sourceId": "trefis_142"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/advisor/articles/investing-risk-avoidance-stocks-bonds-09db98e4?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.trefis.com/articles/612013/alphabet-stock-surged-when-its-ai-spending-found-customers/2026-08-19",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-stock-surged-ai-spending-205821986.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
         "metadata": {
           "editorsPick": false
         },
@@ -2102,32 +1945,32 @@
       }
     },
     {
-      "id": "75e7acfa-5019-3120-8238-c95aa7205fa5",
+      "id": "45b48b25-e958-34bc-8c5e-effab8028260",
       "content": {
-        "id": "75e7acfa-5019-3120-8238-c95aa7205fa5",
+        "id": "45b48b25-e958-34bc-8c5e-effab8028260",
         "contentType": "STORY",
-        "title": "Update: Equities Fall For Third Day as Oil Stretches Gains Amid Middle East Anxiety",
+        "title": "Justin Wolfers Says AI Won't Kill Your Job — but It Will Change What It's Worth: 'Lab-Grown Diamonds Didn't Abolish Diamonds",
         "description": "",
-        "summary": "(Updates with market moves at the end of the day, and other changes, if any.) US stocks fell for",
-        "pubDate": "2026-08-18T20:26:10Z",
-        "displayTime": "2026-08-18T20:26:10Z",
+        "summary": "Economist Justin Wolfers said the artificial intelligence shock to labor markets may resemble what happened to diamonds once lab-grown alternatives hit the market, not eliminating jobs entirely but sharply reducing the worth of certain tasks. ‘Lab-Grown Diamonds Didn’t Abolish Diamonds’...",
+        "pubDate": "2026-08-19T20:31:16Z",
+        "displayTime": "2026-08-19T20:31:16Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/mt_newswires_premium_news_706/0c887a492733aab96ac405a5871f559a.jpg",
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/2196306220d9ca77e52c99740a9e80a6.jpg",
           "originalWidth": 1024,
-          "originalHeight": 768,
-          "caption": "Stocks_Chart market equity trading wall street - Shutterstock",
+          "originalHeight": 684,
+          "caption": "Justin Wolfers Says AI Won't Kill Your Job — but It Will Change What It's Worth: 'Lab-Grown Diamonds Didn't Abolish Diamonds",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lk4m_urow6F0cirU9hd_sg--~B/aD03Njg7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/mt_newswires_premium_news_706/0c887a492733aab96ac405a5871f559a.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/opBKV8GeRuieMSKrMTEaPA--~B/aD02ODQ7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/2196306220d9ca77e52c99740a9e80a6.jpg",
               "width": 1024,
-              "height": 768,
+              "height": 684,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fb0LtwKui2R9tggqdGl7Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/0c887a492733aab96ac405a5871f559a.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/lUtUM2tcXD_hvKN9kWaHSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/2196306220d9ca77e52c99740a9e80a6.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2135,18 +1978,18 @@
           ]
         },
         "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/articles/equities-fall-third-day-oil-202610757.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/justin-wolfers-says-ai-wont-203116576.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/articles/equities-fall-third-day-oil-202610757.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/justin-wolfers-says-ai-wont-203116576.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2156,7 +1999,7 @@
         },
         "finance": {
           "premiumFinance": {
-            "isPremiumNews": true,
+            "isPremiumNews": false,
             "isPremiumFreeNews": false
           }
         },
@@ -2164,32 +2007,32 @@
       }
     },
     {
-      "id": "0c1f16f3-f194-3c26-b4d5-05eeea6fc988",
+      "id": "642b6381-df48-3594-a5ee-3051d399c3b8",
       "content": {
-        "id": "0c1f16f3-f194-3c26-b4d5-05eeea6fc988",
+        "id": "642b6381-df48-3594-a5ee-3051d399c3b8",
         "contentType": "STORY",
-        "title": "Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms",
+        "title": "U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices",
         "description": "",
-        "summary": "Crusoe IPO looms after last funding round valued the AI data center developer at $10 billion. Reports suggest firm's valuation may triple.",
-        "pubDate": "2026-08-18T20:20:45Z",
-        "displayTime": "2026-08-18T20:20:45Z",
+        "summary": "Regulators took initial steps to allow investors to trade AI compute futures based on the prices of GPUs sold by the likes of Nvidia, TSMC and Broadcom.",
+        "pubDate": "2026-08-19T20:24:14Z",
+        "displayTime": "2026-08-19T20:24:14Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/0c1f16f3-f194-3c26-b4d5-05eeea6fc988/is-this-the-next-coreweave-or.html",
+        "previewUrl": "https://finance.yahoo.com/m/642b6381-df48-3594-a5ee-3051d399c3b8/u-s-markets-prepare-for-ai.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/819ecf1385c68630a974c3bfb29460a0.jpg",
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/73ce9b1ccceef19cbebc580d8be29c19.jpg",
           "originalWidth": 1000,
           "originalHeight": 511,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DHhsjrp.kPeB6y.LwvlzUg--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/819ecf1385c68630a974c3bfb29460a0.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/77uzr..MfDaIR6xNfgLEZA--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/73ce9b1ccceef19cbebc580d8be29c19.jpg",
               "width": 1000,
               "height": 511,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5Ql6pet8Y3_5TsIXx_uOJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/819ecf1385c68630a974c3bfb29460a0.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/IKhxmmpKkk_.PmzceNFTdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/73ce9b1ccceef19cbebc580d8be29c19.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2202,7 +2045,7 @@
           "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/news/is-this-the-next-coreweave-or-nebius-group-a-crusoe-ipo-looms/?src=A00220&yptr=yahoo",
+          "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2221,32 +2064,51 @@
       }
     },
     {
-      "id": "6ab535f2-4acf-3626-ba15-c67c2d22e0f7",
+      "id": "33848cc9-ee16-3a15-afad-89e5c59b10aa",
       "content": {
-        "id": "6ab535f2-4acf-3626-ba15-c67c2d22e0f7",
+        "id": "33848cc9-ee16-3a15-afad-89e5c59b10aa",
         "contentType": "STORY",
-        "title": "Meta Stock Sinks 3.8% as Legal and AI Costs Collide",
+        "title": "Mark Zuckerberg ‘cannot be trusted’ to protect kids online",
         "description": "",
-        "summary": "A social-media trial adds fresh pressure while Meta's spending already outruns its revenue growth.",
-        "pubDate": "2026-08-18T20:19:21Z",
-        "displayTime": "2026-08-18T20:19:21Z",
+        "summary": "Mark Zuckerberg sidelined child safety concerns at Meta and parents “cannot trust” the billionaire to protect their kids online, a former engineer has claimed.",
+        "pubDate": "2026-08-19T19:54:59Z",
+        "displayTime": "2026-08-19T19:54:59Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/the_telegraph_818/fa9e9d815146d37022bd252a18645763.jpg",
+          "originalWidth": 2500,
+          "originalHeight": 1563,
+          "caption": "Mark Zuckerberg",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LG2.YyaVKe0wGDEq7WF96w--~B/aD0xNTYzO3c9MjUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_telegraph_818/fa9e9d815146d37022bd252a18645763.jpg",
+              "width": 2500,
+              "height": 1563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.ibd5DPPlL7E03f8spROqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_818/fa9e9d815146d37022bd252a18645763.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
         "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
+          "displayName": "The Telegraph",
+          "url": "http://www.telegraph.co.uk/",
+          "sourceId": "the_telegraph_818"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-sinks-3-8-201921919.html",
+          "url": "https://uk.finance.yahoo.com/news/mark-zuckerberg-cannot-trusted-protect-195459610.html",
           "site": "finance",
-          "region": "US",
-          "lang": "en-US"
+          "region": "GB",
+          "lang": "en-GB"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-sinks-3-8-201921919.html",
+          "url": "https://finance.yahoo.com/news/mark-zuckerberg-cannot-trusted-protect-195459610.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2264,32 +2126,51 @@
       }
     },
     {
-      "id": "4a8e884e-0077-33c5-94a0-bbfa0df5041b",
+      "id": "694851d7-40d9-350b-aa7c-2b05a5d085f3",
       "content": {
-        "id": "4a8e884e-0077-33c5-94a0-bbfa0df5041b",
+        "id": "694851d7-40d9-350b-aa7c-2b05a5d085f3",
         "contentType": "STORY",
-        "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+        "title": "Apple stock stands out among Magnificent Seven on low AI spending",
         "description": "",
-        "summary": "Tech stocks were lower late Tuesday afternoon, with the State Street Technology Select Sector SPDR E",
-        "pubDate": "2026-08-18T19:35:26Z",
-        "displayTime": "2026-08-18T19:35:26Z",
+        "summary": "While rivals commit hundreds of billions to AI infrastructure, Apple's restrained capital approach has made its stock a hedge against volatility",
+        "pubDate": "2026-08-19T17:53:39Z",
+        "displayTime": "2026-08-19T17:53:39Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/quartz_855/3ba476047d8e6d02897fab6a1fbdea72.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "view from the bottom of a steel-and-glass Apple building with the company logo on the side. a tree and the light blue sky frame the image",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IPSQfecNds0gXlB7N8hIMg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/3ba476047d8e6d02897fab6a1fbdea72.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/kHtNNPhzbQRLj_TJQ_5HNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/3ba476047d8e6d02897fab6a1fbdea72.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
         "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
+          "displayName": "Quartz",
+          "url": "https://qz.com/",
+          "sourceId": "quartz_855"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html",
+          "url": "https://qz.com/apple-stock-magnificent-seven-ai-spending-market-edge-081926",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-stands-among-magnificent-175339099.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2299,7 +2180,93 @@
         },
         "finance": {
           "premiumFinance": {
-            "isPremiumNews": true,
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "499cef96-292f-3672-b125-f79cfde9c1df",
+      "content": {
+        "id": "499cef96-292f-3672-b125-f79cfde9c1df",
+        "contentType": "STORY",
+        "title": "Meta Stock Rebounds as Investors Revisit 28% Revenue Growth",
+        "description": "",
+        "summary": "The stock recovered nearly 1%, but surging expenses still threaten Meta's operating leverage.",
+        "pubDate": "2026-08-19T17:41:36Z",
+        "displayTime": "2026-08-19T17:41:36Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rebounds-investors-revisit-174136583.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rebounds-investors-revisit-174136583.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "dfbadeab-bd08-3d77-bd7d-a8b81bbb2f17",
+      "content": {
+        "id": "dfbadeab-bd08-3d77-bd7d-a8b81bbb2f17",
+        "contentType": "STORY",
+        "title": "Nvidia Stalls as Google's $12.2 Billion Custom-Chip Push Expands",
+        "description": "",
+        "summary": "The world's biggest company faces another reminder that hyperscalers want cheaper GPU alternatives.",
+        "pubDate": "2026-08-19T17:36:48Z",
+        "displayTime": "2026-08-19T17:36:48Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stalls-googles-12-2-173648919.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stalls-googles-12-2-173648919.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
             "isPremiumFreeNews": false
           }
         },
