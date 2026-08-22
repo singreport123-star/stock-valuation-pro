@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-21T22:15:55.304026",
+    "ts": "2026-08-22T22:13:57.403382",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -150,34 +150,34 @@
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 20.727478,
+    "trailingPE": 20.704067,
     "forwardPE": 15.845125,
     "volume": 13175977,
     "regularMarketVolume": 13175977,
-    "averageVolume": 18540474,
-    "averageVolume10days": 15060570,
-    "averageDailyVolume10Day": 15060570,
+    "averageVolume": 18572853,
+    "averageVolume10days": 15305150,
+    "averageDailyVolume10Day": 15305150,
     "bid": 535.0,
     "ask": 550.23,
     "bidSize": 6,
     "askSize": 1,
     "marketCap": 1400873680896,
-    "nonDilutedMarketCap": 1390505322791,
+    "nonDilutedMarketCap": 1400873673127,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 790.8,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 551.5,
+    "fulldayPrice": 552.9493,
     "priceToSalesTrailing12Months": 6.137534,
-    "fiftyDayAverage": 593.4128,
-    "twoHundredDayAverage": 624.56726,
+    "fiftyDayAverage": 592.9912,
+    "twoHundredDayAverage": 624.1282,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0038473515,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1412563337216,
+    "enterpriseValue": 1422931656704,
     "profitMargins": 0.29834998,
-    "floatShares": 2201758680,
+    "floatShares": 2201733205,
     "sharesOutstanding": 2205128509,
     "sharesShort": 31458758,
     "sharesShortPriorMonth": 34489980,
@@ -185,7 +185,7 @@
     "dateShortInterest": 1785456000,
     "sharesPercentSharesOut": 0.0123000005,
     "heldPercentInsiders": 0.00148,
-    "heldPercentInstitutions": 0.79107004,
+    "heldPercentInstitutions": 0.79103994,
     "shortRatio": 1.55,
     "shortPercentOfFloat": 0.0143,
     "impliedSharesOutstanding": 2547506225,
@@ -196,13 +196,13 @@
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.53,
+    "trailingEps": 26.56,
     "forwardEps": 34.70468,
     "pegRatio": 0.82,
-    "enterpriseToRevenue": 6.189,
-    "enterpriseToEbitda": 12.882,
-    "52WeekChange": -0.27684522,
-    "SandP52WeekChange": 0.18157828,
+    "enterpriseToRevenue": 6.234,
+    "enterpriseToEbitda": 12.976,
+    "52WeekChange": -0.27001196,
+    "SandP52WeekChange": 0.19179821,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
@@ -241,30 +241,21 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": 0.7456547,
-    "regularMarketPrice": 549.9,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.29095754,
-    "postMarketPrice": 551.5,
-    "postMarketChange": 1.5999756,
-    "regularMarketChange": 4.0700073,
+    "postMarketChangePercent": 0.5545109,
+    "postMarketPrice": 552.9493,
+    "postMarketChange": 3.0492554,
+    "regularMarketChange": 4.07001,
     "regularMarketDayRange": "543.23 - 553.8733",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18540474,
+    "averageDailyVolume3Month": 18572853,
     "fiftyTwoWeekLowChange": 29.640015,
     "fiftyTwoWeekLowChangePercent": 0.056971543,
     "fiftyTwoWeekRange": "520.26 - 790.8",
     "fiftyTwoWeekHighChange": -240.89996,
     "fiftyTwoWeekHighChangePercent": -0.3046282,
-    "fiftyTwoWeekChangePercent": -27.68452,
+    "fiftyTwoWeekChangePercent": -27.001196,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -272,29 +263,38 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.53,
+    "epsTrailingTwelveMonths": 26.56,
     "epsForward": 34.70468,
     "epsCurrentYear": 31.15875,
-    "marketState": "POST",
     "corporateActions": [],
-    "postMarketTime": 1787350546,
+    "postMarketTime": 1787356798,
     "regularMarketTime": 1787342401,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "regularMarketChangePercent": 0.745655,
+    "regularMarketPrice": 549.9,
+    "marketState": "CLOSED",
     "priceEpsCurrentYear": 17.648335,
-    "fiftyDayAverageChange": -43.512756,
-    "fiftyDayAverageChangePercent": -0.07332629,
-    "twoHundredDayAverageChange": -74.66724,
-    "twoHundredDayAverageChangePercent": -0.119550355,
+    "fiftyDayAverageChange": -43.091187,
+    "fiftyDayAverageChangePercent": -0.072667494,
+    "twoHundredDayAverageChange": -74.22815,
+    "twoHundredDayAverageChangePercent": -0.118930936,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-21",
+    "nameChangeDate": "2026-08-22",
     "averageAnalystRating": "1.4 - Strong Buy",
     "cryptoTradeable": false,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8148
+    "trailingPegRatio": 0.8209
   },
   "financial_statements": {
     "income": {
@@ -1697,32 +1697,32 @@
   },
   "news": [
     {
-      "id": "dbbac98b-1364-46ca-aad9-23ac1914e94e",
+      "id": "f50a0269-5141-3ca6-9cb7-dc158ed9b69e",
       "content": {
-        "id": "dbbac98b-1364-46ca-aad9-23ac1914e94e",
-        "contentType": "VIDEO",
-        "title": "Tim Cook built Apple’s $32M-an-hour growth machine: Can John Ternus keep it going?",
-        "description": "<p>Yahoo Finance Executive Editor Brian Sozzi and Tech Editor Dan Howley look back at Tim Cook’s tenure as Apple (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/AAPL/\" data-i13n=\"cpos:1;pos:1\">AAPL</a>) CEO, a period that saw the company generate roughly $32 million in growth per hour. They also look ahead to incoming CEO John Ternus and what it will take to keep Apple’s growth engine firing.</p>",
-        "summary": "Yahoo Finance Executive Editor Brian Sozzi and Tech Editor Dan Howley look back at Tim Cook’s tenure as Apple (AAPL) CEO, a period that saw the company generate roughly $32 million in growth per hour. They also look ahead to incoming CEO John Ternus and what it will take to keep Apple’s growth engine firing.",
-        "pubDate": "2026-08-21T15:53:00Z",
-        "displayTime": "",
+        "id": "f50a0269-5141-3ca6-9cb7-dc158ed9b69e",
+        "contentType": "STORY",
+        "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
+        "description": "",
+        "summary": "Apple and Meta have been laggards in the AI arms race.",
+        "pubDate": "2026-08-22T19:59:00Z",
+        "displayTime": "2026-08-22T19:59:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ycmSh4p0UN3cKoP3kf0QnQ--~B/aD01MjQxO3c9Nzg2MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/3b27835f-c45b-4f70-97a0-bb5031935122",
-          "originalWidth": 7861,
-          "originalHeight": 5241,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4393f3abec948e84e4eb26f2cf07d597.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Two investors comparing stocks.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ycmSh4p0UN3cKoP3kf0QnQ--~B/aD01MjQxO3c9Nzg2MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/3b27835f-c45b-4f70-97a0-bb5031935122",
-              "width": 7861,
-              "height": 5241,
+              "url": "https://s.yimg.com/uu/api/res/1.2/5DVuN47OhOir.8PhgHUjsQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4393f3abec948e84e4eb26f2cf07d597.jpg",
+              "width": 1400,
+              "height": 933,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XlmLOXbko4KDOvWvWcZA2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/3b27835f-c45b-4f70-97a0-bb5031935122",
+              "url": "https://s.yimg.com/uu/api/res/1.2/wsb_wAE5UCnzVqs5D_OS9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4393f3abec948e84e4eb26f2cf07d597.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1730,24 +1730,24 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/tim-cook-built-apple-32m-155300126.html",
+          "url": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/tim-cook-built-apple-32m-155300126.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-vs-meta-platforms-magnificent-195900118.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -1759,32 +1759,32 @@
       }
     },
     {
-      "id": "b55ced8e-733a-4440-a80d-adead8c248d9",
+      "id": "a13d97ec-fd25-3c1b-8cd8-fc0568f4c53d",
       "content": {
-        "id": "b55ced8e-733a-4440-a80d-adead8c248d9",
+        "id": "a13d97ec-fd25-3c1b-8cd8-fc0568f4c53d",
         "contentType": "STORY",
-        "title": "Tech stocks today: Nvidia earnings on the horizon, as Anthropic prepares IPO plans",
+        "title": "Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom’s Hidden Ledger",
         "description": "",
-        "summary": "Tech stock coverage for the week of Aug. 17.",
-        "pubDate": "2026-08-17T13:29:45Z",
-        "displayTime": "2026-08-21T13:10:10Z",
+        "summary": "Every major AI bull run has a number investors quietly agree to ignore, and the one hiding behind Microsoft, Alphabet, Meta, and their peers right now makes the reported balance sheets look like a rough draft.",
+        "pubDate": "2026-08-22T15:52:40Z",
+        "displayTime": "2026-08-22T15:52:40Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/d4v1olMpspjBMmF9sikC.g--~B/aD0zNjAwO3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/775e5a92-fa98-4ce7-b1da-33869d4681fe",
-          "originalWidth": 5500,
-          "originalHeight": 3600,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/78589badc56b7021feb21b00b771359d.jpg",
+          "originalWidth": 1500,
+          "originalHeight": 1001,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/d4v1olMpspjBMmF9sikC.g--~B/aD0zNjAwO3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/775e5a92-fa98-4ce7-b1da-33869d4681fe",
-              "width": 5500,
-              "height": 3600,
+              "url": "https://s.yimg.com/uu/api/res/1.2/vYZ.L1RqJSSdNuwGusxgEg--~B/aD0xMDAxO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/78589badc56b7021feb21b00b771359d.jpg",
+              "width": 1500,
+              "height": 1001,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mWPq9_Z0NoAF56J95otsuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/775e5a92-fa98-4ce7-b1da-33869d4681fe",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Z4h2VtQNGRm_32XpQFw9hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/78589badc56b7021feb21b00b771359d.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1792,24 +1792,267 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-nvidia-earnings-on-the-horizon-as-anthropic-prepares-ipo-plans-132945569.html",
+          "url": "https://247wallst.com/investing/2026/08/17/alphabet-meta-and-microsoft-are-hiding-3-trillion-in-debt-on-the-ai-booms-hidden-ledger/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-nvidia-earnings-on-the-horizon-as-anthropic-prepares-ipo-plans-132945569.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-meta-microsoft-hiding-3-135343885.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "56fbf84b-c7f8-3122-8fac-b4e3649397c0",
+      "content": {
+        "id": "56fbf84b-c7f8-3122-8fac-b4e3649397c0",
+        "contentType": "STORY",
+        "title": "The veteran Fortune 500 CEO who turned an 80-year-old AC company into an AI darling",
+        "description": "",
+        "summary": "First Dave Cote transformed Honeywell. Then out of retirement he placed a stunning bet on a little known company called Vertiv.",
+        "pubDate": "2026-08-22T08:00:00Z",
+        "displayTime": "2026-08-22T08:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/fortune_175/5d59acc7a791721b9e65387c4b093f1c.jpg",
+          "originalWidth": 2048,
+          "originalHeight": 1365,
+          "caption": "David Cote is riding the AI wave with a cooling company called Vertiv.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/pL6MLekAxaT_r0dnuBttZg--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/5d59acc7a791721b9e65387c4b093f1c.jpg",
+              "width": 2048,
+              "height": 1365,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZHHY2D.HVLcGRCYe07NGJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/5d59acc7a791721b9e65387c4b093f1c.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Fortune",
+          "url": "http://fortune.com/",
+          "sourceId": "fortune_175"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/veteran-fortune-500-ceo-turned-080000432.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/veteran-fortune-500-ceo-turned-080000432.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "15f4be10-794f-3af8-971b-4ab2a6b4fd18",
+      "content": {
+        "id": "15f4be10-794f-3af8-971b-4ab2a6b4fd18",
+        "contentType": "STORY",
+        "title": "The AI Spending Boom Is Outrunning Wall Street Estimates",
+        "description": "",
+        "summary": "Big Tech is shoveling billions of dollars into the AI buildout, leaving investors spooked and analysts behind. Can they catch up?",
+        "pubDate": "2026-08-22T05:00:00Z",
+        "displayTime": "2026-08-22T05:00:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/15f4be10-794f-3af8-971b-4ab2a6b4fd18/the-ai-spending-boom-is.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/0e0bbe5ce8b1adc499cf5db8f6b9bfee.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Y2GODydGvMaZpnA0W7GsSA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0e0bbe5ce8b1adc499cf5db8f6b9bfee.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/C.mjfr4hCbSbYJSwGyMlrQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0e0bbe5ce8b1adc499cf5db8f6b9bfee.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/ai-spending-capex-vertiv-western-digital-coreweave-arista-8c3cf5b3?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "3e6ee8a2-ce7c-3ee7-8f75-99bb624d52e2",
+      "content": {
+        "id": "3e6ee8a2-ce7c-3ee7-8f75-99bb624d52e2",
+        "contentType": "STORY",
+        "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
+        "description": "",
+        "summary": "David Tepper's hedge fund, Appaloosa Management, recently initiated a position in CoreWeave while also raising its exposure to Meta Platforms.",
+        "pubDate": "2026-08-21T22:39:00Z",
+        "displayTime": "2026-08-21T22:39:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/6e30f3033bb274906eebfb633b5a72ce.png",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "CoreWeave and Meta Platforms logos.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/V_jRj69i9L3rp8avNPqDuw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6e30f3033bb274906eebfb633b5a72ce.png",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IgmD6Dhr.cRJfNkSUVfJbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6e30f3033bb274906eebfb633b5a72ce.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/21/billionaire-david-tepper-piled-into-a-debt-laden-a/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-piled-debt-223900562.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4bbbca5e-6c1c-32ff-a245-7fd42e99ed0f",
+      "content": {
+        "id": "4bbbca5e-6c1c-32ff-a245-7fd42e99ed0f",
+        "contentType": "STORY",
+        "title": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
+        "description": "",
+        "summary": "Here’s what could be next for Nvidia stock.",
+        "pubDate": "2026-08-21T22:17:00Z",
+        "displayTime": "2026-08-21T22:17:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/67cd151230d5102c3bbea683f5f6e7ef.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2601,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CjkT5pwfwV9g2AWXIMqomg--~B/aD0yNjAxO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/67cd151230d5102c3bbea683f5f6e7ef.jpg",
+              "width": 3840,
+              "height": 2601,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XC90UlrXObjhsnxzl3L9qA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/67cd151230d5102c3bbea683f5f6e7ef.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-reiterates-nvidia-stock-forecast-ahead-of-q2-fy27-earnings",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-nvidia-stock-221700655.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -2024,197 +2267,6 @@
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "92a4f730-7f51-3c1c-b899-39b9403483f7",
-      "content": {
-        "id": "92a4f730-7f51-3c1c-b899-39b9403483f7",
-        "contentType": "STORY",
-        "title": "Meta's $800 Bull Case Comes Down to One AI Win",
-        "description": "",
-        "summary": "Bernstein says strong growth and early monetization keep the risk-reward attractive.",
-        "pubDate": "2026-08-21T20:04:27Z",
-        "displayTime": "2026-08-21T20:04:27Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/metas-800-bull-case-comes-200427359.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/metas-800-bull-case-comes-200427359.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c487d494-6626-30cd-84da-7d0cfd631e9b",
-      "content": {
-        "id": "c487d494-6626-30cd-84da-7d0cfd631e9b",
-        "contentType": "STORY",
-        "title": "Meta Rises as Investors Look Beyond $200 Billion Trial Risk",
-        "description": "",
-        "summary": "Friday's rebound suggests the market is separating an enormous legal threat from Meta's still-explosive advertising growth.",
-        "pubDate": "2026-08-21T20:00:03Z",
-        "displayTime": "2026-08-21T20:00:03Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-rises-investors-look-beyond-200003723.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-rises-investors-look-beyond-200003723.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "fae0aaeb-b200-3e9d-ad57-3ed8fea433b6",
-      "content": {
-        "id": "fae0aaeb-b200-3e9d-ad57-3ed8fea433b6",
-        "contentType": "STORY",
-        "title": "Meta Platforms (META) Pitches AI for Everyone While Apple (AAPL) Quietly Turns to China",
-        "description": "",
-        "summary": "Meta Platforms, Inc. (NASDAQ:META) CEO Mark Zuckerberg published a lengthy letter on August 10 making the case that artificial intelligence should be spread broadly rather than controlled by a handful of companies or governments. He also announced that Meta will start releasing open-source AI models again. Around the same time, the Wall Street Journal reported […]",
-        "pubDate": "2026-08-21T19:54:54Z",
-        "displayTime": "2026-08-21T19:54:54Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/61c363b6d566f2e9989d12b08155c301.jpg",
-          "originalWidth": 1456,
-          "originalHeight": 816,
-          "caption": "Meta Platforms, Inc. (META) Pitches AI for Everyone While Apple Inc. (AAPL) Quietly Turns to China ",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0OFewFQR8rPUVGnP_2_jVQ--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/61c363b6d566f2e9989d12b08155c301.jpg",
-              "width": 1456,
-              "height": 816,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2D3rDqXrs4xM9uaBX9mmYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/61c363b6d566f2e9989d12b08155c301.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-pitches-ai-195454070.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-pitches-ai-195454070.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d8b4b035-085d-3227-ab74-4a6f10d14ec5",
-      "content": {
-        "id": "d8b4b035-085d-3227-ab74-4a6f10d14ec5",
-        "contentType": "STORY",
-        "title": "Sector Update: Tech Stocks Rise Late Afternoon",
-        "description": "",
-        "summary": "Tech stocks were higher late Friday afternoon, with the State Street Technology Select Sector SPDR E",
-        "pubDate": "2026-08-21T19:42:45Z",
-        "displayTime": "2026-08-21T19:42:45Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194245037.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194245037.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
             "isPremiumFreeNews": false
           }
         },
