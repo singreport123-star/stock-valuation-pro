@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-23T22:13:38.667252",
+    "ts": "2026-08-24T22:17:50.001673",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,42 +137,44 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 545.83,
-    "open": 546.885,
-    "dayLow": 543.23,
-    "dayHigh": 553.8733,
-    "regularMarketPreviousClose": 545.83,
-    "regularMarketOpen": 546.885,
-    "regularMarketDayLow": 543.23,
-    "regularMarketDayHigh": 553.8733,
+    "previousClose": 549.9,
+    "open": 550.2,
+    "dayLow": 546.3,
+    "dayHigh": 561.42,
+    "regularMarketPreviousClose": 549.9,
+    "regularMarketOpen": 550.2,
+    "regularMarketDayLow": 546.3,
+    "regularMarketDayHigh": 561.42,
     "dividendRate": 2.1,
     "dividendYield": 0.38,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 20.704067,
-    "forwardPE": 15.845125,
-    "volume": 13848015,
-    "regularMarketVolume": 13848015,
+    "trailingPE": 21.047441,
+    "forwardPE": 16.107914,
+    "volume": 12868199,
+    "regularMarketVolume": 12868199,
     "averageVolume": 18572853,
     "averageVolume10days": 15305150,
     "averageDailyVolume10Day": 15305150,
-    "bid": 535.0,
-    "ask": 550.23,
-    "bidSize": 6,
-    "askSize": 1,
-    "marketCap": 1400873680896,
+    "bid": 559.86,
+    "ask": 560.18,
+    "bidSize": 1,
+    "askSize": 2,
+    "marketCap": 1424106979328,
     "nonDilutedMarketCap": 1400873673127,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 790.8,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 552.9493,
-    "priceToSalesTrailing12Months": 6.137534,
+    "fulldayPrice": 559.05,
+    "fulldayChange": 9.149963,
+    "fulldayChangePercent": 1.6639322,
+    "priceToSalesTrailing12Months": 6.239324,
     "fiftyDayAverage": 592.9912,
     "twoHundredDayAverage": 624.1282,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0038473515,
+    "trailingAnnualDividendYield": 0.0038188759,
     "currency": "USD",
     "tradeable": false,
     "enterpriseValue": 1422931656704,
@@ -190,7 +192,7 @@
     "shortPercentOfFloat": 0.0143,
     "impliedSharesOutstanding": 2547506225,
     "bookValue": 102.52,
-    "priceToBook": 5.363832,
+    "priceToBook": 5.4527903,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
@@ -206,7 +208,7 @@
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 549.9,
+    "currentPrice": 559.02,
     "targetHighPrice": 1000.0,
     "targetLowPrice": 580.0,
     "targetMeanPrice": 754.14246,
@@ -241,49 +243,12 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "epsForward": 34.70468,
-    "epsCurrentYear": 31.15875,
-    "priceEpsCurrentYear": 17.648335,
-    "fiftyDayAverageChange": -43.091187,
-    "fiftyDayAverageChangePercent": -0.072667494,
-    "twoHundredDayAverageChange": -74.22815,
-    "twoHundredDayAverageChangePercent": -0.118930936,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-23",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1787356798,
-    "regularMarketTime": 1787342401,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": 0.7456547,
-    "regularMarketPrice": 549.9,
-    "marketState": "CLOSED",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.5545109,
-    "postMarketPrice": 552.9493,
-    "postMarketChange": 3.0492554,
-    "regularMarketChange": 4.0700073,
-    "regularMarketDayRange": "543.23 - 553.8733",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18572853,
-    "fiftyTwoWeekLowChange": 29.640015,
-    "fiftyTwoWeekLowChangePercent": 0.056971543,
+    "fiftyTwoWeekLowChangePercent": 0.07450123,
     "fiftyTwoWeekRange": "520.26 - 790.8",
-    "fiftyTwoWeekHighChange": -240.89996,
-    "fiftyTwoWeekHighChangePercent": -0.3046282,
+    "fiftyTwoWeekHighChange": -231.77997,
+    "fiftyTwoWeekHighChangePercent": -0.29309556,
     "fiftyTwoWeekChangePercent": -27.001196,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
@@ -293,6 +258,43 @@
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
     "epsTrailingTwelveMonths": 26.56,
+    "epsForward": 34.70468,
+    "epsCurrentYear": 31.15875,
+    "priceEpsCurrentYear": 17.941029,
+    "fiftyDayAverageChange": -33.97119,
+    "fiftyDayAverageChangePercent": -0.05728785,
+    "twoHundredDayAverageChange": -65.108154,
+    "twoHundredDayAverageChangePercent": -0.10431857,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-08-24",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
+    "regularMarketChangePercent": 1.6584824,
+    "regularMarketPrice": 559.02,
+    "marketState": "POST",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": 0.0053608567,
+    "postMarketPrice": 559.05,
+    "postMarketChange": 0.029968262,
+    "regularMarketChange": 9.119995,
+    "regularMarketDayRange": "546.3 - 561.42",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 18572853,
+    "fiftyTwoWeekLowChange": 38.76001,
+    "corporateActions": [],
+    "postMarketTime": 1787609865,
+    "regularMarketTime": 1787601601,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8209
   },
@@ -1697,6 +1699,68 @@
   },
   "news": [
     {
+      "id": "339be08b-537a-4321-a332-3066073adf31",
+      "content": {
+        "id": "339be08b-537a-4321-a332-3066073adf31",
+        "contentType": "STORY",
+        "title": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
+        "description": "",
+        "summary": "This week's major tech news",
+        "pubDate": "2026-08-24T12:54:06Z",
+        "displayTime": "2026-08-24T16:01:10Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ki.mEL68Jn4oa3TnI5Z4Sg--~B/aD0zMzkxO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/b5a96516-7876-4c93-8b8e-5e1b83cccd16",
+          "originalWidth": 5000,
+          "originalHeight": 3391,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ki.mEL68Jn4oa3TnI5Z4Sg--~B/aD0zMzkxO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/b5a96516-7876-4c93-8b8e-5e1b83cccd16",
+              "width": 5000,
+              "height": 3391,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/czy7XfZcyaG7xbdkce7lGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/b5a96516-7876-4c93-8b8e-5e1b83cccd16",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance",
+          "url": "http://finance.yahoo.com/",
+          "sourceId": "yahoofinance.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": true
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
       "id": "ff0aae86-6289-4d4a-a7b9-68a659130b1d",
       "content": {
         "id": "ff0aae86-6289-4d4a-a7b9-68a659130b1d",
@@ -1705,7 +1769,7 @@
         "description": "",
         "summary": "Nvidia will report its Q2 earnings after the bell on Aug. 26.",
         "pubDate": "2026-08-23T11:25:02Z",
-        "displayTime": "2026-08-23T11:25:02Z",
+        "displayTime": "2026-08-24T09:03:43Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
@@ -1759,32 +1823,32 @@
       }
     },
     {
-      "id": "2f3ad4cd-7c53-39dd-8f60-fde768986d79",
+      "id": "5e2838cd-2072-3f00-a0d1-4d5069b29c98",
       "content": {
-        "id": "2f3ad4cd-7c53-39dd-8f60-fde768986d79",
+        "id": "5e2838cd-2072-3f00-a0d1-4d5069b29c98",
         "contentType": "STORY",
-        "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
+        "title": "Alibaba Dilutes Shares To Feed Its AI Spending Spree",
         "description": "",
-        "summary": "Microsoft (NasdaqGS:MSFT) faces new obligations in Australia as a law requiring large digital platforms to pay local publishers for news content comes into effect, affecting LinkedIn’s news distribution. Meta has become one of Microsoft’s largest AI customers, with a major spend on Azure AI infrastructure and services. Microsoft Advertising introduced an agentic commerce blueprint that uses AI tools to reshape how brands run digital shopping and ad campaigns. Consider exploring other stocks...",
-        "pubDate": "2026-08-23T17:07:38Z",
-        "displayTime": "2026-08-23T17:07:38Z",
+        "summary": "Investors weren’t happy, dumping the stock 10% Monday after Alibaba sold 710 million shares to fund more AI.",
+        "pubDate": "2026-08-24T21:30:26Z",
+        "displayTime": "2026-08-24T21:30:26Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925.jpg",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/moby_896/7fb71b5c6b7fb53e9ae9977adffb9502.jpg",
+          "originalWidth": 928,
+          "originalHeight": 1152,
+          "caption": "Alibaba Dilutes Shares To Feed Its AI Spending Spree",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_r3ZKc4SC7RNhf6IqZgDbA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925.jpg",
-              "width": 1194,
-              "height": 432,
+              "url": "https://s.yimg.com/uu/api/res/1.2/.wm5SVRaZIHfvmoJBlczAw--~B/aD0xMTUyO3c9OTI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moby_896/7fb71b5c6b7fb53e9ae9977adffb9502.jpg",
+              "width": 928,
+              "height": 1152,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GPWopoFekEfw2LKiJEwh1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Og5P_uQibsmfulpZ2ItxNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/7fb71b5c6b7fb53e9ae9977adffb9502.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1792,18 +1856,18 @@
           ]
         },
         "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
+          "displayName": "Moby",
+          "url": "https://moby.co/",
+          "sourceId": "moby_896"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-gets-australia-news-170738761.html",
+          "url": "https://app.moby.co/home/news/news-alibaba-dilutes-shares-to-feed-its-ai-spending-spree?utm_source=yahoo_finance&utm_medium=rss",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-gets-australia-news-170738761.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-dilutes-shares-feed-ai-213026936.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1821,404 +1885,32 @@
       }
     },
     {
-      "id": "5a241fc4-1169-3e4c-b6ef-b07d8dbf47ee",
+      "id": "5e3ee3e1-197a-31d4-8a07-b40d562e3d9f",
       "content": {
-        "id": "5a241fc4-1169-3e4c-b6ef-b07d8dbf47ee",
+        "id": "5e3ee3e1-197a-31d4-8a07-b40d562e3d9f",
         "contentType": "STORY",
-        "title": "The $1.7 Trillion Job Apocalypse: Why Investors Can’t Ignore Humanoid Robots",
+        "title": "Coinbase Enters the Tokenized Stock Wars",
         "description": "",
-        "summary": "AI has already gutted white-collar tech jobs by the hundreds of thousands, but the next wave targets something far bigger: the physical economy and the wages of workers who never touched a keyboard.",
-        "pubDate": "2026-08-23T16:17:42Z",
-        "displayTime": "2026-08-23T16:17:42Z",
+        "summary": "Coinbase Tokenized Stocks just went live on Base, running on the new B20 standard. Here's what to expect.",
+        "pubDate": "2026-08-24T20:25:42Z",
+        "displayTime": "2026-08-24T20:25:42Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/33f30ea6b95a29e993c1928cd4f72023.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 2560,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ah6UIlU4GZtALF.6pf5t5w--~B/aD0yNTYwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/33f30ea6b95a29e993c1928cd4f72023.jpg",
-              "width": 1920,
-              "height": 2560,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/pzspRSvL0ZrZEv7mVGCaZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/33f30ea6b95a29e993c1928cd4f72023.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/23/the-1-7-trillion-job-apocalypse-why-investors-cant-ignore-humanoid-robots/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/1-7-trillion-job-apocalypse-161742006.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ce589487-d302-343d-9dc7-ad4cc41a018c",
-      "content": {
-        "id": "ce589487-d302-343d-9dc7-ad4cc41a018c",
-        "contentType": "STORY",
-        "title": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
-        "description": "",
-        "summary": "President Trump's accounts executed more than 1,000 trades in a single month, including moves in a major defense contractor timed suspiciously close to a surprise geopolitical agreement, and Congress just passed a fix that deliberately leaves him out.",
-        "pubDate": "2026-08-23T13:44:53Z",
-        "displayTime": "2026-08-23T13:44:53Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/9e6163be1272923daa4fa40fbddc5201.jpg",
-          "originalWidth": 1376,
-          "originalHeight": 752,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uWGGCUtNXwI_hXscQqxFdg--~B/aD03NTI7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/9e6163be1272923daa4fa40fbddc5201.jpg",
-              "width": 1376,
-              "height": 752,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CxtsADp_qaGwEFwOlV565w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9e6163be1272923daa4fa40fbddc5201.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/23/trump-continues-trading-stocks-at-warp-speed-berkshire-bought-meta-sold/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-continues-trading-stocks-warp-134453676.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "bab32396-8d41-3e57-b97c-57664eb6e418",
-      "content": {
-        "id": "bab32396-8d41-3e57-b97c-57664eb6e418",
-        "contentType": "STORY",
-        "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond",
-        "description": "",
-        "summary": "The economic value from this technological revolution may accrue to the businesses that leverage AI to improve their existing operations.",
-        "pubDate": "2026-08-23T11:50:00Z",
-        "displayTime": "2026-08-23T11:50:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/d007d36a32b5d50d69f42bd2ce9f8acb.png",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "Meta logo on blue filter with office building in background.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/iQvkNAxxloMGU2cFRkVSuQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d007d36a32b5d50d69f42bd2ce9f8acb.png",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_guQxK_4HBP3hlgeAeaPoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d007d36a32b5d50d69f42bd2ce9f8acb.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/1-reason-why-meta-might-115000360.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "dc477381-6af1-3359-81ed-6aa09b1c78ae",
-      "content": {
-        "id": "dc477381-6af1-3359-81ed-6aa09b1c78ae",
-        "contentType": "STORY",
-        "title": "3 Tech Compounders Fit for Warren Buffett's Portfolio",
-        "description": "",
-        "summary": "Meta, Microsoft, and TSMC are all Buffett-style compounding stocks.",
-        "pubDate": "2026-08-23T08:35:00Z",
-        "displayTime": "2026-08-23T08:35:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/9791405a1b11b7df5461066c83fffbd6.png",
-          "originalWidth": 1400,
-          "originalHeight": 932,
-          "caption": "Warren Buffett.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9P00G4ew_WlLm8Frc33ZLQ--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9791405a1b11b7df5461066c83fffbd6.png",
-              "width": 1400,
-              "height": 932,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IMkDgP4U9C.wHhvlEq99JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9791405a1b11b7df5461066c83fffbd6.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/23/tech-compounders-fit-for-warren-buffett-portfolio/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-compounders-fit-warren-083500606.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a197a640-64c4-38ec-bdc3-2124a282247a",
-      "content": {
-        "id": "a197a640-64c4-38ec-bdc3-2124a282247a",
-        "contentType": "STORY",
-        "title": "American billionaires are showing off their farmland for elaborate hobbies, but a buying spree among the ultrarich risks pricing farmers out",
-        "description": "",
-        "summary": "Mark Zuckerberg and Alexis Ohanian have become amateur yeoman, but other one-percenters may be putting actual farmers at a disadvantage.",
-        "pubDate": "2026-08-23T08:30:00Z",
-        "displayTime": "2026-08-23T08:30:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/fortune_175/0f81ed7943120a8edb937c4eece9d279.jpg",
-          "originalWidth": 2048,
-          "originalHeight": 1365,
-          "caption": "The ultrawealthy's farmland buying spree risks pricing out American farmers.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/n0Ro6tuA02RtRnHD.on_fQ--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/0f81ed7943120a8edb937c4eece9d279.jpg",
-              "width": 2048,
-              "height": 1365,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0XwcJ0YQk6oW3BP_jLd5tw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/0f81ed7943120a8edb937c4eece9d279.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Fortune",
-          "url": "http://fortune.com/",
-          "sourceId": "fortune_175"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/real-estate/articles/american-billionaires-showing-off-farmland-083000938.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/real-estate/articles/american-billionaires-showing-off-farmland-083000938.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "4a4f7243-1a10-3a11-8019-1726360d1190",
-      "content": {
-        "id": "4a4f7243-1a10-3a11-8019-1726360d1190",
-        "contentType": "STORY",
-        "title": "Mark Zuckerberg Published a 6,500-Word AI Manifesto This Week Defending Meta's Unrestricted AI Buildout. Here's Why Investors Should Care.",
-        "description": "",
-        "summary": "Agentic AI is about to get a lot bigger, and Meta Platforms is leading the charge.",
-        "pubDate": "2026-08-23T04:20:00Z",
-        "displayTime": "2026-08-23T04:20:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c2c03a91de9bca401ba2a4aa4aec3443.jpg",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "Someone using social media on a laptop.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NRAcy6KipiYyfIxbPy8bLQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c2c03a91de9bca401ba2a4aa4aec3443.jpg",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YOE1yPUj3SySp5NUCvNrxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c2c03a91de9bca401ba2a4aa4aec3443.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/23/mark-zuckerberg-published-a-6500-word-ai-manifesto/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-published-6-500-042000088.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "65b9fe9d-d05c-361c-af10-8d62db17029e",
-      "content": {
-        "id": "65b9fe9d-d05c-361c-af10-8d62db17029e",
-        "contentType": "STORY",
-        "title": "Jim Cramer Was Left Impressed By Microsoft Corporation (NASDAQ:MSFT)’s Conference Call",
-        "description": "",
-        "summary": "Microsoft Corporation (NASDAQ:MSFT)’s shares have witnessed a major turnaround in 2026. They are up by 2% year-to-date, primarily on the back of 23.7% gain since late July. The shares closed a strong 15.5% higher on July 30th, the day after Microsoft Corporation (NASDAQ:MSFT) reported its fiscal fourth quarter earnings. The results saw the firm beat […]",
-        "pubDate": "2026-08-22T23:54:26Z",
-        "displayTime": "2026-08-22T23:54:26Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
-          "originalWidth": 1152,
+          "originalUrl": "https://media.zenfs.com/en/bankless_325/2efcca95f7d48ef606adc8a42890d218.png",
+          "originalWidth": 1536,
           "originalHeight": 768,
-          "caption": " ",
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Lk2r1ddJu1W1QRTJ.of0CQ--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
-              "width": 1152,
+              "url": "https://s.yimg.com/uu/api/res/1.2/jNtGSR8KgggkshfxcbG1sQ--~B/aD03Njg7dz0xNTM2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bankless_325/2efcca95f7d48ef606adc8a42890d218.png",
+              "width": 1536,
               "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/a59IfJfKKClO2i.iZfvCHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Iq9q4XN8uqaZP.ulvEYceA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bankless_325/2efcca95f7d48ef606adc8a42890d218.png",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2226,18 +1918,18 @@
           ]
         },
         "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
+          "displayName": "Bankless",
+          "url": "https://www.bankless.com/",
+          "sourceId": "bankless_325"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-left-impressed-microsoft-235426446.html",
+          "url": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-left-impressed-microsoft-235426446.html",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-enters-tokenized-stock-wars-202542191.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2255,32 +1947,161 @@
       }
     },
     {
-      "id": "f50a0269-5141-3ca6-9cb7-dc158ed9b69e",
+      "id": "8cbb8af1-168f-33c2-ac95-f97a0dcfdffd",
       "content": {
-        "id": "f50a0269-5141-3ca6-9cb7-dc158ed9b69e",
+        "id": "8cbb8af1-168f-33c2-ac95-f97a0dcfdffd",
         "contentType": "STORY",
-        "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
+        "title": "Meta Rises as Advertising Growth Beats AI Anxiety",
         "description": "",
-        "summary": "Apple and Meta have been laggards in the AI arms race.",
-        "pubDate": "2026-08-22T19:59:00Z",
-        "displayTime": "2026-08-22T19:59:00Z",
+        "summary": "Investors are rewarding Meta's inexpensive earnings multiple despite collapsing free cash flow and expanding legal risk.",
+        "pubDate": "2026-08-24T19:56:39Z",
+        "displayTime": "2026-08-24T19:56:39Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/media-advertising/articles/meta-rises-advertising-growth-beats-195639349.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/media-advertising/articles/meta-rises-advertising-growth-beats-195639349.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bef40d4f-c964-3e7f-b5c0-fe62c4f7aef1",
+      "content": {
+        "id": "bef40d4f-c964-3e7f-b5c0-fe62c4f7aef1",
+        "contentType": "STORY",
+        "title": "AMD Sinks 2.9% Before Nvidia's Critical Earnings Test",
+        "description": "",
+        "summary": "Investors are cutting accelerator exposure before the report that could reset the entire AI-chip trade.",
+        "pubDate": "2026-08-24T19:56:30Z",
+        "displayTime": "2026-08-24T19:56:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/amd-sinks-2-9-nvidias-195630849.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/amd-sinks-2-9-nvidias-195630849.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b5e99496-f5e5-37fe-9351-1b165645165a",
+      "content": {
+        "id": "b5e99496-f5e5-37fe-9351-1b165645165a",
+        "contentType": "STORY",
+        "title": "Meta and Google Face a New Social Media Threat",
+        "description": "",
+        "summary": "New Zealand weighs an under-16 ban.",
+        "pubDate": "2026-08-24T18:29:18Z",
+        "displayTime": "2026-08-24T18:29:18Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/meta-google-face-social-media-182918634.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/meta-google-face-social-media-182918634.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c73f8e21-69e8-3afe-a5c1-b9ad792305fa",
+      "content": {
+        "id": "c73f8e21-69e8-3afe-a5c1-b9ad792305fa",
+        "contentType": "STORY",
+        "title": "Meta Needs to Start Renting Out Its AI Capacity, Analyst Says. Here’s Why.",
+        "description": "",
+        "summary": "New Street Research urges Meta to establish a cloud business and reiterates a Buy rating and $700 price target on Meta stock.",
+        "pubDate": "2026-08-24T17:55:00Z",
+        "displayTime": "2026-08-24T17:55:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/c73f8e21-69e8-3afe-a5c1-b9ad792305fa/meta-needs-to-start-renting.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4393f3abec948e84e4eb26f2cf07d597.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Two investors comparing stocks.",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/8a58ece9aca7caecc145de6383427ed4.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5DVuN47OhOir.8PhgHUjsQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4393f3abec948e84e4eb26f2cf07d597.jpg",
-              "width": 1400,
-              "height": 933,
+              "url": "https://s.yimg.com/uu/api/res/1.2/aYfAGL9fQ3dEcSjNTJIoVw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8a58ece9aca7caecc145de6383427ed4.jpg",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wsb_wAE5UCnzVqs5D_OS9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4393f3abec948e84e4eb26f2cf07d597.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/4.lnZUO7LTTh37LCubJ.zg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/8a58ece9aca7caecc145de6383427ed4.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2288,18 +2109,137 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/",
+          "url": "https://www.barrons.com/articles/meta-stock-ai-cloud-mark-zuckerberg-07da2e49?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "87428abb-0032-33d1-bb2c-eaea35cc3d55",
+      "content": {
+        "id": "87428abb-0032-33d1-bb2c-eaea35cc3d55",
+        "contentType": "STORY",
+        "title": "Snap Rises 4%, Meta Platforms and Alphabet Tick Up, Reddit Slips as the Social Media Trade Splits",
+        "description": "",
+        "summary": "Something unusual is happening inside the social media trade today, and the stocks moving hardest are the ones that have fallen the most. Understanding why the laggards caught the bid while the sector fund slipped into the red reveals a tension that cuts against how investors have been positioned all year.",
+        "pubDate": "2026-08-24T17:38:30Z",
+        "displayTime": "2026-08-24T17:38:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/4bbd54bf0cbbfad13681f668dfdda52c.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mDqv_PXxyPZqGkfS40r7nQ--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/4bbd54bf0cbbfad13681f668dfdda52c.jpg",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QllJ36R2P2YheNCxFG.rWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4bbd54bf0cbbfad13681f668dfdda52c.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/24/snap-rises-4-meta-platforms-and-alphabet-tick-up-reddit-slips-as-the-social-media-trade-splits/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/apple-vs-meta-platforms-magnificent-195900118.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/snap-rises-4-meta-platforms-173830413.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b0fce28b-6fa6-38e6-ad80-0a66f22cb074",
+      "content": {
+        "id": "b0fce28b-6fa6-38e6-ad80-0a66f22cb074",
+        "contentType": "STORY",
+        "title": "Forget CoreWeave — This Is the AI Stock You Should Instead Be Buying",
+        "description": "",
+        "summary": "CoreWeave is getting all the attention in the neocloud race, but a quieter rival just posted 454% revenue growth, locked in hyperscaler partnerships worth tens of billions, and did it without the crushing debt load that shadows the more famous name.",
+        "pubDate": "2026-08-24T17:31:26Z",
+        "displayTime": "2026-08-24T17:31:26Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/6753bcb6e01a0fe725e893ae8ba1ee49.jpg",
+          "originalWidth": 1428,
+          "originalHeight": 802,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/slOERLYa9z0.Uga2VIroKg--~B/aD04MDI7dz0xNDI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/6753bcb6e01a0fe725e893ae8ba1ee49.jpg",
+              "width": 1428,
+              "height": 802,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6qAFzJm.XnmDGmiD25vNog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6753bcb6e01a0fe725e893ae8ba1ee49.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/24/forget-coreweave-this-is-the-ai-stock-you-should-instead-be-buying/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-coreweave-ai-stock-instead-173126852.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
