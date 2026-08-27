@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-08-25T22:18:18.431654"
+    "ts": "2026-08-27T02:29:07.118493"
   },
   "financials": {
     "annual": {
@@ -25077,12 +25077,381 @@
         "buy": 862000,
         "name": "Investment_Trust",
         "sell": 203570
+      },
+      {
+        "date": "2026-08-26",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-08-26",
+        "stock_id": "2330",
+        "buy": 185670,
+        "name": "Dealer_self",
+        "sell": 51600
+      },
+      {
+        "date": "2026-08-26",
+        "stock_id": "2330",
+        "buy": 324346,
+        "name": "Dealer_Hedging",
+        "sell": 231918
+      },
+      {
+        "date": "2026-08-26",
+        "stock_id": "2330",
+        "buy": 14401413,
+        "name": "Foreign_Investor",
+        "sell": 9197081
+      },
+      {
+        "date": "2026-08-26",
+        "stock_id": "2330",
+        "buy": 195880,
+        "name": "Investment_Trust",
+        "sell": 716589
       }
     ],
     "margin_trading": [],
     "cb_transaction": []
   },
   "news": [
+    {
+      "id": "f8dc4d35-0019-3d94-951c-89a06fc34301",
+      "content": {
+        "id": "f8dc4d35-0019-3d94-951c-89a06fc34301",
+        "contentType": "STORY",
+        "title": "Sony Group (SONY) and Taiwan Semiconductor (TSM) Are Betting $4.7 Billion on the “Eyes” of AI Machines",
+        "description": "",
+        "summary": "On August 11, 2026, Sony Group Corporation (NYSE:SONY) and Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) agreed to form a $4.7 billion joint venture to develop and manufacture next-generation image sensors for smartphones. Mass production is expected to begin in 2029. Why This Matters Sony is trying to limit its own capital spending on next-generation chip […]",
+        "pubDate": "2026-08-26T19:08:19Z",
+        "displayTime": "2026-08-26T19:08:19Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/eb5869512d9c151c897cab279e916456.jpg",
+          "originalWidth": 1456,
+          "originalHeight": 816,
+          "caption": "Sony Group Corporation (SONY) and Taiwan Semiconductor Manufacturing Company Limited (TSM) Are Betting $4.7 Billion on the \"Eyes\" of AI Machines",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9B4kxjuvFAVQ2nEszgvmVQ--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/eb5869512d9c151c897cab279e916456.jpg",
+              "width": 1456,
+              "height": 816,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.cWQpZysNdI272gRnLJlJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/eb5869512d9c151c897cab279e916456.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/sony-group-sony-taiwan-semiconductor-190819185.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/sony-group-sony-taiwan-semiconductor-190819185.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "cf7935b1-09c1-30da-9941-0e3b29231937",
+      "content": {
+        "id": "cf7935b1-09c1-30da-9941-0e3b29231937",
+        "contentType": "STORY",
+        "title": "TSMC's July Surge Raises the Bar for Nvidia's Foundry",
+        "description": "",
+        "summary": "Another 44.7% revenue jump leaves little room for tonight's largest AI customer to deliver ordinary guidance.",
+        "pubDate": "2026-08-26T19:03:25Z",
+        "displayTime": "2026-08-26T19:03:25Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b5c928e0-8ea4-351e-a0bd-6f67d344028b",
+      "content": {
+        "id": "b5c928e0-8ea4-351e-a0bd-6f67d344028b",
+        "contentType": "STORY",
+        "title": "Intel Just Found an Opening in the AI Chip Race",
+        "description": "",
+        "summary": "New processors and TSMC packaging issues could reshape the opportunity.",
+        "pubDate": "2026-08-26T14:42:50Z",
+        "displayTime": "2026-08-26T14:42:50Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-may-found-opening-ai-144250683.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-may-found-opening-ai-144250683.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "414597ba-d033-3d83-a2ca-2e400d7559bb",
+      "content": {
+        "id": "414597ba-d033-3d83-a2ca-2e400d7559bb",
+        "contentType": "STORY",
+        "title": "Price Prediction: TSM Will Trade at This Price in 2027",
+        "description": "",
+        "summary": "Taiwan Semiconductor powers every major AI chip on the planet, yet its stock trades at a fraction of the valuations enjoyed by its own customers. Whether that discount closes or widens in 2027 depends on three things going right simultaneously.",
+        "pubDate": "2026-08-26T14:30:12Z",
+        "displayTime": "2026-08-26T14:30:12Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/a17778b38a7f3cf9628286ff707bef4f.jpg",
+          "originalWidth": 1500,
+          "originalHeight": 1001,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5pellAbY8oVHPf1mEhRIMw--~B/aD0xMDAxO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/a17778b38a7f3cf9628286ff707bef4f.jpg",
+              "width": 1500,
+              "height": 1001,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ge0yXE39n4Bkg4GAlegKqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a17778b38a7f3cf9628286ff707bef4f.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/26/price-prediction-tsm-will-trade-at-this-price-in-2027/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tsm-trade-price-143012027.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f8033a06-9cc9-3800-9856-22361a9d0b27",
+      "content": {
+        "id": "f8033a06-9cc9-3800-9856-22361a9d0b27",
+        "contentType": "STORY",
+        "title": "Billionaire David Tepper Sold Every Single Share of UnitedHealth in Q2. Here's Whether He Made a Costly Mistake.",
+        "description": "",
+        "summary": "UnitedHealth still looks like a compelling long-term investment.",
+        "pubDate": "2026-08-26T10:50:00Z",
+        "displayTime": "2026-08-26T10:50:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/52560b6d938fa7465ea28c959a7e871e.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 895,
+          "caption": "A nurse walks with an individual and child. ",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ta_pj3ksN0VIn5S_H5Yvyg--~B/aD04OTU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/52560b6d938fa7465ea28c959a7e871e.jpg",
+              "width": 1400,
+              "height": 895,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EZ7v_AokqLxv0ThoVQJ1.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/52560b6d938fa7465ea28c959a7e871e.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/26/billionaire-david-tepper-sold-every-single-share-o/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/healthcare/articles/billionaire-david-tepper-sold-every-105000847.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e939675c-8920-33ed-a6b8-5c7cdef334f5",
+      "content": {
+        "id": "e939675c-8920-33ed-a6b8-5c7cdef334f5",
+        "contentType": "STORY",
+        "title": "He Followed TSMC From Taiwan to Phoenix at 60. Social Security Said His 30-Year Career Had Just Begun.",
+        "description": "",
+        "summary": "A semiconductor engineer with 30 years on the fab floor relocates to Phoenix at 60, confident his long career will follow him into retirement. What the U.S. Social Security system sees when it looks at those decades abroad may change everything he planned for.",
+        "pubDate": "2026-08-26T09:03:59Z",
+        "displayTime": "2026-08-26T09:03:59Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/221b775789a9330df46bf8b928a896c7.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1707,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Z4scX_qN7SVB36Jtr3APwg--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/221b775789a9330df46bf8b928a896c7.jpg",
+              "width": 2560,
+              "height": 1707,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/A7q91CbqxqUja0f98Grl5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/221b775789a9330df46bf8b928a896c7.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/personal-finance/social-security/2026/08/26/he-followed-tsmc-from-taiwan-to-phoenix-at-60-social-security-said-his-30-year-career-had-just-begun/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/followed-tsmc-taiwan-phoenix-60-090359965.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
     {
       "id": "3052d107-56d2-3871-8d69-e579dd853c30",
       "content": {
@@ -25292,378 +25661,6 @@
         },
         "storyline": null
       }
-    },
-    {
-      "id": "98147ca3-4fd0-3bae-9a82-8694732d44af",
-      "content": {
-        "id": "98147ca3-4fd0-3bae-9a82-8694732d44af",
-        "contentType": "STORY",
-        "title": "Top Investors Name 5 AI Stocks That Could Win No Matter Which Model Leads",
-        "description": "",
-        "summary": "When a new industry erupts, the early leaders rarely become the final winners, and top investors say the same pattern is playing out across AI right now. Their framework for navigating that uncertainty targets a very different set of companies than most portfolios hold.",
-        "pubDate": "2026-08-25T14:26:31Z",
-        "displayTime": "2026-08-25T14:26:31Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f90dd55454c9cc4c0bf66e2622b6d256",
-          "originalWidth": 1376,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AMUQxVTkMPobMWweC8NTZg--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/f90dd55454c9cc4c0bf66e2622b6d256",
-              "width": 1376,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9eEcxTIFl5dCVQoegIjR1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f90dd55454c9cc4c0bf66e2622b6d256",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/25/top-investors-name-5-ai-stocks-that-could-win-no-matter-which-model-leads/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/top-investors-name-5-ai-142631263.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "47d01953-ba31-3178-8935-d7f770e4807d",
-      "content": {
-        "id": "47d01953-ba31-3178-8935-d7f770e4807d",
-        "contentType": "STORY",
-        "title": "Bet on These 5 Dividend Growth Stocks Ahead of NVIDIA's Q2 Earnings Report",
-        "description": "",
-        "summary": "Dividend-growth stocks may offer stability as investors rotate from high-valuation tech, with five names standing out on growth, cash flow and payouts.",
-        "pubDate": "2026-08-25T14:18:00Z",
-        "displayTime": "2026-08-25T14:18:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/fdfe32922c97375611ef6256c04a840b.jpg",
-          "originalWidth": 900,
-          "originalHeight": 601,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_E7c6duNOjvp0jDAlVPv.Q--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/fdfe32922c97375611ef6256c04a840b.jpg",
-              "width": 900,
-              "height": 601,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HKa0GRF3zl_XxxKANKVUwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/fdfe32922c97375611ef6256c04a840b.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bet-5-dividend-growth-stocks-141800461.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bet-5-dividend-growth-stocks-141800461.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a8bd8037-9a54-3b8d-ae2d-a67dff304287",
-      "content": {
-        "id": "a8bd8037-9a54-3b8d-ae2d-a67dff304287",
-        "contentType": "STORY",
-        "title": "CRM's Q2 Earnings Coming Up: Rising Agentforce Adoption to Aid Sales",
-        "description": "",
-        "summary": "CRM's rising Agentforce adoption and expanding AI ecosystem are expected to have supported subscription growth in Q2 fiscal 2027.",
-        "pubDate": "2026-08-25T14:15:00Z",
-        "displayTime": "2026-08-25T14:15:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/a93223749b9366fe082c80e40b692962.jpg",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vjyG9zXCxx8fiAiBZkBa8w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a93223749b9366fe082c80e40b692962.jpg",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/j5_iPHL_6A_rMNirtJoawA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a93223749b9366fe082c80e40b692962.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/crms-q2-earnings-coming-rising-141500807.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/crms-q2-earnings-coming-rising-141500807.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "fbce6457-4d6d-3615-a6ed-8233ca488293",
-      "content": {
-        "id": "fbce6457-4d6d-3615-a6ed-8233ca488293",
-        "contentType": "STORY",
-        "title": "OpenAI’s Sam Altman Admits the AI Boom Is Running Late: “We’ve Not Had the iPhone Moment”",
-        "description": "",
-        "summary": "Sam Altman says AI adoption is stuck in a palm pilot era while Jensen Huang calls demand parabolic, and both executives might be telling the truth at the same time. Understanding why that tension exists has real consequences for where the money actually flows.",
-        "pubDate": "2026-08-25T14:05:03Z",
-        "displayTime": "2026-08-25T14:05:03Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/2bcb19e7381f52a64b1497e422b6d0e0.jpg",
-          "originalWidth": 2560,
-          "originalHeight": 1707,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QbYcguhXtlIWxCJ3hS4FcA--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/2bcb19e7381f52a64b1497e422b6d0e0.jpg",
-              "width": 2560,
-              "height": 1707,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wrinzP02KLwj88ttBFYbHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2bcb19e7381f52a64b1497e422b6d0e0.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/25/openais-sam-altman-admits-the-ai-boom-is-running-late-weve-not-had-the-iphone-moment/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/openai-sam-altman-admits-ai-140503675.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "39c0c1e2-fdde-39c3-a800-66f93b1ee369",
-      "content": {
-        "id": "39c0c1e2-fdde-39c3-a800-66f93b1ee369",
-        "contentType": "STORY",
-        "title": "How Much Upside is Left in TSMC (TSM)? Wall Street Analysts Think 25.01%",
-        "description": "",
-        "summary": "The mean of analysts' price targets for TSMC (TSM) points to a 25% upside in the stock. While this highly sought-after metric has not proven reasonably effective, strong agreement among analysts in raising earnings estimates does indicate an upside in the stock.",
-        "pubDate": "2026-08-25T13:55:02Z",
-        "displayTime": "2026-08-25T13:55:02Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/7853de8d69faeccb7d1ad6ebba40b8a2.jpg",
-          "originalWidth": 900,
-          "originalHeight": 741,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/G.Op7E_jldj.32ijwZluBQ--~B/aD03NDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7853de8d69faeccb7d1ad6ebba40b8a2.jpg",
-              "width": 900,
-              "height": 741,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dG9YVPftDimqqiqiyvMdwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7853de8d69faeccb7d1ad6ebba40b8a2.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-tsmc-tsm-135502465.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-tsmc-tsm-135502465.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "75897b46-0bc0-316e-bd90-9614b3a19192",
-      "content": {
-        "id": "75897b46-0bc0-316e-bd90-9614b3a19192",
-        "contentType": "STORY",
-        "title": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia’s Historic Quarter",
-        "description": "",
-        "summary": "Nvidia's upcoming earnings report is likely to give TSMC stock a nice shot in the arm.",
-        "pubDate": "2026-08-25T07:43:01Z",
-        "displayTime": "2026-08-25T07:43:01Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/0191e2e14ad1d4539e1a7271f211f939.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 840,
-          "caption": "TSMC headquarters at dusk with glowing red logo reflected in a calm water pond",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/N7rY94GWTx9xmOz4d.cINg--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0191e2e14ad1d4539e1a7271f211f939.jpg",
-              "width": 1400,
-              "height": 840,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jlJtgd_xBUbT7PHo1Z0fxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0191e2e14ad1d4539e1a7271f211f939.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/25/prediction-tsmc-stock-will-soar-after-aug-26-thanks-to-nvidia-s-historic-quarter/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-soar-aug-074301218.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
     }
   ],
   "info": {
@@ -25778,46 +25775,46 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2375.0,
-    "open": 2355.0,
-    "dayLow": 2350.0,
-    "dayHigh": 2400.0,
-    "regularMarketPreviousClose": 2375.0,
-    "regularMarketOpen": 2355.0,
-    "regularMarketDayLow": 2350.0,
-    "regularMarketDayHigh": 2400.0,
+    "previousClose": 2415.0,
+    "open": 2430.0,
+    "dayLow": 2420.0,
+    "dayHigh": 2435.0,
+    "regularMarketPreviousClose": 2415.0,
+    "regularMarketOpen": 2430.0,
+    "regularMarketDayLow": 2420.0,
+    "regularMarketDayHigh": 2435.0,
     "dividendRate": 28.0,
-    "dividendYield": 1.18,
+    "dividendYield": 1.16,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2573,
     "fiveYearAvgDividendYield": 1.69,
     "beta": 1.258,
-    "trailingPE": 28.070175,
-    "forwardPE": 16.886057,
-    "volume": 13467025,
-    "regularMarketVolume": 13467025,
-    "averageVolume": 30966290,
-    "averageVolume10days": 16526757,
-    "averageDailyVolume10Day": 16526757,
-    "bid": 0.0,
-    "ask": 0.0,
+    "trailingPE": 28.424377,
+    "forwardPE": 17.097134,
+    "volume": 6788884,
+    "regularMarketVolume": 6788884,
+    "averageVolume": 30611722,
+    "averageVolume10days": 16215615,
+    "averageDailyVolume10Day": 16215615,
+    "bid": 2425.0,
+    "ask": 2430.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 62237687414784,
-    "nonDilutedMarketCap": 61589378909125,
+    "marketCap": 63015659503616,
+    "nonDilutedMarketCap": 62626673711805,
     "fiftyTwoWeekLow": 1145.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2400.0,
-    "priceToSalesTrailing12Months": 14.015943,
-    "fiftyDayAverage": 2392.5,
-    "twoHundredDayAverage": 1989.475,
+    "fulldayPrice": 2430.0,
+    "priceToSalesTrailing12Months": 14.191142,
+    "fiftyDayAverage": 2393.3,
+    "twoHundredDayAverage": 1998.85,
     "trailingAnnualDividendRate": 26.0,
-    "trailingAnnualDividendYield": 0.010947368,
+    "trailingAnnualDividendYield": 0.010766045,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 59830190473216,
+    "enterpriseValue": 60219174420480,
     "profitMargins": 0.49923,
     "floatShares": 23651618059,
     "sharesOutstanding": 25932370067,
@@ -25825,25 +25822,25 @@
     "heldPercentInstitutions": 0.43308,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.05,
-    "priceToBook": 9.675468,
+    "priceToBook": 9.7964115,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808415232,
-    "trailingEps": 85.5,
+    "trailingEps": 85.49,
     "forwardEps": 142.12909,
     "pegRatio": 0.9,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.474,
-    "enterpriseToEbitda": 18.889,
-    "52WeekChange": 1.0212767,
-    "SandP52WeekChange": 0.1835649,
+    "enterpriseToRevenue": 13.561,
+    "enterpriseToEbitda": 19.012,
+    "52WeekChange": 1.0294118,
+    "SandP52WeekChange": 0.18426573,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1796860800,
     "quoteType": "EQUITY",
-    "currentPrice": 2400.0,
+    "currentPrice": 2430.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2650.0,
     "targetMeanPrice": 3229.3333,
@@ -25878,7 +25875,6 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "esgPopulated": false,
     "corporateActions": [
       {
         "header": "Dividend",
@@ -25890,48 +25886,49 @@
         }
       }
     ],
-    "regularMarketTime": 1787635811,
+    "regularMarketTime": 1787796536,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
     "exchangeTimezoneShortName": "CST",
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
-    "marketState": "PREPRE",
-    "regularMarketChangePercent": 1.0526316,
-    "regularMarketPrice": 2400.0,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": 25.0,
-    "regularMarketDayRange": "2350.0 - 2400.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 30966290,
-    "fiftyTwoWeekLowChange": 1255.0,
-    "fiftyTwoWeekLowChangePercent": 1.0960698,
-    "fiftyTwoWeekRange": "1145.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -135.0,
-    "fiftyTwoWeekHighChangePercent": -0.053254437,
-    "fiftyTwoWeekChangePercent": 102.12767,
-    "earningsTimestamp": 1784179800,
+    "esgPopulated": false,
+    "regularMarketChangePercent": 0.621118,
+    "regularMarketPrice": 2430.0,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "earningsTimestampStart": 1792042200,
     "earningsTimestampEnd": 1792042200,
     "earningsCallTimestampStart": 1784181600,
     "earningsCallTimestampEnd": 1784181600,
-    "isEarningsDateEstimate": false,
-    "epsTrailingTwelveMonths": 85.5,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 85.49,
     "epsForward": 142.12909,
     "epsCurrentYear": 107.6434,
-    "priceEpsCurrentYear": 22.29584,
-    "fiftyDayAverageChange": 7.5,
-    "fiftyDayAverageChangePercent": 0.0031347962,
-    "twoHundredDayAverageChange": 410.52502,
-    "twoHundredDayAverageChangePercent": 0.20634842,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "priceEpsCurrentYear": 22.574537,
+    "fiftyDayAverageChange": 36.69995,
+    "fiftyDayAverageChangePercent": 0.015334454,
+    "twoHundredDayAverageChange": 431.15002,
+    "twoHundredDayAverageChangePercent": 0.21569905,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
-    "trailingPegRatio": 0.8899
+    "marketState": "REGULAR",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": 15.0,
+    "regularMarketDayRange": "2420.0 - 2435.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 30611722,
+    "fiftyTwoWeekLowChange": 1285.0,
+    "fiftyTwoWeekLowChangePercent": 1.1222707,
+    "fiftyTwoWeekRange": "1145.0 - 2535.0",
+    "fiftyTwoWeekHighChange": -105.0,
+    "fiftyTwoWeekHighChangePercent": -0.041420117,
+    "fiftyTwoWeekChangePercent": 102.94118,
+    "earningsTimestamp": 1784179800,
+    "trailingPegRatio": 0.9055
   }
 }
