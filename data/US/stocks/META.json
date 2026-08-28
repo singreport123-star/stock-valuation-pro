@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-27T02:29:12.408155",
+    "ts": "2026-08-28T05:53:48.620886",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,47 +137,47 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 570.05,
-    "open": 590.4375,
-    "dayLow": 561.945,
-    "dayHigh": 593.27,
-    "regularMarketPreviousClose": 570.05,
-    "regularMarketOpen": 590.4375,
-    "regularMarketDayLow": 561.945,
-    "regularMarketDayHigh": 593.27,
+    "previousClose": 576.14,
+    "open": 576.48,
+    "dayLow": 567.62,
+    "dayHigh": 588.39,
+    "regularMarketPreviousClose": 576.14,
+    "regularMarketOpen": 576.48,
+    "regularMarketDayLow": 567.62,
+    "regularMarketDayHigh": 588.39,
     "dividendRate": 2.1,
-    "dividendYield": 0.37,
+    "dividendYield": 0.36,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 21.457727,
-    "forwardPE": 16.539118,
-    "volume": 31187505,
-    "regularMarketVolume": 31187505,
-    "averageVolume": 18649240,
-    "averageVolume10days": 16301910,
-    "averageDailyVolume10Day": 16301910,
+    "trailingPE": 21.690086,
+    "forwardPE": 16.394434,
+    "volume": 15160180,
+    "regularMarketVolume": 15160180,
+    "averageVolume": 18554260,
+    "averageVolume10days": 16713790,
+    "averageDailyVolume10Day": 16713790,
     "bid": 555.0,
     "ask": 578.88,
     "bidSize": 1,
     "askSize": 1,
-    "marketCap": 1467720269824,
-    "nonDilutedMarketCap": 1452205923560,
+    "marketCap": 1454880718848,
+    "nonDilutedMarketCap": 1454880805096,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 790.8,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 579.11,
-    "fulldayChange": 6.09003,
-    "fulldayChangePercent": 1.06833,
-    "priceToSalesTrailing12Months": 6.4304037,
-    "fiftyDayAverage": 592.5176,
-    "twoHundredDayAverage": 623.2432,
+    "fulldayPrice": 571.1123,
+    "fulldayChange": 0.64001465,
+    "fulldayChangePercent": 0.11206701,
+    "priceToSalesTrailing12Months": 6.3741508,
+    "fiftyDayAverage": 591.9354,
+    "twoHundredDayAverage": 622.9902,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0036838872,
+    "trailingAnnualDividendYield": 0.0036449472,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1489778245632,
+    "enterpriseValue": 1476938825728,
     "profitMargins": 0.29834998,
     "floatShares": 2201733205,
     "sharesOutstanding": 2205128509,
@@ -192,26 +192,26 @@
     "shortPercentOfFloat": 0.0127,
     "impliedSharesOutstanding": 2547506225,
     "bookValue": 102.52,
-    "priceToBook": 5.619782,
+    "priceToBook": 5.5706205,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.85,
+    "trailingEps": 26.33,
     "forwardEps": 34.83499,
-    "pegRatio": 0.82,
-    "enterpriseToRevenue": 6.527,
-    "enterpriseToEbitda": 13.586,
-    "52WeekChange": -0.22912037,
-    "SandP52WeekChange": 0.18426573,
+    "pegRatio": 0.85,
+    "enterpriseToRevenue": 6.471,
+    "enterpriseToEbitda": 13.469,
+    "52WeekChange": -0.22688508,
+    "SandP52WeekChange": 0.1966995,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 576.14,
+    "currentPrice": 571.1,
     "targetHighPrice": 1000.0,
     "targetLowPrice": 580.0,
-    "targetMeanPrice": 754.14246,
+    "targetMeanPrice": 754.7214,
     "targetMedianPrice": 750.0,
     "recommendationMean": 1.35484,
     "recommendationKey": "strong_buy",
@@ -243,11 +243,10 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "regularMarketChangePercent": 1.06833,
-    "regularMarketPrice": 576.14,
+    "marketState": "PREPRE",
     "corporateActions": [],
-    "postMarketTime": 1787788796,
-    "regularMarketTime": 1787774401,
+    "postMarketTime": 1787875196,
+    "regularMarketTime": 1787860801,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -255,39 +254,17 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "longName": "Meta Platforms, Inc.",
-    "marketState": "POSTPOST",
+    "regularMarketChangePercent": -0.874794,
+    "regularMarketPrice": 571.1,
     "shortName": "Meta Platforms, Inc.",
-    "epsTrailingTwelveMonths": 26.85,
-    "epsForward": 34.83499,
-    "epsCurrentYear": 31.15875,
-    "priceEpsCurrentYear": 18.490473,
-    "fiftyDayAverageChange": -16.377563,
-    "fiftyDayAverageChangePercent": -0.027640637,
-    "twoHundredDayAverageChange": -47.10321,
-    "twoHundredDayAverageChangePercent": -0.07557757,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-26",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.5154946,
-    "postMarketPrice": 579.11,
-    "postMarketChange": 2.9699707,
-    "regularMarketChange": 6.09003,
-    "regularMarketDayRange": "561.945 - 593.27",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18649240,
-    "fiftyTwoWeekLowChange": 55.880005,
-    "fiftyTwoWeekLowChangePercent": 0.107407846,
+    "longName": "Meta Platforms, Inc.",
+    "averageDailyVolume3Month": 18554260,
+    "fiftyTwoWeekLowChange": 50.839966,
+    "fiftyTwoWeekLowChangePercent": 0.0977203,
     "fiftyTwoWeekRange": "520.26 - 790.8",
-    "fiftyTwoWeekHighChange": -214.65997,
-    "fiftyTwoWeekHighChangePercent": -0.27144662,
-    "fiftyTwoWeekChangePercent": -22.912037,
+    "fiftyTwoWeekHighChange": -219.70001,
+    "fiftyTwoWeekHighChangePercent": -0.27781996,
+    "fiftyTwoWeekChangePercent": -22.688507,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -295,8 +272,31 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 26.33,
+    "epsForward": 34.83499,
+    "epsCurrentYear": 31.18,
+    "priceEpsCurrentYear": 18.316227,
+    "fiftyDayAverageChange": -20.83545,
+    "fiftyDayAverageChangePercent": -0.035198856,
+    "twoHundredDayAverageChange": -51.890198,
+    "twoHundredDayAverageChangePercent": -0.083292164,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-08-28",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": 0.0021588341,
+    "postMarketPrice": 571.1123,
+    "postMarketChange": 0.012329102,
+    "regularMarketChange": -5.04004,
+    "regularMarketDayRange": "567.62 - 588.39",
+    "fullExchangeName": "NasdaqGS",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.851
+    "trailingPegRatio": 0.8601
   },
   "financial_statements": {
     "income": {
@@ -1691,40 +1691,40 @@
       ],
       "Earnings High": 7.64,
       "Earnings Low": 6.31,
-      "Earnings Average": 6.9675,
+      "Earnings Average": 6.93154,
       "Revenue High": 65278000000,
       "Revenue Low": 61702000000,
-      "Revenue Average": 63314922190
+      "Revenue Average": 63314915800
     }
   },
   "news": [
     {
-      "id": "339be08b-537a-4321-a332-3066073adf31",
+      "id": "a2476133-f655-42d5-8e87-1a82e32da2c9",
       "content": {
-        "id": "339be08b-537a-4321-a332-3066073adf31",
+        "id": "a2476133-f655-42d5-8e87-1a82e32da2c9",
         "contentType": "STORY",
-        "title": "Tech stocks today: Meta agrees to settle social media case for $16.68 billion; Nvidia tops Q2 expectations",
+        "title": "Why Nvidia probably just lit a new fire under these once-hot trades",
         "description": "",
-        "summary": "This week's major tech news",
-        "pubDate": "2026-08-24T12:54:06Z",
-        "displayTime": "2026-08-26T21:07:44Z",
+        "summary": "Nvidia has struck an ultra bullish tone on memory chips.",
+        "pubDate": "2026-08-27T10:36:45Z",
+        "displayTime": "2026-08-27T13:18:06Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/a01fbc10-274f-11f1-8b9b-a3e9b9651a2d",
-          "originalWidth": 1232,
-          "originalHeight": 798,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/d3DEP_G7gIyH3NaV5I.Nug--~B/aD0zNDE2O3c9NTEyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/2bbc3bac-b96d-4def-90b0-68fa50fad62d",
+          "originalWidth": 5120,
+          "originalHeight": 3416,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8tWT.mPuWKrBi.hcPhZymw--~B/aD03OTg7dz0xMjMyO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-03/a01fbc10-274f-11f1-8b9b-a3e9b9651a2d",
-              "width": 1232,
-              "height": 798,
+              "url": "https://s.yimg.com/uu/api/res/1.2/d3DEP_G7gIyH3NaV5I.Nug--~B/aD0zNDE2O3c9NTEyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/2bbc3bac-b96d-4def-90b0-68fa50fad62d",
+              "width": 5120,
+              "height": 3416,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/J0rkGqxwSbnoHf6CnzDImA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-03/a01fbc10-274f-11f1-8b9b-a3e9b9651a2d",
+              "url": "https://s.yimg.com/uu/api/res/1.2/JtTL8CEpCrowA7mk9D3_Pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/2bbc3bac-b96d-4def-90b0-68fa50fad62d",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1737,251 +1737,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-agrees-to-settle-social-media-case-for-1668-billion-nvidia-tops-q2-expectations-125406169.html",
+          "url": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-probably-just-lit-a-new-fire-under-these-once-hot-trades-103645649.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-agrees-to-settle-social-media-case-for-1668-billion-nvidia-tops-q2-expectations-125406169.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "ff32cac4-8040-49dc-94e4-9c99c2aeb04e",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Meta's settlement is a challenge to TikTok and YouTube",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/2nKGVcEdPmmfMt_loycVmg--~B/aD0xNjAwO3c9Mjg0NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7de7dd70-9e28-4f6b-9aa3-ac78533c80ff_339e541bffc1ec4d32fb36b78425179fd9edb60f7046dcf3fdcb3507be8e1ef5.jpg_899167cb14d34f5c8b8560a4c819e0ed1ed1ff6f70866e24d0af6acb08ab890a.jpg",
-                  "originalWidth": 2845,
-                  "originalHeight": 1600,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/technology/article/metas-settlement-is-a-challenge-to-tiktok-and-youtube-171514270.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/technology/article/metas-settlement-is-a-challenge-to-tiktok-and-youtube-171514270.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "d2c64dc6-205f-4134-ab6d-6e86f89f21dc",
-                "contentType": "VIDEO",
-                "isHosted": true,
-                "title": "Meta's social media payout sets precedent for Snap, Google, Roblox — and could be a 'negative'",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/2nKGVcEdPmmfMt_loycVmg--~B/aD0xNjAwO3c9Mjg0NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7de7dd70-9e28-4f6b-9aa3-ac78533c80ff_339e541bffc1ec4d32fb36b78425179fd9edb60f7046dcf3fdcb3507be8e1ef5.jpg_899167cb14d34f5c8b8560a4c819e0ed1ed1ff6f70866e24d0af6acb08ab890a.jpg",
-                  "originalWidth": 2845,
-                  "originalHeight": 1600,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/metas-social-media-payout-sets-145457556.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/metas-social-media-payout-sets-145457556.html"
-                }
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "e8e31e00-2bf7-428b-a51e-24004e332629",
-      "content": {
-        "id": "e8e31e00-2bf7-428b-a51e-24004e332629",
-        "contentType": "VIDEO",
-        "title": "Is Meta a buy after its $16.68 billion social media case settlement?",
-        "description": "<p>The price of Meta (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/META/\" data-i13n=\"cpos:1;pos:1\">META</a>) ticked up before paring gains after the company agreed it would pay $16.68 billion to settle a social media addiction case with a group of state attorneys general. Yahoo Finance Executive Editor Brian Sozzi talks with Yahoo Finance Markets and Data Editor Jared Blikre, Sevens Report Research Founder Tom Essaye, and Edward Jones Senior Global Investment Strategist Angelo Kourkafas about the company's future and how it will approach monetizing AI.</p>",
-        "summary": "The price of Meta (META) ticked up before paring gains after the company agreed it would pay $16.68 billion to settle a social media addiction case with a group of state attorneys general. Yahoo Finance Executive Editor Brian Sozzi talks with Yahoo Finance Markets and Data Editor Jared Blikre, Sevens Report Research Founder Tom Essaye, and Edward Jones Senior Global Investment Strategist Angelo Kourkafas about the company's future and how it will approach monetizing AI.",
-        "pubDate": "2026-08-26T14:19:35Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/QDdd41H2MYFlu2qkgrS7Aw--~B/aD0yMDY2O3c9MzY3MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7de7dd70-9e28-4f6b-9aa3-ac78533c80ff_339e541bffc1ec4d32fb36b78425179fd9edb60f7046dcf3fdcb3507be8e1ef5.jpg",
-          "originalWidth": 3673,
-          "originalHeight": 2066,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QDdd41H2MYFlu2qkgrS7Aw--~B/aD0yMDY2O3c9MzY3MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7de7dd70-9e28-4f6b-9aa3-ac78533c80ff_339e541bffc1ec4d32fb36b78425179fd9edb60f7046dcf3fdcb3507be8e1ef5.jpg",
-              "width": 3673,
-              "height": 2066,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/kTHkzhySthjVMrJaInGIkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7de7dd70-9e28-4f6b-9aa3-ac78533c80ff_339e541bffc1ec4d32fb36b78425179fd9edb60f7046dcf3fdcb3507be8e1ef5.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/meta-buy-16-68-billion-141935353.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/meta-buy-16-68-billion-141935353.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": {
-          "storylineItems": [
-            {
-              "content": {
-                "id": "84bf50e1-8a50-4da3-b0d4-ffd15ecc7292",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/WUKTVVaON4JoF2CT1YfuSg--~B/aD0zMDM3O3c9NDU1NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/08b1b483-c3c4-4f1c-ba01-7d1e64ea681d",
-                  "originalWidth": 4554,
-                  "originalHeight": 3037,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/stocks-in-holding-pattern-ahead-of-nvidia-earnings-alphacheck-141558586.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/markets/article/stocks-in-holding-pattern-ahead-of-nvidia-earnings-alphacheck-141558586.html"
-                }
-              }
-            },
-            {
-              "content": {
-                "id": "7e2d1d7c-9880-40ef-9a9b-90e50bbc94fe",
-                "contentType": "STORY",
-                "isHosted": true,
-                "title": "Meta reaches $16.68 billion settlement in social media case",
-                "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/R3OZ.XGU2pXJ3ZETWVUxdw--~B/aD0zMjI2O3c9NDg0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/01ba3dd5-236d-4dad-8f60-93ce041cf06e",
-                  "originalWidth": 4840,
-                  "originalHeight": 3226,
-                  "caption": "",
-                  "resolutions": null
-                },
-                "provider": {
-                  "displayName": "Yahoo Finance",
-                  "sourceId": "yahoofinance.com"
-                },
-                "previewUrl": null,
-                "providerContentUrl": "",
-                "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/markets/stocks/article/meta-reaches-1668-billion-settlement-in-social-media-case-134220470.html"
-                },
-                "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/markets/stocks/article/meta-reaches-1668-billion-settlement-in-social-media-case-134220470.html"
-                }
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "09c8a921-a415-4584-942b-388f1816479b",
-      "content": {
-        "id": "09c8a921-a415-4584-942b-388f1816479b",
-        "contentType": "VIDEO",
-        "title": "Meta settles social media trial, agreeing to pay up to $16.7B: Reuters",
-        "description": "<p>Meta (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/META/\" data-i13n=\"cpos:1;pos:1\">META</a>) reached a settlement in its social media trial, according to Reuters. Yahoo Finance Breaking Business News Reporter Jake Conley discusses the details with Yahoo Finance Senior Reporter Brooke DiPalma and Payne Capital Management president Ryan Payne.</p>",
-        "summary": "Meta (META) reached a settlement in its social media trial, according to Reuters. Yahoo Finance Breaking Business News Reporter Jake Conley discusses the details with Yahoo Finance Senior Reporter Brooke DiPalma and Payne Capital Management president Ryan Payne.",
-        "pubDate": "2026-08-26T13:38:20Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/M2L9G0uoAO8h5JqjvDoYeA--~B/aD0yMjU2O3c9NDAxMTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4c2d1c70-ebfe-40c0-9c68-cc8e603c2818_d61a7e9f5a3a76eaf95c3973526213a7c38dfe2adcec8197e5cad049279de907.jpg",
-          "originalWidth": 4011,
-          "originalHeight": 2256,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/M2L9G0uoAO8h5JqjvDoYeA--~B/aD0yMjU2O3c9NDAxMTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4c2d1c70-ebfe-40c0-9c68-cc8e603c2818_d61a7e9f5a3a76eaf95c3973526213a7c38dfe2adcec8197e5cad049279de907.jpg",
-              "width": 4011,
-              "height": 2256,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uZKKKVU5tVj0.KTzewETVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4c2d1c70-ebfe-40c0-9c68-cc8e603c2818_d61a7e9f5a3a76eaf95c3973526213a7c38dfe2adcec8197e5cad049279de907.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/meta-settles-social-media-trial-133820219.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/meta-settles-social-media-trial-133820219.html",
+          "url": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-probably-just-lit-a-new-fire-under-these-once-hot-trades-103645649.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1999,94 +1761,32 @@
       }
     },
     {
-      "id": "75517f20-e2c9-46e1-af09-1b5f8e18c61c",
+      "id": "26b4b317-9e63-3ec9-8b87-35ad4ab02894",
       "content": {
-        "id": "75517f20-e2c9-46e1-af09-1b5f8e18c61c",
+        "id": "26b4b317-9e63-3ec9-8b87-35ad4ab02894",
         "contentType": "STORY",
-        "title": "Nvidia earnings could reveal its fastest-growing business isn't chips: Chart of the Day",
+        "title": "Corporate America Cut Big Checks to Trump. Now CEOs Fear Subpoenas Are Coming.",
         "description": "",
-        "summary": "Wall Street is focused on Nvidia's GPUs, but the faster-growing story is sitting beside them.",
-        "pubDate": "2026-08-26T10:00:00Z",
-        "displayTime": "2026-08-26T10:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/5JjK5z7gvR1zd0XKO4Ah7g--~B/aD0yNzQ0O3c9NDg3OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e6acb0b9-5ebe-4509-b56a-fb9891f0645b_883388b6219eec3ce5ca0266f2e85560c46eae5b742b32ede8f7b2f507b4def8.jpg",
-          "originalWidth": 4879,
-          "originalHeight": 2744,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5JjK5z7gvR1zd0XKO4Ah7g--~B/aD0yNzQ0O3c9NDg3OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e6acb0b9-5ebe-4509-b56a-fb9891f0645b_883388b6219eec3ce5ca0266f2e85560c46eae5b742b32ede8f7b2f507b4def8.jpg",
-              "width": 4879,
-              "height": 2744,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uu38zJ_z.hczqWsKLR1kGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e6acb0b9-5ebe-4509-b56a-fb9891f0645b_883388b6219eec3ce5ca0266f2e85560c46eae5b742b32ede8f7b2f507b4def8.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-could-reveal-its-fastest-growing-business-isnt-chips-chart-of-the-day-100000332.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-could-reveal-its-fastest-growing-business-isnt-chips-chart-of-the-day-100000332.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f4bc73e5-ca68-3650-896d-1e6f3306a8f2",
-      "content": {
-        "id": "f4bc73e5-ca68-3650-896d-1e6f3306a8f2",
-        "contentType": "STORY",
-        "title": "New Teen Safety Measures for Instagram and Facebook Are Coming. Will They Work?",
-        "description": "",
-        "summary": "As part of its $18 billion settlement with 48 states, Meta agreed to add these restrictions to youth accounts within six months.",
-        "pubDate": "2026-08-27T01:00:00Z",
-        "displayTime": "2026-08-27T01:00:00Z",
+        "summary": "Tech firms are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House.",
+        "pubDate": "2026-08-28T01:00:00Z",
+        "displayTime": "2026-08-28T01:00:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/f4bc73e5-ca68-3650-896d-1e6f3306a8f2/new-teen-safety-measures-for.html",
+        "previewUrl": "https://finance.yahoo.com/m/26b4b317-9e63-3ec9-8b87-35ad4ab02894/corporate-america-cut-big.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/d8cbf32432e27255275c6ea95b4f7aa2.jpg",
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/7b7fcd616e8787d2dae85083afcf0f81.jpg",
           "originalWidth": 1280,
           "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/T06y_OczWJpeJWVbKoaTgg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d8cbf32432e27255275c6ea95b4f7aa2.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/IkgpN0mpoKXdqgKyIku0Gw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7b7fcd616e8787d2dae85083afcf0f81.jpg",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hFoJaeaJ42KXK7MZdEsXSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d8cbf32432e27255275c6ea95b4f7aa2.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Der3aVvgmALIhPIXd.gvxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b7fcd616e8787d2dae85083afcf0f81.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2099,7 +1799,7 @@
           "sourceId": "wsj.com"
         },
         "canonicalUrl": {
-          "url": "https://www.wsj.com/tech/personal-tech/meta-teen-safety-instagram-facebook-ae83287d?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.wsj.com/politics/elections/trump-corporate-donors-election-2026-572c1b28?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2118,32 +1818,94 @@
       }
     },
     {
-      "id": "d9f1afb5-f1b1-3e00-ade5-14fd382b55f9",
+      "id": "4236b3bd-3d2a-38b1-9eb6-589f7ca9ea6b",
       "content": {
-        "id": "d9f1afb5-f1b1-3e00-ade5-14fd382b55f9",
+        "id": "4236b3bd-3d2a-38b1-9eb6-589f7ca9ea6b",
         "contentType": "STORY",
-        "title": "S&P 500, Dow, Nasdaq Futures Track Nvidia Stock Higher Over Strong FY28 Revenue Outlook — NVDA, CRM, META, CRWD, OKTA  In Focus",
+        "title": "Uber (UBER)’s $966 Million Fine: A Temporary Headwind or Bigger Regulatory Threat?",
         "description": "",
-        "summary": "Fed’s preferred inflation gauge (PCE) showed core prices rose 3.3% annually in July.",
-        "pubDate": "2026-08-26T23:53:54Z",
-        "displayTime": "2026-08-26T23:53:54Z",
+        "summary": "Uber Technologies, Inc. (NYSE:UBER) is facing a major regulatory setback after the Dutch Data Protection Authority fined the company €825 million ($966 million) for using automated systems to suspend or deactivate drivers without adequate information or meaningful human oversight. The case relates to incidents from 2018 to 2022, including automated suspensions of drivers suspected of […]",
+        "pubDate": "2026-08-28T00:15:04Z",
+        "displayTime": "2026-08-28T00:15:04Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/928255da52bcc5c5574792f39f801fdd",
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/fdc7dd6dff645baf0c002d1c5141f944.jpg",
+          "originalWidth": 6000,
+          "originalHeight": 3376,
+          "caption": "Uber (UBER)'s $966 Million Fine: A Temporary Headwind or Bigger Regulatory Threat?",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tUKktWn4wxDuhxQUBUX2iQ--~B/aD0zMzc2O3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/fdc7dd6dff645baf0c002d1c5141f944.jpg",
+              "width": 6000,
+              "height": 3376,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NukmsTYLgLIA4EYrI6UX8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fdc7dd6dff645baf0c002d1c5141f944.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/uber-uber-966-million-fine-001504395.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/uber-uber-966-million-fine-001504395.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9131f28a-854f-3226-950c-00f5614da148",
+      "content": {
+        "id": "9131f28a-854f-3226-950c-00f5614da148",
+        "contentType": "STORY",
+        "title": "Why Is Wall Street Doubting Google Stock?",
+        "description": "",
+        "summary": "After a sharp pullback, one of the world's most dominant companies is trading at a steep discount to the market, forcing investors to decide if they are looking at a bargain or a warning sign.",
+        "pubDate": "2026-08-27T23:39:51Z",
+        "displayTime": "2026-08-27T23:39:51Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg",
           "originalWidth": 1280,
           "originalHeight": 853,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/89bO6VYG10BrlytjMKEfoA--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/928255da52bcc5c5574792f39f801fdd",
+              "url": "https://s.yimg.com/uu/api/res/1.2/QGrle2HXm5pQP290QWFNpQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg",
               "width": 1280,
               "height": 853,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jA4qpfDIe56zvL1mL7XLzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/928255da52bcc5c5574792f39f801fdd",
+              "url": "https://s.yimg.com/uu/api/res/1.2/BDiF4Y8QKA03Bg1koRnrlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2151,18 +1913,18 @@
           ]
         },
         "provider": {
-          "displayName": "Stocktwits",
-          "url": "Stocktwits",
-          "sourceId": "stocktwits_383"
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/",
+          "sourceId": "trefis_142"
         },
         "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-track-nvidia-stock-higher/cZYVarsRJp7",
+          "url": "https://www.trefis.com/articles/613260/why-is-wall-street-doubting-google-stock/2026-08-27",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-futures-235354257.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-doubting-google-233951392.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2180,213 +1942,32 @@
       }
     },
     {
-      "id": "f5a068c2-4978-34fc-add3-c8f14d57a0e6",
+      "id": "3b76e066-3bbe-3daf-b8d4-5ba457ecb42a",
       "content": {
-        "id": "f5a068c2-4978-34fc-add3-c8f14d57a0e6",
+        "id": "3b76e066-3bbe-3daf-b8d4-5ba457ecb42a",
         "contentType": "STORY",
-        "title": "Meta, US states agree $18 bn settlement in landmark teen safety case",
+        "title": "Oklo's Meta Deal Calls For a 1.2-Gigawatt Reactor in Ohio. Here's When It's Slated to Come Online.",
         "description": "",
-        "summary": "Meta agreed to pay a coalition of US states as much as $16.7 billion and to impose sweeping new limits on how teenagers use Facebook and Instagram, according to a court filing on Wednesday that ends a landmark trial in California.The settlement ends the trial in its second week.",
-        "pubDate": "2026-08-26T23:35:47Z",
-        "displayTime": "2026-08-26T23:35:47Z",
+        "summary": "The company will begin pre-construction next year and break ground in 2028.",
+        "pubDate": "2026-08-27T21:55:00Z",
+        "displayTime": "2026-08-27T21:55:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/afp.com/60e5aa5c20ac0f7993e6527179d3c484.jpg",
-          "originalWidth": 768,
-          "originalHeight": 512,
-          "caption": "California Attorney General Rob Bonta called the Meta settlement 'real change, real transparency, and real enforceable protections for children' (Godofredo A. VÁSQUEZ)",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/b7a9f41d72794f9144438077113a8216.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 835,
+          "caption": "A small modular reactor facility.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_fudxNJR_1B0UAWptvJkgA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/60e5aa5c20ac0f7993e6527179d3c484.jpg",
-              "width": 768,
-              "height": 512,
+              "url": "https://s.yimg.com/uu/api/res/1.2/JBgwQG2CTTgcJ5VTJN4UEA--~B/aD04MzU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b7a9f41d72794f9144438077113a8216.jpg",
+              "width": 1400,
+              "height": 835,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4zhxMM.XJxq0g43qXRXeRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/60e5aa5c20ac0f7993e6527179d3c484.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "AFP",
-          "url": "http://www.afp.com/",
-          "sourceId": "afp.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-us-states-agree-16-145500294.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-us-states-agree-16-145500294.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "499733a9-df18-3ee1-8da8-9babd260720d",
-      "content": {
-        "id": "499733a9-df18-3ee1-8da8-9babd260720d",
-        "contentType": "STORY",
-        "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
-        "description": "",
-        "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
-        "pubDate": "2026-08-26T22:47:58Z",
-        "displayTime": "2026-08-26T22:47:58Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/d9e419312b786b7f424ad513fc33486f.jpg",
-          "originalWidth": 3470,
-          "originalHeight": 2313,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vUpi92tJjYH_MOx_1QygBQ--~B/aD0yMzEzO3c9MzQ3MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_finance_785/d9e419312b786b7f424ad513fc33486f.jpg",
-              "width": 3470,
-              "height": 2313,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/GaZlhRB6azZw64j_qSJeuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/d9e419312b786b7f424ad513fc33486f.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TechCrunch",
-          "url": "https://techcrunch.com/",
-          "sourceId": "techcrunch_finance_785"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/meta-18b-child-safety-deal-224758701.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/meta-18b-child-safety-deal-224758701.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8e44d7a9-86ce-376b-b042-a31def8e950b",
-      "content": {
-        "id": "8e44d7a9-86ce-376b-b042-a31def8e950b",
-        "contentType": "STORY",
-        "title": "Meta Reaches $18 Billion Settlement With 48 States Over Child-Safety Claims",
-        "description": "",
-        "summary": "The deal contains broad new safeguards for underage users but only pays out in full if TikTok and YouTube make similar concessions.",
-        "pubDate": "2026-08-26T22:28:00Z",
-        "displayTime": "2026-08-26T22:28:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/8e44d7a9-86ce-376b-b042-a31def8e950b/meta-reaches-18-billion.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/a2228601fe11c75ea2b3f0ecb7cef2f9.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YE3WjpYB9MZfyqDJrln_8Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/a2228601fe11c75ea2b3f0ecb7cef2f9.jpg",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rg8jye8YKr0eQ8u3gIrukQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/a2228601fe11c75ea2b3f0ecb7cef2f9.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.wsj.com/tech/meta-reaches-18-billion-settlement-with-48-states-over-child-safety-claims-cf725a2b?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "fb70befc-9d14-3c86-ae35-d3d2d866b879",
-      "content": {
-        "id": "fb70befc-9d14-3c86-ae35-d3d2d866b879",
-        "contentType": "STORY",
-        "title": "Stock Market Today, Aug. 26: Stocks Edge Lower As Market Digests Meta Ruling and Awaits Nvidia's Earnings",
-        "description": "",
-        "summary": "On Aug. 26, 2026, hotter-than-expected July inflation and rising bond yields shifted rate-cut expectations, weighing on chip stocks ahead of Nvidia's earnings.",
-        "pubDate": "2026-08-26T22:15:14Z",
-        "displayTime": "2026-08-26T22:15:14Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/cfbcba7c7e68ce9e5d60df6004cef9a2.png",
-          "originalWidth": 300,
-          "originalHeight": 180,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/De23Qgj3TcfEYVX6fZ826Q--~B/aD0xODA7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cfbcba7c7e68ce9e5d60df6004cef9a2.png",
-              "width": 300,
-              "height": 180,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/02VdvDp2407wIpPP_MTFjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cfbcba7c7e68ce9e5d60df6004cef9a2.png",
+              "url": "https://s.yimg.com/uu/api/res/1.2/REmGVXGYaeeiA_uxGKbKjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b7a9f41d72794f9144438077113a8216.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2399,13 +1980,323 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/08/26/stock-market-today-aug-26-stocks-edge-lower-as-market-digests-meta-ruling-and-awaits-nvidia-s-earnings/",
+          "url": "https://www.fool.com/investing/2026/08/27/oklos-meta-deal-calls-for-a-12-gigawatt-reactor-in/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-26-221514737.html",
+          "url": "https://finance.yahoo.com/energy/articles/oklos-meta-deal-calls-1-215500034.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "2a698158-9631-39cb-bb9f-51e2ac2d4bad",
+      "content": {
+        "id": "2a698158-9631-39cb-bb9f-51e2ac2d4bad",
+        "contentType": "STORY",
+        "title": "Meta settlement opens new front in global fight over social media harm",
+        "description": "",
+        "summary": "SYDNEY/MANILA/BRUSSELS, Aug 27 (Reuters) - Meta's move to restrict teenagers' use of social media in the U. shows companies have tools to better protect young people online, Australian officials said on Thursday, while in the Philippines, an official said the U.",
+        "pubDate": "2026-08-27T21:33:26Z",
+        "displayTime": "2026-08-27T21:33:26Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters.com/926e35bd1d0345e79bc239ff6eaac496.jpg",
+          "originalWidth": 800,
+          "originalHeight": 534,
+          "caption": "A worker stands inside the Meta Lab in Los Angeles, California, U.S., May 20, 2026. REUTERS/Daniel Cole",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rVIPivtzhmN2EW9Kl0K3ug--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/926e35bd1d0345e79bc239ff6eaac496.jpg",
+              "width": 800,
+              "height": 534,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/BkBLTjyRo32Ra3aETv..qA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/926e35bd1d0345e79bc239ff6eaac496.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "https://www.reuters.com/",
+          "sourceId": "reuters.com"
+        },
+        "canonicalUrl": {
+          "url": "https://uk.finance.yahoo.com/news/meta-settlement-opens-front-global-071118381.html",
+          "site": "finance",
+          "region": "GB",
+          "lang": "en-GB"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/news/meta-settlement-opens-front-global-071118381.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8ff24626-970f-3cc4-8265-b8763f0d8df9",
+      "content": {
+        "id": "8ff24626-970f-3cc4-8265-b8763f0d8df9",
+        "contentType": "STORY",
+        "title": "S&P 500 investors are quietly making a huge shift",
+        "description": "",
+        "summary": "The ETF milestone challenging the S&P’s biggest names",
+        "pubDate": "2026-08-27T21:17:00Z",
+        "displayTime": "2026-08-27T21:17:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/6dfe6df5bab96d1a41ba99923735e338.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/TuR1waT7Dl2YWjQvGSDPUw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/6dfe6df5bab96d1a41ba99923735e338.jpg",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/z40D2J91QmhbaekJuMgTVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/6dfe6df5bab96d1a41ba99923735e338.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/rsp-equal-weight-sp-500-etf-100-billion-magnificent-seven",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-investors-quietly-making-211700649.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "897b9ccb-3ba0-39a5-a366-4485e1b53acb",
+      "content": {
+        "id": "897b9ccb-3ba0-39a5-a366-4485e1b53acb",
+        "contentType": "STORY",
+        "title": "Should SpaceX Join the \"Magnificent Seven\"? Here's 1 Stock I'd Kick Out to Make Room.",
+        "description": "",
+        "summary": "SpaceX would be right at home among the \"Magnificent Seven.\"",
+        "pubDate": "2026-08-27T20:35:00Z",
+        "displayTime": "2026-08-27T20:35:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/0ba289ed0c7ac475ceadcb0542d8b7cc.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "A person thinking with their fingers on their chin.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/auK0VgpPugRcitX0NfsGCw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0ba289ed0c7ac475ceadcb0542d8b7cc.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xu0xc8a5uLwYIVr9h.zlaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0ba289ed0c7ac475ceadcb0542d8b7cc.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/27/should-spacex-join-the-magnificent-seven-heres-1-s/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-join-magnificent-seven-heres-203500483.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f564875c-8dad-3234-9e1a-278e9c214e10",
+      "content": {
+        "id": "f564875c-8dad-3234-9e1a-278e9c214e10",
+        "contentType": "STORY",
+        "title": "How will Meta’s settlement impact social media?",
+        "description": "",
+        "summary": "The company’s landmark $18 billion payout was only one part of a larger agreement that aims to force other apps to implement similar teen restrictions.",
+        "pubDate": "2026-08-27T20:29:23Z",
+        "displayTime": "2026-08-27T20:29:23Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/social_media_today_432/79b4da66253bc868d3119407d79bec18.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "Social Media Today, an Industry Dive publication",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rxa2tj9izIArB2aT50H2SA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/social_media_today_432/79b4da66253bc868d3119407d79bec18.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dB37Be.LxPsv5CHSlKtVUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/social_media_today_432/79b4da66253bc868d3119407d79bec18.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Social Media Today",
+          "url": "https://www.socialmediatoday.com/",
+          "sourceId": "social_media_today_432"
+        },
+        "canonicalUrl": {
+          "url": "https://www.socialmediatoday.com/news/how-will-metas-settlement-impact-social-media/829033/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/media-advertising/articles/meta-settlement-impact-social-media-202923576.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "51e7f4b7-1563-38f5-b464-50e7355fd45b",
+      "content": {
+        "id": "51e7f4b7-1563-38f5-b464-50e7355fd45b",
+        "contentType": "STORY",
+        "title": "AppLovin vs. Meta Platforms: Analyzing Quarterly Revenue Trajectories Between These High-Growth Digital Media Companies",
+        "description": "",
+        "summary": "AppLovin's revenue is expanding at double-digit rates while Meta sustains massive scale; the real question is whether the growth gap will persist.",
+        "pubDate": "2026-08-27T20:20:01Z",
+        "displayTime": "2026-08-27T20:20:01Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/b49d75d4398eebebc5db5706a4713e38.png",
+          "originalWidth": 1200,
+          "originalHeight": 900,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NkWa2O8qgxEs_gNKT6Evdw--~B/aD05MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b49d75d4398eebebc5db5706a4713e38.png",
+              "width": 1200,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zy2.1BX2tuBznjWZ6ccSJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b49d75d4398eebebc5db5706a4713e38.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/coverage/charts/2026/08/27/applovin-vs-meta-platforms-analyzing-quarterly-revenue-trajectories-between-these-high-growth-digital-media-companies/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-vs-meta-platforms-analyzing-202001987.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
