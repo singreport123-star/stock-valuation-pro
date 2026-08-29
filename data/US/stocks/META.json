@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-29T03:26:41.899172",
+    "ts": "2026-08-29T23:47:16.598486",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -150,8 +150,8 @@
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 21.762802,
-    "forwardPE": 16.593086,
+    "trailingPE": 21.503721,
+    "forwardPE": 16.533915,
     "volume": 15573685,
     "regularMarketVolume": 15573685,
     "averageVolume": 18534545,
@@ -177,7 +177,7 @@
     "trailingAnnualDividendYield": 0.0036771144,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1476938825728,
+    "enterpriseValue": 1494567485440,
     "profitMargins": 0.29834998,
     "floatShares": 2201733205,
     "sharesOutstanding": 2205128509,
@@ -198,11 +198,11 @@
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.56,
-    "forwardEps": 34.83499,
+    "trailingEps": 26.88,
+    "forwardEps": 34.95966,
     "pegRatio": 0.85,
-    "enterpriseToRevenue": 6.471,
-    "enterpriseToEbitda": 13.469,
+    "enterpriseToRevenue": 6.548,
+    "enterpriseToEbitda": 13.63,
     "52WeekChange": -0.22310948,
     "SandP52WeekChange": 0.20504117,
     "lastDividendValue": 0.525,
@@ -243,35 +243,23 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1787961599,
-    "regularMarketTime": 1787947201,
-    "exchange": "NMS",
+    "marketState": "CLOSED",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
     "exchangeTimezoneShortName": "EDT",
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "marketState": "POSTPOST",
+    "longName": "Meta Platforms, Inc.",
     "regularMarketChangePercent": 1.2117,
     "regularMarketPrice": 578.02,
-    "priceEpsCurrentYear": 18.538166,
-    "fiftyDayAverageChange": -13.915405,
-    "fiftyDayAverageChangePercent": -0.023508316,
-    "twoHundredDayAverageChange": -44.970154,
-    "twoHundredDayAverageChangePercent": -0.07218437,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-28",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
+    "shortName": "Meta Platforms, Inc.",
+    "corporateActions": [],
+    "postMarketTime": 1787961599,
+    "regularMarketTime": 1787947201,
+    "exchange": "NMS",
     "postMarketChangePercent": 0.057083845,
     "postMarketPrice": 578.35,
     "postMarketChange": 0.32995605,
@@ -292,9 +280,21 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.56,
-    "epsForward": 34.83499,
+    "epsTrailingTwelveMonths": 26.88,
+    "epsForward": 34.95966,
     "epsCurrentYear": 31.18,
+    "priceEpsCurrentYear": 18.538166,
+    "fiftyDayAverageChange": -13.915405,
+    "fiftyDayAverageChangePercent": -0.023508316,
+    "twoHundredDayAverageChange": -44.970154,
+    "twoHundredDayAverageChangePercent": -0.07218437,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-08-29",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8526
   },
@@ -1699,6 +1699,421 @@
   },
   "news": [
     {
+      "id": "ba48c79a-43da-33b0-87a6-50539fb4f101",
+      "content": {
+        "id": "ba48c79a-43da-33b0-87a6-50539fb4f101",
+        "contentType": "STORY",
+        "title": "Meta Stock And 2 Founder Led AI Picks For Higher Rates",
+        "description": "",
+        "summary": "Central banks are talking tougher on inflation again, and that often puts short term pressure on markets. Founder led companies can be different. Leaders with their own wealth on the line may be more willing to protect margins, rethink costs and adjust quickly when money is not cheap. This article highlights three stocks from the Founder Led Companies screener that show how that kind of commitment can matter for long term investors. The three founder led stocks below are just a starting...",
+        "pubDate": "2026-08-29T20:15:20Z",
+        "displayTime": "2026-08-29T20:15:20Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nCAI77amckTuvVDu_618MQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ba6AOYNIX1c_OX_7XUvNcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-2-founder-led-201520433.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-2-founder-led-201520433.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "64fb8a2e-004f-320b-9143-889fe789860d",
+      "content": {
+        "id": "64fb8a2e-004f-320b-9143-889fe789860d",
+        "contentType": "STORY",
+        "title": "Meta Continues to Trade Jobs for AI: Robots Are “Coming For Us All”",
+        "description": "",
+        "summary": "Meta is quietly testing robots inside its data centers, and at least one employee believes physical workers are no longer safe from automation. The experiment hints at a much larger shift in how AI spending could reshape labor costs across the entire economy.",
+        "pubDate": "2026-08-29T15:31:52Z",
+        "displayTime": "2026-08-29T15:31:52Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f848f2b8e43fcb5f0b3dc1c98f489038.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 767,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/uAOcCbRHFhEZcflrw74lKQ--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/f848f2b8e43fcb5f0b3dc1c98f489038.jpg",
+              "width": 1366,
+              "height": 767,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xmIzTXTY.fbKpCmeDxWUmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f848f2b8e43fcb5f0b3dc1c98f489038.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/08/29/meta-continues-to-trade-jobs-for-ai-robots-are-coming-for-us-all/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-continues-trade-jobs-ai-153152757.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a842a62f-8e77-3dfe-a85e-e0281343be6b",
+      "content": {
+        "id": "a842a62f-8e77-3dfe-a85e-e0281343be6b",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg sends shocking message to Meta employees",
+        "description": "",
+        "summary": "What Zuckerberg planned for Meta employees this year was far more radical than what the company ever confirmed.",
+        "pubDate": "2026-08-29T15:07:00Z",
+        "displayTime": "2026-08-29T15:07:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/86f46967c9c0eb9c69afbd83026cb600.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2560,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/4ZFHUzrQEBtgJQI2Z6z9tg--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/86f46967c9c0eb9c69afbd83026cb600.jpg",
+              "width": 3840,
+              "height": 2560,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/jzL8jTYdJhE80ivQYb3tdA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/86f46967c9c0eb9c69afbd83026cb600.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-sends-shocking-message-150700707.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b20f6a4e-529a-3f4b-9a48-bfb6b57253e4",
+      "content": {
+        "id": "b20f6a4e-529a-3f4b-9a48-bfb6b57253e4",
+        "contentType": "STORY",
+        "title": "Nobody's Talking About This Energy Company, but It's Quietly Signing the Power Deals Feeding the AI Build-Out",
+        "description": "",
+        "summary": "Clearway Energy is emerging as a key player in AI power.",
+        "pubDate": "2026-08-29T12:55:01Z",
+        "displayTime": "2026-08-29T12:55:01Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/28a718759daf7912e4320f64dfe558ed.jpg",
+          "originalWidth": 789,
+          "originalHeight": 443,
+          "caption": "Battery storage units with wind turbines and solar panels at a renewable energy facility",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Q.HPjvslSb9iciHrzElPUQ--~B/aD00NDM7dz03ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/28a718759daf7912e4320f64dfe558ed.jpg",
+              "width": 789,
+              "height": 443,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5WHYjPMBNyXXLZcqLIXzug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/28a718759daf7912e4320f64dfe558ed.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/29/nobody-s-talking-about-this-energy-company-but-it-s-quietly-signing-the-power-deals-feeding-the-ai-build-out/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/nobodys-talking-energy-company-quietly-125501756.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "cb2c8f1f-8bb7-3a19-bdee-e0ac044cb47f",
+      "content": {
+        "id": "cb2c8f1f-8bb7-3a19-bdee-e0ac044cb47f",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely?",
+        "description": "",
+        "summary": "Meta Platforms' open model strategy may not limit its ability to monetize AI.",
+        "pubDate": "2026-08-29T09:05:00Z",
+        "displayTime": "2026-08-29T09:05:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4d17f779ecca73c9d2496dc9f6ceed83.jpg",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "Professional analyzing charts on paper.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_RKkMvUquOLAFSnEnepI1g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4d17f779ecca73c9d2496dc9f6ceed83.jpg",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ueUsQNpY5dCqRZ2KIoKSag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4d17f779ecca73c9d2496dc9f6ceed83.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/29/mark-zuckerbergs-meta-just-open-sourced-its-most-p/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerbergs-meta-just-open-090500191.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c9aac5b0-7e8b-3faa-9a26-b2e6151231ab",
+      "content": {
+        "id": "c9aac5b0-7e8b-3faa-9a26-b2e6151231ab",
+        "contentType": "STORY",
+        "title": "How networking became the critical layer of AI",
+        "description": "",
+        "summary": "Investing.com -- Networking is replacing raw computing power as the main constraint on artificial intelligence performance as AI systems grow larger and more complex, Citi analysts said following the second day of the Hot Chips conference.",
+        "pubDate": "2026-08-29T07:16:54Z",
+        "displayTime": "2026-08-29T07:16:54Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d4d16353-bbed-3ddd-8126-f30cc2098875",
+      "content": {
+        "id": "d4d16353-bbed-3ddd-8126-f30cc2098875",
+        "contentType": "STORY",
+        "title": "Reddit (RDDT) Stock Looks Fairly Valued Following Fresh AI Content News",
+        "description": "",
+        "summary": "Reddit stock has had a weak start to the year, with the share price down 36.7% year to date, while broad valuation checks suggest the stock is not a clear bargain at current levels. The year to date decline of 36.7% raises the question of whether Reddit is now priced for too much caution or simply moving closer to a fairer trading range. The recent focus on Reddit content within Meta's planned Hatch AI agent can support long term monetisation hopes, while the key risk is that content...",
+        "pubDate": "2026-08-29T05:04:48Z",
+        "displayTime": "2026-08-29T05:04:48Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xKZCHxTsm6kriz0lkhqQFw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Jvs4zIxA.KLHoCaG3xST_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-stock-looks-fairly-050448877.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-stock-looks-fairly-050448877.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
       "id": "931a96e2-2863-3861-8731-54e2f6fbc4e1",
       "content": {
         "id": "931a96e2-2863-3861-8731-54e2f6fbc4e1",
@@ -1844,421 +2259,6 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/markets/stocks/articles/metas-9-9-jio-stake-222758011.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "76382372-e68a-33b7-8460-18cc96e7d06d",
-      "content": {
-        "id": "76382372-e68a-33b7-8460-18cc96e7d06d",
-        "contentType": "STORY",
-        "title": "What If AI Could Help Blind Workers See? Meta Glasses Are Transforming Warehouse Jobs While Drones Count Inventory in Minutes",
-        "description": "",
-        "summary": "AI-powered glasses and autonomous drones are helping visually impaired workers perform jobs on warehouse floors, as employers look for new ways to address staffing shortages. Bosma Enterprises is using tools including Meta Platforms smart glasses, drones, magnification software and screen...",
-        "pubDate": "2026-08-28T22:01:03Z",
-        "displayTime": "2026-08-28T22:01:03Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/506a8b3db092e8e77737d8e2cffdf36a.jpg",
-          "originalWidth": 1024,
-          "originalHeight": 576,
-          "caption": "What If AI Could Help Blind Workers See? Meta Glasses Are Transforming Warehouse Jobs While Drones Count Inventory in Minutes",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QgzMFSdFVhpFKHjo.K2R8g--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/506a8b3db092e8e77737d8e2cffdf36a.jpg",
-              "width": 1024,
-              "height": 576,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lsoxXAAUauEru.I8V.hSVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/506a8b3db092e8e77737d8e2cffdf36a.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/",
-          "sourceId": "benzinga_79"
-        },
-        "canonicalUrl": {
-          "url": "https://tech.yahoo.com/wearables/articles/ai-could-help-blind-workers-220103709.html",
-          "site": "tech",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://tech.yahoo.com/wearables/articles/ai-could-help-blind-workers-220103709.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2d5e75df-7dff-315e-8700-824e54cea6a1",
-      "content": {
-        "id": "2d5e75df-7dff-315e-8700-824e54cea6a1",
-        "contentType": "STORY",
-        "title": "The Historical Record For Buying AppLovin Stock Dips Carries A Warning",
-        "description": "",
-        "summary": "The ad-tech firm's shares have pulled back, but history suggests that simply buying on weakness here has been a painful trade.",
-        "pubDate": "2026-08-28T21:39:24Z",
-        "displayTime": "2026-08-28T21:39:24Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/353f69088f82ad4d328cdadfbac56d9b.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/PAyuxfnWrUxRWzMs2ZnZCQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/353f69088f82ad4d328cdadfbac56d9b.jpg",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/klDJUvwGvvjBnlGUcSZYAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/353f69088f82ad4d328cdadfbac56d9b.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/",
-          "sourceId": "trefis_142"
-        },
-        "canonicalUrl": {
-          "url": "https://www.trefis.com/articles/613485/the-historical-record-for-buying-applovin-stock-dips-carries-a-warning/2026-08-28",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/historical-record-buying-applovin-stock-213924177.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c24bf905-30ac-3246-a11c-0c52916a50ef",
-      "content": {
-        "id": "c24bf905-30ac-3246-a11c-0c52916a50ef",
-        "contentType": "STORY",
-        "title": "Chamber Of Commerce Backs Meta In Monopoly Battle",
-        "description": "",
-        "summary": "The Chamber of Commerce is urging an appellate court to reject the FTC's attempt to revive charges that Meta violated antitrust law by monopolizing a market for \"personal social networking services.\"",
-        "pubDate": "2026-08-28T20:51:13Z",
-        "displayTime": "2026-08-28T20:51:13Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MediaPost",
-          "url": "https://www.mediapost.com/",
-          "sourceId": "mediapost_446"
-        },
-        "canonicalUrl": {
-          "url": "https://www.mediapost.com/publications/article/417544/chamber-of-commerce-backs-meta-in-monopoly-battle.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/chamber-commerce-backs-meta-monopoly-205113991.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "89915a24-bce0-3c1d-aa5d-5f9f0c46f0b6",
-      "content": {
-        "id": "89915a24-bce0-3c1d-aa5d-5f9f0c46f0b6",
-        "contentType": "STORY",
-        "title": "Microsoft Just Gained 14% in a Month: Take Profits, or Buy More?",
-        "description": "",
-        "summary": "Microsoft just posted one of the strongest months in mega-cap tech, but the timing raises a question that cuts both ways for shareholders sitting on fresh gains.",
-        "pubDate": "2026-08-28T19:06:57Z",
-        "displayTime": "2026-08-28T19:06:57Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/104b52457e17f394c2207527466f6119.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YgqtP6T5MrXx2hegUE78JA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/104b52457e17f394c2207527466f6119.jpg",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hofEWgxR.79r59f6eiMolQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/104b52457e17f394c2207527466f6119.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/28/microsoft-just-gained-14-in-a-month-take-profits-or-buy-more/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-gained-14-month-190657590.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "62ce247a-61d7-3486-8654-cf403b8d84ec",
-      "content": {
-        "id": "62ce247a-61d7-3486-8654-cf403b8d84ec",
-        "contentType": "STORY",
-        "title": "Meta’s AI Gamble Gets Bigger After the Company Considered Slashing Teams Again. What That Means for META Stock",
-        "description": "",
-        "summary": "Meta explored cutting some teams by as much as 60% as it pushed an aggressive AI restructuring strategy, highlighting both the potential and risks of automation.",
-        "pubDate": "2026-08-28T19:04:44Z",
-        "displayTime": "2026-08-28T19:04:44Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/3f59d1a818153fa0f45dbccb16441b39.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 1068,
-          "caption": "Image of Mark Zuckerberg by Frederic Legrand - COMEO via Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Yvo662eI8_NIC.jA2GzV6w--~B/aD0xMDY4O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/3f59d1a818153fa0f45dbccb16441b39.jpg",
-              "width": 1600,
-              "height": 1068,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xnxSVKP6g3TtvUSE_wesCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/3f59d1a818153fa0f45dbccb16441b39.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/4326387/metas-ai-gamble-gets-bigger-after-the-company-considered-slashing-teams-again-what-that-means-for-meta-stock",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-gamble-gets-bigger-190444252.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "dd536196-fe6f-35b1-901b-9f7dcf15bc4f",
-      "content": {
-        "id": "dd536196-fe6f-35b1-901b-9f7dcf15bc4f",
-        "contentType": "STORY",
-        "title": "Meta Platforms (META) Just Called a Potential Loss “Astronomical.” Here’s What’s at Stake in California",
-        "description": "",
-        "summary": "Opening arguments began in a California-led trial against Meta Platforms, Inc. (NASDAQ:META), brought by a coalition of 29 state attorneys general alleging the company designed Facebook and Instagram to be addictive to children and teens. New Mexico’s attorney general warned the consequences for Meta could be “astronomical.” Why This Matters Meta already lost a case […]",
-        "pubDate": "2026-08-28T16:53:59Z",
-        "displayTime": "2026-08-28T16:53:59Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/3bb8ee25366b0d99cae297f8032c1254.jpg",
-          "originalWidth": 768,
-          "originalHeight": 430,
-          "caption": "Meta Platforms, Inc. (META) Just Called a Potential Loss \"Astronomical.\" Here's What's at Stake in California",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/7Md3W7QcIgL5u9gPSPe9DA--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3bb8ee25366b0d99cae297f8032c1254.jpg",
-              "width": 768,
-              "height": 430,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Hc_OhzxmnmICj_8pqwgndA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3bb8ee25366b0d99cae297f8032c1254.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-just-called-165359951.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-just-called-165359951.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c9ffaf70-9411-34a7-ae0b-7847c0036a24",
-      "content": {
-        "id": "c9ffaf70-9411-34a7-ae0b-7847c0036a24",
-        "contentType": "STORY",
-        "title": "Alibaba (BABA) Just Answered Meta Platforms (META)’s Open-Weight AI Challenge. The Download Numbers Aren’t Close",
-        "description": "",
-        "summary": "On August 17, 2026, Alibaba Group Holding Limited (NYSE:BABA) launched a new AI model designed to run on laptops and released the weights of its most powerful model, Qwen3.8-Max. It directly answers Meta Platforms, Inc. (NASDAQ:META)’s own push into open-weight AI models built for consumer devices. Why This Matters Alibaba and Meta are both racing […]",
-        "pubDate": "2026-08-28T16:50:20Z",
-        "displayTime": "2026-08-28T16:50:20Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/090170be12ef840f77e8d544392228a0.jpg",
-          "originalWidth": 1456,
-          "originalHeight": 816,
-          "caption": "Alibaba (BABA) Just Answered Meta Platforms (META)'s Open-Weight AI Challenge. The Download Numbers Aren't Close",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/M9bwS4N_n40_JEbMfV6iig--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/090170be12ef840f77e8d544392228a0.jpg",
-              "width": 1456,
-              "height": 816,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Hgo_Ob894z0njHT3HmNKaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/090170be12ef840f77e8d544392228a0.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-just-answered-meta-165020500.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-just-answered-meta-165020500.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
