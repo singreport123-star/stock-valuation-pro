@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-08-29T23:47:16.598486",
+    "ts": "2026-08-31T00:06:07.631422",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -146,17 +146,17 @@
     "regularMarketDayLow": 571.08,
     "regularMarketDayHigh": 589.19,
     "dividendRate": 2.1,
-    "dividendYield": 0.37,
+    "dividendYield": 0.36,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 21.503721,
+    "trailingPE": 21.78741,
     "forwardPE": 16.533915,
-    "volume": 15573685,
-    "regularMarketVolume": 15573685,
-    "averageVolume": 18534545,
-    "averageVolume10days": 16716780,
-    "averageDailyVolume10Day": 16716780,
+    "volume": 16032439,
+    "regularMarketVolume": 16032439,
+    "averageVolume": 18494604,
+    "averageVolume10days": 17442810,
+    "averageDailyVolume10Day": 17442810,
     "bid": 555.0,
     "ask": 578.88,
     "bidSize": 1,
@@ -171,8 +171,8 @@
     "fulldayChange": 6.92004,
     "fulldayChangePercent": 1.2117,
     "priceToSalesTrailing12Months": 6.451386,
-    "fiftyDayAverage": 591.9354,
-    "twoHundredDayAverage": 622.9902,
+    "fiftyDayAverage": 592.1442,
+    "twoHundredDayAverage": 622.72144,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0036771144,
     "currency": "USD",
@@ -187,7 +187,7 @@
     "dateShortInterest": 1786665600,
     "sharesPercentSharesOut": 0.011,
     "heldPercentInsiders": 0.00148,
-    "heldPercentInstitutions": 0.79037005,
+    "heldPercentInstitutions": 0.79042,
     "shortRatio": 1.73,
     "shortPercentOfFloat": 0.0127,
     "impliedSharesOutstanding": 2547506225,
@@ -198,20 +198,20 @@
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.88,
+    "trailingEps": 26.53,
     "forwardEps": 34.95966,
     "pegRatio": 0.85,
     "enterpriseToRevenue": 6.548,
     "enterpriseToEbitda": 13.63,
-    "52WeekChange": -0.22310948,
-    "SandP52WeekChange": 0.20504117,
+    "52WeekChange": -0.21369588,
+    "SandP52WeekChange": 0.20204377,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
     "currentPrice": 578.02,
     "targetHighPrice": 1000.0,
     "targetLowPrice": 580.0,
-    "targetMeanPrice": 754.7214,
+    "targetMeanPrice": 754.77405,
     "targetMedianPrice": 750.0,
     "recommendationMean": 1.35484,
     "recommendationKey": "strong_buy",
@@ -243,36 +243,18 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "CLOSED",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "longName": "Meta Platforms, Inc.",
-    "regularMarketChangePercent": 1.2117,
-    "regularMarketPrice": 578.02,
-    "shortName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1787961599,
-    "regularMarketTime": 1787947201,
-    "exchange": "NMS",
     "postMarketChangePercent": 0.057083845,
     "postMarketPrice": 578.35,
     "postMarketChange": 0.32995605,
     "regularMarketChange": 6.92004,
     "regularMarketDayRange": "571.08 - 589.19",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18534545,
+    "averageDailyVolume3Month": 18494604,
     "fiftyTwoWeekLowChange": 57.76001,
     "fiftyTwoWeekLowChangePercent": 0.11102143,
     "fiftyTwoWeekRange": "520.26 - 790.8",
     "fiftyTwoWeekHighChange": -212.77997,
     "fiftyTwoWeekHighChangePercent": -0.26906925,
-    "fiftyTwoWeekChangePercent": -22.310947,
+    "fiftyTwoWeekChangePercent": -21.369589,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -280,14 +262,29 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.88,
+    "epsTrailingTwelveMonths": 26.53,
     "epsForward": 34.95966,
-    "epsCurrentYear": 31.18,
-    "priceEpsCurrentYear": 18.538166,
-    "fiftyDayAverageChange": -13.915405,
-    "fiftyDayAverageChangePercent": -0.023508316,
-    "twoHundredDayAverageChange": -44.970154,
-    "twoHundredDayAverageChangePercent": -0.07218437,
+    "epsCurrentYear": 31.15813,
+    "priceEpsCurrentYear": 18.551178,
+    "gmtOffSetMilliseconds": -14400000,
+    "esgPopulated": false,
+    "corporateActions": [],
+    "postMarketTime": 1787961599,
+    "regularMarketTime": 1787947201,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "market": "us_market",
+    "regularMarketChangePercent": 1.2117,
+    "regularMarketPrice": 578.02,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "fullExchangeName": "NasdaqGS",
+    "fiftyDayAverageChange": -14.124207,
+    "fiftyDayAverageChangePercent": -0.023852646,
+    "twoHundredDayAverageChange": -44.701416,
+    "twoHundredDayAverageChangePercent": -0.07178397,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
@@ -295,6 +292,9 @@
     "nameChangeDate": "2026-08-29",
     "averageAnalystRating": "1.4 - Strong Buy",
     "cryptoTradeable": false,
+    "marketState": "CLOSED",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8526
   },
@@ -1691,13 +1691,313 @@
       ],
       "Earnings High": 7.64,
       "Earnings Low": 6.31,
-      "Earnings Average": 6.93154,
+      "Earnings Average": 6.97333,
       "Revenue High": 65278000000,
       "Revenue Low": 61702000000,
-      "Revenue Average": 63314915800
+      "Revenue Average": 63315198780
     }
   },
   "news": [
+    {
+      "id": "d6788e84-4152-3b11-9076-77d0bf70a329",
+      "content": {
+        "id": "d6788e84-4152-3b11-9076-77d0bf70a329",
+        "contentType": "STORY",
+        "title": "Musk, Altman, Huang All Set to Speak at US-Hosted G20 Tech Meeting",
+        "description": "",
+        "summary": "Elon Musk, Sam Altman and Jensen Huang will share billing at a technology-focused Group of 20 ministerial meeting in North Carolina next week, according to Reuters. The gathering marks one of the few times that Tesla Inc. and SpaceX chief...",
+        "pubDate": "2026-08-30T22:31:26Z",
+        "displayTime": "2026-08-30T22:31:26Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/b49459551e3d459e61f694b50b6ab882.jpg",
+          "originalWidth": 1024,
+          "originalHeight": 412,
+          "caption": "Musk, Altman, Huang All Set to Speak at US-Hosted G20 Tech Meeting",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Ci7xd7kGfo1pSpCojVj_1A--~B/aD00MTI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/b49459551e3d459e61f694b50b6ab882.jpg",
+              "width": 1024,
+              "height": 412,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/waHCE1tI6n7bTkTU9G_XfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/b49459551e3d459e61f694b50b6ab882.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/musk-altman-huang-set-speak-223126177.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/musk-altman-huang-set-speak-223126177.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ab83c5f9-d195-361b-9660-c966f9da62b5",
+      "content": {
+        "id": "ab83c5f9-d195-361b-9660-c966f9da62b5",
+        "contentType": "STORY",
+        "title": "Meta Stock And Founder Led Peers Built For Higher Rates",
+        "description": "",
+        "summary": "With euro area inflation readings staying elevated, central banks are signalling that higher rates could remain a feature rather than a brief detour. In a market where money has a clearer price, investors often pay closer attention to leadership quality and alignment. Founder led companies can look appealing when the cost of mistakes rises. This article highlights three founder led stocks from our screener that show how that story can play out. The three founder led stocks covered next are...",
+        "pubDate": "2026-08-30T20:18:35Z",
+        "displayTime": "2026-08-30T20:18:35Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nCAI77amckTuvVDu_618MQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ba6AOYNIX1c_OX_7XUvNcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-founder-led-peers-201835477.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-founder-led-peers-201835477.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "67d1e8d9-caef-3d86-9409-7afd80c48d12",
+      "content": {
+        "id": "67d1e8d9-caef-3d86-9409-7afd80c48d12",
+        "contentType": "STORY",
+        "title": "Meta Settlement a Start, But Incomplete: Lawmakers",
+        "description": "",
+        "summary": "Connecticut Democratic Sen. Richard Blumenthal says last week's $17 billion settlement by Meta Platforms over social media addiction was a welcome step forward, but incomplete.  Blumenthal, who is co-sponsoring the Kids Online Safety Act with Tennessee Republican Marsha Blackburn, said the settlement pertains to Meta only, not YouTube or TikTok, that it limits only some of the addictive features on social media platforms, and it only lasts for 10 years.  \"It will not keep pace with an evolving technology,\" Blumenthal told CBS News' Face the Nation.",
+        "pubDate": "2026-08-30T15:49:16Z",
+        "displayTime": "2026-08-30T15:49:16Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/67d1e8d9-caef-3d86-9409-7afd80c48d12/meta-settlement-a-start-but.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+          "originalWidth": 320,
+          "originalHeight": 65,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3seIyMYRD0699UBVb3FN8A--~B/aD02NTt3PTMyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+              "width": 320,
+              "height": 65,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/livecoverage/sunday0830/card/meta-settlement-a-start-but-incomplete-senator-qyakzyMU0CkIRrvumww0?siteid=yhoof2&yptr=yahoo",
+          "site": "news",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ca400218-5a33-3b8d-9363-3ecc359d2237",
+      "content": {
+        "id": "ca400218-5a33-3b8d-9363-3ecc359d2237",
+        "contentType": "STORY",
+        "title": "Meta’s Day of Reckoning",
+        "description": "",
+        "summary": "Plus, gauging the effectiveness of school phone bans, how the fallen ‘Nostradamus of AI’ got to the top of tech, Nvidia wants to run the world’s robots and more.",
+        "pubDate": "2026-08-30T14:55:00Z",
+        "displayTime": "2026-08-30T14:55:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/ca400218-5a33-3b8d-9363-3ecc359d2237/meta%E2%80%99s-day-of-reckoning.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/d8cbf32432e27255275c6ea95b4f7aa2.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/T06y_OczWJpeJWVbKoaTgg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d8cbf32432e27255275c6ea95b4f7aa2.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/hFoJaeaJ42KXK7MZdEsXSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d8cbf32432e27255275c6ea95b4f7aa2.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/tech/ai/metas-day-of-reckoning-aec1f826?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "beae2440-be3e-3658-bd8d-db37a8468211",
+      "content": {
+        "id": "beae2440-be3e-3658-bd8d-db37a8468211",
+        "contentType": "STORY",
+        "title": "Meta Will Pay $17 Billion to Settle a Federal Lawsuit. Here’s My Prediction of Where the Stock Will Go From Here.",
+        "description": "",
+        "summary": "The suit represented an uncertainty for the company and shareholders.",
+        "pubDate": "2026-08-30T08:15:01Z",
+        "displayTime": "2026-08-30T08:15:01Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/1331c608ce1a0fad31fcd478aa12a6b6.jpg",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "A person's hands are shown holding a phone in front of a laptop displaying a stock chart. ",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yQVDOmErWnR_0gNrsdSRuA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1331c608ce1a0fad31fcd478aa12a6b6.jpg",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZRJJlDRQRjA2mwrcDfqvpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1331c608ce1a0fad31fcd478aa12a6b6.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/08/30/meta-will-pay-usd17-billion-to-settle-a-federal-lawsuit-here-s-my-prediction-of-where-the-stock-will-go-from-here/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-pay-17-billion-settle-081501297.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
     {
       "id": "ba48c79a-43da-33b0-87a6-50539fb4f101",
       "content": {
@@ -1947,32 +2247,32 @@
       }
     },
     {
-      "id": "cb2c8f1f-8bb7-3a19-bdee-e0ac044cb47f",
+      "id": "8e8a23cf-2b98-3a5b-ad45-028685c5c84a",
       "content": {
-        "id": "cb2c8f1f-8bb7-3a19-bdee-e0ac044cb47f",
+        "id": "8e8a23cf-2b98-3a5b-ad45-028685c5c84a",
         "contentType": "STORY",
-        "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely?",
+        "title": "MarketBeat Week in Review – 08/24 - 08/28",
         "description": "",
-        "summary": "Meta Platforms' open model strategy may not limit its ability to monetize AI.",
-        "pubDate": "2026-08-29T09:05:00Z",
-        "displayTime": "2026-08-29T09:05:00Z",
+        "summary": "MarketBeat analysts recap a mixed earnings week, covering AI infrastructure demand, retail's K-shaped consumer trends, Meta's $18 billion settlement, and stock picks across tech, biotech, and retail sectors.",
+        "pubDate": "2026-08-29T11:00:00Z",
+        "displayTime": "2026-08-29T11:00:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4d17f779ecca73c9d2496dc9f6ceed83.jpg",
+          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/cf47917fa3c492d5b3887e7e08095f57.jpg",
           "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "Professional analyzing charts on paper.",
+          "originalHeight": 670,
+          "caption": "Bronze bull and bear statues face off in an urban financial district at sunset.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_RKkMvUquOLAFSnEnepI1g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4d17f779ecca73c9d2496dc9f6ceed83.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/CrjuoGT1JxdQnMPdUir_cA--~B/aD02NzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/cf47917fa3c492d5b3887e7e08095f57.jpg",
               "width": 1200,
-              "height": 800,
+              "height": 670,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ueUsQNpY5dCqRZ2KIoKSag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4d17f779ecca73c9d2496dc9f6ceed83.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/o8zKM4.kai.Ijrrfq2Czbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/cf47917fa3c492d5b3887e7e08095f57.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1980,285 +2280,18 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "MarketBeat",
+          "url": "https://www.marketbeat.com/",
+          "sourceId": "marketbeat_955"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/29/mark-zuckerbergs-meta-just-open-sourced-its-most-p/",
+          "url": "https://www.marketbeat.com/articles/marketbeat-week-in-review-08-24-08-28/?utm_source=yahoofinance&utm_medium=yahoofinance",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerbergs-meta-just-open-090500191.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c9aac5b0-7e8b-3faa-9a26-b2e6151231ab",
-      "content": {
-        "id": "c9aac5b0-7e8b-3faa-9a26-b2e6151231ab",
-        "contentType": "STORY",
-        "title": "How networking became the critical layer of AI",
-        "description": "",
-        "summary": "Investing.com -- Networking is replacing raw computing power as the main constraint on artificial intelligence performance as AI systems grow larger and more complex, Citi analysts said following the second day of the Hot Chips conference.",
-        "pubDate": "2026-08-29T07:16:54Z",
-        "displayTime": "2026-08-29T07:16:54Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d4d16353-bbed-3ddd-8126-f30cc2098875",
-      "content": {
-        "id": "d4d16353-bbed-3ddd-8126-f30cc2098875",
-        "contentType": "STORY",
-        "title": "Reddit (RDDT) Stock Looks Fairly Valued Following Fresh AI Content News",
-        "description": "",
-        "summary": "Reddit stock has had a weak start to the year, with the share price down 36.7% year to date, while broad valuation checks suggest the stock is not a clear bargain at current levels. The year to date decline of 36.7% raises the question of whether Reddit is now priced for too much caution or simply moving closer to a fairer trading range. The recent focus on Reddit content within Meta's planned Hatch AI agent can support long term monetisation hopes, while the key risk is that content...",
-        "pubDate": "2026-08-29T05:04:48Z",
-        "displayTime": "2026-08-29T05:04:48Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857.jpg",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xKZCHxTsm6kriz0lkhqQFw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857.jpg",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Jvs4zIxA.KLHoCaG3xST_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-stock-looks-fairly-050448877.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-stock-looks-fairly-050448877.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "931a96e2-2863-3861-8731-54e2f6fbc4e1",
-      "content": {
-        "id": "931a96e2-2863-3861-8731-54e2f6fbc4e1",
-        "contentType": "STORY",
-        "title": "Meta Is Down 27%. One Analyst Sees a $22 Billion AI Business Hiding in Plain Sight",
-        "description": "",
-        "summary": "Meta Platforms, Inc. (NASDAQ:META) has fallen around 27% from its 2025 high as investors question how quickly its huge AI spending will pay back. Evercore ISI analyst Mark Mahaney now sees a strange optional answer hiding inside that spending: Meta could eventually rent a small slice of excess AI compute and create an $11 billion […]",
-        "pubDate": "2026-08-29T03:04:38Z",
-        "displayTime": "2026-08-29T03:04:38Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/2789a9f903e10b49fcb49a5f127bafb2.jpg",
-          "originalWidth": 5184,
-          "originalHeight": 2916,
-          "caption": "Meta Is Down 27%. One Analyst Sees a $22 Billion AI Business Hiding in Plain Sight",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mxPiUvhdUbmNaRWxljeN4g--~B/aD0yOTE2O3c9NTE4NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/2789a9f903e10b49fcb49a5f127bafb2.jpg",
-              "width": 5184,
-              "height": 2916,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/oP60yk2k3_2CipB4KDXRsQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2789a9f903e10b49fcb49a5f127bafb2.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-down-27-one-analyst-030438553.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-down-27-one-analyst-030438553.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "601ba381-af35-348e-93ed-b6fcef529668",
-      "content": {
-        "id": "601ba381-af35-348e-93ed-b6fcef529668",
-        "contentType": "STORY",
-        "title": "Dick’s Hit by a Footware Apocalypse",
-        "description": "",
-        "summary": "Dick’s Sporting Goods Dick’s Sporting Goods  has a sneaker problem and footwear stocks are feeling the pinch.  Shares of the sporting goods retailer fell more than 25% after reporting second-quarter earnings, its largest percentage decrease on record, according to Dow Jones Market Data, and its lowest close since late 2023.  The retailer’s bad day sent footwear stocks tumbling.",
-        "pubDate": "2026-08-28T23:52:00Z",
-        "displayTime": "2026-08-28T23:52:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/601ba381-af35-348e-93ed-b6fcef529668/dick%E2%80%99s-hit-by-a-footware.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/6db87a847f4ff2afe7d08765387e70a7.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/xvsRSgf5N.IJDw6aHehMrg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6db87a847f4ff2afe7d08765387e70a7.jpg",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rB35k7cGTvxvUSneTHnnZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/6db87a847f4ff2afe7d08765387e70a7.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/dicks-hit-by-a-footware-apocalypse-a0c47825?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7d3671d8-cd8c-33a7-a2a6-59424bbd5733",
-      "content": {
-        "id": "7d3671d8-cd8c-33a7-a2a6-59424bbd5733",
-        "contentType": "STORY",
-        "title": "Meta's 9.9% Jio Stake Finally Gets a Public Scoreboard",
-        "description": "",
-        "summary": "India's regulator approved a $3.8 billion IPO that will establish a market benchmark for Meta's strategic investment.",
-        "pubDate": "2026-08-28T22:27:58Z",
-        "displayTime": "2026-08-28T22:27:58Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/metas-9-9-jio-stake-222758011.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/metas-9-9-jio-stake-222758011.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-24-110000738.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
