@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-09-01T00:56:06.169725",
+    "ts": "2026-09-01T23:42:51.833918",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -132,52 +132,52 @@
     "compensationRisk": 10,
     "shareHolderRightsRisk": 10,
     "overallRisk": 10,
-    "governanceEpochDate": 1785542400,
+    "governanceEpochDate": 1788220800,
     "compensationAsOfEpochDate": 1767139200,
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 578.02,
-    "open": 576.77,
-    "dayLow": 569.1386,
-    "dayHigh": 578.675,
-    "regularMarketPreviousClose": 578.02,
-    "regularMarketOpen": 576.77,
-    "regularMarketDayLow": 569.1386,
-    "regularMarketDayHigh": 578.675,
+    "previousClose": 572.34,
+    "open": 557.8,
+    "dayLow": 556.29,
+    "dayHigh": 584.9,
+    "regularMarketPreviousClose": 572.34,
+    "regularMarketOpen": 557.8,
+    "regularMarketDayLow": 556.29,
+    "regularMarketDayHigh": 584.9,
     "dividendRate": 2.1,
-    "dividendYield": 0.36,
+    "dividendYield": 0.37,
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 21.786829,
-    "forwardPE": 16.37144,
-    "volume": 13275274,
-    "regularMarketVolume": 13275274,
-    "averageVolume": 18494604,
-    "averageVolume10days": 17442810,
-    "averageDailyVolume10Day": 17442810,
-    "bid": 570.98,
-    "ask": 595.28,
-    "bidSize": 4,
+    "trailingPE": 21.807009,
+    "forwardPE": 16.548788,
+    "volume": 15369187,
+    "regularMarketVolume": 15369187,
+    "averageVolume": 18244552,
+    "averageVolume10days": 17058800,
+    "averageDailyVolume10Day": 17058800,
+    "bid": 570.24,
+    "ask": 609.0,
+    "bidSize": 2,
     "askSize": 1,
-    "marketCap": 1458039816192,
+    "marketCap": 1473834123264,
     "nonDilutedMarketCap": 1454880805096,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 790.8,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 572.0,
-    "fulldayChange": -5.630005,
-    "fulldayChangePercent": -0.97401553,
-    "priceToSalesTrailing12Months": 6.3879914,
-    "fiftyDayAverage": 592.1442,
-    "twoHundredDayAverage": 622.72144,
+    "fulldayPrice": 577.9,
+    "fulldayChange": 5.5599976,
+    "fulldayChangePercent": 0.9714501,
+    "priceToSalesTrailing12Months": 6.4571896,
+    "fiftyDayAverage": 592.0466,
+    "twoHundredDayAverage": 622.44775,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.003633092,
+    "trailingAnnualDividendYield": 0.0036691474,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1494567485440,
+    "enterpriseValue": 1480097660928,
     "profitMargins": 0.29834998,
     "floatShares": 2201733205,
     "sharesOutstanding": 2205128509,
@@ -187,28 +187,28 @@
     "dateShortInterest": 1786665600,
     "sharesPercentSharesOut": 0.011,
     "heldPercentInsiders": 0.00148,
-    "heldPercentInstitutions": 0.79042,
+    "heldPercentInstitutions": 0.79052,
     "shortRatio": 1.73,
     "shortPercentOfFloat": 0.0127,
     "impliedSharesOutstanding": 2547506225,
     "bookValue": 102.52,
-    "priceToBook": 5.582716,
+    "priceToBook": 5.6431913,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.27,
+    "trailingEps": 26.53,
     "forwardEps": 34.95966,
-    "pegRatio": 0.85,
-    "enterpriseToRevenue": 6.548,
-    "enterpriseToEbitda": 13.63,
-    "52WeekChange": -0.21369588,
-    "SandP52WeekChange": 0.20204377,
+    "pegRatio": 0.87,
+    "enterpriseToRevenue": 6.485,
+    "enterpriseToEbitda": 13.498,
+    "52WeekChange": -0.22142267,
+    "SandP52WeekChange": 0.19805038,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 572.34,
+    "currentPrice": 578.54,
     "targetHighPrice": 1000.0,
     "targetLowPrice": 580.0,
     "targetMeanPrice": 754.77405,
@@ -243,27 +243,18 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "POSTPOST",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18494604,
-    "fiftyTwoWeekLowChange": 52.080017,
-    "fiftyTwoWeekLowChangePercent": 0.100103825,
-    "fiftyTwoWeekRange": "520.26 - 790.8",
-    "fiftyTwoWeekHighChange": -218.45996,
-    "fiftyTwoWeekHighChangePercent": -0.27625185,
-    "fiftyTwoWeekChangePercent": -21.369589,
-    "postMarketChangePercent": -0.05940994,
-    "postMarketPrice": 572.0,
-    "postMarketChange": -0.34002686,
-    "regularMarketChange": -5.67999,
-    "regularMarketDayRange": "569.1386 - 578.675",
-    "regularMarketChangePercent": -0.982664,
-    "regularMarketPrice": 572.34,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1788220797,
-    "regularMarketTime": 1788206401,
+    "priceEpsCurrentYear": 18.567865,
+    "fiftyDayAverageChange": -13.506592,
+    "fiftyDayAverageChangePercent": -0.022813395,
+    "twoHundredDayAverageChange": -43.907776,
+    "twoHundredDayAverageChangePercent": -0.0705405,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-09-01",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -271,6 +262,27 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
+    "regularMarketChangePercent": 1.0832635,
+    "regularMarketPrice": 578.54,
+    "marketState": "POST",
+    "corporateActions": [],
+    "postMarketTime": 1788306146,
+    "regularMarketTime": 1788292801,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": -0.110615276,
+    "postMarketPrice": 577.9,
+    "postMarketChange": -0.6399536,
+    "regularMarketChange": 6.199951,
+    "regularMarketDayRange": "556.29 - 584.9",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 18244552,
+    "fiftyTwoWeekLowChange": 58.27997,
+    "fiftyTwoWeekLowChangePercent": 0.11202085,
+    "fiftyTwoWeekRange": "520.26 - 790.8",
+    "fiftyTwoWeekHighChange": -212.26001,
+    "fiftyTwoWeekHighChangePercent": -0.26841176,
+    "fiftyTwoWeekChangePercent": -22.142267,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -278,23 +290,11 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.27,
+    "epsTrailingTwelveMonths": 26.53,
     "epsForward": 34.95966,
     "epsCurrentYear": 31.15813,
-    "priceEpsCurrentYear": 18.368881,
-    "fiftyDayAverageChange": -19.8042,
-    "fiftyDayAverageChangePercent": -0.033444893,
-    "twoHundredDayAverageChange": -50.38141,
-    "twoHundredDayAverageChangePercent": -0.080905214,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-08-31",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8526
   },
@@ -1699,32 +1699,32 @@
   },
   "news": [
     {
-      "id": "945ac5da-20dc-46d7-a063-625092c3cba1",
+      "id": "9a784327-401d-4324-9584-65fc1e32aea9",
       "content": {
-        "id": "945ac5da-20dc-46d7-a063-625092c3cba1",
-        "contentType": "STORY",
-        "title": "Here comes the AI capex shocker, Goldman Sachs says",
-        "description": "",
-        "summary": "Big spending on AI is poised to continue well into 2027.",
-        "pubDate": "2026-08-31T17:10:26Z",
-        "displayTime": "2026-08-31T17:10:26Z",
+        "id": "9a784327-401d-4324-9584-65fc1e32aea9",
+        "contentType": "VIDEO",
+        "title": "How Mark Zuckerberg and Elon Musk made the case for AI at the G20 meeting",
+        "description": "<p>Yahoo Finance Fed Correspondent Jennifer Schonberger joins Market Domination host Josh Lipton to report on Meta (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/META/\" data-i13n=\"slk:META;cpos:1;pos:1\">META</a>) CEO Mark Zuckerberg and SpaceX (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/SPCX/\" data-i13n=\"cpos:2;pos:1\">SPCX</a>) CEO Elon Musk speaking on the projected benefits of AI, including job growth and boosting the global economy by 20 to 30%, at the G20 Innovation Ministerial in Chapel Hill, N.C.</p>",
+        "summary": "Yahoo Finance Fed Correspondent Jennifer Schonberger joins Market Domination host Josh Lipton to report on Meta (META) CEO Mark Zuckerberg and SpaceX (SPCX) CEO Elon Musk speaking on the projected benefits of AI, including job growth and boosting the global economy by 20 to 30%, at the G20 Innovation Ministerial in Chapel Hill, N.C.",
+        "pubDate": "2026-09-01T20:01:54Z",
+        "displayTime": "",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/vjlLmowEwWv.eKCInJb.GA--~B/aD03ODc3O3c9MTE4MTY7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/855658b7-1afa-4e92-bb13-0527576dceaa",
-          "originalWidth": 11816,
-          "originalHeight": 7877,
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/YvXry7GUlZJtgeCFQ0T9LA--~B/aD0zMjYwO3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/579614f0-e46a-4087-9558-39d63b776b85_6b5f6694eaa1983b5ced7956bbe49bb85fbcd8f1827f10221efad8ff44df0903.jpg",
+          "originalWidth": 5796,
+          "originalHeight": 3260,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/vjlLmowEwWv.eKCInJb.GA--~B/aD03ODc3O3c9MTE4MTY7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/855658b7-1afa-4e92-bb13-0527576dceaa",
-              "width": 11816,
-              "height": 7877,
+              "url": "https://s.yimg.com/uu/api/res/1.2/YvXry7GUlZJtgeCFQ0T9LA--~B/aD0zMjYwO3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/579614f0-e46a-4087-9558-39d63b776b85_6b5f6694eaa1983b5ced7956bbe49bb85fbcd8f1827f10221efad8ff44df0903.jpg",
+              "width": 5796,
+              "height": 3260,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/guPmZM_Pc.ZpxJWJvetQ_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/855658b7-1afa-4e92-bb13-0527576dceaa",
+              "url": "https://s.yimg.com/uu/api/res/1.2/t6vcgtjzj9p2Yzm0sgTvrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/579614f0-e46a-4087-9558-39d63b776b85_6b5f6694eaa1983b5ced7956bbe49bb85fbcd8f1827f10221efad8ff44df0903.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1732,18 +1732,18 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/",
+          "sourceId": "video.yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/here-comes-the-ai-capex-shocker-goldman-sachs-says-171026577.html",
+          "url": "https://finance.yahoo.com/video/how-mark-zuckerberg-and-elon-musk-made-the-case-for-ai-at-the-g20-meeting-200154913.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/here-comes-the-ai-capex-shocker-goldman-sachs-says-171026577.html",
+          "url": "https://finance.yahoo.com/video/how-mark-zuckerberg-and-elon-musk-made-the-case-for-ai-at-the-g20-meeting-200154913.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1761,14 +1761,14 @@
           "storylineItems": [
             {
               "content": {
-                "id": "51cd2936-5554-4a4b-873f-4136f8f533ea",
+                "id": "585b303b-a0ac-42f9-8c22-0f7fb5de5580",
                 "contentType": "VIDEO",
                 "isHosted": true,
-                "title": "Was the market's reaction to Alphabet’s earnings overblown?",
+                "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
                 "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/8zH0eEUv4il9MMl7sFlp0Q--~B/aD0xNjg3O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/daae2ba1-2df6-483a-87b2-2feb625c6488_e8d3edd310fe617973358171af79d28dabcdc9526a10c478021806c5a2495d0f.jpg",
-                  "originalWidth": 3000,
-                  "originalHeight": 1687,
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/hGIdNlNKZnxfMKKo8K9YPA--~B/aD0zMDkzO3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/98bc09fc-ef0b-42fd-b36a-5276fca6dc4f_481462261a9874006fb614e719c988993696ad2643b37ff58e14415ebbc7dd58.jpg",
+                  "originalWidth": 5500,
+                  "originalHeight": 3093,
                   "caption": "",
                   "resolutions": null
                 },
@@ -1779,37 +1779,37 @@
                 "previewUrl": null,
                 "providerContentUrl": "",
                 "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/markets-reaction-alphabet-earnings-overblown-144415674.html"
+                  "url": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html"
                 },
                 "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/markets-reaction-alphabet-earnings-overblown-144415674.html"
+                  "url": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html"
                 }
               }
             },
             {
               "content": {
-                "id": "50d9bfa1-3f3a-41e3-907a-70f87b1322d3",
-                "contentType": "VIDEO",
+                "id": "b392597e-1e96-4d9f-8afa-f898f50b2343",
+                "contentType": "STORY",
                 "isHosted": true,
-                "title": "It's Tim Cook's final day as Apple CEO. Here's what investors need from John Ternus.",
+                "title": "Alphabet stock has tanked recently because of a 'brain drain'",
                 "thumbnail": {
-                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/BuLOxYPnqEEeEqYkLDNXfQ--~B/aD0zMDgyO3c9NTQ4MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e524e737-1d6d-446b-9961-80219b46accd_e8bca82955ce95e412a254a5081473f20b5f81b9b8a43ee8a329bf09f1b25ec8.jpg",
-                  "originalWidth": 5480,
-                  "originalHeight": 3082,
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/pYj2lNr0UiltMnyPAWHDlA--~B/aD0yNDU5O3c9MzY5NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/4faecad0-613e-46d2-8ed9-07e9c7dae226",
+                  "originalWidth": 3695,
+                  "originalHeight": 2459,
                   "caption": "",
                   "resolutions": null
                 },
                 "provider": {
-                  "displayName": "Yahoo Finance Video",
-                  "sourceId": "video.yahoofinance.com"
+                  "displayName": "Yahoo Finance",
+                  "sourceId": "yahoofinance.com"
                 },
                 "previewUrl": null,
                 "providerContentUrl": "",
                 "canonicalUrl": {
-                  "url": "https://finance.yahoo.com/video/tim-cooks-final-day-apple-135615675.html"
+                  "url": "https://finance.yahoo.com/markets/stocks/article/alphabet-stock-has-tanked-recently-because-of-a-brain-drain-102219947.html"
                 },
                 "clickThroughUrl": {
-                  "url": "https://finance.yahoo.com/video/tim-cooks-final-day-apple-135615675.html"
+                  "url": "https://finance.yahoo.com/markets/stocks/article/alphabet-stock-has-tanked-recently-because-of-a-brain-drain-102219947.html"
                 }
               }
             }
@@ -1818,461 +1818,32 @@
       }
     },
     {
-      "id": "a3abb0be-6661-394a-9c07-1cfef88dc176",
+      "id": "0f697698-63fa-3922-b7dd-fb55b72f5619",
       "content": {
-        "id": "a3abb0be-6661-394a-9c07-1cfef88dc176",
+        "id": "0f697698-63fa-3922-b7dd-fb55b72f5619",
         "contentType": "STORY",
-        "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings?",
+        "title": "Zuckerberg, Musk Press G20 Ministers on AI Data Center Power, Labor Needs",
         "description": "",
-        "summary": "Broadcom is scheduled to report results for its fiscal third quarter after-market hours on Wednesday, September 2, with Wall Street looking for another quarter of exceptional growth.",
-        "pubDate": "2026-08-31T20:39:00Z",
-        "displayTime": "2026-08-31T20:39:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/11c57bc89878c9157e259fddcb0b1629.jpg",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YJm4vm3ngy_hdp_n_v.98w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/11c57bc89878c9157e259fddcb0b1629.jpg",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lBd.E0ulrXAdlinna7C6JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/11c57bc89878c9157e259fddcb0b1629.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-buy-q3-203900190.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-buy-q3-203900190.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "4a5285ca-e5ee-3691-9a7e-ea8a723e37f3",
-      "content": {
-        "id": "4a5285ca-e5ee-3691-9a7e-ea8a723e37f3",
-        "contentType": "STORY",
-        "title": "Meta just turned teen safety into a competitive advantage",
-        "description": "",
-        "summary": "Meta may have just rewritten the rules its rivals must follow.",
-        "pubDate": "2026-08-31T20:23:00Z",
-        "displayTime": "2026-08-31T20:23:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/a6a758c50533cdde24aeb0b198b94025.jpg",
-          "originalWidth": 3840,
-          "originalHeight": 2555,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/A.1N5CbAPdR84ygQQSv9Ig--~B/aD0yNTU1O3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/a6a758c50533cdde24aeb0b198b94025.jpg",
-              "width": 3840,
-              "height": 2555,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AY2gTlBDXtkxX.d.g_PdZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a6a758c50533cdde24aeb0b198b94025.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/meta-turns-teen-user-restrictions-competitive-advantage",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/meta-just-turned-teen-safety-202300523.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "cdbcab0e-0c63-30c5-a9ad-03522d7c67ad",
-      "content": {
-        "id": "cdbcab0e-0c63-30c5-a9ad-03522d7c67ad",
-        "contentType": "STORY",
-        "title": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges",
-        "description": "",
-        "summary": "FTC alleges in lawsuit that online retailer ‘secretly and systematically overcharged’ advertisers for years",
-        "pubDate": "2026-08-31T19:41:52Z",
-        "displayTime": "2026-08-31T19:41:52Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/the_guardian_765/593cbf3964f1330c74b66f41d7fc964d.jpg",
-          "originalWidth": 1000,
-          "originalHeight": 667,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/FkryZbB6XbF0f6iyp4g7xg--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_guardian_765/593cbf3964f1330c74b66f41d7fc964d.jpg",
-              "width": 1000,
-              "height": 667,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aEGCIUSq_wjgqEEJ.Z7QzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_guardian_765/593cbf3964f1330c74b66f41d7fc964d.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Guardian",
-          "url": "https://www.theguardian.com/international",
-          "sourceId": "the_guardian_765"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/us-trade-regulator-22-states-194152421.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/us-trade-regulator-22-states-194152421.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d7c3ad0a-93df-3369-83b2-8db53a13a436",
-      "content": {
-        "id": "d7c3ad0a-93df-3369-83b2-8db53a13a436",
-        "contentType": "STORY",
-        "title": "SLB Wants In on the AI Data Center Boom. This $4B Deal Could Help.",
-        "description": "",
-        "summary": "Public backlash against artificial intelligence data centers is real, but investors still like it when companies gain a toehold in the booming business.  The latest example comes from  SLB  the oilfield services provider formerly known as Schlumberger whose stock jumped 2.5% on Monday after announcing its acquisition of thermal management company Kelvion.  The deal is designed to build out SLB’s data center solutions business.",
-        "pubDate": "2026-08-31T19:22:00Z",
-        "displayTime": "2026-08-31T19:22:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/d7c3ad0a-93df-3369-83b2-8db53a13a436/slb-wants-in-on-the-ai-data.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/b9ffbe879aa91229404a0eeb651b54a1.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AnnCcx1.ZnaOTGNKc2CMeA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/b9ffbe879aa91229404a0eeb651b54a1.jpg",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IWODeM8ui4DWQ8IT5VIHHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b9ffbe879aa91229404a0eeb651b54a1.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/slb-ai-strategy-4-billion-data-center-deal-b6b99c63?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "76d7c597-4a87-3345-8f88-34eac6de7438",
-      "content": {
-        "id": "76d7c597-4a87-3345-8f88-34eac6de7438",
-        "contentType": "STORY",
-        "title": "AMZN Stock On Track For Worst Day In Over A Month As FTC Reportedly Prepares Ad-Price Lawsuit",
-        "description": "",
-        "summary": "AMZN stock dropped on Monday after a Wall Street Journal report said the FTC plans to sue the company over how it prices ads on its retail site.",
-        "pubDate": "2026-08-31T19:15:14Z",
-        "displayTime": "2026-08-31T19:15:14Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/69cfc7b818c0c8474dc3c475928b5777",
-          "originalWidth": 1280,
-          "originalHeight": 853,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IDzx4mdsp4j__XSgV0s9QQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/69cfc7b818c0c8474dc3c475928b5777",
-              "width": 1280,
-              "height": 853,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/cj5s_ifzwjfFXb5JJlSIOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/69cfc7b818c0c8474dc3c475928b5777",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Stocktwits",
-          "url": "Stocktwits",
-          "sourceId": "stocktwits_383"
-        },
-        "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/amzn-stock-on-track-for-worst-day-in-over-a-month-as-ftc-reportedly-prepares-ad-price-lawsuit/cZYzP2HRJsD",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/amzn-stock-track-worst-day-191514592.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "1515eb10-9016-30b2-b551-3cf8fd3743b6",
-      "content": {
-        "id": "1515eb10-9016-30b2-b551-3cf8fd3743b6",
-        "contentType": "STORY",
-        "title": "Meta Stock Gives You More Of The Market, Not Less Of It",
-        "description": "",
-        "summary": "Over five years the stock has tracked the index closely and still returned less, at more than twice the volatility.",
-        "pubDate": "2026-08-31T19:12:43Z",
-        "displayTime": "2026-08-31T19:12:43Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/bfeb32af92839dda7f7bc44b5bdf6a6f.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/51eCBSC2FsDqw4oLC.fOgA--~B/aD03Njg7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/bfeb32af92839dda7f7bc44b5bdf6a6f.jpg",
-              "width": 1280,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0G5NBSzNt3s0N1WimkQVQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/bfeb32af92839dda7f7bc44b5bdf6a6f.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/",
-          "sourceId": "trefis_142"
-        },
-        "canonicalUrl": {
-          "url": "https://www.trefis.com/articles/613732/meta-stock-gives-you-more-of-the-market-not-less-of-it/2026-08-31",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-gives-more-market-191243222.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ee99e874-a97f-317b-bf75-d6d03ce2b2e2",
-      "content": {
-        "id": "ee99e874-a97f-317b-bf75-d6d03ce2b2e2",
-        "contentType": "STORY",
-        "title": "FTC reportedly suing Amazon over ad practices, shares fall",
-        "description": "",
-        "summary": "Investing.com -- Amazon.com Inc shares fell 2.8% on Monday following a report by the Wall Street Journal that the Federal Trade Commission will file a lawsuit against the company over allegations related to its advertising pricing practices.",
-        "pubDate": "2026-08-31T18:44:01Z",
-        "displayTime": "2026-08-31T18:44:01Z",
+        "summary": "Mark Zuckerberg and Elon Musk told G20 technology ministers Tuesday that AI data center growth requi",
+        "pubDate": "2026-09-01T23:39:22Z",
+        "displayTime": "2026-09-01T23:39:22Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/ftc-reportedly-suing-amazon-over-184401202.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/ftc-reportedly-suing-amazon-over-184401202.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6762e96d-d4e4-321c-850a-0ac4b2b46896",
-      "content": {
-        "id": "6762e96d-d4e4-321c-850a-0ac4b2b46896",
-        "contentType": "STORY",
-        "title": "OpenAI's ChatGPT Ads Platform Hits $1 Billion in Annualized Revenue Run Rate",
-        "description": "",
-        "summary": "OpenAI's ChatGPT Ads platform has reached $1 billion in annualized revenue run rate, the artificial",
-        "pubDate": "2026-08-31T17:39:03Z",
-        "displayTime": "2026-08-31T17:39:03Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/mt_newswires_premium_news_706/f046a484171d672ffa035d0dc004f6bf.jpg",
-          "originalWidth": 1024,
-          "originalHeight": 694,
-          "caption": "OpenAI.jpg - Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/p1KhcHdkDUv.S3heJG5Hug--~B/aD02OTQ7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/mt_newswires_premium_news_706/f046a484171d672ffa035d0dc004f6bf.jpg",
-              "width": 1024,
-              "height": 694,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2cUa11_Ssj8yEZHTFBE9_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/f046a484171d672ffa035d0dc004f6bf.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
         "provider": {
           "displayName": "MT Newswires",
           "url": "https://www.mtnewswires.com/",
           "sourceId": "mt_newswires_premium_news_706"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/openai-apos-chatgpt-ads-platform-173903662.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/zuckerberg-musk-press-g20-ministers-233922801.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/openai-apos-chatgpt-ads-platform-173903662.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/zuckerberg-musk-press-g20-ministers-233922801.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2290,32 +1861,323 @@
       }
     },
     {
-      "id": "f5371f12-01e1-3057-b2f7-9bb895f76054",
+      "id": "8c14be01-d16c-3936-b7d5-ff59b6484b12",
       "content": {
-        "id": "f5371f12-01e1-3057-b2f7-9bb895f76054",
+        "id": "8c14be01-d16c-3936-b7d5-ff59b6484b12",
         "contentType": "STORY",
-        "title": "Wall Street Is Looking Here. I’m Looking Somewhere Else",
+        "title": "Meta May Overtake Google Search This Year. That Makes Its AI Capex Harder to Dismiss",
         "description": "",
-        "summary": "Everyone is chasing the same AI trade, but one chipmaker sitting in NVIDIA's shadow just posted 50% revenue growth and landed commitments worth gigawatts from two of the biggest names in tech. The real question is whether the valuation leaves any room to be wrong.",
-        "pubDate": "2026-08-31T17:30:28Z",
-        "displayTime": "2026-08-31T17:30:28Z",
+        "summary": "Meta may be on track to surpass Google Search this year, says Bernstein. On September 1, Bernstein SocGen Group analyst Mark Shmulik reiterated an Outperform rating and $800.00 price target on Meta Platforms, Inc. (NASDAQ: META) The firm has argued that Meta has seen the largest advertising benefit from AI. The irony from his note […]",
+        "pubDate": "2026-09-01T21:49:53Z",
+        "displayTime": "2026-09-01T21:49:53Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
-          "originalWidth": 2844,
-          "originalHeight": 1600,
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/084445da42ce0f7bc8998354d619ef23.jpg",
+          "originalWidth": 1456,
+          "originalHeight": 816,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/iCqKN2EfX8ALEawq77o1bw--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
-              "width": 2844,
-              "height": 1600,
+              "url": "https://s.yimg.com/uu/api/res/1.2/agFRoqGT3rf64llwTIs8Gw--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/084445da42ce0f7bc8998354d619ef23.jpg",
+              "width": 1456,
+              "height": 816,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KxFDG6nJzhhDrWEAzpEFGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/Rx0fBt4p5MecLL.SUpzcOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/084445da42ce0f7bc8998354d619ef23.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-may-overtake-google-search-214953946.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-may-overtake-google-search-214953946.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b211245a-a146-30c9-b4c7-5c3f5cd8967d",
+      "content": {
+        "id": "b211245a-a146-30c9-b4c7-5c3f5cd8967d",
+        "contentType": "STORY",
+        "title": "Meta Stock Rises as U.S. Backs Lighter AI Rules Amid $145 Billion Push",
+        "description": "",
+        "summary": "Washington's proposed Carolina Principles could reduce regulatory friction as Meta targets $130 billion to $145 billion in 2026 capital spending.",
+        "pubDate": "2026-09-01T20:02:50Z",
+        "displayTime": "2026-09-01T20:02:50Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-stock-rises-u-backs-200250773.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-stock-rises-u-backs-200250773.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c8108f1a-f797-3767-a24b-aa2b4973d348",
+      "content": {
+        "id": "c8108f1a-f797-3767-a24b-aa2b4973d348",
+        "contentType": "STORY",
+        "title": "Meta Is Catching Google in Ads. Which Stock Does Wall Street Favor?",
+        "description": "",
+        "summary": "Meta ad revenue grew 27% to $59.4B, closing in on Google Search. So why is the stock still falling? The answer is not capex.",
+        "pubDate": "2026-09-01T19:36:53Z",
+        "displayTime": "2026-09-01T19:36:53Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/331890436a2c1621959dc1a4c190529d.jpg",
+          "originalWidth": 5120,
+          "originalHeight": 2880,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UbPgsxzqNuUO2hk2asFUNA--~B/aD0yODgwO3c9NTEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/331890436a2c1621959dc1a4c190529d.jpg",
+              "width": 5120,
+              "height": 2880,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/cad93fG8_CEaY.NR1Fly9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/331890436a2c1621959dc1a4c190529d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/",
+          "sourceId": "beincrypto_us_662"
+        },
+        "canonicalUrl": {
+          "url": "https://beincrypto.com/meta-ad-revenue-google-search-gap/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-catching-google-ads-stock-193653872.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0e757e84-44ce-3206-a578-aa1e756f3439",
+      "content": {
+        "id": "0e757e84-44ce-3206-a578-aa1e756f3439",
+        "contentType": "STORY",
+        "title": "Billionaire Peter Thiel’s Fund Is Betting on the Grid Behind AI: 2 Energy Stock Picks",
+        "description": "",
+        "summary": "Peter Thiel is a billionaire investor who co-founded PayPal and Palantir. He was the first outside investor in Facebook, and he runs Founders Fund, the venture firm that put the first institutional money into SpaceX. Thiel Macro LLC, the fund run by the PayPal and Palantir co-founder, recently filed its second-quarter 13F. The filing shows […]",
+        "pubDate": "2026-09-01T19:18:36Z",
+        "displayTime": "2026-09-01T19:18:36Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/3d8ae9b80e0a4bc90681db45f8ff77e3.jpg",
+          "originalWidth": 581,
+          "originalHeight": 467,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_aSZxOM4Pdgas4WqYmqQVw--~B/aD00Njc7dz01ODE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3d8ae9b80e0a4bc90681db45f8ff77e3.jpg",
+              "width": 581,
+              "height": 467,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QyqqVmmjMRV4YaKuoXhF8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3d8ae9b80e0a4bc90681db45f8ff77e3.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/billionaire-peter-thiel-fund-betting-191836321.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/billionaire-peter-thiel-fund-betting-191836321.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a93b9931-dec2-305a-92fc-deab2a4ea8a1",
+      "content": {
+        "id": "a93b9931-dec2-305a-92fc-deab2a4ea8a1",
+        "contentType": "STORY",
+        "title": "Is Meta Platforms (META) Undervalued After Its Child Safety Settlement?",
+        "description": "",
+        "summary": "Meta Platforms (META) has reached an approximately US$17 billion to US$18 billion settlement with a coalition of US states over alleged harm to children from Facebook and Instagram. Investors are now reassessing the stock with a clearer legal backdrop. Over the past year, Meta Platforms’ share price has pulled back, with the year to date share price return down 12% and the 90 day share price return down 8.1%. The 3 year total shareholder return of 92.4% shows how strong the earlier rally was...",
+        "pubDate": "2026-09-01T19:09:44Z",
+        "displayTime": "2026-09-01T19:09:44Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+          "originalWidth": 1194,
+          "originalHeight": 432,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/nCAI77amckTuvVDu_618MQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+              "width": 1194,
+              "height": 432,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ba6AOYNIX1c_OX_7XUvNcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-undervalued-child-190944249.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-undervalued-child-190944249.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "03266320-20cc-3dbe-b3d6-fa40453e571b",
+      "content": {
+        "id": "03266320-20cc-3dbe-b3d6-fa40453e571b",
+        "contentType": "STORY",
+        "title": "Oklo Sinks 5% as PJM Pulls Its Meta-Backed Ohio Project, NuScale Power Barely Budges",
+        "description": "",
+        "summary": "PJM yanked a Meta-backed nuclear campus from its grid queue, hitting Oklo with a company-specific blow on top of a sector already reeling from surging Treasury yields. How those two pressures compound tells investors something important about every pre-revenue reactor developer right now.",
+        "pubDate": "2026-09-01T17:57:06Z",
+        "displayTime": "2026-09-01T17:57:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/3ffcdf1dc6577627f3c061f8d30ce714.jpg",
+          "originalWidth": 1500,
+          "originalHeight": 1001,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5ZH7DtpBY7cDoC3je6nkFQ--~B/aD0xMDAxO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/3ffcdf1dc6577627f3c061f8d30ce714.jpg",
+              "width": 1500,
+              "height": 1001,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/j.819Osz0Ri59tHvJtu6QA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3ffcdf1dc6577627f3c061f8d30ce714.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2328,13 +2190,137 @@
           "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/08/31/wall-street-is-looking-here-im-looking-somewhere-else/",
+          "url": "https://247wallst.com/investing/2026/09/01/oklo-sinks-5-as-pjm-pulls-its-meta-backed-ohio-project-nuscale-power-barely-budges/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-looking-m-looking-173028220.html",
+          "url": "https://finance.yahoo.com/energy/articles/oklo-sinks-5-pjm-pulls-175706211.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e97d6014-d3cc-304e-a475-a6826a2c25cf",
+      "content": {
+        "id": "e97d6014-d3cc-304e-a475-a6826a2c25cf",
+        "contentType": "STORY",
+        "title": "Jensen Huang Has Become World’s 8th Richest Person",
+        "description": "",
+        "summary": "Jensen Huang turned a modest chip startup into the backbone of the global AI arms race, and his personal fortune now rivals the biggest names in tech. But three mounting challenges could test whether Nvidia's reign at the top is as unshakeable as it appears.",
+        "pubDate": "2026-09-01T17:44:25Z",
+        "displayTime": "2026-09-01T17:44:25Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f3d264773f7aa3cb879f903639a47d8d.jpg",
+          "originalWidth": 832,
+          "originalHeight": 1248,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CpJmvLG2S85PzHjrcFZkWg--~B/aD0xMjQ4O3c9ODMyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/f3d264773f7aa3cb879f903639a47d8d.jpg",
+              "width": 832,
+              "height": 1248,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eXSjjG5DZY7ijoyJ90AUkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f3d264773f7aa3cb879f903639a47d8d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/01/jensen-huang-has-become-worlds-8th-richest-person/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-become-world-8th-174425351.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b403308c-7e2f-38c6-a7d4-28b9190edad1",
+      "content": {
+        "id": "b403308c-7e2f-38c6-a7d4-28b9190edad1",
+        "contentType": "STORY",
+        "title": "The Market May Be Underestimating This Stock",
+        "description": "",
+        "summary": "Alphabet's cloud business just posted growth numbers that look more like a startup than a mega-cap, yet the stock still trades at a forward multiple that suggests the market hasn't noticed. Here's what the bears are missing.",
+        "pubDate": "2026-09-01T17:30:43Z",
+        "displayTime": "2026-09-01T17:30:43Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/6a83eb0beb6e2af8715f8b1cdb40add8.jpg",
+          "originalWidth": 2581,
+          "originalHeight": 1600,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/74CqPElJ4k.NC7p5H6_vjw--~B/aD0xNjAwO3c9MjU4MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/6a83eb0beb6e2af8715f8b1cdb40add8.jpg",
+              "width": 2581,
+              "height": 1600,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8Q0w.omU89FSonwXsF9TWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6a83eb0beb6e2af8715f8b1cdb40add8.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/01/the-market-may-be-underestimating-this-stock/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-may-underestimating-stock-173043153.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"

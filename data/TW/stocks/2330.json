@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-09-01T00:56:01.109569"
+    "ts": "2026-09-01T23:42:46.581206"
   },
   "financials": {
     "annual": {
@@ -25217,12 +25217,214 @@
         "buy": 87227,
         "name": "Investment_Trust",
         "sell": 1048357
+      },
+      {
+        "date": "2026-09-01",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-09-01",
+        "stock_id": "2330",
+        "buy": 631374,
+        "name": "Investment_Trust",
+        "sell": 527505
+      },
+      {
+        "date": "2026-09-01",
+        "stock_id": "2330",
+        "buy": 160910,
+        "name": "Dealer_self",
+        "sell": 219000
+      },
+      {
+        "date": "2026-09-01",
+        "stock_id": "2330",
+        "buy": 339195,
+        "name": "Dealer_Hedging",
+        "sell": 150540
+      },
+      {
+        "date": "2026-09-01",
+        "stock_id": "2330",
+        "buy": 26004465,
+        "name": "Foreign_Investor",
+        "sell": 20273602
       }
     ],
     "margin_trading": [],
     "cb_transaction": []
   },
   "news": [
+    {
+      "id": "1e4fb669-37f5-386e-8b99-befbbbfa2e89",
+      "content": {
+        "id": "1e4fb669-37f5-386e-8b99-befbbbfa2e89",
+        "contentType": "STORY",
+        "title": "Roundtable 100 analysts put Nvidia at No. 76 in new tech power ranking",
+        "description": "",
+        "summary": "Nvidia landed at No. 76 ranking in the Roundtable 100, with an unlikely candidate topping the list.",
+        "pubDate": "2026-09-01T23:28:30Z",
+        "displayTime": "2026-09-01T23:28:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/2ce24ca0bd496841c3d73339e0ace9f2.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2561,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IkYtXvZhbb.st0Uc5hmn6Q--~B/aD0yNTYxO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/2ce24ca0bd496841c3d73339e0ace9f2.jpg",
+              "width": 3840,
+              "height": 2561,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0t1tx7gDKEXrbmVrkhgAYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/2ce24ca0bd496841c3d73339e0ace9f2.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/crypto/markets/roundtable-100-analysts-put-nvidia-at-no-76-in-new-tech-power-ranking",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/roundtable-100-analysts-put-nvidia-232830505.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6165f3a9-8116-3430-896b-a69ffd326765",
+      "content": {
+        "id": "6165f3a9-8116-3430-896b-a69ffd326765",
+        "contentType": "STORY",
+        "title": "TSMC's $269 Billion Expansion Puts Its 67.7% Margin in Focus",
+        "description": "",
+        "summary": "The chipmaker is expanding across Arizona and Germany as its shares trade 30.21% above GF Value.",
+        "pubDate": "2026-09-01T17:09:18Z",
+        "displayTime": "2026-09-01T17:09:18Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-269-billion-expansion-puts-170918317.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-269-billion-expansion-puts-170918317.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "18c0557c-0a03-362b-a5c9-862aa14941ea",
+      "content": {
+        "id": "18c0557c-0a03-362b-a5c9-862aa14941ea",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor Manufacturing Company (TSM) Limited Continues to Deliver Stellar Financial Results",
+        "description": "",
+        "summary": "Baron Capital, an investment management company, released its second-quarter 2026 investor letter for its “Baron Fifth Avenue Growth Fund”. The letter can be downloaded here. The fund achieved a strong quarter, gaining 24.6% (Institutional Shares), outperforming the Russell 1000 Growth Index (16.7%) and the S&P 500 (15.2%). Year to date, it’s up 11.7%, surpassing its benchmarks. […]",
+        "pubDate": "2026-09-01T13:18:31Z",
+        "displayTime": "2026-09-01T13:18:31Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033.jpg",
+          "originalWidth": 768,
+          "originalHeight": 430,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yk2YVlqB0KyNAETo0DAhbQ--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033.jpg",
+              "width": 768,
+              "height": 430,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.VO3eTDDun.HdFIbIHUk8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-131831930.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-131831930.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
     {
       "id": "a6ad7703-1844-32a1-bdf1-25ce1024a24b",
       "content": {
@@ -25618,173 +25820,6 @@
         },
         "storyline": null
       }
-    },
-    {
-      "id": "793c4003-bf43-3cca-8bba-23c57440b605",
-      "content": {
-        "id": "793c4003-bf43-3cca-8bba-23c57440b605",
-        "contentType": "STORY",
-        "title": "TSMC vs. ASML: Which Semiconductor Giant Is the Better Stock Buy?",
-        "description": "",
-        "summary": "ASML has a technological monopoly, but is that enough to be a better buy?",
-        "pubDate": "2026-08-29T13:05:00Z",
-        "displayTime": "2026-08-29T13:05:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/d035439a6da88eddac7c3b3404f21372.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Investor comparing TSMC and ASML stocks.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/dqAUE6RK1i1E5CUVka50iQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d035439a6da88eddac7c3b3404f21372.jpg",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/30iJkfcZJGI9PSsqB3Xf6Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d035439a6da88eddac7c3b3404f21372.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/08/29/tsmc-vs-asml-semiconductor-stock-better-buy/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-vs-asml-semiconductor-giant-130500717.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a0f5350b-caeb-3170-97a8-11a2424af353",
-      "content": {
-        "id": "a0f5350b-caeb-3170-97a8-11a2424af353",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Looks Stretched As Its 363% Run Continues",
-        "description": "",
-        "summary": "Taiwan Semiconductor Manufacturing stock has had a powerful three year run, while current valuation checks send mixed signals as the Discounted Cash Flow (DCF) intrinsic value screens as richer than the market price suggests and earnings based multiples still screen as supportive. Over the past 3 years, Taiwan Semiconductor Manufacturing has returned about 363%, which puts extra focus on whether today’s price still offers enough compensation for risk. New chip production wins such as...",
-        "pubDate": "2026-08-29T07:09:46Z",
-        "displayTime": "2026-08-29T07:09:46Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a.jpg",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/qgfMNnZgLdxDgn_SmLcZ9w--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a.jpg",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DZ3qP0DDlrMGgfDUI04jfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-stock-070946891.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-stock-070946891.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "91aecc73-b177-3395-bcfb-1e9e4f519fa5",
-      "content": {
-        "id": "91aecc73-b177-3395-bcfb-1e9e4f519fa5",
-        "contentType": "STORY",
-        "title": "Nvidia Quietly Became Its Own Market Category",
-        "description": "",
-        "summary": "One striking market signal shows how much has changed",
-        "pubDate": "2026-08-28T22:25:31Z",
-        "displayTime": "2026-08-28T22:25:31Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-quietly-became-own-market-222531285.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-quietly-became-own-market-222531285.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
     }
   ],
   "info": {
@@ -25888,83 +25923,77 @@
         "unexercisedValue": 0
       }
     ],
-    "auditRisk": 3,
-    "boardRisk": 3,
-    "compensationRisk": 1,
-    "shareHolderRightsRisk": 1,
-    "overallRisk": 1,
-    "governanceEpochDate": 1785542400,
     "compensationAsOfEpochDate": 1767139200,
     "irWebsite": "http://www.tsmc.com/english/investorRelations/index.htm",
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2420.0,
+    "previousClose": 2405.0,
     "open": 2395.0,
-    "dayLow": 2375.0,
-    "dayHigh": 2405.0,
-    "regularMarketPreviousClose": 2420.0,
+    "dayLow": 2390.0,
+    "dayHigh": 2440.0,
+    "regularMarketPreviousClose": 2405.0,
     "regularMarketOpen": 2395.0,
-    "regularMarketDayLow": 2375.0,
-    "regularMarketDayHigh": 2405.0,
+    "regularMarketDayLow": 2390.0,
+    "regularMarketDayHigh": 2440.0,
     "dividendRate": 28.0,
-    "dividendYield": 1.16,
+    "dividendYield": 1.15,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2573,
     "fiveYearAvgDividendYield": 1.67,
     "beta": 1.258,
-    "trailingPE": 28.151703,
-    "forwardPE": 16.921236,
-    "volume": 28908943,
-    "regularMarketVolume": 28908943,
-    "averageVolume": 29134405,
-    "averageVolume10days": 15186694,
-    "averageDailyVolume10Day": 15186694,
-    "bid": 2410.0,
-    "ask": 2430.0,
+    "trailingPE": 28.571428,
+    "forwardPE": 17.167492,
+    "volume": 18600292,
+    "regularMarketVolume": 18600292,
+    "averageVolume": 29011723,
+    "averageVolume10days": 16650675,
+    "averageDailyVolume10Day": 16650675,
+    "bid": 0.0,
+    "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 62367350128640,
-    "nonDilutedMarketCap": 62497011861470,
+    "marketCap": 63274980737024,
+    "nonDilutedMarketCap": 62367350011135,
     "fiftyTwoWeekLow": 1145.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2405.0,
-    "priceToSalesTrailing12Months": 14.045143,
-    "fiftyDayAverage": 2394.0,
-    "twoHundredDayAverage": 2008.55,
+    "fulldayPrice": 2440.0,
+    "priceToSalesTrailing12Months": 14.249541,
+    "fiftyDayAverage": 2391.9,
+    "twoHundredDayAverage": 2013.35,
     "trailingAnnualDividendRate": 26.0,
-    "trailingAnnualDividendYield": 0.0107438015,
+    "trailingAnnualDividendYield": 0.010810811,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 59959848992768,
+    "enterpriseValue": 60867483795456,
     "profitMargins": 0.49923,
     "floatShares": 23652396030,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00023,
-    "heldPercentInstitutions": 0.43315,
+    "heldPercentInstitutions": 0.43308,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.05,
-    "priceToBook": 9.695625,
+    "priceToBook": 9.836726,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808415232,
-    "trailingEps": 85.43,
+    "trailingEps": 85.4,
     "forwardEps": 142.12909,
     "pegRatio": 0.91,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.503,
-    "enterpriseToEbitda": 18.93,
-    "52WeekChange": 1.0772531,
-    "SandP52WeekChange": 0.20204377,
+    "enterpriseToRevenue": 13.707,
+    "enterpriseToEbitda": 19.216,
+    "52WeekChange": 1.0732758,
+    "SandP52WeekChange": 0.19805038,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1796860800,
     "quoteType": "EQUITY",
-    "currentPrice": 2405.0,
+    "currentPrice": 2440.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2650.0,
     "targetMeanPrice": 3229.3333,
@@ -25999,21 +26028,11 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
+    "regularMarketChangePercent": 1.4553014,
+    "regularMarketPrice": 2440.0,
     "marketState": "PREPRE",
     "hasPrePostMarketData": false,
     "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": -15.0,
-    "fulldayChange": -15.0,
-    "fulldayChangePercent": -0.6198347,
-    "regularMarketDayRange": "2375.0 - 2405.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 29134405,
-    "fiftyTwoWeekLowChange": 1260.0,
-    "fiftyTwoWeekLowChangePercent": 1.1004367,
-    "fiftyTwoWeekRange": "1145.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -130.0,
-    "fiftyTwoWeekHighChangePercent": -0.051282052,
-    "fiftyTwoWeekChangePercent": 107.72531,
     "corporateActions": [
       {
         "header": "Dividend",
@@ -26025,7 +26044,7 @@
         }
       }
     ],
-    "regularMarketTime": 1788154210,
+    "regularMarketTime": 1788240610,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -26033,28 +26052,36 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
+    "priceEpsCurrentYear": 22.667437,
+    "fiftyDayAverageChange": 48.100098,
+    "fiftyDayAverageChangePercent": 0.020109577,
+    "twoHundredDayAverageChange": 426.65002,
+    "twoHundredDayAverageChangePercent": 0.21191052,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
     "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
     "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "regularMarketChange": 35.0,
+    "regularMarketDayRange": "2390.0 - 2440.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 29011723,
+    "fiftyTwoWeekLowChange": 1295.0,
+    "fiftyTwoWeekLowChangePercent": 1.1310043,
+    "fiftyTwoWeekRange": "1145.0 - 2535.0",
+    "fiftyTwoWeekHighChange": -95.0,
+    "fiftyTwoWeekHighChangePercent": -0.037475344,
+    "fiftyTwoWeekChangePercent": 107.32758,
     "earningsTimestamp": 1784179800,
     "earningsTimestampStart": 1792042200,
     "earningsTimestampEnd": 1792042200,
     "earningsCallTimestampStart": 1784181600,
     "earningsCallTimestampEnd": 1784181600,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 85.43,
+    "epsTrailingTwelveMonths": 85.4,
     "epsForward": 142.12909,
     "epsCurrentYear": 107.6434,
-    "priceEpsCurrentYear": 22.342289,
-    "fiftyDayAverageChange": 11.0,
-    "fiftyDayAverageChangePercent": 0.0045948206,
-    "twoHundredDayAverageChange": 396.44995,
-    "twoHundredDayAverageChangePercent": 0.19738117,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
-    "regularMarketChangePercent": -0.6198347,
-    "regularMarketPrice": 2405.0,
-    "trailingPegRatio": 0.9039
+    "trailingPegRatio": 0.9024
   }
 }
