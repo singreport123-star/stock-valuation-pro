@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-09-04T23:35:59.598016",
+    "ts": "2026-09-05T23:28:41.419072",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -150,13 +150,13 @@
     "exDividendDate": 1781481600,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 23.221764,
+    "trailingPE": 23.256788,
     "forwardPE": 17.642334,
     "volume": 15745973,
     "regularMarketVolume": 15745973,
-    "averageVolume": 18075230,
-    "averageVolume10days": 16472320,
-    "averageDailyVolume10Day": 16472320,
+    "averageVolume": 17851201,
+    "averageVolume10days": 16685300,
+    "averageDailyVolume10Day": 16685300,
     "bid": 601.0,
     "ask": 618.2,
     "bidSize": 2,
@@ -167,12 +167,12 @@
     "fiftyTwoWeekHigh": 790.8,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 614.6,
-    "fulldayChange": 4.119995,
-    "fulldayChangePercent": 0.674657,
+    "fulldayPrice": 615.1974,
+    "fulldayChange": 6.09003,
+    "fulldayChangePercent": 0.997253,
     "priceToSalesTrailing12Months": 6.8838825,
-    "fiftyDayAverage": 594.0136,
-    "twoHundredDayAverage": 622.2163,
+    "fiftyDayAverage": 595.4916,
+    "twoHundredDayAverage": 622.2901,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0034387894,
     "currency": "USD",
@@ -187,7 +187,7 @@
     "dateShortInterest": 1786665600,
     "sharesPercentSharesOut": 0.011,
     "heldPercentInsiders": 0.00148,
-    "heldPercentInstitutions": 0.79038,
+    "heldPercentInstitutions": 0.79115,
     "shortRatio": 1.73,
     "shortPercentOfFloat": 0.0127,
     "impliedSharesOutstanding": 2547506225,
@@ -198,13 +198,13 @@
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.56,
+    "trailingEps": 26.52,
     "forwardEps": 34.95966,
     "pegRatio": 0.81,
     "enterpriseToRevenue": 6.981,
     "enterpriseToEbitda": 14.53,
-    "52WeekChange": -0.18841118,
-    "SandP52WeekChange": 0.19535756,
+    "52WeekChange": -0.1801542,
+    "SandP52WeekChange": 0.19284546,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
@@ -240,26 +240,51 @@
     "language": "en-US",
     "region": "US",
     "typeDisp": "Equity",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "corporateActions": [],
-    "postMarketTime": 1788564953,
-    "regularMarketTime": 1788552001,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "regularMarketChangePercent": 0.997253,
+    "regularMarketPrice": 616.77,
+    "marketState": "CLOSED",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "epsTrailingTwelveMonths": 26.52,
+    "epsForward": 34.95966,
+    "epsCurrentYear": 31.15813,
+    "priceEpsCurrentYear": 19.794834,
+    "fiftyDayAverageChange": 21.278442,
+    "fiftyDayAverageChangePercent": 0.035732567,
+    "twoHundredDayAverageChange": -5.5200806,
+    "twoHundredDayAverageChangePercent": -0.0088705905,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-09-05",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.35184005,
-    "postMarketPrice": 614.6,
-    "postMarketChange": -2.170044,
-    "regularMarketChange": 6.090027,
+    "postMarketChangePercent": -0.25497866,
+    "postMarketPrice": 615.1974,
+    "postMarketChange": -1.5726318,
+    "regularMarketChange": 6.09003,
     "regularMarketDayRange": "605.27 - 617.46",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18075230,
+    "averageDailyVolume3Month": 17851201,
     "fiftyTwoWeekLowChange": 96.51001,
     "fiftyTwoWeekLowChangePercent": 0.18550342,
     "fiftyTwoWeekRange": "520.26 - 790.8",
     "fiftyTwoWeekHighChange": -174.02997,
     "fiftyTwoWeekHighChangePercent": -0.22006825,
-    "fiftyTwoWeekChangePercent": -18.841118,
+    "fiftyTwoWeekChangePercent": -18.01542,
     "dividendDate": 1782345600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -267,33 +292,9 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.56,
-    "epsForward": 34.95966,
-    "epsCurrentYear": 31.15813,
-    "priceEpsCurrentYear": 19.794834,
-    "fiftyDayAverageChange": 22.756409,
-    "fiftyDayAverageChangePercent": 0.038309574,
-    "twoHundredDayAverageChange": -5.446289,
-    "marketState": "POST",
-    "messageBoardId": "finmb_713899537",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "exchange": "NMS",
-    "regularMarketChangePercent": 0.9972534,
-    "regularMarketPrice": 616.77,
-    "twoHundredDayAverageChangePercent": -0.008753047,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-09-04",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
+    "corporateActions": [],
+    "postMarketTime": 1788566395,
+    "regularMarketTime": 1788552001,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.808
   },
@@ -1698,32 +1699,32 @@
   },
   "news": [
     {
-      "id": "0536d284-142b-48a9-8555-fe3cf47aa3c6",
+      "id": "e9efa05c-2ec3-31c7-a5e7-2ef05cabf976",
       "content": {
-        "id": "0536d284-142b-48a9-8555-fe3cf47aa3c6",
-        "contentType": "VIDEO",
-        "title": "Energy stocks could be the biggest winners of the AI boom",
-        "description": "<p>Yahoo Finance Senior Business Reporter Ines Ferré discusses how major energy companies like ExxonMobil (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/XOM/\" data-i13n=\"cpos:1;pos:1\">XOM</a>), Chevron (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/CVX/\" data-i13n=\"cpos:2;pos:1\">CVX</a>), and ConocoPhillips (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/COP/\" data-i13n=\"cpos:3;pos:1\">COP</a>) are set up to be the biggest winners of the AI infrastructure boom.</p>",
-        "summary": "Yahoo Finance Senior Business Reporter Ines Ferré discusses how major energy companies like ExxonMobil (XOM), Chevron (CVX), and ConocoPhillips (COP) are set up to be the biggest winners of the AI infrastructure boom.",
-        "pubDate": "2026-09-04T19:32:25Z",
-        "displayTime": "",
+        "id": "e9efa05c-2ec3-31c7-a5e7-2ef05cabf976",
+        "contentType": "STORY",
+        "title": "Meta stands to gain as Mark Zuckerberg makes shocking decision",
+        "description": "",
+        "summary": "Something Mark Zuckerberg said in private is now drawing big attention.",
+        "pubDate": "2026-09-05T15:33:00Z",
+        "displayTime": "2026-09-05T15:33:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/67SD4bLjjtf12e_LFFiSbQ--~B/aD00MjcwO3c9NzU5MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/73bbbde2-2169-4c76-824c-9f2214afa033_c8f4099d714074c16437e561f0ca6b3fa5243ef873e7a67509b03243d47b2cce.jpg",
-          "originalWidth": 7592,
-          "originalHeight": 4270,
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/cddad46e794d8277750f7145951d17ad.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2560,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/67SD4bLjjtf12e_LFFiSbQ--~B/aD00MjcwO3c9NzU5MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/73bbbde2-2169-4c76-824c-9f2214afa033_c8f4099d714074c16437e561f0ca6b3fa5243ef873e7a67509b03243d47b2cce.jpg",
-              "width": 7592,
-              "height": 4270,
+              "url": "https://s.yimg.com/uu/api/res/1.2/erizFAAsrV5vEWDjoaC6YQ--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/cddad46e794d8277750f7145951d17ad.jpg",
+              "width": 3840,
+              "height": 2560,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/FoOYehxVTP52_uZkVw658g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/73bbbde2-2169-4c76-824c-9f2214afa033_c8f4099d714074c16437e561f0ca6b3fa5243ef873e7a67509b03243d47b2cce.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/SGCKendK1qKMk.mbfGZF4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/cddad46e794d8277750f7145951d17ad.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1731,24 +1732,148 @@
           ]
         },
         "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/energy-stocks-could-biggest-winners-193225814.html",
+          "url": "https://www.thestreet.com/technology/mark-zuckerberg-opposes-ai-regulator",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/energy-stocks-could-biggest-winners-193225814.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-stands-gain-mark-zuckerberg-153300310.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "30b38001-c329-31cf-aebb-eac480c69853",
+      "content": {
+        "id": "30b38001-c329-31cf-aebb-eac480c69853",
+        "contentType": "STORY",
+        "title": "‘AI Laggard’ Apple Is Sitting Pretty, But AAPL Stock Might Be Running Out of Room to Outperform",
+        "description": "",
+        "summary": "Apple, which was seen as an \"AI laggard,\" is outperforming the hyperscalers this year. Can AAPL stock continue its outperformance?",
+        "pubDate": "2026-09-05T15:02:14Z",
+        "displayTime": "2026-09-05T15:02:14Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/ec47b3204c99e0fe27ccaa128b7ff165.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 1067,
+          "caption": "Apple logo - by Pexels via Pixabay",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Xw0f9QTFv0BKwIGo8ViDnw--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/ec47b3204c99e0fe27ccaa128b7ff165.jpg",
+              "width": 1600,
+              "height": 1067,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ijIhUVeFt4hsKH3l.L_Oyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/ec47b3204c99e0fe27ccaa128b7ff165.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/4461863/ai-laggard-apple-is-sitting-pretty-but-aapl-stock-might-be-running-out-of-room-to-outperform",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-laggard-apple-sitting-pretty-150214875.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "aad2ebd1-7788-3d4f-9e72-947e0f68a3e3",
+      "content": {
+        "id": "aad2ebd1-7788-3d4f-9e72-947e0f68a3e3",
+        "contentType": "STORY",
+        "title": "Palantir Billionaire Peter Thiel Just Bought Shares of This AI Stock That’s Climbed 200,000% Since Its IPO -- And It’s His Top Position.",
+        "description": "",
+        "summary": "Thiel is known for his ability to spot a future winner.",
+        "pubDate": "2026-09-05T10:25:01Z",
+        "displayTime": "2026-09-05T10:25:01Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/78ca99faa3c5f867275e60ae31e80a02.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "A data center room is shown.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/u7_DR3H3ExTgQq1Ik._R6g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/78ca99faa3c5f867275e60ae31e80a02.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1ixMCPhyO8S1hFqIIIj5Ag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/78ca99faa3c5f867275e60ae31e80a02.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/05/palantir-billionaire-peter-thiel-just-bought-shares-of-this-ai-stock-that-s-climbed-200-000-since-its-ipo-and-it-s-his-top-position/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/palantir-billionaire-peter-thiel-just-102501539.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -2139,130 +2264,6 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/technology/ai/articles/meta-cuts-ai-output-prices-193800531.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a46b526c-f805-3e05-9330-fc0107cf670d",
-      "content": {
-        "id": "a46b526c-f805-3e05-9330-fc0107cf670d",
-        "contentType": "STORY",
-        "title": "3 REITs Getting Paid as Big Tech Builds Out AI",
-        "description": "",
-        "summary": "Hyperscalers are signing multi-year leases at a pace that is rewriting the income playbook, and three REITs are quietly collecting the rent on every server warehouse in the deal. The question is which one fits a portfolio built for the long haul.",
-        "pubDate": "2026-09-04T19:22:57Z",
-        "displayTime": "2026-09-04T19:22:57Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
-          "originalWidth": 2560,
-          "originalHeight": 1707,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QIa9VAz7sc4Ch5Gqf5cDfQ--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
-              "width": 2560,
-              "height": 1707,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/UhF5RjG94EYFBwSWvTqvhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/09/04/3-data-center-reits-collecting-rent-from-the-ai-buildout/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/real-estate/articles/3-reits-getting-paid-big-192257109.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "451560a8-1840-355d-b201-8b0f31040d60",
-      "content": {
-        "id": "451560a8-1840-355d-b201-8b0f31040d60",
-        "contentType": "STORY",
-        "title": "Cramer Says the Magnificent Seven Are Finally Cheap and Most Investors Will Miss It",
-        "description": "",
-        "summary": "Jim Cramer is calling the Magnificent Seven a generational buying opportunity, but the argument only holds for some of them, and getting that distinction wrong is an expensive mistake.",
-        "pubDate": "2026-09-04T19:00:50Z",
-        "displayTime": "2026-09-04T19:00:50Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/6c7937e867000d2269b53fbe0e15bf17",
-          "originalWidth": 1376,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rmPetCbCTWnKmCIwpDb9dg--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/6c7937e867000d2269b53fbe0e15bf17",
-              "width": 1376,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/j6M.9v8tjG1mms6ywkF8jQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6c7937e867000d2269b53fbe0e15bf17",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/09/04/cramer-says-the-magnificent-seven-are-finally-cheap-and-most-investors-will-miss-it/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-magnificent-seven-finally-190050248.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
