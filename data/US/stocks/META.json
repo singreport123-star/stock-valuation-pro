@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-09-05T23:28:41.419072",
+    "ts": "2026-09-06T23:22:55.130361",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -140,7 +140,7 @@
     "previousClose": 610.68,
     "open": 612.495,
     "dayLow": 605.27,
-    "dayHigh": 617.43,
+    "dayHigh": 617.46,
     "regularMarketPreviousClose": 610.68,
     "regularMarketOpen": 612.495,
     "regularMarketDayLow": 605.27,
@@ -152,8 +152,8 @@
     "beta": 1.243,
     "trailingPE": 23.256788,
     "forwardPE": 17.642334,
-    "volume": 15745973,
-    "regularMarketVolume": 15745973,
+    "volume": 15966213,
+    "regularMarketVolume": 15966213,
     "averageVolume": 17851201,
     "averageVolume10days": 16685300,
     "averageDailyVolume10Day": 16685300,
@@ -168,8 +168,8 @@
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "fulldayPrice": 615.1974,
-    "fulldayChange": 6.09003,
-    "fulldayChangePercent": 0.997253,
+    "fulldayChange": 6.090027,
+    "fulldayChangePercent": 0.9972534,
     "priceToSalesTrailing12Months": 6.8838825,
     "fiftyDayAverage": 595.4916,
     "twoHundredDayAverage": 622.2901,
@@ -204,7 +204,7 @@
     "enterpriseToRevenue": 6.981,
     "enterpriseToEbitda": 14.53,
     "52WeekChange": -0.1801542,
-    "SandP52WeekChange": 0.19284546,
+    "SandP52WeekChange": 0.18836367,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
@@ -243,39 +243,12 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "regularMarketChangePercent": 0.997253,
-    "regularMarketPrice": 616.77,
-    "marketState": "CLOSED",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "epsTrailingTwelveMonths": 26.52,
-    "epsForward": 34.95966,
-    "epsCurrentYear": 31.15813,
-    "priceEpsCurrentYear": 19.794834,
-    "fiftyDayAverageChange": 21.278442,
-    "fiftyDayAverageChangePercent": 0.035732567,
-    "twoHundredDayAverageChange": -5.5200806,
-    "twoHundredDayAverageChangePercent": -0.0088705905,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-09-05",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
     "postMarketChangePercent": -0.25497866,
     "postMarketPrice": 615.1974,
     "postMarketChange": -1.5726318,
-    "regularMarketChange": 6.09003,
+    "regularMarketChange": 6.090027,
     "regularMarketDayRange": "605.27 - 617.46",
     "fullExchangeName": "NasdaqGS",
     "averageDailyVolume3Month": 17851201,
@@ -292,9 +265,36 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 26.52,
+    "epsForward": 34.95966,
+    "epsCurrentYear": 31.15813,
+    "priceEpsCurrentYear": 19.794834,
+    "fiftyDayAverageChange": 21.278442,
+    "fiftyDayAverageChangePercent": 0.035732567,
+    "twoHundredDayAverageChange": -5.5200806,
+    "twoHundredDayAverageChangePercent": -0.0088705905,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-09-06",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
+    "marketState": "CLOSED",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "corporateActions": [],
     "postMarketTime": 1788566395,
     "regularMarketTime": 1788552001,
+    "regularMarketChangePercent": 0.9972534,
+    "regularMarketPrice": 616.77,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.808
   },
@@ -1699,6 +1699,254 @@
   },
   "news": [
     {
+      "id": "44d530df-1d6d-346e-ba8c-4835b2b11b87",
+      "content": {
+        "id": "44d530df-1d6d-346e-ba8c-4835b2b11b87",
+        "contentType": "STORY",
+        "title": "Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome ‘Pervert’ Glasses",
+        "description": "",
+        "summary": "Norway has reached a 96% to 98% market share for electric vehicles, becoming the global leader in the transition from internal combustion engine vehicles to EVs. When it comes to smart glasses technology, however, don’t expect 96% of consumers in...",
+        "pubDate": "2026-09-06T21:30:19Z",
+        "displayTime": "2026-09-06T21:30:19Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/a80ac245160b54e134414d6bfbeb97e4.jpg",
+          "originalWidth": 1024,
+          "originalHeight": 576,
+          "caption": "Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome ‘Pervert’ Glasses",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XETRmGIQzJwr1kAeHYSHPg--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/a80ac245160b54e134414d6bfbeb97e4.jpg",
+              "width": 1024,
+              "height": 576,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/kmILPO.7YFz9qTMOTjFdWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/a80ac245160b54e134414d6bfbeb97e4.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://www.yahoo.com/news/world/articles/norway-skeptical-smart-spectacles-leader-213019935.html",
+          "site": "news",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://www.yahoo.com/news/world/articles/norway-skeptical-smart-spectacles-leader-213019935.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "84c588ac-678f-3d07-bbb6-11485ad2d9dd",
+      "content": {
+        "id": "84c588ac-678f-3d07-bbb6-11485ad2d9dd",
+        "contentType": "STORY",
+        "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
+        "description": "",
+        "summary": "NVIDIA Corporation (NASDAQ:NVDA) biggest lingering investor concern was customer concentration, CNBC reported. Nvidia relies on hyperscalers Amazon, Google, and Microsoft, along with major buyers Meta and SpaceX, for an outsized share of revenue, and in May began splitting its data center reporting into “hyperscalers” versus everyone else, a group it calls AI clouds, industrial, and […]",
+        "pubDate": "2026-09-06T20:21:05Z",
+        "displayTime": "2026-09-06T20:21:05Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/a079136e941b43293f25b66228839740.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2160,
+          "caption": "Why the Reported Nvidia (NVDA) Leases With Hut 8 (HUT) Carry $19.6 Billion of Base-Term Contract Value",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WwDOpBqJKRmz5Ig3gSA3Xg--~B/aD0yMTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/a079136e941b43293f25b66228839740.jpg",
+              "width": 3840,
+              "height": 2160,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/noSbuNZjvACAX4fQQ4D2ag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a079136e941b43293f25b66228839740.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "22588f33-4652-33aa-af0e-f1cfdfe6525b",
+      "content": {
+        "id": "22588f33-4652-33aa-af0e-f1cfdfe6525b",
+        "contentType": "STORY",
+        "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
+        "description": "",
+        "summary": "I bought the dip in both Oracle and NuScale. Here's why.",
+        "pubDate": "2026-09-06T10:12:00Z",
+        "displayTime": "2026-09-06T10:12:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ef9d43eb9d9e21de9ce66b0e9def3796.png",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "Oracle logo on a red background and NuScale logo on a blue background.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KzCp51zk9qjLHVEFDi3lAg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ef9d43eb9d9e21de9ce66b0e9def3796.png",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3czDHGI0BfUZ0OmkiIwLIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ef9d43eb9d9e21de9ce66b0e9def3796.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/06/i-own-both-oracle-and-nuscale-for-different-reason/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f7ae199c-50ed-3c14-89e3-0d26ac6cdce0",
+      "content": {
+        "id": "f7ae199c-50ed-3c14-89e3-0d26ac6cdce0",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+        "description": "",
+        "summary": "Meta Platforms Inc. CEO Mark Zuckerberg reportedly pushed back against a proposed national artificial-intelligence regulator during an August phone call with President Donald Trump, as the White House weighs a FINRA-style watchdog for frontier models. Zuckerberg Pushes Back On AI...",
+        "pubDate": "2026-09-05T23:30:16Z",
+        "displayTime": "2026-09-05T23:30:16Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/ebecd7f5f46982453b5f96faa9e992b3.jpg",
+          "originalWidth": 1024,
+          "originalHeight": 576,
+          "caption": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WlNudh0idKu2z_Bbb8dATg--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/ebecd7f5f46982453b5f96faa9e992b3.jpg",
+              "width": 1024,
+              "height": 576,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/DiO0HLx65XFTd5UKebyIpA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ebecd7f5f46982453b5f96faa9e992b3.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://www.yahoo.com/news/politics/articles/mark-zuckerberg-opposes-federal-ai-233016128.html",
+          "site": "news",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://www.yahoo.com/news/politics/articles/mark-zuckerberg-opposes-federal-ai-233016128.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
       "id": "e9efa05c-2ec3-31c7-a5e7-2ef05cabf976",
       "content": {
         "id": "e9efa05c-2ec3-31c7-a5e7-2ef05cabf976",
@@ -2054,216 +2302,6 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/news/exclusive-chinas-xi-bring-large-104707459.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f7f01511-d682-3b5e-9572-022b2c54d2c1",
-      "content": {
-        "id": "f7f01511-d682-3b5e-9572-022b2c54d2c1",
-        "contentType": "STORY",
-        "title": "Corning (GLW) Stock Looks Below Fair Value As Its 393% Run Continues",
-        "description": "",
-        "summary": "Corning stock has delivered a very strong three year run, yet the valuation checks send a split message, with the Discounted Cash Flow (DCF) intrinsic value pointing to upside while market multiples lean the other way. Corning has returned about 393.2% over the past three years, which puts extra focus on whether the current price still leaves room for attractive long term returns. The multiyear fiber agreement with Meta that can reach up to US$6b may support cash flow expectations. However,...",
-        "pubDate": "2026-09-04T21:08:03Z",
-        "displayTime": "2026-09-04T21:08:03Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8.jpg",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YpoMd_PPnOdCda0FcIR41Q--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8.jpg",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/yiwwzJiL94dso2VnxX11Dw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/c9021a6b56b6d46879d8b105f9ba3ef8.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-stock-looks-below-210803201.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-stock-looks-below-210803201.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d44d141d-138b-3d23-9821-db4a2e3957b1",
-      "content": {
-        "id": "d44d141d-138b-3d23-9821-db4a2e3957b1",
-        "contentType": "STORY",
-        "title": "5-star analyst resets Broadcom stock price target",
-        "description": "",
-        "summary": "Morgan Stanley raised its Broadcom stock price target to $505, citing surging AI chip demand and Hock Tan’s bold revenue outlook.",
-        "pubDate": "2026-09-04T20:07:00Z",
-        "displayTime": "2026-09-04T20:07:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/30b8d79a232933dd285127683c4aa126.jpg",
-          "originalWidth": 3840,
-          "originalHeight": 2560,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IyBm4KcaTqEURtzFmBS8DQ--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/30b8d79a232933dd285127683c4aa126.jpg",
-              "width": 3840,
-              "height": 2560,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YxKtsME7S26YqBt.BprHDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/30b8d79a232933dd285127683c4aa126.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-broadcom-avgo-stock-price-target",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-resets-broadcom-200700817.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8938f908-d9f9-3bcc-8ffd-7ff5e88e22f9",
-      "content": {
-        "id": "8938f908-d9f9-3bcc-8ffd-7ff5e88e22f9",
-        "contentType": "STORY",
-        "title": "Magnificent Seven Flash Strong Signal Never Seen Before",
-        "description": "",
-        "summary": "A historic split challenges the market's most powerful leadership trade",
-        "pubDate": "2026-09-04T19:51:39Z",
-        "displayTime": "2026-09-04T19:51:39Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-flash-strong-signal-195139729.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-flash-strong-signal-195139729.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a543a03a-6b71-3917-bfd2-3d1fb808bc53",
-      "content": {
-        "id": "a543a03a-6b71-3917-bfd2-3d1fb808bc53",
-        "contentType": "STORY",
-        "title": "Meta Cuts AI Output Prices 95%--If Developers Share Their Work",
-        "description": "",
-        "summary": "Muse Spark's cheapest tier exchanges extraordinary token discounts for permission to improve future models with customer activity.",
-        "pubDate": "2026-09-04T19:38:00Z",
-        "displayTime": "2026-09-04T19:38:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-cuts-ai-output-prices-193800531.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-cuts-ai-output-prices-193800531.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
