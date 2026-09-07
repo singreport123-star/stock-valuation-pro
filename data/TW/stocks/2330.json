@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-09-06T23:22:49.943051"
+    "ts": "2026-09-07T23:53:08.953835"
   },
   "financials": {
     "annual": {
@@ -25357,6 +25357,41 @@
         "buy": 79000,
         "name": "Investment_Trust",
         "sell": 401024
+      },
+      {
+        "date": "2026-09-07",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-09-07",
+        "stock_id": "2330",
+        "buy": 84000,
+        "name": "Investment_Trust",
+        "sell": 451588
+      },
+      {
+        "date": "2026-09-07",
+        "stock_id": "2330",
+        "buy": 562313,
+        "name": "Dealer_self",
+        "sell": 75500
+      },
+      {
+        "date": "2026-09-07",
+        "stock_id": "2330",
+        "buy": 346574,
+        "name": "Dealer_Hedging",
+        "sell": 113279
+      },
+      {
+        "date": "2026-09-07",
+        "stock_id": "2330",
+        "buy": 19196661,
+        "name": "Foreign_Investor",
+        "sell": 3061347
       }
     ],
     "margin_trading": [],
@@ -25364,32 +25399,118 @@
   },
   "news": [
     {
-      "id": "b7c58bce-e73c-3915-8d98-5a80aa250bd0",
+      "id": "f297135e-9d1a-3b08-88cd-b11e0cd181a9",
       "content": {
-        "id": "b7c58bce-e73c-3915-8d98-5a80aa250bd0",
+        "id": "f297135e-9d1a-3b08-88cd-b11e0cd181a9",
         "contentType": "STORY",
-        "title": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029",
+        "title": "TSMC Rises Nearly 3% as $265 Billion Becomes Taiwan's Diplomatic Currency",
         "description": "",
-        "summary": "Hitting the milestone by the end of 2028 takes about 14% a year -- from a business growing about three times that fast.",
-        "pubDate": "2026-09-06T22:51:01Z",
-        "displayTime": "2026-09-06T22:51:01Z",
+        "summary": "Global factories strengthen political access while testing the margins that made TSMC indispensable.",
+        "pubDate": "2026-09-07T21:37:35Z",
+        "displayTime": "2026-09-07T21:37:35Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-rises-nearly-3-265-213735953.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-rises-nearly-3-265-213735953.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "f0334196-8749-34dd-bb0c-970447733056",
+      "content": {
+        "id": "f0334196-8749-34dd-bb0c-970447733056",
+        "contentType": "STORY",
+        "title": "TSMC's $265 Billion U.S. Bet Is Becoming Part of Taiwan's Chip Diplomacy",
+        "description": "",
+        "summary": "TSMC's $265 Billion U.S. Bet Is Becoming Part of Taiwan's Chip Diplomacy",
+        "pubDate": "2026-09-07T19:25:38Z",
+        "displayTime": "2026-09-07T19:25:38Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmcs-265-billion-u-bet-192538926.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmcs-265-billion-u-bet-192538926.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5c3ea4dc-4180-3910-bb3f-3ae76930b414",
+      "content": {
+        "id": "5c3ea4dc-4180-3910-bb3f-3ae76930b414",
+        "contentType": "STORY",
+        "title": "Arm Expands Into AI Accelerators With Samsung — But It’s Not the Data Center Goldmine Investors Hope For",
+        "description": "",
+        "summary": "Arm's new Samsung chip deal looks like a data center breakthrough, but the business investors are actually paying 298 times earnings for operates on completely different terrain from where this partnership lands.",
+        "pubDate": "2026-09-07T16:24:45Z",
+        "displayTime": "2026-09-07T16:24:45Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/1c1dc396a35c2546866e2450d8debbf1.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 840,
-          "caption": "A large red TSMC sign in front of the company's office building.",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/115c82074b909c1335df4e84ce78a241.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 767,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YKfFNbvjwBJwa_AN8L60vg--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1c1dc396a35c2546866e2450d8debbf1.jpg",
-              "width": 1400,
-              "height": 840,
+              "url": "https://s.yimg.com/uu/api/res/1.2/8f3DvifKVQn8MECFKFBk9g--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/115c82074b909c1335df4e84ce78a241.jpg",
+              "width": 1366,
+              "height": 767,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KuMmfccJJcQ9aCRoKjS00w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1c1dc396a35c2546866e2450d8debbf1.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/TNZ1fOG_1N1.8R0UcjB9kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/115c82074b909c1335df4e84ce78a241.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -25397,18 +25518,371 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/06/prediction-taiwan-semiconductor-s-market-value-passes-usd3-trillion-before-2029/",
+          "url": "https://247wallst.com/investing/2026/09/07/arm-expands-into-ai-accelerators-with-samsung-but-its-not-the-data-center-goldmine-investors-hope-for/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductors-market-value-225101856.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/arm-expands-ai-accelerators-samsung-162445436.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "53713611-210b-3f2b-98e9-79ec060f7149",
+      "content": {
+        "id": "53713611-210b-3f2b-98e9-79ec060f7149",
+        "contentType": "STORY",
+        "title": "South Korea’s ‘AI for All’ Is Great for Chipmakers, but It Will Run Into Wall of Reality",
+        "description": "",
+        "summary": "South Korea just promised free, unlimited AI to 51 million citizens, and the chipmakers supplying the hardware are already booking it as a win. But the gap between that promise and the compute reality behind it exposes something investors are missing.",
+        "pubDate": "2026-09-07T16:18:25Z",
+        "displayTime": "2026-09-07T16:18:25Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1707,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QIa9VAz7sc4Ch5Gqf5cDfQ--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
+              "width": 2560,
+              "height": 1707,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UhF5RjG94EYFBwSWvTqvhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/07/south-koreas-ai-for-all-is-great-for-chipmakers-but-it-will-run-into-wall-of-reality/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/south-korea-ai-great-chipmakers-161825561.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "35648c2c-666e-31e8-8e09-e688465ac93e",
+      "content": {
+        "id": "35648c2c-666e-31e8-8e09-e688465ac93e",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor Manufacturing Company (TSM) Raises Guidance as Demand for Advanced Chips Soars",
+        "description": "",
+        "summary": "Diamond Hill Capital, a First Eagle Investment Management company, issued its Q2 2026 investor letter for its “International Fund”. The letter can be downloaded here. The Fund returned 7.76% in the quarter, underperforming the MSCI ACWI ex USA Index’s 14.49% gain. Performance was driven by stock selection in health care and consumer discretionary sectors, while information technology […]",
+        "pubDate": "2026-09-07T14:26:02Z",
+        "displayTime": "2026-09-07T14:26:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033.jpg",
+          "originalWidth": 768,
+          "originalHeight": 430,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/yk2YVlqB0KyNAETo0DAhbQ--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033.jpg",
+              "width": 768,
+              "height": 430,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/.VO3eTDDun.HdFIbIHUk8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-142602670.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-142602670.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "723e9705-78c5-3d34-bfaa-e9243c4403ca",
+      "content": {
+        "id": "723e9705-78c5-3d34-bfaa-e9243c4403ca",
+        "contentType": "STORY",
+        "title": "Wall Street Analysts Think TSMC (TSM) Is a Good Investment: Is It?",
+        "description": "",
+        "summary": "The average brokerage recommendation (ABR) for TSMC (TSM) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+        "pubDate": "2026-09-07T13:30:05Z",
+        "displayTime": "2026-09-07T13:30:05Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/1154d43aaeb65735a640003549116295.jpg",
+          "originalWidth": 900,
+          "originalHeight": 506,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/cy6Q15E3hPxehOved2t3cA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1154d43aaeb65735a640003549116295.jpg",
+              "width": 900,
+              "height": 506,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bopHCqEo65Mt0sHUN.dD1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1154d43aaeb65735a640003549116295.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-tsmc-133005730.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-tsmc-133005730.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c16f4299-7532-32e9-9ea1-a44357976248",
+      "content": {
+        "id": "c16f4299-7532-32e9-9ea1-a44357976248",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor Retains 73% Foundry Share: Is the Stock a Buy?",
+        "description": "",
+        "summary": "TSMC holds a 73% foundry share as AI demand surges, while N2, N3 and advanced packaging investments fuel its growth outlook.",
+        "pubDate": "2026-09-07T12:49:00Z",
+        "displayTime": "2026-09-07T12:49:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/mLNJC3mbLrixuV.IIIBs0A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/l9hFfwa31EUQjsgiO7lY8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-retains-73-foundry-124900456.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-retains-73-foundry-124900456.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c8f0b48d-fd73-387d-a5ed-11620024d11b",
+      "content": {
+        "id": "c8f0b48d-fd73-387d-a5ed-11620024d11b",
+        "contentType": "STORY",
+        "title": "Buy These 5 Semiconductor Stocks as Sales Skyrocket on Solid AI Demand",
+        "description": "",
+        "summary": "ADI, TSM, TXN, NVDA and ACMR could benefit as surging semiconductor sales and solid AI demand fuel optimism for chip stocks.",
+        "pubDate": "2026-09-07T12:36:00Z",
+        "displayTime": "2026-09-07T12:36:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/a37bf1952483e0b1b3ad5c99eff1e8e8.jpg",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/93Upo_j9bigv20Ch2WiXjg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a37bf1952483e0b1b3ad5c99eff1e8e8.jpg",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/zf8XcKXqezC9XmViatfHpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a37bf1952483e0b1b3ad5c99eff1e8e8.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/buy-5-semiconductor-stocks-sales-123600819.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/buy-5-semiconductor-stocks-sales-123600819.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d67668a5-1fce-3c8f-8892-66ff5086d32b",
+      "content": {
+        "id": "d67668a5-1fce-3c8f-8892-66ff5086d32b",
+        "contentType": "STORY",
+        "title": "Micron Jumps 6% as AI Memory Trade Keeps Running",
+        "description": "",
+        "summary": "Shares closed at $1,016.59 as chip stocks rallied and investors continued to bet on tight AI-memory supply",
+        "pubDate": "2026-09-07T12:09:48Z",
+        "displayTime": "2026-09-07T12:09:48Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/micron-jumps-6-ai-memory-120948403.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/micron-jumps-6-ai-memory-120948403.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -25433,8 +25907,8 @@
         "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
         "description": "",
         "summary": "Dow Jones futures: The U.S. and Iran exchanged attacks. Nvidia, Micron, Sandisk are buys, but for how long? Apple, inflation data loom.",
-        "pubDate": "2026-09-06T22:31:15Z",
-        "displayTime": "2026-09-06T22:31:15Z",
+        "pubDate": "2026-09-07T03:06:47Z",
+        "displayTime": "2026-09-07T03:06:47Z",
         "isHosted": false,
         "bypassModal": false,
         "previewUrl": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html",
@@ -25470,445 +25944,6 @@
           "lang": "en-US"
         },
         "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "94bb7e36-d650-34ef-8e90-fa61163bd371",
-      "content": {
-        "id": "94bb7e36-d650-34ef-8e90-fa61163bd371",
-        "contentType": "STORY",
-        "title": "NVIDIA (NVDA)’s $20 Billion Groq Bet Goes Live This Year With New AI Racks",
-        "description": "",
-        "summary": "CNBC reported that NVIDIA Corporation (NASDAQ:NVDA)’s Groq 3 LPX rack is in full production and will be deployed alongside its Vera CPUs and Rubin GPUs at neocloud Nebius later this year, Nvidia senior director Dion Harris told reporters. The rack marks the commercialization of technology from Nvidia’s $20 billion purchase of Groq’s assets in December, […]",
-        "pubDate": "2026-09-06T19:07:37Z",
-        "displayTime": "2026-09-06T19:07:37Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc.jpg",
-          "originalWidth": 1456,
-          "originalHeight": 816,
-          "caption": "NVIDIA (NVDA)'s $20 Billion Groq Bet Goes Live This Year With New AI Racks",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AeWn7gBKOY63VCbycHlXOg--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc.jpg",
-              "width": 1456,
-              "height": 816,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/z4Iyq08VJzxIXtHXG9fIkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-20-billion-groq-190737433.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-20-billion-groq-190737433.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "52aa091d-d5be-333f-9494-3e95bfa98332",
-      "content": {
-        "id": "52aa091d-d5be-333f-9494-3e95bfa98332",
-        "contentType": "STORY",
-        "title": "ASML vs. Taiwan Semiconductor: Which Semiconductor Monopoly Is the Safer Investment?",
-        "description": "",
-        "summary": "ASML's monopoly is more established.",
-        "pubDate": "2026-09-05T19:20:00Z",
-        "displayTime": "2026-09-05T19:20:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4ca055ba828ad5026fb5e71a93ae5a89.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 934,
-          "caption": "Inspector holding up a chip.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uQJvHzpKYvn.VW0_YRboFg--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4ca055ba828ad5026fb5e71a93ae5a89.jpg",
-              "width": 1400,
-              "height": 934,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3Ifl6F4Gc4aTJgCKm5BxLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4ca055ba828ad5026fb5e71a93ae5a89.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/05/asml-vs-taiwan-semiconductor-which-semiconductor/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-vs-taiwan-semiconductor-semiconductor-192000370.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "02560d83-0935-3bc9-8705-961ebec2828f",
-      "content": {
-        "id": "02560d83-0935-3bc9-8705-961ebec2828f",
-        "contentType": "STORY",
-        "title": "Cadence Design Systems (CDNS) Following PCIe 6.0 Progress Has Fair Value Back In Focus",
-        "description": "",
-        "summary": "Cadence Design Systems (CDNS) recently reported first pass compliance for its PCIe 6.0 PHY and controller IP on TSMC’s N3 process, which has put a fresh spotlight on the stock after a weaker year of returns. Despite the PCIe 6.0 milestone, Cadence Design Systems’ recent share price performance has been weak, with the stock down 22.19% over 90 days and 13.16% over 30 days. The 1-year total shareholder return of 16.61% contrasts with longer term gains of 22.99% over three years and 75.41% over...",
-        "pubDate": "2026-09-05T09:07:10Z",
-        "displayTime": "2026-09-05T09:07:10Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/504f7eb80feee6c725b67fb74464457a.jpg",
-          "originalWidth": 1194,
-          "originalHeight": 432,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8bjMHmiCup34BsPrgHRJ9A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/504f7eb80feee6c725b67fb74464457a.jpg",
-              "width": 1194,
-              "height": 432,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ESPzhG6dzhGvzQCgjGZwkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/504f7eb80feee6c725b67fb74464457a.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/",
-          "sourceId": "simply_wall_st__316"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-following-090710711.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-following-090710711.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "3cdc4a58-db90-3840-a0c0-e6ff653c0506",
-      "content": {
-        "id": "3cdc4a58-db90-3840-a0c0-e6ff653c0506",
-        "contentType": "STORY",
-        "title": "Japan, U.S. advance $550 billion investment pact with AI, chips in focus",
-        "description": "",
-        "summary": "Investing.com -- Japan is making progress on a $550 billion investment initiative with the United States, with artificial intelligence and semiconductor projects expected to play a central role in the next phase of the agreement, Bloomberg reported on Friday.",
-        "pubDate": "2026-09-05T04:02:14Z",
-        "displayTime": "2026-09-05T04:02:14Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/japan-u-advance-550-billion-040214374.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/japan-u-advance-550-billion-040214374.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "798e221d-6bba-34bb-8128-84d42d6a2d83",
-      "content": {
-        "id": "798e221d-6bba-34bb-8128-84d42d6a2d83",
-        "contentType": "STORY",
-        "title": "TSMC (TSM) Increases Despite Market Slip: Here's What You Need to Know",
-        "description": "",
-        "summary": "TSMC (TSM) reached $428.91 at the closing of the latest trading day, reflecting a +2.85% change compared to its last close.",
-        "pubDate": "2026-09-04T21:45:03Z",
-        "displayTime": "2026-09-04T21:45:03Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/8442d24e11d454aa89061259a9714d43.jpg",
-          "originalWidth": 900,
-          "originalHeight": 601,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jJ3wNA6KzB2ynYr.NBgL6g--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8442d24e11d454aa89061259a9714d43.jpg",
-              "width": 900,
-              "height": 601,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/gBQ8xJWqllTVWJRygTdN3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8442d24e11d454aa89061259a9714d43.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-increases-despite-market-214503083.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-increases-despite-market-214503083.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "bcaca36a-eca3-374a-87e3-edb0dee16a00",
-      "content": {
-        "id": "bcaca36a-eca3-374a-87e3-edb0dee16a00",
-        "contentType": "STORY",
-        "title": "Prediction: Taiwan Semiconductor Stock Will Surge by 22% Before 2026 Ends",
-        "description": "",
-        "summary": "Taiwan Semiconductor is on course for strong revenue growth next year.",
-        "pubDate": "2026-09-04T19:50:00Z",
-        "displayTime": "2026-09-04T19:50:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5754da4f3608acc17a7fabe14de57bad.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 840,
-          "caption": "Image of Taiwan Semiconductor's headquarters.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/43CmGjaPoNcNz5x1rpzhzw--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5754da4f3608acc17a7fabe14de57bad.jpg",
-              "width": 1400,
-              "height": 840,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ROYD.NmQl8eGBZI3aO6aWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5754da4f3608acc17a7fabe14de57bad.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/04/prediction-taiwan-semiconductor-stock-will-surge-2/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-stock-surge-195000760.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ab850936-fd77-32fa-b761-7fb3a7c874b3",
-      "content": {
-        "id": "ab850936-fd77-32fa-b761-7fb3a7c874b3",
-        "contentType": "STORY",
-        "title": "ASML Plans 40% Japan Workforce Expansion to Support Chip Boom",
-        "description": "",
-        "summary": "ASML plans to increase its Japan workforce from 500 to about 700 by 2030 as Rapidus and TSMC expand advanced chip production.",
-        "pubDate": "2026-09-04T18:35:14Z",
-        "displayTime": "2026-09-04T18:35:14Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/asml-plans-40-japan-workforce-183514067.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/asml-plans-40-japan-workforce-183514067.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2d709214-ff7e-3e27-8d69-baaf9498acc7",
-      "content": {
-        "id": "2d709214-ff7e-3e27-8d69-baaf9498acc7",
-        "contentType": "STORY",
-        "title": "ASML Rockets 4% as TSMC's Tool Hunger Nearly Doubles",
-        "description": "",
-        "summary": "TSMC's equipment requirements grew 1.9 times in six months, validating ASML's aggressive capacity expansion.",
-        "pubDate": "2026-09-04T17:10:57Z",
-        "displayTime": "2026-09-04T17:10:57Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-rockets-4-tsmcs-tool-171057023.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-rockets-4-tsmcs-tool-171057023.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
         "metadata": {
           "editorsPick": false
         },
@@ -26028,24 +26063,24 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2390.0,
-    "open": 2415.0,
-    "dayLow": 2390.0,
-    "dayHigh": 2415.0,
-    "regularMarketPreviousClose": 2390.0,
-    "regularMarketOpen": 2415.0,
-    "regularMarketDayLow": 2390.0,
-    "regularMarketDayHigh": 2415.0,
+    "previousClose": 2410.0,
+    "open": 2435.0,
+    "dayLow": 2430.0,
+    "dayHigh": 2460.0,
+    "regularMarketPreviousClose": 2410.0,
+    "regularMarketOpen": 2435.0,
+    "regularMarketDayLow": 2430.0,
+    "regularMarketDayHigh": 2460.0,
     "dividendRate": 28.0,
-    "dividendYield": 1.16,
+    "dividendYield": 1.14,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2573,
     "fiveYearAvgDividendYield": 1.67,
     "beta": 1.247,
-    "trailingPE": 28.17066,
-    "forwardPE": 16.956417,
-    "volume": 14090018,
-    "regularMarketVolume": 14090018,
+    "trailingPE": 28.73496,
+    "forwardPE": 17.308208,
+    "volume": 26592285,
+    "regularMarketVolume": 26592285,
     "averageVolume": 28275477,
     "averageVolume10days": 16106225,
     "averageDailyVolume10Day": 16106225,
@@ -26053,21 +26088,21 @@
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 62497012842496,
+    "marketCap": 63793631592448,
     "nonDilutedMarketCap": 62497011861470,
     "fiftyTwoWeekLow": 1180.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2410.0,
-    "priceToSalesTrailing12Months": 14.074343,
+    "fulldayPrice": 2460.0,
+    "priceToSalesTrailing12Months": 14.366342,
     "fiftyDayAverage": 2392.2,
     "twoHundredDayAverage": 2033.275,
     "trailingAnnualDividendRate": 26.0,
-    "trailingAnnualDividendYield": 0.010878661,
+    "trailingAnnualDividendYield": 0.010788382,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 60089511706624,
+    "enterpriseValue": 61386130456576,
     "profitMargins": 0.49923,
     "floatShares": 23651877382,
     "sharesOutstanding": 25932370067,
@@ -26075,25 +26110,25 @@
     "heldPercentInstitutions": 0.4328,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.05,
-    "priceToBook": 9.715783,
+    "priceToBook": 9.917356,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808415232,
-    "trailingEps": 85.55,
+    "trailingEps": 85.61,
     "forwardEps": 142.12909,
     "pegRatio": 0.72,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.532,
-    "enterpriseToEbitda": 18.971,
+    "enterpriseToRevenue": 13.824,
+    "enterpriseToEbitda": 19.38,
     "52WeekChange": 1.042373,
     "SandP52WeekChange": 0.18836367,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1796860800,
     "quoteType": "EQUITY",
-    "currentPrice": 2410.0,
+    "currentPrice": 2460.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2650.0,
     "targetMeanPrice": 3229.3333,
@@ -26128,38 +26163,7 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 28275477,
-    "fiftyTwoWeekLowChange": 1230.0,
-    "fiftyTwoWeekLowChangePercent": 1.0423728,
-    "fiftyTwoWeekRange": "1180.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -125.0,
-    "fiftyTwoWeekHighChangePercent": -0.049309663,
-    "fiftyTwoWeekChangePercent": 104.2373,
-    "earningsTimestamp": 1784179800,
-    "earningsTimestampStart": 1792042200,
-    "earningsTimestampEnd": 1792042200,
-    "earningsCallTimestampStart": 1784181600,
-    "earningsCallTimestampEnd": 1784181600,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 85.55,
-    "epsForward": 142.12909,
-    "epsCurrentYear": 107.6434,
-    "priceEpsCurrentYear": 22.388739,
-    "fiftyDayAverageChange": 17.800049,
-    "fiftyDayAverageChangePercent": 0.00744087,
-    "twoHundredDayAverageChange": 376.72498,
-    "twoHundredDayAverageChangePercent": 0.18527989,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
     "marketState": "PREPRE",
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": 20.0,
-    "regularMarketDayRange": "2390.0 - 2415.0",
     "corporateActions": [
       {
         "header": "Dividend",
@@ -26171,8 +26175,7 @@
         }
       }
     ],
-    "regularMarketTime": 1788499812,
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "regularMarketTime": 1788759010,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -26180,8 +26183,42 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 0.83682007,
-    "regularMarketPrice": 2410.0,
+    "regularMarketChangePercent": 2.074689,
+    "regularMarketPrice": 2460.0,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": 50.0,
+    "fulldayChange": 50.0,
+    "fulldayChangePercent": 2.074689,
+    "regularMarketDayRange": "2430.0 - 2460.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 28275477,
+    "fiftyTwoWeekLowChange": 1280.0,
+    "fiftyTwoWeekLowChangePercent": 1.0847458,
+    "fiftyTwoWeekRange": "1180.0 - 2535.0",
+    "fiftyTwoWeekHighChange": -75.0,
+    "fiftyTwoWeekHighChangePercent": -0.0295858,
+    "fiftyTwoWeekChangePercent": 104.2373,
+    "earningsTimestamp": 1784179800,
+    "earningsTimestampStart": 1792042200,
+    "earningsTimestampEnd": 1792042200,
+    "earningsCallTimestampStart": 1784181600,
+    "earningsCallTimestampEnd": 1784181600,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 85.61,
+    "epsForward": 142.12909,
+    "epsCurrentYear": 107.6434,
+    "priceEpsCurrentYear": 22.853235,
+    "fiftyDayAverageChange": 67.80005,
+    "fiftyDayAverageChangePercent": 0.028342133,
+    "twoHundredDayAverageChange": 426.72498,
+    "twoHundredDayAverageChangePercent": 0.20987076,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
     "trailingPegRatio": 0.7209
   }
 }
