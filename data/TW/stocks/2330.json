@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-09-09T23:43:36.525973"
+    "ts": "2026-09-10T23:35:59.476582"
   },
   "financials": {
     "annual": {
@@ -2675,6 +2675,15 @@
         "revenue_month": 7,
         "revenue_year": 2026,
         "create_time": "2026-08-10"
+      },
+      {
+        "date": "2026-09-01",
+        "stock_id": "2330",
+        "country": "Taiwan",
+        "revenue": 514805337000,
+        "revenue_month": 8,
+        "revenue_year": 2026,
+        "create_time": "2026-09-10"
       }
     ],
     "inst_investors": [
@@ -25462,6 +25471,41 @@
         "buy": 118231,
         "name": "Investment_Trust",
         "sell": 321824
+      },
+      {
+        "date": "2026-09-10",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-09-10",
+        "stock_id": "2330",
+        "buy": 261200,
+        "name": "Dealer_self",
+        "sell": 466500
+      },
+      {
+        "date": "2026-09-10",
+        "stock_id": "2330",
+        "buy": 158345,
+        "name": "Dealer_Hedging",
+        "sell": 50338
+      },
+      {
+        "date": "2026-09-10",
+        "stock_id": "2330",
+        "buy": 11449366,
+        "name": "Foreign_Investor",
+        "sell": 13393650
+      },
+      {
+        "date": "2026-09-10",
+        "stock_id": "2330",
+        "buy": 168001,
+        "name": "Investment_Trust",
+        "sell": 615801
       }
     ],
     "margin_trading": [],
@@ -25469,342 +25513,32 @@
   },
   "news": [
     {
-      "id": "d4f57631-0269-38dc-99a2-d088cd5e2a69",
+      "id": "c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6",
       "content": {
-        "id": "d4f57631-0269-38dc-99a2-d088cd5e2a69",
+        "id": "c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6",
         "contentType": "STORY",
-        "title": "Defiance Politely Asks the SEC to Let It Sell An ETF 8-Ball",
+        "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
         "description": "",
-        "summary": "Sixteen new Defiance ETFs would reset 2x leverage six times a session, which is more leverage than the SEC’s current 3x line in the sand",
-        "pubDate": "2026-09-09T17:05:04Z",
-        "displayTime": "2026-09-09T17:05:04Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/moby_896/ca39e6c73b7b82f9630b4e92c548d629.jpg",
-          "originalWidth": 928,
-          "originalHeight": 1152,
-          "caption": "Defiance Politely Asks the SEC to Let It Sell An ETF 8-Ball",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tvMu0Oaujl9N3png2jvOig--~B/aD0xMTUyO3c9OTI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moby_896/ca39e6c73b7b82f9630b4e92c548d629.jpg",
-              "width": 928,
-              "height": 1152,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CX_cz6fZb0Bt7ZQ3GwAyHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/ca39e6c73b7b82f9630b4e92c548d629.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Moby",
-          "url": "https://moby.co/",
-          "sourceId": "moby_896"
-        },
-        "canonicalUrl": {
-          "url": "https://app.moby.co/home/news/news-defiance-politely-asks-the-sec-to-let-it-sell-an-etf-8-ball?utm_source=yahoo_finance&utm_medium=rss",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/options/articles/defiance-politely-asks-sec-let-170504737.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "aec0c80d-5e7d-3e1c-927f-b2cf83455bd2",
-      "content": {
-        "id": "aec0c80d-5e7d-3e1c-927f-b2cf83455bd2",
-        "contentType": "STORY",
-        "title": "Amkor Expands Advanced Packaging: Can Its $12B Arizona Bet Pay Off?",
-        "description": "",
-        "summary": "AMKR's $12B Arizona expansion adds major advanced packaging capacity, backed by customer commitments and key TSMC and NVIDIA partnerships.",
-        "pubDate": "2026-09-09T16:32:00Z",
-        "displayTime": "2026-09-09T16:32:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/a46378dfb550e3e467a8fd7785c2cff1.jpg",
-          "originalWidth": 619,
-          "originalHeight": 298,
-          "caption": "Zacks Investment Research",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hOKI_dcYDeSqEMtGF.QUag--~B/aD0yOTg7dz02MTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a46378dfb550e3e467a8fd7785c2cff1.jpg",
-              "width": 619,
-              "height": 298,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/B4u9yfH_80qcU92jxYmByQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a46378dfb550e3e467a8fd7785c2cff1.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/amkor-expands-advanced-packaging-12b-163200042.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/amkor-expands-advanced-packaging-12b-163200042.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a1392d61-a49d-378c-a7f5-5341c866dc4b",
-      "content": {
-        "id": "a1392d61-a49d-378c-a7f5-5341c866dc4b",
-        "contentType": "STORY",
-        "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
-        "description": "",
-        "summary": "AMD's CFO just reshaped how big the AI chip market could get, and investors sent the stock surging past a key technical level while quietly slamming a door on one of Intel's biggest hopes.",
-        "pubDate": "2026-09-09T14:45:21Z",
-        "displayTime": "2026-09-09T14:45:21Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/31906370a742b7a1e1868a772e6df33e.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fINsHzF1n6moPs6yohUnLw--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/31906370a742b7a1e1868a772e6df33e.jpg",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Wkn0TG5GcS2EUwUtlBOgPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/31906370a742b7a1e1868a772e6df33e.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/09/09/amd-rises-3-as-cfo-lifts-ai-chip-market-forecast-toward-3-trillion-intel-ticks-up/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-rises-3-cfo-lifts-144521803.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "de288284-8615-3b17-95c0-66d5bfb30b90",
-      "content": {
-        "id": "de288284-8615-3b17-95c0-66d5bfb30b90",
-        "contentType": "STORY",
-        "title": "Can ASML's Tie-Up With TSM to Advance High NA EUV Drive Growth?",
-        "description": "",
-        "summary": "ASML and TSM are collaborating on a 12-inch photomask pilot line to advance High NA EUV and boost semiconductor manufacturing efficiency.",
-        "pubDate": "2026-09-09T14:35:00Z",
-        "displayTime": "2026-09-09T14:35:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mLNJC3mbLrixuV.IIIBs0A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/l9hFfwa31EUQjsgiO7lY8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c148afeaf671cd9b76653364f8737563.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/asmls-tie-tsm-advance-high-143500352.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/asmls-tie-tsm-advance-high-143500352.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9671533e-a675-3273-bcb5-ce55d686ecf3",
-      "content": {
-        "id": "9671533e-a675-3273-bcb5-ce55d686ecf3",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is Attracting Investor Attention: Here is What You Should Know",
-        "description": "",
-        "summary": "Zacks.com users have recently been watching TSMC (TSM) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-        "pubDate": "2026-09-09T13:00:06Z",
-        "displayTime": "2026-09-09T13:00:06Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af.jpg",
-          "originalWidth": 900,
-          "originalHeight": 618,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KTl24dh.UIFdKCe6M4YmgA--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af.jpg",
-              "width": 900,
-              "height": 618,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Jg0wyFYnWEtHnbiIq96A3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130006363.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130006363.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "61edb329-2f31-3e10-8832-6860b7819ab2",
-      "content": {
-        "id": "61edb329-2f31-3e10-8832-6860b7819ab2",
-        "contentType": "STORY",
-        "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
-        "description": "",
-        "summary": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
-        "pubDate": "2026-09-09T12:13:35Z",
-        "displayTime": "2026-09-09T12:13:35Z",
+        "summary": "The S&P 500 undercut its 50-day as Treasury yields and oil prices surged. Oracle jumped late on earnings. The CPI inflation report could lock in expectations for a Fed rate hike next week.",
+        "pubDate": "2026-09-10T23:23:56Z",
+        "displayTime": "2026-09-10T23:23:56Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures-fall-as-oil.html",
+        "previewUrl": "https://finance.yahoo.com/m/c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6/dow-jones-futures-s-p-500.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/3466ef5c612e56be40cc67bae4229f0d.jpg",
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/0d4acf673fc25d771ccaf98f6d33b24b.jpg",
           "originalWidth": 1000,
           "originalHeight": 511,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/5mDzewWGM2rMwEnoeGuqSw--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/3466ef5c612e56be40cc67bae4229f0d.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/BLNETgnbkIYEsKUEhvih4Q--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0d4acf673fc25d771ccaf98f6d33b24b.jpg",
               "width": 1000,
               "height": 511,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/TI1G5s87oaQ0UM3.sn.G6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/3466ef5c612e56be40cc67bae4229f0d.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/1voiHn2C4xQFlSrNYQcQWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0d4acf673fc25d771ccaf98f6d33b24b.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -25817,7 +25551,7 @@
           "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -25836,156 +25570,32 @@
       }
     },
     {
-      "id": "a5c0d5d9-4c54-376b-a5c8-da6a2fd5c4d8",
+      "id": "d4feae93-8f81-3f17-919f-ce62e6a6ecc3",
       "content": {
-        "id": "a5c0d5d9-4c54-376b-a5c8-da6a2fd5c4d8",
+        "id": "d4feae93-8f81-3f17-919f-ce62e6a6ecc3",
         "contentType": "STORY",
-        "title": "TSMC’s High-NA Plan Gives ASML a Catalyst, but Investors Face Two Different Timelines",
+        "title": "TSMC (TSM) Registers a Bigger Fall Than the Market: Important Facts to Note",
         "description": "",
-        "summary": "ASML Holding N.V. (NASDAQ:ASML) and Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) have given investors a clearer view of their next manufacturing transition. The important distinction is when each company might earn a return. Their September 8 announcement says TSMC intends to introduce ASML’s High-NA extreme ultraviolet technology into high-volume advanced-node manufacturing starting in 2030. A […]",
-        "pubDate": "2026-09-09T10:18:31Z",
-        "displayTime": "2026-09-09T10:18:31Z",
+        "summary": "In the closing of the recent trading day, TSMC (TSM) stood at $428.03, denoting a -1.68% move from the preceding trading day.",
+        "pubDate": "2026-09-10T21:45:05Z",
+        "displayTime": "2026-09-10T21:45:05Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/8173aa651b38f1e16ad2d9d9f7db6b9d.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "caption": "TSMC’s High-NA Plan Gives ASML a Catalyst, but Investors Face Two Different Timelines",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Aysoirq9xydomg3KVTbuZw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/8173aa651b38f1e16ad2d9d9f7db6b9d.jpg",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XWjlxOjXDKbK2SSzynsspQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8173aa651b38f1e16ad2d9d9f7db6b9d.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-high-na-plan-gives-101831920.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-high-na-plan-gives-101831920.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "38f91a7b-4905-34ef-8316-992ad4c1b379",
-      "content": {
-        "id": "38f91a7b-4905-34ef-8316-992ad4c1b379",
-        "contentType": "STORY",
-        "title": "ASML Inks Advanced EUV Lithography Deals With Chip Titans TSMC, Samsung",
-        "description": "",
-        "summary": "Barclays analysts called the announcement a “positive” for High NA EUV machines, which are viewed as crucial to ASML’s revenue growth.",
-        "pubDate": "2026-09-09T04:01:00Z",
-        "displayTime": "2026-09-09T04:01:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/the_daily_upside_435/6ecf4e4b7e2f71e465339cbb04df0f3a.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 901,
-          "caption": "ASML's headquarters in the Dutch town of Veldhoven is shown in front of a bright blue and cloudy sky.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/f.OvCueNbqO8RC9LivdlVQ--~B/aD05MDE7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_daily_upside_435/6ecf4e4b7e2f71e465339cbb04df0f3a.jpg",
-              "width": 1600,
-              "height": 901,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ZSeh5aTspUZY06wXypGQQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_daily_upside_435/6ecf4e4b7e2f71e465339cbb04df0f3a.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Daily Upside",
-          "url": "http://thedailyupside.com/",
-          "sourceId": "the_daily_upside_435"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thedailyupside.com/technology/semiconductors/asml-inks-advanced-euv-lithography-deals-with-chip-titans-tsmc-samsung/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/asml-inks-advanced-euv-lithography-040100681.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "fc2e805a-0f6e-3612-aaca-8b0eed83cedc",
-      "content": {
-        "id": "fc2e805a-0f6e-3612-aaca-8b0eed83cedc",
-        "contentType": "STORY",
-        "title": "INTC Stock Slips Overnight: AMD Reaffirms TSMC Ties Amid Intel Foundry Buzz — But Keeps Supplier Options Open",
-        "description": "",
-        "summary": "UBS said last month that TSMC packaging constraints could steer AMD and other customers toward Intel’s EMIB-T tech, potentially in 2027.",
-        "pubDate": "2026-09-09T03:45:07Z",
-        "displayTime": "2026-09-09T03:45:07Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/2da032fd6e4bde554a83f77ffeaf6051",
-          "originalWidth": 1280,
-          "originalHeight": 853,
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a.jpg",
+          "originalWidth": 900,
+          "originalHeight": 587,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/yzTuMMq230fd3wilqDp0Qw--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/2da032fd6e4bde554a83f77ffeaf6051",
-              "width": 1280,
-              "height": 853,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ikIds6hUL3G4Vn4HTtDg4w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a.jpg",
+              "width": 900,
+              "height": 587,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IokfIhsJvzVwTpXlalSMqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2da032fd6e4bde554a83f77ffeaf6051",
+              "url": "https://s.yimg.com/uu/api/res/1.2/IJi7.uyRDAYiY6KzF6VjIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -25993,18 +25603,18 @@
           ]
         },
         "provider": {
-          "displayName": "Stocktwits",
-          "url": "Stocktwits",
-          "sourceId": "stocktwits_383"
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
         },
         "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/intc-stock-amd-reaffirms-tsmc-ties-intel-foundry-buzz-supplier-options-open/cZtepN6RJyS",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-registers-bigger-fall-214505555.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-stock-slips-overnight-amd-034507732.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-registers-bigger-fall-214505555.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -26022,32 +25632,75 @@
       }
     },
     {
-      "id": "2f85f0e1-2424-3129-9a0f-dec81c62fa15",
+      "id": "86f8dfc5-efcf-3c39-a2ea-ef638529df3f",
       "content": {
-        "id": "2f85f0e1-2424-3129-9a0f-dec81c62fa15",
+        "id": "86f8dfc5-efcf-3c39-a2ea-ef638529df3f",
         "contentType": "STORY",
-        "title": "Intel, Amkor, Nova, Qualcomm, and FormFactor Stocks Trade Up, What You Need To Know",
+        "title": "Positron AI’s $875M Bet: Commodity Memory Could Break NVIDIA’s Inference Lock",
         "description": "",
-        "summary": "A number of stocks jumped in the afternoon session after Qualcomm announced a multi-generational product collaboration with Amazon Web Services to develop custom AI data center infrastructure, while ASML, TSMC, and Intel achieved key milestones in next-generation chip manufacturing. According to a Qualcomm press release, the chipmaker announced a multi-generational product collaboration with Amazon Web Services (AWS) to develop custom AI data center infrastructure. The strategic partnership focu",
-        "pubDate": "2026-09-09T01:43:18Z",
-        "displayTime": "2026-09-09T01:43:18Z",
+        "summary": "Positron AI has raised $875 million in a combined Series C and Series C-1 round, valuing the Reno-based startup at $5 billion post-money. The financing, co-led by NEA, Andra Capital, Atreides Management, Valor Equity Partners, and SemiAnalysis Capital, represents a roughly five-fold markup from the company’s February 2026 Series B valuation of just over $1 […]",
+        "pubDate": "2026-09-10T21:24:52Z",
+        "displayTime": "2026-09-10T21:24:52Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Forkast News",
+          "url": "https://forkast.news/",
+          "sourceId": "forkast_news_articles_672"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/positron-ai-875m-bet-commodity-212452199.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/positron-ai-875m-bet-commodity-212452199.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e649c2ad-ebc5-3944-8590-40404fcd0b01",
+      "content": {
+        "id": "e649c2ad-ebc5-3944-8590-40404fcd0b01",
+        "contentType": "STORY",
+        "title": "Tech, Media & Telecom Roundup: Market Talk",
+        "description": "",
+        "summary": "Find insight on Oracle, Technoprobe, SoftBank Group and more in the latest Market Talks covering Technology, Media and Telecom.",
+        "pubDate": "2026-09-10T20:52:00Z",
+        "displayTime": "2026-09-10T20:52:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/e649c2ad-ebc5-3944-8590-40404fcd0b01/tech-media-telecom.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/26594c18ecd46f48ca56513fd36d2a77.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "INTC Cover Image",
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/7400ac4ecb3dec723050838010f4246a.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/C5wNjrgiCyBfcCD4j1rpxg--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/26594c18ecd46f48ca56513fd36d2a77.jpg",
-              "width": 1400,
-              "height": 700,
+              "url": "https://s.yimg.com/uu/api/res/1.2/dkYpgUrHSdiPeY5ipbdLWQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7400ac4ecb3dec723050838010f4246a.jpg",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QPSh67foPLihTX2g19tchA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/26594c18ecd46f48ca56513fd36d2a77.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/QGO5qYBu6y9p0zyKUbcqLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7400ac4ecb3dec723050838010f4246a.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -26055,22 +25708,355 @@
           ]
         },
         "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-amkor-nova-qualcomm-formfactor-014318045.html",
+          "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-ad87364c?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ec679c90-387e-3f13-8089-8aa3e4c83fbf",
+      "content": {
+        "id": "ec679c90-387e-3f13-8089-8aa3e4c83fbf",
+        "contentType": "STORY",
+        "title": "Stocks to Watch Thursday Recap: Apple, Oracle, TSMC",
+        "description": "",
+        "summary": "↗️ Apple (AAPL): Shares closed up 3.6% a day after the company introduced its first-ever foldable iPhone at a product event that also featured Apple’s new CEO, John Ternus. 🔎 Oracle (ORCL): Shares were surging more than 6% in recent aftermarket trading after the database and cloud-computing company posted sharply higher profit and revenue in its latest quarter, with sales from its cloud-infrastructure business more than doubling.",
+        "pubDate": "2026-09-10T20:48:57Z",
+        "displayTime": "2026-09-10T20:48:57Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/ec679c90-387e-3f13-8089-8aa3e4c83fbf/stocks-to-watch-thursday.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/9bcea940392b0b422dacab0b76fdc94b.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/U671MhEI7uOSZqqGuSAceQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/9bcea940392b0b422dacab0b76fdc94b.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/qoFQJXyXDeQzXTQNfJ.AJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/9bcea940392b0b422dacab0b76fdc94b.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/",
+          "sourceId": "wsj.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/stocks-to-watch-thursday-apple-oracle-tsmc-4dbFEm37R73WBQzR64m3?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "248a808f-3481-3dd2-97d4-fdb98b4fea00",
+      "content": {
+        "id": "248a808f-3481-3dd2-97d4-fdb98b4fea00",
+        "contentType": "STORY",
+        "title": "Oracle, SpaceX, Cooper Cos., Macy’s, Apple, Navan, and More Stocks That Explain Today’s Market",
+        "description": "",
+        "summary": "Stocks fell on Thursday as the market tussled between strong earnings and a downward drag from growing inflationary pressures.  However, Guggenheim analyst Simeon Siegel noted that gross margin may have missed expectations.",
+        "pubDate": "2026-09-10T20:39:00Z",
+        "displayTime": "2026-09-10T20:39:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/248a808f-3481-3dd2-97d4-fdb98b4fea00/oracle-spacex-cooper-cos-.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/bcbc08a871496da31397e7d69bc03a24.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/hFcy5GkOcTtEnR9dfdb6ZQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bcbc08a871496da31397e7d69bc03a24.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3QA8srcWVpOqoXKBbP4G3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/bcbc08a871496da31397e7d69bc03a24.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/stock-movers-76a48c30?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "e58abbee-8bff-358b-9786-598649b412c6",
+      "content": {
+        "id": "e58abbee-8bff-358b-9786-598649b412c6",
+        "contentType": "STORY",
+        "title": "TSMC Falls After Record Sales--AI Investors Want Even More",
+        "description": "",
+        "summary": "August revenue accelerated sharply, yet higher bond yields and elevated expectations overwhelmed the operating evidence.",
+        "pubDate": "2026-09-10T18:10:38Z",
+        "displayTime": "2026-09-10T18:10:38Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-falls-record-sales-ai-181038310.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-amkor-nova-qualcomm-formfactor-014318045.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-falls-record-sales-ai-181038310.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "16f9ab64-fde9-3b65-bfd7-d5c308309255",
+      "content": {
+        "id": "16f9ab64-fde9-3b65-bfd7-d5c308309255",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor September Revenue Surges 53% and Can’t Keep Up With Demand",
+        "description": "",
+        "summary": "TSMC just posted numbers that blew past its own guidance and left customers waiting, yet shares dipped in premarket trading. Here is what the August revenue report reveals about the widening gap between AI chip demand and the supply chain scrambling to catch up.",
+        "pubDate": "2026-09-10T15:12:24Z",
+        "displayTime": "2026-09-10T15:12:24Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/4606206ec68e130b309a25d56899fafa.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/1iPd_m7bJho_qkZX0m2HXA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/4606206ec68e130b309a25d56899fafa.jpg",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/fwPgdcas9fVQug9ToCoXzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4606206ec68e130b309a25d56899fafa.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/10/taiwan-semiconductor-september-revenue-surges-53-and-cant-keep-up-with-demand/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-september-revenue-surges-151224109.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "db9f57fb-1dac-3c6f-81f8-a65daaa01d62",
+      "content": {
+        "id": "db9f57fb-1dac-3c6f-81f8-a65daaa01d62",
+        "contentType": "STORY",
+        "title": "Top Semiconductor ETFs That Investors May Buy in September",
+        "description": "",
+        "summary": "Semiconductor ETFs are riding AI-driven demand and rising chip investment, with four funds offering diversified exposure to the industry's next growth phase.",
+        "pubDate": "2026-09-10T15:05:00Z",
+        "displayTime": "2026-09-10T15:05:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/005dc0f87f83d9178f77210ccb9226a7.jpg",
+          "originalWidth": 635,
+          "originalHeight": 400,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LHtljzZQ0nOYju751tYa3w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/005dc0f87f83d9178f77210ccb9226a7.jpg",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/c8.i6yQ0WD4Nzut8X0cFFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/005dc0f87f83d9178f77210ccb9226a7.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-semiconductor-etfs-investors-may-150500946.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-semiconductor-etfs-investors-may-150500946.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "83a9530d-2b69-37c3-a3b3-edb030c2df7c",
+      "content": {
+        "id": "83a9530d-2b69-37c3-a3b3-edb030c2df7c",
+        "contentType": "STORY",
+        "title": "TSMC Posts Record Sales. Why AMD and Other Chip Stocks Are Falling.",
+        "description": "",
+        "summary": "Even record-breaking monthly revenue from the world’s biggest chip manufacturer isn’t reviving the faltering AI trade.",
+        "pubDate": "2026-09-10T14:26:00Z",
+        "displayTime": "2026-09-10T14:26:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/83a9530d-2b69-37c3-a3b3-edb030c2df7c/tsmc-posts-record-sales-why.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/d50d0860ac7887469b58ea591574ab39.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HhzP8IwHdYLRFtAoL1IsMA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d50d0860ac7887469b58ea591574ab39.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/f5.NPKpVa2flYJj27OUG4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/d50d0860ac7887469b58ea591574ab39.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/tsmc-stock-sales-taiwan-semi-88079076?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
@@ -26190,72 +26176,74 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2470.0,
-    "open": 2480.0,
-    "dayLow": 2460.0,
-    "dayHigh": 2490.0,
-    "regularMarketPreviousClose": 2470.0,
-    "regularMarketOpen": 2480.0,
-    "regularMarketDayLow": 2460.0,
-    "regularMarketDayHigh": 2490.0,
+    "previousClose": 2465.0,
+    "open": 2445.0,
+    "dayLow": 2435.0,
+    "dayHigh": 2455.0,
+    "regularMarketPreviousClose": 2465.0,
+    "regularMarketOpen": 2445.0,
+    "regularMarketDayLow": 2435.0,
+    "regularMarketDayHigh": 2455.0,
     "dividendRate": 28.0,
     "dividendYield": 1.14,
     "exDividendDate": 1789516800,
     "payoutRatio": 0.2573,
     "fiveYearAvgDividendYield": 1.67,
     "beta": 1.247,
-    "trailingPE": 28.816927,
-    "forwardPE": 17.33378,
-    "volume": 16569413,
-    "regularMarketVolume": 16569413,
-    "averageVolume": 27811034,
-    "averageVolume10days": 18581050,
-    "averageDailyVolume10Day": 18581050,
+    "trailingPE": 28.81675,
+    "forwardPE": 17.2283,
+    "volume": 18897639,
+    "regularMarketVolume": 18897639,
+    "averageVolume": 27389330,
+    "averageVolume10days": 18376726,
+    "averageDailyVolume10Day": 18376726,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 63923290112000,
-    "nonDilutedMarketCap": 64052954065490,
-    "fiftyTwoWeekLow": 1215.0,
+    "marketCap": 63534306164736,
+    "nonDilutedMarketCap": 63923292215155,
+    "fiftyTwoWeekLow": 1235.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2465.0,
-    "priceToSalesTrailing12Months": 14.395541,
-    "fiftyDayAverage": 2395.2,
-    "twoHundredDayAverage": 2043.975,
+    "fulldayPrice": 2450.0,
+    "fulldayChange": -15.0,
+    "fulldayChangePercent": -0.006085193,
+    "priceToSalesTrailing12Months": 14.307941,
+    "fiftyDayAverage": 2394.4,
+    "twoHundredDayAverage": 2049.1,
     "trailingAnnualDividendRate": 26.0,
-    "trailingAnnualDividendYield": 0.010526316,
+    "trailingAnnualDividendYield": 0.010547668,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 61515793170432,
+    "enterpriseValue": 61126809223168,
     "profitMargins": 0.49923,
     "floatShares": 23651877382,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00023,
-    "heldPercentInstitutions": 0.43298998,
+    "heldPercentInstitutions": 0.43298,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.05,
-    "priceToBook": 9.937512,
+    "priceToBook": 9.877041,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808415232,
-    "trailingEps": 85.54,
+    "trailingEps": 85.02,
     "forwardEps": 142.20787,
     "pegRatio": 0.74,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.853,
-    "enterpriseToEbitda": 19.421,
-    "52WeekChange": 1.0163264,
-    "SandP52WeekChange": 0.17475092,
+    "enterpriseToRevenue": 13.766,
+    "enterpriseToEbitda": 19.298,
+    "52WeekChange": 0.98790324,
+    "SandP52WeekChange": 0.15922499,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1796860800,
     "quoteType": "EQUITY",
-    "currentPrice": 2465.0,
+    "currentPrice": 2450.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2650.0,
     "targetMeanPrice": 3229.3333,
@@ -26290,43 +26278,6 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "regularMarketChangePercent": -0.20242916,
-    "regularMarketPrice": 2465.0,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "priceEpsCurrentYear": 22.899685,
-    "fiftyDayAverageChange": 69.80005,
-    "fiftyDayAverageChangePercent": 0.029141638,
-    "twoHundredDayAverageChange": 421.02502,
-    "twoHundredDayAverageChangePercent": 0.20598346,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "marketState": "PREPRE",
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": -5.0,
-    "fulldayChange": -5.0,
-    "fulldayChangePercent": -0.20242916,
-    "regularMarketDayRange": "2460.0 - 2490.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 27811034,
-    "fiftyTwoWeekLowChange": 1250.0,
-    "fiftyTwoWeekLowChangePercent": 1.0288066,
-    "fiftyTwoWeekRange": "1215.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -70.0,
-    "fiftyTwoWeekHighChangePercent": -0.027613413,
-    "fiftyTwoWeekChangePercent": 101.632645,
-    "earningsTimestamp": 1784179800,
-    "earningsTimestampStart": 1792042200,
-    "earningsTimestampEnd": 1792042200,
-    "earningsCallTimestampStart": 1784181600,
-    "earningsCallTimestampEnd": 1784181600,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 85.54,
-    "epsForward": 142.20787,
-    "epsCurrentYear": 107.6434,
     "corporateActions": [
       {
         "header": "Dividend",
@@ -26338,7 +26289,38 @@
         }
       }
     ],
-    "regularMarketTime": 1788931807,
+    "regularMarketTime": 1789018210,
+    "cryptoTradeable": false,
+    "marketState": "PREPRE",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": -15.0,
+    "regularMarketDayRange": "2435.0 - 2455.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 27389330,
+    "fiftyTwoWeekLowChange": 1215.0,
+    "fiftyTwoWeekLowChangePercent": 0.98380566,
+    "fiftyTwoWeekRange": "1235.0 - 2535.0",
+    "fiftyTwoWeekHighChange": -85.0,
+    "fiftyTwoWeekHighChangePercent": -0.03353057,
+    "fiftyTwoWeekChangePercent": 98.79032,
+    "earningsTimestamp": 1784179800,
+    "earningsTimestampStart": 1792042200,
+    "earningsTimestampEnd": 1792042200,
+    "earningsCallTimestampStart": 1784181600,
+    "earningsCallTimestampEnd": 1784181600,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 85.02,
+    "epsForward": 142.20787,
+    "epsCurrentYear": 107.6434,
+    "priceEpsCurrentYear": 22.760336,
+    "fiftyDayAverageChange": 55.600098,
+    "fiftyDayAverageChangePercent": 0.023220891,
+    "twoHundredDayAverageChange": 400.8999,
+    "twoHundredDayAverageChangePercent": 0.19564681,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -26346,6 +26328,10 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "trailingPegRatio": 0.7399
+    "regularMarketChangePercent": -0.60851926,
+    "regularMarketPrice": 2450.0,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "trailingPegRatio": 0.7366
   }
 }
