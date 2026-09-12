@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-09-11T23:45:16.740634",
+    "ts": "2026-09-12T23:38:28.029023",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -147,37 +147,37 @@
     "regularMarketDayHigh": 664.24,
     "dividendRate": 2.1,
     "dividendYield": 0.32,
-    "exDividendDate": 1781481600,
+    "exDividendDate": 1789948800,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 24.407911,
+    "trailingPE": 24.389538,
     "forwardPE": 18.536509,
     "volume": 16862780,
     "regularMarketVolume": 16862780,
-    "averageVolume": 18222020,
-    "averageVolume10days": 18899840,
-    "averageDailyVolume10Day": 18899840,
+    "averageVolume": 18264382,
+    "averageVolume10days": 19072980,
+    "averageDailyVolume10Day": 19072980,
     "bid": 601.0,
     "ask": 655.0,
     "bidSize": 2,
     "askSize": 1,
     "marketCap": 1650860490752,
-    "nonDilutedMarketCap": 1641562061265,
+    "nonDilutedMarketCap": 1650860458986,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 790.8,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 647.1855,
-    "fulldayChange": 3.0200195,
-    "fulldayChangePercent": 0.46867058,
+    "fulldayPrice": 647.58,
+    "fulldayChange": 3.65002,
+    "fulldayChangePercent": 0.56644,
     "priceToSalesTrailing12Months": 7.232781,
-    "fiftyDayAverage": 600.1998,
-    "twoHundredDayAverage": 622.96204,
+    "fiftyDayAverage": 600.9022,
+    "twoHundredDayAverage": 623.23096,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0032589464,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1663620087808,
+    "enterpriseValue": 1672918466560,
     "profitMargins": 0.29834998,
     "floatShares": 2201733205,
     "sharesOutstanding": 2205128509,
@@ -187,7 +187,7 @@
     "dateShortInterest": 1788134400,
     "sharesPercentSharesOut": 0.0113,
     "heldPercentInsiders": 0.00148,
-    "heldPercentInstitutions": 0.79014,
+    "heldPercentInstitutions": 0.7902,
     "shortRatio": 1.77,
     "shortPercentOfFloat": 0.013099999,
     "impliedSharesOutstanding": 2547506225,
@@ -198,13 +198,13 @@
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.55,
+    "trailingEps": 26.57,
     "forwardEps": 34.95966,
     "pegRatio": 0.86,
-    "enterpriseToRevenue": 7.289,
-    "enterpriseToEbitda": 15.171,
-    "52WeekChange": -0.147183,
-    "SandP52WeekChange": 0.15300202,
+    "enterpriseToRevenue": 7.329,
+    "enterpriseToEbitda": 15.256,
+    "52WeekChange": -0.15256965,
+    "SandP52WeekChange": 0.1574688,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
@@ -243,8 +243,60 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "corporateActions": [],
-    "postMarketTime": 1789170308,
+    "marketState": "CLOSED",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": -0.06944311,
+    "postMarketPrice": 647.58,
+    "postMarketChange": -0.4500122,
+    "regularMarketChange": 3.65002,
+    "regularMarketDayRange": "646.2 - 664.24",
+    "regularMarketChangePercent": 0.56644,
+    "regularMarketPrice": 648.03,
+    "epsTrailingTwelveMonths": 26.57,
+    "epsForward": 34.95966,
+    "epsCurrentYear": 31.19688,
+    "priceEpsCurrentYear": 20.77227,
+    "fiftyDayAverageChange": 47.127808,
+    "fiftyDayAverageChangePercent": 0.07842841,
+    "twoHundredDayAverageChange": 24.799072,
+    "twoHundredDayAverageChangePercent": 0.039791144,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-09-12",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 18264382,
+    "fiftyTwoWeekLowChange": 127.77002,
+    "fiftyTwoWeekLowChangePercent": 0.24558878,
+    "fiftyTwoWeekRange": "520.26 - 790.8",
+    "fiftyTwoWeekHighChange": -142.76996,
+    "fiftyTwoWeekHighChangePercent": -0.18053864,
+    "fiftyTwoWeekChangePercent": -15.256966,
+    "dividendDate": 1782345600,
+    "earningsTimestamp": 1785355200,
+    "earningsTimestampStart": 1793217600,
+    "earningsTimestampEnd": 1793217600,
+    "earningsCallTimestampStart": 1785357000,
+    "earningsCallTimestampEnd": 1785357000,
+    "isEarningsDateEstimate": true,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "corporateActions": [
+      {
+        "header": "Dividend",
+        "message": "META announced a cash dividend of $0.525 with an ex-date of Sep. 21, 2026",
+        "meta": {
+          "eventType": "DIVIDEND",
+          "dateEpochMs": 1789963200000,
+          "amount": "0.525"
+        }
+      }
+    ],
+    "postMarketTime": 1789171197,
     "regularMarketTime": 1789156801,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
@@ -253,50 +305,8 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 0.56643975,
-    "regularMarketPrice": 648.03,
-    "postMarketChangePercent": -0.13032474,
-    "postMarketPrice": 647.1855,
-    "postMarketChange": -0.84454346,
-    "regularMarketChange": 3.6500244,
-    "regularMarketDayRange": "646.2 - 664.24",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18222020,
-    "fiftyTwoWeekLowChange": 127.77002,
-    "fiftyTwoWeekLowChangePercent": 0.24558878,
-    "fiftyTwoWeekRange": "520.26 - 790.8",
-    "fiftyTwoWeekHighChange": -142.76996,
-    "fiftyTwoWeekHighChangePercent": -0.18053864,
-    "fiftyTwoWeekChangePercent": -14.7183,
-    "dividendDate": 1782345600,
-    "earningsTimestamp": 1785355200,
-    "earningsTimestampStart": 1793217600,
-    "earningsTimestampEnd": 1793217600,
-    "earningsCallTimestampStart": 1785357000,
-    "earningsCallTimestampEnd": 1785357000,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.55,
-    "epsForward": 34.95966,
-    "epsCurrentYear": 31.19688,
-    "priceEpsCurrentYear": 20.77227,
-    "fiftyDayAverageChange": 47.8302,
-    "fiftyDayAverageChangePercent": 0.07969046,
-    "twoHundredDayAverageChange": 25.067993,
-    "twoHundredDayAverageChangePercent": 0.04024,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-09-11",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "marketState": "POST",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8526
+    "trailingPegRatio": 0.8574
   },
   "financial_statements": {
     "income": {
@@ -1685,7 +1695,7 @@
     },
     "calendar": {
       "Dividend Date": "2026-06-25",
-      "Ex-Dividend Date": "2026-06-15",
+      "Ex-Dividend Date": "2026-09-21",
       "Earnings Date": [
         "2026-10-28"
       ],
@@ -1699,57 +1709,38 @@
   },
   "news": [
     {
-      "id": "bd3813a4-8052-48df-a186-0f67f15918f9",
+      "id": "30c54432-c402-3d2d-9b9d-9e4d7876a31f",
       "content": {
-        "id": "bd3813a4-8052-48df-a186-0f67f15918f9",
-        "contentType": "VIDEO",
-        "title": "What a Republican 'wipeout' in the midterm elections means for investors",
-        "description": "<p>Veda Partners managing partner and director of economic policy Henrietta Treyz outlines the type of policy shifts that could affect investors most if the Republicans end up \"wiping out\" in the midterm elections.</p>",
-        "summary": "Veda Partners managing partner and director of economic policy Henrietta Treyz outlines the type of policy shifts that could affect investors most if the Republicans end up \"wiping out\" in the midterm elections.",
-        "pubDate": "2026-09-11T12:00:00Z",
-        "displayTime": "",
+        "id": "30c54432-c402-3d2d-9b9d-9e4d7876a31f",
+        "contentType": "STORY",
+        "title": "Agentic commerce: Is Payments the winner this time?",
+        "description": "",
+        "summary": "Investing.com -- Agentic commerce accounts for less than 1% of overall e-commerce activity, even as new AI shopping tools from Meta and Anthropic launched this week.",
+        "pubDate": "2026-09-12T21:33:09Z",
+        "displayTime": "2026-09-12T21:33:09Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/35ZfhnZb.MzGf4Ixc4cZ6Q--~B/aD0xOTAzO3c9MzM4MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/9b4610ff-ab06-47c8-a7a2-b52655902aef_ac016939e4d854dad58671d1247a18f62c2978d31ae057284d40b7f94b5badd2.jpg",
-          "originalWidth": 3383,
-          "originalHeight": 1903,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/35ZfhnZb.MzGf4Ixc4cZ6Q--~B/aD0xOTAzO3c9MzM4MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/9b4610ff-ab06-47c8-a7a2-b52655902aef_ac016939e4d854dad58671d1247a18f62c2978d31ae057284d40b7f94b5badd2.jpg",
-              "width": 3383,
-              "height": 1903,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/u9lQ2H9P.ltpVtQ6nH7wfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/9b4610ff-ab06-47c8-a7a2-b52655902aef_ac016939e4d854dad58671d1247a18f62c2978d31ae057284d40b7f94b5badd2.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
+        "thumbnail": null,
         "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/republican-wipeout-midterm-elections-means-120000609.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/agentic-commerce-payments-winner-time-213309351.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/republican-wipeout-midterm-elections-means-120000609.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/agentic-commerce-payments-winner-time-213309351.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "metadata": {
-          "editorsPick": true
+          "editorsPick": false
         },
         "finance": {
           "premiumFinance": {
@@ -1761,32 +1752,523 @@
       }
     },
     {
-      "id": "586bb81d-9135-39eb-9e69-59afd35bf724",
+      "id": "e61254d9-56d2-3272-8d44-3050272e6898",
       "content": {
-        "id": "586bb81d-9135-39eb-9e69-59afd35bf724",
+        "id": "e61254d9-56d2-3272-8d44-3050272e6898",
         "contentType": "STORY",
-        "title": "Broadcom’s Custom AI Chip Boom Has a Powerful Landlord: TSM",
+        "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
         "description": "",
-        "summary": "Broadcom Inc. (NASDAQ:AVGO) has become one of the clearest alternatives to NVIDIA’s merchant-GPU model as hyperscalers increasingly design custom AI accelerators. Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) may benefit regardless. TSM reported record August revenue of NT$514.81 billion, up 53.3% year over year, providing another data point that leading-edge semiconductor demand remains exceptionally strong. Broadcom’s […]",
-        "pubDate": "2026-09-11T23:16:14Z",
-        "displayTime": "2026-09-11T23:16:14Z",
+        "summary": "Elon Musk recently praised a specific GPU stock during SpaceX's earnings call.",
+        "pubDate": "2026-09-12T21:20:00Z",
+        "displayTime": "2026-09-12T21:20:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/8b423334d17c305a4010174c2d1bc6bd.jpg",
-          "originalWidth": 600,
-          "originalHeight": 338,
-          "caption": "Broadcom's Custom AI Chip Boom Has a Powerful Landlord: TSM",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/1968859925c624b95e9e7e88618011ab.png",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "AMD and Nvidia logos.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KwyabjVd4stGE7SLc61zsA--~B/aD0zMzg7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8b423334d17c305a4010174c2d1bc6bd.jpg",
-              "width": 600,
-              "height": 338,
+              "url": "https://s.yimg.com/uu/api/res/1.2/VKCSaSuGNkdjmj9bNdKgeA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1968859925c624b95e9e7e88618011ab.png",
+              "width": 1200,
+              "height": 800,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/EKJLBtH9ZpWZ4z59EtGjZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8b423334d17c305a4010174c2d1bc6bd.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/XzFC_IZp9UkX.SljmKo8gA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1968859925c624b95e9e7e88618011ab.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/12/nvidia-vs-amd-elon-musk-picked-a-side-on-the-space/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-elon-musk-212000632.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7cce9289-b6e5-385d-85a8-39ae5efdcdce",
+      "content": {
+        "id": "7cce9289-b6e5-385d-85a8-39ae5efdcdce",
+        "contentType": "STORY",
+        "title": "From LeBron James to Sydney Sweeney: Prediction Markets Launch NFL Ad Blitz",
+        "description": "",
+        "summary": "The National Football League season is back in full swing, with thirteen games on tap for the first NFL Sunday.",
+        "pubDate": "2026-09-12T19:05:00Z",
+        "displayTime": "2026-09-12T19:05:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/7cce9289-b6e5-385d-85a8-39ae5efdcdce/from-lebron-james-to-sydney.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/b762083e5711e89a63d701f103d6db3c.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/KIcziYI035CiFpyxBn_xcg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/b762083e5711e89a63d701f103d6db3c.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/wiCzkZ1nlNBHCmu._3zZJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b762083e5711e89a63d701f103d6db3c.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/nfl-prediction-market-ads-sydney-sweeney-lebron-james-6df311c8?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bf40ccf8-d5e7-36a0-967a-da120f4a5768",
+      "content": {
+        "id": "bf40ccf8-d5e7-36a0-967a-da120f4a5768",
+        "contentType": "STORY",
+        "title": "$2.3 Billion in Daily Profits: Why Betting Against the Magnificent 7 Keeps Failing",
+        "description": "",
+        "summary": "The Magnificent 7 label vanished from Wall Street chatter, yet the profit engines behind these seven companies kept compounding in ways that have made betting against them one of the most punishing trades in recent memory.",
+        "pubDate": "2026-09-12T14:34:16Z",
+        "displayTime": "2026-09-12T14:34:16Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/27d527982dd22c3b14cfbeec80ec810b.jpg",
+          "originalWidth": 1024,
+          "originalHeight": 1024,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WXA5fp3Za6f3jD3pQNtERA--~B/aD0xMDI0O3c9MTAyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/27d527982dd22c3b14cfbeec80ec810b.jpg",
+              "width": 1024,
+              "height": 1024,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NWPFLqATWu10CD3gbC55bA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/27d527982dd22c3b14cfbeec80ec810b.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/12/2-3-billion-in-daily-profits-why-betting-against-the-magnificent-7-keeps-failing/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-3-billion-daily-profits-143416688.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "297cea64-f4f2-3102-b562-a2df9b51f87c",
+      "content": {
+        "id": "297cea64-f4f2-3102-b562-a2df9b51f87c",
+        "contentType": "STORY",
+        "title": "Prediction: This Tech Giant Could Be Worth Twice as Much by 2030",
+        "description": "",
+        "summary": "Meta is burning through capital at a pace that would make most CFOs flinch, yet the math behind a potential share price doubling by 2030 is more credible than Wall Street's one-year thinking suggests.",
+        "pubDate": "2026-09-12T13:00:27Z",
+        "displayTime": "2026-09-12T13:00:27Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/bf1e326939f058708d470ac840e869e6.jpg",
+          "originalWidth": 3034,
+          "originalHeight": 1600,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/4fDA_f20GbRgr0sgGOv2aA--~B/aD0xNjAwO3c9MzAzNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/bf1e326939f058708d470ac840e869e6.jpg",
+              "width": 3034,
+              "height": 1600,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8XTD_JLguz0HsG14_p73Yw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bf1e326939f058708d470ac840e869e6.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/12/prediction-this-tech-giant-could-be-worth-twice-as-much-by-2030/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tech-giant-could-worth-130027388.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9907c980-e196-35a1-b1f5-931f7397d136",
+      "content": {
+        "id": "9907c980-e196-35a1-b1f5-931f7397d136",
+        "contentType": "STORY",
+        "title": "Why Cathie Wood Is Selling Google and Buying More Meta Platforms Stock",
+        "description": "",
+        "summary": "Cathie Wood is swapping Google for Meta as AI takes center stage. But is Meta the better bet now?",
+        "pubDate": "2026-09-12T12:43:04Z",
+        "displayTime": "2026-09-12T12:43:04Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/4a3a59542d6c271071336468fb27ae7a.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "caption": "A photo of Cathie Wood by Caroline Wood via Wikimedia Commons and resized",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/hpgFG8YnjhPwxsHJEEwCBg--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/4a3a59542d6c271071336468fb27ae7a.jpg",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/DvMeqACIeGARkc0wX9j6vw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/4a3a59542d6c271071336468fb27ae7a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/4572825/why-cathie-wood-is-selling-google-and-buying-more-meta-platforms-stock",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-cathie-wood-selling-google-124304062.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "22655d07-22d6-3264-a0e7-b2b803fd7ef6",
+      "content": {
+        "id": "22655d07-22d6-3264-a0e7-b2b803fd7ef6",
+        "contentType": "STORY",
+        "title": "The $760 Billion AI Risk That Nobody Is Talking About. But Should.",
+        "description": "",
+        "summary": "The demand for AI is real, but what if the industry is building too much capacity? Here's the overlooked risk investors should be watching.",
+        "pubDate": "2026-09-12T11:23:00Z",
+        "displayTime": "2026-09-12T11:23:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/91a70f4ddb0435cf2663f7baa2e7c2d2.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "A scale balancing icons representing AI on one side and a human brain on the other.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8kKlEkUPHABBUcxMWT06wg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/91a70f4ddb0435cf2663f7baa2e7c2d2.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UaUMWy1UssnqFnQJ.Trc2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/91a70f4ddb0435cf2663f7baa2e7c2d2.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/12/the-760-billion-ai-risk-that-nobody-is-talking-abo/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/760-billion-ai-risk-nobody-112300734.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ac5ddd70-0628-3536-8055-03809fec36cd",
+      "content": {
+        "id": "ac5ddd70-0628-3536-8055-03809fec36cd",
+        "contentType": "STORY",
+        "title": "A flawed system and one man’s hubris cost Meta shareholders $17 billion",
+        "description": "",
+        "summary": "Meta's settlement may seem large, but it may be just the tip of the iceberg. The plaintiffs' own models put the damages in the trillions.",
+        "pubDate": "2026-09-12T11:00:00Z",
+        "displayTime": "2026-09-12T11:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/fortune_175/05b93c881e5e964c74dfc8ba323b7526.jpg",
+          "originalWidth": 2048,
+          "originalHeight": 1366,
+          "caption": "Meta CEO Mark Zuckerberg walks through the U.S. Capitol following a meeting with Senate Majority Leader John Thune (R-SD) in Washington, DC on March 26, 2026.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rhiIKlkPXoQswb0s_bg7nA--~B/aD0xMzY2O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/05b93c881e5e964c74dfc8ba323b7526.jpg",
+              "width": 2048,
+              "height": 1366,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/PU6J3BEBa7V2Hbf7Rg0QzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/05b93c881e5e964c74dfc8ba323b7526.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Fortune",
+          "url": "http://fortune.com/",
+          "sourceId": "fortune_175"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/flawed-system-one-man-hubris-110000349.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/flawed-system-one-man-hubris-110000349.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9ec22dc2-a3a2-3451-bccb-77611def6550",
+      "content": {
+        "id": "9ec22dc2-a3a2-3451-bccb-77611def6550",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg’s Meta bet that AI would shrink its management ranks. Now it’s quietly rebuilding them",
+        "description": "",
+        "summary": "The company that spent the past year telling managers to code is now asking some engineers in a key AI division whether they'd like to lead teams again.",
+        "pubDate": "2026-09-12T09:16:00Z",
+        "displayTime": "2026-09-12T09:16:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/fortune_175/058db67f5725c7d72c5583b7d18f3b08.jpg",
+          "originalWidth": 2048,
+          "originalHeight": 1365,
+          "caption": "Mark Zuckerberg, chief executive officer of Meta Platforms Inc., during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EPrqNIPmmzIWWfpXUIAN8w--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/058db67f5725c7d72c5583b7d18f3b08.jpg",
+              "width": 2048,
+              "height": 1365,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HIg1yRjpOyu6Xf4V2.OYOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/058db67f5725c7d72c5583b7d18f3b08.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Fortune",
+          "url": "http://fortune.com/",
+          "sourceId": "fortune_175"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-meta-bet-ai-091600760.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-meta-bet-ai-091600760.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "c482587a-7854-336e-9034-4f160dbc5026",
+      "content": {
+        "id": "c482587a-7854-336e-9034-4f160dbc5026",
+        "contentType": "STORY",
+        "title": "Meta May Overtake Google Search in Ad Revenue This Year, Bernstein Says",
+        "description": "",
+        "summary": "According to a note published on August 31, Bernstein analysts believe Meta Platforms, Inc. (NASDAQ:META) will surpass Alphabet Inc. (NASDAQ:GOOGL)’s Google Search in advertising revenue by the end of 2026. The firm’s theory is interesting for what it excludes: by omitting other Google ad revenue streams like Maps and Gmail, Bernstein says Meta Platforms, Inc. […]",
+        "pubDate": "2026-09-12T08:46:33Z",
+        "displayTime": "2026-09-12T08:46:33Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/a93e4050f6c1b0b67c0997b182d214fa.jpg",
+          "originalWidth": 1024,
+          "originalHeight": 768,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/40Z8HUQAs0V6lTyTF3D1bQ--~B/aD03Njg7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/a93e4050f6c1b0b67c0997b182d214fa.jpg",
+              "width": 1024,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/JKqO4d2RQSva_HY_keQ_pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a93e4050f6c1b0b67c0997b182d214fa.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1799,490 +2281,13 @@
           "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-custom-ai-chip-boom-231614780.html",
+          "url": "https://finance.yahoo.com/media-advertising/articles/meta-may-overtake-google-search-084633342.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-custom-ai-chip-boom-231614780.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "d4c5e28a-1565-3e3a-bc4f-deed09a01e3e",
-      "content": {
-        "id": "d4c5e28a-1565-3e3a-bc4f-deed09a01e3e",
-        "contentType": "STORY",
-        "title": "Why Meta Platforms Stock Only Bumped Slightly Higher on Friday",
-        "description": "",
-        "summary": "That was the market's reward for maintaining its dividend policy.",
-        "pubDate": "2026-09-11T23:07:53Z",
-        "displayTime": "2026-09-11T23:07:53Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/9d5f4c4d5114b13aa325af832311b6e1.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Person stuffing money into a piggy bank and smiling.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0XTbeotvwSSbW3ZlcuRpQA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9d5f4c4d5114b13aa325af832311b6e1.jpg",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0AcDqqrdBrpdxusjsBn.sA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9d5f4c4d5114b13aa325af832311b6e1.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/11/why-meta-platforms-stock-only-bumped-slightly-high/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-platforms-stock-only-230753502.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7da741a4-809f-3882-b36a-cc87557ec2c1",
-      "content": {
-        "id": "7da741a4-809f-3882-b36a-cc87557ec2c1",
-        "contentType": "STORY",
-        "title": "2 Nasdaq 100 Stocks with Exciting Potential and 1 We Brush Off",
-        "description": "",
-        "summary": "While the Nasdaq 100 (^NDX) is filled with cutting-edge technology and consumer companies, not all are on solid footing. Some are dealing with declining demand, high costs, or regulatory pressures that could limit future upside.",
-        "pubDate": "2026-09-11T22:11:05Z",
-        "displayTime": "2026-09-11T22:11:05Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "META Cover Image",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NYlWd9o5e3UAf.D_08OjKw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65.jpg",
-              "width": 1400,
-              "height": 700,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/p8oLM6j59IcfW.wQkueCEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-nasdaq-100-stocks-exciting-221105481.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-nasdaq-100-stocks-exciting-221105481.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ef847e33-71eb-3967-bc48-563bd7ad535d",
-      "content": {
-        "id": "ef847e33-71eb-3967-bc48-563bd7ad535d",
-        "contentType": "STORY",
-        "title": "2 Stocks Cathie Wood Is Snapping Up at a Discount Right Now",
-        "description": "",
-        "summary": "Several Ark funds recently bought the dip in Meta and Rocket Lab.",
-        "pubDate": "2026-09-11T21:53:00Z",
-        "displayTime": "2026-09-11T21:53:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/04567d068f0d8d34d4a3e144eb2213b5.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 854,
-          "caption": "Cathie Wood.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uKFbNyFoHp0.rcw5Ce8qxA--~B/aD04NTQ7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/04567d068f0d8d34d4a3e144eb2213b5.jpg",
-              "width": 1280,
-              "height": 854,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VOk98druflaIJyF_DnsdtA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/04567d068f0d8d34d4a3e144eb2213b5.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/11/2-stocks-cathie-wood-snapping-up-discount/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-cathie-wood-snapping-215300205.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "1c7b3ce6-d490-3f23-8746-12b06950a588",
-      "content": {
-        "id": "1c7b3ce6-d490-3f23-8746-12b06950a588",
-        "contentType": "STORY",
-        "title": "What Are You Really Paying For Reddit's Ad Growth?",
-        "description": "",
-        "summary": "Reddit (RDDT) stock is down about 35% over the past twelve months. Yet at about $155 it still trades at about 26.5 times trailing adjusted earnings, meaning normalized net income with stock-based compensation added back. The forecast that makes Reddit look cheaper does not need wider margins. It needs advertising to keep growing while search referrals stay volatile.",
-        "pubDate": "2026-09-11T21:47:42Z",
-        "displayTime": "2026-09-11T21:47:42Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 853,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/QGrle2HXm5pQP290QWFNpQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg",
-              "width": 1280,
-              "height": 853,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/BDiF4Y8QKA03Bg1koRnrlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/",
-          "sourceId": "trefis_142"
-        },
-        "canonicalUrl": {
-          "url": "https://www.trefis.com/articles/615037/what-are-you-really-paying-for-reddits-ad-growth/2026-09-11",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/really-paying-reddits-ad-growth-214742080.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "508ffc88-2e3e-3326-8171-5f336a92c4e6",
-      "content": {
-        "id": "508ffc88-2e3e-3326-8171-5f336a92c4e6",
-        "contentType": "STORY",
-        "title": "Top Stock Reports for Meta Platforms, Marvell & Amphenol",
-        "description": "",
-        "summary": "Marvell's AI infrastructure gains, custom silicon growth and networking momentum point to a higher multi-year outlook.",
-        "pubDate": "2026-09-11T21:23:00Z",
-        "displayTime": "2026-09-11T21:23:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/2a0920e070c747ba4972bba58670f2d7.jpg",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aM9Nb35WwGVyrBjWLKoIyQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a0920e070c747ba4972bba58670f2d7.jpg",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/kZ.Jk2.Y979gcaAW0sn8WA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a0920e070c747ba4972bba58670f2d7.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-meta-platforms-212300174.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-meta-platforms-212300174.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "bd4f00cf-79a4-3721-8387-4b79f14c9010",
-      "content": {
-        "id": "bd4f00cf-79a4-3721-8387-4b79f14c9010",
-        "contentType": "STORY",
-        "title": "Meta Gains Despite California's Million-Dollar Youth-AI Threat",
-        "description": "",
-        "summary": "Thirteen new laws target addictive feeds and chatbots, turning product design into a potentially seven-figure liability per child.",
-        "pubDate": "2026-09-11T21:11:40Z",
-        "displayTime": "2026-09-11T21:11:40Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-gains-despite-californias-million-211140112.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-gains-despite-californias-million-211140112.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "7211d737-bafe-3b36-81da-69b0b9221a1f",
-      "content": {
-        "id": "7211d737-bafe-3b36-81da-69b0b9221a1f",
-        "contentType": "STORY",
-        "title": "Meta Muse Personal AI Agent Promising, But Near-Term Monetization Potential Likely Limited, Wedbush Says",
-        "description": "",
-        "summary": "Meta Platforms' (META) Muse consumer agent marks progress in the company's artificial intelligence s",
-        "pubDate": "2026-09-11T19:39:35Z",
-        "displayTime": "2026-09-11T19:39:35Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/mt_newswires_premium_news_706/d04df2db72647055008bfdc387e5fadf.jpg",
-          "originalWidth": 1024,
-          "originalHeight": 683,
-          "caption": "Mark Zuckerberg META.jpg - Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YSVeM7iAEIBMgQKJAXyT3w--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/mt_newswires_premium_news_706/d04df2db72647055008bfdc387e5fadf.jpg",
-              "width": 1024,
-              "height": 683,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/OWvmBbTo8U5bSTMR_Ww2Jg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/d04df2db72647055008bfdc387e5fadf.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-muse-personal-ai-agent-193935863.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-muse-personal-ai-agent-193935863.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "225722f7-e929-32a9-82dd-c042748e062a",
-      "content": {
-        "id": "225722f7-e929-32a9-82dd-c042748e062a",
-        "contentType": "STORY",
-        "title": "How Far Could Alphabet Stock Move On You In A Year?",
-        "description": "",
-        "summary": "Alphabet (GOOGL) stock trades at about $332, and options expiring roughly a year out price a 68% probability range running from roughly $233 to roughly $474. That floor sits just under the stock's 52-week low of $235.96, while the ceiling clears its 52-week high of $402.12. Yet, a range this wide is close to normal for these shares, not a sign of unusual fear.",
-        "pubDate": "2026-09-11T19:34:14Z",
-        "displayTime": "2026-09-11T19:34:14Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4.eTOg1JZ1OaAXbDB8zwnw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371.jpg",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Jqe0dFfcyAeKrB4A7ZiNYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/",
-          "sourceId": "trefis_142"
-        },
-        "canonicalUrl": {
-          "url": "https://www.trefis.com/articles/615032/how-far-could-alphabet-stock-move-on-you-in-a-year/2026-09-11",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/options/articles/far-could-alphabet-stock-move-193414570.html",
+          "url": "https://finance.yahoo.com/media-advertising/articles/meta-may-overtake-google-search-084633342.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
