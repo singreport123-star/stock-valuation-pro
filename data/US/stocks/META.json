@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-09-12T23:38:28.029023",
+    "ts": "2026-09-13T23:49:48.127308",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -152,8 +152,8 @@
     "beta": 1.243,
     "trailingPE": 24.389538,
     "forwardPE": 18.536509,
-    "volume": 16862780,
-    "regularMarketVolume": 16862780,
+    "volume": 16924953,
+    "regularMarketVolume": 16924953,
     "averageVolume": 18264382,
     "averageVolume10days": 19072980,
     "averageDailyVolume10Day": 19072980,
@@ -168,8 +168,8 @@
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "fulldayPrice": 647.58,
-    "fulldayChange": 3.65002,
-    "fulldayChangePercent": 0.56644,
+    "fulldayChange": 3.6500244,
+    "fulldayChangePercent": 0.56643975,
     "priceToSalesTrailing12Months": 7.232781,
     "fiftyDayAverage": 600.9022,
     "twoHundredDayAverage": 623.23096,
@@ -211,7 +211,7 @@
     "currentPrice": 648.03,
     "targetHighPrice": 1000.0,
     "targetLowPrice": 580.0,
-    "targetMeanPrice": 757.31085,
+    "targetMeanPrice": 758.2758,
     "targetMedianPrice": 750.0,
     "recommendationMean": 1.33871,
     "recommendationKey": "strong_buy",
@@ -243,16 +243,13 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "CLOSED",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.06944311,
-    "postMarketPrice": 647.58,
-    "postMarketChange": -0.4500122,
-    "regularMarketChange": 3.65002,
-    "regularMarketDayRange": "646.2 - 664.24",
-    "regularMarketChangePercent": 0.56644,
-    "regularMarketPrice": 648.03,
+    "dividendDate": 1782345600,
+    "earningsTimestamp": 1785355200,
+    "earningsTimestampStart": 1793217600,
+    "earningsTimestampEnd": 1793217600,
+    "earningsCallTimestampStart": 1785357000,
+    "earningsCallTimestampEnd": 1785357000,
+    "isEarningsDateEstimate": true,
     "epsTrailingTwelveMonths": 26.57,
     "epsForward": 34.95966,
     "epsCurrentYear": 31.19688,
@@ -265,26 +262,10 @@
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-09-12",
+    "nameChangeDate": "2026-09-13",
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18264382,
-    "fiftyTwoWeekLowChange": 127.77002,
-    "fiftyTwoWeekLowChangePercent": 0.24558878,
-    "fiftyTwoWeekRange": "520.26 - 790.8",
-    "fiftyTwoWeekHighChange": -142.76996,
-    "fiftyTwoWeekHighChangePercent": -0.18053864,
-    "fiftyTwoWeekChangePercent": -15.256966,
-    "dividendDate": 1782345600,
-    "earningsTimestamp": 1785355200,
-    "earningsTimestampStart": 1793217600,
-    "earningsTimestampEnd": 1793217600,
-    "earningsCallTimestampStart": 1785357000,
-    "earningsCallTimestampEnd": 1785357000,
-    "isEarningsDateEstimate": true,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
+    "marketState": "CLOSED",
     "corporateActions": [
       {
         "header": "Dividend",
@@ -305,6 +286,25 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
+    "regularMarketChangePercent": 0.56643975,
+    "regularMarketPrice": 648.03,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": -0.06944311,
+    "postMarketPrice": 647.58,
+    "postMarketChange": -0.4500122,
+    "regularMarketChange": 3.6500244,
+    "regularMarketDayRange": "646.2 - 664.24",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 18264382,
+    "fiftyTwoWeekLowChange": 127.77002,
+    "fiftyTwoWeekLowChangePercent": 0.24558878,
+    "fiftyTwoWeekRange": "520.26 - 790.8",
+    "fiftyTwoWeekHighChange": -142.76996,
+    "fiftyTwoWeekHighChangePercent": -0.18053864,
+    "fiftyTwoWeekChangePercent": -15.256966,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8574
   },
@@ -1709,6 +1709,254 @@
   },
   "news": [
     {
+      "id": "8c5e12a8-5709-3693-a813-3d9f84566b55",
+      "content": {
+        "id": "8c5e12a8-5709-3693-a813-3d9f84566b55",
+        "contentType": "STORY",
+        "title": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
+        "description": "",
+        "summary": "The famed fund manager lowered his position in Amazon and was buying shares of Microsoft and Meta Platforms.",
+        "pubDate": "2026-09-13T16:50:00Z",
+        "displayTime": "2026-09-13T16:50:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/17e84060b252e04be86c3d4f7eb283dc.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "Artist rendering of bull market.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/w.PBVXd9Ake_ezngRpp04Q--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/17e84060b252e04be86c3d4f7eb283dc.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/593cKiC8d78gDLUUOIYUlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/17e84060b252e04be86c3d4f7eb283dc.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/13/ackman-trimmed-this-big-tech-position-to/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-bill-ackman-trimmed-big-165000189.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "7bbfe3bf-7a3d-31be-871e-797d00ae8953",
+      "content": {
+        "id": "7bbfe3bf-7a3d-31be-871e-797d00ae8953",
+        "contentType": "STORY",
+        "title": "Jim Cramer says big tech stock could double in 3–5 years",
+        "description": "",
+        "summary": "It’s a big name that has dealt with plenty of controversy.",
+        "pubDate": "2026-09-13T15:17:00Z",
+        "displayTime": "2026-09-13T15:17:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/2dc4cbb0060b2f5763c93b41ffd67ca6.jpg",
+          "originalWidth": 3000,
+          "originalHeight": 1972,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NHEDeu1trZfnATzXuEopyg--~B/aD0xOTcyO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/2dc4cbb0060b2f5763c93b41ffd67ca6.jpg",
+              "width": 3000,
+              "height": 1972,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/18uEHkB94fKDuyfBPs5z7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/2dc4cbb0060b2f5763c93b41ffd67ca6.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/stocks/meta-stock-cramer-doubling-outlook",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-big-tech-151700059.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ebe1823d-d548-31aa-9276-19dffefd472c",
+      "content": {
+        "id": "ebe1823d-d548-31aa-9276-19dffefd472c",
+        "contentType": "STORY",
+        "title": "Apple wants AI to listen all day without creeping people out",
+        "description": "",
+        "summary": "Apple tries to solve the problem haunting AI wearables",
+        "pubDate": "2026-09-13T14:37:00Z",
+        "displayTime": "2026-09-13T14:37:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/8077f1dfd959216d1a33de4d9a4b503d.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2559,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HJiArHSG6E2BRv56dQbiLw--~B/aD0yNTU5O3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/8077f1dfd959216d1a33de4d9a4b503d.jpg",
+              "width": 3840,
+              "height": 2559,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Euugl80MJfIavmtWk6WbqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8077f1dfd959216d1a33de4d9a4b503d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thestreet.com/investing/apple-wants-ai-to-listen-all-day-without-creeping-people-out",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-wants-ai-listen-day-143700124.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a6c56873-d706-3170-85d7-10892ff5c035",
+      "content": {
+        "id": "a6c56873-d706-3170-85d7-10892ff5c035",
+        "contentType": "STORY",
+        "title": "Bill Ackman Calls Anthropic Researcher's Exit 'Interesting' Amid Claims of 'Well-Funded PR Operation' Aimed at Democrats",
+        "description": "",
+        "summary": "On Wednesday, Bill Ackman drew attention to an allegation that the resignation of Anthropic researcher Jacob Coxon may have been rapidly amplified as part of a broader push for tougher artificial intelligence regulation. Jacob Coxon’s Anthropic Resignation Goes Viral Coxon,...",
+        "pubDate": "2026-09-12T23:31:00Z",
+        "displayTime": "2026-09-12T23:31:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/6932e8148b6d73f85a63c724ce48f2c3.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "Hand holding a phone with Claude logo in a background that bears the legend Anthropic",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8mPvipgFMJ0xlFzsjaa5Gw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/benzinga_79/6932e8148b6d73f85a63c724ce48f2c3.jpg",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/e3Br7iZKmmP4XKJGtBfTcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6932e8148b6d73f85a63c724ce48f2c3.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://www.yahoo.com/news/politics/articles/bill-ackman-calls-anthropic-researchers-233100197.html",
+          "site": "news",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://www.yahoo.com/news/politics/articles/bill-ackman-calls-anthropic-researchers-233100197.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
       "id": "30c54432-c402-3d2d-9b9d-9e4d7876a31f",
       "content": {
         "id": "30c54432-c402-3d2d-9b9d-9e4d7876a31f",
@@ -1871,6 +2119,49 @@
       }
     },
     {
+      "id": "f43a1439-59e3-32b2-afe4-95c63918db07",
+      "content": {
+        "id": "f43a1439-59e3-32b2-afe4-95c63918db07",
+        "contentType": "STORY",
+        "title": "5 big analyst AI moves: JPMorgan upgrades Meta, names KLA top chip equipment stock",
+        "description": "",
+        "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+        "pubDate": "2026-09-12T17:05:44Z",
+        "displayTime": "2026-09-12T17:05:44Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-170544815.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-170544815.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
       "id": "bf40ccf8-d5e7-36a0-967a-da120f4a5768",
       "content": {
         "id": "bf40ccf8-d5e7-36a0-967a-da120f4a5768",
@@ -1978,316 +2269,6 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tech-giant-could-worth-130027388.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9907c980-e196-35a1-b1f5-931f7397d136",
-      "content": {
-        "id": "9907c980-e196-35a1-b1f5-931f7397d136",
-        "contentType": "STORY",
-        "title": "Why Cathie Wood Is Selling Google and Buying More Meta Platforms Stock",
-        "description": "",
-        "summary": "Cathie Wood is swapping Google for Meta as AI takes center stage. But is Meta the better bet now?",
-        "pubDate": "2026-09-12T12:43:04Z",
-        "displayTime": "2026-09-12T12:43:04Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/4a3a59542d6c271071336468fb27ae7a.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 900,
-          "caption": "A photo of Cathie Wood by Caroline Wood via Wikimedia Commons and resized",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/hpgFG8YnjhPwxsHJEEwCBg--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/4a3a59542d6c271071336468fb27ae7a.jpg",
-              "width": 1600,
-              "height": 900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/DvMeqACIeGARkc0wX9j6vw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/4a3a59542d6c271071336468fb27ae7a.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/4572825/why-cathie-wood-is-selling-google-and-buying-more-meta-platforms-stock",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-cathie-wood-selling-google-124304062.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "22655d07-22d6-3264-a0e7-b2b803fd7ef6",
-      "content": {
-        "id": "22655d07-22d6-3264-a0e7-b2b803fd7ef6",
-        "contentType": "STORY",
-        "title": "The $760 Billion AI Risk That Nobody Is Talking About. But Should.",
-        "description": "",
-        "summary": "The demand for AI is real, but what if the industry is building too much capacity? Here's the overlooked risk investors should be watching.",
-        "pubDate": "2026-09-12T11:23:00Z",
-        "displayTime": "2026-09-12T11:23:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/91a70f4ddb0435cf2663f7baa2e7c2d2.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "A scale balancing icons representing AI on one side and a human brain on the other.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8kKlEkUPHABBUcxMWT06wg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/91a70f4ddb0435cf2663f7baa2e7c2d2.jpg",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/UaUMWy1UssnqFnQJ.Trc2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/91a70f4ddb0435cf2663f7baa2e7c2d2.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/12/the-760-billion-ai-risk-that-nobody-is-talking-abo/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/760-billion-ai-risk-nobody-112300734.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ac5ddd70-0628-3536-8055-03809fec36cd",
-      "content": {
-        "id": "ac5ddd70-0628-3536-8055-03809fec36cd",
-        "contentType": "STORY",
-        "title": "A flawed system and one man’s hubris cost Meta shareholders $17 billion",
-        "description": "",
-        "summary": "Meta's settlement may seem large, but it may be just the tip of the iceberg. The plaintiffs' own models put the damages in the trillions.",
-        "pubDate": "2026-09-12T11:00:00Z",
-        "displayTime": "2026-09-12T11:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/fortune_175/05b93c881e5e964c74dfc8ba323b7526.jpg",
-          "originalWidth": 2048,
-          "originalHeight": 1366,
-          "caption": "Meta CEO Mark Zuckerberg walks through the U.S. Capitol following a meeting with Senate Majority Leader John Thune (R-SD) in Washington, DC on March 26, 2026.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rhiIKlkPXoQswb0s_bg7nA--~B/aD0xMzY2O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/05b93c881e5e964c74dfc8ba323b7526.jpg",
-              "width": 2048,
-              "height": 1366,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/PU6J3BEBa7V2Hbf7Rg0QzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/05b93c881e5e964c74dfc8ba323b7526.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Fortune",
-          "url": "http://fortune.com/",
-          "sourceId": "fortune_175"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/flawed-system-one-man-hubris-110000349.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/flawed-system-one-man-hubris-110000349.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "9ec22dc2-a3a2-3451-bccb-77611def6550",
-      "content": {
-        "id": "9ec22dc2-a3a2-3451-bccb-77611def6550",
-        "contentType": "STORY",
-        "title": "Mark Zuckerberg’s Meta bet that AI would shrink its management ranks. Now it’s quietly rebuilding them",
-        "description": "",
-        "summary": "The company that spent the past year telling managers to code is now asking some engineers in a key AI division whether they'd like to lead teams again.",
-        "pubDate": "2026-09-12T09:16:00Z",
-        "displayTime": "2026-09-12T09:16:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/fortune_175/058db67f5725c7d72c5583b7d18f3b08.jpg",
-          "originalWidth": 2048,
-          "originalHeight": 1365,
-          "caption": "Mark Zuckerberg, chief executive officer of Meta Platforms Inc., during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/EPrqNIPmmzIWWfpXUIAN8w--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/058db67f5725c7d72c5583b7d18f3b08.jpg",
-              "width": 2048,
-              "height": 1365,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HIg1yRjpOyu6Xf4V2.OYOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/058db67f5725c7d72c5583b7d18f3b08.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Fortune",
-          "url": "http://fortune.com/",
-          "sourceId": "fortune_175"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-meta-bet-ai-091600760.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-meta-bet-ai-091600760.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c482587a-7854-336e-9034-4f160dbc5026",
-      "content": {
-        "id": "c482587a-7854-336e-9034-4f160dbc5026",
-        "contentType": "STORY",
-        "title": "Meta May Overtake Google Search in Ad Revenue This Year, Bernstein Says",
-        "description": "",
-        "summary": "According to a note published on August 31, Bernstein analysts believe Meta Platforms, Inc. (NASDAQ:META) will surpass Alphabet Inc. (NASDAQ:GOOGL)’s Google Search in advertising revenue by the end of 2026. The firm’s theory is interesting for what it excludes: by omitting other Google ad revenue streams like Maps and Gmail, Bernstein says Meta Platforms, Inc. […]",
-        "pubDate": "2026-09-12T08:46:33Z",
-        "displayTime": "2026-09-12T08:46:33Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/a93e4050f6c1b0b67c0997b182d214fa.jpg",
-          "originalWidth": 1024,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/40Z8HUQAs0V6lTyTF3D1bQ--~B/aD03Njg7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/a93e4050f6c1b0b67c0997b182d214fa.jpg",
-              "width": 1024,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/JKqO4d2RQSva_HY_keQ_pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a93e4050f6c1b0b67c0997b182d214fa.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-may-overtake-google-search-084633342.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-may-overtake-google-search-084633342.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
