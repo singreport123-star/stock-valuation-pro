@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-09-13T23:49:48.127308",
+    "ts": "2026-09-15T00:07:11.427780",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -137,47 +137,47 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 644.38,
-    "open": 653.02,
-    "dayLow": 646.2,
-    "dayHigh": 664.24,
-    "regularMarketPreviousClose": 644.38,
-    "regularMarketOpen": 653.02,
-    "regularMarketDayLow": 646.2,
-    "regularMarketDayHigh": 664.24,
+    "previousClose": 648.03,
+    "open": 657.62,
+    "dayLow": 649.25,
+    "dayHigh": 668.6,
+    "regularMarketPreviousClose": 648.03,
+    "regularMarketOpen": 657.62,
+    "regularMarketDayLow": 649.25,
+    "regularMarketDayHigh": 668.6,
     "dividendRate": 2.1,
     "dividendYield": 0.32,
     "exDividendDate": 1789948800,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 24.389538,
-    "forwardPE": 18.536509,
-    "volume": 16924953,
-    "regularMarketVolume": 16924953,
+    "trailingPE": 25.050808,
+    "forwardPE": 19.039085,
+    "volume": 19270307,
+    "regularMarketVolume": 19270307,
     "averageVolume": 18264382,
     "averageVolume10days": 19072980,
     "averageDailyVolume10Day": 19072980,
     "bid": 601.0,
-    "ask": 655.0,
+    "ask": 670.0,
     "bidSize": 2,
     "askSize": 1,
-    "marketCap": 1650860490752,
+    "marketCap": 1695620005888,
     "nonDilutedMarketCap": 1650860458986,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 790.8,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 647.58,
-    "fulldayChange": 3.6500244,
-    "fulldayChangePercent": 0.56643975,
-    "priceToSalesTrailing12Months": 7.232781,
+    "fulldayPrice": 664.88,
+    "fulldayChange": 16.389954,
+    "fulldayChangePercent": 2.5291967,
+    "priceToSalesTrailing12Months": 7.428882,
     "fiftyDayAverage": 600.9022,
     "twoHundredDayAverage": 623.23096,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0032589464,
+    "trailingAnnualDividendYield": 0.0032405904,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1672918466560,
+    "enterpriseValue": 1717678112768,
     "profitMargins": 0.29834998,
     "floatShares": 2201733205,
     "sharesOutstanding": 2205128509,
@@ -192,7 +192,7 @@
     "shortPercentOfFloat": 0.013099999,
     "impliedSharesOutstanding": 2547506225,
     "bookValue": 102.52,
-    "priceToBook": 6.321011,
+    "priceToBook": 6.4923916,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
@@ -201,14 +201,14 @@
     "trailingEps": 26.57,
     "forwardEps": 34.95966,
     "pegRatio": 0.86,
-    "enterpriseToRevenue": 7.329,
-    "enterpriseToEbitda": 15.256,
+    "enterpriseToRevenue": 7.526,
+    "enterpriseToEbitda": 15.664,
     "52WeekChange": -0.15256965,
     "SandP52WeekChange": 0.1574688,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
-    "currentPrice": 648.03,
+    "currentPrice": 665.6,
     "targetHighPrice": 1000.0,
     "targetLowPrice": 580.0,
     "targetMeanPrice": 758.2758,
@@ -240,32 +240,9 @@
     "language": "en-US",
     "region": "US",
     "typeDisp": "Equity",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "dividendDate": 1782345600,
-    "earningsTimestamp": 1785355200,
-    "earningsTimestampStart": 1793217600,
-    "earningsTimestampEnd": 1793217600,
-    "earningsCallTimestampStart": 1785357000,
-    "earningsCallTimestampEnd": 1785357000,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.57,
-    "epsForward": 34.95966,
-    "epsCurrentYear": 31.19688,
-    "priceEpsCurrentYear": 20.77227,
-    "fiftyDayAverageChange": 47.127808,
-    "fiftyDayAverageChangePercent": 0.07842841,
-    "twoHundredDayAverageChange": 24.799072,
-    "twoHundredDayAverageChangePercent": 0.039791144,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-09-13",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "marketState": "CLOSED",
     "corporateActions": [
       {
         "header": "Dividend",
@@ -277,8 +254,8 @@
         }
       }
     ],
-    "postMarketTime": 1789171197,
-    "regularMarketTime": 1789156801,
+    "postMarketTime": 1789430399,
+    "regularMarketTime": 1789416001,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
@@ -286,25 +263,48 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 0.56643975,
-    "regularMarketPrice": 648.03,
+    "regularMarketChangePercent": 2.71129,
+    "regularMarketPrice": 665.6,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.06944311,
-    "postMarketPrice": 647.58,
-    "postMarketChange": -0.4500122,
-    "regularMarketChange": 3.6500244,
-    "regularMarketDayRange": "646.2 - 664.24",
+    "marketState": "POSTPOST",
+    "postMarketChangePercent": -0.10816868,
+    "postMarketPrice": 664.88,
+    "postMarketChange": -0.7199707,
+    "regularMarketChange": 17.5699,
+    "regularMarketDayRange": "649.25 - 668.6",
     "fullExchangeName": "NasdaqGS",
     "averageDailyVolume3Month": 18264382,
-    "fiftyTwoWeekLowChange": 127.77002,
-    "fiftyTwoWeekLowChangePercent": 0.24558878,
+    "fiftyTwoWeekLowChange": 145.33997,
+    "fiftyTwoWeekLowChangePercent": 0.27936023,
     "fiftyTwoWeekRange": "520.26 - 790.8",
-    "fiftyTwoWeekHighChange": -142.76996,
-    "fiftyTwoWeekHighChangePercent": -0.18053864,
+    "fiftyTwoWeekHighChange": -125.20001,
+    "fiftyTwoWeekHighChangePercent": -0.15832071,
     "fiftyTwoWeekChangePercent": -15.256966,
+    "dividendDate": 1782345600,
+    "earningsTimestamp": 1785355200,
+    "earningsTimestampStart": 1793217600,
+    "earningsTimestampEnd": 1793217600,
+    "earningsCallTimestampStart": 1785357000,
+    "earningsCallTimestampEnd": 1785357000,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 26.57,
+    "epsForward": 34.95966,
+    "epsCurrentYear": 31.19688,
+    "priceEpsCurrentYear": 21.335466,
+    "fiftyDayAverageChange": 64.697754,
+    "fiftyDayAverageChangePercent": 0.10766769,
+    "twoHundredDayAverageChange": 42.36902,
+    "twoHundredDayAverageChangePercent": 0.06798285,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-09-14",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8574
   },
@@ -1709,32 +1709,32 @@
   },
   "news": [
     {
-      "id": "8c5e12a8-5709-3693-a813-3d9f84566b55",
+      "id": "d0705cc8-b331-39be-b15b-3c99885b7d57",
       "content": {
-        "id": "8c5e12a8-5709-3693-a813-3d9f84566b55",
+        "id": "d0705cc8-b331-39be-b15b-3c99885b7d57",
         "contentType": "STORY",
-        "title": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
+        "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
         "description": "",
-        "summary": "The famed fund manager lowered his position in Amazon and was buying shares of Microsoft and Meta Platforms.",
-        "pubDate": "2026-09-13T16:50:00Z",
-        "displayTime": "2026-09-13T16:50:00Z",
+        "summary": "AI spending is now large enough to distort the bond market around it. Reuters reported on September 10 that Alphabet, Amazon, Meta, Microsoft and Oracle issued roughly $220 billion of bonds over the prior year as they funded data-center expansion. Similar credits are no longer always trading at similar spreads as repeated giant deals flood […]",
+        "pubDate": "2026-09-14T21:29:46Z",
+        "displayTime": "2026-09-14T21:29:46Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/17e84060b252e04be86c3d4f7eb283dc.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "Artist rendering of bull market.",
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/6e05024de04e2f40c1093571a18bf29f.jpg",
+          "originalWidth": 4032,
+          "originalHeight": 3024,
+          "caption": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market ",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/w.PBVXd9Ake_ezngRpp04Q--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/17e84060b252e04be86c3d4f7eb283dc.jpg",
-              "width": 1400,
-              "height": 933,
+              "url": "https://s.yimg.com/uu/api/res/1.2/2VpSwHH4UWYm8_mCqLQAGg--~B/aD0zMDI0O3c9NDAzMjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/6e05024de04e2f40c1093571a18bf29f.jpg",
+              "width": 4032,
+              "height": 3024,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/593cKiC8d78gDLUUOIYUlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/17e84060b252e04be86c3d4f7eb283dc.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/bPcmmQyeGSRs0zZ_04AyZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6e05024de04e2f40c1093571a18bf29f.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1742,18 +1742,18 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/13/ackman-trimmed-this-big-tech-position-to/",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-issued-220-billion-212946047.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-bill-ackman-trimmed-big-165000189.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-issued-220-billion-212946047.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1771,156 +1771,32 @@
       }
     },
     {
-      "id": "7bbfe3bf-7a3d-31be-871e-797d00ae8953",
+      "id": "ce20c1fd-d288-35a1-bacc-3bbf3bf8d266",
       "content": {
-        "id": "7bbfe3bf-7a3d-31be-871e-797d00ae8953",
+        "id": "ce20c1fd-d288-35a1-bacc-3bbf3bf8d266",
         "contentType": "STORY",
-        "title": "Jim Cramer says big tech stock could double in 3–5 years",
+        "title": "Meta’s AI Agents Are Coming for Your Shopping Cart. These ETFs Could Cash In",
         "description": "",
-        "summary": "It’s a big name that has dealt with plenty of controversy.",
-        "pubDate": "2026-09-13T15:17:00Z",
-        "displayTime": "2026-09-13T15:17:00Z",
+        "summary": "Meta Platforms Inc’s latest AI push is moving beyond chatbots, creating a potential new catalyst for ETFs with sizeable exposure to the social-media giant. The Facebook parent company’s new Muse personal AI agent is designed to move from answering questions...",
+        "pubDate": "2026-09-14T20:30:40Z",
+        "displayTime": "2026-09-14T20:30:40Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/2dc4cbb0060b2f5763c93b41ffd67ca6.jpg",
-          "originalWidth": 3000,
-          "originalHeight": 1972,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NHEDeu1trZfnATzXuEopyg--~B/aD0xOTcyO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/2dc4cbb0060b2f5763c93b41ffd67ca6.jpg",
-              "width": 3000,
-              "height": 1972,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/18uEHkB94fKDuyfBPs5z7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/2dc4cbb0060b2f5763c93b41ffd67ca6.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/meta-stock-cramer-doubling-outlook",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-big-tech-151700059.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "ebe1823d-d548-31aa-9276-19dffefd472c",
-      "content": {
-        "id": "ebe1823d-d548-31aa-9276-19dffefd472c",
-        "contentType": "STORY",
-        "title": "Apple wants AI to listen all day without creeping people out",
-        "description": "",
-        "summary": "Apple tries to solve the problem haunting AI wearables",
-        "pubDate": "2026-09-13T14:37:00Z",
-        "displayTime": "2026-09-13T14:37:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/8077f1dfd959216d1a33de4d9a4b503d.jpg",
-          "originalWidth": 3840,
-          "originalHeight": 2559,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HJiArHSG6E2BRv56dQbiLw--~B/aD0yNTU5O3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/8077f1dfd959216d1a33de4d9a4b503d.jpg",
-              "width": 3840,
-              "height": 2559,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Euugl80MJfIavmtWk6WbqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8077f1dfd959216d1a33de4d9a4b503d.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/apple-wants-ai-to-listen-all-day-without-creeping-people-out",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/apple-wants-ai-listen-day-143700124.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "a6c56873-d706-3170-85d7-10892ff5c035",
-      "content": {
-        "id": "a6c56873-d706-3170-85d7-10892ff5c035",
-        "contentType": "STORY",
-        "title": "Bill Ackman Calls Anthropic Researcher's Exit 'Interesting' Amid Claims of 'Well-Funded PR Operation' Aimed at Democrats",
-        "description": "",
-        "summary": "On Wednesday, Bill Ackman drew attention to an allegation that the resignation of Anthropic researcher Jacob Coxon may have been rapidly amplified as part of a broader push for tougher artificial intelligence regulation. Jacob Coxon’s Anthropic Resignation Goes Viral Coxon,...",
-        "pubDate": "2026-09-12T23:31:00Z",
-        "displayTime": "2026-09-12T23:31:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/6932e8148b6d73f85a63c724ce48f2c3.jpg",
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/bef316b2488e9674a17cd0e6d7953999.jpg",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "caption": "Hand holding a phone with Claude logo in a background that bears the legend Anthropic",
+          "caption": "Dhaka,Bangladesh 22 April 2024: Meta AI logo on smartphone for Facebook Artificial Intelligence.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8mPvipgFMJ0xlFzsjaa5Gw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/benzinga_79/6932e8148b6d73f85a63c724ce48f2c3.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/mtiSvXURyylyUYm4Rht_aw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/benzinga_79/bef316b2488e9674a17cd0e6d7953999.jpg",
               "width": 1920,
               "height": 1080,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/e3Br7iZKmmP4XKJGtBfTcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6932e8148b6d73f85a63c724ce48f2c3.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/d4MMxnZw4wQ3zeoh5XOf2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/bef316b2488e9674a17cd0e6d7953999.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1933,13 +1809,13 @@
           "sourceId": "benzinga_79"
         },
         "canonicalUrl": {
-          "url": "https://www.yahoo.com/news/politics/articles/bill-ackman-calls-anthropic-researchers-233100197.html",
-          "site": "news",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agents-coming-shopping-203040358.html",
+          "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://www.yahoo.com/news/politics/articles/bill-ackman-calls-anthropic-researchers-233100197.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agents-coming-shopping-203040358.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1957,75 +1833,32 @@
       }
     },
     {
-      "id": "30c54432-c402-3d2d-9b9d-9e4d7876a31f",
+      "id": "e91f8041-f74e-3861-b989-8a722db0ede0",
       "content": {
-        "id": "30c54432-c402-3d2d-9b9d-9e4d7876a31f",
+        "id": "e91f8041-f74e-3861-b989-8a722db0ede0",
         "contentType": "STORY",
-        "title": "Agentic commerce: Is Payments the winner this time?",
+        "title": "Is META Stock’s $130B AI Buildout Your Ticket to an 8.7% Yield?",
         "description": "",
-        "summary": "Investing.com -- Agentic commerce accounts for less than 1% of overall e-commerce activity, even as new AI shopping tools from Meta and Anthropic launched this week.",
-        "pubDate": "2026-09-12T21:33:09Z",
-        "displayTime": "2026-09-12T21:33:09Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/agentic-commerce-payments-winner-time-213309351.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/agentic-commerce-payments-winner-time-213309351.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "e61254d9-56d2-3272-8d44-3050272e6898",
-      "content": {
-        "id": "e61254d9-56d2-3272-8d44-3050272e6898",
-        "contentType": "STORY",
-        "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
-        "description": "",
-        "summary": "Elon Musk recently praised a specific GPU stock during SpaceX's earnings call.",
-        "pubDate": "2026-09-12T21:20:00Z",
-        "displayTime": "2026-09-12T21:20:00Z",
+        "summary": "Meta Platforms (META) trades about 17% below its 52-week high, and has lost ground over the past year while the S&P 500 climbed. You can be paid now for agreeing to buy the shares well below today's price, whether or not you ever own them. The catch is the reason they have lagged: Meta is spending on data centers almost as fast as the business turns cash.",
+        "pubDate": "2026-09-14T20:21:33Z",
+        "displayTime": "2026-09-14T20:21:33Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/1968859925c624b95e9e7e88618011ab.png",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "AMD and Nvidia logos.",
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/10c2890c16ecee8e2a801b3a46ab1981.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VKCSaSuGNkdjmj9bNdKgeA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1968859925c624b95e9e7e88618011ab.png",
-              "width": 1200,
-              "height": 800,
+              "url": "https://s.yimg.com/uu/api/res/1.2/CQuVyHfSaNWRss0fLPrL9w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/10c2890c16ecee8e2a801b3a46ab1981.jpg",
+              "width": 1280,
+              "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XzFC_IZp9UkX.SljmKo8gA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1968859925c624b95e9e7e88618011ab.png",
+              "url": "https://s.yimg.com/uu/api/res/1.2/uelH08_GPSADEl5rzKRKwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/10c2890c16ecee8e2a801b3a46ab1981.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2033,18 +1866,18 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/",
+          "sourceId": "trefis_142"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/12/nvidia-vs-amd-elon-musk-picked-a-side-on-the-space/",
+          "url": "https://www.trefis.com/articles/615208/is-meta-stocks-130b-ai-buildout-your-ticket-to-an-8-7-yield/2026-09-14",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-elon-musk-212000632.html",
+          "url": "https://finance.yahoo.com/markets/options/articles/meta-stock-130b-ai-buildout-202133176.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2062,32 +1895,32 @@
       }
     },
     {
-      "id": "7cce9289-b6e5-385d-85a8-39ae5efdcdce",
+      "id": "76017585-6f3a-3b2b-b905-7d6bdd05883b",
       "content": {
-        "id": "7cce9289-b6e5-385d-85a8-39ae5efdcdce",
+        "id": "76017585-6f3a-3b2b-b905-7d6bdd05883b",
         "contentType": "STORY",
-        "title": "From LeBron James to Sydney Sweeney: Prediction Markets Launch NFL Ad Blitz",
+        "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns",
         "description": "",
-        "summary": "The National Football League season is back in full swing, with thirteen games on tap for the first NFL Sunday.",
-        "pubDate": "2026-09-12T19:05:00Z",
-        "displayTime": "2026-09-12T19:05:00Z",
+        "summary": "Google owner  Alphabet  and Facebook parent  Meta Platforms  have been frustrating stocks to own in 2026—but they were getting some love from investors on Monday, even as a broader tech selloff raged on.  Alphabet climbed 2.7% and Meta added 2.9% in Monday trading.  The tech-heavy  fell 0.3% after the bosses of Anthropic, OpenAI, and  SpaceX  called for a slowdown in AI development.",
+        "pubDate": "2026-09-14T19:51:00Z",
+        "displayTime": "2026-09-14T19:51:00Z",
         "isHosted": false,
         "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/7cce9289-b6e5-385d-85a8-39ae5efdcdce/from-lebron-james-to-sydney.html",
+        "previewUrl": "https://finance.yahoo.com/m/76017585-6f3a-3b2b-b905-7d6bdd05883b/why-google-and-meta-stocks.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/b762083e5711e89a63d701f103d6db3c.jpg",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/81e8110173ed6910d1a4546588ecb2e6.jpg",
           "originalWidth": 1280,
           "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KIcziYI035CiFpyxBn_xcg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/b762083e5711e89a63d701f103d6db3c.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ksBctM_EaYqTARfc8S477w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/81e8110173ed6910d1a4546588ecb2e6.jpg",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/wiCzkZ1nlNBHCmu._3zZJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b762083e5711e89a63d701f103d6db3c.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/GpSbV17EEDt.u25TEFKzVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/81e8110173ed6910d1a4546588ecb2e6.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2100,7 +1933,7 @@
           "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/nfl-prediction-market-ads-sydney-sweeney-lebron-james-6df311c8?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/articles/google-meta-stock-ai-slowdown-7205d231?siteid=yhoof2&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2119,32 +1952,156 @@
       }
     },
     {
-      "id": "f43a1439-59e3-32b2-afe4-95c63918db07",
+      "id": "8a57e6f6-ebe2-3888-9d6b-368ba7b28f43",
       "content": {
-        "id": "f43a1439-59e3-32b2-afe4-95c63918db07",
+        "id": "8a57e6f6-ebe2-3888-9d6b-368ba7b28f43",
         "contentType": "STORY",
-        "title": "5 big analyst AI moves: JPMorgan upgrades Meta, names KLA top chip equipment stock",
+        "title": "AI-Related Debt Sales Are Near $500 Billion. Meta and CoreWeave Show Why the Same Boom Creates Two Different Risks",
         "description": "",
-        "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
-        "pubDate": "2026-09-12T17:05:44Z",
-        "displayTime": "2026-09-12T17:05:44Z",
+        "summary": "AI infrastructure is becoming a credit story as much as a technology story. Reuters Breakingviews reported that AI-related debt issuance had reached nearly $500 billion by early August, about one-fifth of higher-rated U.S. issuance this year versus roughly 1% in 2024. Meta Platforms, Inc. (NASDAQ:META) and CoreWeave, Inc. (NASDAQ:CRWV) sit at opposite ends of that […]",
+        "pubDate": "2026-09-14T19:02:43Z",
+        "displayTime": "2026-09-14T19:02:43Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947.jpg",
+          "originalWidth": 3485,
+          "originalHeight": 1960,
+          "caption": "AI-Related Debt Sales Are Near $500 Billion. Meta and CoreWeave Show Why the Same Boom Creates Two Different Risks",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/NrVr21QSb.gjrr_OlFKbQQ--~B/aD0xOTYwO3c9MzQ4NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947.jpg",
+              "width": 3485,
+              "height": 1960,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/16vTD32KXZDGW1PZc4Lo4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-related-debt-sales-near-190243211.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-related-debt-sales-near-190243211.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0280f4ec-ee21-3e72-bc33-d28710177a55",
+      "content": {
+        "id": "0280f4ec-ee21-3e72-bc33-d28710177a55",
+        "contentType": "STORY",
+        "title": "Texas Put AI Data Centers on Notice. Meta and Digital Realty Already Chose Their Side",
+        "description": "",
+        "summary": "Texas is no longer treating every proposed data center as an automatic addition to the grid. On August 3, Governor Greg Abbott ordered an audit of projects moving through ERCOT’s interconnection process, which contained more than 474 gigawatts of requests, over five times the state’s record peak demand. ERCOT began issuing verification requests on September […]",
+        "pubDate": "2026-09-14T18:55:57Z",
+        "displayTime": "2026-09-14T18:55:57Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/9cc70fac9e0b9039eb408757e321fcc1.jpg",
+          "originalWidth": 6048,
+          "originalHeight": 4024,
+          "caption": "Texas Put AI Data Centers on Notice. Meta and Digital Realty Already Chose Their Side",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Km57sbH2J1nInRZ4.LVj6g--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/9cc70fac9e0b9039eb408757e321fcc1.jpg",
+              "width": 6048,
+              "height": 4024,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/JqaBBdWK1MrclzduhLDyDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/9cc70fac9e0b9039eb408757e321fcc1.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/texas-put-ai-data-centers-185557597.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/texas-put-ai-data-centers-185557597.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6c30c7c0-8927-3098-9b40-71b148bf6270",
+      "content": {
+        "id": "6c30c7c0-8927-3098-9b40-71b148bf6270",
+        "contentType": "STORY",
+        "title": "Meta Gains - But Its 12-Point Margin Slide Still Demands Answers",
+        "description": "",
+        "summary": "A favorable trading rotation does not reverse the gap between revenue growth and expense growth.",
+        "pubDate": "2026-09-14T18:39:00Z",
+        "displayTime": "2026-09-14T18:39:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": null,
         "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-170544815.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-gains-12-point-margin-183900360.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-170544815.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-gains-12-point-margin-183900360.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2162,32 +2119,32 @@
       }
     },
     {
-      "id": "bf40ccf8-d5e7-36a0-967a-da120f4a5768",
+      "id": "ddd9c8cc-f7e8-379c-8f95-d7163be9b782",
       "content": {
-        "id": "bf40ccf8-d5e7-36a0-967a-da120f4a5768",
+        "id": "ddd9c8cc-f7e8-379c-8f95-d7163be9b782",
         "contentType": "STORY",
-        "title": "$2.3 Billion in Daily Profits: Why Betting Against the Magnificent 7 Keeps Failing",
+        "title": "What Anthropic's AI Slowdown Call Could Mean For Cloud Giants Amazon, Microsoft, Google",
         "description": "",
-        "summary": "The Magnificent 7 label vanished from Wall Street chatter, yet the profit engines behind these seven companies kept compounding in ways that have made betting against them one of the most punishing trades in recent memory.",
-        "pubDate": "2026-09-12T14:34:16Z",
-        "displayTime": "2026-09-12T14:34:16Z",
-        "isHosted": true,
+        "summary": "Amazon stock was lower while Google and Microsoft were higher as investors digested Anthropic's AI slowdown call.",
+        "pubDate": "2026-09-14T18:01:39Z",
+        "displayTime": "2026-09-14T18:01:39Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/ddd9c8cc-f7e8-379c-8f95-d7163be9b782/what-anthropic-s-ai-slowdown.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/27d527982dd22c3b14cfbeec80ec810b.jpg",
-          "originalWidth": 1024,
-          "originalHeight": 1024,
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/3d5183f3473c20f2be82caadb8b34de3.jpg",
+          "originalWidth": 1000,
+          "originalHeight": 563,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WXA5fp3Za6f3jD3pQNtERA--~B/aD0xMDI0O3c9MTAyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/27d527982dd22c3b14cfbeec80ec810b.jpg",
-              "width": 1024,
-              "height": 1024,
+              "url": "https://s.yimg.com/uu/api/res/1.2/FzlT8oe8uxoVKguZCcwXiA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/3d5183f3473c20f2be82caadb8b34de3.jpg",
+              "width": 1000,
+              "height": 563,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NWPFLqATWu10CD3gbC55bA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/27d527982dd22c3b14cfbeec80ec810b.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/.YFzwfjcc9XHIlFWBwaDjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/3d5183f3473c20f2be82caadb8b34de3.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2195,22 +2152,17 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/09/12/2-3-billion-in-daily-profits-why-betting-against-the-magnificent-7-keeps-failing/",
+          "url": "https://www.investors.com/news/technology/anthropic-ai-slowdown-amazon-microsoft-google/?src=A00220&yptr=yahoo",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-3-billion-daily-profits-143416688.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
+        "clickThroughUrl": null,
         "metadata": {
           "editorsPick": false
         },
@@ -2224,32 +2176,32 @@
       }
     },
     {
-      "id": "297cea64-f4f2-3102-b562-a2df9b51f87c",
+      "id": "751a063f-8ddf-38a0-b310-b5856d0e7274",
       "content": {
-        "id": "297cea64-f4f2-3102-b562-a2df9b51f87c",
+        "id": "751a063f-8ddf-38a0-b310-b5856d0e7274",
         "contentType": "STORY",
-        "title": "Prediction: This Tech Giant Could Be Worth Twice as Much by 2030",
+        "title": "The Winners and Losers in an AI Slowdown",
         "description": "",
-        "summary": "Meta is burning through capital at a pace that would make most CFOs flinch, yet the math behind a potential share price doubling by 2030 is more credible than Wall Street's one-year thinking suggests.",
-        "pubDate": "2026-09-12T13:00:27Z",
-        "displayTime": "2026-09-12T13:00:27Z",
-        "isHosted": true,
+        "summary": "Alphabet, Meta Platforms and other AI labs would benefit from a development slowdown: they could possibly catch up to OpenAI and Anthropic.",
+        "pubDate": "2026-09-14T16:49:00Z",
+        "displayTime": "2026-09-14T16:49:00Z",
+        "isHosted": false,
         "bypassModal": false,
-        "previewUrl": null,
+        "previewUrl": "https://finance.yahoo.com/m/751a063f-8ddf-38a0-b310-b5856d0e7274/the-winners-and-losers-in-an.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/bf1e326939f058708d470ac840e869e6.jpg",
-          "originalWidth": 3034,
-          "originalHeight": 1600,
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/bc95a7f4743158ceff03c0f9a974f6f6.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/4fDA_f20GbRgr0sgGOv2aA--~B/aD0xNjAwO3c9MzAzNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/bf1e326939f058708d470ac840e869e6.jpg",
-              "width": 3034,
-              "height": 1600,
+              "url": "https://s.yimg.com/uu/api/res/1.2/qRV_4gP1Eo3mU8CQCPR_DA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bc95a7f4743158ceff03c0f9a974f6f6.jpg",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/8XTD_JLguz0HsG14_p73Yw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bf1e326939f058708d470ac840e869e6.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/kxhsk7TERUNL3Ocuxz2XXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/bc95a7f4743158ceff03c0f9a974f6f6.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2257,18 +2209,75 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/09/12/prediction-this-tech-giant-could-be-worth-twice-as-much-by-2030/",
+          "url": "https://www.barrons.com/articles/ai-stocks-slowdown-microsoft-meta-winners-losers-7adb0974?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0a126f65-8aed-379e-978c-0b2666ebb27a",
+      "content": {
+        "id": "0a126f65-8aed-379e-978c-0b2666ebb27a",
+        "contentType": "STORY",
+        "title": "Stock Market Midday, Sept. 14: Tech Stocks Slide on Dire AI Warnings, Micron Drops 5%",
+        "description": "",
+        "summary": "Industry leaders rattle AI stocks as they speak out about rapid development and call for a slower pace of growth, today, Sept. 14, 2026.",
+        "pubDate": "2026-09-14T16:44:59Z",
+        "displayTime": "2026-09-14T16:44:59Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5589a785fe2c636a0f46a19208368fc1.png",
+          "originalWidth": 800,
+          "originalHeight": 714,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/fg3fGhtXMAkUzja3g7wq7g--~B/aD03MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5589a785fe2c636a0f46a19208368fc1.png",
+              "width": 800,
+              "height": 714,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QMWDwrf5TbEgxw7RpUg0Cg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5589a785fe2c636a0f46a19208368fc1.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/09/14/stock-market-midday-sept-14-tech-stocks-slide-on-dire-ai-warnings-micron-drops-5/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tech-giant-could-worth-130027388.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-14-164459890.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
