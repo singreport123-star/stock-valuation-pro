@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-09-16T23:59:49.299334"
+    "ts": "2026-09-17T23:50:13.645424"
   },
   "financials": {
     "annual": {
@@ -25646,12 +25646,338 @@
         "buy": 8374396,
         "name": "Foreign_Investor",
         "sell": 17118776
+      },
+      {
+        "date": "2026-09-17",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-09-17",
+        "stock_id": "2330",
+        "buy": 459100,
+        "name": "Dealer_self",
+        "sell": 102200
+      },
+      {
+        "date": "2026-09-17",
+        "stock_id": "2330",
+        "buy": 255491,
+        "name": "Dealer_Hedging",
+        "sell": 103230
+      },
+      {
+        "date": "2026-09-17",
+        "stock_id": "2330",
+        "buy": 13315712,
+        "name": "Foreign_Investor",
+        "sell": 8521522
+      },
+      {
+        "date": "2026-09-17",
+        "stock_id": "2330",
+        "buy": 559976,
+        "name": "Investment_Trust",
+        "sell": 619566
       }
     ],
     "margin_trading": [],
     "cb_transaction": []
   },
   "news": [
+    {
+      "id": "9d4ff805-36f1-3794-95b7-284f5327bcc6",
+      "content": {
+        "id": "9d4ff805-36f1-3794-95b7-284f5327bcc6",
+        "contentType": "STORY",
+        "title": "TSMC Gains 1.65% as 2-Nanometer Phones Leave the Lab",
+        "description": "",
+        "summary": "MediaTek's dual-node launch turns TSMC's newest process into a consumer product without abandoning 3 nanometers.",
+        "pubDate": "2026-09-17T18:27:18Z",
+        "displayTime": "2026-09-17T18:27:18Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-gains-1-65-2-182718646.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-gains-1-65-2-182718646.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a69014d1-648f-3685-8241-f142512be689",
+      "content": {
+        "id": "a69014d1-648f-3685-8241-f142512be689",
+        "contentType": "STORY",
+        "title": "There’s a Good Reason to Choose GLOBALFOUNDRIES Over Taiwan Semiconductor Manufacturing",
+        "description": "",
+        "summary": "TSMC dominates AI silicon and just raised its growth outlook, yet one corner of GlobalFoundries' business is quietly outpacing it on a percentage basis while the stock sits near a 52-week low. The case for the underdog gets more specific than most investors expect.",
+        "pubDate": "2026-09-17T16:02:30Z",
+        "displayTime": "2026-09-17T16:02:30Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b1f113cb56e81605c9f2c2a7877a90ba.jpg",
+          "originalWidth": 1536,
+          "originalHeight": 864,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WZwH7RJfZIzilX2QgnL9Tg--~B/aD04NjQ7dz0xNTM2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/b1f113cb56e81605c9f2c2a7877a90ba.jpg",
+              "width": 1536,
+              "height": 864,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ysa8kCMwI8cnBaptvMbJAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b1f113cb56e81605c9f2c2a7877a90ba.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/good-reason-choose-globalfoundries-over-160230697.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5a14ca5f-4b4e-3f00-a607-65dcba8969fe",
+      "content": {
+        "id": "5a14ca5f-4b4e-3f00-a607-65dcba8969fe",
+        "contentType": "STORY",
+        "title": "The Overlooked Semiconductor Stock Poised to Lead in the AI Race",
+        "description": "",
+        "summary": "Camtek stock has averaged a 48% annualized return over the past 10 years.",
+        "pubDate": "2026-09-17T15:35:00Z",
+        "displayTime": "2026-09-17T15:35:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c6f4cc7f0d0e07f2e083136440a521be.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 873,
+          "caption": "A person, smiling, looking at their phone at night, with a city skyline behind them.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/6f9qf68Wg_DbCSXzUboMZQ--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c6f4cc7f0d0e07f2e083136440a521be.jpg",
+              "width": 1400,
+              "height": 873,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/F3xhbm_HsjSe2MNkWqKb7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c6f4cc7f0d0e07f2e083136440a521be.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/17/the-overlooked-semiconductor-stock-poised-to-lead/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/overlooked-semiconductor-stock-poised-lead-153500894.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "43079445-8b23-31e2-9ac0-8545d2871191",
+      "content": {
+        "id": "43079445-8b23-31e2-9ac0-8545d2871191",
+        "contentType": "STORY",
+        "title": "If Long-Duration Rates Stay Above 5%, Here’s What AIFR Investors Should Expect",
+        "description": "",
+        "summary": "Defiance's new foundry ETF trades at a moment when long-duration rates and Taiwan Strait tensions could either turbocharge or torpedo the entire thematic bet, and the first few weeks of price discovery will reveal which force wins.",
+        "pubDate": "2026-09-17T12:40:34Z",
+        "displayTime": "2026-09-17T12:40:34Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/cbecd1beefd2c063c7701d81e6e026ca.jpg",
+          "originalWidth": 1500,
+          "originalHeight": 1000,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/IHsrU.qw4mPriRXjgIYVqw--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/cbecd1beefd2c063c7701d81e6e026ca.jpg",
+              "width": 1500,
+              "height": 1000,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/F6QeLoQM2YyAsPvVwMKAAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cbecd1beefd2c063c7701d81e6e026ca.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/etf/2026/09/17/what-to-watch-aifr/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/watch-aifr-124034025.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "a3b862e6-3500-30d4-b5db-47ed6ff86e55",
+      "content": {
+        "id": "a3b862e6-3500-30d4-b5db-47ed6ff86e55",
+        "contentType": "STORY",
+        "title": "Intel Considers Rejoining the Memory-Making Biz",
+        "description": "",
+        "summary": "Intel is chatting with SK Hynix, Reuters reported, to forge a deal that would see the latter make memory chips in the US for the first time.",
+        "pubDate": "2026-09-17T04:01:00Z",
+        "displayTime": "2026-09-17T04:01:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/the_daily_upside_435/4226f7df1366659d3a16f77b65c67e90.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 901,
+          "caption": "Photo of the Intel logo.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QDGtGELZI5Jzesaypg8gsw--~B/aD05MDE7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_daily_upside_435/4226f7df1366659d3a16f77b65c67e90.jpg",
+              "width": 1600,
+              "height": 901,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/TafRAbJSX1eLwqZqvNeAQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_daily_upside_435/4226f7df1366659d3a16f77b65c67e90.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Daily Upside",
+          "url": "http://thedailyupside.com/",
+          "sourceId": "the_daily_upside_435"
+        },
+        "canonicalUrl": {
+          "url": "https://www.thedailyupside.com/technology/semiconductors/intel-eyes-the-memory-making-biz-again/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/intel-considers-rejoining-memory-making-040100845.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
     {
       "id": "0ed43f78-efca-3599-a222-21362cefc634",
       "content": {
@@ -25937,316 +26263,6 @@
         },
         "storyline": null
       }
-    },
-    {
-      "id": "a264c26d-c8a8-3098-80a1-1c6de2fc7025",
-      "content": {
-        "id": "a264c26d-c8a8-3098-80a1-1c6de2fc7025",
-        "contentType": "STORY",
-        "title": "GFS Gains From Expanding Partner base: Will it Boost Growth Prospects?",
-        "description": "",
-        "summary": "GlobalFoundries is expanding partnerships across AI, optical networking, power and quantum technologies, but commercialization remains key.",
-        "pubDate": "2026-09-16T15:26:00Z",
-        "displayTime": "2026-09-16T15:26:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/d87cc8e5693753ce8e232e0a527e4885.jpg",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VwuHssGq_jApfbCoofgnuQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d87cc8e5693753ce8e232e0a527e4885.jpg",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6fwHz2I.XAdlsvUZiAXgVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d87cc8e5693753ce8e232e0a527e4885.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/gfs-gains-expanding-partner-boost-152600461.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/gfs-gains-expanding-partner-boost-152600461.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "2ec76b34-ef35-343a-ba90-a5194c5c0ca5",
-      "content": {
-        "id": "2ec76b34-ef35-343a-ba90-a5194c5c0ca5",
-        "contentType": "STORY",
-        "title": "Weakness Is an Opportunity for Long-Term ASML Stock Investors",
-        "description": "",
-        "summary": "ASML wins commitments from Samsung, TSMC for new chipmaking",
-        "pubDate": "2026-09-16T15:24:00Z",
-        "displayTime": "2026-09-16T15:24:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/2a087c3d2506525e616e5d575d7cd217.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 997,
-          "caption": "The logo for ASML on a corporate office by Skorzewiak via Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9WNq6WUgq3Hgf3XIAw7CQA--~B/aD05OTc7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/2a087c3d2506525e616e5d575d7cd217.jpg",
-              "width": 1600,
-              "height": 997,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/rdWcRekkkSFjwZksPA_nRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/2a087c3d2506525e616e5d575d7cd217.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/4637629/weakness-is-an-opportunity-for-long-term-asml-stock-investors",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/weakness-opportunity-long-term-asml-152400381.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "5698f53d-751f-39a8-b441-b7e3cf7fc378",
-      "content": {
-        "id": "5698f53d-751f-39a8-b441-b7e3cf7fc378",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Is a No-Brainer Buy On Repeat And Not For The Reason You Think",
-        "description": "",
-        "summary": "Everyone buying TSMC stock is watching the wrong number. The real reason to own shares hides one layer beneath the AI headlines, inside a bottleneck so tight that even TSMC's own customers cannot get enough of it.",
-        "pubDate": "2026-09-16T14:45:35Z",
-        "displayTime": "2026-09-16T14:45:35Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b1f113cb56e81605c9f2c2a7877a90ba.jpg",
-          "originalWidth": 1536,
-          "originalHeight": 864,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WZwH7RJfZIzilX2QgnL9Tg--~B/aD04NjQ7dz0xNTM2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/b1f113cb56e81605c9f2c2a7877a90ba.jpg",
-              "width": 1536,
-              "height": 864,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ysa8kCMwI8cnBaptvMbJAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b1f113cb56e81605c9f2c2a7877a90ba.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/09/16/taiwan-semiconductor-is-a-no-brainer-buy-on-repeat-and-not-for-the-reason-you-think/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-no-brainer-buy-144535856.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "67926b42-3937-3cba-94d9-c0df9b4a4255",
-      "content": {
-        "id": "67926b42-3937-3cba-94d9-c0df9b4a4255",
-        "contentType": "STORY",
-        "title": "ASML Vs. Taiwan Semiconductor Manufacturing: One Is More Misunderstood",
-        "description": "",
-        "summary": "Both ASML and TSMC crushed Q2 expectations, yet investors keep misreading what actually drives each business. The real story lives in two overlooked monopolies that most earnings headlines never touch.",
-        "pubDate": "2026-09-16T13:40:11Z",
-        "displayTime": "2026-09-16T13:40:11Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b1f113cb56e81605c9f2c2a7877a90ba.jpg",
-          "originalWidth": 1536,
-          "originalHeight": 864,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WZwH7RJfZIzilX2QgnL9Tg--~B/aD04NjQ7dz0xNTM2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/b1f113cb56e81605c9f2c2a7877a90ba.jpg",
-              "width": 1536,
-              "height": 864,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ysa8kCMwI8cnBaptvMbJAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b1f113cb56e81605c9f2c2a7877a90ba.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/09/16/asml-vs-taiwan-semiconductor-manufacturing-one-is-more-misunderstood/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-vs-taiwan-semiconductor-manufacturing-134011445.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "8991d108-787e-3c04-b89a-e273bbe5b755",
-      "content": {
-        "id": "8991d108-787e-3c04-b89a-e273bbe5b755",
-        "contentType": "STORY",
-        "title": "Meta MTIA 450 Arke AI chip deployment: cost savings 2027",
-        "description": "",
-        "summary": "The MTIA 450, code-named Arke, is expected to outperform Nvidia chips on energy and cost when running AI models",
-        "pubDate": "2026-09-16T12:27:35Z",
-        "displayTime": "2026-09-16T12:27:35Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/quartz_855/7dead5f1a97d8ea306a35577f78ac1f9.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/75QecnA04KobGcvGUQ80sQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/7dead5f1a97d8ea306a35577f78ac1f9.jpg",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Nh7zI_qLWRPs33SfuqtHpA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/7dead5f1a97d8ea306a35577f78ac1f9.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Quartz",
-          "url": "https://qz.com/",
-          "sourceId": "quartz_855"
-        },
-        "canonicalUrl": {
-          "url": "https://qz.com/meta-mtia-450-arke-ai-chip-data-center-deployment-091626",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-mtia-450-arke-ai-122735717.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
     }
   ],
   "info": {
@@ -26355,77 +26371,77 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2385.0,
-    "open": 2375.0,
-    "dayLow": 2375.0,
-    "dayHigh": 2395.0,
-    "regularMarketPreviousClose": 2385.0,
-    "regularMarketOpen": 2375.0,
-    "regularMarketDayLow": 2375.0,
-    "regularMarketDayHigh": 2395.0,
+    "previousClose": 2380.0,
+    "open": 2405.0,
+    "dayLow": 2400.0,
+    "dayHigh": 2445.0,
+    "regularMarketPreviousClose": 2380.0,
+    "regularMarketOpen": 2405.0,
+    "regularMarketDayLow": 2400.0,
+    "regularMarketDayHigh": 2445.0,
     "dividendRate": 28.0,
-    "dividendYield": 1.18,
-    "exDividendDate": 1789516800,
+    "dividendYield": 1.15,
+    "exDividendDate": 1796860800,
     "payoutRatio": 0.2573,
     "fiveYearAvgDividendYield": 1.67,
     "beta": 1.247,
-    "trailingPE": 27.934273,
-    "forwardPE": 16.746824,
-    "volume": 20838704,
-    "regularMarketVolume": 20838704,
-    "averageVolume": 26701664,
-    "averageVolume10days": 17703829,
-    "averageDailyVolume10Day": 17703829,
+    "trailingPE": 28.32944,
+    "forwardPE": 17.00487,
+    "volume": 17461556,
+    "regularMarketVolume": 17461556,
+    "averageVolume": 26584149,
+    "averageVolume10days": 17520167,
+    "averageDailyVolume10Day": 17520167,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 61719040753664,
-    "nonDilutedMarketCap": 61848702609795,
+    "marketCap": 62885996789760,
+    "nonDilutedMarketCap": 61719040759460,
     "fiftyTwoWeekLow": 1265.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2380.0,
-    "fulldayChange": -5.0,
-    "fulldayChangePercent": -0.002096436,
-    "priceToSalesTrailing12Months": 13.899143,
-    "fiftyDayAverage": 2390.7,
-    "twoHundredDayAverage": 2068.65,
+    "fulldayPrice": 2425.0,
+    "fulldayChange": 45.0,
+    "fulldayChangePercent": 0.018907564,
+    "priceToSalesTrailing12Months": 14.1619425,
+    "fiftyDayAverage": 2389.0,
+    "twoHundredDayAverage": 2073.3,
     "trailingAnnualDividendRate": 26.0,
-    "trailingAnnualDividendYield": 0.010901468,
+    "trailingAnnualDividendYield": 0.01092437,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 59311539617792,
+    "enterpriseValue": 60478499848192,
     "profitMargins": 0.49923,
     "floatShares": 23651877382,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00023,
-    "heldPercentInstitutions": 0.4332,
+    "heldPercentInstitutions": 0.43319,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.05,
-    "priceToBook": 9.59484,
+    "priceToBook": 9.776255,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808415232,
-    "trailingEps": 85.2,
-    "forwardEps": 142.1165,
+    "trailingEps": 85.6,
+    "forwardEps": 142.60622,
     "pegRatio": 0.71,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.357,
-    "enterpriseToEbitda": 18.725,
-    "52WeekChange": 0.8853755,
-    "SandP52WeekChange": 0.14929211,
+    "enterpriseToRevenue": 13.62,
+    "enterpriseToEbitda": 19.094,
+    "52WeekChange": 0.85214007,
+    "SandP52WeekChange": 0.13869953,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1796860800,
     "quoteType": "EQUITY",
-    "currentPrice": 2380.0,
+    "currentPrice": 2425.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2650.0,
-    "targetMeanPrice": 3231.7058,
+    "targetMeanPrice": 3236.1177,
     "targetMedianPrice": 3200.0,
     "recommendationMean": 1.32353,
     "recommendationKey": "strong_buy",
@@ -26457,51 +26473,10 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "corporateActions": [
-      {
-        "header": "Dividend",
-        "message": "2330.TW announced a cash dividend of TWD 7.00 with an ex-date of Sep. 16, 2026",
-        "meta": {
-          "eventType": "DIVIDEND",
-          "dateEpochMs": 1789488000000,
-          "amount": "7.00"
-        }
-      }
-    ],
-    "regularMarketChangePercent": -0.2096436,
-    "regularMarketPrice": 2380.0,
-    "marketState": "PREPRE",
-    "priceEpsCurrentYear": 22.107773,
-    "fiftyDayAverageChange": -10.699951,
-    "fiftyDayAverageChangePercent": -0.0044756564,
-    "twoHundredDayAverageChange": 311.3501,
-    "twoHundredDayAverageChangePercent": 0.15050884,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": -5.0,
-    "regularMarketDayRange": "2375.0 - 2395.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 26701664,
-    "fiftyTwoWeekLowChange": 1115.0,
-    "fiftyTwoWeekLowChangePercent": 0.88142294,
-    "fiftyTwoWeekRange": "1265.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -155.0,
-    "fiftyTwoWeekHighChangePercent": -0.061143983,
-    "fiftyTwoWeekChangePercent": 88.53755,
-    "earningsTimestamp": 1784179800,
-    "earningsTimestampStart": 1792042200,
-    "earningsTimestampEnd": 1792042200,
-    "earningsCallTimestampStart": 1784181600,
-    "earningsCallTimestampEnd": 1784181600,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 85.2,
-    "epsForward": 142.1165,
-    "epsCurrentYear": 107.65444,
-    "regularMarketTime": 1789536610,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "corporateActions": [],
+    "regularMarketTime": 1789623009,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -26509,8 +26484,39 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "trailingPegRatio": 0.7141
+    "regularMarketChangePercent": 1.8907564,
+    "regularMarketPrice": 2425.0,
+    "marketState": "PREPRE",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": 45.0,
+    "regularMarketDayRange": "2400.0 - 2445.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 26584149,
+    "fiftyTwoWeekLowChange": 1160.0,
+    "fiftyTwoWeekLowChangePercent": 0.91699606,
+    "fiftyTwoWeekRange": "1265.0 - 2535.0",
+    "fiftyTwoWeekHighChange": -110.0,
+    "fiftyTwoWeekHighChangePercent": -0.043392505,
+    "fiftyTwoWeekChangePercent": 85.214005,
+    "earningsTimestamp": 1784179800,
+    "earningsTimestampStart": 1792042200,
+    "earningsTimestampEnd": 1792042200,
+    "earningsCallTimestampStart": 1784181600,
+    "earningsCallTimestampEnd": 1784181600,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 85.6,
+    "epsForward": 142.60622,
+    "epsCurrentYear": 107.82273,
+    "priceEpsCurrentYear": 22.49062,
+    "fiftyDayAverageChange": 36.0,
+    "fiftyDayAverageChangePercent": 0.015069067,
+    "twoHundredDayAverageChange": 351.69995,
+    "twoHundredDayAverageChangePercent": 0.16963293,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "trailingPegRatio": 0.7125
   }
 }
