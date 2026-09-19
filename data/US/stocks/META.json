@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-09-18T23:47:32.669886",
+    "ts": "2026-09-19T23:49:18.158884",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -146,40 +146,40 @@
     "regularMarketDayLow": 660.92,
     "regularMarketDayHigh": 690.15,
     "dividendRate": 2.1,
-    "dividendYield": 0.31,
+    "dividendYield": 0.32,
     "exDividendDate": 1789948800,
     "payoutRatio": 0.0791,
     "beta": 1.243,
-    "trailingPE": 25.084776,
+    "trailingPE": 25.06589,
     "forwardPE": 19.043377,
     "volume": 27394770,
     "regularMarketVolume": 27394770,
-    "averageVolume": 18162080,
-    "averageVolume10days": 20091190,
-    "averageDailyVolume10Day": 20091190,
+    "averageVolume": 18311692,
+    "averageVolume10days": 20876240,
+    "averageDailyVolume10Day": 20876240,
     "bid": 601.0,
     "ask": 690.0,
     "bidSize": 2,
     "askSize": 8,
     "marketCap": 1696002211840,
-    "nonDilutedMarketCap": 1738188972378,
+    "nonDilutedMarketCap": 1696002269293,
     "fiftyTwoWeekLow": 520.26,
-    "fiftyTwoWeekHigh": 790.8,
+    "fiftyTwoWeekHigh": 785.73,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 668.1,
-    "fulldayChange": -14.296204,
-    "fulldayChangePercent": -2.0952652,
+    "fulldayPrice": 668.5506,
+    "fulldayChange": -16.56,
+    "fulldayChangePercent": -2.42705,
     "priceToSalesTrailing12Months": 7.430557,
-    "fiftyDayAverage": 606.6936,
-    "twoHundredDayAverage": 624.0341,
+    "fiftyDayAverage": 607.379,
+    "twoHundredDayAverage": 624.1585,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0030777797,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1760247021568,
+    "enterpriseValue": 1718060318720,
     "profitMargins": 0.29834998,
-    "floatShares": 2201733205,
+    "floatShares": 2201758680,
     "sharesOutstanding": 2205128509,
     "sharesShort": 28807174,
     "sharesShortPriorMonth": 31458758,
@@ -187,7 +187,7 @@
     "dateShortInterest": 1788134400,
     "sharesPercentSharesOut": 0.0113,
     "heldPercentInsiders": 0.00148,
-    "heldPercentInstitutions": 0.79015,
+    "heldPercentInstitutions": 0.79014,
     "shortRatio": 1.77,
     "shortPercentOfFloat": 0.013099999,
     "impliedSharesOutstanding": 2547506225,
@@ -198,13 +198,13 @@
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": -0.136,
     "netIncomeToCommon": 68097998848,
-    "trailingEps": 26.54,
+    "trailingEps": 26.56,
     "forwardEps": 34.95966,
-    "pegRatio": 0.89,
-    "enterpriseToRevenue": 7.712,
-    "enterpriseToEbitda": 16.053,
-    "52WeekChange": -0.12342298,
-    "SandP52WeekChange": 0.14606059,
+    "pegRatio": 0.88,
+    "enterpriseToRevenue": 7.527,
+    "enterpriseToEbitda": 15.668,
+    "52WeekChange": -0.12992054,
+    "SandP52WeekChange": 0.14293182,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1781481600,
     "quoteType": "EQUITY",
@@ -243,21 +243,15 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "POST",
-    "cryptoTradeable": false,
-    "postMarketChangePercent": 0.3529817,
-    "postMarketPrice": 668.1,
-    "postMarketChange": 2.3499756,
-    "regularMarketChange": -16.559998,
-    "regularMarketDayRange": "660.92 - 690.15",
+    "marketState": "CLOSED",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18162080,
+    "averageDailyVolume3Month": 18311692,
     "fiftyTwoWeekLowChange": 145.48999,
     "fiftyTwoWeekLowChangePercent": 0.2796486,
-    "fiftyTwoWeekRange": "520.26 - 790.8",
-    "fiftyTwoWeekHighChange": -125.04999,
-    "fiftyTwoWeekHighChangePercent": -0.15813099,
-    "fiftyTwoWeekChangePercent": -12.3422985,
+    "fiftyTwoWeekRange": "520.26 - 785.73",
+    "fiftyTwoWeekHighChange": -119.97998,
+    "fiftyTwoWeekHighChangePercent": -0.15269874,
+    "fiftyTwoWeekChangePercent": -12.992054,
     "dividendDate": 1790553600,
     "earningsTimestamp": 1785355200,
     "earningsTimestampStart": 1793217600,
@@ -265,24 +259,21 @@
     "earningsCallTimestampStart": 1785357000,
     "earningsCallTimestampEnd": 1785357000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.54,
+    "epsTrailingTwelveMonths": 26.56,
     "epsForward": 34.95966,
     "epsCurrentYear": 31.19688,
     "priceEpsCurrentYear": 21.340275,
-    "fiftyDayAverageChange": 59.056396,
-    "fiftyDayAverageChangePercent": 0.09734139,
-    "twoHundredDayAverageChange": 41.71588,
-    "twoHundredDayAverageChangePercent": 0.06684872,
+    "fiftyDayAverageChange": 58.37097,
+    "fiftyDayAverageChangePercent": 0.09610304,
+    "twoHundredDayAverageChange": 41.59149,
+    "twoHundredDayAverageChangePercent": 0.06663611,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-09-18",
+    "nameChangeDate": "2026-09-19",
     "averageAnalystRating": "1.3 - Strong Buy",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
+    "cryptoTradeable": false,
     "corporateActions": [
       {
         "header": "Dividend",
@@ -294,7 +285,7 @@
         }
       }
     ],
-    "postMarketTime": 1789775234,
+    "postMarketTime": 1789775990,
     "regularMarketTime": 1789761602,
     "exchange": "NMS",
     "messageBoardId": "finmb_20765463",
@@ -303,10 +294,19 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -2.427049,
+    "regularMarketChangePercent": -2.42705,
     "regularMarketPrice": 665.75,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": 0.42066815,
+    "postMarketPrice": 668.5506,
+    "postMarketChange": 2.8005981,
+    "regularMarketChange": -16.56,
+    "regularMarketDayRange": "660.92 - 690.15",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.9028
+    "trailingPegRatio": 0.8809
   },
   "financial_statements": {
     "income": {
@@ -1709,313 +1709,32 @@
   },
   "news": [
     {
-      "id": "1f91360a-043b-48c3-a621-e7dcdb2fd60a",
+      "id": "0810c6b6-8cff-320b-bc3f-5a59404063c8",
       "content": {
-        "id": "1f91360a-043b-48c3-a621-e7dcdb2fd60a",
-        "contentType": "VIDEO",
-        "title": "'Astonishing theft of unprecedented proportions': NYT vs. OpenAI, Microsoft lawsuit",
-        "description": "<p>Morning Brief host Julie Hyman sits down with Yahoo Finance Breaking Business News Reporter Jake Conley and Washington Crossing Advisors senior portfolio manager Chad Morganlander to discuss the latest updates with the New York Times's (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/NYT/\" data-i13n=\"cpos:1;pos:1\">NYT</a>) lawsuit against OpenAI (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/OPAI.PVT/\" data-i13n=\"cpos:2;pos:1\">OPAI.PVT</a>) and Microsoft (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/MSFT/\" data-i13n=\"cpos:3;pos:1\">MSFT</a>).</p>",
-        "summary": "Morning Brief host Julie Hyman sits down with Yahoo Finance Breaking Business News Reporter Jake Conley and Washington Crossing Advisors senior portfolio manager Chad Morganlander to discuss the latest updates with the New York Times's (NYT) lawsuit against OpenAI (OPAI.PVT) and Microsoft (MSFT).",
-        "pubDate": "2026-09-18T13:48:22Z",
-        "displayTime": "",
+        "id": "0810c6b6-8cff-320b-bc3f-5a59404063c8",
+        "contentType": "STORY",
+        "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+        "description": "",
+        "summary": "I believe investors are underrating the potential of this compounding machine.",
+        "pubDate": "2026-09-19T18:50:00Z",
+        "displayTime": "2026-09-19T18:50:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/9Hg3ItoidSevhw3lczv3IA--~B/aD0xNjg3O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bc69db84-7711-4513-bb20-d239d59dcea5_07aaa96561e0bd12a603b312bc91f6e80a0d0269f1883940202fee43df4f99fe.jpg",
-          "originalWidth": 3000,
-          "originalHeight": 1687,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/bbac7bfbd758ca70fe4f7cb51702a7ed.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 840,
+          "caption": "An Amazon delivery van. ",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9Hg3ItoidSevhw3lczv3IA--~B/aD0xNjg3O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bc69db84-7711-4513-bb20-d239d59dcea5_07aaa96561e0bd12a603b312bc91f6e80a0d0269f1883940202fee43df4f99fe.jpg",
-              "width": 3000,
-              "height": 1687,
+              "url": "https://s.yimg.com/uu/api/res/1.2/tvY54euy_Ra5u5UZOQ1weg--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bbac7bfbd758ca70fe4f7cb51702a7ed.jpg",
+              "width": 1400,
+              "height": 840,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/3k.azWfWK3GVCbtMpZCAgQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bc69db84-7711-4513-bb20-d239d59dcea5_07aaa96561e0bd12a603b312bc91f6e80a0d0269f1883940202fee43df4f99fe.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/",
-          "sourceId": "video.yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/astonishing-theft-unprecedented-proportions-nyt-134822530.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/astonishing-theft-unprecedented-proportions-nyt-134822530.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f0fb78b6-387f-31b2-b61a-1614d422fcdf",
-      "content": {
-        "id": "f0fb78b6-387f-31b2-b61a-1614d422fcdf",
-        "contentType": "STORY",
-        "title": "What Happens To Reddit Stock If Search Keeps Sending Fewer People?",
-        "description": "",
-        "summary": "Reddit (RDDT) stock trades near $153, down about 43% over the past year while the S&P 500 returned 17%. The market has already decided something here is wrong. The advertising business is not the problem; it is still growing fast. The risk sits one step upstream, in where the next visitor comes from.",
-        "pubDate": "2026-09-18T21:36:38Z",
-        "displayTime": "2026-09-18T21:36:38Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/549991c26de0acbb32b51cedc3b04877.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 1280,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/mdkUx_J0wEA1X70JvKYHvA--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/549991c26de0acbb32b51cedc3b04877.jpg",
-              "width": 1920,
-              "height": 1280,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ju7cvnrFTYJEehUksdBsvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/549991c26de0acbb32b51cedc3b04877.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/",
-          "sourceId": "trefis_142"
-        },
-        "canonicalUrl": {
-          "url": "https://www.trefis.com/articles/615859/what-happens-to-reddit-stock-if-search-keeps-sending-fewer-people/2026-09-18",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/happens-reddit-stock-search-keeps-213638799.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "dcd7174d-d228-3e1a-9ab5-fe03c0a7911b",
-      "content": {
-        "id": "dcd7174d-d228-3e1a-9ab5-fe03c0a7911b",
-        "contentType": "STORY",
-        "title": "S&P 500 Posts Slight Weekly Decline as Utilities Weigh",
-        "description": "",
-        "summary": "The Standard & Poor's 500 index slipped 0.1% this week as the market digested a quarter-point rate i",
-        "pubDate": "2026-09-18T20:46:40Z",
-        "displayTime": "2026-09-18T20:46:40Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-slight-weekly-204640571.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-slight-weekly-204640571.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "25726f93-ea09-3278-943f-bf5ccdc8602d",
-      "content": {
-        "id": "25726f93-ea09-3278-943f-bf5ccdc8602d",
-        "contentType": "STORY",
-        "title": "California to Reconsider AI ‘Kill Switch’ With Newsom’s New Executive Order",
-        "description": "",
-        "summary": "Fears of AI running amok have increased over the past week, with tech execs and President Donald Trump all weighing in on the matter.",
-        "pubDate": "2026-09-18T20:45:00Z",
-        "displayTime": "2026-09-18T20:45:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/25726f93-ea09-3278-943f-bf5ccdc8602d/california-to-reconsider-ai.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/325f760d51549df82c9782178399879d.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/XZv8FuTgJ8IZArxm7WFztw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/325f760d51549df82c9782178399879d.jpg",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zuqB6C73SS71VEo3cJufPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/325f760d51549df82c9782178399879d.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/",
-          "sourceId": "Barrons.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/california-newsom-ai-kill-switch-executive-order-c7a352df?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b51e5f20-8e7f-3740-9206-2c997f3a58d1",
-      "content": {
-        "id": "b51e5f20-8e7f-3740-9206-2c997f3a58d1",
-        "contentType": "STORY",
-        "title": "Nvidia-Backed Cloud Startup Nscale Files for IPO",
-        "description": "",
-        "summary": "The U.K.-based company didn’t say how many shares it would offer, or at what price, but intends to list shares on the New York Stock Exchange under the symbol NSCL.",
-        "pubDate": "2026-09-18T20:39:00Z",
-        "displayTime": "2026-09-18T20:39:00Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/b51e5f20-8e7f-3740-9206-2c997f3a58d1/nvidia-backed-cloud-startup.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/0554c022a68fe5dbf29fad566d3dcab6.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NsXJBVpzMghTEkEPDwMBVA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/0554c022a68fe5dbf29fad566d3dcab6.jpg",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/uWuwOBtwpU6vi_VA1E9tdA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/0554c022a68fe5dbf29fad566d3dcab6.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/",
-          "sourceId": "wsj.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.wsj.com/business/nvidia-backed-cloud-startup-nscale-files-for-ipo-2622ca12?siteid=yhoof2&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "05458ef4-9a77-3d3e-8621-811dc18d7f1b",
-      "content": {
-        "id": "05458ef4-9a77-3d3e-8621-811dc18d7f1b",
-        "contentType": "STORY",
-        "title": "Meta's Muse Just Had a Breakout Launch. Is It a Game Changer for the Stock?",
-        "description": "",
-        "summary": "Meta's New AI App Grew Almost as Fast as ChatGPT in Its First 5 Days. Is Meta Stock a Buy?",
-        "pubDate": "2026-09-18T20:35:02Z",
-        "displayTime": "2026-09-18T20:35:02Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4ca1fa0c60632168be6a0318eed09b8a.png",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "White infinity-style Meta logo on a blue background with a modern glass office building",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/aufjMjCseg1JUgA2WEdJnw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4ca1fa0c60632168be6a0318eed09b8a.png",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/6OwZGtHZczGwwPtaz88hmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4ca1fa0c60632168be6a0318eed09b8a.png",
+              "url": "https://s.yimg.com/uu/api/res/1.2/owKlNnOv5EH7ZqRNe5zFNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bbac7bfbd758ca70fe4f7cb51702a7ed.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2028,13 +1747,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/18/meta-s-muse-just-had-a-breakout-launch-here-s-what-it-means-for-the-stock/",
+          "url": "https://www.fool.com/investing/2026/09/19/forget-buying-all-seven-the-magnificent-seven-stoc/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/metas-muse-just-had-breakout-203502539.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2052,75 +1771,32 @@
       }
     },
     {
-      "id": "677776a9-b0b5-34df-be2e-856a4436a8af",
+      "id": "89d92451-9d49-34cd-a2dd-d8c28331c977",
       "content": {
-        "id": "677776a9-b0b5-34df-be2e-856a4436a8af",
+        "id": "89d92451-9d49-34cd-a2dd-d8c28331c977",
         "contentType": "STORY",
-        "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+        "title": "Meta stock delivers a bold case for a $900 target",
         "description": "",
-        "summary": "Tech stocks rose late Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XLK",
-        "pubDate": "2026-09-18T19:57:13Z",
-        "displayTime": "2026-09-18T19:57:13Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MT Newswires",
-          "url": "https://www.mtnewswires.com/",
-          "sourceId": "mt_newswires_premium_news_706"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-195713111.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-195713111.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": true,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b8790aba-8017-31b4-b17e-89f2d98b1228",
-      "content": {
-        "id": "b8790aba-8017-31b4-b17e-89f2d98b1228",
-        "contentType": "STORY",
-        "title": "How Shopify and Meta are diving deeper into banking",
-        "description": "",
-        "summary": "The commerce company has made major inroads into embedded finance, a strategy that could get a boost from partnering with the social media giant's new AI agent.",
-        "pubDate": "2026-09-18T19:47:06Z",
-        "displayTime": "2026-09-18T19:47:06Z",
+        "summary": "Here’s the bull thesis Wall Street thinks investors are missing",
+        "pubDate": "2026-09-19T16:17:00Z",
+        "displayTime": "2026-09-19T16:17:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/american_banker_655/501d37e24f8edb3a129610c8c672100d.jpg",
-          "originalWidth": 842,
-          "originalHeight": 675,
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/e1c3e5ac431d9d4624f7d820d2ff433c.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2560,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AxAGNEnJyxT2YjYV9tdxhg--~B/aD02NzU7dz04NDI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/american_banker_655/501d37e24f8edb3a129610c8c672100d.jpg",
-              "width": 842,
-              "height": 675,
+              "url": "https://s.yimg.com/uu/api/res/1.2/N2qL_AtBAewJjO8drMT5ig--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/e1c3e5ac431d9d4624f7d820d2ff433c.jpg",
+              "width": 3840,
+              "height": 2560,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/sUP_bIPIHVaBx0GxQz07gg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/american_banker_655/501d37e24f8edb3a129610c8c672100d.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/KiSfcTkawZZtfz82DEbIhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e1c3e5ac431d9d4624f7d820d2ff433c.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2128,18 +1804,18 @@
           ]
         },
         "provider": {
-          "displayName": "American Banker",
-          "url": "https://www.americanbanker.com/",
-          "sourceId": "american_banker_655"
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/",
+          "sourceId": "thestreet_881"
         },
         "canonicalUrl": {
-          "url": "https://www.americanbanker.com/payments/news/shopify-adds-meta-muse-to-agentic-ai-strategy",
+          "url": "https://www.thestreet.com/investing/meta-stock-900-price-target-ai-ad-engine",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/shopify-meta-diving-deeper-banking-194706752.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-delivers-bold-case-161700431.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2157,75 +1833,32 @@
       }
     },
     {
-      "id": "3b0b5cc0-e243-376b-96c2-0aa4e7cd4493",
+      "id": "f45b4d20-a8ba-33c0-a729-1203c4cd2124",
       "content": {
-        "id": "3b0b5cc0-e243-376b-96c2-0aa4e7cd4493",
+        "id": "f45b4d20-a8ba-33c0-a729-1203c4cd2124",
         "contentType": "STORY",
-        "title": "Goldman Sachs Sends Stark Warning on S&P 500 Earnings",
+        "title": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
         "description": "",
-        "summary": "AI Boom Is Supercharging S&P 500 Profits. Goldman Sachs Warns the Boost Won't Last",
-        "pubDate": "2026-09-18T19:35:26Z",
-        "displayTime": "2026-09-18T19:35:26Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/",
-          "sourceId": "us.finance.gurufocus"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sends-stark-warning-193526963.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sends-stark-warning-193526963.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b5d303e8-f87f-3106-b2fe-1597d20d17a7",
-      "content": {
-        "id": "b5d303e8-f87f-3106-b2fe-1597d20d17a7",
-        "contentType": "STORY",
-        "title": "Meta Platforms Just Ripped 23% in a Month: Take Profits, or Buy More?",
-        "description": "",
-        "summary": "Meta Platforms surged far past its mega-cap peers in a single month while the broader tech sector sat flat, and now shareholders face a decision that hinges entirely on how you read what the July earnings report actually said about the business.",
-        "pubDate": "2026-09-18T18:47:39Z",
-        "displayTime": "2026-09-18T18:47:39Z",
+        "summary": "As the market rotates away from large-cap stocks, new opportunities have emerged in their place.",
+        "pubDate": "2026-09-19T15:05:00Z",
+        "displayTime": "2026-09-19T15:05:00Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/11f5ecb62c111f74c34a283112ed0491.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/84120e12c4e0a8f167263c3dac93de6b.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 929,
+          "caption": "Three people reviewing something on a laptop.",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/UMp43dleJHkcacwpIjhdNw--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/11f5ecb62c111f74c34a283112ed0491.jpg",
-              "width": 1366,
-              "height": 768,
+              "url": "https://s.yimg.com/uu/api/res/1.2/E7dXtYs9CpinFS4Z1m_ggQ--~B/aD05Mjk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/84120e12c4e0a8f167263c3dac93de6b.jpg",
+              "width": 1400,
+              "height": 929,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Unew39km2sKUcaj7XZmEyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/11f5ecb62c111f74c34a283112ed0491.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/YyW5tUQw7EV2RpSvcHZPbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/84120e12c4e0a8f167263c3dac93de6b.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2233,18 +1866,428 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/09/18/meta-platforms-just-ripped-23-in-a-month-take-profits-or-buy-more/",
+          "url": "https://www.fool.com/investing/2026/09/19/stock-market-biggest-companies-losing-etf-to-buy/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-just-ripped-23-184739159.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-biggest-companies-losing-150500940.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5ec91b8e-c41a-3d92-b8a3-e1e39308c37c",
+      "content": {
+        "id": "5ec91b8e-c41a-3d92-b8a3-e1e39308c37c",
+        "contentType": "STORY",
+        "title": "JPMorgan Changed Its Mind on Meta Stock After This Major AI Breakthrough",
+        "description": "",
+        "summary": "Meta Platforms is catching up with OpenAI and Claude, and its Muse Spark models are surprising analysts.",
+        "pubDate": "2026-09-19T14:00:02Z",
+        "displayTime": "2026-09-19T14:00:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/6cd32edbd84057b627556d96a52697ea.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 1067,
+          "caption": "Meta Platforms by Primakov via Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eO49xy8frrZlbyDnSLcMoA--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/6cd32edbd84057b627556d96a52697ea.jpg",
+              "width": 1600,
+              "height": 1067,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EXmG2hnPXFAubFaHrSagqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/6cd32edbd84057b627556d96a52697ea.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/4695238/jpmorgan-changed-its-mind-on-meta-stock-after-this-major-ai-breakthrough",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-changed-mind-meta-stock-140002556.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4e890955-1646-370c-aadd-304cfb4d2746",
+      "content": {
+        "id": "4e890955-1646-370c-aadd-304cfb4d2746",
+        "contentType": "STORY",
+        "title": "Meta Stock Could Hit $800 This Year -- And It All Begins on Sept. 23",
+        "description": "",
+        "summary": "Citi sees Meta rising 19% on its Connect event, but the real question is whether AI spending is finally boosting the ad business.",
+        "pubDate": "2026-09-19T12:21:39Z",
+        "displayTime": "2026-09-19T12:21:39Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/f8864f0aa36140a335f29bfd1efe7e91.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 1067,
+          "caption": "A close up of the Meta Ray-Ban glasses by Aleksandr Fedosov via Adobe Stock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tx9oqjMtMnkXWWfSJe6AxA--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/f8864f0aa36140a335f29bfd1efe7e91.jpg",
+              "width": 1600,
+              "height": 1067,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CAbcr9bushnyrOU9TR5IPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/f8864f0aa36140a335f29bfd1efe7e91.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/4694310/meta-stock-could-hit-800-this-year-and-it-all-begins-on-sept-23",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-could-hit-800-122139390.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "668dae51-f83f-3d46-9de7-940582aa36f3",
+      "content": {
+        "id": "668dae51-f83f-3d46-9de7-940582aa36f3",
+        "contentType": "STORY",
+        "title": "Bill Ackman's Pershing Square IPO Breaks Out",
+        "description": "",
+        "summary": "Bill Ackman's Pershing Square Inc., a recent IPO, broke out past a buy point Friday in a rocky market.  The hedge fund billionaire's publicly traded investment vehicle, Pershing Square Inc., rallied an impressive 27% for the week after bullish analyst upgrades.",
+        "pubDate": "2026-09-19T12:00:59Z",
+        "displayTime": "2026-09-19T12:00:59Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/668dae51-f83f-3d46-9de7-940582aa36f3/bill-ackman-s-pershing-square.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/096e75ae6ac9f8461d2663fff3853ab3.jpg",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/HfOoMi19v8_Y8UYAhQpL2g--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/096e75ae6ac9f8461d2663fff3853ab3.jpg",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/46xziaPmI1r4ZBftHrJXPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/096e75ae6ac9f8461d2663fff3853ab3.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/",
+          "sourceId": "ibd.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/news/bill-ackman-pershing-square-ipo-stock-setting-up/?src=A00220&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "95177464-7655-3592-92b1-115bc1c2cfff",
+      "content": {
+        "id": "95177464-7655-3592-92b1-115bc1c2cfff",
+        "contentType": "STORY",
+        "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
+        "description": "",
+        "summary": "Investors need something that evolves with a changing economy.",
+        "pubDate": "2026-09-19T09:00:00Z",
+        "displayTime": "2026-09-19T09:00:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/0665c07914d6e32d1009c800eb86bc17.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "An older couple relaxing and drinking coffee.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Zb_G9m3T1LJomzbpEYIwxg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0665c07914d6e32d1009c800eb86bc17.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ccfRCp0QEr3LgTnPXCl6eA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0665c07914d6e32d1009c800eb86bc17.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/19/sp-500-returned-annually-etf-trust-30-years-vti/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-returned-11-annually-090000695.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "681bf912-f84e-38d8-b3a4-4c2ced5f0160",
+      "content": {
+        "id": "681bf912-f84e-38d8-b3a4-4c2ced5f0160",
+        "contentType": "STORY",
+        "title": "How AI concerns moved to the center of the midterm debate",
+        "description": "",
+        "summary": "Investing.com -- Artificial intelligence infrastructure has become a politically charged issue ahead of the November U.S. midterm elections, but growing opposition to data centers has yet to materially weaken the construction pipeline, according to Citi.",
+        "pubDate": "2026-09-19T08:56:42Z",
+        "displayTime": "2026-09-19T08:56:42Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/",
+          "sourceId": "investing_com_631"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "b792d853-1571-3f8e-8563-b3a32e061a25",
+      "content": {
+        "id": "b792d853-1571-3f8e-8563-b3a32e061a25",
+        "contentType": "STORY",
+        "title": "Meta (META)’s Stilla.ai Deal Could Turn Business Agent Into a New Monetization Engine",
+        "description": "",
+        "summary": "Meta Platforms, Inc. (NASDAQ:META) is taking another step toward monetizing artificial intelligence beyond its core advertising business. On September 9, the company acquired AI startup Stilla.ai. The acquisition will strengthen the company’s agentic AI capabilities as it moves to capitalize on growing demand for AI agents that can handle business transactions. Plans are underway to […]",
+        "pubDate": "2026-09-19T07:57:56Z",
+        "displayTime": "2026-09-19T07:57:56Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/7d01962c35d56e5d770d2ab0d313ba13.jpg",
+          "originalWidth": 640,
+          "originalHeight": 427,
+          "caption": "Meta (META)’s Stilla.ai Deal Could Turn Business AI Into a New Monetization Engine",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/j2e.WKaiW7AXfInDorsE6A--~B/aD00Mjc7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7d01962c35d56e5d770d2ab0d313ba13.jpg",
+              "width": 640,
+              "height": 427,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EJKGin.6qmMdIbWIQgl3Ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7d01962c35d56e5d770d2ab0d313ba13.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com",
+          "sourceId": "insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "49a200b8-7fbc-3c1c-a34a-4267b30dd8b9",
+      "content": {
+        "id": "49a200b8-7fbc-3c1c-a34a-4267b30dd8b9",
+        "contentType": "VIDEO",
+        "title": "CleanSpark reveals Meta as the tenant behind $6.6B Sandersville lease",
+        "description": "In SEC filings for a $2.2B debt raise, CleanSpark revealed that Meta holds the lease for its $6.6B deal at Sandersville, plus exclusivity rights for 885 MW in Texas.",
+        "summary": "In SEC filings for a $2.2B debt raise, CleanSpark revealed that Meta holds the lease for its $6.6B deal at Sandersville, plus exclusivity rights for 885 MW in Texas.",
+        "pubDate": "2026-09-18T23:25:14Z",
+        "displayTime": "",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/PPX3zvhJH_Q6FitXLeW7mA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/d433b7d4-178e-47ee-bf9a-373242bf8397/main/1280x720/4m51s440ms/match/image.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/PPX3zvhJH_Q6FitXLeW7mA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/d433b7d4-178e-47ee-bf9a-373242bf8397/main/1280x720/4m51s440ms/match/image.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/lAnEJTvs7Wjy_VbBpJn9_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/d433b7d4-178e-47ee-bf9a-373242bf8397/main/1280x720/4m51s440ms/match/image.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Blockspace",
+          "url": "https://blockspace.media/",
+          "sourceId": "blockspace_702"
+        },
+        "canonicalUrl": {
+          "url": "https://blockspace.media/short/cleanspark-reveals-meta-as-the-tenant-behind-6-6b-sandersville-lease/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/video/cleanspark-reveals-meta-tenant-behind-232514561.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
