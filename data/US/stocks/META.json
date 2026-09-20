@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-09-19T23:49:18.158884",
+    "ts": "2026-09-20T23:45:39.130262",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -139,11 +139,11 @@
     "priceHint": 2,
     "previousClose": 682.31,
     "open": 686.82,
-    "dayLow": 660.92,
+    "dayLow": 660.8,
     "dayHigh": 690.15,
     "regularMarketPreviousClose": 682.31,
     "regularMarketOpen": 686.82,
-    "regularMarketDayLow": 660.92,
+    "regularMarketDayLow": 660.8,
     "regularMarketDayHigh": 690.15,
     "dividendRate": 2.1,
     "dividendYield": 0.32,
@@ -152,8 +152,8 @@
     "beta": 1.243,
     "trailingPE": 25.06589,
     "forwardPE": 19.043377,
-    "volume": 27394770,
-    "regularMarketVolume": 27394770,
+    "volume": 27596431,
+    "regularMarketVolume": 27596431,
     "averageVolume": 18311692,
     "averageVolume10days": 20876240,
     "averageDailyVolume10Day": 20876240,
@@ -168,8 +168,8 @@
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "fulldayPrice": 668.5506,
-    "fulldayChange": -16.56,
-    "fulldayChangePercent": -2.42705,
+    "fulldayChange": -16.559998,
+    "fulldayChangePercent": -2.427049,
     "priceToSalesTrailing12Months": 7.430557,
     "fiftyDayAverage": 607.379,
     "twoHundredDayAverage": 624.1585,
@@ -243,37 +243,6 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "CLOSED",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 18311692,
-    "fiftyTwoWeekLowChange": 145.48999,
-    "fiftyTwoWeekLowChangePercent": 0.2796486,
-    "fiftyTwoWeekRange": "520.26 - 785.73",
-    "fiftyTwoWeekHighChange": -119.97998,
-    "fiftyTwoWeekHighChangePercent": -0.15269874,
-    "fiftyTwoWeekChangePercent": -12.992054,
-    "dividendDate": 1790553600,
-    "earningsTimestamp": 1785355200,
-    "earningsTimestampStart": 1793217600,
-    "earningsTimestampEnd": 1793217600,
-    "earningsCallTimestampStart": 1785357000,
-    "earningsCallTimestampEnd": 1785357000,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 26.56,
-    "epsForward": 34.95966,
-    "epsCurrentYear": 31.19688,
-    "priceEpsCurrentYear": 21.340275,
-    "fiftyDayAverageChange": 58.37097,
-    "fiftyDayAverageChangePercent": 0.09610304,
-    "twoHundredDayAverageChange": 41.59149,
-    "twoHundredDayAverageChangePercent": 0.06663611,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 0,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-09-19",
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
     "corporateActions": [
       {
         "header": "Dividend",
@@ -294,15 +263,46 @@
     "gmtOffSetMilliseconds": -14400000,
     "market": "us_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": -2.42705,
+    "regularMarketChangePercent": -2.427049,
     "regularMarketPrice": 665.75,
+    "marketState": "CLOSED",
+    "earningsTimestamp": 1785355200,
+    "earningsTimestampStart": 1793217600,
+    "earningsTimestampEnd": 1793217600,
+    "earningsCallTimestampStart": 1785357000,
+    "earningsCallTimestampEnd": 1785357000,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 26.56,
+    "epsForward": 34.95966,
+    "epsCurrentYear": 31.19688,
+    "priceEpsCurrentYear": 21.340275,
+    "fiftyDayAverageChange": 58.37097,
+    "fiftyDayAverageChangePercent": 0.09610304,
+    "twoHundredDayAverageChange": 41.59149,
+    "twoHundredDayAverageChangePercent": 0.06663611,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 0,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-09-20",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
     "postMarketChangePercent": 0.42066815,
     "postMarketPrice": 668.5506,
     "postMarketChange": 2.8005981,
-    "regularMarketChange": -16.56,
-    "regularMarketDayRange": "660.92 - 690.15",
+    "regularMarketChange": -16.559998,
+    "regularMarketDayRange": "660.8 - 690.15",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 18311692,
+    "fiftyTwoWeekLowChange": 145.48999,
+    "fiftyTwoWeekLowChangePercent": 0.2796486,
+    "fiftyTwoWeekRange": "520.26 - 785.73",
+    "fiftyTwoWeekHighChange": -119.97998,
+    "fiftyTwoWeekHighChangePercent": -0.15269874,
+    "fiftyTwoWeekChangePercent": -12.992054,
+    "dividendDate": 1790553600,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
     "displayName": "Meta Platforms",
@@ -1709,6 +1709,564 @@
   },
   "news": [
     {
+      "id": "ed4b822e-76b9-3ce7-afbf-e13ad97ec650",
+      "content": {
+        "id": "ed4b822e-76b9-3ce7-afbf-e13ad97ec650",
+        "contentType": "STORY",
+        "title": "I Own Constellation for the Nuclear Fleet, Not the AI Headlines. Here's Why That Matters Now.",
+        "description": "",
+        "summary": "Constellation Energy has the largest nuclear fleet in the country and should benefit from rising power demand in the decades ahead.",
+        "pubDate": "2026-09-20T18:50:00Z",
+        "displayTime": "2026-09-20T18:50:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/9721f9abc933b2c7eddbb3304d889c11.png",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "The Constellation Energy logo against a blue backdrop. ",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ypTPStJ68DwDgFnTbFaW4g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9721f9abc933b2c7eddbb3304d889c11.png",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UZzjKqObXMXniUxm4iQ6TQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9721f9abc933b2c7eddbb3304d889c11.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/20/i-own-constellation-for-the-nuclear-fleet-not-the/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/energy/articles/own-constellation-nuclear-fleet-not-185000512.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bfba9ac2-7e58-3828-a3bd-b24a7bc8467d",
+      "content": {
+        "id": "bfba9ac2-7e58-3828-a3bd-b24a7bc8467d",
+        "contentType": "STORY",
+        "title": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
+        "description": "",
+        "summary": "Bill Ackman sold Alphabet and bought Meta Platforms during Q2.",
+        "pubDate": "2026-09-20T17:23:00Z",
+        "displayTime": "2026-09-20T17:23:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a29e301b4a006e2987a79532ec27d9ae.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "caption": "Bill Ackman_Pershing Square Capital Management_CEO_imageSource_Getty Images",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/fkkIN15fKzEYD9PtQ0xcuQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a29e301b4a006e2987a79532ec27d9ae.jpg",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0jMJkVWfcy3SKfXBYf5g9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a29e301b4a006e2987a79532ec27d9ae.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/20/billionaire-bill-ackman-dumps-alphabet-loads-meta/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-dumps-alphabet-172300077.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "4129bc4c-72fa-396b-81f6-b9e79c2782d6",
+      "content": {
+        "id": "4129bc4c-72fa-396b-81f6-b9e79c2782d6",
+        "contentType": "VIDEO",
+        "title": "Why India's Big Tech Companies Are Betting on Hyderabad",
+        "description": "Hyderabad has spent decades building the talent, infrastructure and business climate to compete with Bangalore, attracting major tech firms while becoming a hub for life sciences. But AI now threatens some of the lower-cost IT work that helped fuel its rise. The test is whether Hyderabad can use its talent base to move from supporting global innovation to creating more of its own. This version corrects a map of India.",
+        "summary": "Hyderabad has spent decades building the talent, infrastructure and business climate to compete with Bangalore, attracting major tech firms while becoming a hub for life sciences. But AI now threatens some of the lower-cost IT work that helped fuel its rise. The test is whether Hyderabad can use its talent base to move from supporting global innovation to creating more of its own. This version corrects a map of India.",
+        "pubDate": "2026-09-20T16:20:28Z",
+        "displayTime": "",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_markets_video_2/d874ea3ea77b01517a7a6a38879cc868.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/shGh9tZbucapgz4WTwPYAg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_video_2/d874ea3ea77b01517a7a6a38879cc868.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Asob9O5GOj6sOkBUxco3Ug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/d874ea3ea77b01517a7a6a38879cc868.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/",
+          "sourceId": "bloomberg_markets_video_2"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/video/why-indias-big-tech-companies-162028038.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/video/why-indias-big-tech-companies-162028038.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "47237c59-a4b5-3d07-a23b-1d2f983107f0",
+      "content": {
+        "id": "47237c59-a4b5-3d07-a23b-1d2f983107f0",
+        "contentType": "STORY",
+        "title": "The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse",
+        "description": "",
+        "summary": "Google and Meta just launched competing AI agents that actually take actions in your digital life, not just answer questions, and a retirement investor writing one check today faces a choice where the valuations, margins, and balance sheets tell very different stories.",
+        "pubDate": "2026-09-20T16:14:57Z",
+        "displayTime": "2026-09-20T16:14:57Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b4cfc199a7cfb98bb33a5f667db9756d.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1706,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/7pPE6z3aRyvcqwdsK98ksw--~B/aD0xNzA2O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/b4cfc199a7cfb98bb33a5f667db9756d.jpg",
+              "width": 2560,
+              "height": 1706,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/uTgRChTDJD35doCNiPuLOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b4cfc199a7cfb98bb33a5f667db9756d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/20/the-ai-agent-wars-just-got-personal-googles-cc-vs-metas-muse/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-agent-wars-just-got-161457832.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "6b135dd1-6a89-3242-ad19-b0579f81a185",
+      "content": {
+        "id": "6b135dd1-6a89-3242-ad19-b0579f81a185",
+        "contentType": "STORY",
+        "title": "Analyst: Meta Needs Just 115 Million Users to Ignite a $28 Billion AI Gold Rush — But It’s Not Likely to Happen",
+        "description": "",
+        "summary": "Oppenheimer's top internet analyst ran the numbers on Meta's AI subscription push and walked away skeptical, raising a pointed question about whether Muse can ever justify the valuation premium Wall Street is quietly pricing in.",
+        "pubDate": "2026-09-20T16:03:03Z",
+        "displayTime": "2026-09-20T16:03:03Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/bf4d3d494adf959c4e606c480a61008a.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/SbBVgUAZVlS9JqcIPNEt4w--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/bf4d3d494adf959c4e606c480a61008a.jpg",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/SuCzPIQHDoqvJA_hQASp5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bf4d3d494adf959c4e606c480a61008a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/20/analyst-meta-needs-just-115-million-users-to-ignite-a-28-billion-ai-gold-rush-but-its-not-likely-to-happen/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-meta-needs-just-115-160303165.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "ed97c591-c126-3789-a0e7-50a66de9fff8",
+      "content": {
+        "id": "ed97c591-c126-3789-a0e7-50a66de9fff8",
+        "contentType": "STORY",
+        "title": "The Caterpillar Correction Shouldn't Last Much Longer",
+        "description": "",
+        "summary": "Caterpillar is in an excellent position as hyperscalers rush to spend capital on their AI build-outs.",
+        "pubDate": "2026-09-20T15:20:00Z",
+        "displayTime": "2026-09-20T15:20:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5761c9b653d2d612bfac74b2b942e7d5.jpg",
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "caption": "Construction project.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/H.utJ2PignCEjiHhHjnrBQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5761c9b653d2d612bfac74b2b942e7d5.jpg",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/ZT66T73YtMM92ynvUy.rAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5761c9b653d2d612bfac74b2b942e7d5.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/20/the-caterpillar-correction-shouldnt-last-much-long/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-correction-shouldnt-last-much-152000520.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "103d4827-7a86-3269-bbd6-83eb2295f36a",
+      "content": {
+        "id": "103d4827-7a86-3269-bbd6-83eb2295f36a",
+        "contentType": "STORY",
+        "title": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks.",
+        "description": "",
+        "summary": "ChatGPT ads just passed $1 billion in annualized revenue.",
+        "pubDate": "2026-09-20T14:40:01Z",
+        "displayTime": "2026-09-20T14:40:01Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/3b6cd4a36c917162a260d4fd57ac3acb.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "caption": "ChatGPT logo displayed on a smartphone in front of the OpenAI logo",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/q.DmjW93nVNBfnd3vWcKZg--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3b6cd4a36c917162a260d4fd57ac3acb.jpg",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/fuAaDLaX0O7OzMT8xwtCHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3b6cd4a36c917162a260d4fd57ac3acb.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/20/openai-just-beat-google-meta-and-amazon-to-this-key-milestone-why-it-s-bullish-for-ai-stocks/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/openai-just-beat-google-meta-144001378.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "1fb44cc4-a876-365c-a19d-aeab6a097f9f",
+      "content": {
+        "id": "1fb44cc4-a876-365c-a19d-aeab6a097f9f",
+        "contentType": "STORY",
+        "title": "Meta’s New AI Agent Could Be the Missing Piece for META Stock",
+        "description": "",
+        "summary": "Meta is building new subscription revenue streams to help offset its massive AI spending.",
+        "pubDate": "2026-09-20T13:00:02Z",
+        "displayTime": "2026-09-20T13:00:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/171dc6622d8d84ee61616310bed1d7c5.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 1065,
+          "caption": "Meta Platforms Inc_ by PJ McDonnell via Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/W0h9lvipkCil6VZRzCYdlg--~B/aD0xMDY1O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/171dc6622d8d84ee61616310bed1d7c5.jpg",
+              "width": 1600,
+              "height": 1065,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/PnKBucCJYc9IUE2iX0cnhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/171dc6622d8d84ee61616310bed1d7c5.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/4700988/metas-new-ai-agent-could-be-the-missing-piece-for-meta-stock",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-could-missing-130002359.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "d908d273-b77b-331c-857d-5adf3e925b1a",
+      "content": {
+        "id": "d908d273-b77b-331c-857d-5adf3e925b1a",
+        "contentType": "STORY",
+        "title": "Dear Meta Platforms Stock Fans, Mark Your Calendars for Sept. 23",
+        "description": "",
+        "summary": "Meta’s AI momentum is heating up, and its Sept. 23 Connect event could bring another catalyst for META stock.",
+        "pubDate": "2026-09-20T11:15:02Z",
+        "displayTime": "2026-09-20T11:15:02Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/6cd32edbd84057b627556d96a52697ea.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 1067,
+          "caption": "Meta Platforms by Primakov via Shutterstock",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/eO49xy8frrZlbyDnSLcMoA--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/6cd32edbd84057b627556d96a52697ea.jpg",
+              "width": 1600,
+              "height": 1067,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EXmG2hnPXFAubFaHrSagqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/6cd32edbd84057b627556d96a52697ea.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/",
+          "sourceId": "barchart_com_477"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/4700255/dear-meta-platforms-stock-fans-mark-your-calendars-for-sept-23",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/dear-meta-platforms-stock-fans-111502706.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
       "id": "0810c6b6-8cff-320b-bc3f-5a59404063c8",
       "content": {
         "id": "0810c6b6-8cff-320b-bc3f-5a59404063c8",
@@ -1754,540 +2312,6 @@
         },
         "clickThroughUrl": {
           "url": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "89d92451-9d49-34cd-a2dd-d8c28331c977",
-      "content": {
-        "id": "89d92451-9d49-34cd-a2dd-d8c28331c977",
-        "contentType": "STORY",
-        "title": "Meta stock delivers a bold case for a $900 target",
-        "description": "",
-        "summary": "Here’s the bull thesis Wall Street thinks investors are missing",
-        "pubDate": "2026-09-19T16:17:00Z",
-        "displayTime": "2026-09-19T16:17:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/e1c3e5ac431d9d4624f7d820d2ff433c.jpg",
-          "originalWidth": 3840,
-          "originalHeight": 2560,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/N2qL_AtBAewJjO8drMT5ig--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/e1c3e5ac431d9d4624f7d820d2ff433c.jpg",
-              "width": 3840,
-              "height": 2560,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KiSfcTkawZZtfz82DEbIhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e1c3e5ac431d9d4624f7d820d2ff433c.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/",
-          "sourceId": "thestreet_881"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/meta-stock-900-price-target-ai-ad-engine",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-delivers-bold-case-161700431.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "f45b4d20-a8ba-33c0-a729-1203c4cd2124",
-      "content": {
-        "id": "f45b4d20-a8ba-33c0-a729-1203c4cd2124",
-        "contentType": "STORY",
-        "title": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
-        "description": "",
-        "summary": "As the market rotates away from large-cap stocks, new opportunities have emerged in their place.",
-        "pubDate": "2026-09-19T15:05:00Z",
-        "displayTime": "2026-09-19T15:05:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/84120e12c4e0a8f167263c3dac93de6b.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 929,
-          "caption": "Three people reviewing something on a laptop.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/E7dXtYs9CpinFS4Z1m_ggQ--~B/aD05Mjk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/84120e12c4e0a8f167263c3dac93de6b.jpg",
-              "width": 1400,
-              "height": 929,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/YyW5tUQw7EV2RpSvcHZPbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/84120e12c4e0a8f167263c3dac93de6b.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/19/stock-market-biggest-companies-losing-etf-to-buy/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-biggest-companies-losing-150500940.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "5ec91b8e-c41a-3d92-b8a3-e1e39308c37c",
-      "content": {
-        "id": "5ec91b8e-c41a-3d92-b8a3-e1e39308c37c",
-        "contentType": "STORY",
-        "title": "JPMorgan Changed Its Mind on Meta Stock After This Major AI Breakthrough",
-        "description": "",
-        "summary": "Meta Platforms is catching up with OpenAI and Claude, and its Muse Spark models are surprising analysts.",
-        "pubDate": "2026-09-19T14:00:02Z",
-        "displayTime": "2026-09-19T14:00:02Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/6cd32edbd84057b627556d96a52697ea.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 1067,
-          "caption": "Meta Platforms by Primakov via Shutterstock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/eO49xy8frrZlbyDnSLcMoA--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/6cd32edbd84057b627556d96a52697ea.jpg",
-              "width": 1600,
-              "height": 1067,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/EXmG2hnPXFAubFaHrSagqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/6cd32edbd84057b627556d96a52697ea.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/4695238/jpmorgan-changed-its-mind-on-meta-stock-after-this-major-ai-breakthrough",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-changed-mind-meta-stock-140002556.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "4e890955-1646-370c-aadd-304cfb4d2746",
-      "content": {
-        "id": "4e890955-1646-370c-aadd-304cfb4d2746",
-        "contentType": "STORY",
-        "title": "Meta Stock Could Hit $800 This Year -- And It All Begins on Sept. 23",
-        "description": "",
-        "summary": "Citi sees Meta rising 19% on its Connect event, but the real question is whether AI spending is finally boosting the ad business.",
-        "pubDate": "2026-09-19T12:21:39Z",
-        "displayTime": "2026-09-19T12:21:39Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/f8864f0aa36140a335f29bfd1efe7e91.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 1067,
-          "caption": "A close up of the Meta Ray-Ban glasses by Aleksandr Fedosov via Adobe Stock",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/tx9oqjMtMnkXWWfSJe6AxA--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/f8864f0aa36140a335f29bfd1efe7e91.jpg",
-              "width": 1600,
-              "height": 1067,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/CAbcr9bushnyrOU9TR5IPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/f8864f0aa36140a335f29bfd1efe7e91.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/4694310/meta-stock-could-hit-800-this-year-and-it-all-begins-on-sept-23",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-could-hit-800-122139390.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "668dae51-f83f-3d46-9de7-940582aa36f3",
-      "content": {
-        "id": "668dae51-f83f-3d46-9de7-940582aa36f3",
-        "contentType": "STORY",
-        "title": "Bill Ackman's Pershing Square IPO Breaks Out",
-        "description": "",
-        "summary": "Bill Ackman's Pershing Square Inc., a recent IPO, broke out past a buy point Friday in a rocky market.  The hedge fund billionaire's publicly traded investment vehicle, Pershing Square Inc., rallied an impressive 27% for the week after bullish analyst upgrades.",
-        "pubDate": "2026-09-19T12:00:59Z",
-        "displayTime": "2026-09-19T12:00:59Z",
-        "isHosted": false,
-        "bypassModal": false,
-        "previewUrl": "https://finance.yahoo.com/m/668dae51-f83f-3d46-9de7-940582aa36f3/bill-ackman-s-pershing-square.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/096e75ae6ac9f8461d2663fff3853ab3.jpg",
-          "originalWidth": 1000,
-          "originalHeight": 563,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/HfOoMi19v8_Y8UYAhQpL2g--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/096e75ae6ac9f8461d2663fff3853ab3.jpg",
-              "width": 1000,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/46xziaPmI1r4ZBftHrJXPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/096e75ae6ac9f8461d2663fff3853ab3.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/",
-          "sourceId": "ibd.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.investors.com/news/bill-ackman-pershing-square-ipo-stock-setting-up/?src=A00220&yptr=yahoo",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": null,
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "95177464-7655-3592-92b1-115bc1c2cfff",
-      "content": {
-        "id": "95177464-7655-3592-92b1-115bc1c2cfff",
-        "contentType": "STORY",
-        "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
-        "description": "",
-        "summary": "Investors need something that evolves with a changing economy.",
-        "pubDate": "2026-09-19T09:00:00Z",
-        "displayTime": "2026-09-19T09:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/0665c07914d6e32d1009c800eb86bc17.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "caption": "An older couple relaxing and drinking coffee.",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Zb_G9m3T1LJomzbpEYIwxg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0665c07914d6e32d1009c800eb86bc17.jpg",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/ccfRCp0QEr3LgTnPXCl6eA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0665c07914d6e32d1009c800eb86bc17.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/19/sp-500-returned-annually-etf-trust-30-years-vti/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-returned-11-annually-090000695.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "681bf912-f84e-38d8-b3a4-4c2ced5f0160",
-      "content": {
-        "id": "681bf912-f84e-38d8-b3a4-4c2ced5f0160",
-        "contentType": "STORY",
-        "title": "How AI concerns moved to the center of the midterm debate",
-        "description": "",
-        "summary": "Investing.com -- Artificial intelligence infrastructure has become a politically charged issue ahead of the November U.S. midterm elections, but growing opposition to data centers has yet to materially weaken the construction pipeline, according to Citi.",
-        "pubDate": "2026-09-19T08:56:42Z",
-        "displayTime": "2026-09-19T08:56:42Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/",
-          "sourceId": "investing_com_631"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b792d853-1571-3f8e-8563-b3a32e061a25",
-      "content": {
-        "id": "b792d853-1571-3f8e-8563-b3a32e061a25",
-        "contentType": "STORY",
-        "title": "Meta (META)’s Stilla.ai Deal Could Turn Business Agent Into a New Monetization Engine",
-        "description": "",
-        "summary": "Meta Platforms, Inc. (NASDAQ:META) is taking another step toward monetizing artificial intelligence beyond its core advertising business. On September 9, the company acquired AI startup Stilla.ai. The acquisition will strengthen the company’s agentic AI capabilities as it moves to capitalize on growing demand for AI agents that can handle business transactions. Plans are underway to […]",
-        "pubDate": "2026-09-19T07:57:56Z",
-        "displayTime": "2026-09-19T07:57:56Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/7d01962c35d56e5d770d2ab0d313ba13.jpg",
-          "originalWidth": 640,
-          "originalHeight": 427,
-          "caption": "Meta (META)’s Stilla.ai Deal Could Turn Business AI Into a New Monetization Engine",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/j2e.WKaiW7AXfInDorsE6A--~B/aD00Mjc7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7d01962c35d56e5d770d2ab0d313ba13.jpg",
-              "width": 640,
-              "height": 427,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/EJKGin.6qmMdIbWIQgl3Ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7d01962c35d56e5d770d2ab0d313ba13.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "49a200b8-7fbc-3c1c-a34a-4267b30dd8b9",
-      "content": {
-        "id": "49a200b8-7fbc-3c1c-a34a-4267b30dd8b9",
-        "contentType": "VIDEO",
-        "title": "CleanSpark reveals Meta as the tenant behind $6.6B Sandersville lease",
-        "description": "In SEC filings for a $2.2B debt raise, CleanSpark revealed that Meta holds the lease for its $6.6B deal at Sandersville, plus exclusivity rights for 885 MW in Texas.",
-        "summary": "In SEC filings for a $2.2B debt raise, CleanSpark revealed that Meta holds the lease for its $6.6B deal at Sandersville, plus exclusivity rights for 885 MW in Texas.",
-        "pubDate": "2026-09-18T23:25:14Z",
-        "displayTime": "",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/PPX3zvhJH_Q6FitXLeW7mA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/d433b7d4-178e-47ee-bf9a-373242bf8397/main/1280x720/4m51s440ms/match/image.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/PPX3zvhJH_Q6FitXLeW7mA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/d433b7d4-178e-47ee-bf9a-373242bf8397/main/1280x720/4m51s440ms/match/image.jpg",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/lAnEJTvs7Wjy_VbBpJn9_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/d433b7d4-178e-47ee-bf9a-373242bf8397/main/1280x720/4m51s440ms/match/image.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Blockspace",
-          "url": "https://blockspace.media/",
-          "sourceId": "blockspace_702"
-        },
-        "canonicalUrl": {
-          "url": "https://blockspace.media/short/cleanspark-reveals-meta-as-the-tenant-behind-6-6b-sandersville-lease/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/cleanspark-reveals-meta-tenant-behind-232514561.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
