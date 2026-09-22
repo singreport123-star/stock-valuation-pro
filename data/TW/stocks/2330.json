@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-09-22T00:27:47.764858"
+    "ts": "2026-09-22T23:56:35.853496"
   },
   "financials": {
     "annual": {
@@ -25751,12 +25751,338 @@
         "buy": 928551,
         "name": "Investment_Trust",
         "sell": 193945
+      },
+      {
+        "date": "2026-09-22",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-09-22",
+        "stock_id": "2330",
+        "buy": 365960,
+        "name": "Dealer_self",
+        "sell": 49770
+      },
+      {
+        "date": "2026-09-22",
+        "stock_id": "2330",
+        "buy": 286839,
+        "name": "Dealer_Hedging",
+        "sell": 135635
+      },
+      {
+        "date": "2026-09-22",
+        "stock_id": "2330",
+        "buy": 9720901,
+        "name": "Foreign_Investor",
+        "sell": 14050405
+      },
+      {
+        "date": "2026-09-22",
+        "stock_id": "2330",
+        "buy": 302483,
+        "name": "Investment_Trust",
+        "sell": 708117
       }
     ],
     "margin_trading": [],
     "cb_transaction": []
   },
   "news": [
+    {
+      "id": "0ef5e7f0-9ea2-3b51-a889-a72adb6d38d0",
+      "content": {
+        "id": "0ef5e7f0-9ea2-3b51-a889-a72adb6d38d0",
+        "contentType": "STORY",
+        "title": "Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too",
+        "description": "",
+        "summary": "Intel just staged one of its fastest rallies in years, but the analyst who called the price target before the surge thinks the move is still missing its most important catalyst.",
+        "pubDate": "2026-09-22T19:05:33Z",
+        "displayTime": "2026-09-22T19:05:33Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe.jpg",
+          "originalWidth": 2844,
+          "originalHeight": 1600,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/aKWWM6sVhHAo_lEAUcWl8A--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe.jpg",
+              "width": 2844,
+              "height": 1600,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/F99T8.hDAAXrZTKpaKKUjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/22/intel-is-up-25-in-5-days-the-145-price-target-just-moved-too/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-25-5-days-145-190533656.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "0242b0c9-9953-3647-bb5f-3a7d3821ec37",
+      "content": {
+        "id": "0242b0c9-9953-3647-bb5f-3a7d3821ec37",
+        "contentType": "STORY",
+        "title": "TSMC Gains as Packaging Moves Closer to Its Suppliers",
+        "description": "",
+        "summary": "Kaohsiung's new validation hub could shorten qualification cycles without adding disclosed production capacity.",
+        "pubDate": "2026-09-22T18:50:26Z",
+        "displayTime": "2026-09-22T18:50:26Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/",
+          "sourceId": "us.finance.gurufocus"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-gains-packaging-moves-closer-185026951.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-gains-packaging-moves-closer-185026951.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "bb849a22-b8b1-3d6f-935d-092db5ba1602",
+      "content": {
+        "id": "bb849a22-b8b1-3d6f-935d-092db5ba1602",
+        "contentType": "STORY",
+        "title": "Here is What to Know Beyond Why Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is a Trending Stock",
+        "description": "",
+        "summary": "TSMC (TSM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+        "pubDate": "2026-09-22T13:00:06Z",
+        "displayTime": "2026-09-22T13:00:06Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209.jpg",
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/SCIO3o.AM.W7gQtGBplQ8w--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209.jpg",
+              "width": 900,
+              "height": 600,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/Xr1gfzU6MM6uQR870frihw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/",
+          "sourceId": "zacks.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-taiwan-semiconductor-130006890.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-taiwan-semiconductor-130006890.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "de8239ed-4c40-3268-9084-d78d4e11e17c",
+      "content": {
+        "id": "de8239ed-4c40-3268-9084-d78d4e11e17c",
+        "contentType": "STORY",
+        "title": "Nvidia and AMD Can't Make AI Chips Without This Growth Stock. Here's Why It Could Soar.",
+        "description": "",
+        "summary": "ASML is one of the most important companies in the AI semiconductor ecosystem.",
+        "pubDate": "2026-09-22T12:35:00Z",
+        "displayTime": "2026-09-22T12:35:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/37ebf3026d106b90d9ab33f4bc1d6a7f.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "caption": "ASML company name on top of a white building.",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/aFMOP3pcczKK8r7yAoRitg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/37ebf3026d106b90d9ab33f4bc1d6a7f.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/l_caxclsUPtaryd8Mn5YhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/37ebf3026d106b90d9ab33f4bc1d6a7f.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/",
+          "sourceId": "motleyfool.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/09/22/nvidia-and-amd-cant-make-ai-chips-without-this-gro/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-cant-ai-chips-123500916.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "9b8c1288-35ed-3a69-9a4b-3586a60f3f53",
+      "content": {
+        "id": "9b8c1288-35ed-3a69-9a4b-3586a60f3f53",
+        "contentType": "STORY",
+        "title": "TSMC Spent $15.59 Billion on CapEx in a Single Quarter, 42% More Than the Quarter Before. Here’s What It Means For the Stock.",
+        "description": "",
+        "summary": "Key TakeawaysTSMC’s gross margin expanded from 59% in the June 2025 quarter to 68% in June 2026, even as management guided the next quarter down to 66% on 2 nanometer ramp dilution, a step back that is small next to the year’s climb. Quarterly capital expenditure jumped to $15.",
+        "pubDate": "2026-09-22T10:22:37Z",
+        "displayTime": "2026-09-22T10:22:37Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/078cb77e1d036a92f2d77704e3387a5b",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "caption": "TSMC Spent $15.59 Billion on CapEx in a Single Quarter, 42% More Than the Quarter Before. Here’s What It Means For the Stock. ©TIKR",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/WsZxxwxwk.t2m8OOxvG7dw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tikr_258/078cb77e1d036a92f2d77704e3387a5b",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/uITttOYIT_4oE4SPBTHPfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tikr_258/078cb77e1d036a92f2d77704e3387a5b",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/",
+          "sourceId": "tikr_258"
+        },
+        "canonicalUrl": {
+          "url": "https://www.tikr.com/blog/tsmc-spent-15-59-billion-on-capex-in-a-single-quarter-42-more-than-the-quarter-before-heres-what-it-means-for-the-stock?ref=yahoofinance",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-spent-15-59-billion-102237675.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
     {
       "id": "0db27be1-91d8-32ec-8798-540179e74c3e",
       "content": {
@@ -26047,316 +26373,6 @@
         },
         "storyline": null
       }
-    },
-    {
-      "id": "aefd9530-6a9c-3be3-81a2-30881948a445",
-      "content": {
-        "id": "aefd9530-6a9c-3be3-81a2-30881948a445",
-        "contentType": "STORY",
-        "title": "AMD Set to Top $1 Trillion in Market Value as Chip Stocks Soar",
-        "description": "",
-        "summary": "Advanced Micro Devices Inc. shares jumped Monday, putting the company on track to close above $1 trillion in market value for the first time amid renewed optimism for chipmakers necessary to power artificial intelligence.",
-        "pubDate": "2026-09-21T15:36:44Z",
-        "displayTime": "2026-09-21T15:36:44Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/423fdb6347c4cbafc9237d6f40560c78.jpg",
-          "originalWidth": 2010,
-          "originalHeight": 1665,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Wkqmx3a19AIBKF.uFndcVw--~B/aD0xNjY1O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/423fdb6347c4cbafc9237d6f40560c78.jpg",
-              "width": 2010,
-              "height": 1665,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/9_4MeXIjiRRSqAFLJqHSzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/423fdb6347c4cbafc9237d6f40560c78.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Bloomberg",
-          "url": "https://www.bloomberg.com/company",
-          "sourceId": "bloomberg_holding_pen_162"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-set-top-1-trillion-153644877.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-set-top-1-trillion-153644877.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "4a794ac8-1a74-39de-a340-bbc634e6b393",
-      "content": {
-        "id": "4a794ac8-1a74-39de-a340-bbc634e6b393",
-        "contentType": "STORY",
-        "title": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
-        "description": "",
-        "summary": "A supply-chain report lit a fuse under AMD shares Monday morning, but the move hinges on whether the chip giant is flexing pricing power or simply handing a supplier's bill to its customers.",
-        "pubDate": "2026-09-21T13:37:53Z",
-        "displayTime": "2026-09-21T13:37:53Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/31906370a742b7a1e1868a772e6df33e.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fINsHzF1n6moPs6yohUnLw--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/31906370a742b7a1e1868a772e6df33e.jpg",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/Wkn0TG5GcS2EUwUtlBOgPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/31906370a742b7a1e1868a772e6df33e.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/",
-          "sourceId": "24_7_wall_st__718"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/09/21/amd-rises-5-as-report-flags-10-chip-price-increase-nvidia-and-taiwan-semiconductor-tick-up/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-5-report-flags-133753675.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "c8eebbac-2238-35d7-8f4f-ab0af1e79111",
-      "content": {
-        "id": "c8eebbac-2238-35d7-8f4f-ab0af1e79111",
-        "contentType": "STORY",
-        "title": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue?",
-        "description": "",
-        "summary": "AMKR's AI and HPC packaging demand is climbing as data-center programs ramp, advanced packaging expands and Arizona investment rises to $12 billion.",
-        "pubDate": "2026-09-21T13:07:00Z",
-        "displayTime": "2026-09-21T13:07:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/cb87c81afbe98696dbe7e9e11daeabfa.jpg",
-          "originalWidth": 619,
-          "originalHeight": 286,
-          "caption": "Zacks Investment Research",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/SW5yqa.xLFurV9UZdvnP0w--~B/aD0yODY7dz02MTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/cb87c81afbe98696dbe7e9e11daeabfa.jpg",
-              "width": 619,
-              "height": 286,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/_xGuR4eRLIY2XP_CmixEpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/cb87c81afbe98696dbe7e9e11daeabfa.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/",
-          "sourceId": "zacks.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/amkors-ai-hpc-packaging-demand-130700257.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/amkors-ai-hpc-packaging-demand-130700257.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "b33bbb24-d9e2-3f84-bb3b-6b08387602fc",
-      "content": {
-        "id": "b33bbb24-d9e2-3f84-bb3b-6b08387602fc",
-        "contentType": "STORY",
-        "title": "IBM Takes a Billion-Dollar Step Toward Becoming Quantum’s Foundry King",
-        "description": "",
-        "summary": "The federal government handed IBM $1 billion last week to help the build the first pure play quantum wafer foundry in the US.",
-        "pubDate": "2026-09-21T04:01:00Z",
-        "displayTime": "2026-09-21T04:01:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/the_daily_upside_435/1ce8fe2709321719595272bdf4578be3.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 901,
-          "caption": "A 300mm Quantum Wafer",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/NzltyMww1vyKSbXwNRcJAQ--~B/aD05MDE7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_daily_upside_435/1ce8fe2709321719595272bdf4578be3.jpg",
-              "width": 1600,
-              "height": 901,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/koaZyPIGPjpY8pLr2uE06g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_daily_upside_435/1ce8fe2709321719595272bdf4578be3.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Daily Upside",
-          "url": "http://thedailyupside.com/",
-          "sourceId": "the_daily_upside_435"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thedailyupside.com/technology/ibm-is-one-step-closer-to-becoming-quantums-foundry-king/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/ibm-takes-billion-dollar-step-040100188.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "15ec9370-c24c-3f90-9708-5082503f646c",
-      "content": {
-        "id": "15ec9370-c24c-3f90-9708-5082503f646c",
-        "contentType": "STORY",
-        "title": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
-        "description": "",
-        "summary": "On September 8, 2026, Reuters reported that ASML Holding N.V. (NASDAQ:ASML) plans to work with major customers. It includes Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM), Nvidia, Intel, Samsung, and SK Hynix to adapt its next-generation “High NA” extreme ultraviolet lithography tools so they can print larger data-center chips. It addresses a current limitation where the […]",
-        "pubDate": "2026-09-20T21:41:29Z",
-        "displayTime": "2026-09-20T21:41:29Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/74c86932afc7980ee396bd2ed83c4c6e.jpg",
-          "originalWidth": 1456,
-          "originalHeight": 816,
-          "caption": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fEdWBZfsWgDP6bCyHklJzA--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/74c86932afc7980ee396bd2ed83c4c6e.jpg",
-              "width": 1456,
-              "height": 816,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/WdPyyLsAa_PnPgQ0zXNtxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/74c86932afc7980ee396bd2ed83c4c6e.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com",
-          "sourceId": "insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
     }
   ],
   "info": {
@@ -26465,81 +26481,81 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2460.0,
-    "open": 2445.0,
-    "dayLow": 2445.0,
-    "dayHigh": 2485.0,
-    "regularMarketPreviousClose": 2460.0,
-    "regularMarketOpen": 2445.0,
-    "regularMarketDayLow": 2445.0,
-    "regularMarketDayHigh": 2485.0,
+    "previousClose": 2480.0,
+    "open": 2505.0,
+    "dayLow": 2460.0,
+    "dayHigh": 2510.0,
+    "regularMarketPreviousClose": 2480.0,
+    "regularMarketOpen": 2505.0,
+    "regularMarketDayLow": 2460.0,
+    "regularMarketDayHigh": 2510.0,
     "dividendRate": 28.0,
-    "dividendYield": 1.13,
+    "dividendYield": 1.14,
     "exDividendDate": 1796860800,
     "payoutRatio": 0.2573,
     "fiveYearAvgDividendYield": 1.67,
     "beta": 1.247,
-    "trailingPE": 28.985508,
-    "forwardPE": 17.390554,
-    "volume": 15994550,
-    "regularMarketVolume": 15994550,
-    "averageVolume": 26251042,
-    "averageVolume10days": 20072810,
-    "averageDailyVolume10Day": 20072810,
+    "trailingPE": 28.73496,
+    "forwardPE": 17.250307,
+    "volume": 20827187,
+    "regularMarketVolume": 20827187,
+    "averageVolume": 25870756,
+    "averageVolume10days": 19285601,
+    "averageDailyVolume10Day": 19285601,
     "bid": 0.0,
     "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 64312278253568,
-    "nonDilutedMarketCap": 63793630364820,
-    "fiftyTwoWeekLow": 1270.0,
+    "marketCap": 63793631592448,
+    "nonDilutedMarketCap": 64312277766160,
+    "fiftyTwoWeekLow": 1295.0,
     "fiftyTwoWeekHigh": 2535.0,
     "allTimeHigh": 2535.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2480.0,
-    "fulldayChange": 20.0,
-    "fulldayChangePercent": 0.81300807,
-    "priceToSalesTrailing12Months": 14.483141,
-    "fiftyDayAverage": 2390.1,
-    "twoHundredDayAverage": 2083.2,
+    "fulldayPrice": 2460.0,
+    "fulldayChange": -20.0,
+    "fulldayChangePercent": -0.008064516,
+    "priceToSalesTrailing12Months": 14.366342,
+    "fiftyDayAverage": 2390.9,
+    "twoHundredDayAverage": 2088.125,
     "trailingAnnualDividendRate": 26.0,
-    "trailingAnnualDividendYield": 0.010569106,
+    "trailingAnnualDividendYield": 0.010483871,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 61904777117696,
+    "enterpriseValue": 61386130456576,
     "profitMargins": 0.49923,
     "floatShares": 23651877382,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.00023,
-    "heldPercentInstitutions": 0.43316,
+    "heldPercentInstitutions": 0.43324003,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 248.05,
-    "priceToBook": 9.997984,
+    "priceToBook": 9.917356,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1782777600,
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808415232,
-    "trailingEps": 85.56,
+    "trailingEps": 85.61,
     "forwardEps": 142.60616,
     "pegRatio": 0.74,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 13.941,
-    "enterpriseToEbitda": 19.544,
-    "52WeekChange": 0.89961386,
-    "SandP52WeekChange": 0.14293182,
+    "enterpriseToRevenue": 13.824,
+    "enterpriseToEbitda": 19.38,
+    "52WeekChange": 0.8507463,
+    "SandP52WeekChange": 0.16641033,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1796860800,
     "quoteType": "EQUITY",
-    "currentPrice": 2480.0,
+    "currentPrice": 2460.0,
     "targetHighPrice": 4200.0,
     "targetLowPrice": 2650.0,
-    "targetMeanPrice": 3236.1177,
+    "targetMeanPrice": 3243.6572,
     "targetMedianPrice": 3200.0,
-    "recommendationMean": 1.32353,
+    "recommendationMean": 1.31429,
     "recommendationKey": "strong_buy",
-    "numberOfAnalystOpinions": 34,
+    "numberOfAnalystOpinions": 35,
     "totalCash": 3518010228736,
     "totalCashPerShare": 135.661,
     "ebitda": 3167467077632,
@@ -26567,19 +26583,41 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
+    "corporateActions": [],
+    "regularMarketTime": 1790055010,
+    "marketState": "PREPRE",
     "earningsTimestamp": 1784179800,
     "earningsTimestampStart": 1792042200,
     "earningsTimestampEnd": 1792042200,
     "earningsCallTimestampStart": 1784181600,
     "earningsCallTimestampEnd": 1784181600,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 85.56,
+    "epsTrailingTwelveMonths": 85.61,
     "epsForward": 142.60616,
-    "epsCurrentYear": 107.82286,
-    "priceEpsCurrentYear": 23.000689,
-    "fiftyDayAverageChange": 89.8999,
+    "epsCurrentYear": 107.85,
+    "priceEpsCurrentYear": 22.809458,
+    "fiftyDayAverageChange": 69.1001,
+    "fiftyDayAverageChangePercent": 0.028901292,
+    "twoHundredDayAverageChange": 371.875,
+    "twoHundredDayAverageChangePercent": 0.1780904,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": -20.0,
+    "regularMarketDayRange": "2460.0 - 2510.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 25870756,
+    "fiftyTwoWeekLowChange": 1165.0,
+    "fiftyTwoWeekLowChangePercent": 0.8996139,
+    "fiftyTwoWeekRange": "1295.0 - 2535.0",
+    "fiftyTwoWeekHighChange": -75.0,
+    "fiftyTwoWeekHighChangePercent": -0.0295858,
+    "fiftyTwoWeekChangePercent": 85.07463,
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -26587,30 +26625,8 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "regularMarketChangePercent": 0.81300807,
-    "regularMarketPrice": 2480.0,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "regularMarketChange": 20.0,
-    "regularMarketDayRange": "2445.0 - 2485.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 26251042,
-    "fiftyTwoWeekLowChange": 1210.0,
-    "fiftyTwoWeekLowChangePercent": 0.9527559,
-    "fiftyTwoWeekRange": "1270.0 - 2535.0",
-    "fiftyTwoWeekHighChange": -55.0,
-    "fiftyTwoWeekHighChangePercent": -0.021696253,
-    "fiftyTwoWeekChangePercent": 89.96139,
-    "marketState": "PREPRE",
-    "corporateActions": [],
-    "regularMarketTime": 1789968611,
-    "fiftyDayAverageChangePercent": 0.037613448,
-    "twoHundredDayAverageChange": 396.80005,
-    "twoHundredDayAverageChangePercent": 0.19047622,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "trailingPegRatio": 0.7365
+    "regularMarketChangePercent": -0.80645156,
+    "regularMarketPrice": 2460.0,
+    "trailingPegRatio": 0.7392
   }
 }
