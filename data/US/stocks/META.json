@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-09-27T00:05:20.755116",
+    "ts": "2026-09-28T00:11:40.571886",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -152,8 +152,8 @@
     "beta": 1.243,
     "trailingPE": 28.332453,
     "forwardPE": 21.496538,
-    "volume": 25649562,
-    "regularMarketVolume": 25649562,
+    "volume": 25826729,
+    "regularMarketVolume": 25826729,
     "averageVolume": 19739836,
     "averageVolume10days": 26781070,
     "averageDailyVolume10Day": 26781070,
@@ -168,8 +168,8 @@
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
     "fulldayPrice": 747.82,
-    "fulldayChange": -25.9301,
-    "fulldayChangePercent": -3.33467,
+    "fulldayChange": -25.930054,
+    "fulldayChangePercent": -3.334669,
     "priceToSalesTrailing12Months": 8.389413,
     "fiftyDayAverage": 615.7464,
     "twoHundredDayAverage": 626.4722,
@@ -204,7 +204,7 @@
     "enterpriseToRevenue": 8.486,
     "enterpriseToEbitda": 17.664,
     "52WeekChange": 0.01111114,
-    "SandP52WeekChange": 0.15656614,
+    "SandP52WeekChange": 0.16246295,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1789948800,
     "quoteType": "EQUITY",
@@ -243,6 +243,34 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
+    "corporateActions": [],
+    "postMarketTime": 1790380799,
+    "regularMarketTime": 1790366401,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "gmtOffSetMilliseconds": -14400000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "marketState": "CLOSED",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": -0.51086473,
+    "postMarketPrice": 747.82,
+    "postMarketChange": -3.8399658,
+    "regularMarketChange": -25.930054,
+    "regularMarketChangePercent": -3.334669,
+    "regularMarketPrice": 751.66,
+    "regularMarketDayRange": "746.5405 - 769.57",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 19739836,
+    "fiftyTwoWeekLowChange": 231.39996,
+    "fiftyTwoWeekLowChangePercent": 0.44477752,
+    "fiftyTwoWeekRange": "520.26 - 779.82",
+    "fiftyTwoWeekHighChange": -28.160034,
     "fiftyTwoWeekHighChangePercent": -0.03611094,
     "fiftyTwoWeekChangePercent": 1.111114,
     "dividendDate": 1790553600,
@@ -256,34 +284,6 @@
     "epsForward": 34.96656,
     "epsCurrentYear": 31.01313,
     "priceEpsCurrentYear": 24.23683,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1790380799,
-    "regularMarketTime": 1790366401,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EDT",
-    "gmtOffSetMilliseconds": -14400000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "marketState": "CLOSED",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.51086473,
-    "postMarketPrice": 747.82,
-    "postMarketChange": -3.8399658,
-    "regularMarketChange": -25.9301,
-    "regularMarketChangePercent": -3.33467,
-    "regularMarketPrice": 751.66,
-    "regularMarketDayRange": "746.5405 - 769.57",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 19739836,
-    "fiftyTwoWeekLowChange": 231.39996,
-    "fiftyTwoWeekLowChangePercent": 0.44477752,
-    "fiftyTwoWeekRange": "520.26 - 779.82",
-    "fiftyTwoWeekHighChange": -28.160034,
     "fiftyDayAverageChange": 135.91357,
     "fiftyDayAverageChangePercent": 0.2207298,
     "twoHundredDayAverageChange": 125.187744,
@@ -292,7 +292,7 @@
     "exchangeDataDelayedBy": 0,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-09-26",
+    "nameChangeDate": "2026-09-27",
     "averageAnalystRating": "1.4 - Strong Buy",
     "cryptoTradeable": false,
     "displayName": "Meta Platforms",
@@ -1653,9 +1653,9 @@
       "0": {
         "period": "0m",
         "strongBuy": 8,
-        "buy": 47,
+        "buy": 46,
         "hold": 7,
-        "sell": 0,
+        "sell": 1,
         "strongSell": 0
       },
       "1": {
@@ -1699,94 +1699,32 @@
   },
   "news": [
     {
-      "id": "3c9745cb-7a5c-4840-b13e-552e05decbfa",
+      "id": "8ee98ba9-8751-40a4-a959-1ae267be2bec",
       "content": {
-        "id": "3c9745cb-7a5c-4840-b13e-552e05decbfa",
+        "id": "8ee98ba9-8751-40a4-a959-1ae267be2bec",
         "contentType": "STORY",
-        "title": "Banks have profited from idle cash for years. AI agents could change that.",
+        "title": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment",
         "description": "",
-        "summary": "Wall Street's latest artificial intelligence fear for US banks is that AI agents might help customers get a better deal on their cash.",
-        "pubDate": "2026-09-26T15:42:15Z",
-        "displayTime": "2026-09-26T15:42:15Z",
+        "summary": "Meta went from an AI laggard to a leader in the course of a week.",
+        "pubDate": "2026-09-27T13:11:34Z",
+        "displayTime": "2026-09-27T13:11:34Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/jpeRMBvrRsmH1XuxFFgLnQ--~B/aD0yODM2O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/f98da43b-fca2-42db-b393-517729b270f6",
-          "originalWidth": 4000,
-          "originalHeight": 2836,
-          "caption": "",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/jpeRMBvrRsmH1XuxFFgLnQ--~B/aD0yODM2O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/f98da43b-fca2-42db-b393-517729b270f6",
-              "width": 4000,
-              "height": 2836,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/zVwpLan_23NrXq0O511YWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-09/f98da43b-fca2-42db-b393-517729b270f6",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "http://finance.yahoo.com/",
-          "sourceId": "yahoofinance.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/banks-have-profited-from-idle-cash-for-years-ai-agents-could-change-that-154215138.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/banks-have-profited-from-idle-cash-for-years-ai-agents-could-change-that-154215138.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": true
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "6d4ba008-bd60-4587-a1d8-bde134b4e991",
-      "content": {
-        "id": "6d4ba008-bd60-4587-a1d8-bde134b4e991",
-        "contentType": "STORY",
-        "title": "Meta has an AI solution to its misunderstood trust problem",
-        "description": "",
-        "summary": "Being first and good enough might be enough for Muse to win.",
-        "pubDate": "2026-09-26T10:00:00Z",
-        "displayTime": "2026-09-26T10:00:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/KRw0dkmdXjG5A2j73d4cLw--~B/aD0yODEyO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3aca1389-5db8-4f33-8134-d1646c6b8882_cb673cf91a593758b7e6ebd053eea0f458edf5e0dbddf61662968d1050e035b7.jpg",
+          "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ee8TObzyIuBP4bxn2TsmhA--~B/aD0zMzMzO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/e81be4f5-1553-437a-ad87-ed5676fc065c",
           "originalWidth": 5000,
-          "originalHeight": 2812,
+          "originalHeight": 3333,
           "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/KRw0dkmdXjG5A2j73d4cLw--~B/aD0yODEyO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3aca1389-5db8-4f33-8134-d1646c6b8882_cb673cf91a593758b7e6ebd053eea0f458edf5e0dbddf61662968d1050e035b7.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/ee8TObzyIuBP4bxn2TsmhA--~B/aD0zMzMzO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/e81be4f5-1553-437a-ad87-ed5676fc065c",
               "width": 5000,
-              "height": 2812,
+              "height": 3333,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/AIsIYb4YQY2onPlwp6coiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3aca1389-5db8-4f33-8134-d1646c6b8882_cb673cf91a593758b7e6ebd053eea0f458edf5e0dbddf61662968d1050e035b7.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/dD2wRVcRapHK9sZvDcHzVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-09/e81be4f5-1553-437a-ad87-ed5676fc065c",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1799,13 +1737,13 @@
           "sourceId": "yahoofinance.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/article/meta-has-an-ai-solution-to-its-misunderstood-trust-problem-100000057.html",
+          "url": "https://finance.yahoo.com/markets/article/out-of-nowhere-came-muse-wall-street-weighs-in-on-metas-ai-catch-up-moment-131134524.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/article/meta-has-an-ai-solution-to-its-misunderstood-trust-problem-100000057.html",
+          "url": "https://finance.yahoo.com/markets/article/out-of-nowhere-came-muse-wall-street-weighs-in-on-metas-ai-catch-up-moment-131134524.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -1819,160 +1757,93 @@
             "isPremiumFreeNews": false
           }
         },
-        "storyline": null
-      }
-    },
-    {
-      "id": "cb4596b3-b5e1-3439-9c40-1b50dd0a2b54",
-      "content": {
-        "id": "cb4596b3-b5e1-3439-9c40-1b50dd0a2b54",
-        "contentType": "STORY",
-        "title": "1 Agentic AI Chip Stock to Buy and 1 to Sell",
-        "description": "",
-        "summary": "AMD looks like a great buy, while ARM Holdings' stock has gotten ahead of itself.",
-        "pubDate": "2026-09-26T17:36:00Z",
-        "displayTime": "2026-09-26T17:36:00Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/29293d567633f001f1740b9d58dc2b9c.png",
-          "originalWidth": 1200,
-          "originalHeight": 800,
-          "caption": "AMD and ARM logos.",
-          "resolutions": [
+        "storyline": {
+          "storylineItems": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/.irjXDC2Hqps6b5h_muPcA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/29293d567633f001f1740b9d58dc2b9c.png",
-              "width": 1200,
-              "height": 800,
-              "tag": "original"
+              "content": {
+                "id": "5120d0a8-5b6e-467d-a2cd-c5559052ae93",
+                "contentType": "STORY",
+                "isHosted": true,
+                "title": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/9LmOt2DwY9zvoRiH0Q9slA--~B/aD0yMTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/24d53d20-2614-439b-bd33-9695bf941721",
+                  "originalWidth": 3840,
+                  "originalHeight": 2160,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance",
+                  "sourceId": "yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/the-ai-gold-rush-is-fueling-a-record-tech-bond-boom-chart-of-the-day-115022571.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/the-ai-gold-rush-is-fueling-a-record-tech-bond-boom-chart-of-the-day-115022571.html"
+                }
+              }
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/FVc8SxfWxw0qvkneGs1beQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/29293d567633f001f1740b9d58dc2b9c.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
+              "content": {
+                "id": "c4c65632-7ce2-4666-846a-e97801777ed7",
+                "contentType": "STORY",
+                "isHosted": true,
+                "title": "2 key checks for the AI trade and the economy: What to watch this week",
+                "thumbnail": {
+                  "originalUrl": "https://s.yimg.com/uu/api/res/1.2/AEBbxcteDlIZJY.q2R5xBw--~B/aD0yNDAyO3c9NDI3MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dda04824-d68d-4adb-8e0e-d947dbb0e642_b50254c52947a7ec276346ee77d8d26991acb2a1d7e418689363d51efca5530c.jpg",
+                  "originalWidth": 4270,
+                  "originalHeight": 2402,
+                  "caption": "",
+                  "resolutions": null
+                },
+                "provider": {
+                  "displayName": "Yahoo Finance",
+                  "sourceId": "yahoofinance.com"
+                },
+                "previewUrl": null,
+                "providerContentUrl": "",
+                "canonicalUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/2-key-checks-for-the-ai-trade-and-the-economy-what-to-watch-this-week-100000239.html"
+                },
+                "clickThroughUrl": {
+                  "url": "https://finance.yahoo.com/markets/article/2-key-checks-for-the-ai-trade-and-the-economy-what-to-watch-this-week-100000239.html"
+                }
+              }
             }
           ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/26/1-agentic-ai-chip-stock-to-buy-and-1-to-sell/",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/1-agentic-ai-chip-stock-173600956.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
+        }
       }
     },
     {
-      "id": "3ae638a8-52c7-3e49-ac94-64b6e98fa216",
+      "id": "71aa7ca6-e576-38d7-a06f-7d8ea3a98b94",
       "content": {
-        "id": "3ae638a8-52c7-3e49-ac94-64b6e98fa216",
+        "id": "71aa7ca6-e576-38d7-a06f-7d8ea3a98b94",
         "contentType": "STORY",
-        "title": "Shopify Just Signed an AI Deal With Meta, but I Wouldn’t Rush to Buy SHOP Stock",
+        "title": "Meta (META) Loses a New Mexico Jury Verdict Over Facebook Data Practices",
         "description": "",
-        "summary": "SHOP's competitors are also using AI to a large extent.",
-        "pubDate": "2026-09-26T17:30:03Z",
-        "displayTime": "2026-09-26T17:30:03Z",
+        "summary": "Meta Platforms, Inc. (NASDAQ:META) lost a civil jury verdict in Santa Fe on September 25. The jury found that the company misled New Mexico residents about how Facebook handled their personal information. The shares fell 3.33% to close at $751.66. The case took five years to reach trial. It reaches back further than that, to […]",
+        "pubDate": "2026-09-27T21:01:58Z",
+        "displayTime": "2026-09-27T21:01:58Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/6f3ba88cec4d0d4760742ce93621ae55.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 1067,
-          "caption": "Image by Dennis Diatel via Shutterstock",
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947.jpg",
+          "originalWidth": 3485,
+          "originalHeight": 1960,
+          "caption": "Meta (META) Loses a New Mexico Jury Verdict Over Facebook Data Practices",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/fQk7syxeSDsOwbLiQoCImQ--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/6f3ba88cec4d0d4760742ce93621ae55.jpg",
-              "width": 1600,
-              "height": 1067,
+              "url": "https://s.yimg.com/uu/api/res/1.2/NrVr21QSb.gjrr_OlFKbQQ--~B/aD0xOTYwO3c9MzQ4NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947.jpg",
+              "width": 3485,
+              "height": 1960,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/D99W.JVinrqtDm9QQy9Jxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/6f3ba88cec4d0d4760742ce93621ae55.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barchart",
-          "url": "https://www.barchart.com/",
-          "sourceId": "barchart_com_477"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barchart.com/story/news/4817133/shopify-just-signed-an-ai-deal-with-meta-but-i-wouldnt-rush-to-buy-shop-stock",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/shopify-just-signed-ai-deal-173003590.html",
-          "site": "finance",
-          "region": "US",
-          "lang": "en-US"
-        },
-        "metadata": {
-          "editorsPick": false
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false,
-            "isPremiumFreeNews": false
-          }
-        },
-        "storyline": null
-      }
-    },
-    {
-      "id": "06638c47-4d55-3164-97b8-9312897853f3",
-      "content": {
-        "id": "06638c47-4d55-3164-97b8-9312897853f3",
-        "contentType": "STORY",
-        "title": "Fastly (FSLY) Is Getting More Interesting. Meta’s Muse Is Part of the Reason",
-        "description": "",
-        "summary": "Fastly, Inc. (NASDAQ:FSLY) is seeking to become more than a content delivery network. At its Investor Day event on September 22, the company highlighted a platform strategy built around delivery, security, compute, and observability. The timing of this strategy couldn’t be better. AI-generated traffic is creating a new source of demand for infrastructure capable of […]",
-        "pubDate": "2026-09-26T16:55:17Z",
-        "displayTime": "2026-09-26T16:55:17Z",
-        "isHosted": true,
-        "bypassModal": false,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/7d01962c35d56e5d770d2ab0d313ba13.jpg",
-          "originalWidth": 640,
-          "originalHeight": 427,
-          "caption": "Fastly (FSLY) Is Amusing. Partly Because of Meta’s Muse",
-          "resolutions": [
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/j2e.WKaiW7AXfInDorsE6A--~B/aD00Mjc7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7d01962c35d56e5d770d2ab0d313ba13.jpg",
-              "width": 640,
-              "height": 427,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/uu/api/res/1.2/EJKGin.6qmMdIbWIQgl3Ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7d01962c35d56e5d770d2ab0d313ba13.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/16vTD32KXZDGW1PZc4Lo4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1985,13 +1856,13 @@
           "sourceId": "insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/fastly-fsly-getting-more-interesting-165517875.html",
+          "url": "https://finance.yahoo.com/technology/articles/meta-meta-loses-mexico-jury-210158308.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/fastly-fsly-getting-more-interesting-165517875.html",
+          "url": "https://finance.yahoo.com/technology/articles/meta-meta-loses-mexico-jury-210158308.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2009,32 +1880,32 @@
       }
     },
     {
-      "id": "7a0141b9-6b29-320c-a600-a7e00c4f6a28",
+      "id": "5763f257-f8d2-3a3d-a588-2e7c45f729c3",
       "content": {
-        "id": "7a0141b9-6b29-320c-a600-a7e00c4f6a28",
+        "id": "5763f257-f8d2-3a3d-a588-2e7c45f729c3",
         "contentType": "STORY",
-        "title": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
+        "title": "Why Meta Platforms Stock Jumped 13% This Week",
         "description": "",
-        "summary": "The best-performing Magnificent Seven stocks are AI leaders.",
-        "pubDate": "2026-09-26T15:50:00Z",
-        "displayTime": "2026-09-26T15:50:00Z",
+        "summary": "Muse is tantalizing investors.",
+        "pubDate": "2026-09-27T20:45:55Z",
+        "displayTime": "2026-09-27T20:45:55Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/0797918d16fb5257cc9fa83930aa3b02.jpg",
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/0ee2302b885102e78b2a336fd695c46e.jpg",
           "originalWidth": 1400,
-          "originalHeight": 787,
-          "caption": "Tech overlooking a data center.",
+          "originalHeight": 875,
+          "caption": "Meta Platforms' logo is displayed on a smartphone. ",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/2lmBuMhFqC51qfNJqm6_tg--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0797918d16fb5257cc9fa83930aa3b02.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/jfUCUYcl2V0BGKvzS_tEGA--~B/aD04NzU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0ee2302b885102e78b2a336fd695c46e.jpg",
               "width": 1400,
-              "height": 787,
+              "height": 875,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0uy6xzWgMnBHhAhJ1M3chA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0797918d16fb5257cc9fa83930aa3b02.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/nZs_M9xiUorcdEoNtuvMuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0ee2302b885102e78b2a336fd695c46e.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2047,13 +1918,13 @@
           "sourceId": "motleyfool.com"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/26/the-3-magnificent-seven-stocks-that-im-buying-now/",
+          "url": "https://www.fool.com/investing/2026/09/27/why-meta-platforms-stock-jumped-this-week/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-magnificent-seven-stocks-im-155000352.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-platforms-stock-jumped-204555555.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2071,32 +1942,213 @@
       }
     },
     {
-      "id": "f959675e-39d9-34fb-999f-f544f805a669",
+      "id": "a0557670-e538-3910-9a4c-d2b2dab10ef1",
       "content": {
-        "id": "f959675e-39d9-34fb-999f-f544f805a669",
+        "id": "a0557670-e538-3910-9a4c-d2b2dab10ef1",
         "contentType": "STORY",
-        "title": "Zuckerberg takes a swing at Vision Pro with $1,299 glasses",
+        "title": "Big Tech Workers Speak Out After Getting Laid Off: 'I Applied to Work Cashier at Target and I Was Denied'",
         "description": "",
-        "summary": "Meta’s $1,299 VR glasses cost about a third of Apple’s Vision Pro, but they will not ship until spring 2027.",
-        "pubDate": "2026-09-26T14:07:00Z",
-        "displayTime": "2026-09-26T14:07:00Z",
+        "summary": "For years, landing a high-paying job at one of America’s biggest tech companies could feel like reaching the top of the industry. But four former Big Tech workers told Business Insider how quickly six-figure salaries and seemingly secure careers disappeared...",
+        "pubDate": "2026-09-27T19:00:18Z",
+        "displayTime": "2026-09-27T19:00:18Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/7a3216295530c901bd1abbb23337efdd.jpg",
-          "originalWidth": 3840,
-          "originalHeight": 2560,
-          "caption": "",
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/ee48ad4f4490d6c5df4ef1044f18dde8.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "Big Tech Workers Speak Out After Getting Laid Off: 'I Applied to Work Cashier at Target and I Was Denied'",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/MwBnQT_Maq2Sj2WUYEUkTA--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/7a3216295530c901bd1abbb23337efdd.jpg",
-              "width": 3840,
-              "height": 2560,
+              "url": "https://s.yimg.com/uu/api/res/1.2/6klUNGUIzmtuwZVGlVlYvA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/benzinga_79/ee48ad4f4490d6c5df4ef1044f18dde8.jpg",
+              "width": 1920,
+              "height": 1080,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/IrNNhdRtbEaVU3k.RXtSzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/7a3216295530c901bd1abbb23337efdd.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/S3xM8wcQjuvODKrGny.P5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ee48ad4f4490d6c5df4ef1044f18dde8.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/",
+          "sourceId": "benzinga_79"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/big-tech-workers-speak-getting-190018481.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/big-tech-workers-speak-getting-190018481.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "5f04d6c3-8b3a-31fb-9262-8e0a253d6492",
+      "content": {
+        "id": "5f04d6c3-8b3a-31fb-9262-8e0a253d6492",
+        "contentType": "STORY",
+        "title": "Jobs, Inflation, Nike, Carmax, Micron, and More to Watch This Week",
+        "description": "",
+        "summary": "This week will bring the September jobs report and data on personal consumption, manufacturing, and home prices. Carnival, Conagra, and Jefferies report earnings.",
+        "pubDate": "2026-09-27T18:00:00Z",
+        "displayTime": "2026-09-27T18:00:00Z",
+        "isHosted": false,
+        "bypassModal": false,
+        "previewUrl": "https://finance.yahoo.com/m/5f04d6c3-8b3a-31fb-9262-8e0a253d6492/jobs-inflation-nike-.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/JtjT0jmoUVLUNdvWcfXViA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/DfcNFipvML2_Bq4rL1t4tw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/",
+          "sourceId": "Barrons.com"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/jobs-inflation-nike-carmax-micron-and-more-to-watch-this-week-3e16a952?siteid=yhoof2&yptr=yahoo",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": null,
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "8ffc20e4-dbcf-38a5-bcd8-32764de8422c",
+      "content": {
+        "id": "8ffc20e4-dbcf-38a5-bcd8-32764de8422c",
+        "contentType": "STORY",
+        "title": "AI’s $10 Trillion Buildout Will Reach 3.6% of GDP. Who’s Going to Pay for It?",
+        "description": "",
+        "summary": "Big Tech is funneling nearly $200 billion into AI infrastructure every single quarter, a share of the economy larger than the entire railroad expansion. But the balance sheets tell a more complicated story about who is actually footing the bill.",
+        "pubDate": "2026-09-27T17:51:51Z",
+        "displayTime": "2026-09-27T17:51:51Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1707,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/QIa9VAz7sc4Ch5Gqf5cDfQ--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
+              "width": 2560,
+              "height": 1707,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/UhF5RjG94EYFBwSWvTqvhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/09/27/ais-10-trillion-buildout-will-reach-3-6-of-gdp-whos-going-to-pay-for-it/",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-10-trillion-buildout-reach-175151308.html",
+          "site": "finance",
+          "region": "US",
+          "lang": "en-US"
+        },
+        "metadata": {
+          "editorsPick": false
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false,
+            "isPremiumFreeNews": false
+          }
+        },
+        "storyline": null
+      }
+    },
+    {
+      "id": "97d2178d-8f8f-3221-9890-51ad9b49c2dd",
+      "content": {
+        "id": "97d2178d-8f8f-3221-9890-51ad9b49c2dd",
+        "contentType": "STORY",
+        "title": "Michael Burry sends a stark warning to Big Tech stock investors",
+        "description": "",
+        "summary": "Michael Burry just went through five balance sheets and came back with a warning nobody on Wall Street wants to hear.",
+        "pubDate": "2026-09-27T17:33:00Z",
+        "displayTime": "2026-09-27T17:33:00Z",
+        "isHosted": true,
+        "bypassModal": false,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/b87af4b564f0fd4d6bc6487334375ecd.jpg",
+          "originalWidth": 3000,
+          "originalHeight": 1941,
+          "caption": "",
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/8FyZMSWk_kANf7uMmFHbmw--~B/aD0xOTQxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/b87af4b564f0fd4d6bc6487334375ecd.jpg",
+              "width": 3000,
+              "height": 1941,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/GI0SIMiznbSHk4zP4QlkQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/b87af4b564f0fd4d6bc6487334375ecd.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2109,13 +2161,13 @@
           "sourceId": "thestreet_881"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/technology/meta-1299-vr-glasses-compete-with-apple-vision-pro",
+          "url": "https://www.thestreet.com/investing/stocks/michael-burry-sends-a-stark-warning-to-big-tech-stock-investors",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/zuckerberg-takes-swing-vision-pro-140700001.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-stark-warning-173300477.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2133,32 +2185,32 @@
       }
     },
     {
-      "id": "86576aa3-a71f-3b47-970c-b4a48c18abda",
+      "id": "c4f4dc06-b85d-3755-b24e-f2257b44e622",
       "content": {
-        "id": "86576aa3-a71f-3b47-970c-b4a48c18abda",
+        "id": "c4f4dc06-b85d-3755-b24e-f2257b44e622",
         "contentType": "STORY",
-        "title": "Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.",
+        "title": "Wall Street Giant Warns AI Agents Could Trigger a New Kind of Bank Run",
         "description": "",
-        "summary": "There are many stocks out there beyond the big AI ones.",
-        "pubDate": "2026-09-26T13:02:00Z",
-        "displayTime": "2026-09-26T13:02:00Z",
+        "summary": "Apollo warns AI agents like Meta's Muse could move cash from 0.1% bank accounts into 5% yields. Here's what it means for you.",
+        "pubDate": "2026-09-27T17:21:19Z",
+        "displayTime": "2026-09-27T17:21:19Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/d5f294237d290417b7f42827ca6d926d.jpg",
-          "originalWidth": 1200,
-          "originalHeight": 801,
-          "caption": "Person on the phone while another person looks at stock charts on screens.",
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/b9c6b8098e4ba55cffff1a04afe3ce2c.png",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/u3h.aTRmvCdi0CyShHfopg--~B/aD04MDE7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d5f294237d290417b7f42827ca6d926d.jpg",
-              "width": 1200,
-              "height": 801,
+              "url": "https://s.yimg.com/uu/api/res/1.2/ky7He01im_tM3.kE0Xkl7g--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/b9c6b8098e4ba55cffff1a04afe3ce2c.png",
+              "width": 1920,
+              "height": 1080,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/nC3yBF3q8XOaL4FwBKbe7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d5f294237d290417b7f42827ca6d926d.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/AQQ8H0UbDAdP1sZZORZeSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/b9c6b8098e4ba55cffff1a04afe3ce2c.png",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2166,18 +2218,18 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/",
-          "sourceId": "motleyfool.com"
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/",
+          "sourceId": "beincrypto_us_662"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/09/26/most-investors-own-seven-magnificent-seven-stock/",
+          "url": "https://beincrypto.com/ai-agents-bank-account-run-warning/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/most-investors-own-seven-magnificent-130200138.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-giant-warns-ai-172119618.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2195,32 +2247,32 @@
       }
     },
     {
-      "id": "300c4d9a-f9a6-3a30-8c64-6c1317782d0f",
+      "id": "b5f0ee46-47d1-3b9f-bd60-e62bd413c83d",
       "content": {
-        "id": "300c4d9a-f9a6-3a30-8c64-6c1317782d0f",
+        "id": "b5f0ee46-47d1-3b9f-bd60-e62bd413c83d",
         "contentType": "STORY",
-        "title": "Why Twilio (TWLO) Shares Are Getting Obliterated Today",
+        "title": "Meta Platforms (META) Found Liable For Nearly 44 Million New Mexico Violations",
         "description": "",
-        "summary": "Shares of customer engagement platform Twilio (NYSE:TWLO) fell 7.6% in the afternoon session after HSBC downgraded the stock from Hold to Reduce.",
-        "pubDate": "2026-09-26T04:32:37Z",
-        "displayTime": "2026-09-26T04:32:37Z",
+        "summary": "Meta Platforms (NasdaqGS:META) was found guilty by a New Mexico jury of willfully violating the state's Unfair Practices Act nearly 44 million times. The case centers on alleged misleading statements to New Mexico residents about data use, misinformation, and hate speech tied to the Cambridge Analytica scandal. Potential penalties were cited at up to $219.5b, alongside possible court ordered corrective measures that could alter Meta's platform practices. This New Mexico verdict over alleged...",
+        "pubDate": "2026-09-27T17:06:25Z",
+        "displayTime": "2026-09-27T17:06:25Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/0bb3ade2085ccd800b3ce0f2b7212c7f.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "TWLO Cover Image",
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/e70faf69adb58a11417039c474d60f34.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/VQRT.rZ1dc2mdFDz.qILcg--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/0bb3ade2085ccd800b3ce0f2b7212c7f.jpg",
-              "width": 1400,
-              "height": 700,
+              "url": "https://s.yimg.com/uu/api/res/1.2/j6KnnIv9ebLU82bzo5.lgA--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/e70faf69adb58a11417039c474d60f34.jpg",
+              "width": 1600,
+              "height": 900,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/12JRHpqFmOXdTYdKI_gU0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/0bb3ade2085ccd800b3ce0f2b7212c7f.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/eYPwoCfpb2x3amc97Gbbxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e70faf69adb58a11417039c474d60f34.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2228,18 +2280,18 @@
           ]
         },
         "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/",
+          "sourceId": "simply_wall_st__316"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-twilio-twlo-shares-getting-043237767.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-found-liable-170625717.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-twilio-twlo-shares-getting-043237767.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-found-liable-170625717.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
@@ -2257,32 +2309,32 @@
       }
     },
     {
-      "id": "7b4b19fb-cfe5-3bcb-86ab-a2d38b7c6aa8",
+      "id": "3e8d9b03-8e94-3596-9b0c-fc8144165013",
       "content": {
-        "id": "7b4b19fb-cfe5-3bcb-86ab-a2d38b7c6aa8",
+        "id": "3e8d9b03-8e94-3596-9b0c-fc8144165013",
         "contentType": "STORY",
-        "title": "Penguin Solutions and onsemi Shares Skyrocket, What You Need To Know",
+        "title": "Meta Is Up 30% in a Month. Is Its New AI Agent Really That Good?",
         "description": "",
-        "summary": "A number of stocks jumped in the afternoon session after investors extended a multi-day rally driven by rising compute demand for agentic artificial intelligence following the rollout of Meta Platforms' Muse agent.",
-        "pubDate": "2026-09-26T03:52:37Z",
-        "displayTime": "2026-09-26T03:52:37Z",
+        "summary": "Meta's new Muse AI agent has Wall Street buzzing and shares surging, but the company has yet to reveal a single usage or revenue figure to back up the hype before a critical October earnings report.",
+        "pubDate": "2026-09-27T16:01:55Z",
+        "displayTime": "2026-09-27T16:01:55Z",
         "isHosted": true,
         "bypassModal": false,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stockstory_922/4b03558908981d74c2c90d1d8a0aea43.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 700,
-          "caption": "PENG Cover Image",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/10d8d6bb55dfa12bf89bd7af7fdd82cd.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "caption": "",
           "resolutions": [
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/32rrRPudQJbBOjuVhaivZA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/4b03558908981d74c2c90d1d8a0aea43.jpg",
-              "width": 1400,
-              "height": 700,
+              "url": "https://s.yimg.com/uu/api/res/1.2/Xbs5ODVkr1tiYAqSV7ha4g--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/10d8d6bb55dfa12bf89bd7af7fdd82cd.jpg",
+              "width": 1366,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/uu/api/res/1.2/0s4w8pWl9s9TrFlNsBcTsQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/4b03558908981d74c2c90d1d8a0aea43.jpg",
+              "url": "https://s.yimg.com/uu/api/res/1.2/s5m50KeaP6K7qtJwsnrMfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/10d8d6bb55dfa12bf89bd7af7fdd82cd.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2290,18 +2342,18 @@
           ]
         },
         "provider": {
-          "displayName": "StockStory",
-          "url": "https://stockstory.org/",
-          "sourceId": "stockstory_922"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/",
+          "sourceId": "24_7_wall_st__718"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/penguin-solutions-onsemi-shares-skyrocket-035237352.html",
+          "url": "https://247wallst.com/investing/2026/09/27/meta-is-up-30-in-a-month-is-its-new-ai-agent-really-that-good/",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/penguin-solutions-onsemi-shares-skyrocket-035237352.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-30-month-ai-agent-160155691.html",
           "site": "finance",
           "region": "US",
           "lang": "en-US"
