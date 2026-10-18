@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "4958",
     "market": "TW",
-    "ts": "2026-10-17T23:41:12.828535"
+    "ts": "2026-10-18T23:49:55.087608"
   },
   "financials": {
     "annual": {
@@ -25509,13 +25509,13 @@
     "beta": 1.562,
     "trailingPE": 62.79594,
     "forwardPE": 21.529316,
-    "volume": 28104300,
-    "regularMarketVolume": 28104300,
+    "volume": 28135200,
+    "regularMarketVolume": 28135200,
     "averageVolume": 33589283,
     "averageVolume10days": 35020134,
     "averageDailyVolume10Day": 35020134,
-    "bid": 556.0,
-    "ask": 557.0,
+    "bid": 0.0,
+    "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
     "marketCap": 617413869568,
@@ -25594,6 +25594,8 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 1324861200000,
     "regularMarketChange": 38.0,
     "regularMarketChangePercent": 7.3217726,
     "regularMarketPrice": 557.0,
@@ -25616,6 +25618,11 @@
     "epsForward": 25.8717,
     "epsCurrentYear": 13.98885,
     "priceEpsCurrentYear": 39.81743,
+    "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
+    "longName": "Zhen Ding Technology Holding Limited",
+    "marketState": "PREPRE",
+    "corporateActions": [],
+    "regularMarketTime": 1792128605,
     "fiftyDayAverageChange": 58.51999,
     "fiftyDayAverageChangePercent": 0.11739686,
     "twoHundredDayAverageChange": 171.07999,
@@ -25623,12 +25630,7 @@
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.2 - Strong Buy",
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 1324861200000,
-    "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
-    "longName": "Zhen Ding Technology Holding Limited",
-    "corporateActions": [],
-    "regularMarketTime": 1792128605,
+    "cryptoTradeable": false,
     "exchange": "TAI",
     "messageBoardId": "finmb_140596767",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -25636,8 +25638,6 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "cryptoTradeable": false,
-    "marketState": "CLOSED",
     "trailingPegRatio": null
   }
 }
