@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "4958",
     "market": "TW",
-    "ts": "2026-10-24T23:54:11.602655"
+    "ts": "2026-10-25T23:41:46.731174"
   },
   "financials": {
     "annual": {
@@ -25649,8 +25649,8 @@
     "beta": 1.562,
     "trailingPE": 63.923336,
     "forwardPE": 21.625786,
-    "volume": 45785250,
-    "regularMarketVolume": 45785250,
+    "volume": 45864903,
+    "regularMarketVolume": 45864903,
     "averageVolume": 32373243,
     "averageVolume10days": 24888805,
     "averageDailyVolume10Day": 24888805,
@@ -25734,7 +25734,6 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "regularMarketTime": 1792647003,
     "exchange": "TAI",
     "messageBoardId": "finmb_140596767",
     "exchangeTimezoneName": "Asia/Taipei",
@@ -25742,10 +25741,11 @@
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 1324861200000,
+    "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
+    "longName": "Zhen Ding Technology Holding Limited",
     "corporateActions": [],
-    "marketState": "CLOSED",
+    "regularMarketTime": 1792647003,
+    "firstTradeDateMilliseconds": 1324861200000,
     "regularMarketChange": -11.0,
     "regularMarketChangePercent": -1.9031141,
     "regularMarketPrice": 567.0,
@@ -25758,6 +25758,7 @@
     "fiftyTwoWeekHighChange": -92.0,
     "fiftyTwoWeekHighChangePercent": -0.13960546,
     "fiftyTwoWeekChangePercent": 232.55132,
+    "hasPrePostMarketData": false,
     "earningsTimestamp": 1794288600,
     "earningsTimestampStart": 1794288600,
     "earningsTimestampEnd": 1794288600,
@@ -25776,8 +25777,7 @@
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.2 - Strong Buy",
     "cryptoTradeable": false,
-    "shortName": "ZHEN DING TECHNOLOGY HOLDING LT",
-    "longName": "Zhen Ding Technology Holding Limited",
+    "marketState": "CLOSED",
     "trailingPegRatio": null
   }
 }
