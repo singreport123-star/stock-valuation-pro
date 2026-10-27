@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-10-25T23:41:43.312334"
+    "ts": "2026-10-27T01:01:51.694900"
   },
   "financials": {
     "annual": {
@@ -26499,12 +26499,12 @@
     "averageVolume": 22157445,
     "averageVolume10days": 24605465,
     "averageDailyVolume10Day": 24605465,
-    "bid": 2385.0,
-    "ask": 2390.0,
+    "bid": 0.0,
+    "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
     "marketCap": 61848703467520,
-    "nonDilutedMarketCap": 62885997412475,
+    "nonDilutedMarketCap": 61848702609795,
     "fiftyTwoWeekLow": 1375.0,
     "fiftyTwoWeekHigh": 2590.0,
     "allTimeHigh": 2590.0,
@@ -26580,6 +26580,7 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
+    "marketState": "REGULAR",
     "hasPrePostMarketData": false,
     "firstTradeDateMilliseconds": 946947600000,
     "regularMarketChange": -35.0,
@@ -26612,7 +26613,6 @@
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
-    "marketState": "CLOSED",
     "corporateActions": [],
     "regularMarketTime": 1792647010,
     "exchange": "TAI",
@@ -26624,6 +26624,6 @@
     "esgPopulated": false,
     "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
     "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "trailingPegRatio": null
+    "trailingPegRatio": 0.6723
   }
 }
