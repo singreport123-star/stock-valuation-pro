@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-11-04T01:46:55.606205",
+    "ts": "2026-11-05T01:55:39.580731",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -86,92 +86,59 @@
         "totalPay": 3308578,
         "exercisedValue": 0,
         "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Mr. Dana  White",
-        "age": 55,
-        "title": "Independent Director",
-        "yearBorn": 1970,
-        "fiscalYear": 2025,
-        "totalPay": 68105,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Mr. Aaron A. Anderson",
-        "age": 52,
-        "title": "Chief Accounting Officer",
-        "yearBorn": 1973,
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Mr. Rob  Bevegni",
-        "title": "Head of Investor Relations",
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Mr. Henry T. A. Moniz",
-        "age": 60,
-        "title": "Chief Compliance Officer",
-        "yearBorn": 1965,
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
       }
     ],
+    "auditRisk": 9,
+    "boardRisk": 10,
+    "compensationRisk": 10,
+    "shareHolderRightsRisk": 10,
+    "overallRisk": 10,
+    "governanceEpochDate": 1793491200,
     "compensationAsOfEpochDate": 1767139200,
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 606.73,
-    "open": 610.76,
-    "dayLow": 610.1,
-    "dayHigh": 624.84,
-    "regularMarketPreviousClose": 606.73,
-    "regularMarketOpen": 610.76,
-    "regularMarketDayLow": 610.1,
-    "regularMarketDayHigh": 624.84,
+    "previousClose": 621.03,
+    "open": 641.15,
+    "dayLow": 624.5,
+    "dayHigh": 643.09,
+    "regularMarketPreviousClose": 621.03,
+    "regularMarketOpen": 641.15,
+    "regularMarketDayLow": 624.5,
+    "regularMarketDayHigh": 643.09,
     "dividendRate": 2.1,
-    "dividendYield": 0.35,
+    "dividendYield": 0.34,
     "exDividendDate": 1789948800,
     "payoutRatio": 0.0716,
     "beta": 1.279,
-    "trailingPE": 21.188334,
-    "forwardPE": 17.45062,
-    "volume": 13536034,
-    "regularMarketVolume": 13536034,
-    "averageVolume": 20559146,
-    "averageVolume10days": 29511160,
-    "averageDailyVolume10Day": 29511160,
-    "bid": 597.0,
-    "ask": 621.8,
+    "trailingPE": 21.494371,
+    "forwardPE": 17.702671,
+    "volume": 32325750,
+    "regularMarketVolume": 32325750,
+    "averageVolume": 20493085,
+    "averageVolume10days": 29179380,
+    "averageDailyVolume10Day": 29179380,
+    "bid": 630.61,
+    "ask": 639.3,
     "bidSize": 2,
-    "askSize": 2,
-    "marketCap": 1587870040064,
-    "nonDilutedMarketCap": 1551307306718,
+    "askSize": 1,
+    "marketCap": 1610804756480,
+    "nonDilutedMarketCap": 1587870019104,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 779.82,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 621.03,
-    "fulldayChange": 5.580017,
-    "fulldayChangePercent": 0.9196871,
-    "priceToSalesTrailing12Months": 6.5721736,
-    "fiftyDayAverage": 671.1192,
-    "twoHundredDayAverage": 632.0324,
+    "fulldayPrice": 630.0,
+    "fulldayChange": 5.9399414,
+    "fulldayChangePercent": 0.9564661,
+    "priceToSalesTrailing12Months": 6.6671004,
+    "fiftyDayAverage": 672.3594,
+    "twoHundredDayAverage": 632.0363,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.003461177,
+    "trailingAnnualDividendYield": 0.0033814788,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1619895517184,
+    "enterpriseValue": 1642824990720,
     "profitMargins": 0.31145,
     "floatShares": 2211148684,
     "sharesOutstanding": 2214455318,
@@ -180,13 +147,13 @@
     "sharesShortPreviousMonthDate": 1789430400,
     "dateShortInterest": 1792022400,
     "sharesPercentSharesOut": 0.0111,
-    "heldPercentInsiders": 0.00145,
-    "heldPercentInstitutions": 0.77449,
+    "heldPercentInsiders": 0.00132,
+    "heldPercentInstitutions": 0.77467,
     "shortRatio": 1.32,
     "shortPercentOfFloat": 0.0128,
     "impliedSharesOutstanding": 2556833034,
     "bookValue": 106.567,
-    "priceToBook": 5.8276014,
+    "priceToBook": 5.9117737,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1790726400,
@@ -194,15 +161,15 @@
     "netIncomeToCommon": 75249000448,
     "trailingEps": 29.31,
     "forwardEps": 35.58785,
-    "pegRatio": 0.79,
-    "enterpriseToRevenue": 6.705,
-    "enterpriseToEbitda": 13.942,
-    "52WeekChange": -0.03282219,
-    "SandP52WeekChange": 0.113688946,
+    "pegRatio": 0.81,
+    "enterpriseToRevenue": 6.8,
+    "enterpriseToEbitda": 14.139,
+    "52WeekChange": -0.023460984,
+    "SandP52WeekChange": 0.11368406,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1789948800,
     "quoteType": "EQUITY",
-    "currentPrice": 621.03,
+    "currentPrice": 630.0,
     "targetHighPrice": 1050.0,
     "targetLowPrice": 629.06,
     "targetMeanPrice": 848.3765,
@@ -239,36 +206,6 @@
     "customPriceAlertConfidence": "HIGH",
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
-    "marketState": "POSTPOST",
-    "corporateActions": [],
-    "postMarketTime": 1793753986,
-    "regularMarketTime": 1793739601,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EST",
-    "gmtOffSetMilliseconds": -18000000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": -0.4637465,
-    "postMarketPrice": 618.15,
-    "postMarketChange": -2.880005,
-    "regularMarketChange": 14.3,
-    "regularMarketChangePercent": 2.3569,
-    "regularMarketPrice": 621.03,
-    "regularMarketDayRange": "610.1 - 624.84",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 20559146,
-    "fiftyTwoWeekLowChange": 100.77002,
-    "fiftyTwoWeekLowChangePercent": 0.19369166,
-    "fiftyTwoWeekRange": "520.26 - 779.82",
-    "fiftyTwoWeekHighChange": -158.78998,
-    "fiftyTwoWeekHighChangePercent": -0.20362388,
-    "fiftyTwoWeekChangePercent": -3.2822192,
-    "dividendDate": 1790553600,
-    "earningsTimestamp": 1792612800,
     "earningsTimestampStart": 1801083600,
     "earningsTimestampEnd": 1801083600,
     "earningsCallTimestampStart": 1792612800,
@@ -277,11 +214,11 @@
     "epsTrailingTwelveMonths": 29.31,
     "epsForward": 35.58785,
     "epsCurrentYear": 29.89229,
-    "priceEpsCurrentYear": 20.775593,
-    "fiftyDayAverageChange": -50.089172,
-    "fiftyDayAverageChangePercent": -0.07463528,
-    "twoHundredDayAverageChange": -11.00238,
-    "twoHundredDayAverageChangePercent": -0.017407937,
+    "priceEpsCurrentYear": 21.075668,
+    "fiftyDayAverageChange": -42.359375,
+    "fiftyDayAverageChangePercent": -0.06300109,
+    "twoHundredDayAverageChange": -2.036316,
+    "twoHundredDayAverageChangePercent": -0.0032218336,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 15,
     "ipoExpectedDate": "2022-06-09",
@@ -289,8 +226,38 @@
     "nameChangeDate": "2026-11-04",
     "averageAnalystRating": "1.4 - Strong Buy",
     "cryptoTradeable": false,
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": 0.03174797,
+    "postMarketPrice": 630.2,
+    "postMarketChange": 0.2000122,
+    "regularMarketChange": 8.96997,
+    "regularMarketChangePercent": 1.44437,
+    "regularMarketPrice": 630.0,
+    "regularMarketDayRange": "624.5 - 643.09",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 20493085,
+    "fiftyTwoWeekLowChange": 109.73999,
+    "fiftyTwoWeekLowChangePercent": 0.21093297,
+    "fiftyTwoWeekRange": "520.26 - 779.82",
+    "fiftyTwoWeekHighChange": -149.82,
+    "fiftyTwoWeekHighChangePercent": -0.19212127,
+    "fiftyTwoWeekChangePercent": -2.3460984,
+    "dividendDate": 1790553600,
+    "earningsTimestamp": 1792612800,
+    "corporateActions": [],
+    "postMarketTime": 1793840394,
+    "regularMarketTime": 1793826000,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "gmtOffSetMilliseconds": -18000000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "marketState": "POSTPOST",
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.7926
+    "trailingPegRatio": 0.8113
   },
   "financial_statements": {
     "income": {
@@ -1591,30 +1558,30 @@
   },
   "news": [
     {
-      "id": "a5b51ba4-9bd9-4e62-954f-831c3f61e110",
+      "id": "fd428e12-2ed7-4f55-9b5e-d4581cb6effc",
       "content": {
-        "id": "a5b51ba4-9bd9-4e62-954f-831c3f61e110",
+        "id": "fd428e12-2ed7-4f55-9b5e-d4581cb6effc",
         "contentType": "STORY",
-        "title": "Apple just made twice as much free cash as Microsoft, Meta, Alphabet and Amazon combined: Chart of the Day",
+        "title": "AMD's AI megadeals with OpenAI and Meta just cost it $1.1 billion: Chart of the Day",
         "description": null,
-        "summary": "Apple just had the biggest cash year in its history, and it didn't need to build a fleet of AI data centers to get there.",
-        "pubDate": "2026-11-03T11:00:00Z",
-        "displayTime": "2026-11-03T11:00:00Z",
+        "summary": "A record quarter came with a twist for AMD: Its profits now move against its own stock price.",
+        "pubDate": "2026-11-04T13:09:53Z",
+        "displayTime": "2026-11-04T13:09:53Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/2026-11/ce97a0e8-3772-4506-9a82-3b4d4eee2fc9",
-          "originalWidth": 5075,
-          "originalHeight": 3385,
+          "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-02/d16cc5f0-00ea-11f1-afd9-ad2879d43cbd",
+          "originalWidth": 4811,
+          "originalHeight": 3000,
           "resolutions": [
             {
-              "url": "https://d29szjachogqwa.cloudfront.net/images/2026-11/ce97a0e8-3772-4506-9a82-3b4d4eee2fc9",
-              "width": 5075,
-              "height": 3385,
+              "url": "https://s.yimg.com/os/creatr-uploaded-images/2026-02/d16cc5f0-00ea-11f1-afd9-ad2879d43cbd",
+              "width": 4811,
+              "height": 3000,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/0145ed09817605433851cd0d525f7abd8d0bfa9ee83948d9e26577709af9b65d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fce97a0e8-3772-4506-9a82-3b4d4eee2fc9",
+              "url": "https://s.yimg.com/lo/mysterio/api/6135449fdb2c6de9349c9b17df46935fbf8b15f831d9cb5b1b5b68b0bb06844a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2Fd16cc5f0-00ea-11f1-afd9-ad2879d43cbd",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1626,10 +1593,10 @@
           "url": "https://finance.yahoo.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/apple-just-made-twice-as-much-free-cash-as-microsoft-meta-alphabet-and-amazon-combined-chart-of-the-day-110000928.html"
+          "url": "https://finance.yahoo.com/markets/article/amds-ai-megadeals-with-openai-and-meta-just-cost-it-11-billion-chart-of-the-day-130953484.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/apple-just-made-twice-as-much-free-cash-as-microsoft-meta-alphabet-and-amazon-combined-chart-of-the-day-110000928.html"
+          "url": "https://finance.yahoo.com/markets/article/amds-ai-megadeals-with-openai-and-meta-just-cost-it-11-billion-chart-of-the-day-130953484.html"
         },
         "finance": {
           "premiumFinance": {
@@ -1637,49 +1604,43 @@
           },
           "stockTickers": [
             {
-              "symbol": "AAPL"
-            },
-            {
-              "symbol": "MSFT"
+              "symbol": "AMD"
             },
             {
               "symbol": "META"
             },
             {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "AMZN"
+              "symbol": "OPAI.PVT"
             }
           ]
         }
       }
     },
     {
-      "id": "ece3025a-14de-3475-8c87-d2ea12565f0f",
+      "id": "a147bf9a-4218-3171-97a4-fb80fda211eb",
       "content": {
-        "id": "ece3025a-14de-3475-8c87-d2ea12565f0f",
+        "id": "a147bf9a-4218-3171-97a4-fb80fda211eb",
         "contentType": "STORY",
-        "title": "Tech Billionaire Sees Need to Push Back on ‘Dumb’ Wealth Tax",
+        "title": "Dow Jones Futures Rise, But Techs Tumble; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
         "description": null,
-        "summary": "A proposed wealth tax on California’s billionaires is “dumb” and wouldn’t generate a dollar for the state, tech billionaire Chris Larsen said at the WSJ Tech conference Tuesday.",
-        "pubDate": "2026-11-04T00:12:58Z",
-        "displayTime": "2026-11-04T00:12:58Z",
+        "summary": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.",
+        "pubDate": "2026-11-05T01:47:46Z",
+        "displayTime": "2026-11-05T01:47:46Z",
         "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/ece3025a-14de-3475-8c87-d2ea12565f0f/tech-billionaire-sees-need-to.html",
+        "previewUrl": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise-but.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-          "originalWidth": 1200,
-          "originalHeight": 630,
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/905b9d9ebc0553d1494f2da458c2d0ac.jpg",
+          "originalWidth": 1000,
+          "originalHeight": 511,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-              "width": 1200,
-              "height": 630,
+              "url": "https://media.zenfs.com/en/ibd.com/905b9d9ebc0553d1494f2da458c2d0ac.jpg",
+              "width": 1000,
+              "height": 511,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/f33b1630682fdd440ddb8668bf384257b7aeaae8821557ec05694a08deb2b46d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsj.com%2F7b2c285183be07ca3c4e8242b25a59a8.png",
+              "url": "https://s.yimg.com/lo/mysterio/api/e9b0029f1ea653d95973c8013f15ea3e52c081577ef3be46a375b59807074001/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fibd.com%2F905b9d9ebc0553d1494f2da458c2d0ac.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1687,11 +1648,11 @@
           ]
         },
         "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/"
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.wsj.com/livecoverage/midterm-election-results-2026-latest-updates/card/tech-billionaire-sees-need-to-push-back-on-dumb-wealth-tax-03uJtf5VdtUTQUmiWqeN?siteid=yhoof2&yptr=yahoo"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo"
         },
         "clickThroughUrl": null,
         "finance": {
@@ -1700,260 +1661,85 @@
           },
           "stockTickers": [
             {
-              "symbol": "XRP-USD"
-            },
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "f06e870f-2e30-3034-b500-247ffb1d973c",
-      "content": {
-        "id": "f06e870f-2e30-3034-b500-247ffb1d973c",
-        "contentType": "STORY",
-        "title": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day —  META, AAPL, AMD, SKHY In Focus",
-        "description": null,
-        "summary": "The U.S. midterm elections are underway.",
-        "pubDate": "2026-11-03T23:29:55Z",
-        "displayTime": "2026-11-03T23:29:55Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/f929600de8196fa27705a06b0f0ed1f8.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 853,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/stocktwits_383/f929600de8196fa27705a06b0f0ed1f8.jpg",
-              "width": 1280,
-              "height": 853,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/804a1e910cc259cbf5011be1b2f834ac827e687b8291b770694e677371f9e0cd/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Ff929600de8196fa27705a06b0f0ed1f8.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Stocktwits",
-          "url": "https://stocktwits.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-recover-from-ai-rout-on-us-midterm-election-day-meta-aapl-amd-skhy-in-focus/cNGXlSbR9dS"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-recover-ai-232955884.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "^GSPC"
-            },
-            {
-              "symbol": "AMD"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "^NDX"
+              "symbol": "CL=F"
             },
             {
               "symbol": "^DJI"
             },
             {
-              "symbol": "SPY"
-            },
-            {
-              "symbol": "DIA"
-            },
-            {
-              "symbol": "QQQ"
-            },
-            {
-              "symbol": "SMH"
-            },
-            {
-              "symbol": "DX-Y.NYB"
-            },
-            {
               "symbol": "AAPL"
-            },
-            {
-              "symbol": "^RUT"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "464f29a2-b094-3735-af07-154189326e16",
-      "content": {
-        "id": "464f29a2-b094-3735-af07-154189326e16",
-        "contentType": "STORY",
-        "title": "AMD Earnings Show Big Tech Can’t Get Enough AI Chips",
-        "description": null,
-        "summary": "The chip maker reports better-than-expected earnings for the third quarter and issues strong guidance for the rest of the year.",
-        "pubDate": "2026-11-03T22:36:00Z",
-        "displayTime": "2026-11-03T22:36:00Z",
-        "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/464f29a2-b094-3735-af07-154189326e16/amd-earnings-show-big-tech.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/64a4f3dcc4d78d4134753fde1850af01.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/Barrons.com/64a4f3dcc4d78d4134753fde1850af01.jpg",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/6414b90c4d22c513205ad4a85718561ecbfb8d5714ba371c2419a07b20208c59/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F64a4f3dcc4d78d4134753fde1850af01.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465?siteid=yhoof2&yptr=yahoo"
-        },
-        "clickThroughUrl": null,
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "AMD"
-            },
-            {
-              "symbol": "AVGO"
             },
             {
               "symbol": "MSFT"
             },
             {
-              "symbol": "NVDA"
-            },
-            {
               "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "5700657f-9fe3-398d-81de-d08a92e0b4a2",
-      "content": {
-        "id": "5700657f-9fe3-398d-81de-d08a92e0b4a2",
-        "contentType": "STORY",
-        "title": "Do You Know How Much of Your 401(k) Is Riding on the AI Trade Voters Want Paused?",
-        "description": null,
-        "summary": "Most index fund investors have no idea how much of their retirement balance depends on a single trade, and Congress is actively debating whether to slow it down. The answer, hiding in plain sight inside your quarterly statement, changes the math on rebalancing entirely.",
-        "pubDate": "2026-11-03T21:49:34Z",
-        "displayTime": "2026-11-03T21:49:34Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/f6ecef6978a1a116f7bdb9210e5eea7f.jpg",
-          "originalWidth": 1500,
-          "originalHeight": 1000,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/f6ecef6978a1a116f7bdb9210e5eea7f.jpg",
-              "width": 1500,
-              "height": 1000,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/ccd1105cede7e92e16af02044918298371df2c25949724e1f554100d2679d8c5/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ff6ecef6978a1a116f7bdb9210e5eea7f.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/personal-finance/2026/11/03/do-you-know-how-much-of-your-401k-is-riding-on-the-ai-trade-voters-want-paused/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-much-401-k-riding-214934258.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "^GSPC"
             },
             {
               "symbol": "AMZN"
             },
             {
+              "symbol": "EXPE"
+            },
+            {
+              "symbol": "^GSPC"
+            },
+            {
+              "symbol": "^IXIC"
+            },
+            {
               "symbol": "GOOG"
             },
             {
-              "symbol": "META"
+              "symbol": "CRWV"
             },
             {
-              "symbol": "MSFT"
+              "symbol": "SPCX"
+            },
+            {
+              "symbol": "GEV"
+            },
+            {
+              "symbol": "ARM"
+            },
+            {
+              "symbol": "ELF"
+            },
+            {
+              "symbol": "PAYC"
+            },
+            {
+              "symbol": "THC"
             }
           ]
         }
       }
     },
     {
-      "id": "0e6465c1-b430-3b10-8557-dbb7caa4cb04",
+      "id": "41813a9b-3cea-32b9-ab83-527b9cfbdc98",
       "content": {
-        "id": "0e6465c1-b430-3b10-8557-dbb7caa4cb04",
+        "id": "41813a9b-3cea-32b9-ab83-527b9cfbdc98",
         "contentType": "STORY",
-        "title": "Nvidia vs. SK Hynix: Comparing Quarterly Revenue Trajectories",
+        "title": "Is the AI Bubble Popping?",
         "description": null,
-        "summary": "SK Hynix's revenue has surged 420% in two years, yet Nvidia still holds a commanding lead -- here's what the gap reveals about their competitive positioning.",
-        "pubDate": "2026-11-03T21:16:43Z",
-        "displayTime": "2026-11-03T21:16:43Z",
+        "summary": "Is the AI boom running out of steam, or is the market simply taking a breather?",
+        "pubDate": "2026-11-05T01:16:38Z",
+        "displayTime": "2026-11-05T01:16:38Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/7053d85c93cba34e6afd3c08054ddce7.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 787,
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/fd6be372fa7ce3201e82e3cc0487fa16.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/motleyfool.com/7053d85c93cba34e6afd3c08054ddce7.jpg",
-              "width": 1400,
-              "height": 787,
+              "url": "https://media.zenfs.com/en/motleyfool.com/fd6be372fa7ce3201e82e3cc0487fa16.jpg",
+              "width": 1280,
+              "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/65d4ad5ae6ade8ed2f9ed8c6bd162e032fa339c46974a35c4cfda2c17fede8a2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F7053d85c93cba34e6afd3c08054ddce7.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/8fac4b88fccecebcaf4cdb2f1c4c6a800c6867223a8ca699bd71270231a9812b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ffd6be372fa7ce3201e82e3cc0487fa16.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1965,10 +1751,10 @@
           "url": "http://www.fool.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/coverage/charts/2026/11/03/nvidia-vs-sk-hynix-comparing-quarterly-revenue-trajectories/"
+          "url": "https://www.fool.com/investing/2026/11/04/is-the-ai-bubble-popping/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-sk-hynix-comparing-211643756.html"
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-popping-011638872.html"
         },
         "finance": {
           "premiumFinance": {
@@ -1976,14 +1762,241 @@
           },
           "stockTickers": [
             {
-              "symbol": "NVDA"
+              "symbol": "META"
             },
             {
-              "symbol": "SKHY"
+              "symbol": "SPCX"
+            },
+            {
+              "symbol": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "a25cebcf-5b75-3b76-9040-b60320a43330",
+      "content": {
+        "id": "a25cebcf-5b75-3b76-9040-b60320a43330",
+        "contentType": "STORY",
+        "title": "Top 3 Founder Led Stocks To Watch In November 2026",
+        "description": null,
+        "summary": "Elon Musk planning to spend US$100b on a new wireless network built for AI devices, drones and robots highlights how much personal conviction can reshape entire sectors. When founders still have skin in the game, they tend to think in decades, not quarters. This article looks at three founder steered stocks that fit that mindset and discusses how they might contribute to the resilience of a diversified portfolio. The three stocks highlighted here offer a compelling starting point if you want...",
+        "pubDate": "2026-11-05T01:12:04Z",
+        "displayTime": "2026-11-05T01:12:04Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/e70faf69adb58a11417039c474d60f34.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/simply_wall_st__316/e70faf69adb58a11417039c474d60f34.jpg",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/231dfbf51d1cca0096bec1fec1610e257bbb84b1ec2ebe37a48385f638efd902/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fe70faf69adb58a11417039c474d60f34.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-011204704.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-011204704.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "CXM"
+            },
+            {
+              "symbol": "0867"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "857b71d5-1fed-3fd9-8f8f-fe9f62d6ba3a",
+      "content": {
+        "id": "857b71d5-1fed-3fd9-8f8f-fe9f62d6ba3a",
+        "contentType": "STORY",
+        "title": "The Deal With Meta & OpenAI Just Cost AMD $1.1 Billion",
+        "description": null,
+        "summary": "The charge, equivalent to 66 cents per diluted share in AMD's earnings reconciliation, arrived as the chipmaker began shipping its new Instinct MI450 accelerators.",
+        "pubDate": "2026-11-05T00:14:01Z",
+        "displayTime": "2026-11-05T00:14:01Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/international_business_times_990/da0e73c12246cbf2c861f4e4edd71c1c.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/international_business_times_990/da0e73c12246cbf2c861f4e4edd71c1c.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/3c70701f5583e23f724ca6c12cca87976833bb86b194443e7cc840f26434f4ba/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finternational_business_times_990%2Fda0e73c12246cbf2c861f4e4edd71c1c.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "International Business Times",
+          "url": "https://www.ibtimes.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.ibtimes.com/amd-1-1-billion-charge-openai-meta-deals-3809435"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/deal-meta-openai-just-cost-001401130.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "OPAI.PVT"
+            },
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "a70033cc-dfbd-3348-a7db-61961ba0d326",
+      "content": {
+        "id": "a70033cc-dfbd-3348-a7db-61961ba0d326",
+        "contentType": "STORY",
+        "title": "What Is Walmart (WMT) Betting On With Its New AI Shopping Agent?",
+        "description": null,
+        "summary": "Walmart (NasdaqGS:WMT) is working with Meta to integrate the Muse AI shopping agent into its online retail experience. Muse will act as an AI-powered buyer assistant for Walmart customers, helping users plan and execute shopping journeys on Meta platforms. Amazon has blocked Meta's Muse agent from operating on its marketplace, in contrast to Walmart's decision to participate. Walmart's move to embrace Meta's Muse AI shopper, while Amazon blocks it, is worth weighing against the rest of our...",
+        "pubDate": "2026-11-04T23:16:46Z",
+        "displayTime": "2026-11-04T23:16:46Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/9d0b796bece5f4e76f0e4cec18111c63.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/simply_wall_st__316/9d0b796bece5f4e76f0e4cec18111c63.jpg",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/32c81d9035e02f3ec414d80062c42e803468a193b5c1d59e680c68a696fe14b9/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F9d0b796bece5f4e76f0e4cec18111c63.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/walmart-wmt-betting-ai-shopping-231646446.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/walmart-wmt-betting-ai-shopping-231646446.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "WMT"
+            },
+            {
+              "symbol": "META"
             },
             {
               "symbol": "AMZN"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "dfaed087-0297-398c-beab-e8879972102a",
+      "content": {
+        "id": "dfaed087-0297-398c-beab-e8879972102a",
+        "contentType": "STORY",
+        "title": "Facebook expands Creator Fast Track program to Brazil",
+        "description": null,
+        "summary": "The program offers incentives for creators not yet posting to Facebook, though the monetary incentives for Brazilian creators are significantly less than what the company offered in North America.",
+        "pubDate": "2026-11-04T22:56:01Z",
+        "displayTime": "2026-11-04T22:56:01Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/social_media_today_432/79b4da66253bc868d3119407d79bec18.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/social_media_today_432/79b4da66253bc868d3119407d79bec18.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
             },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/32a4e98dbd248c2ae1bbed06aaaf4824b876da26d8b353f19d809c16ceb08489/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsocial_media_today_432%2F79b4da66253bc868d3119407d79bec18.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Social Media Today",
+          "url": "https://www.socialmediatoday.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.socialmediatoday.com/news/facebook-expands-creator-fast-track-program-to-brazil/873821/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/media-advertising/articles/facebook-expands-creator-fast-track-225601738.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
             {
               "symbol": "META"
             }
@@ -1992,30 +2005,30 @@
       }
     },
     {
-      "id": "65f6ee66-4214-3f3e-87a8-3c3dfc130c78",
+      "id": "e1f8525b-f9a1-3f22-b186-6d5f5245b0a4",
       "content": {
-        "id": "65f6ee66-4214-3f3e-87a8-3c3dfc130c78",
+        "id": "e1f8525b-f9a1-3f22-b186-6d5f5245b0a4",
         "contentType": "STORY",
-        "title": "People Moves: Mercer Advisors Hires Wealth.com, Meta Alum as VP of Data",
+        "title": "Texas data centers face uncertain future after Hinojosa wins governor’s race",
         "description": null,
-        "summary": "In other moves, a technology veteran takes a new client experience role at Envestnet, Truist hires a new compliance chief, Fiduciary Trust hires a national trust lead, and DriveWealth promotes five.",
-        "pubDate": "2026-11-03T21:04:10Z",
-        "displayTime": "2026-11-03T21:04:10Z",
+        "summary": "By Laila Kearney and Nathan Crooks HOUSTON/NEW YORK, Nov 4 (Reuters) - Texas governor-elect Gina Hinojosa has rattled the state's data center industry with a campaign pledge to halt new projects, injecting new uncertainty into one of the country's fastest-growing markets for server warehouses worth billions of dollars. With plentiful energy supplies, relatively cheap land and a pro-business policy, Texas has become one of the leading regions in the world for data center developments.",
+        "pubDate": "2026-11-04T22:46:41Z",
+        "displayTime": "2026-11-04T22:46:41Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wealth_management_474/1cff69a1a299dc113d0467e2be896316.jpg",
+          "originalUrl": "https://media.zenfs.com/en/reuters.com/db3d4f4e41070ae4c974c756a2c2a5f4.jpg",
           "originalWidth": 800,
-          "originalHeight": 450,
+          "originalHeight": 544,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/wealth_management_474/1cff69a1a299dc113d0467e2be896316.jpg",
+              "url": "https://media.zenfs.com/en/reuters.com/db3d4f4e41070ae4c974c756a2c2a5f4.jpg",
               "width": 800,
-              "height": 450,
+              "height": 544,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/4f89e08be807dd8cb68ce2a43a59feeba484e14098783658f0e700563cb940d8/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_management_474%2F1cff69a1a299dc113d0467e2be896316.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/16bd4eee5c937d65a5d1aeabd499f372a2d97b7a3b4e94b7599bea7ac65cbeb4/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fdb3d4f4e41070ae4c974c756a2c2a5f4.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2023,14 +2036,14 @@
           ]
         },
         "provider": {
-          "displayName": "Wealth Management",
-          "url": "https://www.wealthmanagement.com/"
+          "displayName": "Reuters",
+          "url": "https://www.reuters.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.wealthmanagement.com/career-moves/people-moves-mercer-hires-meta-alum-as-vp-of-data"
+          "url": "https://finance.yahoo.com/technology/articles/texas-data-centers-face-uncertain-172340564.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/people-moves-mercer-advisors-hires-210410120.html"
+          "url": "https://finance.yahoo.com/technology/articles/texas-data-centers-face-uncertain-172340564.html"
         },
         "finance": {
           "premiumFinance": {
@@ -2039,149 +2052,42 @@
           "stockTickers": [
             {
               "symbol": "META"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "MSFT"
             }
           ]
         }
       }
     },
     {
-      "id": "3de61a32-b3db-3085-aba0-8c8b89589b6d",
+      "id": "ce60877f-7468-3f56-aae7-c200df47548a",
       "content": {
-        "id": "3de61a32-b3db-3085-aba0-8c8b89589b6d",
+        "id": "ce60877f-7468-3f56-aae7-c200df47548a",
         "contentType": "STORY",
-        "title": "A Dem Sweep Could Get the Bond Market’s Attention",
+        "title": "Snap Stock Falls on Earnings. Its Smart Glasses Offer No Quick Fix.",
         "description": null,
-        "summary": "A wider than expected victory by Democrats is one of the few election outcomes that could elicit reaction from the bond market.",
-        "pubDate": "2026-11-03T21:00:00Z",
-        "displayTime": "2026-11-03T21:00:00Z",
+        "summary": "Snap posted revenue of $1.72 billion, below analyst estimates of $1.73 billion, prompting a double-digit slide in the share price.",
+        "pubDate": "2026-11-04T22:11:00Z",
+        "displayTime": "2026-11-04T22:11:00Z",
         "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/3de61a32-b3db-3085-aba0-8c8b89589b6d/a-dem-sweep-could-get-the.html",
+        "previewUrl": "https://finance.yahoo.com/m/ce60877f-7468-3f56-aae7-c200df47548a/snap-stock-falls-on-earnings-.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-          "originalWidth": 320,
-          "originalHeight": 65,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-              "width": 320,
-              "height": 65,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/c438bd893025ed3ce3f67ac184863258bb5212e1077c30615cb322b4c3418a28/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F12ea0f43d8f8307249a68d1cb2e0587e.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/livecoverage/election-results-midterms-2026/card/a-dem-sweep-could-get-the-bond-market-s-attention-Z0VIhmSLOsNciIyo042T?siteid=yhoof2&yptr=yahoo"
-        },
-        "clickThroughUrl": null,
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "912ed3bd-13b0-3350-aee0-3c1671f5c414",
-      "content": {
-        "id": "912ed3bd-13b0-3350-aee0-3c1671f5c414",
-        "contentType": "STORY",
-        "title": "Aptos joins Solana and Ethereum in Bullish’s tokenized stock plan",
-        "description": null,
-        "summary": "Bullish picks Aptos as one of three networks for tokenized company shares, days after a 61-million-share test at the NYSE.",
-        "pubDate": "2026-11-03T20:57:07Z",
-        "displayTime": "2026-11-03T20:57:07Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/4df162c50712a9b222f4ac79ee602604.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/thestreet_881/4df162c50712a9b222f4ac79ee602604.jpg",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/7bea1bb1a2d37880255939ee190c60fd65715b1b32342dbe585821a383ca9d0a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F4df162c50712a9b222f4ac79ee602604.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.thestreet.com/crypto/innovation/aptos-joins-solana-and-ethereum-in-bullishs-tokenized-stock-plan"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/crypto/articles/aptos-joins-solana-ethereum-bullish-205707436.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "BLSH"
-            },
-            {
-              "symbol": "SOL-USD"
-            },
-            {
-              "symbol": "ETH-USD"
-            },
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "e0991a1b-93f8-36ac-ac31-fbf3376db76f",
-      "content": {
-        "id": "e0991a1b-93f8-36ac-ac31-fbf3376db76f",
-        "contentType": "STORY",
-        "title": "Williams Cos. Shrugs Off AI Data Center Jitters With Power Generation Ambitions",
-        "description": null,
-        "summary": "The company credited its 400 megawatt power deal with Meta for its optimistic guidance.",
-        "pubDate": "2026-11-03T20:46:00Z",
-        "displayTime": "2026-11-03T20:46:00Z",
-        "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/e0991a1b-93f8-36ac-ac31-fbf3376db76f/williams-cos-shrugs-off-ai.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/595c97815befd11806fe2df852e85cd6.jpg",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/380352b30d1ad91f0b45460046b5e363.jpg",
           "originalWidth": 1280,
           "originalHeight": 640,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/Barrons.com/595c97815befd11806fe2df852e85cd6.jpg",
+              "url": "https://media.zenfs.com/en/Barrons.com/380352b30d1ad91f0b45460046b5e363.jpg",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/b56bc231cae4699ac4bb3eabbcbef34f9e85caa24eb16e05a731699bca8df8bf/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F595c97815befd11806fe2df852e85cd6.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/862cb3bdc9b85adc435c1794983b7d1d9c4c0a31c17ef1ecfac335aac8d7d50c/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F380352b30d1ad91f0b45460046b5e363.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2193,7 +2099,7 @@
           "url": "http://www.barrons.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/williams-cos-earnings-stock-price-31f22075?siteid=yhoof2&yptr=yahoo"
+          "url": "https://www.barrons.com/articles/snap-stock-price-earnings-74f40b15?siteid=yhoof2&yptr=yahoo"
         },
         "clickThroughUrl": null,
         "finance": {
@@ -2202,13 +2108,72 @@
           },
           "stockTickers": [
             {
-              "symbol": "NG=F"
+              "symbol": "SNAP"
             },
             {
               "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "b2f5bfbe-8a61-36a9-8079-ac3d74e779cb",
+      "content": {
+        "id": "b2f5bfbe-8a61-36a9-8079-ac3d74e779cb",
+        "contentType": "STORY",
+        "title": "Alphabet Gains 3%, Amazon Up 6% as Big Tech Leads Post-Midterm Rebound",
+        "description": null,
+        "summary": "Key TakeawaysAlphabet rose 3% today as Big Tech, led by Amazon, rallied after the midterms. The bounce looks like relief, since a new Congress doesn’t fix the Search miss or negative free cash flow.",
+        "pubDate": "2026-11-04T21:51:04Z",
+        "displayTime": "2026-11-04T21:51:04Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/8f27cdfa40771215cbbf68a496fe1892",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/tikr_258/8f27cdfa40771215cbbf68a496fe1892",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
             },
             {
-              "symbol": "WMB"
+              "url": "https://s.yimg.com/lo/mysterio/api/d63d3e63de79246234f5a360a2edc3b8f59e98d043b24858cd5243fac3702fec/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F8f27cdfa40771215cbbf68a496fe1892",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.tikr.com/blog/alphabet-gains-3-amazon-up-6-as-big-tech-leads-post-midterm-rebound?ref=yahoofinance&tlnk=yf-261104-hc676726"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-gains-3-amazon-6-215104195.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "AMZN"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "VRT"
+            },
+            {
+              "symbol": "META"
             }
           ]
         }
