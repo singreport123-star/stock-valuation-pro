@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-11-05T01:55:34.241254"
+    "ts": "2026-11-06T01:56:38.976314"
   },
   "financials": {
     "annual": {
@@ -26705,6 +26705,41 @@
         "buy": 21085774,
         "name": "Foreign_Investor",
         "sell": 42689585
+      },
+      {
+        "date": "2026-11-05",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-11-05",
+        "stock_id": "2330",
+        "buy": 683500,
+        "name": "Dealer_self",
+        "sell": 384300
+      },
+      {
+        "date": "2026-11-05",
+        "stock_id": "2330",
+        "buy": 6005875,
+        "name": "Dealer_Hedging",
+        "sell": 1009488
+      },
+      {
+        "date": "2026-11-05",
+        "stock_id": "2330",
+        "buy": 22398730,
+        "name": "Foreign_Investor",
+        "sell": 32650830
+      },
+      {
+        "date": "2026-11-05",
+        "stock_id": "2330",
+        "buy": 2748441,
+        "name": "Investment_Trust",
+        "sell": 8800
       }
     ],
     "margin_trading": [],
@@ -26712,68 +26747,30 @@
   },
   "news": [
     {
-      "id": "3be8b7cd-9575-36bf-bfdd-3a8a43eb8665",
+      "id": "19156319-1d8e-43ec-b9f9-eee8451f6f56",
       "content": {
-        "id": "3be8b7cd-9575-36bf-bfdd-3a8a43eb8665",
+        "id": "19156319-1d8e-43ec-b9f9-eee8451f6f56",
         "contentType": "STORY",
-        "title": "TSMC Stocks Move Lower as November Sales Data Face a $53.3 Billion Quarterly Hurdle",
+        "title": "Nvidia has lost nearly $1.4 trillion since its October record",
         "description": null,
-        "summary": "The first monthly reading of the new quarter arrives November 10.",
-        "pubDate": "2026-11-04T15:15:37Z",
-        "displayTime": "2026-11-04T15:15:37Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-move-lower-november-151537685.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-move-lower-november-151537685.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "82b0ed01-e44f-3b67-90b7-a92f9ebcfb3d",
-      "content": {
-        "id": "82b0ed01-e44f-3b67-90b7-a92f9ebcfb3d",
-        "contentType": "STORY",
-        "title": "Better AI Semiconductor Monopoly Stock: Taiwan Semiconductor vs. ASML",
-        "description": null,
-        "summary": "ASML and TSMC sit at the top of the semiconductor supply chain, which explains why both of them have been experiencing phenomenal growth.",
-        "pubDate": "2026-11-04T15:15:00Z",
-        "displayTime": "2026-11-04T15:15:00Z",
+        "summary": "Nvidia is losing the most in S&P 500 stocks by value in Thursday's market rout, on track for a fifth straight week of losses.",
+        "pubDate": "2026-11-05T16:59:12Z",
+        "displayTime": "2026-11-05T21:42:02Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a33db3a59875864485439f1cef321740.png",
-          "originalWidth": 1290,
-          "originalHeight": 860,
+          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/2026-10/01b04b5e-924a-4051-be46-ff0e95c48597",
+          "originalWidth": 3616,
+          "originalHeight": 2416,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/motleyfool.com/a33db3a59875864485439f1cef321740.png",
-              "width": 1290,
-              "height": 860,
+              "url": "https://d29szjachogqwa.cloudfront.net/images/2026-10/01b04b5e-924a-4051-be46-ff0e95c48597",
+              "width": 3616,
+              "height": 2416,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/6edbb1e52af6a49554a9235aae431cb7880fb0524a1098424941d6ae478849c5/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa33db3a59875864485439f1cef321740.png",
+              "url": "https://s.yimg.com/lo/mysterio/api/4f05296548b7b68c407145480612d8bdc10320fbe8823e86f00df5e9f1a084d5/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F01b04b5e-924a-4051-be46-ff0e95c48597",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -26781,14 +26778,14 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
+          "displayName": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/04/better-ai-semiconductor-monopoly-stock-taiwan-semi/"
+          "url": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/better-ai-semiconductor-monopoly-stock-151500189.html"
+          "url": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html"
         },
         "finance": {
           "premiumFinance": {
@@ -26799,364 +26796,22 @@
               "symbol": "NVDA"
             },
             {
-              "symbol": "TSM"
+              "symbol": "^SOX"
             },
             {
-              "symbol": "ASML"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "4a357b8f-451e-3b56-ae14-2ef67f318aef",
-      "content": {
-        "id": "4a357b8f-451e-3b56-ae14-2ef67f318aef",
-        "contentType": "STORY",
-        "title": "4 Semiconductor Stocks to Buy as Q3 Sales Soar on Robust AI Demand",
-        "description": null,
-        "summary": "ADI, TSM, TXN and NVDA stand to benefit from soaring semiconductor sales, robust AI demand and heavy investment in AI infrastructure.",
-        "pubDate": "2026-11-04T13:44:00Z",
-        "displayTime": "2026-11-04T13:44:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/e1b1ba2aabc29bcae321c041d8df54e2.jpg",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/zacks.com/e1b1ba2aabc29bcae321c041d8df54e2.jpg",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
+              "symbol": "SNDK"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/10341132630047be7a4c520e78c04ff1752539190e632f02fe36146745713810/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2Fe1b1ba2aabc29bcae321c041d8df54e2.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-buy-q3-134400671.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-buy-q3-134400671.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "ADI"
-            },
-            {
-              "symbol": "TXN"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "78bc3fa4-46ba-3d74-8799-c13461e08d06",
-      "content": {
-        "id": "78bc3fa4-46ba-3d74-8799-c13461e08d06",
-        "contentType": "STORY",
-        "title": "Broadcom vs. Taiwan Semiconductor: Two AI Powerhouses, but One Offers a Better Value for 2027",
-        "description": null,
-        "summary": "Broadcom and Taiwan Semiconductor are two major beneficiaries of the AI boom, but their contrasting valuations and business models could make one a more compelling investment.",
-        "pubDate": "2026-11-04T10:50:02Z",
-        "displayTime": "2026-11-04T10:50:02Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/443f4cbc12fb3c683f7a81693bfa4d31.jpg",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/443f4cbc12fb3c683f7a81693bfa4d31.jpg",
-              "width": 1200,
-              "height": 675,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/571a48310ba9bd1794f65f0af496e457b0842f68347207cbf62544f8c8fb3c56/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F443f4cbc12fb3c683f7a81693bfa4d31.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/coverage/better-buy/2026/11/04/broadcom-vs-taiwan-semiconductor-two-ai-powerhouses-but-one-offers-a-better-value-for-2027/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-taiwan-semiconductor-two-105002854.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "AVGO"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "7f76641a-e14d-376c-8d74-875d23392171",
-      "content": {
-        "id": "7f76641a-e14d-376c-8d74-875d23392171",
-        "contentType": "STORY",
-        "title": "What Pinnacle West Capital (PNW) Said on Its Q3 Earnings Call",
-        "description": null,
-        "summary": "Pinnacle West Capital (NYSE:PNW) raised its full-year earnings and sales-growth outlook after reporting third-quarter results supported by stronger demand across customer classes, favorable weather and continued economic development in Arizona. The utility reported third-quarter earnings of $3.49 p",
-        "pubDate": "2026-11-04T07:14:24Z",
-        "displayTime": "2026-11-04T07:14:24Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/0093dc03c8206b344cb23a6b229aeca6.png",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/marketbeat_955/0093dc03c8206b344cb23a6b229aeca6.png",
-              "width": 1200,
-              "height": 675,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/b4769db5eaa0858e66e496fd56ff6d33dd9a9bf43f8f7a5c06b44301f58b4e26/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F0093dc03c8206b344cb23a6b229aeca6.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "MarketBeat",
-          "url": "https://www.marketbeat.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-what-pinnacle-west-capital-pnw-said-on-its-q3-earnings-call-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/pinnacle-west-capital-pnw-said-071424809.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "PNW"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "7035d4f6-d667-3bbe-a977-b22c17ce7b9d",
-      "content": {
-        "id": "7035d4f6-d667-3bbe-a977-b22c17ce7b9d",
-        "contentType": "STORY",
-        "title": "Pinnacle West Capital Corporation Q3 2026 Earnings Call Summary",
-        "description": null,
-        "summary": "Moby summary of Pinnacle West Capital Corporation's Q3 2026 earnings call",
-        "pubDate": "2026-11-03T22:01:24Z",
-        "displayTime": "2026-11-03T22:01:24Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/moby_896/ba182acb06220599efaac09bb4f1ae9f.png",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/moby_896/ba182acb06220599efaac09bb4f1ae9f.png",
-              "width": 1200,
-              "height": 675,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/dfe22aaad4d1b8a129bd077b43bef436a76d9f486379ebe7a4d09ffb50b3e3b0/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fba182acb06220599efaac09bb4f1ae9f.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Moby",
-          "url": "https://moby.co/"
-        },
-        "canonicalUrl": {
-          "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-pinnacle-west-capital-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-capital-corporation-q3-220124293.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "PNW"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "825828e9-0605-3ce8-b956-a3bc1edb6aec",
-      "content": {
-        "id": "825828e9-0605-3ce8-b956-a3bc1edb6aec",
-        "contentType": "STORY",
-        "title": "Taiwan Semi or Broadcom: If I Could Only Own 1 for the Next 5 Years, It Would Be This",
-        "description": null,
-        "summary": "Both stocks have more than tripled in three years, but only one of them gets paid no matter which AI chip designer comes out on top.",
-        "pubDate": "2026-11-03T16:20:00Z",
-        "displayTime": "2026-11-03T16:20:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/b3cb4dd57cdf09efbda4517fe27d055f.png",
-          "originalWidth": 1290,
-          "originalHeight": 860,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/b3cb4dd57cdf09efbda4517fe27d055f.png",
-              "width": 1290,
-              "height": 860,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/a104db2c8cceea56360721bb04cf204a9010576f3b222aa04a53c02a7f097337/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fb3cb4dd57cdf09efbda4517fe27d055f.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/03/taiwan-semi-or-broadcom-if-i-could-only-own-1-for/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-broadcom-could-only-162000092.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
+              "symbol": "AMD"
             },
             {
               "symbol": "AVGO"
             },
             {
-              "symbol": "NVDA"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "11b8e477-3015-3faf-9983-9906f693051d",
-      "content": {
-        "id": "11b8e477-3015-3faf-9983-9906f693051d",
-        "contentType": "STORY",
-        "title": "Until Next Gen Computing Implodes I’ll Keep Buying Taiwan Semiconductor",
-        "description": null,
-        "summary": "Every major AI chip designer races to out-innovate the others, but they all share one quiet dependency that most investors overlook entirely. Here is why one retirement portfolio keeps buying that dependency on every dip.",
-        "pubDate": "2026-11-03T15:45:30Z",
-        "displayTime": "2026-11-03T15:45:30Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/4250e59e48000bc79241118da6b7275d.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/4250e59e48000bc79241118da6b7275d.jpg",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
+              "symbol": "MU"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/836540e2e694636a1245b45cb2c57c26ce1da3f5f3755bb7ebdc202111ec3fdb/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4250e59e48000bc79241118da6b7275d.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/03/until-next-gen-computing-implodes-ill-keep-buying-taiwan-semiconductor/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/until-next-gen-computing-implodes-154530005.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "INTC"
+              "symbol": "ARM"
             },
             {
               "symbol": "TSM"
@@ -27166,30 +26821,30 @@
       }
     },
     {
-      "id": "5a4a3ca5-876c-3fcc-91ef-4dc5a0217826",
+      "id": "38e9539a-f4a0-3a37-9e20-4db9cf69a1c2",
       "content": {
-        "id": "5a4a3ca5-876c-3fcc-91ef-4dc5a0217826",
+        "id": "38e9539a-f4a0-3a37-9e20-4db9cf69a1c2",
         "contentType": "STORY",
-        "title": "AI Stocks Lose $5 Trillion in 3 Weeks as Hedge Funds Go Underweight AI for the First Time Since 2023",
+        "title": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
         "description": null,
-        "summary": "Hedge funds just staged their biggest retreat from stocks since at least 2017, and Goldman Sachs says the unwind looks closer to its start than its end. What happens when NVIDIA reports earnings could determine whether a $5 trillion wipeout stabilizes or accelerates.",
-        "pubDate": "2026-11-03T13:54:17Z",
-        "displayTime": "2026-11-03T13:54:17Z",
+        "summary": "For investors looking toward 2027, profitability and pricing power could matter more than ever.",
+        "pubDate": "2026-11-05T20:20:02Z",
+        "displayTime": "2026-11-05T20:20:02Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/728e36eefa8cd9710892cebe070d78cf.jpg",
-          "originalWidth": 1500,
-          "originalHeight": 843,
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/21ea9024110f3cc76847490a8fe9fa92.jpg",
+          "originalWidth": 2000,
+          "originalHeight": 1125,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/728e36eefa8cd9710892cebe070d78cf.jpg",
-              "width": 1500,
-              "height": 843,
+              "url": "https://media.zenfs.com/en/motleyfool.com/21ea9024110f3cc76847490a8fe9fa92.jpg",
+              "width": 2000,
+              "height": 1125,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/36f40c351ef9e4fd616fcb47f4c318ec08319931e59fb94bc5c5f92f6332fe93/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F728e36eefa8cd9710892cebe070d78cf.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/7bb248680f16b2e73aaf4f5fda78c5e40b3649b0f8ba2509a13837da4295df74/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F21ea9024110f3cc76847490a8fe9fa92.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27197,79 +26852,14 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/03/ai-stocks-lose-5-trillion-in-3-weeks-as-hedge-funds-go-underweight-ai-for-the-first-time-since-2023/"
+          "url": "https://www.fool.com/coverage/better-buy/2026/11/05/advanced-micro-devices-vs-taiwan-semiconductor-manufacturing-the-ai-sell-off-is-exposing-a-critical-difference-investors-shouldn-t-ignore-for-2027/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-lose-5-trillion-135417998.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "QQQ"
-            },
-            {
-              "symbol": "SPCX"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "208ce659-b6c4-31af-adf3-e4150746d04f",
-      "content": {
-        "id": "208ce659-b6c4-31af-adf3-e4150746d04f",
-        "contentType": "STORY",
-        "title": "AMD Fell 16% in a Month Before Earnings. Forecasts Call for 501% Profit Growth in Four Years",
-        "description": null,
-        "summary": "AMD has shed nearly a fifth of its value in a month while sitting on gigawatt-scale AI commitments from Anthropic, OpenAI, and Meta. Whether those deployments justify a 190x earnings multiple is exactly what earnings week will put to the test.",
-        "pubDate": "2026-11-03T12:17:48Z",
-        "displayTime": "2026-11-03T12:17:48Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/8b16e79cf4e05275a3c2fa92d3611298.png",
-          "originalWidth": 1200,
-          "originalHeight": 675,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/8b16e79cf4e05275a3c2fa92d3611298.png",
-              "width": 1200,
-              "height": 675,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/649adaddec68f17ed2bd51507cc2b36c86e5fb2c09f3de4f7e89e317ad570c6d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8b16e79cf4e05275a3c2fa92d3611298.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/03/amd-fell-16-in-a-month-before-earnings-forecasts-call-for-501-profit-growth-in-four-years/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-fell-16-month-earnings-121748887.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-202002562.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27280,22 +26870,449 @@
               "symbol": "AMD"
             },
             {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "6787389a-3f9f-3708-8dfd-b4b3cef66bb4",
+      "content": {
+        "id": "6787389a-3f9f-3708-8dfd-b4b3cef66bb4",
+        "contentType": "STORY",
+        "title": "TSMC Stocks Fall 7.46% Despite a $53.3 Billion Revenue Midpoint",
+        "description": null,
+        "summary": "Advanced manufacturing demand faces a market increasingly focused on infrastructure spending risk.",
+        "pubDate": "2026-11-05T18:58:27Z",
+        "displayTime": "2026-11-05T18:58:27Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-7-46-185827180.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-7-46-185827180.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "a60e6ee5-7181-3f59-9187-1a3fcab7f2f2",
+      "content": {
+        "id": "a60e6ee5-7181-3f59-9187-1a3fcab7f2f2",
+        "contentType": "STORY",
+        "title": "Not Nvidia. Not AMD. 2 Chip Stocks I'd Buy Before the End of the Year.",
+        "description": null,
+        "summary": "Micron and Taiwan Semiconductor are key suppliers to the computing unit designers.",
+        "pubDate": "2026-11-05T18:33:00Z",
+        "displayTime": "2026-11-05T18:33:00Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/e1b93940aa32edb534a6337853bc2c77.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/motleyfool.com/e1b93940aa32edb534a6337853bc2c77.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/c4e1e4c5a21476899cd6a03b32b5e6a54c5295a4058e137ce0b0847a90bb14b0/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe1b93940aa32edb534a6337853bc2c77.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/11/05/not-nvidia-not-amd-2-chip-stocks-id-buy-in-2026/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/not-nvidia-not-amd-2-183300386.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
               "symbol": "NVDA"
             },
             {
-              "symbol": "ANTH.PVT"
+              "symbol": "AMD"
             },
             {
-              "symbol": "OPAI.PVT"
+              "symbol": "TSM"
             },
             {
-              "symbol": "AVGO"
+              "symbol": "MU"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "f4727ecf-ee21-32d7-b896-93932de0febc",
+      "content": {
+        "id": "f4727ecf-ee21-32d7-b896-93932de0febc",
+        "contentType": "STORY",
+        "title": "TSMC Sinks 10%, UMC Down 16% as Chip Rout Deepens After Democrats’ Midterm Wins",
+        "description": null,
+        "summary": "Key TakeawaysTSMC fell 10% today, and UMC fell harder, as Democrats’ bigger-than-expected midterm wins fed fears of a slower AI build-out. UMC reported October revenue up 18.",
+        "pubDate": "2026-11-05T18:23:04Z",
+        "displayTime": "2026-11-05T18:23:04Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/41cd3166ae21d5294941925c99f24c70",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/tikr_258/41cd3166ae21d5294941925c99f24c70",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/138ca26b181374bad2eec73c193bd9344a0ce053ba795cdba290dcf924a6741e/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F41cd3166ae21d5294941925c99f24c70",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.tikr.com/blog/tsmc-sinks-10-umc-down-16-as-chip-rout-deepens-after-democrats-midterm-wins?ref=yahoofinance&tlnk=yf-261105-2p6jm4rj"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sinks-10-umc-down-182304636.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "UMC"
+            },
+            {
+              "symbol": "QCOM"
+            },
+            {
+              "symbol": "LRCX"
+            },
+            {
+              "symbol": "MU"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1d31c0d3-12e0-3ea2-842b-9c368d82d747",
+      "content": {
+        "id": "1d31c0d3-12e0-3ea2-842b-9c368d82d747",
+        "contentType": "STORY",
+        "title": "What Happens If You Invest $1,000 in AMD And Never Add Another Dollar?",
+        "description": null,
+        "summary": "AMD shares have swung more than 23% in a single month while sitting on a 127% year-to-date gain, leaving a one-time $1,000 bet pointing in two very different directions depending on which force wins out.",
+        "pubDate": "2026-11-05T17:03:16Z",
+        "displayTime": "2026-11-05T17:03:16Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/56a10f22ec3876e2edc5543315816693.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 767,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/56a10f22ec3876e2edc5543315816693.jpg",
+              "width": 1366,
+              "height": 767,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/d6cc5f2b8061fa8c3ac6f92efb1d6c080fa9ce1c26184f6f1b7f39adb906310f/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F56a10f22ec3876e2edc5543315816693.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/11/05/what-happens-if-you-invest-1000-in-amd-and-never-add-another-dollar/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/happens-invest-1-000-amd-170316799.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "INTC"
+            },
+            {
+              "symbol": "NVDA"
             },
             {
               "symbol": "META"
             },
             {
               "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "edaeb772-7856-334f-8c73-d23ff3150c3b",
+      "content": {
+        "id": "edaeb772-7856-334f-8c73-d23ff3150c3b",
+        "contentType": "STORY",
+        "title": "Nvidia vs. Taiwan Semiconductor: The AI Revolution Is Big Enough for Both. Here's the Better Buy.",
+        "description": null,
+        "summary": "These semiconductor giants are among the biggest beneficiaries of the AI chip boom, and they are expected to sustain solid growth levels over the long run.",
+        "pubDate": "2026-11-05T15:22:00Z",
+        "displayTime": "2026-11-05T15:22:00Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a7cd5507161c58d9e28b044dd083816d.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 787,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/motleyfool.com/a7cd5507161c58d9e28b044dd083816d.jpg",
+              "width": 1400,
+              "height": 787,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/9f365e30689619e5d7293179cef811e712101c65ff910a7d8ef2e3d74888d021/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa7cd5507161c58d9e28b044dd083816d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/11/05/nvidia-vs-taiwan-semiconductor-the-ai-revolution-i/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-taiwan-semiconductor-ai-152200427.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35f2ffd4-9ac5-3bdc-8838-23ac2ec4c41b",
+      "content": {
+        "id": "35f2ffd4-9ac5-3bdc-8838-23ac2ec4c41b",
+        "contentType": "STORY",
+        "title": "TSMC’s AI Opportunity Is Expanding. Here’s the Question That Matters for Its Stock Price",
+        "description": null,
+        "summary": "TSMC just posted its third straight earnings beat while AI demand outstrips supply, yet shares have dropped nearly 11% in a month. One question from the CFO's own playbook now determines whether the stock recovers or stalls from here.",
+        "pubDate": "2026-11-05T13:33:37Z",
+        "displayTime": "2026-11-05T13:33:37Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/c2803ec1a1b397f4fcd4c60435b4d6a1.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/c2803ec1a1b397f4fcd4c60435b4d6a1.jpg",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/be4468ace04e2950b8ee89b0c78112e6e1c39e061731574166a5fb132e713cd1/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fc2803ec1a1b397f4fcd4c60435b4d6a1.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/11/05/tsmcs-ai-opportunity-is-expanding-heres-the-question-that-matters-for-its-stock-price/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-ai-opportunity-expanding-matters-133337251.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "AVGO"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "171040dc-ce8a-3416-9715-b1c1d4b1ebe0",
+      "content": {
+        "id": "171040dc-ce8a-3416-9715-b1c1d4b1ebe0",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor (TSM) Sees $146.2 Million in Net ETF Buying on Nov. 3",
+        "description": null,
+        "summary": "ETFs bought $146.2 million of Taiwan Semiconductor stock in Tuesday's session.",
+        "pubDate": "2026-11-05T11:00:42Z",
+        "displayTime": "2026-11-05T11:00:42Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-sees-146-110042936.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-sees-146-110042936.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "e4580b0c-79c3-3d9b-b568-1b6f240083c4",
+      "content": {
+        "id": "e4580b0c-79c3-3d9b-b568-1b6f240083c4",
+        "contentType": "STORY",
+        "title": "Better Foundry Stock: Taiwan Semiconductor vs. Intel",
+        "description": null,
+        "summary": "The better foundry stock looks like a clear choice.",
+        "pubDate": "2026-11-05T10:35:00Z",
+        "displayTime": "2026-11-05T10:35:00Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5f3f9e1d4113f2d3769d01dbd8f7d574.png",
+          "originalWidth": 1290,
+          "originalHeight": 860,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/motleyfool.com/5f3f9e1d4113f2d3769d01dbd8f7d574.png",
+              "width": 1290,
+              "height": 860,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/f4af1df236c1ddf1acf656aeb08864d72675a9a9bdcfe26a6322d53f2b37c17b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F5f3f9e1d4113f2d3769d01dbd8f7d574.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/11/05/better-foundry-stock-taiwan-semiconductor-vs-intel/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/better-foundry-stock-taiwan-semiconductor-103500972.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "INTC"
             }
           ]
         }
@@ -27408,74 +27425,74 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2260.0,
-    "open": 2250.0,
-    "dayLow": 2245.0,
-    "dayHigh": 2285.0,
-    "regularMarketPreviousClose": 2260.0,
-    "regularMarketOpen": 2250.0,
-    "regularMarketDayLow": 2245.0,
-    "regularMarketDayHigh": 2285.0,
+    "previousClose": 2240.0,
+    "open": 2020.0,
+    "dayLow": 2020.0,
+    "dayHigh": 2080.0,
+    "regularMarketPreviousClose": 2240.0,
+    "regularMarketOpen": 2020.0,
+    "regularMarketDayLow": 2020.0,
+    "regularMarketDayHigh": 2080.0,
     "dividendRate": 28.0,
-    "dividendYield": 1.22,
+    "dividendYield": 1.24,
     "exDividendDate": 1796860800,
     "payoutRatio": 0.24620001,
     "fiveYearAvgDividendYield": 1.5,
     "beta": 1.233,
-    "trailingPE": 23.598665,
-    "forwardPE": 15.147014,
-    "volume": 10665193,
-    "regularMarketVolume": 10665193,
-    "averageVolume": 21086624,
-    "averageVolume10days": 26683341,
-    "averageDailyVolume10Day": 26683341,
-    "bid": 2265.0,
-    "ask": 2270.0,
+    "trailingPE": 21.478107,
+    "forwardPE": 13.876404,
+    "volume": 43189196,
+    "regularMarketVolume": 43189196,
+    "averageVolume": 21166593,
+    "averageVolume10days": 28231470,
+    "averageDailyVolume10Day": 28231470,
+    "bid": 2075.0,
+    "ask": 2080.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 58736819306496,
-    "nonDilutedMarketCap": 59514789303765,
+    "marketCap": 53809665540096,
+    "nonDilutedMarketCap": 58607156351420,
     "fiftyTwoWeekLow": 1375.0,
     "fiftyTwoWeekHigh": 2590.0,
     "allTimeHigh": 2590.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2265.0,
-    "fulldayChange": 5.0,
-    "fulldayChangePercent": 0.22123894,
-    "priceToSalesTrailing12Months": 11.878462,
-    "fiftyDayAverage": 2439.2,
-    "twoHundredDayAverage": 2222.825,
+    "fulldayPrice": 2075.0,
+    "fulldayChange": -165.0,
+    "fulldayChangePercent": -7.366071,
+    "priceToSalesTrailing12Months": 10.882033,
+    "fiftyDayAverage": 2435.7,
+    "twoHundredDayAverage": 2225.225,
     "trailingAnnualDividendRate": 6.0,
-    "trailingAnnualDividendYield": 0.0026548672,
+    "trailingAnnualDividendYield": 0.0026785715,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 55407720529920,
+    "enterpriseValue": 54889078063104,
     "profitMargins": 0.51116,
     "floatShares": 23651539920,
     "sharesOutstanding": 25932370067,
     "heldPercentInsiders": 0.06426,
-    "heldPercentInstitutions": 0.43308,
+    "heldPercentInstitutions": 0.43310001,
     "impliedSharesOutstanding": 25932370067,
     "bookValue": 271.604,
-    "priceToBook": 8.339347,
+    "priceToBook": 7.639799,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1790726400,
     "earningsQuarterlyGrowth": 0.687,
     "netIncomeToCommon": 2527570952192,
-    "trailingEps": 95.98,
+    "trailingEps": 96.61,
     "forwardEps": 149.53442,
-    "pegRatio": 0.64,
+    "pegRatio": 0.62,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 11.205,
-    "enterpriseToEbitda": 15.342,
-    "52WeekChange": 0.54794526,
-    "SandP52WeekChange": 0.11368406,
+    "enterpriseToRevenue": 11.1,
+    "enterpriseToEbitda": 15.199,
+    "52WeekChange": 0.5290103,
+    "SandP52WeekChange": 0.1440854,
     "lastDividendValue": 7.0,
     "lastDividendDate": 1796860800,
     "quoteType": "EQUITY",
-    "currentPrice": 2265.0,
+    "currentPrice": 2075.0,
     "targetHighPrice": 5000.0,
     "targetLowPrice": 2700.0,
     "targetMeanPrice": 3409.8,
@@ -27510,50 +27527,50 @@
     "quoteSourceName": "Delayed Quote",
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
-    "corporateActions": [],
     "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
     "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "regularMarketTime": 1793842533,
+    "marketState": "REGULAR",
+    "corporateActions": [],
+    "regularMarketTime": 1793928997,
     "exchange": "TAI",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
     "exchangeTimezoneShortName": "CST",
-    "gmtOffSetMilliseconds": 28800000,
-    "market": "tw_market",
-    "esgPopulated": false,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": 5.0,
-    "regularMarketChangePercent": 0.22123894,
-    "regularMarketPrice": 2265.0,
-    "regularMarketDayRange": "2245.0 - 2285.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 21086624,
-    "fiftyTwoWeekLowChange": 890.0,
-    "fiftyTwoWeekLowChangePercent": 0.6472727,
-    "fiftyTwoWeekRange": "1375.0 - 2590.0",
-    "fiftyTwoWeekHighChange": -325.0,
-    "fiftyTwoWeekHighChangePercent": -0.12548262,
-    "fiftyTwoWeekChangePercent": 54.794525,
-    "earningsTimestamp": 1792042200,
-    "earningsTimestampStart": 1799904600,
-    "earningsTimestampEnd": 1799904600,
-    "earningsCallTimestampStart": 1792044000,
     "earningsCallTimestampEnd": 1792044000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 95.98,
+    "epsTrailingTwelveMonths": 96.61,
     "epsForward": 149.53442,
     "epsCurrentYear": 110.54858,
-    "priceEpsCurrentYear": 20.488731,
-    "fiftyDayAverageChange": -174.19995,
-    "fiftyDayAverageChangePercent": -0.07141684,
-    "twoHundredDayAverageChange": 42.17505,
-    "twoHundredDayAverageChangePercent": 0.018973626,
+    "priceEpsCurrentYear": 18.77003,
+    "fiftyDayAverageChange": -360.69995,
+    "fiftyDayAverageChangePercent": -0.14808883,
+    "twoHundredDayAverageChange": -150.2251,
+    "twoHundredDayAverageChangePercent": -0.06751007,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
-    "marketState": "REGULAR",
-    "trailingPegRatio": 0.6364
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": -165.0,
+    "regularMarketChangePercent": -7.366071,
+    "regularMarketPrice": 2075.0,
+    "regularMarketDayRange": "2020.0 - 2080.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 21166593,
+    "fiftyTwoWeekLowChange": 700.0,
+    "fiftyTwoWeekLowChangePercent": 0.5090909,
+    "fiftyTwoWeekRange": "1375.0 - 2590.0",
+    "fiftyTwoWeekHighChange": -515.0,
+    "fiftyTwoWeekHighChangePercent": -0.1988417,
+    "fiftyTwoWeekChangePercent": 52.90103,
+    "earningsTimestamp": 1792042200,
+    "earningsTimestampStart": 1799904600,
+    "earningsTimestampEnd": 1799904600,
+    "earningsCallTimestampStart": 1792044000,
+    "gmtOffSetMilliseconds": 28800000,
+    "market": "tw_market",
+    "esgPopulated": false,
+    "trailingPegRatio": 0.6192
   }
 }
