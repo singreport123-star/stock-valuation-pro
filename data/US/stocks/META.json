@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-11-06T01:56:44.339529",
+    "ts": "2026-11-07T01:29:28.796608",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -98,47 +98,47 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 630.0,
-    "open": 632.3,
-    "dayLow": 583.9798,
-    "dayHigh": 634.99,
-    "regularMarketPreviousClose": 630.0,
-    "regularMarketOpen": 632.3,
-    "regularMarketDayLow": 583.9798,
-    "regularMarketDayHigh": 634.99,
+    "previousClose": 605.08,
+    "open": 607.33,
+    "dayLow": 606.82,
+    "dayHigh": 625.55,
+    "regularMarketPreviousClose": 605.08,
+    "regularMarketOpen": 607.33,
+    "regularMarketDayLow": 606.82,
+    "regularMarketDayHigh": 625.55,
     "dividendRate": 2.1,
-    "dividendYield": 0.33,
+    "dividendYield": 0.35,
     "exDividendDate": 1789948800,
     "payoutRatio": 0.0716,
     "beta": 1.279,
-    "trailingPE": 20.64415,
-    "forwardPE": 17.002434,
-    "volume": 28382653,
-    "regularMarketVolume": 28382653,
-    "averageVolume": 20767220,
-    "averageVolume10days": 29503170,
-    "averageDailyVolume10Day": 29503170,
-    "bid": 590.0,
-    "ask": 639.3,
-    "bidSize": 5,
+    "trailingPE": 20.81713,
+    "forwardPE": 17.144897,
+    "volume": 15657463,
+    "regularMarketVolume": 15657463,
+    "averageVolume": 21028210,
+    "averageVolume10days": 28297560,
+    "averageDailyVolume10Day": 28297560,
+    "bid": 603.87,
+    "ask": 634.47,
+    "bidSize": 1,
     "askSize": 1,
-    "marketCap": 1547088560128,
-    "nonDilutedMarketCap": 1587870019104,
+    "marketCap": 1560051712000,
+    "nonDilutedMarketCap": 1547088532212,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 779.82,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 605.08,
-    "fulldayChange": -25.099976,
-    "fulldayChangePercent": -3.984123,
-    "priceToSalesTrailing12Months": 6.40338,
-    "fiftyDayAverage": 673.5584,
-    "twoHundredDayAverage": 632.1657,
+    "fulldayPrice": 610.15,
+    "fulldayChange": 6.919983,
+    "fulldayChangePercent": 1.1436476,
+    "priceToSalesTrailing12Months": 6.457034,
+    "fiftyDayAverage": 674.1372,
+    "twoHundredDayAverage": 632.1263,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0033333332,
+    "trailingAnnualDividendYield": 0.0034706153,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1580631588864,
+    "enterpriseValue": 1592083611648,
     "profitMargins": 0.31145,
     "floatShares": 2211148684,
     "sharesOutstanding": 2214455318,
@@ -148,12 +148,12 @@
     "dateShortInterest": 1792022400,
     "sharesPercentSharesOut": 0.0111,
     "heldPercentInsiders": 0.00132,
-    "heldPercentInstitutions": 0.77463996,
+    "heldPercentInstitutions": 0.77459,
     "shortRatio": 1.32,
     "shortPercentOfFloat": 0.0128,
     "impliedSharesOutstanding": 2556833034,
     "bookValue": 106.567,
-    "priceToBook": 5.6779304,
+    "priceToBook": 5.7255063,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1790726400,
@@ -161,15 +161,15 @@
     "netIncomeToCommon": 75249000448,
     "trailingEps": 29.31,
     "forwardEps": 35.58785,
-    "pegRatio": 0.82,
-    "enterpriseToRevenue": 6.542,
-    "enterpriseToEbitda": 13.604,
-    "52WeekChange": 0.017869234,
-    "SandP52WeekChange": 0.1440854,
+    "pegRatio": 0.79,
+    "enterpriseToRevenue": 6.59,
+    "enterpriseToEbitda": 13.702,
+    "52WeekChange": -0.026748776,
+    "SandP52WeekChange": 0.09287393,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1789948800,
     "quoteType": "EQUITY",
-    "currentPrice": 605.08,
+    "currentPrice": 610.15,
     "targetHighPrice": 1050.0,
     "targetLowPrice": 629.06,
     "targetMeanPrice": 848.3765,
@@ -205,32 +205,25 @@
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
     "marketState": "POSTPOST",
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EST",
-    "gmtOffSetMilliseconds": -18000000,
-    "market": "us_market",
-    "esgPopulated": false,
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.077358134,
-    "postMarketPrice": 605.5481,
-    "postMarketChange": 0.4680786,
-    "regularMarketChange": -24.92,
-    "regularMarketChangePercent": -3.95555,
-    "regularMarketPrice": 605.08,
-    "regularMarketDayRange": "583.9798 - 634.99",
+    "postMarketChangePercent": 0.30320013,
+    "postMarketPrice": 612.0,
+    "postMarketChange": 1.8499756,
+    "regularMarketChange": 5.07001,
+    "regularMarketChangePercent": 0.837907,
+    "regularMarketPrice": 610.15,
+    "regularMarketDayRange": "606.82 - 625.55",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 20767220,
-    "fiftyTwoWeekLowChange": 84.82001,
-    "fiftyTwoWeekLowChangePercent": 0.16303387,
+    "averageDailyVolume3Month": 21028210,
+    "fiftyTwoWeekLowChange": 89.890015,
+    "fiftyTwoWeekLowChangePercent": 0.17277902,
     "fiftyTwoWeekRange": "520.26 - 779.82",
-    "fiftyTwoWeekHighChange": -174.73999,
-    "fiftyTwoWeekHighChangePercent": -0.22407734,
-    "fiftyTwoWeekChangePercent": 1.7869234,
+    "fiftyTwoWeekHighChange": -169.66998,
+    "fiftyTwoWeekHighChangePercent": -0.21757583,
+    "fiftyTwoWeekChangePercent": -2.6748776,
     "dividendDate": 1790553600,
     "earningsTimestamp": 1792612800,
     "earningsTimestampStart": 1801083600,
@@ -241,23 +234,30 @@
     "epsTrailingTwelveMonths": 29.31,
     "epsForward": 35.58785,
     "epsCurrentYear": 29.89229,
-    "priceEpsCurrentYear": 20.24201,
-    "fiftyDayAverageChange": -68.47839,
-    "fiftyDayAverageChangePercent": -0.1016666,
-    "twoHundredDayAverageChange": -27.085693,
-    "twoHundredDayAverageChangePercent": -0.042845875,
+    "priceEpsCurrentYear": 20.41162,
+    "fiftyDayAverageChange": -63.987183,
+    "fiftyDayAverageChangePercent": -0.09491715,
+    "twoHundredDayAverageChange": -21.976257,
+    "twoHundredDayAverageChangePercent": -0.034765612,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 15,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-11-05",
+    "nameChangeDate": "2026-11-06",
     "averageAnalystRating": "1.4 - Strong Buy",
     "cryptoTradeable": false,
     "corporateActions": [],
-    "postMarketTime": 1793926796,
-    "regularMarketTime": 1793912402,
+    "postMarketTime": 1794013174,
+    "regularMarketTime": 1793998801,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "gmtOffSetMilliseconds": -18000000,
+    "market": "us_market",
+    "esgPopulated": false,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8113
+    "trailingPegRatio": 0.7905
   },
   "financial_statements": {
     "income": {
@@ -1558,151 +1558,30 @@
   },
   "news": [
     {
-      "id": "e62afe5b-9d15-3574-b084-cdeca875f46a",
+      "id": "3956f9fa-4214-3746-ab58-5e9557c02b2c",
       "content": {
-        "id": "e62afe5b-9d15-3574-b084-cdeca875f46a",
+        "id": "3956f9fa-4214-3746-ab58-5e9557c02b2c",
         "contentType": "STORY",
-        "title": "GE Vernova Is Up 18% in 2026 After Three Guidance Raises: Take Profits, or Buy More?",
+        "title": "If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One",
         "description": null,
-        "summary": "Key TakeawaysGE Vernova stock is up 18% in 2026, but it has slid since early July even though the company raised its 2026 guidance three times. The selling came from outside the company: Meta’s spending results and Democrats’ win in Congress hit AI power stocks, Vertiv included.",
-        "pubDate": "2026-11-06T00:50:25Z",
-        "displayTime": "2026-11-06T00:50:25Z",
+        "summary": "Artificial intelligence (AI) stocks are plunging following the results of the midterm elections.",
+        "pubDate": "2026-11-06T23:11:44Z",
+        "displayTime": "2026-11-06T23:11:44Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/29eb42c59ae9319d44013eadeb9eee9f",
-          "originalWidth": 1280,
-          "originalHeight": 720,
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/8b9f9cc1931a48f8ceced7ada9595f55.jpg",
+          "originalWidth": 1290,
+          "originalHeight": 860,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/29eb42c59ae9319d44013eadeb9eee9f",
-              "width": 1280,
-              "height": 720,
+              "url": "https://media.zenfs.com/en/motleyfool.com/8b9f9cc1931a48f8ceced7ada9595f55.jpg",
+              "width": 1290,
+              "height": 860,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/d7060a009b2de8a98d3d05235e837a225f19e76b628dc642438fb12da7444ac8/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F29eb42c59ae9319d44013eadeb9eee9f",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/ge-vernova-is-up-18-in-2026-after-three-guidance-raises-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261105-wg2jv6gx"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-18-2026-three-005025818.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "GEV"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "ETN"
-            },
-            {
-              "symbol": "VRT"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "5aae7963-b2ca-306d-8163-e89686ebb3e3",
-      "content": {
-        "id": "5aae7963-b2ca-306d-8163-e89686ebb3e3",
-        "contentType": "STORY",
-        "title": "Apple, Alphabet, and Meta: 3 Big Takeaways from Recent Earnings",
-        "description": null,
-        "summary": "AI remains a major driving force behind the results, particularly for Alphabet's Cloud business and Meta's advertising operations. And with Apple continuing to post records across its core offerings, the broader growth picture for these technology giants remains constructive.",
-        "pubDate": "2026-11-05T23:00:00Z",
-        "displayTime": "2026-11-05T23:00:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/7e65418edbf7491f843b8e0de38cb899.jpg",
-          "originalWidth": 635,
-          "originalHeight": 400,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/zacks.com/7e65418edbf7491f843b8e0de38cb899.jpg",
-              "width": 635,
-              "height": 400,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/a713be3d3502980faf14def45aab7e5342847e43bb21c0340987ec83a7a54cb1/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F7e65418edbf7491f843b8e0de38cb899.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-meta-3-big-230000891.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-meta-3-big-230000891.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "AAPL"
-            },
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d6e4a74f-532d-3e1a-8d92-06819fcffc17",
-      "content": {
-        "id": "d6e4a74f-532d-3e1a-8d92-06819fcffc17",
-        "contentType": "STORY",
-        "title": "1 Unstoppable Cryptocurrency That Could Join Bitcoin in the $1 Trillion Club",
-        "description": null,
-        "summary": "If Solana can replace Ethereum as the top Layer-1 blockchain network, then it has a potential path to a $1 trillion valuation.",
-        "pubDate": "2026-11-05T22:51:00Z",
-        "displayTime": "2026-11-05T22:51:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/8e8a9740271eece2dd727260513ce816.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/8e8a9740271eece2dd727260513ce816.jpg",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/8c0f394de6946c7a3401d2b708b1cfd12891e29ad601e139fcc73808cc004e0d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F8e8a9740271eece2dd727260513ce816.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/bec6044abe474f81887703e4e8b251af309fac89d65bf609c592a8f2a6a4f927/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F8b9f9cc1931a48f8ceced7ada9595f55.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1714,140 +1593,66 @@
           "url": "http://www.fool.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/05/1-cryptocurrency-with-trillion-dollar-potential/"
+          "url": "https://www.fool.com/investing/2026/11/06/if-i-could-buy-and-hold-only-1-artificial-intellig/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/crypto/articles/1-unstoppable-cryptocurrency-could-join-225100527.html"
+          "url": "https://finance.yahoo.com/technology/ai/articles/could-buy-hold-only-1-231144276.html"
         },
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false
           },
           "stockTickers": [
-            {
-              "symbol": "SOL-USD"
-            },
-            {
-              "symbol": "BTC-USD"
-            },
             {
               "symbol": "NVDA"
-            },
-            {
-              "symbol": "TSLA"
-            },
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "3a3316db-1da2-34f3-9bd5-58ef50da8872",
-      "content": {
-        "id": "3a3316db-1da2-34f3-9bd5-58ef50da8872",
-        "contentType": "STORY",
-        "title": "dYdX Team’s Arcus Opens Stock-Token Collateral to All Perps Traders, With a $20,000 Cap",
-        "description": null,
-        "summary": "The Robinhood Chain exchange dropped the $25 million volume requirement from its October early access, but non-USDG deposits stay capped at $20,000 per trader and $2 million overall.",
-        "pubDate": "2026-11-05T21:25:56Z",
-        "displayTime": "2026-11-05T21:25:56Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/unchained_510/d6642cd27247057da07c090a4044e70b.png",
-          "originalWidth": 1536,
-          "originalHeight": 864,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/unchained_510/d6642cd27247057da07c090a4044e70b.png",
-              "width": 1536,
-              "height": 864,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/0befc6c806db29d83c3b88cb3cc2e0f5cddfbc5c2fdcbb7d7c08edf478a80201/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2Fd6642cd27247057da07c090a4044e70b.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Unchained",
-          "url": "https://unchainedcrypto.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://unchainedcrypto.com/dydx-teams-arcus-opens-stock-token-collateral-to-all-perps-traders-with-a-20000-cap/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/crypto/articles/dydx-team-arcus-opens-stock-212556154.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "ETHDYDX-USD"
-            },
-            {
-              "symbol": "WETH-USD"
-            },
-            {
-              "symbol": "USDG33793-USD"
-            },
-            {
-              "symbol": "QQQ"
-            },
-            {
-              "symbol": "AAPL"
-            },
-            {
-              "symbol": "MSFT"
             },
             {
               "symbol": "GOOG"
             },
             {
+              "symbol": "MSFT"
+            },
+            {
               "symbol": "AMZN"
             },
             {
-              "symbol": "NVDA"
+              "symbol": "META"
             },
             {
-              "symbol": "META"
+              "symbol": "TSLA"
+            },
+            {
+              "symbol": "SPCX"
             }
           ]
         }
       }
     },
     {
-      "id": "12c89445-f84d-308c-a32e-1b9535c6322f",
+      "id": "f6bb533b-3d0c-39bc-adfc-c5131b00ffb9",
       "content": {
-        "id": "12c89445-f84d-308c-a32e-1b9535c6322f",
+        "id": "f6bb533b-3d0c-39bc-adfc-c5131b00ffb9",
         "contentType": "STORY",
-        "title": "SpaceX Stock Is Still Falling. It Trades at Apple’s Valuation.",
+        "title": "Nuclear Reactor Firm Oklo Beats Earnings Expectations. That’s Not Why the Stock Is Up.",
         "description": null,
-        "summary": "China Renaissance initiates coverage of SpaceX with a Buy rating and a $194.20 price target,",
-        "pubDate": "2026-11-05T21:20:00Z",
-        "displayTime": "2026-11-05T21:20:00Z",
+        "summary": "It’s making progress on bringing its Aurora reactors to market and has secured key deals.",
+        "pubDate": "2026-11-06T23:07:00Z",
+        "displayTime": "2026-11-06T23:07:00Z",
         "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/12c89445-f84d-308c-a32e-1b9535c6322f/spacex-stock-is-still.html",
+        "previewUrl": "https://finance.yahoo.com/m/f6bb533b-3d0c-39bc-adfc-c5131b00ffb9/nuclear-reactor-firm-oklo.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/1383ef12463fbb7e642cab80000ba093.jpg",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/7df954869b6510dee3e989d13ce2c070.jpg",
           "originalWidth": 1280,
           "originalHeight": 640,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/Barrons.com/1383ef12463fbb7e642cab80000ba093.jpg",
+              "url": "https://media.zenfs.com/en/Barrons.com/7df954869b6510dee3e989d13ce2c070.jpg",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/4b357b8467663a8b231ae3e39969dfe5b736714b1a07c57f9609474b7762c50f/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F1383ef12463fbb7e642cab80000ba093.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/257f5b615d846419d6d4335d4e739eae0f6aa84fa4dbd6bb01ad39a5eadd59d2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F7df954869b6510dee3e989d13ce2c070.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1859,7 +1664,7 @@
           "url": "http://www.barrons.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/spacex-stock-buy-rating-cathie-wood-e46d26d7?siteid=yhoof2&yptr=yahoo"
+          "url": "https://www.barrons.com/articles/oklo-earnings-stock-price-2be6ef11?siteid=yhoof2&yptr=yahoo"
         },
         "clickThroughUrl": null,
         "finance": {
@@ -1868,13 +1673,259 @@
           },
           "stockTickers": [
             {
-              "symbol": "SPCX"
+              "symbol": "OKLO"
             },
+            {
+              "symbol": "OPAI.PVT"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "TFC"
+            },
+            {
+              "symbol": "TCBI"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "58b63027-1188-314c-9a35-d2d124509f0f",
+      "content": {
+        "id": "58b63027-1188-314c-9a35-d2d124509f0f",
+        "contentType": "STORY",
+        "title": "Should You Be Worried About Booking Holdings Stock?",
+        "description": null,
+        "summary": "For questions about this article or underlying research, email help@trefis.com.",
+        "pubDate": "2026-11-06T22:59:32Z",
+        "displayTime": "2026-11-06T22:59:32Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/da7996f369222351e0cf1b6271fba55a.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1442,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/da7996f369222351e0cf1b6271fba55a.jpg",
+              "width": 1920,
+              "height": 1442,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/e64ba54fd2472c9ee403291764df0e4e35da770bbbd1ff34cfac81623051afd7/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fda7996f369222351e0cf1b6271fba55a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/bkng/articles/623212/should-you-be-worried-about-booking-holdings-stock/2026-11-06"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/worried-booking-holdings-stock-225932951.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "BKNG"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "ABNB"
+            },
+            {
+              "symbol": "EXPE"
+            },
+            {
+              "symbol": "H"
+            },
+            {
+              "symbol": "TRIP"
+            },
+            {
+              "symbol": "TRV"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "5b6acff9-f484-3a35-b72c-be0a32c4f690",
+      "content": {
+        "id": "5b6acff9-f484-3a35-b72c-be0a32c4f690",
+        "contentType": "STORY",
+        "title": "Meta Pauses Data-Scraping Terms Following Publisher Criticism",
+        "description": null,
+        "summary": "Meta has indefinitely delayed proposed terms that would have allowed Instagram and Facebook to scrape the websites of Meta Business account holders for the company's AI model training purposes.",
+        "pubDate": "2026-11-06T22:29:34Z",
+        "displayTime": "2026-11-06T22:29:34Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "MediaPost",
+          "url": "https://www.mediapost.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.mediapost.com/publications/article/419294/meta-pauses-data-scraping-terms-following-publishe.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/media-advertising/articles/meta-pauses-data-scraping-terms-222934008.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "aeb920dc-4bcd-3531-8458-6a642b7135df",
+      "content": {
+        "id": "aeb920dc-4bcd-3531-8458-6a642b7135df",
+        "contentType": "STORY",
+        "title": "Tech Stock Sell-Off 'Golden Buying Opportunity,' Says Dan Ives",
+        "description": null,
+        "summary": "The tech stock sell-off presents a \"golden buying opportunity\" for investors to buy marquee stocks like Apple, Microsoft and Nvidia, one analyst says.",
+        "pubDate": "2026-11-06T21:46:35Z",
+        "displayTime": "2026-11-06T21:46:35Z",
+        "isHosted": false,
+        "previewUrl": "https://finance.yahoo.com/m/aeb920dc-4bcd-3531-8458-6a642b7135df/tech-stock-sell-off-golden.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ibd.com/f47d35effee5446c96332115f932a149.jpg",
+          "originalWidth": 1000,
+          "originalHeight": 563,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/ibd.com/f47d35effee5446c96332115f932a149.jpg",
+              "width": 1000,
+              "height": 563,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/322e16a44d6475f438b29e3c190d1efdf35ff91cb668c462a1f0b3844a0b6ad6/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fibd.com%2Ff47d35effee5446c96332115f932a149.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Investor's Business Daily",
+          "url": "http://www.investors.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.investors.com/news/technology/tech-stocks-sell-off-golden-buying-opportunity-dan-ives/?src=A00220&yptr=yahoo"
+        },
+        "clickThroughUrl": null,
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
             {
               "symbol": "AAPL"
             },
             {
-              "symbol": "TSLA"
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "CRWD"
+            },
+            {
+              "symbol": "PLTR"
+            },
+            {
+              "symbol": "PANW"
+            },
+            {
+              "symbol": "SNOW"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "AMZN"
+            },
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "34093c1b-29ac-30e3-97bc-b34cf2539581",
+      "content": {
+        "id": "34093c1b-29ac-30e3-97bc-b34cf2539581",
+        "contentType": "STORY",
+        "title": "Data centers are unpopular — and a key motor of economic growth",
+        "description": null,
+        "summary": "The political backlash against data centers is intensifying, threatening to choke off a critical source of U.S. investment, according to economists.",
+        "pubDate": "2026-11-06T21:09:04Z",
+        "displayTime": "2026-11-06T21:09:04Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/cbs_news_897/7ce92b5abed4b5f6fbdc2820fea56057.jpg",
+          "originalWidth": 4000,
+          "originalHeight": 2667,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/cbs_news_897/7ce92b5abed4b5f6fbdc2820fea56057.jpg",
+              "width": 4000,
+              "height": 2667,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/7a3eb26a0c4bcbf3792aa174906a84a8a9ba7c18425c5cf0b14e2a8959ce34c7/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F7ce92b5abed4b5f6fbdc2820fea56057.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "CBS News",
+          "url": "https://www.cbsnews.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.cbsnews.com/news/data-centers-ai-investment-stocks-economy/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/articles/data-centers-unpopular-key-motor-205012753.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "GOOG"
             },
             {
               "symbol": "AMZN"
@@ -1883,37 +1934,37 @@
               "symbol": "META"
             },
             {
-              "symbol": "^GSPC"
+              "symbol": "MSFT"
             }
           ]
         }
       }
     },
     {
-      "id": "085e5376-9a51-34ac-bcae-cedb7d5a9786",
+      "id": "ffca5565-8f79-3d36-93f0-c2919fbdf8bf",
       "content": {
-        "id": "085e5376-9a51-34ac-bcae-cedb7d5a9786",
+        "id": "ffca5565-8f79-3d36-93f0-c2919fbdf8bf",
         "contentType": "STORY",
-        "title": "AI Panic Grips Stocks",
+        "title": "AI Power Plays Need Data Centers Built, Analyst Says. It Doesn’t Matter Where.",
         "description": null,
-        "summary": "Plus, bonds rally and General Mills considers a divestiture",
-        "pubDate": "2026-11-05T21:17:00Z",
-        "displayTime": "2026-11-05T21:17:00Z",
+        "summary": "Bespoke Investment Group says data-center equipment suppliers will still sell their products regardless of where those facilities end up.",
+        "pubDate": "2026-11-06T20:45:00Z",
+        "displayTime": "2026-11-06T20:45:00Z",
         "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/085e5376-9a51-34ac-bcae-cedb7d5a9786/ai-panic-grips-stocks.html",
+        "previewUrl": "https://finance.yahoo.com/m/ffca5565-8f79-3d36-93f0-c2919fbdf8bf/ai-power-plays-need-data.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/8dda6cd15a3319c4c1af796b6af86d3c.jpg",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/6d37f872bce2d693a2ecde1c06032199.jpg",
           "originalWidth": 1280,
           "originalHeight": 640,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/wsj.com/8dda6cd15a3319c4c1af796b6af86d3c.jpg",
+              "url": "https://media.zenfs.com/en/Barrons.com/6d37f872bce2d693a2ecde1c06032199.jpg",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/46c15369d109d514517c25db3ac340ecab56409e6f89a730c44744146429a88a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsj.com%2F8dda6cd15a3319c4c1af796b6af86d3c.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/d7c9a9e5aeae0d27c225511831a7d74c0f9d2f336ae871ee7db82b490faada0c/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F6d37f872bce2d693a2ecde1c06032199.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1921,11 +1972,11 @@
           ]
         },
         "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/"
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.wsj.com/finance/investing/ai-panic-grips-stocks-60a59518?siteid=yhoof2&yptr=yahoo"
+          "url": "https://www.barrons.com/articles/vertiv-stock-ai-power-data-centers-f5fc3e23?siteid=yhoof2&yptr=yahoo"
         },
         "clickThroughUrl": null,
         "finance": {
@@ -1934,54 +1985,10 @@
           },
           "stockTickers": [
             {
-              "symbol": "^IXIC"
+              "symbol": "VRT"
             },
             {
-              "symbol": "META"
-            },
-            {
-              "symbol": "^SOX"
-            },
-            {
-              "symbol": "^GSPC"
-            },
-            {
-              "symbol": "^DJI"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "56f49e1e-c87d-3213-b1a8-33f3f2396258",
-      "content": {
-        "id": "56f49e1e-c87d-3213-b1a8-33f3f2396258",
-        "contentType": "STORY",
-        "title": "Best Mag7 dip buys: NVIDIA leads on valuation, Alphabet on RSI",
-        "description": null,
-        "summary": "Investing.com -- The Mag7 are being sold off together today, but they aren’t equally cheap. Roundhill Magnificent Seven ETF (MAGS) is -4.61% at $67.04 (as of Nov 5, 2026, 3:34 PM EST). Articles from today tie the move to AI-spending worries and fears of tighter AI regulation after the midterms. One strategist called it \"an emotional sell-off\" driven by hedge fund de-leveraging. Read more (Nov 5, 2026)",
-        "pubDate": "2026-11-05T21:06:53Z",
-        "displayTime": "2026-11-05T21:06:53Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-mag7-dip-buys-nvidia-210653656.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-mag7-dip-buys-nvidia-210653656.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "NVDA"
+              "symbol": "AMZN"
             },
             {
               "symbol": "GOOG"
@@ -1990,49 +1997,37 @@
               "symbol": "META"
             },
             {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "MAGS"
-            },
-            {
               "symbol": "MSFT"
-            },
-            {
-              "symbol": "TSLA"
-            },
-            {
-              "symbol": "AAPL"
             }
           ]
         }
       }
     },
     {
-      "id": "9742665f-9227-33b3-994b-2b53486de9c9",
+      "id": "d585fd81-7df2-3d4e-bcff-57d415d84596",
       "content": {
-        "id": "9742665f-9227-33b3-994b-2b53486de9c9",
+        "id": "d585fd81-7df2-3d4e-bcff-57d415d84596",
         "contentType": "STORY",
-        "title": "Tech stocks are suffering their biggest selloff since Covid, as investors see premature end to AI datacenter boom",
+        "title": "Insurers race to capture value from agentic AI",
         "description": null,
-        "summary": "Two days after voters overwhelmingly rejected data centers, the companies that make the chips, networking gear, and other tech for the facilities saw their stocks crushed.",
-        "pubDate": "2026-11-05T20:48:17Z",
-        "displayTime": "2026-11-05T20:48:17Z",
+        "summary": "Allstate is preparing to do business with personal AI agents while Manulife is eyeing $1 billion in enterprise AI value by next year.",
+        "pubDate": "2026-11-06T20:37:19Z",
+        "displayTime": "2026-11-06T20:37:19Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/fortune_175/9e0bb0336b89940ce111b9acab55d5ba.jpg",
-          "originalWidth": 1916,
-          "originalHeight": 1277,
+          "originalUrl": "https://media.zenfs.com/en/cio_dive_389/7602f77b6a4de370ad55bad4968ae6a3",
+          "originalWidth": 1600,
+          "originalHeight": 900,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/fortune_175/9e0bb0336b89940ce111b9acab55d5ba.jpg",
-              "width": 1916,
-              "height": 1277,
+              "url": "https://media.zenfs.com/en/cio_dive_389/7602f77b6a4de370ad55bad4968ae6a3",
+              "width": 1600,
+              "height": 900,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/976c6930fc21ee923dbcbd63410b1205036b12e937b59784beca97588b0da296/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F9e0bb0336b89940ce111b9acab55d5ba.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/ebfdf710670c56bb969918dffaaaa1b1e4f4e2483d9857d42106ced384237ec3/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcio_dive_389%2F7602f77b6a4de370ad55bad4968ae6a3",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2040,14 +2035,14 @@
           ]
         },
         "provider": {
-          "displayName": "Fortune",
-          "url": "http://fortune.com/"
+          "displayName": "CIO Dive",
+          "url": "https://www.ciodive.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-suffering-biggest-selloff-204817833.html"
+          "url": "https://www.ciodive.com/news/insurers-race-capture-value-agentic-ai/874047/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-suffering-biggest-selloff-204817833.html"
+          "url": "https://finance.yahoo.com/technology/ai/articles/insurers-race-capture-value-agentic-203719582.html"
         },
         "finance": {
           "premiumFinance": {
@@ -2055,40 +2050,40 @@
           },
           "stockTickers": [
             {
-              "symbol": "META"
+              "symbol": "ALL"
             },
             {
-              "symbol": "^IXIC"
+              "symbol": "META"
             }
           ]
         }
       }
     },
     {
-      "id": "2e6daa96-4795-32b7-8cc3-eda948f30d72",
+      "id": "431fe886-8b2c-3a78-8274-0fead36b8334",
       "content": {
-        "id": "2e6daa96-4795-32b7-8cc3-eda948f30d72",
+        "id": "431fe886-8b2c-3a78-8274-0fead36b8334",
         "contentType": "STORY",
-        "title": "Reddit Sinks 8% as Social Ad Worries Deepen in Tech Rout",
+        "title": "Microsoft and Google Face a New Bill as Data Centers “Have to Pay Their Own Costs”",
         "description": null,
-        "summary": "Key TakeawaysReddit shares fell 8% today after Snap reported just 4% ad revenue growth, in a broad tech selloff. Meta’s 26% revenue growth last quarter suggests advertisers are still spending on the biggest social platform, so Snap’s slowdown looks like Snap’s own problem.",
-        "pubDate": "2026-11-05T20:27:00Z",
-        "displayTime": "2026-11-05T20:27:00Z",
+        "summary": "Key TakeawaysVoters turned against new data centers in the Nov. 3 midterms, and Microsoft, Alphabet, Amazon and Meta now face rules that make them pay for their own power and grid.",
+        "pubDate": "2026-11-06T19:35:17Z",
+        "displayTime": "2026-11-06T19:35:17Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/83a1b6dd373448f70c6a6faf8dfcae4b",
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/f1b713c21fdc91db4a199df272672540",
           "originalWidth": 1280,
           "originalHeight": 720,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/83a1b6dd373448f70c6a6faf8dfcae4b",
+              "url": "https://media.zenfs.com/en/tikr_258/f1b713c21fdc91db4a199df272672540",
               "width": 1280,
               "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/de95f7dc3244473351642b7f1b04c549084fe8b2810a644df4de047eaf9ea8b7/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F83a1b6dd373448f70c6a6faf8dfcae4b",
+              "url": "https://s.yimg.com/lo/mysterio/api/912eeacbac9d6ae4ed075e96bb77ed16291c0b9c27f9536f41447a040ed8074d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Ff1b713c21fdc91db4a199df272672540",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2100,10 +2095,10 @@
           "url": "https://www.tikr.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/reddit-sinks-8-as-social-ad-worries-deepen-in-tech-rout?ref=yahoofinance&tlnk=yf-261105-whpgc2qp"
+          "url": "https://www.tikr.com/blog/microsoft-and-google-face-a-new-bill-as-data-centers-have-to-pay-their-own-costs?ref=yahoofinance&tlnk=yf-261106-5qc3f788"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-sinks-8-social-ad-202700946.html"
+          "url": "https://finance.yahoo.com/technology/articles/microsoft-google-face-bill-data-193517316.html"
         },
         "finance": {
           "premiumFinance": {
@@ -2111,43 +2106,52 @@
           },
           "stockTickers": [
             {
-              "symbol": "RDDT"
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "AMZN"
             },
             {
               "symbol": "META"
             },
             {
               "symbol": "GOOG"
+            },
+            {
+              "symbol": "NEE"
+            },
+            {
+              "symbol": "OPAI.PVT"
             }
           ]
         }
       }
     },
     {
-      "id": "7c8994e8-bc12-3851-8f84-e928762ad516",
+      "id": "50771e5e-de2e-3aee-8ae0-3cf807bef251",
       "content": {
-        "id": "7c8994e8-bc12-3851-8f84-e928762ad516",
+        "id": "50771e5e-de2e-3aee-8ae0-3cf807bef251",
         "contentType": "STORY",
-        "title": "Why Is the Market Down Today?",
+        "title": "Bill Ackman Bought Meta “at a Huge Discount.” He Says Analysts Are Missing Its Growth",
         "description": null,
-        "summary": "It has been an ugly day in markets.",
-        "pubDate": "2026-11-05T19:47:32Z",
-        "displayTime": "2026-11-05T19:47:32Z",
-        "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/7c8994e8-bc12-3851-8f84-e928762ad516/why-is-the-market-down-today-.html",
+        "summary": "Key TakeawaysBill Ackman said on CNBC’s Squawk Pod that Pershing Square bought Meta at a huge discount after it announced big capex spending, and that it had bought Microsoft and Amazon the same way when their stocks dropped. Ackman says analysts put the cost of the AI build-out into their models but give no credit for faster growth, and he sees Muse as Meta’s payoff.",
+        "pubDate": "2026-11-06T19:28:47Z",
+        "displayTime": "2026-11-06T19:28:47Z",
+        "isHosted": true,
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/wsj.com/5420292ea7cbd2f2a6a3f6a34812254b.jpg",
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/fce8c59bc3f29fd9b166350f7f4510d1",
           "originalWidth": 1280,
-          "originalHeight": 640,
+          "originalHeight": 720,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/wsj.com/5420292ea7cbd2f2a6a3f6a34812254b.jpg",
+              "url": "https://media.zenfs.com/en/tikr_258/fce8c59bc3f29fd9b166350f7f4510d1",
               "width": 1280,
-              "height": 640,
+              "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/55b541973f4067192610cd20e3945a39a0944431c2ae91d7d39a8f5128326e89/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsj.com%2F5420292ea7cbd2f2a6a3f6a34812254b.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/6d7df3643239abe3a2f1d7afdc2e846bcf45602242df81bcc9294dc009e75586/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Ffce8c59bc3f29fd9b166350f7f4510d1",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2155,38 +2159,25 @@
           ]
         },
         "provider": {
-          "displayName": "The Wall Street Journal",
-          "url": "http://www.wsj.com/"
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/why-is-the-market-down-today--OfO1Y0sTwNS6fuA3g0q6?siteid=yhoof2&yptr=yahoo"
+          "url": "https://www.tikr.com/blog/bill-ackman-bought-meta-at-a-huge-discount-he-says-analysts-are-missing-its-growth?ref=yahoofinance&tlnk=yf-261106-jqwqvqqq"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-bought-meta-huge-192847537.html"
+        },
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false
           },
           "stockTickers": [
             {
-              "symbol": "CRWV"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "^SOX"
-            },
-            {
-              "symbol": "NBIS"
-            },
-            {
-              "symbol": "^IXIC"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
               "symbol": "META"
+            },
+            {
+              "symbol": "PS"
             }
           ]
         }
