@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-11-07T01:29:28.796608",
+    "ts": "2026-11-08T00:59:08.455816",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -107,7 +107,7 @@
     "regularMarketDayLow": 606.82,
     "regularMarketDayHigh": 625.55,
     "dividendRate": 2.1,
-    "dividendYield": 0.35,
+    "dividendYield": 0.34,
     "exDividendDate": 1789948800,
     "payoutRatio": 0.0716,
     "beta": 1.279,
@@ -115,15 +115,15 @@
     "forwardPE": 17.144897,
     "volume": 15657463,
     "regularMarketVolume": 15657463,
-    "averageVolume": 21028210,
-    "averageVolume10days": 28297560,
-    "averageDailyVolume10Day": 28297560,
+    "averageVolume": 21099981,
+    "averageVolume10days": 28402760,
+    "averageDailyVolume10Day": 28402760,
     "bid": 603.87,
     "ask": 634.47,
     "bidSize": 1,
     "askSize": 1,
     "marketCap": 1560051712000,
-    "nonDilutedMarketCap": 1547088532212,
+    "nonDilutedMarketCap": 1560051675694,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 779.82,
     "allTimeHigh": 796.25,
@@ -132,8 +132,8 @@
     "fulldayChange": 6.919983,
     "fulldayChangePercent": 1.1436476,
     "priceToSalesTrailing12Months": 6.457034,
-    "fiftyDayAverage": 674.1372,
-    "twoHundredDayAverage": 632.1263,
+    "fiftyDayAverage": 674.9182,
+    "twoHundredDayAverage": 631.9389,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0034706153,
     "currency": "USD",
@@ -147,8 +147,8 @@
     "sharesShortPreviousMonthDate": 1789430400,
     "dateShortInterest": 1792022400,
     "sharesPercentSharesOut": 0.0111,
-    "heldPercentInsiders": 0.00132,
-    "heldPercentInstitutions": 0.77459,
+    "heldPercentInsiders": 0.00133,
+    "heldPercentInstitutions": 0.77328,
     "shortRatio": 1.32,
     "shortPercentOfFloat": 0.0128,
     "impliedSharesOutstanding": 2556833034,
@@ -164,19 +164,19 @@
     "pegRatio": 0.79,
     "enterpriseToRevenue": 6.59,
     "enterpriseToEbitda": 13.702,
-    "52WeekChange": -0.026748776,
-    "SandP52WeekChange": 0.09287393,
+    "52WeekChange": -0.034206033,
+    "SandP52WeekChange": 0.079683185,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1789948800,
     "quoteType": "EQUITY",
     "currentPrice": 610.15,
     "targetHighPrice": 1050.0,
     "targetLowPrice": 629.06,
-    "targetMeanPrice": 848.3765,
+    "targetMeanPrice": 850.1025,
     "targetMedianPrice": 850.0,
-    "recommendationMean": 1.40323,
+    "recommendationMean": 1.40984,
     "recommendationKey": "strong_buy",
-    "numberOfAnalystOpinions": 58,
+    "numberOfAnalystOpinions": 57,
     "totalCash": 82448998400,
     "totalCashPerShare": 32.254,
     "ebitda": 116190003200,
@@ -204,9 +204,19 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "marketState": "POSTPOST",
-    "shortName": "Meta Platforms, Inc.",
+    "corporateActions": [],
+    "postMarketTime": 1794013174,
+    "regularMarketTime": 1793998801,
     "longName": "Meta Platforms, Inc.",
+    "shortName": "Meta Platforms, Inc.",
+    "marketState": "CLOSED",
+    "market": "us_market",
+    "esgPopulated": false,
+    "exchange": "NMS",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "gmtOffSetMilliseconds": -18000000,
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
     "postMarketChangePercent": 0.30320013,
@@ -217,13 +227,13 @@
     "regularMarketPrice": 610.15,
     "regularMarketDayRange": "606.82 - 625.55",
     "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 21028210,
+    "averageDailyVolume3Month": 21099981,
     "fiftyTwoWeekLowChange": 89.890015,
     "fiftyTwoWeekLowChangePercent": 0.17277902,
     "fiftyTwoWeekRange": "520.26 - 779.82",
     "fiftyTwoWeekHighChange": -169.66998,
     "fiftyTwoWeekHighChangePercent": -0.21757583,
-    "fiftyTwoWeekChangePercent": -2.6748776,
+    "fiftyTwoWeekChangePercent": -3.4206033,
     "dividendDate": 1790553600,
     "earningsTimestamp": 1792612800,
     "earningsTimestampStart": 1801083600,
@@ -233,31 +243,21 @@
     "isEarningsDateEstimate": true,
     "epsTrailingTwelveMonths": 29.31,
     "epsForward": 35.58785,
-    "epsCurrentYear": 29.89229,
-    "priceEpsCurrentYear": 20.41162,
-    "fiftyDayAverageChange": -63.987183,
-    "fiftyDayAverageChangePercent": -0.09491715,
-    "twoHundredDayAverageChange": -21.976257,
-    "twoHundredDayAverageChangePercent": -0.034765612,
+    "epsCurrentYear": 29.72836,
+    "priceEpsCurrentYear": 20.524174,
+    "fiftyDayAverageChange": -64.76819,
+    "fiftyDayAverageChangePercent": -0.0959645,
+    "twoHundredDayAverageChange": -21.78888,
+    "twoHundredDayAverageChangePercent": -0.03447941,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 15,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-11-06",
+    "nameChangeDate": "2026-11-07",
     "averageAnalystRating": "1.4 - Strong Buy",
     "cryptoTradeable": false,
-    "corporateActions": [],
-    "postMarketTime": 1794013174,
-    "regularMarketTime": 1793998801,
-    "exchange": "NMS",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EST",
-    "gmtOffSetMilliseconds": -18000000,
-    "market": "us_market",
-    "esgPopulated": false,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.7905
+    "trailingPegRatio": 0.7931
   },
   "financial_statements": {
     "income": {
@@ -1512,7 +1512,7 @@
       "0": {
         "period": "0m",
         "strongBuy": 9,
-        "buy": 46,
+        "buy": 45,
         "hold": 6,
         "sell": 1,
         "strongSell": 0
@@ -1558,30 +1558,30 @@
   },
   "news": [
     {
-      "id": "3956f9fa-4214-3746-ab58-5e9557c02b2c",
+      "id": "69e1aed4-37a9-3b0a-99b0-667f875a3d5e",
       "content": {
-        "id": "3956f9fa-4214-3746-ab58-5e9557c02b2c",
+        "id": "69e1aed4-37a9-3b0a-99b0-667f875a3d5e",
         "contentType": "STORY",
-        "title": "If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One",
+        "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
         "description": null,
-        "summary": "Artificial intelligence (AI) stocks are plunging following the results of the midterm elections.",
-        "pubDate": "2026-11-06T23:11:44Z",
-        "displayTime": "2026-11-06T23:11:44Z",
+        "summary": "Artificial intelligence arms races rarely move in straight lines. The latest spending plans from Meta, OpenAI partners and Anthropic are pouring billions into chips, cloud and power, and that flood of capital can lift some stocks while squeezing others that misjudge demand or pricing. Investors watching this AGI push risk missing the early read through. This article walks through 3 stocks exposed to that news and how the story might matter for your portfolio. The stocks covered next are just...",
+        "pubDate": "2026-11-08T00:22:40Z",
+        "displayTime": "2026-11-08T00:22:40Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/8b9f9cc1931a48f8ceced7ada9595f55.jpg",
-          "originalWidth": 1290,
-          "originalHeight": 860,
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0f9606c11fab5873fe681760ed38df34.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 900,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/motleyfool.com/8b9f9cc1931a48f8ceced7ada9595f55.jpg",
-              "width": 1290,
-              "height": 860,
+              "url": "https://media.zenfs.com/en/simply_wall_st__316/0f9606c11fab5873fe681760ed38df34.jpg",
+              "width": 1600,
+              "height": 900,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/bec6044abe474f81887703e4e8b251af309fac89d65bf609c592a8f2a6a4f927/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F8b9f9cc1931a48f8ceced7ada9595f55.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/30108562c75c8bc200994a2a1cb92710b6cc1b82997155fd47c7252c73a1be46/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F0f9606c11fab5873fe681760ed38df34.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1589,14 +1589,85 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/06/if-i-could-buy-and-hold-only-1-artificial-intellig/"
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/could-buy-hold-only-1-231144276.html"
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "OPAI.PVT"
+            },
+            {
+              "symbol": "ANTH.PVT"
+            },
+            {
+              "symbol": "2330"
+            },
+            {
+              "symbol": "ASML"
+            },
+            {
+              "symbol": "8035"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "6866fca6-ccb4-3bc0-9391-de910be4c2cf",
+      "content": {
+        "id": "6866fca6-ccb4-3bc0-9391-de910be4c2cf",
+        "contentType": "STORY",
+        "title": "NVIDIA And 2 Other AI Stocks To Watch",
+        "description": null,
+        "summary": "AI-focused companies are under fresh scrutiny after Meta’s large bond sale showed that investors now want clear paths to real profits, not just big promises. That is where profitable users of artificial intelligence start to look interesting. Rather than funding endless experiments, these businesses are already turning heavy AI spending into earnings. This article highlights three such stocks that filter through that lens. The three profitable AI stocks in this article are just a sample, and...",
+        "pubDate": "2026-11-07T23:12:49Z",
+        "displayTime": "2026-11-07T23:12:49Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/e6251d5b66a3d9915d9c3c1b9b27c900.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/simply_wall_st__316/e6251d5b66a3d9915d9c3c1b9b27c900.jpg",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/fa5dfc290cc5b9863ba1a1e203e278aaff7a132035f2dbd88b207e4ddb87a4bc/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fe6251d5b66a3d9915d9c3c1b9b27c900.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-2-other-ai-stocks-231249303.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-2-other-ai-stocks-231249303.html"
         },
         "finance": {
           "premiumFinance": {
@@ -1607,52 +1678,43 @@
               "symbol": "NVDA"
             },
             {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
               "symbol": "META"
             },
             {
-              "symbol": "TSLA"
+              "symbol": "VRT"
             },
             {
-              "symbol": "SPCX"
+              "symbol": "AMD"
             }
           ]
         }
       }
     },
     {
-      "id": "f6bb533b-3d0c-39bc-adfc-c5131b00ffb9",
+      "id": "df7886bd-863a-32bc-8688-69191b662330",
       "content": {
-        "id": "f6bb533b-3d0c-39bc-adfc-c5131b00ffb9",
+        "id": "df7886bd-863a-32bc-8688-69191b662330",
         "contentType": "STORY",
-        "title": "Nuclear Reactor Firm Oklo Beats Earnings Expectations. That’s Not Why the Stock Is Up.",
+        "title": "Meta’s Bond Sale Shows New Reality for Tech Debt",
         "description": null,
-        "summary": "It’s making progress on bringing its Aurora reactors to market and has secured key deals.",
-        "pubDate": "2026-11-06T23:07:00Z",
-        "displayTime": "2026-11-06T23:07:00Z",
-        "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/f6bb533b-3d0c-39bc-adfc-c5131b00ffb9/nuclear-reactor-firm-oklo.html",
+        "summary": "Selling billions of dollars of corporate bonds on Election Day seemed like a real gamble.",
+        "pubDate": "2026-11-07T20:00:00Z",
+        "displayTime": "2026-11-07T20:00:00Z",
+        "isHosted": true,
+        "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/7df954869b6510dee3e989d13ce2c070.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/52534e2ce9434e5edc0e40d4ca526b76.jpg",
+          "originalWidth": 2010,
+          "originalHeight": 1329,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/Barrons.com/7df954869b6510dee3e989d13ce2c070.jpg",
-              "width": 1280,
-              "height": 640,
+              "url": "https://media.zenfs.com/en/bloomberg_holding_pen_162/52534e2ce9434e5edc0e40d4ca526b76.jpg",
+              "width": 2010,
+              "height": 1329,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/257f5b615d846419d6d4335d4e739eae0f6aa84fa4dbd6bb01ad39a5eadd59d2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F7df954869b6510dee3e989d13ce2c070.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/45c0ec44822c1d7bfb7df08355b307e056188210b21d814d58f178fdbe52a4aa/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F52534e2ce9434e5edc0e40d4ca526b76.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1660,62 +1722,52 @@
           ]
         },
         "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/"
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/company"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/oklo-earnings-stock-price-2be6ef11?siteid=yhoof2&yptr=yahoo"
+          "url": "https://finance.yahoo.com/technology/articles/meta-bond-sale-shows-reality-200000968.html"
         },
-        "clickThroughUrl": null,
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/meta-bond-sale-shows-reality-200000968.html"
+        },
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false
           },
           "stockTickers": [
             {
-              "symbol": "OKLO"
-            },
-            {
-              "symbol": "OPAI.PVT"
-            },
-            {
               "symbol": "META"
-            },
-            {
-              "symbol": "TFC"
-            },
-            {
-              "symbol": "TCBI"
             }
           ]
         }
       }
     },
     {
-      "id": "58b63027-1188-314c-9a35-d2d124509f0f",
+      "id": "a52d6ec0-fa8f-3390-90d0-c7344ca2b1b8",
       "content": {
-        "id": "58b63027-1188-314c-9a35-d2d124509f0f",
+        "id": "a52d6ec0-fa8f-3390-90d0-c7344ca2b1b8",
         "contentType": "STORY",
-        "title": "Should You Be Worried About Booking Holdings Stock?",
+        "title": "Republican Senator Who Won Reelection Is Selling Magnificent Seven Stocks: Here Are the Trades",
         "description": null,
-        "summary": "For questions about this article or underlying research, email help@trefis.com.",
-        "pubDate": "2026-11-06T22:59:32Z",
-        "displayTime": "2026-11-06T22:59:32Z",
+        "summary": "Sen. Shelley Moore Capito (R-W.Va.) was among the Republicans who held onto their seats in the 2026 midterm elections. Weeks before the election, Capito sold shares of three Magnificent Seven stocks. Capito Sells Magnificent Seven Stocks Capito sold four stocks...",
+        "pubDate": "2026-11-07T19:30:25Z",
+        "displayTime": "2026-11-07T19:30:25Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/da7996f369222351e0cf1b6271fba55a.jpg",
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/408d31bc0ef0d5f68cdadfb9caea5427.jpg",
           "originalWidth": 1920,
-          "originalHeight": 1442,
+          "originalHeight": 1080,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/trefis_142/da7996f369222351e0cf1b6271fba55a.jpg",
+              "url": "https://media.zenfs.com/en/benzinga_79/408d31bc0ef0d5f68cdadfb9caea5427.jpg",
               "width": 1920,
-              "height": 1442,
+              "height": 1080,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/e64ba54fd2472c9ee403291764df0e4e35da770bbbd1ff34cfac81623051afd7/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fda7996f369222351e0cf1b6271fba55a.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/3bc765762f6a5fd6cbe0a36c542b90bd774f012e701f1345bd30ed6a705a83b7/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F408d31bc0ef0d5f68cdadfb9caea5427.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1723,119 +1775,15 @@
           ]
         },
         "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/"
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.trefis.com/stock/bkng/articles/623212/should-you-be-worried-about-booking-holdings-stock/2026-11-06"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/republican-senator-won-reelection-selling-193025792.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/worried-booking-holdings-stock-225932951.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/republican-senator-won-reelection-selling-193025792.html"
         },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "BKNG"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "ABNB"
-            },
-            {
-              "symbol": "EXPE"
-            },
-            {
-              "symbol": "H"
-            },
-            {
-              "symbol": "TRIP"
-            },
-            {
-              "symbol": "TRV"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "5b6acff9-f484-3a35-b72c-be0a32c4f690",
-      "content": {
-        "id": "5b6acff9-f484-3a35-b72c-be0a32c4f690",
-        "contentType": "STORY",
-        "title": "Meta Pauses Data-Scraping Terms Following Publisher Criticism",
-        "description": null,
-        "summary": "Meta has indefinitely delayed proposed terms that would have allowed Instagram and Facebook to scrape the websites of Meta Business account holders for the company's AI model training purposes.",
-        "pubDate": "2026-11-06T22:29:34Z",
-        "displayTime": "2026-11-06T22:29:34Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "MediaPost",
-          "url": "https://www.mediapost.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.mediapost.com/publications/article/419294/meta-pauses-data-scraping-terms-following-publishe.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-pauses-data-scraping-terms-222934008.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "aeb920dc-4bcd-3531-8458-6a642b7135df",
-      "content": {
-        "id": "aeb920dc-4bcd-3531-8458-6a642b7135df",
-        "contentType": "STORY",
-        "title": "Tech Stock Sell-Off 'Golden Buying Opportunity,' Says Dan Ives",
-        "description": null,
-        "summary": "The tech stock sell-off presents a \"golden buying opportunity\" for investors to buy marquee stocks like Apple, Microsoft and Nvidia, one analyst says.",
-        "pubDate": "2026-11-06T21:46:35Z",
-        "displayTime": "2026-11-06T21:46:35Z",
-        "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/aeb920dc-4bcd-3531-8458-6a642b7135df/tech-stock-sell-off-golden.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ibd.com/f47d35effee5446c96332115f932a149.jpg",
-          "originalWidth": 1000,
-          "originalHeight": 563,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/ibd.com/f47d35effee5446c96332115f932a149.jpg",
-              "width": 1000,
-              "height": 563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/322e16a44d6475f438b29e3c190d1efdf35ff91cb668c462a1f0b3844a0b6ad6/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fibd.com%2Ff47d35effee5446c96332115f932a149.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Investor's Business Daily",
-          "url": "http://www.investors.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.investors.com/news/technology/tech-stocks-sell-off-golden-buying-opportunity-dan-ives/?src=A00220&yptr=yahoo"
-        },
-        "clickThroughUrl": null,
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false
@@ -1845,245 +1793,194 @@
               "symbol": "AAPL"
             },
             {
+              "symbol": "META"
+            },
+            {
               "symbol": "MSFT"
+            },
+            {
+              "symbol": "ZTS"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "fd77d09c-c5de-34d4-8817-dab4ea70a7d9",
+      "content": {
+        "id": "fd77d09c-c5de-34d4-8817-dab4ea70a7d9",
+        "contentType": "STORY",
+        "title": "Oklo Q3 Earnings Call Highlights",
+        "description": null,
+        "summary": "Oklo (NYSE:OKLO) is building in additional time for commissioning and startup of its first Aurora powerhouse in Idaho, with its filing indicating the plant could come online in 2028 or 2029, executives said during the company’s third-quarter 2026 earnings call. CEO Jake DeWitte said lessons from Ok",
+        "pubDate": "2026-11-07T18:14:16Z",
+        "displayTime": "2026-11-07T18:14:16Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/3230614557b0f413c545a9e73d2b59b0.png_up.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/marketbeat_955/3230614557b0f413c545a9e73d2b59b0.png_up.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/97fe1161225a85cfe29992f78fce1e8c071676e059691474d7682a8ff15e41f8/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F3230614557b0f413c545a9e73d2b59b0.png_up.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "MarketBeat",
+          "url": "https://www.marketbeat.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-oklo-q3-earnings-call-highlights-2026-11-07/?utm_source=yahoofinance&utm_medium=yahoofinance"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-q3-earnings-call-highlights-181416161.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "OKLO"
+            },
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "07ce7134-1e1a-3d2d-a045-f2977c148b16",
+      "content": {
+        "id": "07ce7134-1e1a-3d2d-a045-f2977c148b16",
+        "contentType": "STORY",
+        "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+        "description": null,
+        "summary": "Apple and Meta’s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue.",
+        "pubDate": "2026-11-07T17:01:03Z",
+        "displayTime": "2026-11-07T17:01:03Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/decrypt_157/4e6c19c7822d655f446df22769dde3ab.png",
+          "originalWidth": 1778,
+          "originalHeight": 1000,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/decrypt_157/4e6c19c7822d655f446df22769dde3ab.png",
+              "width": 1778,
+              "height": 1000,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/e0fba56c7d26465749a32f8e296a4143d8cdd3db9a675c179c61bc3c0ba36b81/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F4e6c19c7822d655f446df22769dde3ab.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "decrypt",
+          "url": "https://decrypt.co/"
+        },
+        "canonicalUrl": {
+          "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-completes-set-every-magnificent-170103142.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "AAPL"
+            },
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "AMZN"
             },
             {
               "symbol": "NVDA"
             },
             {
-              "symbol": "AMD"
+              "symbol": "TSLA"
             },
             {
-              "symbol": "CRWD"
+              "symbol": "^GSPC"
+            },
+            {
+              "symbol": "HD"
+            },
+            {
+              "symbol": "BA"
+            },
+            {
+              "symbol": "GEV"
             },
             {
               "symbol": "PLTR"
             },
             {
-              "symbol": "PANW"
+              "symbol": "NOW"
             },
             {
-              "symbol": "SNOW"
+              "symbol": "SMCI"
             },
             {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "META"
+              "symbol": "NBIS"
             }
           ]
         }
       }
     },
     {
-      "id": "34093c1b-29ac-30e3-97bc-b34cf2539581",
+      "id": "cea0f6e8-746a-3550-ace1-ac2170d4c03e",
       "content": {
-        "id": "34093c1b-29ac-30e3-97bc-b34cf2539581",
+        "id": "cea0f6e8-746a-3550-ace1-ac2170d4c03e",
         "contentType": "STORY",
-        "title": "Data centers are unpopular — and a key motor of economic growth",
+        "title": "Snap Will Stop Reporting Daily Users in 2027. Its 92 Million North Americans Explain Why",
         "description": null,
-        "summary": "The political backlash against data centers is intensifying, threatening to choke off a critical source of U.S. investment, according to economists.",
-        "pubDate": "2026-11-06T21:09:04Z",
-        "displayTime": "2026-11-06T21:09:04Z",
+        "summary": "Key TakeawaysSnap will switch its main audience metric from daily to monthly users in 2027, after third-quarter daily users of 495 million missed estimates. Revenue rose 14% to $1.",
+        "pubDate": "2026-11-07T16:06:23Z",
+        "displayTime": "2026-11-07T16:06:23Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/cbs_news_897/7ce92b5abed4b5f6fbdc2820fea56057.jpg",
-          "originalWidth": 4000,
-          "originalHeight": 2667,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/cbs_news_897/7ce92b5abed4b5f6fbdc2820fea56057.jpg",
-              "width": 4000,
-              "height": 2667,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/7a3eb26a0c4bcbf3792aa174906a84a8a9ba7c18425c5cf0b14e2a8959ce34c7/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F7ce92b5abed4b5f6fbdc2820fea56057.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "CBS News",
-          "url": "https://www.cbsnews.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.cbsnews.com/news/data-centers-ai-investment-stocks-economy/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/articles/data-centers-unpopular-key-motor-205012753.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "MSFT"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "ffca5565-8f79-3d36-93f0-c2919fbdf8bf",
-      "content": {
-        "id": "ffca5565-8f79-3d36-93f0-c2919fbdf8bf",
-        "contentType": "STORY",
-        "title": "AI Power Plays Need Data Centers Built, Analyst Says. It Doesn’t Matter Where.",
-        "description": null,
-        "summary": "Bespoke Investment Group says data-center equipment suppliers will still sell their products regardless of where those facilities end up.",
-        "pubDate": "2026-11-06T20:45:00Z",
-        "displayTime": "2026-11-06T20:45:00Z",
-        "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/ffca5565-8f79-3d36-93f0-c2919fbdf8bf/ai-power-plays-need-data.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/6d37f872bce2d693a2ecde1c06032199.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/Barrons.com/6d37f872bce2d693a2ecde1c06032199.jpg",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/d7c9a9e5aeae0d27c225511831a7d74c0f9d2f336ae871ee7db82b490faada0c/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F6d37f872bce2d693a2ecde1c06032199.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/vertiv-stock-ai-power-data-centers-f5fc3e23?siteid=yhoof2&yptr=yahoo"
-        },
-        "clickThroughUrl": null,
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "VRT"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "MSFT"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d585fd81-7df2-3d4e-bcff-57d415d84596",
-      "content": {
-        "id": "d585fd81-7df2-3d4e-bcff-57d415d84596",
-        "contentType": "STORY",
-        "title": "Insurers race to capture value from agentic AI",
-        "description": null,
-        "summary": "Allstate is preparing to do business with personal AI agents while Manulife is eyeing $1 billion in enterprise AI value by next year.",
-        "pubDate": "2026-11-06T20:37:19Z",
-        "displayTime": "2026-11-06T20:37:19Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/cio_dive_389/7602f77b6a4de370ad55bad4968ae6a3",
-          "originalWidth": 1600,
-          "originalHeight": 900,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/cio_dive_389/7602f77b6a4de370ad55bad4968ae6a3",
-              "width": 1600,
-              "height": 900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/ebfdf710670c56bb969918dffaaaa1b1e4f4e2483d9857d42106ced384237ec3/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcio_dive_389%2F7602f77b6a4de370ad55bad4968ae6a3",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "CIO Dive",
-          "url": "https://www.ciodive.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.ciodive.com/news/insurers-race-capture-value-agentic-ai/874047/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/insurers-race-capture-value-agentic-203719582.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "ALL"
-            },
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "431fe886-8b2c-3a78-8274-0fead36b8334",
-      "content": {
-        "id": "431fe886-8b2c-3a78-8274-0fead36b8334",
-        "contentType": "STORY",
-        "title": "Microsoft and Google Face a New Bill as Data Centers “Have to Pay Their Own Costs”",
-        "description": null,
-        "summary": "Key TakeawaysVoters turned against new data centers in the Nov. 3 midterms, and Microsoft, Alphabet, Amazon and Meta now face rules that make them pay for their own power and grid.",
-        "pubDate": "2026-11-06T19:35:17Z",
-        "displayTime": "2026-11-06T19:35:17Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/f1b713c21fdc91db4a199df272672540",
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/416235799ca0ef1ceee2114be4d9670e",
           "originalWidth": 1280,
           "originalHeight": 720,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/f1b713c21fdc91db4a199df272672540",
+              "url": "https://media.zenfs.com/en/tikr_258/416235799ca0ef1ceee2114be4d9670e",
               "width": 1280,
               "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/912eeacbac9d6ae4ed075e96bb77ed16291c0b9c27f9536f41447a040ed8074d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Ff1b713c21fdc91db4a199df272672540",
+              "url": "https://s.yimg.com/lo/mysterio/api/8ac544179c82ff9ac43263cc9947ccf2d3e9c18172fbbe8b0a6dd5dfa6e82276/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F416235799ca0ef1ceee2114be4d9670e",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2095,10 +1992,10 @@
           "url": "https://www.tikr.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/microsoft-and-google-face-a-new-bill-as-data-centers-have-to-pay-their-own-costs?ref=yahoofinance&tlnk=yf-261106-5qc3f788"
+          "url": "https://www.tikr.com/blog/snap-will-stop-reporting-daily-users-in-2027-its-92-million-north-americans-explain-why?ref=yahoofinance&tlnk=yf-261107-h43h6cvg"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/microsoft-google-face-bill-data-193517316.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/snap-stop-reporting-daily-users-160623094.html"
         },
         "finance": {
           "premiumFinance": {
@@ -2106,78 +2003,190 @@
           },
           "stockTickers": [
             {
+              "symbol": "SNAP"
+            },
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "43c74938-900c-323f-871c-9bba9e50c62d",
+      "content": {
+        "id": "43c74938-900c-323f-871c-9bba9e50c62d",
+        "contentType": "STORY",
+        "title": "AI Stocks Diverge as Democratic Election Victory Sparks Rotation Into Cloud Giants",
+        "description": null,
+        "summary": "US technology stocks experienced a significant shift in investor positioning on Wednesday, as the Democratic Party’s election victory raised concerns about potential restrictions on new data centre developments. Investors moved toward established cloud computing companies while reducing exposure to semiconductor manufacturers and AI infrastructure developers.",
+        "pubDate": "2026-11-07T15:54:00Z",
+        "displayTime": "2026-11-07T15:54:00Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/investorshub_458/2a525a68a64943d14ce0b68fe1e7062b.png",
+          "originalWidth": 1200,
+          "originalHeight": 659,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/investorshub_458/2a525a68a64943d14ce0b68fe1e7062b.png",
+              "width": 1200,
+              "height": 659,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/05601b6350cb8736f97789388cfad6d824795c13426b21a5c2c9bc090ebadcac/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F2a525a68a64943d14ce0b68fe1e7062b.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "InvestorsHub",
+          "url": "https://investorshub.advfn.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://investorshub.advfn.com/market-news/article/39467/ai-stocks-diverge-as-democratic-election-victory-sparks-rotation-into-cloud-giants"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/ai-stocks-diverge-democratic-election-155400269.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "AMZN"
+            },
+            {
               "symbol": "MSFT"
             },
             {
-              "symbol": "AMZN"
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d6952fb2-f078-37e1-81f8-d57fb988d88f",
+      "content": {
+        "id": "d6952fb2-f078-37e1-81f8-d57fb988d88f",
+        "contentType": "STORY",
+        "title": "Why AGI’s Fuzzy Definition Matters for Investors Betting on Google, Meta, and Microsoft",
+        "description": null,
+        "summary": "OpenAI, Anthropic, Google, Microsoft, and Meta define AGI in five different ways. Here’s what each is building and where investors can profit.",
+        "pubDate": "2026-11-07T15:30:03Z",
+        "displayTime": "2026-11-07T15:30:03Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/ac3288324a2ac3f2fff832e265843d6d.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 1067,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/barchart_com_477/ac3288324a2ac3f2fff832e265843d6d.jpg",
+              "width": 1600,
+              "height": 1067,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/d8d730cd7613de24ac2b21bb04bb0e5c940ee39ceb663ceab88d76000d2dbf94/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fac3288324a2ac3f2fff832e265843d6d.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/8717688/why-agis-fuzzy-definition-matters-for-investors-betting-on-google-meta-and-microsoft"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-agi-fuzzy-definition-matters-153003175.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "MSFT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "68d0662d-8ece-3ff8-917c-9b61b00d58e7",
+      "content": {
+        "id": "68d0662d-8ece-3ff8-917c-9b61b00d58e7",
+        "contentType": "STORY",
+        "title": "Big Tech’s AI race will save small business owners time. It won’t find them customers",
+        "description": null,
+        "summary": "The next customer is one introduction away.",
+        "pubDate": "2026-11-07T12:45:00Z",
+        "displayTime": "2026-11-07T12:45:00Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/fortune_175/b237d00ce391ed2f0d505ff0b4ca3984.jpg",
+          "originalWidth": 2048,
+          "originalHeight": 1365,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/fortune_175/b237d00ce391ed2f0d505ff0b4ca3984.jpg",
+              "width": 2048,
+              "height": 1365,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/000c029ed558d1e86903a8cec4cecdc5d08a43d2479ad03d04cc0c14668ec8fa/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fb237d00ce391ed2f0d505ff0b4ca3984.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Fortune",
+          "url": "http://fortune.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/small-business/articles/big-tech-ai-race-save-124500247.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/small-business/articles/big-tech-ai-race-save-124500247.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "ANTH.PVT"
             },
             {
               "symbol": "META"
             },
             {
               "symbol": "GOOG"
-            },
-            {
-              "symbol": "NEE"
             },
             {
               "symbol": "OPAI.PVT"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "50771e5e-de2e-3aee-8ae0-3cf807bef251",
-      "content": {
-        "id": "50771e5e-de2e-3aee-8ae0-3cf807bef251",
-        "contentType": "STORY",
-        "title": "Bill Ackman Bought Meta “at a Huge Discount.” He Says Analysts Are Missing Its Growth",
-        "description": null,
-        "summary": "Key TakeawaysBill Ackman said on CNBC’s Squawk Pod that Pershing Square bought Meta at a huge discount after it announced big capex spending, and that it had bought Microsoft and Amazon the same way when their stocks dropped. Ackman says analysts put the cost of the AI build-out into their models but give no credit for faster growth, and he sees Muse as Meta’s payoff.",
-        "pubDate": "2026-11-06T19:28:47Z",
-        "displayTime": "2026-11-06T19:28:47Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/fce8c59bc3f29fd9b166350f7f4510d1",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/fce8c59bc3f29fd9b166350f7f4510d1",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/6d7df3643239abe3a2f1d7afdc2e846bcf45602242df81bcc9294dc009e75586/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Ffce8c59bc3f29fd9b166350f7f4510d1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/bill-ackman-bought-meta-at-a-huge-discount-he-says-analysts-are-missing-its-growth?ref=yahoofinance&tlnk=yf-261106-jqwqvqqq"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-bought-meta-huge-192847537.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "PS"
             }
           ]
         }
