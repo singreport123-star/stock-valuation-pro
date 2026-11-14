@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-11-13T02:18:53.399214",
+    "ts": "2026-11-14T01:55:41.441818",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -136,47 +136,47 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 628.77,
-    "open": 625.35,
-    "dayLow": 618.92,
-    "dayHigh": 630.2769,
-    "regularMarketPreviousClose": 628.77,
-    "regularMarketOpen": 625.35,
-    "regularMarketDayLow": 618.92,
-    "regularMarketDayHigh": 630.2769,
+    "previousClose": 623.61,
+    "open": 627.21,
+    "dayLow": 624.83,
+    "dayHigh": 643.91,
+    "regularMarketPreviousClose": 623.61,
+    "regularMarketOpen": 627.21,
+    "regularMarketDayLow": 624.83,
+    "regularMarketDayHigh": 643.91,
     "dividendRate": 2.1,
-    "dividendYield": 0.33,
+    "dividendYield": 0.34,
     "exDividendDate": 1789948800,
     "payoutRatio": 0.0716,
     "beta": 1.279,
-    "trailingPE": 21.276356,
-    "forwardPE": 17.523115,
-    "volume": 10253879,
-    "regularMarketVolume": 10253879,
-    "averageVolume": 21155053,
-    "averageVolume10days": 21449470,
-    "averageDailyVolume10Day": 21449470,
-    "bid": 625.34,
-    "ask": 621.49,
-    "bidSize": 3,
-    "askSize": 5,
-    "marketCap": 1594466631680,
-    "nonDilutedMarketCap": 1607659906787,
+    "trailingPE": 21.893211,
+    "forwardPE": 18.031155,
+    "volume": 15088458,
+    "regularMarketVolume": 15088458,
+    "averageVolume": 21142203,
+    "averageVolume10days": 19356030,
+    "averageDailyVolume10Day": 19356030,
+    "bid": 640.68,
+    "ask": 641.48,
+    "bidSize": 2,
+    "askSize": 6,
+    "marketCap": 1640694153216,
+    "nonDilutedMarketCap": 1594466648331,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 779.82,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 623.61,
-    "fulldayChange": -2.0900269,
-    "fulldayChangePercent": -0.33239925,
-    "priceToSalesTrailing12Months": 6.599477,
-    "fiftyDayAverage": 678.5708,
-    "twoHundredDayAverage": 631.4761,
+    "fulldayPrice": 641.69,
+    "fulldayChange": 13.397705,
+    "fulldayChangePercent": 2.148411,
+    "priceToSalesTrailing12Months": 6.790812,
+    "fiftyDayAverage": 679.186,
+    "twoHundredDayAverage": 631.2505,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0033398538,
+    "trailingAnnualDividendYield": 0.0033674892,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1626490667008,
+    "enterpriseValue": 1673448783872,
     "profitMargins": 0.31145,
     "floatShares": 2211148684,
     "sharesOutstanding": 2214455318,
@@ -186,12 +186,12 @@
     "dateShortInterest": 1793318400,
     "sharesPercentSharesOut": 0.0295,
     "heldPercentInsiders": 0.0012800001,
-    "heldPercentInstitutions": 0.77906996,
+    "heldPercentInstitutions": 0.77863,
     "shortRatio": 3.42,
     "shortPercentOfFloat": 0.0341,
     "impliedSharesOutstanding": 2556833034,
     "bookValue": 106.567,
-    "priceToBook": 5.8518114,
+    "priceToBook": 6.02147,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1790726400,
@@ -199,15 +199,15 @@
     "netIncomeToCommon": 75249000448,
     "trailingEps": 29.31,
     "forwardEps": 35.58785,
-    "pegRatio": 0.82,
-    "enterpriseToRevenue": 6.732,
-    "enterpriseToEbitda": 13.999,
-    "52WeekChange": 0.030956388,
-    "SandP52WeekChange": 0.13089299,
+    "pegRatio": 0.81,
+    "enterpriseToRevenue": 6.926,
+    "enterpriseToEbitda": 14.403,
+    "52WeekChange": 0.02321732,
+    "SandP52WeekChange": 0.12289083,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1789948800,
     "quoteType": "EQUITY",
-    "currentPrice": 623.61,
+    "currentPrice": 641.69,
     "targetHighPrice": 1050.0,
     "targetLowPrice": 629.06,
     "targetMeanPrice": 850.1025,
@@ -243,18 +243,45 @@
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
     "exchange": "NMS",
-    "marketState": "POSTPOST",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
+    "priceEpsCurrentYear": 21.585114,
+    "fiftyDayAverageChange": -37.49597,
+    "fiftyDayAverageChangePercent": -0.055207223,
+    "twoHundredDayAverageChange": 10.439514,
+    "twoHundredDayAverageChangePercent": 0.016537832,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 15,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-11-13",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
     "exchangeTimezoneShortName": "EST",
     "gmtOffSetMilliseconds": -18000000,
     "market": "us_market",
     "esgPopulated": false,
+    "marketState": "POSTPOST",
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
     "corporateActions": [],
-    "postMarketTime": 1794531465,
-    "regularMarketTime": 1794517201,
+    "postMarketTime": 1794617979,
+    "regularMarketTime": 1794603601,
+    "postMarketChangePercent": -0.7296844,
+    "postMarketPrice": 637.0077,
+    "postMarketChange": -4.682312,
+    "regularMarketChange": 18.08,
+    "regularMarketChangePercent": 2.89925,
+    "regularMarketPrice": 641.69,
+    "regularMarketDayRange": "624.83 - 643.91",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 21142203,
+    "fiftyTwoWeekLowChange": 121.42999,
+    "fiftyTwoWeekLowChangePercent": 0.2334025,
+    "fiftyTwoWeekRange": "520.26 - 779.82",
+    "fiftyTwoWeekHighChange": -138.13,
+    "fiftyTwoWeekHighChangePercent": -0.17713062,
+    "fiftyTwoWeekChangePercent": 2.321732,
     "dividendDate": 1790553600,
     "earningsTimestamp": 1792612800,
     "earningsTimestampStart": 1801083600,
@@ -265,37 +292,10 @@
     "epsTrailingTwelveMonths": 29.31,
     "epsForward": 35.58785,
     "epsCurrentYear": 29.72836,
-    "priceEpsCurrentYear": 20.97694,
-    "fiftyDayAverageChange": -54.960815,
-    "fiftyDayAverageChangePercent": -0.08099496,
-    "twoHundredDayAverageChange": -7.866089,
-    "twoHundredDayAverageChangePercent": -0.0124566695,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 15,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "nameChangeDate": "2026-11-12",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
-    "postMarketChangePercent": 0.415328,
-    "postMarketPrice": 626.2,
-    "postMarketChange": 2.5900269,
-    "regularMarketChange": -5.16003,
-    "regularMarketChangePercent": -0.820655,
-    "regularMarketPrice": 623.61,
-    "regularMarketDayRange": "618.92 - 630.2769",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 21155053,
-    "fiftyTwoWeekLowChange": 103.349976,
-    "fiftyTwoWeekLowChangePercent": 0.19865063,
-    "fiftyTwoWeekRange": "520.26 - 779.82",
-    "fiftyTwoWeekHighChange": -156.21002,
-    "fiftyTwoWeekHighChangePercent": -0.20031549,
-    "fiftyTwoWeekChangePercent": 3.0956388,
     "displayName": "Meta Platforms",
-    "trailingPegRatio": 0.8173
+    "trailingPegRatio": 0.8106
   },
   "financial_statements": {
     "income": {
@@ -1596,391 +1596,73 @@
   },
   "news": [
     {
-      "id": "71d9f72e-471f-3b18-a9fd-e82af767e21b",
+      "id": "f751341c-dad2-3afb-a37e-d47d7337b89d",
       "content": {
-        "id": "71d9f72e-471f-3b18-a9fd-e82af767e21b",
+        "id": "f751341c-dad2-3afb-a37e-d47d7337b89d",
         "contentType": "STORY",
-        "title": "Grand Theft Auto VI Makes Take-Two Stock Look Like a Steal",
+        "title": "Will ETF Buying Change Meta Stock Narrative",
         "description": null,
-        "summary": "GTA VI could be a cultural moment akin to Taylor Swift’s Eras Tour. This time, investors can buy stock ahead of the actual event.",
-        "pubDate": "2026-11-13T01:35:00Z",
-        "displayTime": "2026-11-13T01:35:00Z",
+        "summary": "Large ETFs including SPY, XLC and SPYM recently added to Meta Platforms positions over several days, alongside fresh fixed income offerings and expanded sustainability agreements tied to green steel, clean cement and zero emission trucking. The combination of strong ETF buying and growing use of AI to sharpen Meta Platforms advertising engine reinforces how central data driven ad performance remains to the business story, even as it layers on heavy capex and new financing to fund AI and...",
+        "pubDate": "2026-11-14T00:20:17Z",
+        "displayTime": "2026-11-14T00:20:17Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/e70faf69adb58a11417039c474d60f34.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/simply_wall_st__316/e70faf69adb58a11417039c474d60f34.jpg",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/231dfbf51d1cca0096bec1fec1610e257bbb84b1ec2ebe37a48385f638efd902/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fe70faf69adb58a11417039c474d60f34.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etf-buying-change-meta-stock-002017757.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etf-buying-change-meta-stock-002017757.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "SPY"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "dd07dfd9-d4d6-36e0-ab81-0c0f47efd273",
+      "content": {
+        "id": "dd07dfd9-d4d6-36e0-ab81-0c0f47efd273",
+        "contentType": "STORY",
+        "title": "Nvidia Suffers Biggest Weekly Market Cap  Decline on Record",
+        "description": null,
+        "summary": "Nvidia’s market cap dropped below $4 trillion Friday after the company suffered the largest weekly market cap loss on record.",
+        "pubDate": "2026-11-13T22:29:08Z",
+        "displayTime": "2026-11-13T22:29:08Z",
         "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/71d9f72e-471f-3b18-a9fd-e82af767e21b/grand-theft-auto-vi-makes.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/1407f46a767d1715df6e2aaa68d75fb5.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/Barrons.com/1407f46a767d1715df6e2aaa68d75fb5.jpg",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/0e8d24dd8d82caad00251ba833b8e25db4eeca8a9fa7207f437fbd2d0d584e39/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F1407f46a767d1715df6e2aaa68d75fb5.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/buy-take-two-stock-grand-theft-auto-vi-1b7b9907?siteid=yhoof2&yptr=yahoo"
-        },
-        "clickThroughUrl": null,
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TTWO"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "NFLX"
-            },
-            {
-              "symbol": "SONY"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "8e053a46-cf77-3ec2-a516-715bb0b593af",
-      "content": {
-        "id": "8e053a46-cf77-3ec2-a516-715bb0b593af",
-        "contentType": "STORY",
-        "title": "Anthropic’s $500 Billion Question",
-        "description": null,
-        "summary": "Anthropic's highly anticipated IPO filing reveals explosive growth, surprisingly strong financials, and nearly $500 billion in future AI computing commitments.",
-        "pubDate": "2026-11-12T23:35:01Z",
-        "displayTime": "2026-11-12T23:35:01Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/02fe8509f4451bc3d0a91967cdb17759.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/02fe8509f4451bc3d0a91967cdb17759.jpg",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/eed2699f9757f233b80b0c552101692684f227712c7cae532666a93b410f6ec4/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F02fe8509f4451bc3d0a91967cdb17759.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/12/anthropics-500-billion-question/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-500-billion-233501247.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "ANTH.PVT"
-            },
-            {
-              "symbol": "VZ"
-            },
-            {
-              "symbol": "NVDA"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "77c3467c-c82e-375c-886d-0d98b0c93354",
-      "content": {
-        "id": "77c3467c-c82e-375c-886d-0d98b0c93354",
-        "contentType": "STORY",
-        "title": "Musk: SpaceX Makes Compute “Actually Usable” in 2 Months, 3x Faster than Rivals",
-        "description": null,
-        "summary": "Key TakeawaysElon Musk says SpaceX gets a large compute cluster working reliably in about 2 months, against about 6 months he guesses it takes rivals. That speed is SpaceX’s best answer on how to fund its buildout, because a cluster that starts renting sooner pays for itself sooner.",
-        "pubDate": "2026-11-12T22:20:29Z",
-        "displayTime": "2026-11-12T22:20:29Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/9fd4a9e8af0088376f67a2fc89d29a35",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/9fd4a9e8af0088376f67a2fc89d29a35",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/ef8b44c11c578dc443458066028cafb7caef96635c1cc1bf8435fc4e0726c50a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F9fd4a9e8af0088376f67a2fc89d29a35",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/musk-spacex-makes-compute-actually-usable-in-2-months-3x-faster-than-rivals?ref=yahoofinance&tlnk=yf-261112-j4mj678g"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/musk-spacex-makes-compute-actually-222029068.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "SPCX"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "MSFT"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "24a8391a-c8dd-30fe-9f50-53cfb39b267a",
-      "content": {
-        "id": "24a8391a-c8dd-30fe-9f50-53cfb39b267a",
-        "contentType": "STORY",
-        "title": "What ERock (EROC) Said on Its Q3 Earnings Call",
-        "description": null,
-        "summary": "ERock (NYSE:EROC) reported third-quarter revenue of $153 million, nearly four times its second-quarter total, as work accelerated on a power project supporting Meta’s data center complex in El Paso, Texas. The company reaffirmed its full-year outlook and announced plans for a new Houston assembly fa",
-        "pubDate": "2026-11-12T22:14:48Z",
-        "displayTime": "2026-11-12T22:14:48Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/marketbeat_955/f81fe0f29ea1dd1de52b81f93b0279a0.jpg_up.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 960,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/marketbeat_955/f81fe0f29ea1dd1de52b81f93b0279a0.jpg_up.jpg",
-              "width": 1280,
-              "height": 960,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/afb78e9da48c93106b9cdad4b84d704068489286bcbf81d183b62ae9c2c2e214/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Ff81fe0f29ea1dd1de52b81f93b0279a0.jpg_up.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "MarketBeat",
-          "url": "https://www.marketbeat.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-what-erock-eroc-said-on-its-q3-earnings-call-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/erock-eroc-said-q3-earnings-221448058.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "EROC"
-            },
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "3d72c4df-c159-3f9f-bf8f-967cb1e59a7f",
-      "content": {
-        "id": "3d72c4df-c159-3f9f-bf8f-967cb1e59a7f",
-        "contentType": "STORY",
-        "title": "Nvidia CEO Jensen Huang Resigns—and the Stock Is Falling",
-        "description": null,
-        "summary": "Nvidia’s CFO will take over one of the biggest roles in the AI buildout. The co-founder’s resignation comes after an investigation into his affair with a woman alleged to be a spy.",
-        "pubDate": "2026-11-12T21:55:00Z",
-        "displayTime": "2026-11-12T21:55:00Z",
-        "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/3d72c4df-c159-3f9f-bf8f-967cb1e59a7f/nvidia-ceo-jensen-huang.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/2e64e88fa37a1f097b3a815443cf1a96.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 640,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/Barrons.com/2e64e88fa37a1f097b3a815443cf1a96.jpg",
-              "width": 1280,
-              "height": 640,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/54a2dac39392b48ed7655c3ff98b5f90b8a0dd53e5a412de089b474b5d06f4fa/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F2e64e88fa37a1f097b3a815443cf1a96.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/nvidia-stock-price-huang-affair-ceo-ouster-26c99dad?siteid=yhoof2&yptr=yahoo"
-        },
-        "clickThroughUrl": null,
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "AAPL"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "^IXIC"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "3e9bbb0b-f98c-38e5-b7cb-a46f5b52a937",
-      "content": {
-        "id": "3e9bbb0b-f98c-38e5-b7cb-a46f5b52a937",
-        "contentType": "STORY",
-        "title": "AI Debt Binge Hits a Wall As Global Bond Markets Reach Saturation Point, Wells Fargo Warns",
-        "description": null,
-        "summary": "Wells Fargo warns that massive corporate borrowing to fund AI infrastructure is straining the $15 trillion investment-grade bond market, and investors are pushing back.",
-        "pubDate": "2026-11-12T21:35:40Z",
-        "displayTime": "2026-11-12T21:35:40Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/d5a5f3d686b715e44e2c344bf4707a36.jpg",
-          "originalWidth": 550,
-          "originalHeight": 314,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/stocktwits_383/d5a5f3d686b715e44e2c344bf4707a36.jpg",
-              "width": 550,
-              "height": 314,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/c1bd520fb01c80349f7850bb153759bfe2ee392d6d0c3b2b37180e69fca39e8f/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fd5a5f3d686b715e44e2c344bf4707a36.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Stocktwits",
-          "url": "https://stocktwits.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/ai-debt-binge-hits-a-wall-as-global-bond-markets-reach-saturation-point-wells-fargo-warns/cNGC7rER9OP"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-binge-hits-wall-213540407.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "WFC"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "SPCX"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "GOOGN"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "ORCL"
-            },
-            {
-              "symbol": "MSFT"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "bf91fbe3-d073-35ea-a1f7-c33154bba3a0",
-      "content": {
-        "id": "bf91fbe3-d073-35ea-a1f7-c33154bba3a0",
-        "contentType": "STORY",
-        "title": "Nvidia’s Market Cap Continues to Slide",
-        "description": null,
-        "summary": "After Nvidia’s 4.3% decline today, the AI chip giant’s market cap has now declined this much since its Oct. 6 peak.",
-        "pubDate": "2026-11-12T21:28:07Z",
-        "displayTime": "2026-11-12T21:28:07Z",
-        "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/bf91fbe3-d073-35ea-a1f7-c33154bba3a0/nvidia-s-market-cap-continues.html",
+        "previewUrl": "https://finance.yahoo.com/m/dd07dfd9-d4d6-36e0-ab81-0c0f47efd273/nvidia-suffers-biggest-weekly.html",
         "thumbnail": {
           "originalUrl": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
           "originalWidth": 1200,
@@ -2005,7 +1687,7 @@
           "url": "http://www.wsj.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-s-market-cap-continues-to-slide-NPJDTzE5NpYFxp2GPkaR?siteid=yhoof2&yptr=yahoo"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/nvidia-braces-for-biggest-weekly-market-cap-decline-on-record-JcfwFNhoTtGpQenCU5Ft?siteid=yhoof2&yptr=yahoo"
         },
         "clickThroughUrl": null,
         "finance": {
@@ -2017,16 +1699,143 @@
               "symbol": "NVDA"
             },
             {
-              "symbol": "SPCX"
-            },
-            {
               "symbol": "TSLA"
             },
             {
               "symbol": "META"
             },
             {
-              "symbol": "INTC"
+              "symbol": "BRK-B"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "4da9f2e1-fc7e-320c-ac37-b79a71aa47eb",
+      "content": {
+        "id": "4da9f2e1-fc7e-320c-ac37-b79a71aa47eb",
+        "contentType": "STORY",
+        "title": "When It Comes To Oreos, Santa's Not Messing Around",
+        "description": null,
+        "summary": "The Colin Jost-created spots mark the brand's first new holiday push in five years, featuring a Santa with a mean streak.",
+        "pubDate": "2026-11-13T22:16:32Z",
+        "displayTime": "2026-11-13T22:16:32Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/mediapost_446/b784a6a13d6fd123edb404b7bc331fd0.png",
+          "originalWidth": 200,
+          "originalHeight": 125,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/mediapost_446/b784a6a13d6fd123edb404b7bc331fd0.png",
+              "width": 200,
+              "height": 125,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/e9b440b635aed06b3cb4f3f36ecb7bd4b275b0d230921057031b93ae6572d36b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmediapost_446%2Fb784a6a13d6fd123edb404b7bc331fd0.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "MediaPost",
+          "url": "https://www.mediapost.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.mediapost.com/publications/article/419445/when-it-comes-to-oreos-santas-not-messing-around.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/media-advertising/articles/comes-oreos-santas-not-messing-221632131.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "MDLZ"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "SNAP"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "87caa3e7-1ef7-3512-911d-b4a80e0db7e2",
+      "content": {
+        "id": "87caa3e7-1ef7-3512-911d-b4a80e0db7e2",
+        "contentType": "STORY",
+        "title": "AMD Stock Looks Poised to Revisit Its All-Time Highs",
+        "description": null,
+        "summary": "Advanced Micro Devices’ (AMD) stock looks poised to revisit its all-time highs. The market has already bought into its growth story. Now, the next opportunity may lie in how much of that growth turns into profits. After a triple-digit gain in 2026, the stock has pulled back from its October record highs, but the fundamentals help explain much of that rally. In its third-quarter earnings report, released on November 3, the Santa Clara, California-based chipmaker reported that its Data Center reve",
+        "pubDate": "2026-11-13T21:16:00Z",
+        "displayTime": "2026-11-13T21:16:00Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/tipranks_452/9726476cb4920a39b982ddfdc6f5c23c.png",
+          "originalWidth": 1024,
+          "originalHeight": 754,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/tipranks_452/9726476cb4920a39b982ddfdc6f5c23c.png",
+              "width": 1024,
+              "height": 754,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/375a1fe1ff125b87c9c2b78a81615cd4084c8c34a55617217875c71276547bea/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftipranks_452%2F9726476cb4920a39b982ddfdc6f5c23c.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TipRanks",
+          "url": "https://www.tipranks.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-looks-poised-revisit-211600722.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-looks-poised-revisit-211600722.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "ANT"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "MSF"
+            },
+            {
+              "symbol": "4338"
+            },
+            {
+              "symbol": "NVDA"
             },
             {
               "symbol": "ORCL"
@@ -2036,30 +1845,77 @@
       }
     },
     {
-      "id": "e06ea049-e52a-3263-b062-441c2cbea837",
+      "id": "0e8ab9d2-53ab-32ec-bc10-f25593509fa0",
       "content": {
-        "id": "e06ea049-e52a-3263-b062-441c2cbea837",
+        "id": "0e8ab9d2-53ab-32ec-bc10-f25593509fa0",
         "contentType": "STORY",
-        "title": "You Don’t Need Nvidia to Beat the S&P 500. These ETFs Prove It.",
+        "title": "Meta tests prediction-market app for employees, WSJ reports",
         "description": null,
-        "summary": "Nvidia’s leadership crisis is weighing on its shares, but two ETFs that don’t own the chip giant are outperforming the broader market.",
-        "pubDate": "2026-11-12T21:28:00Z",
-        "displayTime": "2026-11-12T21:28:00Z",
+        "summary": "Investing.com -- Meta Platforms is testing an internal prediction-market app called Takes, allowing employees to predict the outcomes of events using virtual points rather than real money, The Wall Street Journal reported Friday.",
+        "pubDate": "2026-11-13T20:30:17Z",
+        "displayTime": "2026-11-13T20:30:17Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/meta-tests-prediction-market-app-203017664.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/meta-tests-prediction-market-app-203017664.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "AAPL"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "KLSH.PVT"
+            },
+            {
+              "symbol": "POLA.PVT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "51e6bed3-7414-3720-93c3-da1f75ffbe18",
+      "content": {
+        "id": "51e6bed3-7414-3720-93c3-da1f75ffbe18",
+        "contentType": "STORY",
+        "title": "Anthropic’s Best Financial Metric Is Also Its Biggest Risk",
+        "description": null,
+        "summary": "Pricing power is one of its greatest strengths. Preserving it may be it’s toughest test.",
+        "pubDate": "2026-11-13T19:53:00Z",
+        "displayTime": "2026-11-13T19:53:00Z",
         "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/e06ea049-e52a-3263-b062-441c2cbea837/you-don-t-need-nvidia-to-beat.html",
+        "previewUrl": "https://finance.yahoo.com/m/51e6bed3-7414-3720-93c3-da1f75ffbe18/anthropic-s-best-financial.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/afc26d62ad9cfe100c826370f2bc065d.jpg",
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/7c56552880cf038fcf4b58efe35338c5.jpg",
           "originalWidth": 1280,
           "originalHeight": 640,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/Barrons.com/afc26d62ad9cfe100c826370f2bc065d.jpg",
+              "url": "https://media.zenfs.com/en/Barrons.com/7c56552880cf038fcf4b58efe35338c5.jpg",
               "width": 1280,
               "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/2f38cb577bf7c6dacc5c7b7c6724a4e54fd93e1c4338979a4c6d3d0d05633fd6/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2Fafc26d62ad9cfe100c826370f2bc065d.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/fd1cbf8a4727bb9f7ed758bdf351e4b2b113ee98eac0ce636bbb91e8c1ab9a44/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F7c56552880cf038fcf4b58efe35338c5.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2071,7 +1927,7 @@
           "url": "http://www.barrons.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.barrons.com/articles/etfs-beating-sp500-without-nvidia-stock-97ea9f52?siteid=yhoof2&yptr=yahoo"
+          "url": "https://www.barrons.com/articles/anthropic-openai-massive-margins-a2a45876?siteid=yhoof2&yptr=yahoo"
         },
         "clickThroughUrl": null,
         "finance": {
@@ -2080,49 +1936,49 @@
           },
           "stockTickers": [
             {
-              "symbol": "AAPL"
+              "symbol": "ANT.CN"
             },
             {
-              "symbol": "AMD"
+              "symbol": "CRM"
             },
             {
-              "symbol": "AVGO"
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "IBM"
             },
             {
               "symbol": "META"
-            },
-            {
-              "symbol": "MU"
             }
           ]
         }
       }
     },
     {
-      "id": "01450a56-e854-3fe2-b546-f78438105a72",
+      "id": "aea6e2ba-f1b0-3d66-a4ef-7179e0048c5e",
       "content": {
-        "id": "01450a56-e854-3fe2-b546-f78438105a72",
+        "id": "aea6e2ba-f1b0-3d66-a4ef-7179e0048c5e",
         "contentType": "STORY",
-        "title": "5 Best Stocks to Buy After Democrats’ Election Sweep, According to CIBC",
+        "title": "Meta Testing New Prediction-Market App With Employees",
         "description": null,
-        "summary": "CIBC Capital Markets recommended a list of top stock picks after the Democratic sweep of Congress, according to CNBC, citing a potentially tougher regulatory environment for corporate America. In a report published the day after the midterm vote, the Canadian bank said its Democratic basket was designed to hold up in a more defensive market, […]",
-        "pubDate": "2026-11-12T21:10:09Z",
-        "displayTime": "2026-11-12T21:10:09Z",
-        "isHosted": true,
-        "previewUrl": null,
+        "summary": "Employees can wager on the outcome of questions or events using ‘cred,’ not real money, on the app, which is under development.",
+        "pubDate": "2026-11-13T19:49:00Z",
+        "displayTime": "2026-11-13T19:49:00Z",
+        "isHosted": false,
+        "previewUrl": "https://finance.yahoo.com/m/aea6e2ba-f1b0-3d66-a4ef-7179e0048c5e/meta-testing-new.html",
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/9c06a55a7a30dfb412514486e720f6be.jpg",
-          "originalWidth": 1456,
-          "originalHeight": 816,
+          "originalUrl": "https://media.zenfs.com/en/wsj.com/ab8a4eaa94bd4fb31dedcfb7481644a8.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/insidermonkey.com/9c06a55a7a30dfb412514486e720f6be.jpg",
-              "width": 1456,
-              "height": 816,
+              "url": "https://media.zenfs.com/en/wsj.com/ab8a4eaa94bd4fb31dedcfb7481644a8.jpg",
+              "width": 1280,
+              "height": 640,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/eeaf2416a95c83c9155fb37086da6ce2aa88ef81edf7007011f0adad8c12d803/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9c06a55a7a30dfb412514486e720f6be.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/dc88d27f580eb0208fa3e31b8fcad6503d81fdc19116dcc0286b62ab9bd279c0/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsj.com%2Fab8a4eaa94bd4fb31dedcfb7481644a8.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2130,64 +1986,50 @@
           ]
         },
         "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com"
+          "displayName": "The Wall Street Journal",
+          "url": "http://www.wsj.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-democrats-211009002.html"
+          "url": "https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2?siteid=yhoof2&yptr=yahoo"
         },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-democrats-211009002.html"
-        },
+        "clickThroughUrl": null,
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false
           },
           "stockTickers": [
             {
-              "symbol": "V"
-            },
-            {
               "symbol": "META"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "AMZN"
             }
           ]
         }
       }
     },
     {
-      "id": "d5422af3-d63f-34d6-b5ce-8a0a8b94a930",
+      "id": "31b16ee3-43a7-31bc-8a9c-e1a69b9bee1e",
       "content": {
-        "id": "d5422af3-d63f-34d6-b5ce-8a0a8b94a930",
+        "id": "31b16ee3-43a7-31bc-8a9c-e1a69b9bee1e",
         "contentType": "STORY",
-        "title": "Pimco CEO Warns: AI Companies Risk Borrowing \"Too Much\" ($10 Trillion)",
+        "title": "Wall Street Is Writing Off Nvidia Stock. Here's Why That's a Mistake.",
         "description": null,
-        "summary": "AI companies are on track to borrow so much money that it might nearly match the size of the overall $12 trillion U.S. corporate bond market.",
-        "pubDate": "2026-11-12T19:50:00Z",
-        "displayTime": "2026-11-12T19:50:00Z",
+        "summary": "Analysts are cooling a bit on Nvidia.",
+        "pubDate": "2026-11-13T19:37:00Z",
+        "displayTime": "2026-11-13T19:37:00Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/5f90c1045ee08e521f5917d54060c16c.jpg",
-          "originalWidth": 1279,
-          "originalHeight": 853,
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/401fc63ea2a5f92063df40d4ba6632bf.png",
+          "originalWidth": 1400,
+          "originalHeight": 840,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/motleyfool.com/5f90c1045ee08e521f5917d54060c16c.jpg",
-              "width": 1279,
-              "height": 853,
+              "url": "https://media.zenfs.com/en/motleyfool.com/401fc63ea2a5f92063df40d4ba6632bf.png",
+              "width": 1400,
+              "height": 840,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/161c05789780a23d265aa57c0f1f9356814b3cb78408bfdeefeae9ee08c0c75c/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F5f90c1045ee08e521f5917d54060c16c.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/da6fc74ec448ea70b02eba96e4506b69995b2d0109453fb129614b22f9edf847/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F401fc63ea2a5f92063df40d4ba6632bf.png",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2199,10 +2041,10 @@
           "url": "http://www.fool.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/12/pimco-ceo-warns-ai-companies-risk-borrowing-too-mu/"
+          "url": "https://www.fool.com/investing/2026/11/13/wall-street-is-writing-off-nvidia-stock-heres-why/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/pimco-ceo-warns-ai-companies-195000696.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-writing-off-nvidia-193700062.html"
         },
         "finance": {
           "premiumFinance": {
@@ -2210,16 +2052,146 @@
           },
           "stockTickers": [
             {
-              "symbol": "AMZN"
+              "symbol": "NVDA"
             },
             {
               "symbol": "GOOGN"
             },
             {
               "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "f5b5911f-7354-3cc9-bd18-5adbd6ba894b",
+      "content": {
+        "id": "f5b5911f-7354-3cc9-bd18-5adbd6ba894b",
+        "contentType": "STORY",
+        "title": "Dear Disney Stock Fans, Mark Your Calendars for November 17",
+        "description": null,
+        "summary": "Disney's Q4 earnings are around the corner, and there's more than a few storylines worth watching beyond the numbers.",
+        "pubDate": "2026-11-13T18:50:37Z",
+        "displayTime": "2026-11-13T18:50:37Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/barchart_com_477/86b412ae486da16cee25ebb7f09cfb42.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 1200,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/barchart_com_477/86b412ae486da16cee25ebb7f09cfb42.jpg",
+              "width": 1600,
+              "height": 1200,
+              "tag": "original"
             },
             {
-              "symbol": "ORCL"
+              "url": "https://s.yimg.com/lo/mysterio/api/d4d0c7c1d9a0282ad393de316290a199fc60e56c51b120b025685ee7c1732e17/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F86b412ae486da16cee25ebb7f09cfb42.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barchart",
+          "url": "https://www.barchart.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barchart.com/story/news/8827025/dear-disney-stock-fans-mark-your-calendars-for-november-17"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dear-disney-stock-fans-mark-185037411.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "DIS"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "ADBE"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1f7a73e2-d4c4-316b-81c3-d79090eb554f",
+      "content": {
+        "id": "1f7a73e2-d4c4-316b-81c3-d79090eb554f",
+        "contentType": "STORY",
+        "title": "Should You Wait Before Buying Reddit Stock?",
+        "description": null,
+        "summary": "For questions about this article or underlying research, email help@trefis.com.",
+        "pubDate": "2026-11-13T18:21:10Z",
+        "displayTime": "2026-11-13T18:21:10Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/8d6c8a51b8ea7237028c2294730d2dd9.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1280,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/8d6c8a51b8ea7237028c2294730d2dd9.jpg",
+              "width": 1920,
+              "height": 1280,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/77432b53f5713a1d2b57ffa38d3568d7868f786bb02d396eccd7aef7bc39736d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F8d6c8a51b8ea7237028c2294730d2dd9.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/rddt/articles/625021/should-you-wait-before-buying-reddit-stock/2026-11-13"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wait-buying-reddit-stock-182110759.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "RDDT"
+            },
+            {
+              "symbol": "^GSPC"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "PINS"
+            },
+            {
+              "symbol": "SNAP"
+            },
+            {
+              "symbol": "MTCH"
+            },
+            {
+              "symbol": "SPGI"
             }
           ]
         }
