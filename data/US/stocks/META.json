@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-11-15T01:27:49.114515",
+    "ts": "2026-11-16T01:29:53.744568",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -150,9 +150,9 @@
     "payoutRatio": 0.0716,
     "beta": 1.279,
     "trailingPE": 21.893211,
-    "forwardPE": 18.031155,
-    "volume": 15088458,
-    "regularMarketVolume": 15088458,
+    "forwardPE": 17.987026,
+    "volume": 15150951,
+    "regularMarketVolume": 15150951,
     "averageVolume": 21241726,
     "averageVolume10days": 18332310,
     "averageDailyVolume10Day": 18332310,
@@ -198,7 +198,7 @@
     "earningsQuarterlyGrowth": 2.64,
     "netIncomeToCommon": 75249000448,
     "trailingEps": 29.31,
-    "forwardEps": 35.58785,
+    "forwardEps": 35.67516,
     "pegRatio": 0.83,
     "enterpriseToRevenue": 6.923,
     "enterpriseToEbitda": 14.396,
@@ -209,8 +209,8 @@
     "quoteType": "EQUITY",
     "currentPrice": 641.69,
     "targetHighPrice": 1050.0,
-    "targetLowPrice": 629.06,
-    "targetMeanPrice": 850.1025,
+    "targetLowPrice": 650.0,
+    "targetMeanPrice": 851.12494,
     "targetMedianPrice": 850.0,
     "recommendationMean": 1.40984,
     "recommendationKey": "strong_buy",
@@ -243,6 +243,34 @@
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
     "exchange": "NMS",
+    "priceEpsCurrentYear": 21.646889,
+    "fiftyDayAverageChange": -38.11621,
+    "fiftyDayAverageChangePercent": -0.05606923,
+    "twoHundredDayAverageChange": 10.922607,
+    "sourceInterval": 15,
+    "exchangeDataDelayedBy": 15,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-11-15",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
+    "corporateActions": [],
+    "postMarketTime": 1794617979,
+    "regularMarketTime": 1794603601,
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "gmtOffSetMilliseconds": -18000000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "postMarketChangePercent": -0.7296844,
+    "postMarketPrice": 637.0077,
+    "postMarketChange": -4.682312,
+    "regularMarketChange": 18.08,
+    "regularMarketChangePercent": 2.89925,
+    "regularMarketPrice": 641.69,
+    "regularMarketDayRange": "624.83 - 643.91",
+    "fullExchangeName": "NasdaqGS",
     "averageDailyVolume3Month": 21241726,
     "fiftyTwoWeekLowChange": 121.42999,
     "fiftyTwoWeekLowChangePercent": 0.2334025,
@@ -258,42 +286,14 @@
     "earningsCallTimestampEnd": 1792612800,
     "isEarningsDateEstimate": true,
     "epsTrailingTwelveMonths": 29.31,
-    "epsForward": 35.58785,
-    "epsCurrentYear": 29.72836,
-    "priceEpsCurrentYear": 21.585114,
-    "fiftyDayAverageChange": -38.11621,
-    "fiftyDayAverageChangePercent": -0.05606923,
-    "twoHundredDayAverageChange": 10.922607,
+    "epsForward": 35.67516,
+    "epsCurrentYear": 29.64352,
     "twoHundredDayAverageChangePercent": 0.017316379,
-    "sourceInterval": 15,
-    "exchangeDataDelayedBy": 15,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-11-14",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
-    "postMarketChangePercent": -0.7296844,
-    "postMarketPrice": 637.0077,
-    "postMarketChange": -4.682312,
-    "regularMarketChange": 18.08,
-    "regularMarketChangePercent": 2.89925,
-    "regularMarketPrice": 641.69,
-    "regularMarketDayRange": "624.83 - 643.91",
-    "fullExchangeName": "NasdaqGS",
     "shortName": "Meta Platforms, Inc.",
     "longName": "Meta Platforms, Inc.",
-    "corporateActions": [],
-    "postMarketTime": 1794617979,
-    "regularMarketTime": 1794603601,
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EST",
-    "gmtOffSetMilliseconds": -18000000,
-    "market": "us_market",
-    "esgPopulated": false,
+    "marketState": "CLOSED",
     "hasPrePostMarketData": true,
     "firstTradeDateMilliseconds": 1337347800000,
-    "marketState": "CLOSED",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.8341
   },
@@ -1596,6 +1596,387 @@
   },
   "news": [
     {
+      "id": "86fa26d8-0c45-355f-9be9-7b1235f9dc3d",
+      "content": {
+        "id": "86fa26d8-0c45-355f-9be9-7b1235f9dc3d",
+        "contentType": "STORY",
+        "title": "Anthropic's record IPO faces some big questions",
+        "description": null,
+        "summary": "No startup has ever grown so fast.Investors have already grown nervous.",
+        "pubDate": "2026-11-16T01:24:30Z",
+        "displayTime": "2026-11-16T01:24:30Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/afp.com/c71801444ef21e7222d971e5e76e327e.jpg",
+          "originalWidth": 768,
+          "originalHeight": 512,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/afp.com/c71801444ef21e7222d971e5e76e327e.jpg",
+              "width": 768,
+              "height": 512,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/91efc268deb1748e8b4bf99d61a2e847a35110c5438e8e51887dfe5df460b0a8/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc71801444ef21e7222d971e5e76e327e.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "AFP",
+          "url": "http://www.afp.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-faces-big-012430589.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-faces-big-012430589.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "ANTH.PVT"
+            },
+            {
+              "symbol": "GOOGN"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "MSFT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "bece947a-506f-3de9-9a61-ee2d97c4a3df",
+      "content": {
+        "id": "bece947a-506f-3de9-9a61-ee2d97c4a3df",
+        "contentType": "STORY",
+        "title": "Is Meta Stock Still a Buy After Borrowing About $25 Billion This Month?",
+        "description": null,
+        "summary": "The social media giant's new bonds pay up to 7.5% a year. Should shareholders worry?",
+        "pubDate": "2026-11-16T00:07:01Z",
+        "displayTime": "2026-11-16T00:07:01Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/801fc9e1c048d88847efba75642d081e.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 1048,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/motleyfool.com/801fc9e1c048d88847efba75642d081e.jpg",
+              "width": 1400,
+              "height": 1048,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/7aafe9584ae7bb4197f6a8b65bbbe7ae6cb3fcf9b7648c99eacb038bd3f2efa6/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F801fc9e1c048d88847efba75642d081e.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/11/15/is-meta-stock-still-a-buy-after-borrowing-about-usd25-billion-this-month/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-still-buy-borrowing-000701983.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "EUR=X"
+            },
+            {
+              "symbol": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "5ee09cf1-e4e2-3c15-ad66-2c1be94e1ba4",
+      "content": {
+        "id": "5ee09cf1-e4e2-3c15-ad66-2c1be94e1ba4",
+        "contentType": "VIDEO",
+        "title": "By The Way: Headlines You May Have Missed",
+        "description": "AI bots using credit cards, Meta and TikTok's confidential payments to teens, how the wealthy are trying to keep kids at home, and a fundraising drunk raccoon: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see.",
+        "summary": "AI bots using credit cards, Meta and TikTok's confidential payments to teens, how the wealthy are trying to keep kids at home, and a fundraising drunk raccoon: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see.",
+        "pubDate": "2026-11-15T15:50:39Z",
+        "displayTime": "2026-11-15T15:50:39Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/bloomberg_markets_video_2/9746e282adb4bd64bd8d0479e2145228.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/bloomberg_markets_video_2/9746e282adb4bd64bd8d0479e2145228.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/744797e481153ff5597893e414c9beeeff1d8ce2046293d34164a9a15fcb8c19/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_markets_video_2%2F9746e282adb4bd64bd8d0479e2145228.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Bloomberg",
+          "url": "https://www.bloomberg.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/video/way-headlines-may-missed-155039548.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/video/way-headlines-may-missed-155039548.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "e875c074-ba5d-3cc6-afc7-fb971f0c6eab",
+      "content": {
+        "id": "e875c074-ba5d-3cc6-afc7-fb971f0c6eab",
+        "contentType": "STORY",
+        "title": "Italy Fines Meta €805 Million. Why the Legal Route Matters More Than the Money",
+        "description": null,
+        "summary": "Key TakeawaysItaly fined Meta €805 million (about $887 million) over a Facebook Android feature that accessed users’ photo galleries without specific consent. Meta must switch it off by default within 60 days, and it plans to appeal.",
+        "pubDate": "2026-11-15T13:53:24Z",
+        "displayTime": "2026-11-15T13:53:24Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/6c01657f98761a09db693ccdf898b88a",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/tikr_258/6c01657f98761a09db693ccdf898b88a",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/7872965bc5ab12854df40898179d15d7af347b76019a374264010d1f36a367f8/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F6c01657f98761a09db693ccdf898b88a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.tikr.com/blog/italy-fines-meta-e805-million-why-the-legal-route-matters-more-than-the-money?ref=yahoofinance&tlnk=yf-261115-qgc4gxcp"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/italy-fines-meta-805-million-135324699.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d2d9943b-f884-338e-afc5-5bbb07c9e575",
+      "content": {
+        "id": "d2d9943b-f884-338e-afc5-5bbb07c9e575",
+        "contentType": "STORY",
+        "title": "Meta (META) Faces $880 Million Italy Fine Over User Photo Access",
+        "description": null,
+        "summary": "Meta Platforms (NasdaqGS:META) faces a proposed €880 million fine in Italy over alleged misuse of users' photos and metadata. Italy's data protection authority targets Facebook's Gallery Suggestions feature for accessing and processing images without explicit, informed consent. Meta has stated it plans to appeal the Italian regulator's decision through available legal channels. The Italian fine over Gallery Suggestions arrives as regulators intensify scrutiny of how Meta handles user data...",
+        "pubDate": "2026-11-15T13:06:40Z",
+        "displayTime": "2026-11-15T13:06:40Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/e70faf69adb58a11417039c474d60f34.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/simply_wall_st__316/e70faf69adb58a11417039c474d60f34.jpg",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/231dfbf51d1cca0096bec1fec1610e257bbb84b1ec2ebe37a48385f638efd902/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fe70faf69adb58a11417039c474d60f34.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/meta-meta-faces-880-million-130640061.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/meta-meta-faces-880-million-130640061.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "adfe00a6-05d8-3b48-abb5-c6d6e285c697",
+      "content": {
+        "id": "adfe00a6-05d8-3b48-abb5-c6d6e285c697",
+        "contentType": "STORY",
+        "title": "From Dodge to Anthropic: The Century-Old Playbook Taking Over Tech IPOs",
+        "description": null,
+        "summary": "Many of the hottest companies now use dual-share structures in which in insiders hold most of the voting stock.",
+        "pubDate": "2026-11-15T10:00:00Z",
+        "displayTime": "2026-11-15T10:00:00Z",
+        "isHosted": false,
+        "previewUrl": "https://finance.yahoo.com/m/adfe00a6-05d8-3b48-abb5-c6d6e285c697/from-dodge-to-anthropic-the.html",
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/Barrons.com/c21d346c3ad6dfea6c26e499250b98a0.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/Barrons.com/c21d346c3ad6dfea6c26e499250b98a0.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/13457f6fddbcef6cf914098818613f80aa3f4f8f854f5e22bf076e5591bed258/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2Fc21d346c3ad6dfea6c26e499250b98a0.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Barrons.com",
+          "url": "http://www.barrons.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.barrons.com/articles/dual-share-structures-voting-stock-42e564b1?siteid=yhoof2&yptr=yahoo"
+        },
+        "clickThroughUrl": null,
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "ANT.CN"
+            },
+            {
+              "symbol": "BRK-B"
+            },
+            {
+              "symbol": "GM"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "SPCX"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "754d15f3-dc2c-3a9d-a736-3392ef219c79",
+      "content": {
+        "id": "754d15f3-dc2c-3a9d-a736-3392ef219c79",
+        "contentType": "STORY",
+        "title": "Evercore explains why Apple has the right assets to win the personal agents race",
+        "description": null,
+        "summary": "Investing.com -- Apple Inc (NASDAQ:AAPL) has the technology, user base, and payment infrastructure to become a leading player in personal AI agents, potentially generating billions in new revenue, according to Evercore ISI analyst Amit Daryanani.",
+        "pubDate": "2026-11-15T02:08:04Z",
+        "displayTime": "2026-11-15T02:08:04Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/evercore-explains-why-apple-assets-020804809.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/evercore-explains-why-apple-assets-020804809.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "AAPL"
+            },
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
       "id": "cf435ca8-5ed8-33d1-b335-07dd93e16f14",
       "content": {
         "id": "cf435ca8-5ed8-33d1-b335-07dd93e16f14",
@@ -1734,434 +2115,6 @@
           "stockTickers": [
             {
               "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "a0f3605b-6354-37a4-9273-f4f5d800505b",
-      "content": {
-        "id": "a0f3605b-6354-37a4-9273-f4f5d800505b",
-        "contentType": "STORY",
-        "title": "Billionaire Bill Ackman Says There’s a Huge Disconnect in Wall Street’s Expectations for Amazon, Microsoft, Meta, and Alphabet",
-        "description": null,
-        "summary": "Wall Street expects the hyperscalers to keep up their heavy capital expenditures, but it's worried that the revenue growth they are expecting to result from that spending might not show up.",
-        "pubDate": "2026-11-14T15:05:02Z",
-        "displayTime": "2026-11-14T15:05:02Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/f2dd38db12d12d6e8072053d99865dbe.png",
-          "originalWidth": 1290,
-          "originalHeight": 860,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/f2dd38db12d12d6e8072053d99865dbe.png",
-              "width": 1290,
-              "height": 860,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/f73c120d00ee94cdf5acc96ff31972a1780036708e43781dc917b644cdd21a66/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ff2dd38db12d12d6e8072053d99865dbe.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/14/bill-ackman-huge-disconnect-wall-street-expectations-for-hyperscalers/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-says-huge-150502419.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "GOOGN"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "^GSPC"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "a6b8572d-e354-396b-9cd3-d83a2d5a4419",
-      "content": {
-        "id": "a6b8572d-e354-396b-9cd3-d83a2d5a4419",
-        "contentType": "STORY",
-        "title": "Meta Is Testing a Prediction-Market App With Its Employees",
-        "description": null,
-        "summary": "Meta employees are betting fake points on Jeopardy! winners inside a secret app that has already worn three names. Can a free game succeed where the company's 2020 attempt failed, and why would an ad giant want it?",
-        "pubDate": "2026-11-14T14:22:45Z",
-        "displayTime": "2026-11-14T14:22:45Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/d18f952c7368359779f0e846c4e9a8f1",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/d18f952c7368359779f0e846c4e9a8f1",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/6556e474def9d4d428f5d76a27b498fc096140b4d3b2e579596d4eef5467329d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fd18f952c7368359779f0e846c4e9a8f1",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/14/meta-is-testing-a-prediction-market-app-with-its-employees/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/meta-testing-prediction-market-app-142245481.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "CME"
-            },
-            {
-              "symbol": "DKNG"
-            },
-            {
-              "symbol": "HOOD"
-            },
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "2ea5c519-764e-39a1-bd3e-455910c36005",
-      "content": {
-        "id": "2ea5c519-764e-39a1-bd3e-455910c36005",
-        "contentType": "STORY",
-        "title": "SpaceX Hollows Out Its AI Video Division. Elon Musk Now Has Different Priorities",
-        "description": null,
-        "summary": "A quiet round of layoffs just gutted one of Elon Musk's flashiest AI products, months after he vowed to double down on it. The retreat could hand a rival with deep pockets and a giant video platform exactly the opening it needs.",
-        "pubDate": "2026-11-14T13:16:36Z",
-        "displayTime": "2026-11-14T13:16:36Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/ee038af03568f46cf9160ed557e634f5.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 767,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/ee038af03568f46cf9160ed557e634f5.jpg",
-              "width": 1366,
-              "height": 767,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/75f0cdd2c446208821aee68cbc252a03d7207e2ab356afdea3bf175c5938f1b0/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fee038af03568f46cf9160ed557e634f5.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/14/spacex-hollows-out-its-ai-video-division-elon-musk-now-has-different-priorities/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-hollows-ai-video-division-131636093.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "SPCX"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "f54d5c89-9933-360a-a0ec-071ec33acfb6",
-      "content": {
-        "id": "f54d5c89-9933-360a-a0ec-071ec33acfb6",
-        "contentType": "STORY",
-        "title": "Jamie Dimon Just Said 5 Words Blocking Outside AI Agents From JPMorgan Accounts: \"You Don't Want Rogue Agents.\" Here's Why That Security Stance Matters for JPM and Its Tech Rivals.",
-        "description": null,
-        "summary": "The CEO of JPMorgan Chase isn't going to open his customers' accounts to \"just any\" AI agents from third parties.",
-        "pubDate": "2026-11-14T12:54:00Z",
-        "displayTime": "2026-11-14T12:54:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4900308420def7e43110061d6c9b2c33.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 787,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/4900308420def7e43110061d6c9b2c33.jpg",
-              "width": 1400,
-              "height": 787,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/daba94e8c0eaa59893489e26186f4eec71ff7132623b1ba51d0eb9a30feadda5/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F4900308420def7e43110061d6c9b2c33.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/14/jamie-dimon-just-said-5-words-blocking-outside-ai/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/jamie-dimon-just-said-5-125400574.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "1ece7b93-2d9f-3c92-9e73-30b11294eb5a",
-      "content": {
-        "id": "1ece7b93-2d9f-3c92-9e73-30b11294eb5a",
-        "contentType": "STORY",
-        "title": "A $13 Billion Hedge Fund Dumps These 3 Stocks",
-        "description": null,
-        "summary": "Key TakeawaysWhale Rock Capital, a hedge fund firm managing nearly $13 billion, sold all its Astera Labs, Carvana and Western Digital stock in the third quarter while building up Meta and SiTime. Astera Labs and Western Digital are each down 54% since June 30, the last date the fund reported owning them, while Carvana is up 10%.",
-        "pubDate": "2026-11-14T11:49:43Z",
-        "displayTime": "2026-11-14T11:49:43Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/f7bfd5c617d6eaa79ee65613e903f682",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/f7bfd5c617d6eaa79ee65613e903f682",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/35d52e702baa082c77b5ede1a41da7396b29ae250fa574e972372ccf883a1f13/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Ff7bfd5c617d6eaa79ee65613e903f682",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/a-13-billion-hedge-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261114-5rhv7c2p"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/13-billion-hedge-fund-dumps-114943050.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "CVNA"
-            },
-            {
-              "symbol": "ALAB"
-            },
-            {
-              "symbol": "WDC"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "SITM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "45502681-4171-3311-a2b9-f680353d681d",
-      "content": {
-        "id": "45502681-4171-3311-a2b9-f680353d681d",
-        "contentType": "STORY",
-        "title": "Centrus Energy (LEU) Lands Multiyear HALEU Deal Backed By Customer Prepayments",
-        "description": null,
-        "summary": "Centrus Energy (NYSE:LEU) and Oklo signed definitive multi year HALEU supply contracts to support Aurora power projects in Ohio. Meta is providing prepayments that back the fuel agreements, linking the tech group directly to future Oklo power output. The contracts are tied to new enrichment capacity at Centrus' American Centrifuge Plant and expand a reported US$5.4b backlog. These Meta backed HALEU deals between Centrus and Oklo deserve to be weighed against the rest of our Centrus findings...",
-        "pubDate": "2026-11-14T06:17:43Z",
-        "displayTime": "2026-11-14T06:17:43Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/c36fd55ce84939c882b05cbf66b4ea70.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 900,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/simply_wall_st__316/c36fd55ce84939c882b05cbf66b4ea70.jpg",
-              "width": 1600,
-              "height": 900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/cafb91160bb59bf224671e93ebd4d1fcd5a192c50be36165c054a2b9a6cbfddb/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fc36fd55ce84939c882b05cbf66b4ea70.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-lands-multiyear-061743445.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-lands-multiyear-061743445.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "LEU"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "OKLO"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "5f36b81d-371d-31a0-aa69-e15dbf8ad0a2",
-      "content": {
-        "id": "5f36b81d-371d-31a0-aa69-e15dbf8ad0a2",
-        "contentType": "STORY",
-        "title": "3 Cash Flow Stocks Trading Up To 49% Below Fair Value",
-        "description": null,
-        "summary": "AI related risks just jumped to the top of the Federal Reserve’s financial stability worries, with officials flagging stretched valuations tied to heavy spending on chips, data centers and software. When enthusiasm runs ahead of fundamentals, investors who focus on solid cash generation and pay a fair price can find rare entry points. This article highlights three cash rich stocks that screens suggest are priced below their underlying worth. The three ideas covered below are just a sample,...",
-        "pubDate": "2026-11-14T05:14:06Z",
-        "displayTime": "2026-11-14T05:14:06Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/f3fe598c37375f317d411f77b6895621.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 900,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/simply_wall_st__316/f3fe598c37375f317d411f77b6895621.jpg",
-              "width": 1600,
-              "height": 900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/9b111768dafa680383b64ef0a13992c424ca600a9d9cbe1a1162570a3f929b06/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff3fe598c37375f317d411f77b6895621.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-trading-051406202.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-trading-051406202.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "6479.T"
-            },
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "6479"
             }
           ]
         }
