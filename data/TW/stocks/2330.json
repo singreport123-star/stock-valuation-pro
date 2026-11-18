@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-11-17T04:15:45.912426"
+    "ts": "2026-11-18T03:15:43.407668"
   },
   "financials": {
     "annual": {
@@ -26940,6 +26940,41 @@
         "buy": 188658,
         "name": "Investment_Trust",
         "sell": 2492015
+      },
+      {
+        "date": "2026-11-17",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-11-17",
+        "stock_id": "2330",
+        "buy": 2178100,
+        "name": "Dealer_self",
+        "sell": 554650
+      },
+      {
+        "date": "2026-11-17",
+        "stock_id": "2330",
+        "buy": 5746901,
+        "name": "Dealer_Hedging",
+        "sell": 544925
+      },
+      {
+        "date": "2026-11-17",
+        "stock_id": "2330",
+        "buy": 30292209,
+        "name": "Foreign_Investor",
+        "sell": 44898301
+      },
+      {
+        "date": "2026-11-17",
+        "stock_id": "2330",
+        "buy": 2421672,
+        "name": "Investment_Trust",
+        "sell": 146300
       }
     ],
     "margin_trading": [],
@@ -26947,95 +26982,30 @@
   },
   "news": [
     {
-      "id": "c0ac3cec-50a6-3e69-9ae6-c77338337f8a",
+      "id": "b044782b-4fc2-3dcf-9cb8-4bdb82d1aaf2",
       "content": {
-        "id": "c0ac3cec-50a6-3e69-9ae6-c77338337f8a",
+        "id": "b044782b-4fc2-3dcf-9cb8-4bdb82d1aaf2",
         "contentType": "STORY",
-        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Hit A Revenue High, Is The Stock Fully Valued?",
+        "title": "Nvidia Is Only 17% of SMH. After Its Beat, the Chip ETF Jumped Almost as Much as Nvidia Did",
         "description": null,
-        "summary": "Taiwan Semiconductor Manufacturing (TSM) just reported October revenue up 59.7% year over year, hitting a 2026 peak while the ADRs fell 5.7% as investors stepped back from AI hardware stocks. Despite October’s revenue high, Taiwan Semiconductor Manufacturing’s share price has pulled back, with the 1 day share price return down 6.34% and the 30 day share price return down 9.49%. At the same time, the year to date share price return is up 16.85% and the 1 year total shareholder return is...",
-        "pubDate": "2026-11-17T03:09:43Z",
-        "displayTime": "2026-11-17T03:09:43Z",
+        "summary": "Nvidia is 17% of the biggest chip ETF, but SMH rose almost as much as Nvidia after its beat. Where the move came from, what happened after past reports, and what it means for a $10,000 stake.",
+        "pubDate": "2026-11-17T22:52:53Z",
+        "displayTime": "2026-11-17T22:52:53Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0f9606c11fab5873fe681760ed38df34.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 900,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/7ec0b2593628e4d9e9611e07179252be",
+          "originalWidth": 1920,
+          "originalHeight": 1072,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/simply_wall_st__316/0f9606c11fab5873fe681760ed38df34.jpg",
-              "width": 1600,
-              "height": 900,
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/7ec0b2593628e4d9e9611e07179252be",
+              "width": 1920,
+              "height": 1072,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/30108562c75c8bc200994a2a1cb92710b6cc1b82997155fd47c7252c73a1be46/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F0f9606c11fab5873fe681760ed38df34.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-030943458.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-030943458.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "0981.HK"
-            },
-            {
-              "symbol": "ANTH.PVT"
-            },
-            {
-              "symbol": "GFS"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "14ba9508-708a-3c24-a10f-1664ca2c53af",
-      "content": {
-        "id": "14ba9508-708a-3c24-a10f-1664ca2c53af",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Booked a Record NT$587 Billion Month. The Stock Has Lost Nearly 10% in Three Days Anyway",
-        "description": null,
-        "summary": "Taiwan Semiconductor closed at $373.45 on Monday, 9.7% below Wednesday's close, days after reporting record monthly revenue. Nvidia reports Tuesday.",
-        "pubDate": "2026-11-17T00:41:10Z",
-        "displayTime": "2026-11-17T00:41:10Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/388d68f1fedcd5720cd333839038c8b3.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/388d68f1fedcd5720cd333839038c8b3.jpg",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/e261fd2e486a6b86c97e071a893876a79440190c7d9c1951a6be17d169c9dac2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F388d68f1fedcd5720cd333839038c8b3.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/af71a8bf96346185b6624754810cde9f5e2f4ec291018e0d0b7e688c400b1eab/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F7ec0b2593628e4d9e9611e07179252be",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27047,134 +27017,10 @@
           "url": "https://247wallst.com/"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/16/taiwan-semiconductor-booked-a-record-nt587-billion-month-the-stock-has-lost-nearly-10-in-three-days-anyway/"
+          "url": "https://247wallst.com/investing/2026/11/17/nvidia-is-only-17-of-smh-after-its-beat-the-chip-etf-jumped-almost-as-much-as-nvidia-did/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-booked-record-nt-004110791.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "a7cec90b-b545-3dc9-a81d-7b5159e8066d",
-      "content": {
-        "id": "a7cec90b-b545-3dc9-a81d-7b5159e8066d",
-        "contentType": "STORY",
-        "title": "4 Chip Stocks Down as Much as 36% From Their Highs to Buy and Hold for the Next Decade",
-        "description": null,
-        "summary": "Four AI chip stocks trade as much as a third under their records. Which would I want to own for 10 years?",
-        "pubDate": "2026-11-16T23:01:02Z",
-        "displayTime": "2026-11-16T23:01:02Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/68f7b6db1faf26d8667da359386bf225.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 840,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/68f7b6db1faf26d8667da359386bf225.jpg",
-              "width": 1400,
-              "height": 840,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/3fdd2b30b1f65114f25797881dcc4c947212aac1f04216fc9c996a1beb1721b6/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F68f7b6db1faf26d8667da359386bf225.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/16/4-chip-stocks-down-as-much-as-36-from-their-highs-to-buy-and-hold-for-the-next-decade/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-chip-stocks-down-much-230102349.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "AMD"
-            },
-            {
-              "symbol": "MU"
-            },
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "ASML"
-            },
-            {
-              "symbol": "NVDA"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "82b084a2-7804-329b-a9d5-f923f07e73aa",
-      "content": {
-        "id": "82b084a2-7804-329b-a9d5-f923f07e73aa",
-        "contentType": "STORY",
-        "title": "Huang’s ‘trillion-dollar dinners’ with Taiwan chip bosses were Nvidia’s secret weapon. Now he’s out. Can he be replaced?",
-        "description": null,
-        "summary": "“With a new CEO, those relationships won’t be as close as they were with Jensen Huang.\"",
-        "pubDate": "2026-11-16T23:00:00Z",
-        "displayTime": "2026-11-16T23:00:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/moneywise_327/d9e05fa1c595812493c25ce051afe64f.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/moneywise_327/d9e05fa1c595812493c25ce051afe64f.jpg",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/b86ebfc3db049575ed09500dcfb2bc07c6edb592f7bc441111a2e16885ace1b8/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fd9e05fa1c595812493c25ce051afe64f.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Moneywise",
-          "url": "https://moneywise.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/huang-trillion-dollar-dinners-taiwan-230000506.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/huang-trillion-dollar-dinners-taiwan-230000506.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-only-17-smh-beat-225253418.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27186,110 +27032,48 @@
             },
             {
               "symbol": "TSM"
-            },
-            {
-              "symbol": "3231.TW"
-            },
-            {
-              "symbol": "2382.TW"
-            },
-            {
-              "symbol": "AAPL"
-            },
-            {
-              "symbol": "2317.TW"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "cd4a467c-45e3-306e-ba87-f790c2d4a0c1",
-      "content": {
-        "id": "cd4a467c-45e3-306e-ba87-f790c2d4a0c1",
-        "contentType": "STORY",
-        "title": "NVIDIA After Jensen: What's Next for the AI Trade?",
-        "description": null,
-        "summary": "From NVIDIA's woes to the impact of the blue wave, we explore the bull and bear cases for AI stocks.",
-        "pubDate": "2026-11-16T21:39:00Z",
-        "displayTime": "2026-11-16T21:39:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-whats-next-ai-213900593.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-whats-next-ai-213900593.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "SPY"
-            },
-            {
-              "symbol": "QQQ"
             },
             {
               "symbol": "AMD"
             },
             {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "AMZN"
+              "symbol": "AVGO"
             },
             {
               "symbol": "SMH"
             },
             {
-              "symbol": "AVGO"
-            },
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "SOXX"
+              "symbol": "TXN"
             }
           ]
         }
       }
     },
     {
-      "id": "0bf02ad9-2654-3d87-ba1e-ab6dc2940934",
+      "id": "84d2d7bb-b62b-422a-a61c-4e32aa94011c",
       "content": {
-        "id": "0bf02ad9-2654-3d87-ba1e-ab6dc2940934",
+        "id": "84d2d7bb-b62b-422a-a61c-4e32aa94011c",
         "contentType": "STORY",
-        "title": "Top Analyst Reports for Taiwan Semiconductor, Johnson & Johnson and Palantir",
+        "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat",
         "description": null,
-        "summary": "Taiwan Semiconductor, Johnson & Johnson and Palantir headline today's analyst reports, with AI growth, drug pipelines and competitive pressures shaping their outlooks.",
-        "pubDate": "2026-11-16T20:59:00Z",
-        "displayTime": "2026-11-16T20:59:00Z",
+        "summary": "Semiconductor and AI infrastructure stocks moved higher in after-hours trading on Tuesday after AI chip heavyweight Nvidia posted better-than-expected quarterly results.",
+        "pubDate": "2026-11-17T22:01:59Z",
+        "displayTime": "2026-11-17T22:25:04Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/f3466aebbef6850826a46314bf4b3ccf.jpg",
-          "originalWidth": 635,
-          "originalHeight": 400,
+          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/2026-11/712463ce-5f97-4e95-87a8-8482f081c7f1",
+          "originalWidth": 6008,
+          "originalHeight": 4003,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/zacks.com/f3466aebbef6850826a46314bf4b3ccf.jpg",
-              "width": 635,
-              "height": 400,
+              "url": "https://d29szjachogqwa.cloudfront.net/images/2026-11/712463ce-5f97-4e95-87a8-8482f081c7f1",
+              "width": 6008,
+              "height": 4003,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/3c24a769604b97bedb9d3e52c187a60892753f754be79a4e5b0b6eea600afd8b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2Ff3466aebbef6850826a46314bf4b3ccf.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/85275b57cd1c6a8aee66219c32be1c08170ab2305f245e8aa0a905325503db23/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F712463ce-5f97-4e95-87a8-8482f081c7f1",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27297,91 +27081,14 @@
           ]
         },
         "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/"
+          "displayName": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-taiwan-semiconductor-205900812.html"
+          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-taiwan-semiconductor-205900812.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "PLTR"
-            },
-            {
-              "symbol": "JNJ"
-            },
-            {
-              "symbol": "ITIC"
-            },
-            {
-              "symbol": "ATGN"
-            },
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "BBY"
-            },
-            {
-              "symbol": "ES"
-            },
-            {
-              "symbol": "AXON"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "ca47c690-a6a7-3a5d-818c-66a3fedf9ded",
-      "content": {
-        "id": "ca47c690-a6a7-3a5d-818c-66a3fedf9ded",
-        "contentType": "STORY",
-        "title": "TSMC Slumps Nearly 6% as Jensen Huang’s Exit and AI Debt Fears Rattle Investors Ahead of Nvidia Earnings",
-        "description": null,
-        "summary": "Six days after reporting record monthly sales, Taiwan Semiconductor Manufacturing Co. (NYSE:TSM) lost about $106 billion in market value in Taipei on Monday. Nvidia Corp. (NASDAQ:NVDA) holds its first earnings call since Jensen Huang resigned on Tuesday. Investors will be...",
-        "pubDate": "2026-11-16T20:30:09Z",
-        "displayTime": "2026-11-16T20:30:09Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_prediction_markets_613/715b752df35a2837425600659274301c.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/benzinga_prediction_markets_613/715b752df35a2837425600659274301c.jpg",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/e3c7e72f7ce424ac66da8f5d7e2d488e3e8e4f4a1535dba97f93b0fcd217735f/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_prediction_markets_613%2F715b752df35a2837425600659274301c.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga Prediction Markets",
-          "url": "https://www.benzinga.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63319299/tsmc-nvidia-financing?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-slumps-nearly-6-jensen-203009869.html"
+          "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27392,13 +27099,13 @@
               "symbol": "NVDA"
             },
             {
-              "symbol": "TSM"
+              "symbol": "AMD"
             },
             {
-              "symbol": "2317.TW"
+              "symbol": "AVGO"
             },
             {
-              "symbol": "2454.TW"
+              "symbol": "CRWV"
             },
             {
               "symbol": "TSM"
@@ -27408,30 +27115,30 @@
       }
     },
     {
-      "id": "ab3d1d62-4a6b-37ba-815d-4846c124bbe7",
+      "id": "193f76fa-6f3d-39ce-9f0c-e153eb9bc07a",
       "content": {
-        "id": "ab3d1d62-4a6b-37ba-815d-4846c124bbe7",
+        "id": "193f76fa-6f3d-39ce-9f0c-e153eb9bc07a",
         "contentType": "STORY",
-        "title": "INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5%",
+        "title": "Surging AI Demand and Advanced Chipmaking Strengthens Taiwan Semiconductor Manufacturing Company Limited (TSM) Growth Outlook",
         "description": null,
-        "summary": "Intel is up big this year, yet the fund built to double its moves is sitting in the red. A daily reset quirk explains the gap, and it matters for anyone tempted to buy this dip.",
-        "pubDate": "2026-11-16T20:03:12Z",
-        "displayTime": "2026-11-16T20:03:12Z",
+        "summary": "We just published our list, Ken Fisher Portfolio Review: 10 Highest-Conviction Technology Stocks for Long-Term Growth, and Taiwan Semiconductor Manufacturing Company Limited ranked 7th on this list. Ken Fisher, founder and former CEO of Fisher Asset Management, has historically maintained a constructive, growth-oriented view of technology stocks. His investment philosophy centers around companies with strong […]",
+        "pubDate": "2026-11-17T20:21:55Z",
+        "displayTime": "2026-11-17T20:21:55Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/388d68f1fedcd5720cd333839038c8b3.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 768,
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/2952936b19a24e9cafef0e734ea5d91b.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1278,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/388d68f1fedcd5720cd333839038c8b3.jpg",
-              "width": 1366,
-              "height": 768,
+              "url": "https://media.zenfs.com/en/insidermonkey.com/2952936b19a24e9cafef0e734ea5d91b.jpg",
+              "width": 1920,
+              "height": 1278,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/e261fd2e486a6b86c97e071a893876a79440190c7d9c1951a6be17d169c9dac2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F388d68f1fedcd5720cd333839038c8b3.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/9ed6de97eb24ab8110a9c79d29ac531c7b6ba4ae67bd16be672cff7bd4478833/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F2952936b19a24e9cafef0e734ea5d91b.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27439,31 +27146,128 @@
           ]
         },
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/"
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/16/intw-2x-intel-etf-tumbles-13-as-intel-drops-amid-shareholder-lawsuit-and-ai-chip-selloff-taiwan-semiconductor-falls-5/"
+          "url": "https://finance.yahoo.com/technology/ai/articles/surging-ai-demand-advanced-chipmaking-202155834.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intw-2x-intel-etf-tumbles-200312007.html"
+          "url": "https://finance.yahoo.com/technology/ai/articles/surging-ai-demand-advanced-chipmaking-202155834.html"
         },
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false
           },
           "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "8ac04dec-cf64-364a-a406-417223f64ee8",
+      "content": {
+        "id": "8ac04dec-cf64-364a-a406-417223f64ee8",
+        "contentType": "STORY",
+        "title": "The 5 Best Stocks in George Soros’s Portfolio",
+        "description": null,
+        "summary": "Key TakeawaysSoros Fund Management’s latest 13F shows its five biggest positions at Sept. 30 were Intel, Amazon, Taiwan Semiconductor, Alphabet and NVIDIA.",
+        "pubDate": "2026-11-17T19:10:12Z",
+        "displayTime": "2026-11-17T19:10:12Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/f098021ee190f6a2a2bccf647082ae28",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/tikr_258/f098021ee190f6a2a2bccf647082ae28",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/d68f3fad3e23af5ee511462ab72aa23b8809213f50ba58179c5b3abe284ba3e1/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Ff098021ee190f6a2a2bccf647082ae28",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.tikr.com/blog/the-5-best-stocks-in-george-soross-portfolio?ref=yahoofinance&tlnk=yf-261117-8999fh2f"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-george-soros-191012048.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "NVDA"
+            },
             {
               "symbol": "INTC"
             },
             {
+              "symbol": "AMZN"
+            },
+            {
+              "symbol": "GOOGN"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "b0feeda1-3eed-3f66-a572-e6227da5be68",
+      "content": {
+        "id": "b0feeda1-3eed-3f66-a572-e6227da5be68",
+        "contentType": "STORY",
+        "title": "TSMC Stocks Fall 4.26% as New US Rule Tightens Checks on Chip Foundries",
+        "description": null,
+        "summary": "The BIS rule narrows how foundries can clear advanced logic orders from designers tied to restricted destinations, effective on November 19 publication.",
+        "pubDate": "2026-11-17T19:01:03Z",
+        "displayTime": "2026-11-17T19:01:03Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-4-26-190103464.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-4-26-190103464.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
               "symbol": "TSM"
             },
             {
-              "symbol": "AVGO"
-            },
-            {
-              "symbol": "NVDA"
+              "symbol": "005930.KS"
             },
             {
               "symbol": "TSM"
@@ -27473,27 +27277,27 @@
       }
     },
     {
-      "id": "a191c136-0a85-3077-87df-6c7952eff6f9",
+      "id": "42aa4f63-6f0c-371c-8576-344cba4c6127",
       "content": {
-        "id": "a191c136-0a85-3077-87df-6c7952eff6f9",
+        "id": "42aa4f63-6f0c-371c-8576-344cba4c6127",
         "contentType": "STORY",
-        "title": "Altimeter Capital to invest $5 billion in Anthropic IPO - report",
+        "title": "Beyond NVIDIA & Anthropic: 3 Important Stock Catalysts to Watch Into December",
         "description": null,
-        "summary": "Investing.com -- Altimeter Capital will invest $5 billion in Anthropic's initial public offering, according to Brad Gerstner, who spoke on CNBC's \"Halftime Report\" on Monday.",
-        "pubDate": "2026-11-16T18:46:41Z",
-        "displayTime": "2026-11-16T18:46:41Z",
+        "summary": "FICO, Costco, and Ford have important interim updates ahead that could offer fresh clues about consumer credit, spending, and the auto industry.",
+        "pubDate": "2026-11-17T18:52:28Z",
+        "displayTime": "2026-11-17T18:52:28Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": null,
         "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/"
+          "displayName": "Wall Street Horizon",
+          "url": "https://www.wallstreethorizon.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/altimeter-capital-invest-5-billion-184641881.html"
+          "url": "https://www.wallstreethorizon.com/blog/Beyond-NVIDIA--Anthropic-3-Important-Stock-Catalysts-to-Watch-Into-December"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/altimeter-capital-invest-5-billion-184641881.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-nvidia-anthropic-3-important-185228247.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27501,10 +27305,93 @@
           },
           "stockTickers": [
             {
+              "symbol": "COST"
+            },
+            {
+              "symbol": "F"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
               "symbol": "ANTH.PVT"
             },
             {
-              "symbol": "OPAI.PVT"
+              "symbol": "FICO"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "WMT"
+            },
+            {
+              "symbol": "TGT"
+            },
+            {
+              "symbol": "HD"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "2366c934-cf46-3d9b-b78b-3a899e7ffe8f",
+      "content": {
+        "id": "2366c934-cf46-3d9b-b78b-3a899e7ffe8f",
+        "contentType": "STORY",
+        "title": "Could Nvidia Stock Fall 50%? Follow The Cash",
+        "description": null,
+        "summary": "For most of its 27 years as a public company, Nvidia collected more cash than it reported in profit. That matters. Profit is an accounting figure. Cash in the bank is a fact. It is a big reason investors have trusted Nvidia's numbers.",
+        "pubDate": "2026-11-17T17:42:19Z",
+        "displayTime": "2026-11-17T17:42:19Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/2b4b63e49ef11f24c23518723666d661.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1440,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/2b4b63e49ef11f24c23518723666d661.jpg",
+              "width": 1920,
+              "height": 1440,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/1f4a0302e3d0c843583dce2cad100dea378cd24817481decb829666800981ef4/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F2b4b63e49ef11f24c23518723666d661.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/nvda/articles/625113/could-nvidia-stock-fall-50-follow-the-cash/2026-11-17"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-nvidia-stock-fall-50-103859887.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "CRWV"
+            },
+            {
+              "symbol": "NBIS"
+            },
+            {
+              "symbol": "GM"
             },
             {
               "symbol": "AMD"
@@ -27514,18 +27401,6 @@
             },
             {
               "symbol": "TSM"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "ANT"
-            },
-            {
-              "symbol": "GOOGN"
-            },
-            {
-              "symbol": "MU"
             },
             {
               "symbol": "MSFT"
@@ -27535,27 +27410,45 @@
       }
     },
     {
-      "id": "da838fc2-1d12-36ed-a063-5232021274ba",
+      "id": "a6c70a31-9d8f-36f8-8e7f-84c95f6f3c5a",
       "content": {
-        "id": "da838fc2-1d12-36ed-a063-5232021274ba",
+        "id": "a6c70a31-9d8f-36f8-8e7f-84c95f6f3c5a",
         "contentType": "STORY",
-        "title": "TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High",
+        "title": "Will Nvidia Guide Q4 Tonight? 3 Scenarios",
         "description": null,
-        "summary": "Record monthly revenue and a $500 million Anthropic stake could not shield TSMC's ADRs from Monday's AI chip selloff.",
-        "pubDate": "2026-11-16T18:19:25Z",
-        "displayTime": "2026-11-16T18:19:25Z",
+        "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+        "pubDate": "2026-11-17T17:21:45Z",
+        "displayTime": "2026-11-17T17:21:45Z",
         "isHosted": true,
         "previewUrl": null,
-        "thumbnail": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/6c1b0e4f811aa3c11cc4532b46c69ef1.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/6c1b0e4f811aa3c11cc4532b46c69ef1.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/1adc43dda70a1f3d452d2ee7fecbcd30fad83056aec1f736fe42d3b69b2fd540/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F6c1b0e4f811aa3c11cc4532b46c69ef1.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
         "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/"
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-slide-5-7-181925082.html"
+          "url": "https://www.trefis.com/stock/nvda/articles/626016/will-nvidia-guide-q4-tonight-3-scenarios/2026-11-17"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-slide-5-7-181925082.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-guide-q4-tonight-3-172145274.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27563,16 +27456,179 @@
           },
           "stockTickers": [
             {
-              "symbol": "TSM"
+              "symbol": "NVDA"
             },
             {
-              "symbol": "ANTH.PVT"
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "AMZN"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "AVGO"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "a6551ecd-3ffd-32d5-9dac-2208dd43f126",
+      "content": {
+        "id": "a6551ecd-3ffd-32d5-9dac-2208dd43f126",
+        "contentType": "STORY",
+        "title": "Does Nvidia Have Another 10x Run In It?",
+        "description": null,
+        "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+        "pubDate": "2026-11-17T17:21:45Z",
+        "displayTime": "2026-11-17T17:21:45Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/b06b683d5d2915a4494ac5d31c8a87d6.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 811,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/b06b683d5d2915a4494ac5d31c8a87d6.jpg",
+              "width": 1280,
+              "height": 811,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/10ef313547aa2e0fdaa33f1eb00efad8a713c4f8710c77eb49ea8846c9443dac/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fb06b683d5d2915a4494ac5d31c8a87d6.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/nvda/articles/626018/does-nvidia-have-another-10x-run-in-it/2026-11-17"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-nvidia-another-10x-run-172145118.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "AMZN"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "AVGO"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "283b8d67-2286-388e-858f-3862ce56e373",
+      "content": {
+        "id": "283b8d67-2286-388e-858f-3862ce56e373",
+        "contentType": "STORY",
+        "title": "Is SMH A Great Dip Buy At 31% Off?",
+        "description": null,
+        "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+        "pubDate": "2026-11-17T17:21:45Z",
+        "displayTime": "2026-11-17T17:21:45Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/0f1c89100af0944deb645880b726bf8e.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1280,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/0f1c89100af0944deb645880b726bf8e.jpg",
+              "width": 1920,
+              "height": 1280,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/a34ce1015f791be36154260524982eebf207739bf909433171bf695ee05a2125/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F0f1c89100af0944deb645880b726bf8e.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/smh/articles/626017/is-smh-a-great-dip-buy-at-31-off/2026-11-17"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/smh-great-dip-buy-31-172145083.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "SMH"
             },
             {
               "symbol": "NVDA"
             },
             {
+              "symbol": "^GSPC"
+            },
+            {
               "symbol": "TSM"
+            },
+            {
+              "symbol": "AVGO"
+            },
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "MU"
+            },
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "AMZN"
             }
           ]
         }
@@ -27685,74 +27741,74 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2215.0,
-    "open": 2195.0,
-    "dayLow": 2180.0,
-    "dayHigh": 2270.0,
-    "regularMarketPreviousClose": 2215.0,
-    "regularMarketOpen": 2195.0,
-    "regularMarketDayLow": 2180.0,
-    "regularMarketDayHigh": 2270.0,
+    "previousClose": 2170.0,
+    "open": 2200.0,
+    "dayLow": 2150.0,
+    "dayHigh": 2210.0,
+    "regularMarketPreviousClose": 2170.0,
+    "regularMarketOpen": 2200.0,
+    "regularMarketDayLow": 2150.0,
+    "regularMarketDayHigh": 2210.0,
     "dividendRate": 24.0,
     "dividendYield": 1.08,
     "exDividendDate": 1796860800,
     "payoutRatio": 0.24620001,
     "fiveYearAvgDividendYield": 1.51,
     "beta": 1.233,
-    "trailingPE": 24.05573,
-    "forwardPE": 14.779205,
-    "volume": 36631247,
-    "regularMarketVolume": 36631247,
-    "averageVolume": 23880934,
-    "averageVolume10days": 42515841,
-    "averageDailyVolume10Day": 42515841,
-    "bid": 2205.0,
-    "ask": 2210.0,
+    "trailingPE": 22.777254,
+    "forwardPE": 14.545146,
+    "volume": 22763317,
+    "regularMarketVolume": 22763317,
+    "averageVolume": 24562864,
+    "averageVolume10days": 44297131,
+    "averageDailyVolume10Day": 44297131,
+    "bid": 2175.0,
+    "ask": 2180.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 57310529454080,
+    "marketCap": 56402894651392,
     "nonDilutedMarketCap": 57440188408550,
     "fiftyTwoWeekLow": 1375.0,
     "fiftyTwoWeekHigh": 2590.0,
     "allTimeHigh": 2590.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2210.0,
-    "fulldayChange": -5.0,
-    "fulldayChangePercent": -0.22573364,
-    "priceToSalesTrailing12Months": 11.59002,
-    "fiftyDayAverage": 2417.6,
-    "twoHundredDayAverage": 2242.65,
-    "trailingAnnualDividendRate": 6.0,
-    "trailingAnnualDividendYield": 0.0027088036,
+    "fulldayPrice": 2175.0,
+    "fulldayChange": 5.0,
+    "fulldayChangePercent": 0.23041475,
+    "priceToSalesTrailing12Months": 11.4064665,
+    "fiftyDayAverage": 2411.8,
+    "twoHundredDayAverage": 2244.5,
+    "trailingAnnualDividendRate": 28.0,
+    "trailingAnnualDividendYield": 0.012903226,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 54240781271040,
+    "enterpriseValue": 53371331411968,
     "profitMargins": 0.51116,
-    "floatShares": 23647909440,
+    "floatShares": 23648242291,
     "sharesOutstanding": 25932364970,
     "heldPercentInsiders": 0.0005,
-    "heldPercentInstitutions": 0.43331,
+    "heldPercentInstitutions": 0.4334,
     "impliedSharesOutstanding": 25932364970,
-    "bookValue": 271.604,
-    "priceToBook": 8.136847,
+    "bookValue": 269.852,
+    "priceToBook": 8.059974,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1790726400,
     "earningsQuarterlyGrowth": 0.687,
-    "netIncomeToCommon": 2527570952192,
-    "trailingEps": 91.87,
+    "netIncomeToCommon": 2527571476480,
+    "trailingEps": 95.49,
     "forwardEps": 149.53442,
     "pegRatio": 0.61,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 10.969,
-    "enterpriseToEbitda": 15.019,
-    "52WeekChange": 0.53287196,
-    "SandP52WeekChange": 0.1332742,
+    "enterpriseToRevenue": 10.793,
+    "enterpriseToEbitda": 14.824,
+    "52WeekChange": 0.544484,
+    "SandP52WeekChange": 0.12078452,
     "lastDividendValue": 9.0,
     "lastDividendDate": 1804723200,
     "quoteType": "EQUITY",
-    "currentPrice": 2210.0,
+    "currentPrice": 2175.0,
     "targetHighPrice": 5000.0,
     "targetLowPrice": 2700.0,
     "targetMeanPrice": 3402.5144,
@@ -27760,25 +27816,25 @@
     "recommendationMean": 1.30556,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 35,
-    "totalCash": 4016980099072,
-    "totalCashPerShare": 154.904,
-    "ebitda": 3611427078144,
-    "totalDebt": 818380013568,
+    "totalCash": 4016968302592,
+    "totalCashPerShare": 154.902,
+    "ebitda": 3600238510080,
+    "totalDebt": 1069741834240,
     "quickRatio": 2.287,
-    "currentRatio": 2.505,
-    "totalRevenue": 4944817029120,
-    "debtToEquity": 11.619,
-    "revenuePerShare": 190.695,
+    "currentRatio": 2.584,
+    "totalRevenue": 4944817553408,
+    "debtToEquity": 15.188,
+    "revenuePerShare": 190.698,
     "returnOnAssets": 0.20581,
-    "returnOnEquity": 0.41854998,
-    "grossProfits": 3255971872768,
-    "freeCashflow": 1203071877120,
-    "operatingCashflow": 3127619878912,
+    "returnOnEquity": 0.4186,
+    "grossProfits": 3255971610624,
+    "freeCashflow": 1042594725888,
+    "operatingCashflow": 3127625383936,
     "earningsGrowth": 0.687,
     "revenueGrowth": 0.509,
     "grossMargins": 0.65846,
-    "ebitdaMargins": 0.73035,
-    "operatingMargins": 0.5796,
+    "ebitdaMargins": 0.72808,
+    "operatingMargins": 0.57961,
     "financialCurrency": "TWD",
     "symbol": "2330.TW",
     "language": "en-US",
@@ -27788,39 +27844,38 @@
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
     "exchange": "TAI",
-    "priceEpsCurrentYear": 19.977272,
-    "fiftyDayAverageChange": -207.6001,
-    "fiftyDayAverageChangePercent": -0.08587032,
-    "twoHundredDayAverageChange": -32.649902,
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
     "sourceInterval": 20,
     "exchangeDataDelayedBy": 20,
     "averageAnalystRating": "1.3 - Strong Buy",
     "cryptoTradeable": false,
-    "regularMarketChange": -5.0,
-    "regularMarketChangePercent": -0.22573364,
-    "regularMarketPrice": 2210.0,
-    "regularMarketDayRange": "2180.0 - 2270.0",
+    "regularMarketChange": 5.0,
+    "regularMarketChangePercent": 0.23041475,
+    "regularMarketPrice": 2175.0,
+    "regularMarketDayRange": "2150.0 - 2210.0",
     "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 23880934,
-    "fiftyTwoWeekLowChange": 835.0,
-    "fiftyTwoWeekLowChangePercent": 0.60727274,
+    "averageDailyVolume3Month": 24562864,
+    "fiftyTwoWeekLowChange": 800.0,
+    "fiftyTwoWeekLowChangePercent": 0.58181816,
     "fiftyTwoWeekRange": "1375.0 - 2590.0",
-    "fiftyTwoWeekHighChange": -380.0,
-    "fiftyTwoWeekHighChangePercent": -0.14671814,
-    "fiftyTwoWeekChangePercent": 53.287197,
-    "esgPopulated": false,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
+    "fiftyTwoWeekHighChange": -415.0,
+    "fiftyTwoWeekHighChangePercent": -0.16023166,
+    "fiftyTwoWeekChangePercent": 54.448402,
     "earningsTimestamp": 1792042200,
     "earningsTimestampStart": 1799904600,
     "earningsTimestampEnd": 1799904600,
     "earningsCallTimestampStart": 1792044000,
     "earningsCallTimestampEnd": 1792044000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 91.87,
+    "epsTrailingTwelveMonths": 95.49,
     "epsForward": 149.53442,
     "epsCurrentYear": 110.62572,
-    "twoHundredDayAverageChangePercent": -0.014558626,
+    "priceEpsCurrentYear": 19.660889,
+    "fiftyDayAverageChange": -236.80005,
+    "fiftyDayAverageChangePercent": -0.098183945,
+    "twoHundredDayAverageChange": -69.5,
+    "twoHundredDayAverageChangePercent": -0.03096458,
     "corporateActions": [
       {
         "header": "Dividend",
@@ -27832,15 +27887,16 @@
         }
       }
     ],
-    "regularMarketTime": 1794887739,
+    "regularMarketTime": 1794970540,
     "marketState": "REGULAR",
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
     "exchangeTimezoneShortName": "CST",
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "esgPopulated": false,
     "trailingPegRatio": 0.6094
   }
 }
