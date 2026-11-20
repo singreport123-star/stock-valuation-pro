@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-11-19T02:54:05.797341"
+    "ts": "2026-11-20T02:46:37.574550"
   },
   "financials": {
     "annual": {
@@ -27010,6 +27010,41 @@
         "buy": 3434133,
         "name": "Investment_Trust",
         "sell": 51000
+      },
+      {
+        "date": "2026-11-19",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-11-19",
+        "stock_id": "2330",
+        "buy": 229259,
+        "name": "Dealer_self",
+        "sell": 269634
+      },
+      {
+        "date": "2026-11-19",
+        "stock_id": "2330",
+        "buy": 5405390,
+        "name": "Dealer_Hedging",
+        "sell": 813354
+      },
+      {
+        "date": "2026-11-19",
+        "stock_id": "2330",
+        "buy": 28116375,
+        "name": "Foreign_Investor",
+        "sell": 36751136
+      },
+      {
+        "date": "2026-11-19",
+        "stock_id": "2330",
+        "buy": 1613201,
+        "name": "Investment_Trust",
+        "sell": 34000
       }
     ],
     "margin_trading": [],
@@ -27017,92 +27052,30 @@
   },
   "news": [
     {
-      "id": "120fd988-b159-4e7a-baf1-1c84cc1c0c85",
+      "id": "0d57ad8b-1765-3aba-9a63-2e4a72508871",
       "content": {
-        "id": "120fd988-b159-4e7a-baf1-1c84cc1c0c85",
-        "contentType": "VIDEO",
-        "title": "Anthropic to debut amid security worries and SpaceX to finance GPU rentals",
-        "description": "<p>Deirdre Bosa discusses Anthropic's (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/ANTH.PVT/\" data-i13n=\"slk:ANTH.PVT;cpos:1;pos:1\">ANTH.PVT</a>) expected IPO to launch amid multiple security worries, SpaceX (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/SPCX/\" data-i13n=\"slk:SPCX;cpos:2;pos:1\">SPCX</a>) financing GPU rentals, and getting around the AI bottleneck.</p>\n<p>Deirdre Bosa then sits down with Micron (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/MU/\" data-i13n=\"slk:MU;cpos:3;pos:1\">MU</a>) president and CTO Scott J. DeBoer to discuss the chip stock sell-off, Washington putting the screws to China in the AI trade, and TSMC's (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/TSM/\" data-i13n=\"slk:TSM;cpos:4;pos:1\">TSM</a>) potential move into memory.</p>\n<p>'<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/videos/series/deirdre-bosa-live/\" data-i13n=\"slk:Deirdre Bosa Live;cpos:5;pos:1\">Deirdre Bosa Live</a>' airs every day at 4 p.m. Tune in daily to hear how the latest developments in AI and technology are reshaping companies, industries, and the global economy.</p>",
-        "summary": "Deirdre Bosa discusses Anthropic's (ANTH.PVT) expected IPO to launch amid multiple security worries, SpaceX (SPCX) financing GPU rentals, and getting around the AI bottleneck.\n\nDeirdre Bosa then sits down with Micron (MU) president and CTO Scott J. DeBoer to discuss the chip stock sell-off, Washington putting the screws to China in the AI trade, and TSMC's (TSM) potential move into memory.\n\n'Deirdre Bosa Live' airs every day at 4 p.m. Tune in daily to hear how the latest developments in AI and technology are reshaping companies, industries, and the global economy.",
-        "pubDate": "2026-11-18T22:58:01Z",
-        "displayTime": "2026-11-18T22:58:01Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dbshowsite1118_8897.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "resolutions": [
-            {
-              "url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dbshowsite1118_8897.jpg",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/1e7dccc4671f63248b3efd21a0e3ff1f0baebab9f59d773572d0d3661f61c100/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdbshowsite1118_8897.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/anthropic-to-debut-amid-security-worries-and-spacex-to-finance-gpu-rentals-225801261.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/anthropic-to-debut-amid-security-worries-and-spacex-to-finance-gpu-rentals-225801261.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "SPCX"
-            },
-            {
-              "symbol": "ANT"
-            },
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "MU"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "9b36917a-ebe9-3ef8-a71e-8fecc8e8be12",
-      "content": {
-        "id": "9b36917a-ebe9-3ef8-a71e-8fecc8e8be12",
+        "id": "0d57ad8b-1765-3aba-9a63-2e4a72508871",
         "contentType": "STORY",
-        "title": "The 5 Best Stocks in Brad Gerstner’s Portfolio",
+        "title": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
         "description": null,
-        "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital filed its third-quarter 13F on Nov. 16, and the five holdings where Wall Street sees the most upside are CoreWeave, a memory chipmaker, Cerebras, NVIDIA and Taiwan Semiconductor.",
-        "pubDate": "2026-11-18T22:54:47Z",
-        "displayTime": "2026-11-18T22:54:47Z",
+        "summary": "Taiwan Semiconductor Manufacturing Co (TSMC, TWSE: 2330) has suspended some advanced production orders from Chinese chip designers and will largely restrict those clients to older technology, Taipei Times reported on November 20, citing two sources with knowledge of the matter. The move follows new US export rules that came into force on November 19.",
+        "pubDate": "2026-11-20T00:06:31Z",
+        "displayTime": "2026-11-20T00:06:31Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/dd8d9d739524d5378b219d505be2e397",
+          "originalUrl": "https://media.zenfs.com/en/intellinews_516/bdba6d6968efafe6f999cde0b89cc3e5.jpg_up.jpg",
           "originalWidth": 1280,
-          "originalHeight": 720,
+          "originalHeight": 726,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/dd8d9d739524d5378b219d505be2e397",
+              "url": "https://media.zenfs.com/en/intellinews_516/bdba6d6968efafe6f999cde0b89cc3e5.jpg_up.jpg",
               "width": 1280,
-              "height": 720,
+              "height": 726,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/66760e99fd2d58ce6ef2640608631910c86f9bfabad1e398ed409050486c45cd/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Fdd8d9d739524d5378b219d505be2e397",
+              "url": "https://s.yimg.com/lo/mysterio/api/daecad4a09226ac48b744614d2416263e404bffea61545a05f08e19275979a3a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fintellinews_516%2Fbdba6d6968efafe6f999cde0b89cc3e5.jpg_up.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27110,14 +27083,14 @@
           ]
         },
         "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
+          "displayName": "IntelliNews",
+          "url": "https://www.intellinews.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/the-5-best-stocks-in-brad-gerstners-portfolio?ref=yahoofinance&tlnk=yf-261118-4869989x"
+          "url": "http://www.intellinews.com/tsmc-halts-advanced-chip-orders-from-chinese-designers-in-taiwan-486911/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-brad-gerstner-225447890.html"
+          "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-halts-advanced-chip-orders-000631441.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27129,315 +27102,33 @@
             },
             {
               "symbol": "NVDA"
-            },
-            {
-              "symbol": "CBRS"
-            },
-            {
-              "symbol": "CRWV"
             }
           ]
         }
       }
     },
     {
-      "id": "fc4f873d-cf43-39e6-ae54-13d9c34763ca",
+      "id": "537607b8-7584-32d6-97b6-237c98f675d4",
       "content": {
-        "id": "fc4f873d-cf43-39e6-ae54-13d9c34763ca",
+        "id": "537607b8-7584-32d6-97b6-237c98f675d4",
         "contentType": "STORY",
-        "title": "Dan Ives’ Top 10 AI Revolution Stock Picks: Inside The IVES ETF",
+        "title": "Cracks in the \"AI\" Cap-Ex Boom Have Emerged",
         "description": null,
-        "summary": "Dan Ives, who now works at Yorkville Ives & Co., called the November 5 technology rout a “golden buying opportunity” in a note reported by CNBC on November 6. He wrote that the Democratic midterm win could move the peak in Big Tech capital spending growth to 2027 from 2028 or 2029, but that the […]",
-        "pubDate": "2026-11-18T22:39:43Z",
-        "displayTime": "2026-11-18T22:39:43Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/fb5737b3d32952002b8acdc95476e01a.jpg",
-          "originalWidth": 1670,
-          "originalHeight": 941,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/insidermonkey.com/fb5737b3d32952002b8acdc95476e01a.jpg",
-              "width": 1670,
-              "height": 941,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/30549db477fb6082673ab961735fdb59534ecedf95001948026b97d33abdfd66/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ffb5737b3d32952002b8acdc95476e01a.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-top-10-ai-223943794.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-top-10-ai-223943794.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "IBM"
-            },
-            {
-              "symbol": "AMD"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "GOOG"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d531fa3b-8542-340b-825c-bb4b95cd1a7b",
-      "content": {
-        "id": "d531fa3b-8542-340b-825c-bb4b95cd1a7b",
-        "contentType": "STORY",
-        "title": "Amazon and Google Have a Stake",
-        "description": null,
-        "summary": "Amazon.com and Google could soon own more than 35% of Anthropic stock.",
-        "pubDate": "2026-11-18T21:23:02Z",
-        "displayTime": "2026-11-18T21:23:02Z",
-        "isHosted": false,
-        "previewUrl": "https://finance.yahoo.com/m/d531fa3b-8542-340b-825c-bb4b95cd1a7b/amazon-and-google-have-a-stake.html",
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-          "originalWidth": 320,
-          "originalHeight": 65,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-              "width": 320,
-              "height": 65,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/c438bd893025ed3ce3f67ac184863258bb5212e1077c30615cb322b4c3418a28/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2F12ea0f43d8f8307249a68d1cb2e0587e.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Barrons.com",
-          "url": "http://www.barrons.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker/card/amazon-and-google-have-a-stake-mvLhBOWKqZDvar1niKQb?siteid=yhoof2&yptr=yahoo"
-        },
-        "clickThroughUrl": null,
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "ANT"
-            },
-            {
-              "symbol": "GOOGN"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "AVGO"
-            },
-            {
-              "symbol": "MU"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "ed4b245b-47b6-35a7-b214-74da79d246f5",
-      "content": {
-        "id": "ed4b245b-47b6-35a7-b214-74da79d246f5",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Stock (TSM) Looks Too Cheap for Its Growth Outlook",
-        "description": null,
-        "summary": "Taiwan Semiconductor Manufacturing (TSM) stock looks too cheap for its growth outlook. The leading semiconductor foundry has fallen with the wider artificial intelligence (AI) trade. Shares are down roughly 26% since hitting an early-October peak of $487, pulled down by a semiconductor sell-off triggered by leadership turmoil at Nvidia (NVDA) and fresh U.S. export curbs. On the company’s third-quarter earnings call in October, CEO C.C. Wei said, “demand for our leading-edge technologies continue",
-        "pubDate": "2026-11-18T21:08:00Z",
-        "displayTime": "2026-11-18T21:08:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tipranks_452/332fd1c4b3689d75236c5d25d2187584.png",
-          "originalWidth": 653,
-          "originalHeight": 341,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tipranks_452/332fd1c4b3689d75236c5d25d2187584.png",
-              "width": 653,
-              "height": 341,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/b9d552295b0bac7aef8113e8e6d80a7f5edabcd25f428d36696ed4b9e979a198/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftipranks_452%2F332fd1c4b3689d75236c5d25d2187584.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TipRanks",
-          "url": "https://www.tipranks.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stock-tsm-looks-210800765.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stock-tsm-looks-210800765.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "AMD"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "AVGO"
-            },
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "1cb571e5-f196-3538-b533-3a55db454998",
-      "content": {
-        "id": "1cb571e5-f196-3538-b533-3a55db454998",
-        "contentType": "STORY",
-        "title": "Nvidia, Micron and TSMC Face a Massive Wave of Bearish Bets",
-        "description": null,
-        "summary": "Investors Bet Big Against a Market Drop as S&P 500 Hedging Surges to 2025 High",
-        "pubDate": "2026-11-18T19:11:12Z",
-        "displayTime": "2026-11-18T19:11:12Z",
+        "summary": "As a Share Investor, Should You Worry?",
+        "pubDate": "2026-11-19T21:50:00Z",
+        "displayTime": "2026-11-19T21:50:00Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/options/articles/nvidia-micron-tsmc-face-massive-191112704.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/options/articles/nvidia-micron-tsmc-face-massive-191112704.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "MU"
-            },
-            {
-              "symbol": "^GSPC"
-            },
-            {
-              "symbol": "AMD"
-            },
-            {
-              "symbol": "SPCX"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "67fc9f49-8f9c-3deb-90de-f27ae8eae4f2",
-      "content": {
-        "id": "67fc9f49-8f9c-3deb-90de-f27ae8eae4f2",
-        "contentType": "STORY",
-        "title": "NVIDIA's Leadership Woes: Buy TSMC & ASML Despite Supply-Chain Risks?",
-        "description": null,
-        "summary": "NVIDIA's leadership transition raises supply-chain concerns, but strong AI demand, robust fundamentals and growth opportunities make TSMC and ASML compelling buys.",
-        "pubDate": "2026-11-18T19:00:00Z",
-        "displayTime": "2026-11-18T19:00:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/940be57eddf35ef7091bb590241ed0db.jpg",
-          "originalWidth": 619,
-          "originalHeight": 151,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/zacks.com/940be57eddf35ef7091bb590241ed0db.jpg",
-              "width": 619,
-              "height": 151,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/7a0f0796ef904eaeaf9c8b889a5133b205bd945604e70557bdfb2b00db422d05/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F940be57eddf35ef7091bb590241ed0db.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
         "provider": {
           "displayName": "Zacks",
           "url": "http://www.zacks.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-leadership-woes-buy-tsmc-190000738.html"
+          "url": "https://finance.yahoo.com/technology/ai/articles/cracks-ai-cap-ex-boom-215000924.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-leadership-woes-buy-tsmc-190000738.html"
+          "url": "https://finance.yahoo.com/technology/ai/articles/cracks-ai-cap-ex-boom-215000924.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27445,49 +27136,43 @@
           },
           "stockTickers": [
             {
-              "symbol": "NVDA"
-            },
-            {
               "symbol": "TSM"
             },
             {
-              "symbol": "ASML"
+              "symbol": "ANET"
             },
             {
-              "symbol": "ASML"
-            },
-            {
-              "symbol": "TSM"
+              "symbol": "RTX"
             }
           ]
         }
       }
     },
     {
-      "id": "5ae26f68-e6e8-32be-b119-54ead64aaff2",
+      "id": "923fc8d0-a2d3-3267-b8aa-a40779ebb969",
       "content": {
-        "id": "5ae26f68-e6e8-32be-b119-54ead64aaff2",
+        "id": "923fc8d0-a2d3-3267-b8aa-a40779ebb969",
         "contentType": "STORY",
-        "title": "Dan Ives sends a strong signal ahead of the Anthropic IPO",
+        "title": "Billionaire Stanley Druckenmiller Cut TSMC 94% in One Quarter, Leaving Just $14.9 Million",
         "description": null,
-        "summary": "Dan Ives calls the Anthropic IPO an important step, but the numbers, the skeptics, and the SpaceX comparison tell a more complicated story.",
-        "pubDate": "2026-11-18T18:33:00Z",
-        "displayTime": "2026-11-18T18:33:00Z",
+        "summary": "TSMC's revenue kept surging while one of Wall Street's sharpest macro minds headed for the exit. His new buys in storage, gold and space hint at what spooked him, and his own words about the next 12 months add another clue.",
+        "pubDate": "2026-11-19T19:46:51Z",
+        "displayTime": "2026-11-19T19:46:51Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/thestreet_881/1e4e65dbdc20bb2337113bbfaa414e82.jpg",
-          "originalWidth": 3840,
-          "originalHeight": 2561,
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/7b3a8056fad69101c9164c1a974d3175.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/thestreet_881/1e4e65dbdc20bb2337113bbfaa414e82.jpg",
-              "width": 3840,
-              "height": 2561,
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/7b3a8056fad69101c9164c1a974d3175.jpg",
+              "width": 1366,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/eee56997cfa3dc277de39f5959fdcc06b9890a59c5b423dc647dbdb084c6a842/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F1e4e65dbdc20bb2337113bbfaa414e82.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/b09648e0593c7979e6e621eedbbdecafcdeedf48460080242bf534b3e3b2022d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F7b3a8056fad69101c9164c1a974d3175.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27495,14 +27180,14 @@
           ]
         },
         "provider": {
-          "displayName": "TheStreet",
-          "url": "https://www.thestreet.com/"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.thestreet.com/investing/stocks/dan-ives-sends-a-strong-signal-ahead-of-the-anthropic-ipo"
+          "url": "https://247wallst.com/investing/2026/11/19/billionaire-stanley-druckenmiller-cut-tsmc-94-in-one-quarter-leaving-just-14-9-million/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-sends-strong-signal-183300258.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-cut-tsmc-194651329.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27510,25 +27195,22 @@
           },
           "stockTickers": [
             {
-              "symbol": "ANTH.PVT"
+              "symbol": "TSM"
             },
             {
-              "symbol": "AVGO"
+              "symbol": "STX"
             },
             {
-              "symbol": "GOOGN"
+              "symbol": "SPCX"
             },
             {
-              "symbol": "NVDA"
+              "symbol": "GC=F"
             },
             {
               "symbol": "AMD"
             },
             {
-              "symbol": "MU"
-            },
-            {
-              "symbol": "MSFT"
+              "symbol": "SNDK"
             },
             {
               "symbol": "TSM"
@@ -27538,30 +27220,30 @@
       }
     },
     {
-      "id": "0c8f131e-7d4d-3137-a632-ce2f83f8ef79",
+      "id": "d54582da-bfd6-34ba-990f-a915a4f7414e",
       "content": {
-        "id": "0c8f131e-7d4d-3137-a632-ce2f83f8ef79",
+        "id": "d54582da-bfd6-34ba-990f-a915a4f7414e",
         "contentType": "STORY",
-        "title": "Nvidia Stock At $155: Cheaper Than Its 2018 Low?",
+        "title": "What's Happening To Intel's Factory Cash?",
         "description": null,
-        "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
-        "pubDate": "2026-11-18T17:34:05Z",
-        "displayTime": "2026-11-18T17:34:05Z",
+        "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+        "pubDate": "2026-11-19T19:14:07Z",
+        "displayTime": "2026-11-19T19:14:07Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/13ecd0b81cea958344e7e0098d8e32f0.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 1281,
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/a5268c12e8d3ab8bbe9eecff093dcb32.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 857,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/trefis_142/13ecd0b81cea958344e7e0098d8e32f0.jpg",
-              "width": 1920,
-              "height": 1281,
+              "url": "https://media.zenfs.com/en/trefis_142/a5268c12e8d3ab8bbe9eecff093dcb32.jpg",
+              "width": 1280,
+              "height": 857,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/cf7687bee82bbd5c874dd8f1fb7dcf0215804efda61c182c414de25054d8e9a2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F13ecd0b81cea958344e7e0098d8e32f0.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/7b4332405afaf79e92cc1132efbd10c38f1d87202acfe334a816d73070dd65e5/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fa5268c12e8d3ab8bbe9eecff093dcb32.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27573,10 +27255,181 @@
           "url": "https://www.trefis.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.trefis.com/stock/nvda/articles/626058/nvidia-stock-at-155-cheaper-than-its-2018-low/2026-11-18"
+          "url": "https://www.trefis.com/stock/intc/articles/626665/what-s-happening-to-intel-s-factory-cash/2026-11-19"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-155-cheaper-2018-173405033.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/whats-happening-intels-factory-cash-191407710.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "INTC"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "QCOM"
+            },
+            {
+              "symbol": "AVGO"
+            },
+            {
+              "symbol": "MU"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1019e19e-a2f4-4b64-a245-bd343d46a29c",
+      "content": {
+        "id": "1019e19e-a2f4-4b64-a245-bd343d46a29c",
+        "contentType": "VIDEO",
+        "title": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
+        "description": "<p>The Technology Letter's Tiernan Ray joins Market Hang to discuss why Nvidia (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/NVDA/\" data-i13n=\"slk:NVDA;cpos:1;pos:1\">NVDA</a>) will not be the leader of the AI chip race in 5 years.</p>\n<p>Today's panel includes Barron's reporter Jacob Sonenshine, The Technology Letter's Tiernan Ray, Epistrophy Capital Research Chief Market Strategist Cory Johnson, and Laffer Tengler Investments CEO and chief investment officer Nancy Tengler.</p>",
+        "summary": "The Technology Letter's Tiernan Ray joins Market Hang to discuss why Nvidia (NVDA) will not be the leader of the AI chip race in 5 years.\n\nToday's panel includes Barron's reporter Jacob Sonenshine, The Technology Letter's Tiernan Ray, Epistrophy Capital Research Chief Market Strategist Cory Johnson, and Laffer Tengler Investments CEO and chief investment officer Nancy Tengler.",
+        "pubDate": "2026-11-19T18:59:54Z",
+        "displayTime": "2026-11-19T18:59:54Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/2026-11/9e853ec2-0952-4243-a021-cdee6b68afad",
+          "originalWidth": 5000,
+          "originalHeight": 3335,
+          "resolutions": [
+            {
+              "url": "https://d29szjachogqwa.cloudfront.net/images/2026-11/9e853ec2-0952-4243-a021-cdee6b68afad",
+              "width": 5000,
+              "height": 3335,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/cb33137c7338e19191fda1f34ac684a298b13f544facadf7b11e8f63618491fa/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F9e853ec2-0952-4243-a021-cdee6b68afad",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/video/nvidia-will-not-be-the-leader-5-years-from-now-tiernan-ray-185954396.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "GOOGN"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "72e3f0fb-5e2a-3518-b31d-aa7982f11a6f",
+      "content": {
+        "id": "72e3f0fb-5e2a-3518-b31d-aa7982f11a6f",
+        "contentType": "STORY",
+        "title": "TSMC and Samsung's China Chip Pause Has Stakes Beyond AI",
+        "description": null,
+        "summary": "U.S. approvals could determine which orders ship and when.",
+        "pubDate": "2026-11-19T18:54:14Z",
+        "displayTime": "2026-11-19T18:54:14Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-samsungs-china-chip-pause-185414287.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-samsungs-china-chip-pause-185414287.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "005930.KS"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "fb7409b9-796c-3e8a-819f-21998ad47b5b",
+      "content": {
+        "id": "fb7409b9-796c-3e8a-819f-21998ad47b5b",
+        "contentType": "STORY",
+        "title": "$1 Million In Nvidia Five Years Ago: What Is It Worth Now?",
+        "description": null,
+        "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+        "pubDate": "2026-11-19T18:23:20Z",
+        "displayTime": "2026-11-19T18:23:20Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/56f88b25810dca5a17801832caab2fd0.png",
+          "originalWidth": 1280,
+          "originalHeight": 855,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/56f88b25810dca5a17801832caab2fd0.png",
+              "width": 1280,
+              "height": 855,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/10b404150ea38bc47d8d56bc2acf76efdafda6553cb50eb7a9bec6933642589d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F56f88b25810dca5a17801832caab2fd0.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/nvda/articles/626572/1-million-in-nvidia-five-years-ago-what-is-it-worth-now/2026-11-19"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-million-nvidia-five-years-182320923.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27599,43 +27452,37 @@
               "symbol": "MSFT"
             },
             {
-              "symbol": "AMZN"
-            },
-            {
               "symbol": "GOOG"
-            },
-            {
-              "symbol": "META"
             }
           ]
         }
       }
     },
     {
-      "id": "7b879c89-378c-35f2-9d11-56ce9be4a124",
+      "id": "a00181ee-7f7f-3816-9422-455ad0adb365",
       "content": {
-        "id": "7b879c89-378c-35f2-9d11-56ce9be4a124",
+        "id": "a00181ee-7f7f-3816-9422-455ad0adb365",
         "contentType": "STORY",
-        "title": "A $2.8 Billion Fund Dumps These 3 Stocks",
+        "title": "Ken Fisher’s Quiet Bet on TSMC (TSM): Owning the AI Boom Without Picking a Winner",
         "description": null,
-        "summary": "Key TakeawaysArdmore Road Asset Management, a firm that manages $2. 83 billion, held no Taiwan Semiconductor, Microsoft or Lam Research by Sept.",
-        "pubDate": "2026-11-18T16:32:26Z",
-        "displayTime": "2026-11-18T16:32:26Z",
+        "summary": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) took 7th place in our list of the Top 10 Stocks to Buy According to Billionaire Ken Fisher. Ken Fisher has spent more than four decades betting that big, globally dominant companies keep winning, and his latest filing shows he still believes it. Fisher Asset Management, the firm behind […]",
+        "pubDate": "2026-11-19T18:12:36Z",
+        "displayTime": "2026-11-19T18:12:36Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/37a23756043443bfe5e6aba0789d1a8c",
-          "originalWidth": 1280,
-          "originalHeight": 720,
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/f90919c411d1aa5d89e5e74b1fb5e45e.jpg",
+          "originalWidth": 1456,
+          "originalHeight": 816,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/37a23756043443bfe5e6aba0789d1a8c",
-              "width": 1280,
-              "height": 720,
+              "url": "https://media.zenfs.com/en/insidermonkey.com/f90919c411d1aa5d89e5e74b1fb5e45e.jpg",
+              "width": 1456,
+              "height": 816,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/ce5847e6e47618b7c37bb850229539c24293ef8bc2ed18502747f9e35e493756/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F37a23756043443bfe5e6aba0789d1a8c",
+              "url": "https://s.yimg.com/lo/mysterio/api/675e159bb03510fe6d5a71dc178c6990f47620b139054e752c900c5110d770ec/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff90919c411d1aa5d89e5e74b1fb5e45e.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27643,14 +27490,14 @@
           ]
         },
         "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/a-2-8-billion-fund-dumps-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261118-xfp5v642"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-quiet-bet-tsmc-181236877.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-8-billion-fund-dumps-163226772.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-quiet-bet-tsmc-181236877.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27661,13 +27508,125 @@
               "symbol": "TSM"
             },
             {
-              "symbol": "MSFT"
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38c35f42-ae24-31d3-88f6-b390e8e79d08",
+      "content": {
+        "id": "38c35f42-ae24-31d3-88f6-b390e8e79d08",
+        "contentType": "STORY",
+        "title": "Taiwan Semiconductor Slipped 14% This Month Amidst Tech Contraction: 175% Gains to Materialize According to One Wall Street Desk",
+        "description": null,
+        "summary": "Earnings estimates keep climbing while Taiwan Semiconductor's stock sinks with the rest of the chip sector. Is the selloff a warning about AI demand, or a rare entry point that one analyst values at nearly three times today's price?",
+        "pubDate": "2026-11-19T17:45:20Z",
+        "displayTime": "2026-11-19T17:45:20Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/20fae6238edeaf17a60e00b095394d92",
+          "originalWidth": 2560,
+          "originalHeight": 1440,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/20fae6238edeaf17a60e00b095394d92",
+              "width": 2560,
+              "height": 1440,
+              "tag": "original"
             },
             {
-              "symbol": "LRCX"
+              "url": "https://s.yimg.com/lo/mysterio/api/8228402f7b5a456164a44e6648e6b02dad72001ffb8ac980d06b69ecafd8f4d4/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F20fae6238edeaf17a60e00b095394d92",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/11/19/taiwan-semiconductor-slipped-14-this-month-amidst-tech-contraction-175-gains-to-materialize-according-to-one-wall-street-desk/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-slipped-14-month-174520160.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
             },
             {
-              "symbol": "AMZN"
+              "symbol": "INTC"
+            },
+            {
+              "symbol": "UMC"
+            },
+            {
+              "symbol": "GFS"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "UMC"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "6c31b6ad-07b3-3eff-833a-fc69a36beb69",
+      "content": {
+        "id": "6c31b6ad-07b3-3eff-833a-fc69a36beb69",
+        "contentType": "STORY",
+        "title": "TSMC Stocks Rise 3.11% as Foundry Takes $500 Million Slice of Anthropic IPO Placement",
+        "description": null,
+        "summary": "TSMC Partners is buying 6 million Anthropic shares, while a new U.S. rule tightens China's remote compute access.",
+        "pubDate": "2026-11-19T17:23:26Z",
+        "displayTime": "2026-11-19T17:23:26Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-rise-3-11-172326201.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-rise-3-11-172326201.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "ANT"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "GOOGN"
+            },
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "TSM"
             }
           ]
         }
@@ -27780,74 +27739,74 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2175.0,
-    "open": 2165.0,
-    "dayLow": 2120.0,
-    "dayHigh": 2190.0,
-    "regularMarketPreviousClose": 2175.0,
-    "regularMarketOpen": 2165.0,
-    "regularMarketDayLow": 2120.0,
-    "regularMarketDayHigh": 2190.0,
+    "previousClose": 2100.0,
+    "open": 2035.0,
+    "dayLow": 2000.0,
+    "dayHigh": 2060.0,
+    "regularMarketPreviousClose": 2100.0,
+    "regularMarketOpen": 2035.0,
+    "regularMarketDayLow": 2000.0,
+    "regularMarketDayHigh": 2060.0,
     "dividendRate": 24.0,
-    "dividendYield": 1.11,
+    "dividendYield": 1.1,
     "exDividendDate": 1796860800,
     "payoutRatio": 0.24620001,
     "fiveYearAvgDividendYield": 1.51,
     "beta": 1.233,
-    "trailingPE": 21.803663,
-    "forwardPE": 14.244212,
-    "volume": 20517555,
-    "regularMarketVolume": 20517555,
-    "averageVolume": 24968009,
-    "averageVolume10days": 43992834,
-    "averageDailyVolume10Day": 43992834,
-    "bid": 2125.0,
-    "ask": 2130.0,
+    "trailingPE": 21.357985,
+    "forwardPE": 13.435555,
+    "volume": 33612004,
+    "regularMarketVolume": 33612004,
+    "averageVolume": 25426316,
+    "averageVolume10days": 45157906,
+    "averageDailyVolume10Day": 45157906,
+    "bid": 2010.0,
+    "ask": 2015.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 55235938615296,
-    "nonDilutedMarketCap": 56273231984900,
+    "marketCap": 52124054454272,
+    "nonDilutedMarketCap": 56402893809750,
     "fiftyTwoWeekLow": 1375.0,
     "fiftyTwoWeekHigh": 2590.0,
     "allTimeHigh": 2590.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2130.0,
-    "fulldayChange": -45.0,
-    "fulldayChangePercent": -2.0689654,
-    "priceToSalesTrailing12Months": 11.17047,
-    "fiftyDayAverage": 2405.9,
-    "twoHundredDayAverage": 2246.45,
+    "fulldayPrice": 2010.0,
+    "fulldayChange": -90.0,
+    "fulldayChangePercent": -4.285714,
+    "priceToSalesTrailing12Months": 10.541148,
+    "fiftyDayAverage": 2398.6,
+    "twoHundredDayAverage": 2248.125,
     "trailingAnnualDividendRate": 28.0,
-    "trailingAnnualDividendYield": 0.012873563,
+    "trailingAnnualDividendYield": 0.013333334,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 53500994125824,
+    "enterpriseValue": 51556066000896,
     "profitMargins": 0.51116,
     "floatShares": 23648242291,
     "sharesOutstanding": 25932364970,
     "heldPercentInsiders": 0.0005,
-    "heldPercentInstitutions": 0.4335,
+    "heldPercentInstitutions": 0.43348998,
     "impliedSharesOutstanding": 25932364970,
     "bookValue": 269.852,
-    "priceToBook": 7.8932157,
+    "priceToBook": 7.448528,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1790726400,
     "earningsQuarterlyGrowth": 0.687,
     "netIncomeToCommon": 2527571476480,
-    "trailingEps": 97.69,
-    "forwardEps": 149.53442,
-    "pegRatio": 0.6,
+    "trailingEps": 94.11,
+    "forwardEps": 149.60304,
+    "pegRatio": 0.58,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 10.82,
-    "enterpriseToEbitda": 14.86,
-    "52WeekChange": 0.5591397,
-    "SandP52WeekChange": 0.105142,
+    "enterpriseToRevenue": 10.426,
+    "enterpriseToEbitda": 14.32,
+    "52WeekChange": 0.44329894,
+    "SandP52WeekChange": 0.1200335,
     "lastDividendValue": 9.0,
     "lastDividendDate": 1804723200,
     "quoteType": "EQUITY",
-    "currentPrice": 2130.0,
+    "currentPrice": 2010.0,
     "targetHighPrice": 5000.0,
     "targetLowPrice": 2700.0,
     "targetMeanPrice": 3402.5144,
@@ -27883,38 +27842,39 @@
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
     "exchange": "TAI",
-    "hasPrePostMarketData": false,
+    "twoHundredDayAverageChange": -238.125,
+    "twoHundredDayAverageChangePercent": -0.105921604,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
     "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": -45.0,
-    "regularMarketChangePercent": -2.0689654,
-    "regularMarketPrice": 2130.0,
-    "regularMarketDayRange": "2120.0 - 2190.0",
     "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 24968009,
-    "fiftyTwoWeekLowChange": 755.0,
-    "fiftyTwoWeekLowChangePercent": 0.5490909,
+    "averageDailyVolume3Month": 25426316,
+    "fiftyTwoWeekLowChange": 635.0,
+    "fiftyTwoWeekLowChangePercent": 0.4618182,
     "fiftyTwoWeekRange": "1375.0 - 2590.0",
-    "fiftyTwoWeekHighChange": -460.0,
-    "fiftyTwoWeekHighChangePercent": -0.17760618,
-    "fiftyTwoWeekChangePercent": 55.91397,
+    "fiftyTwoWeekHighChange": -580.0,
+    "fiftyTwoWeekHighChangePercent": -0.22393823,
+    "fiftyTwoWeekChangePercent": 44.329895,
     "earningsTimestamp": 1792042200,
     "earningsTimestampStart": 1799904600,
     "earningsTimestampEnd": 1799904600,
     "earningsCallTimestampStart": 1792044000,
     "earningsCallTimestampEnd": 1792044000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 97.69,
-    "epsForward": 149.53442,
+    "epsTrailingTwelveMonths": 94.11,
+    "epsForward": 149.60304,
     "epsCurrentYear": 110.62572,
-    "priceEpsCurrentYear": 19.254112,
-    "fiftyDayAverageChange": -275.8999,
-    "fiftyDayAverageChangePercent": -0.114676386,
-    "twoHundredDayAverageChange": -116.44995,
-    "twoHundredDayAverageChangePercent": -0.05183732,
-    "sourceInterval": 20,
+    "priceEpsCurrentYear": 18.169374,
+    "fiftyDayAverageChange": -388.6001,
+    "fiftyDayAverageChangePercent": -0.1620112,
+    "hasPrePostMarketData": false,
     "marketState": "REGULAR",
-    "gmtOffSetMilliseconds": 28800000,
-    "esgPopulated": false,
+    "regularMarketChange": -90.0,
+    "regularMarketChangePercent": -4.285714,
+    "regularMarketPrice": 2010.0,
+    "regularMarketDayRange": "2000.0 - 2060.0",
     "corporateActions": [
       {
         "header": "Dividend",
@@ -27926,16 +27886,15 @@
         }
       }
     ],
-    "regularMarketTime": 1795055643,
+    "regularMarketTime": 1795141595,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
     "exchangeTimezoneShortName": "CST",
+    "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "trailingPegRatio": 0.5966
+    "esgPopulated": false,
+    "trailingPegRatio": 0.5979
   }
 }
