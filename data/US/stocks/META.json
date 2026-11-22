@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-11-21T02:56:33.583399",
+    "ts": "2026-11-22T01:50:44.082608",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -145,7 +145,7 @@
     "regularMarketDayLow": 558.68,
     "regularMarketDayHigh": 588.69,
     "dividendRate": 2.1,
-    "dividendYield": 0.35,
+    "dividendYield": 0.37,
     "exDividendDate": 1789948800,
     "payoutRatio": 0.0716,
     "beta": 1.279,
@@ -153,9 +153,9 @@
     "forwardPE": 15.720743,
     "volume": 25589154,
     "regularMarketVolume": 25589154,
-    "averageVolume": 20854164,
-    "averageVolume10days": 13933770,
-    "averageDailyVolume10Day": 13933770,
+    "averageVolume": 21037629,
+    "averageVolume10days": 14922200,
+    "averageDailyVolume10Day": 14922200,
     "bid": 575.49,
     "ask": 603.06,
     "bidSize": 1,
@@ -170,15 +170,15 @@
     "fulldayChange": -28.719849,
     "fulldayChangePercent": -4.8169885,
     "priceToSalesTrailing12Months": 5.9338274,
-    "fiftyDayAverage": 678.3974,
-    "twoHundredDayAverage": 629.1388,
+    "fiftyDayAverage": 676.6536,
+    "twoHundredDayAverage": 628.592,
     "trailingAnnualDividendRate": 2.1,
     "trailingAnnualDividendYield": 0.0035221898,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1467262304256,
+    "enterpriseValue": 1466035339264,
     "profitMargins": 0.31145,
-    "floatShares": 2211199809,
+    "floatShares": 2211225371,
     "sharesOutstanding": 2214472367,
     "sharesShort": 75483549,
     "sharesShortPriorMonth": 33572792,
@@ -186,7 +186,7 @@
     "dateShortInterest": 1793318400,
     "sharesPercentSharesOut": 0.0295,
     "heldPercentInsiders": 0.0016699999,
-    "heldPercentInstitutions": 0.78629994,
+    "heldPercentInstitutions": 0.78690004,
     "shortRatio": 3.42,
     "shortPercentOfFloat": 0.0341,
     "impliedSharesOutstanding": 2556241253,
@@ -199,11 +199,11 @@
     "netIncomeToCommon": 75249000448,
     "trailingEps": 29.31,
     "forwardEps": 35.67516,
-    "pegRatio": 0.78,
-    "enterpriseToRevenue": 6.073,
-    "enterpriseToEbitda": 12.628,
-    "52WeekChange": 0.0033150911,
-    "SandP52WeekChange": 0.08675468,
+    "pegRatio": 0.73,
+    "enterpriseToRevenue": 6.068,
+    "enterpriseToEbitda": 12.618,
+    "52WeekChange": -0.08516437,
+    "SandP52WeekChange": 0.0306139,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1789948800,
     "quoteType": "EQUITY",
@@ -242,12 +242,37 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
+    "exchange": "NMS",
+    "cryptoTradeable": false,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "hasPrePostMarketData": true,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "postMarketTime": 1795222798,
+    "regularMarketTime": 1795208400,
+    "marketState": "CLOSED",
+    "messageBoardId": "finmb_20765463",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EST",
+    "gmtOffSetMilliseconds": -18000000,
+    "market": "us_market",
+    "esgPopulated": false,
+    "corporateActions": [],
+    "postMarketChangePercent": 1.1875213,
+    "postMarketPrice": 567.5001,
+    "postMarketChange": 6.660095,
+    "regularMarketChange": -35.379944,
+    "regularMarketChangePercent": -5.934042,
+    "regularMarketPrice": 560.84,
+    "regularMarketDayRange": "558.68 - 588.69",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 21037629,
     "fiftyTwoWeekLowChange": 40.580017,
     "fiftyTwoWeekLowChangePercent": 0.077999495,
     "fiftyTwoWeekRange": "520.26 - 779.82",
     "fiftyTwoWeekHighChange": -218.97998,
     "fiftyTwoWeekHighChangePercent": -0.28080836,
-    "fiftyTwoWeekChangePercent": 0.3315091,
+    "fiftyTwoWeekChangePercent": -8.516437,
     "dividendDate": 1790553600,
     "earningsTimestamp": 1792612800,
     "earningsTimestampStart": 1801083600,
@@ -259,41 +284,16 @@
     "epsForward": 35.67516,
     "epsCurrentYear": 29.35775,
     "priceEpsCurrentYear": 19.103645,
-    "fiftyDayAverageChange": -117.55737,
-    "fiftyDayAverageChangePercent": -0.17328689,
-    "twoHundredDayAverageChange": -68.29877,
-    "twoHundredDayAverageChangePercent": -0.10855914,
+    "fiftyDayAverageChange": -115.8136,
+    "fiftyDayAverageChangePercent": -0.1711564,
+    "twoHundredDayAverageChange": -67.75195,
+    "twoHundredDayAverageChangePercent": -0.107783675,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 15,
     "ipoExpectedDate": "2022-06-09",
     "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-11-20",
+    "nameChangeDate": "2026-11-21",
     "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
-    "postMarketChangePercent": 1.1875213,
-    "postMarketPrice": 567.5001,
-    "postMarketChange": 6.660095,
-    "regularMarketChange": -35.3799,
-    "regularMarketChangePercent": -5.93404,
-    "regularMarketPrice": 560.84,
-    "regularMarketDayRange": "558.68 - 588.69",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 20854164,
-    "exchange": "NMS",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "messageBoardId": "finmb_20765463",
-    "exchangeTimezoneName": "America/New_York",
-    "exchangeTimezoneShortName": "EST",
-    "gmtOffSetMilliseconds": -18000000,
-    "market": "us_market",
-    "esgPopulated": false,
-    "corporateActions": [],
-    "postMarketTime": 1795222798,
-    "regularMarketTime": 1795208400,
-    "marketState": "POSTPOST",
     "displayName": "Meta Platforms",
     "trailingPegRatio": 0.775
   },
@@ -1596,234 +1596,30 @@
   },
   "news": [
     {
-      "id": "175781fc-d91f-4809-8e05-271810810b6f",
+      "id": "62a8ef9a-7ef4-3eb6-b278-b5d3faeb8a21",
       "content": {
-        "id": "175781fc-d91f-4809-8e05-271810810b6f",
+        "id": "62a8ef9a-7ef4-3eb6-b278-b5d3faeb8a21",
         "contentType": "STORY",
-        "title": "Anthropic just went public. Here's what SpaceX and Facebook IPOs tell us about where the stock goes next.",
+        "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
         "description": null,
-        "summary": "Fear the one day pop in splashy IPOs.",
-        "pubDate": "2026-11-20T13:54:22Z",
-        "displayTime": "2026-11-20T13:54:22Z",
+        "summary": "Nvidia closed 48% below its record on Friday and trades at 15 times its last four quarters of earnings, the lowest since at least 2014 and less than Microsoft or Broadcom. Here is what that price assumes and why the market doubts the earnings.",
+        "pubDate": "2026-11-22T00:47:00Z",
+        "displayTime": "2026-11-22T00:47:00Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/2026-11/1729197b-c773-4ed1-8a74-e3d37c8cb6e0",
-          "originalWidth": 5932,
-          "originalHeight": 3957,
-          "resolutions": [
-            {
-              "url": "https://d29szjachogqwa.cloudfront.net/images/2026-11/1729197b-c773-4ed1-8a74-e3d37c8cb6e0",
-              "width": 5932,
-              "height": 3957,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/21b45f9561bab6309810dcd74babd2b5d26bd9b89e7e57167cb58ab9d474d32c/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F1729197b-c773-4ed1-8a74-e3d37c8cb6e0",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/anthropic-just-went-public-heres-what-spacex-and-facebook-ipos-tell-us-about-where-the-stock-goes-next-135422687.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/anthropic-just-went-public-heres-what-spacex-and-facebook-ipos-tell-us-about-where-the-stock-goes-next-135422687.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "ANT"
-            },
-            {
-              "symbol": "SPCX"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "CRCL"
-            },
-            {
-              "symbol": "MA"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "45129c12-8bbb-3f83-b957-27ac04ac58ad",
-      "content": {
-        "id": "45129c12-8bbb-3f83-b957-27ac04ac58ad",
-        "contentType": "STORY",
-        "title": "Billionaire Bill Ackman’s Top 5 Stocks After Selling Stakes to Open a Brand-New Position",
-        "description": null,
-        "summary": "Bill Ackman doesn’t own many stocks, so every change in his portfolio is a statement. His latest 13F, filed November 16 for the quarter ended September 30, shows the billionaire trimming several of his biggest bets and putting the money into two new names. Ackman founded Pershing Square in 2004 with about $54 million and […]",
-        "pubDate": "2026-11-21T01:38:37Z",
-        "displayTime": "2026-11-21T01:38:37Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/37ce20a48b96371928d504dfb816f2c5.jpg",
-          "originalWidth": 1671,
-          "originalHeight": 941,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/insidermonkey.com/37ce20a48b96371928d504dfb816f2c5.jpg",
-              "width": 1671,
-              "height": 941,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/5d9eb28e62787744d0a0c0b0e33f1bbbae709c3d51714adb6700adb185bf2c1a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F37ce20a48b96371928d504dfb816f2c5.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-top-5-013837421.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-top-5-013837421.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "PS"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "HHH"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "UBER"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "7cb98dea-3535-32a5-8f61-c206f2da5526",
-      "content": {
-        "id": "7cb98dea-3535-32a5-8f61-c206f2da5526",
-        "contentType": "STORY",
-        "title": "Bill Ackman’s Top 10 Stocks After Selling Stakes to Open a Brand-New Position",
-        "description": null,
-        "summary": "Bill Ackman doesn’t own many stocks, so every change in his portfolio is a statement. His latest 13F, filed November 16 for the quarter ended September 30, shows the billionaire trimming several of his biggest bets and putting the money into two new names. Ackman founded Pershing Square in 2004 with about $54 million and […]",
-        "pubDate": "2026-11-21T01:32:27Z",
-        "displayTime": "2026-11-21T01:32:27Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/37ce20a48b96371928d504dfb816f2c5.jpg",
-          "originalWidth": 1671,
-          "originalHeight": 941,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/insidermonkey.com/37ce20a48b96371928d504dfb816f2c5.jpg",
-              "width": 1671,
-              "height": 941,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/5d9eb28e62787744d0a0c0b0e33f1bbbae709c3d51714adb6700adb185bf2c1a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F37ce20a48b96371928d504dfb816f2c5.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-top-10-stocks-013227518.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-top-10-stocks-013227518.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "PS"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "V"
-            },
-            {
-              "symbol": "MA"
-            },
-            {
-              "symbol": "NFLX"
-            },
-            {
-              "symbol": "QSR"
-            },
-            {
-              "symbol": "BN"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "76233453-f258-3363-bd44-81d08fb11b06",
-      "content": {
-        "id": "76233453-f258-3363-bd44-81d08fb11b06",
-        "contentType": "STORY",
-        "title": "George Soros Raised His Meta (META) Stake by 596%. Then the Stock Fell",
-        "description": null,
-        "summary": "We just published a list of the Top 10 Stocks to Buy According to Billionaire George Soros, and Meta Platforms, Inc. (NASDAQ:META) ranked 7th on this list. George Soros made his name betting against currencies and central banks, and that record is still the reference point for macro investing decades later. Born in Budapest in […]",
-        "pubDate": "2026-11-21T01:10:00Z",
-        "displayTime": "2026-11-21T01:10:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d.jpg",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/002247c0ee6af7ca568b3002076d2944",
           "originalWidth": 1920,
-          "originalHeight": 1440,
+          "originalHeight": 1072,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d.jpg",
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/002247c0ee6af7ca568b3002076d2944",
               "width": 1920,
-              "height": 1440,
+              "height": 1072,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/679ad9434b9dda12940629aefc12e2ccf7a86907aeed842216e227d01d8e5cb9/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fec3ff787a5b6f6d5b0fd7957bcf52f0d.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/27e16c3d3f700a76fe90a5191a14d5d48c64a165d75c1081e99a3ff0de2d7f4a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F002247c0ee6af7ca568b3002076d2944",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1831,67 +1627,14 @@
           ]
         },
         "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com"
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/george-soros-raised-meta-meta-011000430.html"
+          "url": "https://247wallst.com/investing/2026/11/21/nvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/george-soros-raised-meta-meta-011000430.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "3927341d-004d-3275-a450-e294b30db947",
-      "content": {
-        "id": "3927341d-004d-3275-a450-e294b30db947",
-        "contentType": "STORY",
-        "title": "Has AI's honeymoon ended on Wall Street?",
-        "description": null,
-        "summary": "Although the AI industry has been the darling of Wall Street for years, the sector now makes investors wince as it reckons with a wave of concerns over dizzying spending and its promise to make the technology profitable.But as spending has ballooned, so has debt -- and profits have yet to match.",
-        "pubDate": "2026-11-21T00:46:04Z",
-        "displayTime": "2026-11-21T00:46:04Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/afp.com/f49e380ef0025974f70bf23acf8e67ba.jpg_up.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 854,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/afp.com/f49e380ef0025974f70bf23acf8e67ba.jpg_up.jpg",
-              "width": 1280,
-              "height": 854,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/ade60fee34cc8adf671f0a7d1b81545f3cc69dc4ced099d43efa7ba9ab195e15/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff49e380ef0025974f70bf23acf8e67ba.jpg_up.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "AFP",
-          "url": "http://www.afp.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ais-honeymoon-ended-wall-street-004604807.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ais-honeymoon-ended-wall-street-004604807.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-crashed-48-now-004700969.html"
         },
         "finance": {
           "premiumFinance": {
@@ -1902,252 +1645,22 @@
               "symbol": "NVDA"
             },
             {
-              "symbol": "^IXIC"
+              "symbol": "AVGO"
             },
             {
               "symbol": "MSFT"
+            },
+            {
+              "symbol": "MU"
+            },
+            {
+              "symbol": "META"
             },
             {
               "symbol": "GOOGN"
             },
             {
-              "symbol": "AAPL"
-            },
-            {
               "symbol": "AMZN"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "TSLA"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "ec86d194-7a51-3141-9c04-b5fca6c76c2c",
-      "content": {
-        "id": "ec86d194-7a51-3141-9c04-b5fca6c76c2c",
-        "contentType": "STORY",
-        "title": "Shots Fired: Meta Will Reportedly Sell a $300 Muse Charm With Free Verizon 5G as Apple Builds Its Agent",
-        "description": null,
-        "summary": "Key TakeawaysMeta reportedly plans to sell a $300 Muse Charm with up to 12 months of free Verizon 5G, and is targeting 10 million wearable sales in the second half of 2026. A connected device would let Meta reach users without Apple’s phones in between, just as Apple reportedly builds its own AI agent.",
-        "pubDate": "2026-11-20T22:00:18Z",
-        "displayTime": "2026-11-20T22:00:18Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/fdcd0027bd895041b5b54f79d8d6b641",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/fdcd0027bd895041b5b54f79d8d6b641",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/4c01c9188e51797e644c3749f0a9cbe57e68829dbfc6838b140ba84756a4ba57/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Ffdcd0027bd895041b5b54f79d8d6b641",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/shots-fired-meta-will-reportedly-sell-a-300-muse-charm-with-free-verizon-5g-as-apple-builds-its-agent?ref=yahoofinance&tlnk=yf-261120-pg825wq7"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/shots-fired-meta-reportedly-sell-220018004.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "AAPL"
-            },
-            {
-              "symbol": "VZ"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "286c960e-2730-3c99-8ab9-2d0e6901a46a",
-      "content": {
-        "id": "286c960e-2730-3c99-8ab9-2d0e6901a46a",
-        "contentType": "STORY",
-        "title": "Billionaire Dan Loeb’s “Bear Math”: AI Needs $2-3 Trillion of New Yearly Revenue. He Sold Amazon",
-        "description": null,
-        "summary": "Key TakeawaysThird Point’s Dan Loeb says $5 trillion to $7 trillion of AI spending from 2025 to 2030 needs $2 trillion to $3 trillion of new AI revenue a year to pay back. That’s a third to half of today’s roughly $6 trillion of global IT spending.",
-        "pubDate": "2026-11-20T21:59:08Z",
-        "displayTime": "2026-11-20T21:59:08Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/5b5e7379e7d3424a151bd0c5d55c2114",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/5b5e7379e7d3424a151bd0c5d55c2114",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/593ad5fab737248d81a8c8bbdd7de735a485deeca8f5299b17101fc0ce142f92/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F5b5e7379e7d3424a151bd0c5d55c2114",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/billionaire-dan-loebs-bear-math-ai-needs-2-3-trillion-of-new-yearly-revenue-he-sold-amazon?ref=yahoofinance&tlnk=yf-261120-5qww8h93"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-dan-loeb-bear-math-215908050.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "ORCL"
-            },
-            {
-              "symbol": "NVDA"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "0c929416-2c2b-453a-a838-3fe38a2cd309",
-      "content": {
-        "id": "0c929416-2c2b-453a-a838-3fe38a2cd309",
-        "contentType": "STORY",
-        "title": "Apple's secret AI agent shows John Ternus is done sitting out the AI race",
-        "description": null,
-        "summary": "Apple's AI agent plans hit Meta and Anthropic stock before the job listing revealing its ambitions disappeared.",
-        "pubDate": "2026-11-20T16:42:26Z",
-        "displayTime": "2026-11-20T21:53:52Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/2026-11/ce97a0e8-3772-4506-9a82-3b4d4eee2fc9",
-          "originalWidth": 5075,
-          "originalHeight": 3385,
-          "resolutions": [
-            {
-              "url": "https://d29szjachogqwa.cloudfront.net/images/2026-11/ce97a0e8-3772-4506-9a82-3b4d4eee2fc9",
-              "width": 5075,
-              "height": 3385,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/0145ed09817605433851cd0d525f7abd8d0bfa9ee83948d9e26577709af9b65d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fce97a0e8-3772-4506-9a82-3b4d4eee2fc9",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/apples-secret-ai-agent-shows-john-ternus-is-done-sitting-out-the-ai-race-164226953.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/apples-secret-ai-agent-shows-john-ternus-is-done-sitting-out-the-ai-race-164226953.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "AAPL"
-            },
-            {
-              "symbol": "ANT"
-            },
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "443afcec-8681-36b9-9986-70e451445b8f",
-      "content": {
-        "id": "443afcec-8681-36b9-9986-70e451445b8f",
-        "contentType": "STORY",
-        "title": "Meta's Server Chip Shake-Up Could Hand Nvidia a Win",
-        "description": null,
-        "summary": "The shift could change who wins the next orders.",
-        "pubDate": "2026-11-20T21:42:08Z",
-        "displayTime": "2026-11-20T21:42:08Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/metas-server-chip-shake-could-214208711.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/metas-server-chip-shake-could-214208711.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "INTC"
             },
             {
               "symbol": "AMD"
@@ -2157,27 +1670,45 @@
       }
     },
     {
-      "id": "7b7b4940-0441-3405-a6e6-492a9975ca63",
+      "id": "2c415088-48e4-307f-98e4-132d44e8d92d",
       "content": {
-        "id": "7b7b4940-0441-3405-a6e6-492a9975ca63",
+        "id": "2c415088-48e4-307f-98e4-132d44e8d92d",
         "contentType": "STORY",
-        "title": "Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic",
+        "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy for 2027?",
         "description": null,
-        "summary": "Apple Is Building An AI Agent To Take On OpenAI, Anthropic And Meta",
-        "pubDate": "2026-11-20T21:40:23Z",
-        "displayTime": "2026-11-20T21:40:23Z",
+        "summary": "AppLovin is growing fast and is highly profitable, but its stock has been volatile. Reddit is profitable and still growing, but Google's AI search is sending it fewer visitors.",
+        "pubDate": "2026-11-21T23:39:26Z",
+        "displayTime": "2026-11-21T23:39:26Z",
         "isHosted": true,
         "previewUrl": null,
-        "thumbnail": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/13b923be5f243ad2062f34ea81e41a93.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/motleyfool.com/13b923be5f243ad2062f34ea81e41a93.jpg",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/e6ce90fa1aefa1ec94900b67ba0916a74183b44a912ca02c5436d84e3bc57980/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F13b923be5f243ad2062f34ea81e41a93.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
         "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/"
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/apple-stock-ai-catalyst-could-214023171.html"
+          "url": "https://www.fool.com/coverage/better-buy/2026/11/21/applovin-vs-reddit-which-technology-stock-is-a-better-buy-for-2027/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/apple-stock-ai-catalyst-could-214023171.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-vs-reddit-technology-stock-233926901.html"
         },
         "finance": {
           "premiumFinance": {
@@ -2185,16 +1716,542 @@
           },
           "stockTickers": [
             {
-              "symbol": "AAPL"
+              "symbol": "APP"
+            },
+            {
+              "symbol": "RDDT"
+            },
+            {
+              "symbol": "AMZN"
             },
             {
               "symbol": "META"
             },
             {
+              "symbol": "GOOGN"
+            },
+            {
+              "symbol": "U"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "9f472c20-f89e-3e5a-b1e5-0eb6b89495f0",
+      "content": {
+        "id": "9f472c20-f89e-3e5a-b1e5-0eb6b89495f0",
+        "contentType": "STORY",
+        "title": "Oklo vs. NuScale Power: Which Nuclear Stock Is a Better Buy?",
+        "description": null,
+        "summary": "Two nuclear upstarts with very different paths to market.",
+        "pubDate": "2026-11-21T22:39:01Z",
+        "displayTime": "2026-11-21T22:39:01Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c50b17d903088c8ed8aa3e1459bdb119.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 933,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/motleyfool.com/c50b17d903088c8ed8aa3e1459bdb119.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/5f6f96de136fe4604951eee8b7df2feae9fb305f833b6edb6fde09b964d3706a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fc50b17d903088c8ed8aa3e1459bdb119.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/coverage/better-buy/2026/11/21/oklo-vs-nuscale-power-which-nuclear-stock-is-a-better-buy/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-power-nuclear-223901232.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "OKLO"
+            },
+            {
+              "symbol": "SMR"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "EQIX"
+            },
+            {
+              "symbol": "FANG"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "f867d9ed-48c3-32ec-9c2d-2869b179762a",
+      "content": {
+        "id": "f867d9ed-48c3-32ec-9c2d-2869b179762a",
+        "contentType": "STORY",
+        "title": "Stanley Druckenmiller, David Tepper and 45 Other Big Funds Sold Alphabet Last Quarter, While 31 Bought. Who’s Right?",
+        "description": null,
+        "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 47 sold Alphabet and 31 bought, and 19 of the sellers added to Meta Platforms in the same quarter.",
+        "pubDate": "2026-11-21T21:19:08Z",
+        "displayTime": "2026-11-21T21:19:08Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/0e840de61347c32385fd6c958d280b6a",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/tikr_258/0e840de61347c32385fd6c958d280b6a",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/cd9b1d14de368ca4db63d839adec243351a328fa1eba5062bc08577a8d268642/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F0e840de61347c32385fd6c958d280b6a",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-45-other-big-funds-sold-alphabet-last-quarter-while-31-bought-whos-right?ref=yahoofinance&tlnk=yf-261121-9mmqrw68"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-david-tepper-45-211908362.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "GOOGN"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "GQG.AX"
+            },
+            {
+              "symbol": "MSFT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1d20e6a0-377f-34b5-a5e2-64bf6c405242",
+      "content": {
+        "id": "1d20e6a0-377f-34b5-a5e2-64bf6c405242",
+        "contentType": "STORY",
+        "title": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years?",
+        "description": null,
+        "summary": "One bet comes from the biggest IPO ever, and the other from a coin that keeps bleeding. Both could multiply a $1,000 stake, but only one carries a catch that makes the math far more brutal than it looks.",
+        "pubDate": "2026-11-21T20:11:31Z",
+        "displayTime": "2026-11-21T20:11:31Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/30828f4f1fac6b6ebdd8b8af8d441b2f.jpg",
+          "originalWidth": 1500,
+          "originalHeight": 891,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/30828f4f1fac6b6ebdd8b8af8d441b2f.jpg",
+              "width": 1500,
+              "height": 891,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/fb3c4f3be10ab98c59afac823b9b2d3698c912061c2175a7c9bf4e8844c84598/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F30828f4f1fac6b6ebdd8b8af8d441b2f.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/cryptocurrency/2026/11/21/1000-in-anthropic-stock-or-xrp-which-could-be-worth-more-in-5-years/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/1-000-anthropic-stock-xrp-201131858.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
               "symbol": "ANT"
             },
             {
-              "symbol": "OPAI.PVT"
+              "symbol": "XRP-USD"
+            },
+            {
+              "symbol": "XRP"
+            },
+            {
+              "symbol": "SOFI"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "BTC-USD"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "2fb77325-5b27-3999-b2ae-21627b24f9da",
+      "content": {
+        "id": "2fb77325-5b27-3999-b2ae-21627b24f9da",
+        "contentType": "STORY",
+        "title": "A $3.2 Billion Fund Just Bought These 3 Stocks",
+        "description": null,
+        "summary": "Key TakeawaysA $3. 2 billion fund opened new positions in Snowflake, TTM Technologies and Meta Platforms in the third quarter, its 13F shows.",
+        "pubDate": "2026-11-21T19:52:12Z",
+        "displayTime": "2026-11-21T19:52:12Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/5cbcb3ab4ffc44280bfa2622876f80bf",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/tikr_258/5cbcb3ab4ffc44280bfa2622876f80bf",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/8914edbc207ee1cf201602be065de31e3986de4a173eb4c8956bcdd9ec086601/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F5cbcb3ab4ffc44280bfa2622876f80bf",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.tikr.com/blog/a-3-2-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m8xrrcc"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-2-billion-fund-just-195212986.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TTMI"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "SNOW"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "65275209-c973-374b-9e55-545d5a9636e8",
+      "content": {
+        "id": "65275209-c973-374b-9e55-545d5a9636e8",
+        "contentType": "STORY",
+        "title": "Meta Stopped Its Buybacks To Build AI. How Much More Can It Spend?",
+        "description": null,
+        "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+        "pubDate": "2026-11-21T18:32:03Z",
+        "displayTime": "2026-11-21T18:32:03Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/eb3f02f45b9d2f78bb7fa293d70ebcdf.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/eb3f02f45b9d2f78bb7fa293d70ebcdf.jpg",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/1bcec3b47aa505cf86ca09f6b62a9a871daf8612e0906a1a1bf87ce07a5bfd37/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Feb3f02f45b9d2f78bb7fa293d70ebcdf.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/meta/articles/627455/meta-stopped-its-buybacks-to-build-ai-how-much-more-can-it-spend/2026-11-21"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-stopped-buybacks-build-ai-183203488.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "^NDX"
+            },
+            {
+              "symbol": "^GSPC"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "AMZN"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "4df85590-3a2f-339e-b459-b9449b88f761",
+      "content": {
+        "id": "4df85590-3a2f-339e-b459-b9449b88f761",
+        "contentType": "STORY",
+        "title": "Microsoft Was The Only Big AI Buyer Paying Down Debt. How Much More Can It Spend?",
+        "description": null,
+        "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+        "pubDate": "2026-11-21T18:32:03Z",
+        "displayTime": "2026-11-21T18:32:03Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/282b2de041f61e72e2e65f389df3ed54.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1920,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/282b2de041f61e72e2e65f389df3ed54.jpg",
+              "width": 2560,
+              "height": 1920,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/d2469f8945071c6964c716b5d4f940127fa6abf6f864f7ead67e56d70ef64a09/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F282b2de041f61e72e2e65f389df3ed54.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/msft/articles/627454/microsoft-was-the-only-big-ai-buyer-paying-down-debt-how-much-more-can-it-spend/2026-11-21"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-only-big-ai-buyer-183203505.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "^NDX"
+            },
+            {
+              "symbol": "^GSPC"
+            },
+            {
+              "symbol": "AMZN"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "AAPL"
+            },
+            {
+              "symbol": "AVGO"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "739a4c80-89da-3122-a571-a3f7a7b3fcfd",
+      "content": {
+        "id": "739a4c80-89da-3122-a571-a3f7a7b3fcfd",
+        "contentType": "STORY",
+        "title": "Billionaire Investor Philippe Laffont Just Highlighted 2 Companies He Expects to Be Big Winners of the Agentic AI Era",
+        "description": null,
+        "summary": "The rise of agentic AI could boost plenty of businesses, but Laffont is putting his money into Intel and Meta Platforms.",
+        "pubDate": "2026-11-21T17:04:02Z",
+        "displayTime": "2026-11-21T17:04:02Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/f4d53b90fdf6542478a89b4f85de1e66.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 840,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/motleyfool.com/f4d53b90fdf6542478a89b4f85de1e66.jpg",
+              "width": 1400,
+              "height": 840,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/3ae1de3cbf34d79b8b64231f2209fe9184b027c2655bbb2aa78e261866b149ea/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ff4d53b90fdf6542478a89b4f85de1e66.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/11/21/billionaire-investor-philippe-laffont-just-highlighted-2-companies-he-expects-to-be-big-winners-of-the-agentic-ai-era/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-philippe-laffont-just-170402285.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "INTC"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "336209f2-5d71-3506-9f02-4d731efb43da",
+      "content": {
+        "id": "336209f2-5d71-3506-9f02-4d731efb43da",
+        "contentType": "STORY",
+        "title": "AI May Have Just Broken Meta’s Climate Promise",
+        "description": null,
+        "summary": "Meta runs on 100% clean electricity, yet its emissions still surged. The real culprit hides in the supply chain, and it doubles as a revealing gauge of how much the AI buildout costs shareholders.",
+        "pubDate": "2026-11-21T17:02:19Z",
+        "displayTime": "2026-11-21T17:02:19Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/a84bb8f6a562101b9d4d45df0778d6c4.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/a84bb8f6a562101b9d4d45df0778d6c4.jpg",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/b5e575d2b2081944e5ef75ea986ab242758eb82d269ed03059c2143a4396ab85/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fa84bb8f6a562101b9d4d45df0778d6c4.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/11/21/ai-may-have-just-broken-metas-climate-promise/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-may-just-broken-meta-170219234.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "GOOGN"
             },
             {
               "symbol": "GOOG"
