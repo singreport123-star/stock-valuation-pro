@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-11-23T02:06:06.872553"
+    "ts": "2026-11-24T05:41:52.528913"
   },
   "financials": {
     "annual": {
@@ -27080,6 +27080,41 @@
         "buy": 1051645,
         "name": "Investment_Trust",
         "sell": 4900000
+      },
+      {
+        "date": "2026-11-23",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-11-23",
+        "stock_id": "2330",
+        "buy": 751800,
+        "name": "Dealer_self",
+        "sell": 1820200
+      },
+      {
+        "date": "2026-11-23",
+        "stock_id": "2330",
+        "buy": 4241987,
+        "name": "Dealer_Hedging",
+        "sell": 508185
+      },
+      {
+        "date": "2026-11-23",
+        "stock_id": "2330",
+        "buy": 30131257,
+        "name": "Foreign_Investor",
+        "sell": 41170465
+      },
+      {
+        "date": "2026-11-23",
+        "stock_id": "2330",
+        "buy": 1419683,
+        "name": "Investment_Trust",
+        "sell": 125430
       }
     ],
     "margin_trading": [],
@@ -27087,30 +27122,30 @@
   },
   "news": [
     {
-      "id": "cb2ac9bd-5a4e-35c2-b053-1ac78ae88066",
+      "id": "7765ae3b-cad0-391f-a035-84110af315fb",
       "content": {
-        "id": "cb2ac9bd-5a4e-35c2-b053-1ac78ae88066",
+        "id": "7765ae3b-cad0-391f-a035-84110af315fb",
         "contentType": "STORY",
-        "title": "Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia",
+        "title": "Asian stocks rally as Huang's return to Nvidia revives the AI trade",
         "description": null,
-        "summary": "Taiwan's stock market lost 17. 5% in the week to November 20, its worst five days since 1990, as investors dumped AI-linked chip shares across emerging Asia, Reuters reported.",
-        "pubDate": "2026-11-22T19:21:13Z",
-        "displayTime": "2026-11-22T19:21:13Z",
+        "summary": "By Jiaxing Li HONG KONG, Nov 24 (Reuters) - Asian shares leapt on Tuesday following a spectacular Wall Street surge, as Jensen Huang's return as Nvidia CEO sparked a relief rally in the battered AI",
+        "pubDate": "2026-11-24T04:16:45Z",
+        "displayTime": "2026-11-24T04:16:45Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/intellinews_516/a3a4ba76cb0a673b044d57df963d327d.png_up.jpg",
+          "originalUrl": "https://media.zenfs.com/en/reuters.com/e5ccffab982b2add69bc000caebcb834.jpg_up.jpg",
           "originalWidth": 1280,
-          "originalHeight": 726,
+          "originalHeight": 912,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/intellinews_516/a3a4ba76cb0a673b044d57df963d327d.png_up.jpg",
+              "url": "https://media.zenfs.com/en/reuters.com/e5ccffab982b2add69bc000caebcb834.jpg_up.jpg",
               "width": 1280,
-              "height": 726,
+              "height": 912,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/dc9bb99334da56c216dbcfe7265cac97f2103c63b7f119bac10ab68a3b157e91/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fintellinews_516%2Fa3a4ba76cb0a673b044d57df963d327d.png_up.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/299a580a225aaca761fa48318cfa77a6f91a96b86ca2b58be99af043219a10db/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe5ccffab982b2add69bc000caebcb834.jpg_up.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27118,14 +27153,14 @@
           ]
         },
         "provider": {
-          "displayName": "IntelliNews",
-          "url": "https://www.intellinews.com/"
+          "displayName": "Reuters",
+          "url": "https://www.reuters.com/"
         },
         "canonicalUrl": {
-          "url": "http://www.intellinews.com/taiwan-stocks-suffer-worst-week-since-1990-as-ai-rout-drains-emerging-asia-487378/"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-stocks-suffer-worst-week-192113134.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27133,43 +27168,114 @@
           },
           "stockTickers": [
             {
+              "symbol": "NVDA"
+            },
+            {
               "symbol": "TSM"
+            },
+            {
+              "symbol": "2317.TW"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d8022f3d-60d9-3991-9b7f-a9caaec94bc8",
+      "content": {
+        "id": "d8022f3d-60d9-3991-9b7f-a9caaec94bc8",
+        "contentType": "STORY",
+        "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
+        "description": null,
+        "summary": "HONG KONG (AP) — Asian stocks advanced after a rally on Wall Street as Jensen Huang returned as Nvidia’s CEO, while U. futures edged higher and oil prices fell.",
+        "pubDate": "2026-11-24T03:31:25Z",
+        "displayTime": "2026-11-24T03:31:25Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ap.org/97598a5b1b5710470a69e169cef087fe.jpg",
+          "originalWidth": 4787,
+          "originalHeight": 3191,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/ap.org/97598a5b1b5710470a69e169cef087fe.jpg",
+              "width": 4787,
+              "height": 3191,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/fae7a96f5a98a3b5095afe5657f08c9a9e4619cdb77580490a0cb45400ae634b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F97598a5b1b5710470a69e169cef087fe.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Associated Press",
+          "url": "https://apnews.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-wall-street-033125464.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-wall-street-033125464.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
             },
             {
               "symbol": "005930.KS"
             },
             {
               "symbol": "SKHY"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "CL=F"
+            },
+            {
+              "symbol": "8035.T"
+            },
+            {
+              "symbol": "6857.T"
             }
           ]
         }
       }
     },
     {
-      "id": "2fbf623b-b2c2-333c-9a70-3a9656b23bb4",
+      "id": "4789cde8-f958-3e5f-bd15-3acc2cf1f0da",
       "content": {
-        "id": "2fbf623b-b2c2-333c-9a70-3a9656b23bb4",
+        "id": "4789cde8-f958-3e5f-bd15-3acc2cf1f0da",
         "contentType": "STORY",
-        "title": "Stanley Druckenmiller, Leopold Aschenbrenner and 25 Other Big Funds Sold Taiwan Semiconductor Last Quarter, While 38 Bought. Who’s Right?",
+        "title": "Taiwan Stocks Jump 9%, Beating Korea and Japan on Huang's Nvidia Return",
         "description": null,
-        "summary": "Key TakeawaysOf 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 38 bought Taiwan Semiconductor and 27 sold, with Stanley Druckenmiller’s and Leopold Aschenbrenner’s funds among the sellers.",
-        "pubDate": "2026-11-22T18:05:15Z",
-        "displayTime": "2026-11-22T18:05:15Z",
+        "summary": "Taiwan stocks jumped about 9% after Nvidia reinstated Jensen Huang, beating the KOSPI and Nikkei as TSMC hit its limit.",
+        "pubDate": "2026-11-24T02:54:12Z",
+        "displayTime": "2026-11-24T02:54:12Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/3db296b49dbcff6c3266a33496c20e23",
+          "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/4ce77c23e35351d7499fac0d9b9e976e.png",
           "originalWidth": 1280,
           "originalHeight": 720,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/3db296b49dbcff6c3266a33496c20e23",
+              "url": "https://media.zenfs.com/en/beincrypto_us_662/4ce77c23e35351d7499fac0d9b9e976e.png",
               "width": 1280,
               "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/be0f1089f71e06f7713cef976280ea99e2152ed5ddc5d012513452bce912e985/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F3db296b49dbcff6c3266a33496c20e23",
+              "url": "https://s.yimg.com/lo/mysterio/api/1de91113e15f78ebacb59db5c93ead0ab7ea9ce9608e9d56a498f1f4f69f3047/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F4ce77c23e35351d7499fac0d9b9e976e.png",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27177,101 +27283,24 @@
           ]
         },
         "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
+          "displayName": "BeInCrypto",
+          "url": "https://beincrypto.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/stanley-druckenmiller-leopold-aschenbrenner-and-25-other-big-funds-sold-taiwan-semiconductor-last-quarter-while-38-bought-whos-right?ref=yahoofinance&tlnk=yf-261122-frx2h3mh"
+          "url": "https://beincrypto.com/taiwan-stocks-jump-huang-nvidia-return/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-leopold-aschenbrenner-25-180515660.html"
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/taiwan-stocks-jump-9-beating-025412794.html"
         },
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false
           },
           "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "GQG.AX"
-            },
             {
               "symbol": "NVDA"
             },
             {
-              "symbol": "ASML"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "c7f39e66-718c-3a28-9a0b-acda5f72e0d3",
-      "content": {
-        "id": "c7f39e66-718c-3a28-9a0b-acda5f72e0d3",
-        "contentType": "STORY",
-        "title": "5 Best American Stocks to Buy for 2027",
-        "description": null,
-        "summary": "Wall Street has faced heightened volatility as investors reassess artificial intelligence spending, inflation, and interest rate expectations. On November 5, the S&P 500 plunged 4.36%, wiping out roughly $3 trillion in market value, while the Nasdaq Composite fell 5.52% and entered correction territory. Semiconductor stocks suffered the steepest losses, with the Philadelphia Semiconductor Index dropping […]",
-        "pubDate": "2026-11-22T14:21:33Z",
-        "displayTime": "2026-11-22T14:21:33Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/2e71847de667cfd15cf8ad12ad7902b6.jpg",
-          "originalWidth": 5081,
-          "originalHeight": 3387,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/insidermonkey.com/2e71847de667cfd15cf8ad12ad7902b6.jpg",
-              "width": 5081,
-              "height": 3387,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/d7f64eed5979eb2f63a39a02d65444e733e2ddd6f99147f8c818db914902906c/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F2e71847de667cfd15cf8ad12ad7902b6.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Insider Monkey",
-          "url": "http://www.insidermonkey.com"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-american-stocks-buy-142133267.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-american-stocks-buy-142133267.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "^GSPC"
-            },
-            {
-              "symbol": "^IXIC"
-            },
-            {
-              "symbol": "SHOP"
-            },
-            {
-              "symbol": "BKNG"
-            },
-            {
-              "symbol": "NOW"
-            },
-            {
-              "symbol": "AVGO"
-            },
-            {
               "symbol": "TSM"
             }
           ]
@@ -27279,30 +27308,80 @@
       }
     },
     {
-      "id": "30ccaf81-31d3-3e27-893e-4462c9144a40",
+      "id": "7b5a4e60-36e9-3ee7-ae9d-68d3559ebae0",
       "content": {
-        "id": "30ccaf81-31d3-3e27-893e-4462c9144a40",
+        "id": "7b5a4e60-36e9-3ee7-ae9d-68d3559ebae0",
         "contentType": "STORY",
-        "title": "OpenAI’s Greg Brockman: AI Delivered “Roughly an Additional Year of Progress” on AMD’s Chip in Under 5 Months",
+        "title": "Asia chipmaking stocks soar tracking Nvidia rally; S.Korea, Taiwan lead",
         "description": null,
-        "summary": "Key TakeawaysOpenAI’s Greg Brockman says OpenAI’s models delivered roughly an extra year of progress on an AMD chip in under five months. AMD’s edge over Nvidia comes from who did the work: OpenAI, which plans to deploy up to 6 gigawatts of AMD GPUs and holds a warrant that pays off as those chips ship.",
-        "pubDate": "2026-11-22T12:35:32Z",
-        "displayTime": "2026-11-22T12:35:32Z",
+        "summary": "Investing.com-- Asian chipmaking and tech stocks rose sharply on Tuesday, with South Korea and Taiwan in the lead after Jensen Huang’s reinstatement as Nvidia’s CEO helped restore confidence in the battered artificial intelligence trade.",
+        "pubDate": "2026-11-24T02:15:20Z",
+        "displayTime": "2026-11-24T02:15:20Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/asia-chipmaking-stocks-soar-tracking-021520376.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/asia-chipmaking-stocks-soar-tracking-021520376.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "SKHY"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "^N225"
+            },
+            {
+              "symbol": "6857.T"
+            },
+            {
+              "symbol": "005930.KS"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "0e731d37-4469-33ff-989c-ae024e6403a1",
+      "content": {
+        "id": "0e731d37-4469-33ff-989c-ae024e6403a1",
+        "contentType": "STORY",
+        "title": "Crypto traders saw Anthropic's 34% debut pop coming",
+        "description": null,
+        "summary": "Weeks before bankers priced Anthropic’s IPO, a 24/7 crypto market was already trading the shares much higher. The debut showed how close it got.",
+        "pubDate": "2026-11-23T22:47:15Z",
+        "displayTime": "2026-11-23T22:47:15Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/044af6413acd0b67c022aa4aed5a7a9e",
-          "originalWidth": 1280,
-          "originalHeight": 720,
+          "originalUrl": "https://media.zenfs.com/en/thestreet_881/768179109c4b1b5c06ae4385b64c06e9.jpg",
+          "originalWidth": 3840,
+          "originalHeight": 2579,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/044af6413acd0b67c022aa4aed5a7a9e",
-              "width": 1280,
-              "height": 720,
+              "url": "https://media.zenfs.com/en/thestreet_881/768179109c4b1b5c06ae4385b64c06e9.jpg",
+              "width": 3840,
+              "height": 2579,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/6411afea9b2c12520c76029572a7f835afc3029ad88f83483294cfe72a9506be/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F044af6413acd0b67c022aa4aed5a7a9e",
+              "url": "https://s.yimg.com/lo/mysterio/api/088caff6634d372de7bfee32061d91ff560d64bdbb7ba807f94328330eadc2ab/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F768179109c4b1b5c06ae4385b64c06e9.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27310,64 +27389,76 @@
           ]
         },
         "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
+          "displayName": "TheStreet",
+          "url": "https://www.thestreet.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/openais-greg-brockman-ai-delivered-roughly-an-additional-year-of-progress-on-amds-chip-in-under-5-months?ref=yahoofinance&tlnk=yf-261122-2vm39c6q"
+          "url": "https://www.thestreet.com/crypto/markets/crypto-traders-saw-anthropics-34-debut-pop-coming-"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/openai-greg-brockman-ai-delivered-123532256.html"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-traders-saw-anthropics-34-224715513.html"
         },
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false
           },
           "stockTickers": [
+            {
+              "symbol": "ANT"
+            },
+            {
+              "symbol": "HYPE32196-USD"
+            },
             {
               "symbol": "AMD"
             },
             {
-              "symbol": "OPAI.PVT"
+              "symbol": "AVGO"
+            },
+            {
+              "symbol": "GOOGN"
+            },
+            {
+              "symbol": "MU"
+            },
+            {
+              "symbol": "MSFT"
             },
             {
               "symbol": "NVDA"
             },
             {
               "symbol": "TSM"
-            },
-            {
-              "symbol": "AVGO"
             }
           ]
         }
       }
     },
     {
-      "id": "9ba8999f-97cb-3fe9-8787-9b9e41fa191a",
+      "id": "7932df98-14c5-3ddb-bf6a-a18b36b684fc",
       "content": {
-        "id": "9ba8999f-97cb-3fe9-8787-9b9e41fa191a",
+        "id": "7932df98-14c5-3ddb-bf6a-a18b36b684fc",
         "contentType": "STORY",
-        "title": "A $164 Billion Fund Bought These 3 Stocks Last Quarter",
+        "title": "EEM Now Moves Like A Chip Fund",
         "description": null,
-        "summary": "Key TakeawaysA fund that manages $164 billion added heavily to Nvidia, Taiwan Semiconductor and Microsoft in the third quarter, per its latest 13F. All three stocks have fallen since Sept.",
-        "pubDate": "2026-11-22T12:20:37Z",
-        "displayTime": "2026-11-22T12:20:37Z",
+        "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+        "pubDate": "2026-11-23T22:43:10Z",
+        "displayTime": "2026-11-23T22:43:10Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/7ef4f2bca1bf77e11cbc0c963c8bc015",
-          "originalWidth": 1280,
-          "originalHeight": 720,
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/8944e3b7eead37a545b4f8b70a546ebd.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1280,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/7ef4f2bca1bf77e11cbc0c963c8bc015",
-              "width": 1280,
-              "height": 720,
+              "url": "https://media.zenfs.com/en/trefis_142/8944e3b7eead37a545b4f8b70a546ebd.jpg",
+              "width": 1920,
+              "height": 1280,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/9a33e9bb45e3bf58c54899e36b5580b67e5f8ff997eef317b96a0d97677a215f/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F7ef4f2bca1bf77e11cbc0c963c8bc015",
+              "url": "https://s.yimg.com/lo/mysterio/api/03722b1f6b402ac054acef40b1ab37da8b86a36837f99fc9d5d6aa5c62c493f6/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F8944e3b7eead37a545b4f8b70a546ebd.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27375,14 +27466,147 @@
           ]
         },
         "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/a-164-billion-fund-bought-these-3-stocks-last-quarter?ref=yahoofinance&tlnk=yf-261122-9gjc63fr"
+          "url": "https://www.trefis.com/stock/eem/articles/627624/eem-near-54-now-moves-like-a-chip-fund/2026-11-23"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/164-billion-fund-bought-3-122037274.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eem-now-moves-chip-fund-224310940.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "EEM"
+            },
+            {
+              "symbol": "VEIEX"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "SMH"
+            },
+            {
+              "symbol": "INDA"
+            },
+            {
+              "symbol": "SPY"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "6cd31c5f-5708-3e8a-9c6a-9639e095e47c",
+      "content": {
+        "id": "6cd31c5f-5708-3e8a-9c6a-9639e095e47c",
+        "contentType": "STORY",
+        "title": "Nvidia’s Board Had Other Options: Robert Maciejko",
+        "description": null,
+        "summary": "By Robert Maciejko Jensen Huang is back at Nvidia Corp. (Nasdaq: NVDA). The stock jumped more than 30% on the news, after losing about a third of its value in two weeks. I understand why. What interests me more than the last decision is what the board could have done in the eleven days before […] The post Nvidia’s Board Had Other Options: Robert Maciejko appeared first on CorpGov.",
+        "pubDate": "2026-11-23T22:22:13Z",
+        "displayTime": "2026-11-23T22:22:13Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/corpgov_com_597/0c65af87a50eb04371cc1a79e11bd49c.png",
+          "originalWidth": 1672,
+          "originalHeight": 941,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/corpgov_com_597/0c65af87a50eb04371cc1a79e11bd49c.png",
+              "width": 1672,
+              "height": 941,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/32898cffa27fdf0e21527d7a14fe90629b902a53abc6288610c2b998cf00523d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcorpgov_com_597%2F0c65af87a50eb04371cc1a79e11bd49c.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "CorpGov.com",
+          "url": "http://corpgov.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-board-had-other-options-222213836.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-board-had-other-options-222213836.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "MU"
+            },
+            {
+              "symbol": "DELL"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "ARM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ab273482-c0ff-45c1-a758-9bf1b0eac62e",
+      "content": {
+        "id": "ab273482-c0ff-45c1-a758-9bf1b0eac62e",
+        "contentType": "VIDEO",
+        "title": "It's not over for Jensen Huang",
+        "description": "<p>Nvidia's board voted unanimously to bring back Jensen Huang as CEO, 11 days after he was pushed out, and the US stock market added $3 trillion within the hour. Host Ejaaz Ahamadeen breaks down what changes now, from the \"bank of Nvidia\" and chips for China to a more careful Jensen and what his return means for open-source AI.</p>",
+        "summary": "Nvidia's board voted unanimously to bring back Jensen Huang as CEO, 11 days after he was pushed out, and the US stock market added $3 trillion within the hour. Host Ejaaz Ahamadeen breaks down what changes now, from the \"bank of Nvidia\" and chips for China to a more careful Jensen and what his return means for open-source AI.",
+        "pubDate": "2026-11-23T21:58:09Z",
+        "displayTime": "2026-11-23T21:58:09Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/in-the-loop-jensen-huang-is-back-thumbnail_1086.png",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/in-the-loop-jensen-huang-is-back-thumbnail_1086.png",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/d6e88afda9bc4ed7ba203b704157fe7794035733f03444837e31a6083790b6cc/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fin-the-loop-jensen-huang-is-back-thumbnail_1086.png",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/video/its-not-over-for-jensen-huang-215809126.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/video/its-not-over-for-jensen-huang-215809126.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27399,217 +27623,58 @@
               "symbol": "MSFT"
             },
             {
-              "symbol": "GQG.AX"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "4e2ceac6-436a-3852-b282-ce3c5cf4f1b7",
-      "content": {
-        "id": "4e2ceac6-436a-3852-b282-ce3c5cf4f1b7",
-        "contentType": "STORY",
-        "title": "Cathie Wood Just Sold $17 Million of Nvidia Across 2 ARK Funds",
-        "description": null,
-        "summary": "Key TakeawaysCathie Wood’s ARK sold 135,760 NVIDIA shares from two ETFs on Friday, worth about $17 million at Friday’s close. The sale came to about a tenth of a percent of each ETF, a trim of a stock that made up 3% of ARK’s 13F stocks at Sept.",
-        "pubDate": "2026-11-21T11:17:56Z",
-        "displayTime": "2026-11-21T11:17:56Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/739a68c4cbf6df49ce92e95c5461809f",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/739a68c4cbf6df49ce92e95c5461809f",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
+              "symbol": "META"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/e97ae9515b923ea6df0800c5839851c33d92378d75e64506ca05094c5a5221e3/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F739a68c4cbf6df49ce92e95c5461809f",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/cathie-wood-just-sold-17-million-of-nvidia-across-2-ark-funds?ref=yahoofinance&tlnk=yf-261121-6p79vwqw"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-sold-17-111756359.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "NVDA"
+              "symbol": "CRWV"
             },
             {
-              "symbol": "AMD"
+              "symbol": "NBIS"
             },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "ee2bcfc2-3aa5-3007-ab9d-1b6a093f9841",
-      "content": {
-        "id": "ee2bcfc2-3aa5-3007-ab9d-1b6a093f9841",
-        "contentType": "STORY",
-        "title": "Cathie Wood Just Bought $21 Million of Advanced Micro Devices Across 2 ARK Funds",
-        "description": null,
-        "summary": "Key TakeawaysCathie Wood’s ARK Invest bought 49,745 shares of Advanced Micro Devices across two ETFs on Nov. 20, worth about $21 million at that day’s close.",
-        "pubDate": "2026-11-21T11:17:12Z",
-        "displayTime": "2026-11-21T11:17:12Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/8c8a01de5ac249ed706c2116072de2c0",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/8c8a01de5ac249ed706c2116072de2c0",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/9ea269b887a6fa198c9562f2b4681c755eafec94ef82bca880dada0103636475/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F8c8a01de5ac249ed706c2116072de2c0",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/cathie-wood-just-bought-21-million-of-advanced-micro-devices-across-2-ark-funds?ref=yahoofinance&tlnk=yf-261121-p8vrq959"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-bought-21-111712785.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "AMD"
-            },
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "NVDA"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d6ebdfc1-bb57-3fb3-84a4-357a93131948",
-      "content": {
-        "id": "d6ebdfc1-bb57-3fb3-84a4-357a93131948",
-        "contentType": "STORY",
-        "title": "Broadcom Backstops Up to $29 Billion of Anthropic’s Leases. Anthropic Just Gave Back Its IPO Pop",
-        "description": null,
-        "summary": "Key TakeawaysBroadcom shares fell 11% today as Anthropic gave back much of its IPO pop. Broadcom expects Anthropic to be its largest custom AI chip customer in 2027.",
-        "pubDate": "2026-11-21T10:35:24Z",
-        "displayTime": "2026-11-21T10:35:24Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/9a2572d42e9f10aab80d46ae1ed2f264",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/9a2572d42e9f10aab80d46ae1ed2f264",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/42f3977b75703773fe6445e658a68c86d7a61c1dc4c90498b2c9a9effcfe0c55/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F9a2572d42e9f10aab80d46ae1ed2f264",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/broadcom-backstops-up-to-29-billion-of-anthropics-leases-anthropic-just-gave-back-its-ipo-pop?ref=yahoofinance&tlnk=yf-261121-8x38gpvg"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-backstops-29-billion-anthropic-103524920.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
             {
               "symbol": "ANT"
             },
             {
-              "symbol": "AVGO"
+              "symbol": "AMD"
             },
             {
-              "symbol": "TSM"
+              "symbol": "GOOGN"
             },
             {
               "symbol": "AMZN"
+            },
+            {
+              "symbol": "INTC"
             }
           ]
         }
       }
     },
     {
-      "id": "87f465c7-041e-372e-b545-283017109e76",
+      "id": "1e1a4ad6-81ce-3a32-95aa-627c6edc5cc8",
       "content": {
-        "id": "87f465c7-041e-372e-b545-283017109e76",
+        "id": "1e1a4ad6-81ce-3a32-95aa-627c6edc5cc8",
         "contentType": "STORY",
-        "title": "TSMC Sinks 20% in a Week on Nvidia Jitters and New US Chip Curbs on China. Time to Buy?",
+        "title": "From Resignation to Reinstatement: Huang's Market Impact",
         "description": null,
-        "summary": "Key TakeawaysTSMC stock fell 20% in a week on Nvidia jitters and a new US rule that paused some of its shipments to China. Customers based in China were just 5% of TSMC’s third-quarter revenue.",
-        "pubDate": "2026-11-21T10:07:29Z",
-        "displayTime": "2026-11-21T10:07:29Z",
+        "summary": "Jensen Huang's sudden exit and swift reinstatement underscore how closely the global AI trade, infrastructure supply chains, and major equity benchmarks are tied to his leadership at Nvidia.",
+        "pubDate": "2026-11-23T21:56:00Z",
+        "displayTime": "2026-11-23T21:56:00Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/1e06a5725b6ebcfcdf8113df676eb6d7",
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/e076d4c560820e329ed52fe6d16c0282.jpg_up.jpg",
           "originalWidth": 1280,
-          "originalHeight": 720,
+          "originalHeight": 799,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/1e06a5725b6ebcfcdf8113df676eb6d7",
+              "url": "https://media.zenfs.com/en/zacks.com/e076d4c560820e329ed52fe6d16c0282.jpg_up.jpg",
               "width": 1280,
-              "height": 720,
+              "height": 799,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/20460aac083a777b46d6ece4c02e17bb4c734961a06c6de46e250ad7cdca2f22/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F1e06a5725b6ebcfcdf8113df676eb6d7",
+              "url": "https://s.yimg.com/lo/mysterio/api/de3b2d23a43f8d033b661f09e4d49c906bce74cf26d06b773e1198633357eecd/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2Fe076d4c560820e329ed52fe6d16c0282.jpg_up.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27617,14 +27682,85 @@
           ]
         },
         "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
+          "displayName": "Zacks",
+          "url": "http://www.zacks.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/tsmc-sinks-20-in-a-week-on-nvidia-jitters-and-new-us-chip-curbs-on-china-time-to-buy?ref=yahoofinance&tlnk=yf-261121-mwhr248c"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/resignation-reinstatement-huangs-market-impact-215600680.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sinks-20-week-nvidia-100729822.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/resignation-reinstatement-huangs-market-impact-215600680.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "OPAI.PVT"
+            },
+            {
+              "symbol": "DELL"
+            },
+            {
+              "symbol": "MU"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "NBIS"
+            },
+            {
+              "symbol": "ANT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "84ca5f6c-f5c0-36df-881b-5123535972ec",
+      "content": {
+        "id": "84ca5f6c-f5c0-36df-881b-5123535972ec",
+        "contentType": "STORY",
+        "title": "Why TSMC Stock Soared Today",
+        "description": null,
+        "summary": "AI stocks jumped on news of Jensen Huang's return.",
+        "pubDate": "2026-11-23T21:20:49Z",
+        "displayTime": "2026-11-23T21:20:49Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c073574521e44df36d6b1834a1a7d059.jpg",
+          "originalWidth": 1290,
+          "originalHeight": 860,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/motleyfool.com/c073574521e44df36d6b1834a1a7d059.jpg",
+              "width": 1290,
+              "height": 860,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/4ef3f6f114bb65c0e377a003782f9df0295e8ba0467164cdf86d2755a102112b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fc073574521e44df36d6b1834a1a7d059.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/11/23/why-tsmc-stock-soared-today/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tsmc-stock-soared-today-212049972.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27638,66 +27774,7 @@
               "symbol": "NVDA"
             },
             {
-              "symbol": "AMD"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d4197774-8048-3fb5-b152-8202e401112e",
-      "content": {
-        "id": "d4197774-8048-3fb5-b152-8202e401112e",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Pauses Advanced Chip Shipments To China",
-        "description": null,
-        "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) and Samsung have halted advanced chip shipments to China after new US export rules took effect. The suspension targets leading edge manufacturing processes used in smartphone processors and AI accelerators for Chinese device and cloud providers. Chinese handset makers and AI hardware buyers now face delays as they seek alternative chip sources that comply with the latest US controls. The halt in TSMC and Samsung exports to China for cutting edge...",
-        "pubDate": "2026-11-21T04:25:28Z",
-        "displayTime": "2026-11-21T04:25:28Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0f9606c11fab5873fe681760ed38df34.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 900,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/simply_wall_st__316/0f9606c11fab5873fe681760ed38df34.jpg",
-              "width": 1600,
-              "height": 900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/30108562c75c8bc200994a2a1cb92710b6cc1b82997155fd47c7252c73a1be46/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F0f9606c11fab5873fe681760ed38df34.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-manufacturing-nyse-tsm-042528694.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-manufacturing-nyse-tsm-042528694.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "005930.KS"
-            },
-            {
-              "symbol": "TSM"
+              "symbol": "^IXIC"
             }
           ]
         }
@@ -27810,48 +27887,48 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2000.0,
-    "open": 1990.0,
-    "dayLow": 1970.0,
-    "dayHigh": 2045.0,
-    "regularMarketPreviousClose": 2000.0,
-    "regularMarketOpen": 1990.0,
-    "regularMarketDayLow": 1970.0,
-    "regularMarketDayHigh": 2045.0,
+    "previousClose": 2030.0,
+    "open": 2230.0,
+    "dayLow": 2230.0,
+    "dayHigh": 2230.0,
+    "regularMarketPreviousClose": 2030.0,
+    "regularMarketOpen": 2230.0,
+    "regularMarketDayLow": 2230.0,
+    "regularMarketDayHigh": 2230.0,
     "dividendRate": 24.0,
-    "dividendYield": 1.2,
+    "dividendYield": 1.18,
     "exDividendDate": 1796860800,
     "payoutRatio": 0.24620001,
     "fiveYearAvgDividendYield": 1.51,
     "beta": 1.233,
-    "trailingPE": 20.673027,
-    "forwardPE": 13.468977,
-    "volume": 32147838,
-    "regularMarketVolume": 32147838,
-    "averageVolume": 26574469,
-    "averageVolume10days": 42994166,
-    "averageDailyVolume10Day": 42994166,
-    "bid": 2015.0,
-    "ask": 2020.0,
+    "trailingPE": 22.541191,
+    "forwardPE": 14.906114,
+    "volume": 11258355,
+    "regularMarketVolume": 11258355,
+    "averageVolume": 27199209,
+    "averageVolume10days": 45372057,
+    "averageDailyVolume10Day": 45372057,
+    "bid": 0.0,
+    "ask": 0.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 52253717168128,
+    "marketCap": 57829176115200,
     "nonDilutedMarketCap": 51864729940000,
     "fiftyTwoWeekLow": 1375.0,
     "fiftyTwoWeekHigh": 2590.0,
     "allTimeHigh": 2590.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2015.0,
-    "fulldayChange": 15.0,
-    "fulldayChangePercent": 0.75,
-    "priceToSalesTrailing12Months": 10.56737,
-    "fiftyDayAverage": 2389.6,
-    "twoHundredDayAverage": 2249.225,
+    "fulldayPrice": 2230.0,
+    "fulldayChange": 200.0,
+    "fulldayChangePercent": 9.852217,
+    "priceToSalesTrailing12Months": 11.694906,
+    "fiftyDayAverage": 2382.0,
+    "twoHundredDayAverage": 2250.3,
     "trailingAnnualDividendRate": 28.0,
-    "trailingAnnualDividendYield": 0.014,
+    "trailingAnnualDividendYield": 0.013793103,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 48962828500992,
+    "enterpriseValue": 49740800589824,
     "profitMargins": 0.51116,
     "floatShares": 23651872822,
     "sharesOutstanding": 25932364970,
@@ -27859,25 +27936,25 @@
     "heldPercentInstitutions": 0.43341,
     "impliedSharesOutstanding": 25932364970,
     "bookValue": 269.852,
-    "priceToBook": 7.4670563,
+    "priceToBook": 8.263789,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1790726400,
     "earningsQuarterlyGrowth": 0.687,
     "netIncomeToCommon": 2527571476480,
-    "trailingEps": 97.47,
+    "trailingEps": 98.93,
     "forwardEps": 149.60304,
-    "pegRatio": 0.55,
+    "pegRatio": 0.56,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 9.902,
-    "enterpriseToEbitda": 13.6,
-    "52WeekChange": 0.4545455,
+    "enterpriseToRevenue": 10.059,
+    "enterpriseToEbitda": 13.816,
+    "52WeekChange": 0.47636366,
     "SandP52WeekChange": 0.0306139,
     "lastDividendValue": 9.0,
     "lastDividendDate": 1804723200,
     "quoteType": "EQUITY",
-    "currentPrice": 2015.0,
+    "currentPrice": 2230.0,
     "targetHighPrice": 5000.0,
     "targetLowPrice": 2700.0,
     "targetMeanPrice": 3402.5144,
@@ -27913,6 +27990,29 @@
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
     "exchange": "TAI",
+    "earningsTimestamp": 1792042200,
+    "earningsTimestampStart": 1799904600,
+    "earningsTimestampEnd": 1799904600,
+    "earningsCallTimestampStart": 1792044000,
+    "earningsCallTimestampEnd": 1792044000,
+    "isEarningsDateEstimate": true,
+    "epsTrailingTwelveMonths": 98.93,
+    "epsForward": 149.60304,
+    "epsCurrentYear": 110.62572,
+    "priceEpsCurrentYear": 20.158062,
+    "fiftyDayAverageChange": -152.0,
+    "fiftyDayAverageChangePercent": -0.06381192,
+    "twoHundredDayAverageChange": -20.300049,
+    "twoHundredDayAverageChangePercent": -0.009021041,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "regularMarketChange": 200.0,
+    "regularMarketChangePercent": 9.852217,
+    "regularMarketPrice": 2230.0,
+    "regularMarketDayRange": "2230.0 - 2230.0",
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "marketState": "POSTPOST",
     "corporateActions": [
       {
         "header": "Dividend",
@@ -27924,48 +28024,26 @@
         }
       }
     ],
+    "regularMarketTime": 1795497706,
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
     "messageBoardId": "finmb_380075",
     "exchangeTimezoneName": "Asia/Taipei",
     "exchangeTimezoneShortName": "CST",
     "gmtOffSetMilliseconds": 28800000,
     "market": "tw_market",
     "esgPopulated": false,
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 26574469,
-    "fiftyTwoWeekLowChange": 640.0,
-    "fiftyTwoWeekLowChangePercent": 0.46545455,
-    "fiftyTwoWeekRange": "1375.0 - 2590.0",
-    "fiftyTwoWeekHighChange": -575.0,
-    "fiftyTwoWeekHighChangePercent": -0.22200772,
-    "fiftyTwoWeekChangePercent": 45.45455,
-    "earningsTimestamp": 1792042200,
-    "cryptoTradeable": false,
-    "regularMarketTime": 1795398365,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "marketState": "REGULAR",
-    "regularMarketChange": 15.0,
-    "regularMarketChangePercent": 0.75,
-    "regularMarketPrice": 2015.0,
-    "regularMarketDayRange": "1970.0 - 2045.0",
-    "earningsTimestampStart": 1799904600,
-    "earningsTimestampEnd": 1799904600,
-    "earningsCallTimestampStart": 1792044000,
-    "earningsCallTimestampEnd": 1792044000,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 97.47,
-    "epsForward": 149.60304,
-    "epsCurrentYear": 110.62572,
-    "priceEpsCurrentYear": 18.214571,
-    "fiftyDayAverageChange": -374.6001,
-    "fiftyDayAverageChangePercent": -0.15676267,
-    "twoHundredDayAverageChange": -234.2251,
-    "twoHundredDayAverageChangePercent": -0.10413591,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
     "hasPrePostMarketData": false,
     "firstTradeDateMilliseconds": 946947600000,
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 27199209,
+    "fiftyTwoWeekLowChange": 855.0,
+    "fiftyTwoWeekLowChangePercent": 0.6218182,
+    "fiftyTwoWeekRange": "1375.0 - 2590.0",
+    "fiftyTwoWeekHighChange": -360.0,
+    "fiftyTwoWeekHighChangePercent": -0.13899614,
+    "fiftyTwoWeekChangePercent": 47.636368,
+    "isCMEFuture": false,
     "trailingPegRatio": 0.5495
   }
 }

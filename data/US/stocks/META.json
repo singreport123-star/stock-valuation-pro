@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-11-23T02:06:11.784229",
+    "ts": "2026-11-24T05:41:56.576195",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -136,23 +136,23 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 596.22,
-    "open": 582.935,
-    "dayLow": 558.68,
-    "dayHigh": 588.69,
-    "regularMarketPreviousClose": 596.22,
-    "regularMarketOpen": 582.935,
-    "regularMarketDayLow": 558.68,
-    "regularMarketDayHigh": 588.69,
+    "previousClose": 560.84,
+    "open": 591.78,
+    "dayLow": 579.78,
+    "dayHigh": 602.46,
+    "regularMarketPreviousClose": 560.84,
+    "regularMarketOpen": 591.78,
+    "regularMarketDayLow": 579.78,
+    "regularMarketDayHigh": 602.46,
     "dividendRate": 2.1,
     "dividendYield": 0.37,
     "exDividendDate": 1789948800,
     "payoutRatio": 0.0716,
     "beta": 1.279,
-    "trailingPE": 19.134768,
-    "forwardPE": 15.720743,
-    "volume": 25687222,
-    "regularMarketVolume": 25687222,
+    "trailingPE": 20.388945,
+    "forwardPE": 16.75115,
+    "volume": 19011217,
+    "regularMarketVolume": 19011217,
     "averageVolume": 21037629,
     "averageVolume10days": 14922200,
     "averageDailyVolume10Day": 14922200,
@@ -160,23 +160,23 @@
     "ask": 603.06,
     "bidSize": 1,
     "askSize": 2,
-    "marketCap": 1433642336256,
+    "marketCap": 1527609688064,
     "nonDilutedMarketCap": 1433642344332,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 779.82,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 560.84,
-    "fulldayChange": -28.719849,
-    "fulldayChangePercent": -4.8169885,
-    "priceToSalesTrailing12Months": 5.9338274,
+    "fulldayPrice": 597.6,
+    "fulldayChange": 42.059998,
+    "fulldayChangePercent": 7.4994645,
+    "priceToSalesTrailing12Months": 6.322757,
     "fiftyDayAverage": 676.6536,
     "twoHundredDayAverage": 628.592,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.0035221898,
+    "trailingAnnualDividendYield": 0.003744383,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1466035339264,
+    "enterpriseValue": 1560897519616,
     "profitMargins": 0.31145,
     "floatShares": 2211199809,
     "sharesOutstanding": 2214472367,
@@ -191,7 +191,7 @@
     "shortPercentOfFloat": 0.0341,
     "impliedSharesOutstanding": 2556241253,
     "bookValue": 106.567,
-    "priceToBook": 5.2627926,
+    "priceToBook": 5.6077394,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1790726400,
@@ -200,17 +200,17 @@
     "trailingEps": 29.31,
     "forwardEps": 35.67516,
     "pegRatio": 0.73,
-    "enterpriseToRevenue": 6.068,
-    "enterpriseToEbitda": 12.618,
+    "enterpriseToRevenue": 6.461,
+    "enterpriseToEbitda": 13.434,
     "52WeekChange": -0.08516437,
     "SandP52WeekChange": 0.0306139,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1789948800,
     "quoteType": "EQUITY",
-    "currentPrice": 560.84,
+    "currentPrice": 597.6,
     "targetHighPrice": 1050.0,
     "targetLowPrice": 650.0,
-    "targetMeanPrice": 848.2262,
+    "targetMeanPrice": 845.3814,
     "targetMedianPrice": 850.0,
     "recommendationMean": 1.41935,
     "recommendationKey": "strong_buy",
@@ -242,24 +242,6 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "exchange": "NMS",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 1.1875213,
-    "postMarketPrice": 567.5001,
-    "postMarketChange": 6.660095,
-    "regularMarketChange": -35.379944,
-    "regularMarketChangePercent": -5.934042,
-    "regularMarketPrice": 560.84,
-    "regularMarketDayRange": "558.68 - 588.69",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 21037629,
-    "fiftyTwoWeekLowChange": 40.580017,
-    "fiftyTwoWeekLowChangePercent": 0.077999495,
-    "fiftyTwoWeekRange": "520.26 - 779.82",
-    "fiftyTwoWeekHighChange": -218.97998,
-    "fiftyTwoWeekHighChangePercent": -0.28080836,
-    "fiftyTwoWeekChangePercent": -8.516437,
     "dividendDate": 1790553600,
     "earningsTimestamp": 1792612800,
     "earningsTimestampStart": 1801083600,
@@ -267,34 +249,53 @@
     "earningsCallTimestampStart": 1792612800,
     "earningsCallTimestampEnd": 1792612800,
     "isEarningsDateEstimate": true,
-    "marketState": "CLOSED",
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
     "epsTrailingTwelveMonths": 29.31,
     "epsForward": 35.67516,
     "epsCurrentYear": 29.35775,
-    "priceEpsCurrentYear": 19.103645,
-    "fiftyDayAverageChange": -115.8136,
-    "fiftyDayAverageChangePercent": -0.1711564,
-    "twoHundredDayAverageChange": -67.75195,
-    "twoHundredDayAverageChangePercent": -0.107783675,
+    "priceEpsCurrentYear": 20.355783,
+    "fiftyDayAverageChange": -79.05365,
+    "fiftyDayAverageChangePercent": -0.116830304,
+    "twoHundredDayAverageChange": -30.992004,
+    "twoHundredDayAverageChangePercent": -0.04930385,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 15,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-11-22",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
+    "exchange": "NMS",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
+    "postMarketChangePercent": 0.33107692,
+    "postMarketPrice": 599.5785,
+    "postMarketChange": 1.9785156,
+    "regularMarketChange": 36.7599,
+    "regularMarketChangePercent": 6.55444,
+    "regularMarketPrice": 597.6,
+    "regularMarketDayRange": "579.78 - 602.46",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 21037629,
+    "fiftyTwoWeekLowChange": 77.339966,
+    "fiftyTwoWeekLowChangePercent": 0.14865637,
+    "fiftyTwoWeekRange": "520.26 - 779.82",
+    "fiftyTwoWeekHighChange": -182.22003,
+    "fiftyTwoWeekHighChangePercent": -0.23366934,
+    "fiftyTwoWeekChangePercent": -8.516437,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "marketState": "PREPRE",
     "corporateActions": [],
-    "postMarketTime": 1795222798,
-    "regularMarketTime": 1795208400,
+    "postMarketTime": 1795481971,
+    "regularMarketTime": 1795467601,
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
     "exchangeTimezoneShortName": "EST",
     "gmtOffSetMilliseconds": -18000000,
     "market": "us_market",
     "esgPopulated": false,
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-11-23",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
     "displayName": "Meta Platforms",
+    "isCMEFuture": false,
     "trailingPegRatio": 0.729
   },
   "financial_statements": {
@@ -1590,36 +1591,36 @@
       "Earnings Low": 8.23,
       "Earnings Average": 8.71875,
       "Revenue High": 76065000000,
-      "Revenue Low": 73578400000,
-      "Revenue Average": 75138943440
+      "Revenue Low": 74010000000,
+      "Revenue Average": 75180008660
     }
   },
   "news": [
     {
-      "id": "951902b5-214f-3031-86ca-cb89e42cc4d2",
+      "id": "55753457-0bf1-4a3c-bbec-a05fbeffd966",
       "content": {
-        "id": "951902b5-214f-3031-86ca-cb89e42cc4d2",
-        "contentType": "STORY",
-        "title": "Alphabet vs. Meta Platforms: Which Media Stock Is a Better Buy for 2027?",
-        "description": null,
-        "summary": "Alphabet's 13.9x forward P/E sits well below Meta's 20.5x, but Meta's 27.5% revenue jump makes the growth-versus-value trade-off harder to call.",
-        "pubDate": "2026-11-22T17:16:18Z",
-        "displayTime": "2026-11-22T17:16:18Z",
+        "id": "55753457-0bf1-4a3c-bbec-a05fbeffd966",
+        "contentType": "VIDEO",
+        "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
+        "description": "<p>Market Hang tackles the top stories of the day. Including Nvidia's board unanimously reinstating Jensen Huang as CEO and what the White House's involvement says about accountability in corporate America, whether the government has effectively put a floor under the AI trade, and Anthropic falling as options on the stock begin trading for the first time.</p>\n<p>The panel, with Yahoo Finance's Julie Hyman, debates where everyone sits on a one-to-five bullishness scale, whether this is a stock picker's market or a CapEx bubble that precedes a secular bear, the risk of a politically driven slowdown in data center construction, and OpenAI's chief scientist calling for a speed limit on AI development, including whether an FDA-style regulator is the right model for AI.</p>",
+        "summary": "Market Hang tackles the top stories of the day. Including Nvidia's board unanimously reinstating Jensen Huang as CEO and what the White House's involvement says about accountability in corporate America, whether the government has effectively put a floor under the AI trade, and Anthropic falling as options on the stock begin trading for the first time.\n\nThe panel, with Yahoo Finance's Julie Hyman, debates where everyone sits on a one-to-five bullishness scale, whether this is a stock picker's market or a CapEx bubble that precedes a secular bear, the risk of a politically driven slowdown in data center construction, and OpenAI's chief scientist calling for a speed limit on AI development, including whether an FDA-style regulator is the right model for AI.",
+        "pubDate": "2026-11-23T18:59:49Z",
+        "displayTime": "2026-11-23T18:59:49Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/30de04155734e59af2b3a4339420e5eb.jpg",
-          "originalWidth": 4739,
-          "originalHeight": 2666,
+          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-11-23-at-15841-pm_3435.png",
+          "originalWidth": 3448,
+          "originalHeight": 1908,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/motleyfool.com/30de04155734e59af2b3a4339420e5eb.jpg",
-              "width": 4739,
-              "height": 2666,
+              "url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-11-23-at-15841-pm_3435.png",
+              "width": 3448,
+              "height": 1908,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/ea9c1c1d452f65ab9048cf10e8030a0c4f5193e53291df36b274e5b405322ac4/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F30de04155734e59af2b3a4339420e5eb.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/56943bc83fa4fa0619e534b57afdf843c9c5af8efae43af3a14955dcbdae4591/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-11-23-at-15841-pm_3435.png",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1627,188 +1628,14 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/coverage/better-buy/2026/11/22/alphabet-vs-meta-platforms-which-media-stock-is-a-better-buy-for-2027/"
+          "url": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/media-advertising/articles/alphabet-vs-meta-platforms-media-171618650.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "GOOGN"
-            },
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "ea71d36a-8c04-3570-b324-71f478584460",
-      "content": {
-        "id": "ea71d36a-8c04-3570-b324-71f478584460",
-        "contentType": "STORY",
-        "title": "A $14 Billion Fund Just Bought These 3 Stocks",
-        "description": null,
-        "summary": "Key TakeawaysSRS Investment Management, a $14 billion firm, added to Roblox and Meta Platforms and opened a new stake in SK hynix in the third quarter, its latest 13F shows. Roblox is up 10% since Sept.",
-        "pubDate": "2026-11-22T12:35:37Z",
-        "displayTime": "2026-11-22T12:35:37Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/0c80d7260e634411aca58c31523d9f42",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/0c80d7260e634411aca58c31523d9f42",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/d0a6e9d823a2d39f7beb2c6e331c378df376aa7b39042511d2f7dd057e6f6c6c/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F0c80d7260e634411aca58c31523d9f42",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/a-14-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-xrm65rcp"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/14-billion-fund-just-bought-123537712.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "RBLX"
-            },
-            {
-              "symbol": "SKHY"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "18710d3a-b0cd-3635-942e-138525410a03",
-      "content": {
-        "id": "18710d3a-b0cd-3635-942e-138525410a03",
-        "contentType": "STORY",
-        "title": "A $6.6 Billion Fund Just Bought These 3 Stocks",
-        "description": null,
-        "summary": "Key TakeawaysA $6. 6 billion fund’s three biggest buys of the third quarter were Meta Platforms, US Foods and Burlington Stores, its latest 13F shows.",
-        "pubDate": "2026-11-22T11:21:43Z",
-        "displayTime": "2026-11-22T11:21:43Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/7b3833e255a45184bc2aec50abb1e3e3",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/7b3833e255a45184bc2aec50abb1e3e3",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/7343a472396d9bfa0db4d42e45216390703f8bf104a2e422300806d5894ba0b9/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F7b3833e255a45184bc2aec50abb1e3e3",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/a-6-6-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-6qpxc48r"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/6-6-billion-fund-just-112143747.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "BURL"
-            },
-            {
-              "symbol": "USFD"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "1e35d416-b87f-3259-b75d-874ba02714cd",
-      "content": {
-        "id": "1e35d416-b87f-3259-b75d-874ba02714cd",
-        "contentType": "STORY",
-        "title": "Billionaire Tech Investor Philippe Laffont Just Loaded Up on These 4 AI Stocks",
-        "description": null,
-        "summary": "Laffont was busy buying shares of agentic AI stocks in Q3.",
-        "pubDate": "2026-11-22T11:15:02Z",
-        "displayTime": "2026-11-22T11:15:02Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c92908ce2cc373b8a5a3cce236e2d53e.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 787,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/c92908ce2cc373b8a5a3cce236e2d53e.jpg",
-              "width": 1400,
-              "height": 787,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/c2f2d790220090aa6130e367a106471d29074e8017722e3da29e08dbebcd6f7e/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fc92908ce2cc373b8a5a3cce236e2d53e.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/22/billionaire-tech-investor-philippe-laffont-just-loaded-up-on-these-4-ai-stocks/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-tech-investor-philippe-laffont-111502477.html"
+          "url": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html"
         },
         "finance": {
           "premiumFinance": {
@@ -1819,105 +1646,91 @@
               "symbol": "NVDA"
             },
             {
-              "symbol": "CRM"
+              "symbol": "ANT"
+            },
+            {
+              "symbol": "AVGO"
+            },
+            {
+              "symbol": "MU"
+            },
+            {
+              "symbol": "TTWO"
+            },
+            {
+              "symbol": "SOL-USD"
+            },
+            {
+              "symbol": "KODK"
+            },
+            {
+              "symbol": "GS"
+            },
+            {
+              "symbol": "FDX"
+            },
+            {
+              "symbol": "KO"
+            },
+            {
+              "symbol": "CL"
+            },
+            {
+              "symbol": "COST"
+            },
+            {
+              "symbol": "WMT"
             },
             {
               "symbol": "META"
             },
             {
-              "symbol": "SHOP"
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "AMZN"
             },
             {
               "symbol": "MSFT"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "2c519376-ae7a-35c3-9db1-85c1d1030748",
-      "content": {
-        "id": "2c519376-ae7a-35c3-9db1-85c1d1030748",
-        "contentType": "STORY",
-        "title": "Sheryl Sandberg steps in to rescue Britain’s $35bn AI hope",
-        "description": null,
-        "summary": "On a Saturday last year, Sheryl Sandberg’s phone rang. On the other end was Paul Daversa, a star Silicon Valley recruiter.",
-        "pubDate": "2026-11-22T08:00:00Z",
-        "displayTime": "2026-11-22T08:00:00Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/the_telegraph_818/5ea6a56ba5673c05f7e5a7b0ebe56b9a.jpg",
-          "originalWidth": 2500,
-          "originalHeight": 1563,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/the_telegraph_818/5ea6a56ba5673c05f7e5a7b0ebe56b9a.jpg",
-              "width": 2500,
-              "height": 1563,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/366c114d064485163c204a7ee3f851118ad46fdde6ac9b4fc135d8d8ece38227/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_818%2F5ea6a56ba5673c05f7e5a7b0ebe56b9a.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "The Telegraph",
-          "url": "http://www.telegraph.co.uk/"
-        },
-        "canonicalUrl": {
-          "url": "https://uk.finance.yahoo.com/news/sheryl-sandberg-steps-rescue-britain-080000360.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/news/sheryl-sandberg-steps-rescue-britain-080000360.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
             },
             {
               "symbol": "OPAI.PVT"
             },
             {
-              "symbol": "UBER"
+              "symbol": "SPCX"
+            },
+            {
+              "symbol": "CRWV"
             }
           ]
         }
       }
     },
     {
-      "id": "bcd44532-5c99-3ccd-b52f-ae4954b1cec5",
+      "id": "2718c555-97dc-4998-9d7a-c21802cd8f0e",
       "content": {
-        "id": "bcd44532-5c99-3ccd-b52f-ae4954b1cec5",
-        "contentType": "STORY",
-        "title": "Mark Zuckerberg’s Meta Platforms Is Pouring Up to $145 Billion Into AI This Year. Investors Should Watch This 1 Number.",
-        "description": null,
-        "summary": "Is the massive investment paying off?",
-        "pubDate": "2026-11-22T04:31:01Z",
-        "displayTime": "2026-11-22T04:31:01Z",
+        "id": "2718c555-97dc-4998-9d7a-c21802cd8f0e",
+        "contentType": "VIDEO",
+        "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+        "description": "<p>The 8:30 team is joined by Roundhill Investments Chief Investment Strategist Drew Pettit to discuss why washed-out sentiment doesn't mean a fundamental bottom, his $50-to-$250 bull-bear range on Anthropic, and how to handicap the \"Jensen premium\" coming back into Nvidia. Deirdre Bosa Live host Deirdre Bosa also joins to break down Silicon Valley's reaction to Huang's return and what it means for the AI trade.</p>",
+        "summary": "The 8:30 team is joined by Roundhill Investments Chief Investment Strategist Drew Pettit to discuss why washed-out sentiment doesn't mean a fundamental bottom, his $50-to-$250 bull-bear range on Anthropic, and how to handicap the \"Jensen premium\" coming back into Nvidia. Deirdre Bosa Live host Deirdre Bosa also joins to break down Silicon Valley's reaction to Huang's return and what it means for the AI trade.",
+        "pubDate": "2026-11-23T16:13:39Z",
+        "displayTime": "2026-11-23T16:13:39Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/fed723f80dd39e67da1dcca9bc9c5988.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 877,
+          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-11-23-at-104400-am_6777.png",
+          "originalWidth": 3448,
+          "originalHeight": 1842,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/motleyfool.com/fed723f80dd39e67da1dcca9bc9c5988.jpg",
-              "width": 1400,
-              "height": 877,
+              "url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-11-23-at-104400-am_6777.png",
+              "width": 3448,
+              "height": 1842,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/d462351d1c4cf07e44af213facdd62747baeebbc6af9bbf55ea2bea672ddbbac/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ffed723f80dd39e67da1dcca9bc9c5988.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/856de87da6e73e52d36d6446775a8eacc8b62798500c0266968132be8246ad79/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-11-23-at-104400-am_6777.png",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1925,14 +1738,14 @@
           ]
         },
         "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
+          "displayName": "Yahoo Finance Video",
+          "url": "https://finance.yahoo.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/21/mark-zuckerberg-s-meta-platforms-is-pouring-up-to-usd145-billion-into-ai-this-year-investors-should-watch-this-1-number/"
+          "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-meta-platforms-pouring-043101493.html"
+          "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html"
         },
         "finance": {
           "premiumFinance": {
@@ -1940,40 +1753,298 @@
           },
           "stockTickers": [
             {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "ANT"
+            },
+            {
+              "symbol": "ARM"
+            },
+            {
+              "symbol": "SFTBY"
+            },
+            {
+              "symbol": "NYT"
+            },
+            {
+              "symbol": "STT"
+            },
+            {
+              "symbol": "APO"
+            },
+            {
+              "symbol": "GS"
+            },
+            {
+              "symbol": "AAPL"
+            },
+            {
               "symbol": "META"
             },
             {
-              "symbol": "NVDA"
+              "symbol": "AMZN"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "CRWV"
+            },
+            {
+              "symbol": "MU"
+            },
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "AVGO"
+            },
+            {
+              "symbol": "^GSPC"
+            },
+            {
+              "symbol": "^IXIC"
             }
           ]
         }
       }
     },
     {
-      "id": "62a8ef9a-7ef4-3eb6-b278-b5d3faeb8a21",
+      "id": "8c68ad9b-640a-3c68-a19d-c120b333aee6",
       "content": {
-        "id": "62a8ef9a-7ef4-3eb6-b278-b5d3faeb8a21",
+        "id": "8c68ad9b-640a-3c68-a19d-c120b333aee6",
         "contentType": "STORY",
-        "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
+        "title": "1966 Or 1995: Which Way Does America's $2.1 Trillion Deficit Go?",
         "description": null,
-        "summary": "Nvidia closed 48% below its record on Friday and trades at 15 times its last four quarters of earnings, the lowest since at least 2014 and less than Microsoft or Broadcom. Here is what that price assumes and why the market doubts the earnings.",
-        "pubDate": "2026-11-22T00:47:00Z",
-        "displayTime": "2026-11-22T00:47:00Z",
+        "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+        "pubDate": "2026-11-24T05:06:42Z",
+        "displayTime": "2026-11-24T05:06:42Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/002247c0ee6af7ca568b3002076d2944",
-          "originalWidth": 1920,
-          "originalHeight": 1072,
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/cb1c36136a0bbca5ce715dcc5761edd8.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 857,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/002247c0ee6af7ca568b3002076d2944",
-              "width": 1920,
-              "height": 1072,
+              "url": "https://media.zenfs.com/en/trefis_142/cb1c36136a0bbca5ce715dcc5761edd8.jpg",
+              "width": 1280,
+              "height": 857,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/27e16c3d3f700a76fe90a5191a14d5d48c64a165d75c1081e99a3ff0de2d7f4a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F002247c0ee6af7ca568b3002076d2944",
+              "url": "https://s.yimg.com/lo/mysterio/api/c07659d1721c5de7467d2f3757a72fe4b61cb203e4aff356e94970cb5616fdb9/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fcb1c36136a0bbca5ce715dcc5761edd8.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/spy/articles/627413/1966-or-1995-which-way-does-america-s-2-1-trillion-deficit-go/2026-11-23"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/1966-1995-way-does-americas-050642358.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "SPY"
+            },
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "AMZN"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "AAPL"
+            },
+            {
+              "symbol": "XOM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1b8b5d90-f49f-3577-912c-6e85847844b6",
+      "content": {
+        "id": "1b8b5d90-f49f-3577-912c-6e85847844b6",
+        "contentType": "STORY",
+        "title": "The Inflation Math, Updated: The Fed Is Fighting Oil",
+        "description": null,
+        "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+        "pubDate": "2026-11-24T05:06:42Z",
+        "displayTime": "2026-11-24T05:06:42Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/19956e2e43895fe288313c73bd64b9e5.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/19956e2e43895fe288313c73bd64b9e5.jpg",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/a160e10582f3a47e8f67fe07725ca0867aa6ddd9bae10cd808bcb8c9bb5f9573/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F19956e2e43895fe288313c73bd64b9e5.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/spy/articles/627433/the-inflation-math-updated-the-fed-is-fighting-oil/2026-11-23"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/inflation-math-updated-fed-fighting-050642342.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "SPY"
+            },
+            {
+              "symbol": "XOM"
+            },
+            {
+              "symbol": "CVX"
+            },
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "AMZN"
+            },
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "57b84d1d-82ef-3372-b13f-daddaa32b083",
+      "content": {
+        "id": "57b84d1d-82ef-3372-b13f-daddaa32b083",
+        "contentType": "STORY",
+        "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants",
+        "description": null,
+        "summary": "AMD is not selling the shares itself and will not receive any proceeds from potential sales.",
+        "pubDate": "2026-11-24T03:47:48Z",
+        "displayTime": "2026-11-24T03:47:48Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/514f3ec6bd02b872ac26b40863f4c194.jpg",
+          "originalWidth": 594,
+          "originalHeight": 396,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/stocktwits_383/514f3ec6bd02b872ac26b40863f4c194.jpg",
+              "width": 594,
+              "height": 396,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/fb4c43de2bef791f9109ae8d1cb11fc765ad5c6ba2dbf12ae490a8336f49d852/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F514f3ec6bd02b872ac26b40863f4c194.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Stocktwits",
+          "url": "https://stocktwits.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://stocktwits.com/news-articles/markets/equity/amd-stock-dips-overnight-after-nvidia-triggered-rally-amd-registers-337-m-shares-for-resale-tied-to-open-ai-meta-warrants/cNbru6MR9jU"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-dips-overnight-nvidia-034748107.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "OPAI.PVT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "2310f90a-bbc8-3824-a69f-d9559eafc669",
+      "content": {
+        "id": "2310f90a-bbc8-3824-a69f-d9559eafc669",
+        "contentType": "STORY",
+        "title": "Mark Zuckerberg Has Collected Nearly $2 Billion in Dividends From the Stock He Started in a Dorm Room. It Now Pays Him About $2 Million a Day",
+        "description": null,
+        "summary": "Mark Zuckerberg's latest Form 4 shows 341,117,213 Meta shares that earn the company's $2.10-a-share dividend: $716 million a year, about $2 million a day, from a payment Meta did not make until March 2024. He has collected $1.95 billion of it so far, before tax, while his salary stays at $1 and the stock sits 23% below its September high.",
+        "pubDate": "2026-11-24T02:43:06Z",
+        "displayTime": "2026-11-24T02:43:06Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/79b5f8fd17e4ba5feac54ed03f57185b.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 767,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/79b5f8fd17e4ba5feac54ed03f57185b.jpg",
+              "width": 1366,
+              "height": 767,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/a7a5deee081bd8acf5ca271e2075edffcee4ff7294b6c0e786b5f55265d537d2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F79b5f8fd17e4ba5feac54ed03f57185b.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1985,202 +2056,255 @@
           "url": "https://247wallst.com/"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/21/nvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom/"
+          "url": "https://247wallst.com/investing/2026/11/23/mark-zuckerberg-has-collected-nearly-2-billion-in-dividends-from-the-stock-he-started-in-a-dorm-room-it-now-pays-him-about-2-million-a-day/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-crashed-48-now-004700969.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-collected-nearly-2-024306817.html"
         },
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false
           },
           "stockTickers": [
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "7151b6c0-f825-335c-8507-345598dbbdab",
+      "content": {
+        "id": "7151b6c0-f825-335c-8507-345598dbbdab",
+        "contentType": "STORY",
+        "title": "'He's Not Quite a God': Palmer Luckey Opens Up About Facebook Firing, Explains Why He'd Still Make a Deal With Mark Zuckerberg",
+        "description": null,
+        "summary": "Anduril Industries Founder Palmer Luckey says former Oculus executives, rather than Meta Platforms, Inc. CEO Mark Zuckerberg, were responsible for his 2017 departure from Facebook. However, he remains open to partnering with Meta for U.S. military applications. Palmer Luckey Says...",
+        "pubDate": "2026-11-24T01:30:07Z",
+        "displayTime": "2026-11-24T01:30:07Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/benzinga_79/1fad49a71781bd9cbdec0a772d16a266.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/benzinga_79/1fad49a71781bd9cbdec0a772d16a266.jpg",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/46e17a3f11e774b3b99676a8ba808b6beda909eb36b5486a9e9c2b2bcbbab81d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F1fad49a71781bd9cbdec0a772d16a266.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Benzinga",
+          "url": "https://www.benzinga.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/hes-not-quite-god-palmer-013007219.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/hes-not-quite-god-palmer-013007219.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "OVTZ"
+            },
+            {
+              "symbol": "META/USD"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "3ecb5e94-a54e-3371-aab0-c8d169500271",
+      "content": {
+        "id": "3ecb5e94-a54e-3371-aab0-c8d169500271",
+        "contentType": "STORY",
+        "title": "The Nasdaq Just Had Its Best Day Since April 2025. Anthropic Stock Fell Anyway.",
+        "description": null,
+        "summary": "Anthropic stock slipped on the Nasdaq Composite's best day since April 2025.",
+        "pubDate": "2026-11-24T00:42:02Z",
+        "displayTime": "2026-11-24T00:42:02Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/01fc421c498b2508b89f2d3f56939a86.jpg",
+          "originalWidth": 1290,
+          "originalHeight": 860,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/motleyfool.com/01fc421c498b2508b89f2d3f56939a86.jpg",
+              "width": 1290,
+              "height": 860,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/64642c7e52e5492c5717597cccc894253180cb6393fd553efbcf7db0b5eb30dd/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F01fc421c498b2508b89f2d3f56939a86.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/11/23/the-nasdaq-just-had-its-best-day-since-april-2025-anthropic-stock-fell-anyway/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-just-had-best-day-004202329.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "ANT"
+            },
             {
               "symbol": "NVDA"
             },
             {
-              "symbol": "AVGO"
+              "symbol": "^IXIC"
             },
             {
-              "symbol": "MSFT"
+              "symbol": "GOOGN"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "AMZN"
             },
             {
               "symbol": "MU"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "GOOGN"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "AMD"
             }
           ]
         }
       }
     },
     {
-      "id": "2c415088-48e4-307f-98e4-132d44e8d92d",
+      "id": "d4fff7f6-db99-363e-8a2f-bdc6a608e6b7",
       "content": {
-        "id": "2c415088-48e4-307f-98e4-132d44e8d92d",
+        "id": "d4fff7f6-db99-363e-8a2f-bdc6a608e6b7",
         "contentType": "STORY",
-        "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy for 2027?",
+        "title": "Is Amazon's Profit Riskier Than It Looks?",
         "description": null,
-        "summary": "AppLovin is growing fast and is highly profitable, but its stock has been volatile. Reddit is profitable and still growing, but Google's AI search is sending it fewer visitors.",
-        "pubDate": "2026-11-21T23:39:26Z",
-        "displayTime": "2026-11-21T23:39:26Z",
+        "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+        "pubDate": "2026-11-24T00:25:13Z",
+        "displayTime": "2026-11-24T00:25:13Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/13b923be5f243ad2062f34ea81e41a93.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 853,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/13b923be5f243ad2062f34ea81e41a93.jpg",
-              "width": 1280,
-              "height": 853,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/e6ce90fa1aefa1ec94900b67ba0916a74183b44a912ca02c5436d84e3bc57980/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F13b923be5f243ad2062f34ea81e41a93.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/coverage/better-buy/2026/11/21/applovin-vs-reddit-which-technology-stock-is-a-better-buy-for-2027/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-vs-reddit-technology-stock-233926901.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "APP"
-            },
-            {
-              "symbol": "RDDT"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "GOOGN"
-            },
-            {
-              "symbol": "U"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "9f472c20-f89e-3e5a-b1e5-0eb6b89495f0",
-      "content": {
-        "id": "9f472c20-f89e-3e5a-b1e5-0eb6b89495f0",
-        "contentType": "STORY",
-        "title": "Oklo vs. NuScale Power: Which Nuclear Stock Is a Better Buy?",
-        "description": null,
-        "summary": "Two nuclear upstarts with very different paths to market.",
-        "pubDate": "2026-11-21T22:39:01Z",
-        "displayTime": "2026-11-21T22:39:01Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c50b17d903088c8ed8aa3e1459bdb119.jpg",
-          "originalWidth": 1400,
-          "originalHeight": 933,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/c50b17d903088c8ed8aa3e1459bdb119.jpg",
-              "width": 1400,
-              "height": 933,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/5f6f96de136fe4604951eee8b7df2feae9fb305f833b6edb6fde09b964d3706a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fc50b17d903088c8ed8aa3e1459bdb119.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/coverage/better-buy/2026/11/21/oklo-vs-nuscale-power-which-nuclear-stock-is-a-better-buy/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-power-nuclear-223901232.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "OKLO"
-            },
-            {
-              "symbol": "SMR"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "EQIX"
-            },
-            {
-              "symbol": "FANG"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "f867d9ed-48c3-32ec-9c2d-2869b179762a",
-      "content": {
-        "id": "f867d9ed-48c3-32ec-9c2d-2869b179762a",
-        "contentType": "STORY",
-        "title": "Stanley Druckenmiller, David Tepper and 45 Other Big Funds Sold Alphabet Last Quarter, While 31 Bought. Who’s Right?",
-        "description": null,
-        "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 47 sold Alphabet and 31 bought, and 19 of the sellers added to Meta Platforms in the same quarter.",
-        "pubDate": "2026-11-21T21:19:08Z",
-        "displayTime": "2026-11-21T21:19:08Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/0e840de61347c32385fd6c958d280b6a",
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/197a162f5d169706f1de042eea786aec.jpg",
           "originalWidth": 1280,
           "originalHeight": 720,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/0e840de61347c32385fd6c958d280b6a",
+              "url": "https://media.zenfs.com/en/trefis_142/197a162f5d169706f1de042eea786aec.jpg",
               "width": 1280,
               "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/cd9b1d14de368ca4db63d839adec243351a328fa1eba5062bc08577a8d268642/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F0e840de61347c32385fd6c958d280b6a",
+              "url": "https://s.yimg.com/lo/mysterio/api/eaac62c42679d4d8e1c2713fab6337953a1c73032b0c98e0816c103d0a401b5e/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F197a162f5d169706f1de042eea786aec.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Trefis",
+          "url": "https://www.trefis.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.trefis.com/stock/amzn/articles/627559/is-amazon-s-profit-riskier-than-it-looks/2026-11-23"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-profit-riskier-looks-002513647.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "ANT"
+            },
+            {
+              "symbol": "AMZN"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "^NDX"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "WMT"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "NFLX"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "17b7ea62-271e-3470-9aec-7b773eefd0bd",
+      "content": {
+        "id": "17b7ea62-271e-3470-9aec-7b773eefd0bd",
+        "contentType": "STORY",
+        "title": "SpaceX Is “Following the Exact Same Pattern That Meta Followed” After Its IPO, per Steve Jurvetson. Time to Buy?",
+        "description": null,
+        "summary": "Key TakeawaysSteve Jurvetson compared SpaceX to Meta, which fell below its IPO price after peaking and then came back. Meta’s slump ended in July 2013, when a quarterly report showed mobile ads had grown to 41% of its ad revenue.",
+        "pubDate": "2026-11-23T23:27:25Z",
+        "displayTime": "2026-11-23T23:27:25Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/099942e823d7f584d446715ba56a1467",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/tikr_258/099942e823d7f584d446715ba56a1467",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/3b5b4cd74ee78ed98040a3dee343274613c6dfa0aca1d6a59e312677cd1af79d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F099942e823d7f584d446715ba56a1467",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2192,10 +2316,10 @@
           "url": "https://www.tikr.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-45-other-big-funds-sold-alphabet-last-quarter-while-31-bought-whos-right?ref=yahoofinance&tlnk=yf-261121-9mmqrw68"
+          "url": "https://www.tikr.com/blog/spacex-is-following-the-exact-same-pattern-that-meta-followed-after-its-ipo-per-steve-jurvetson-time-to-buy?ref=yahoofinance&tlnk=yf-261123-gjp9pmgx"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-david-tepper-45-211908362.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-following-exact-same-pattern-232725701.html"
         },
         "finance": {
           "premiumFinance": {
@@ -2203,16 +2327,16 @@
           },
           "stockTickers": [
             {
-              "symbol": "GOOGN"
+              "symbol": "SPCX"
             },
             {
               "symbol": "META"
             },
             {
-              "symbol": "GQG.AX"
+              "symbol": "NBIS"
             },
             {
-              "symbol": "MSFT"
+              "symbol": "ANT"
             }
           ]
         }
