@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ticker": "META",
-    "ts": "2026-11-24T05:41:56.576195",
+    "ts": "2026-11-25T04:43:43.925545",
     "ver": "V10-Final-Union"
   },
   "fundamental_summary": {
@@ -136,47 +136,47 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 560.84,
-    "open": 591.78,
-    "dayLow": 579.78,
-    "dayHigh": 602.46,
-    "regularMarketPreviousClose": 560.84,
-    "regularMarketOpen": 591.78,
-    "regularMarketDayLow": 579.78,
-    "regularMarketDayHigh": 602.46,
+    "previousClose": 597.6,
+    "open": 589.5,
+    "dayLow": 584.26,
+    "dayHigh": 600.315,
+    "regularMarketPreviousClose": 597.6,
+    "regularMarketOpen": 589.5,
+    "regularMarketDayLow": 584.26,
+    "regularMarketDayHigh": 600.315,
     "dividendRate": 2.1,
-    "dividendYield": 0.37,
+    "dividendYield": 0.35,
     "exDividendDate": 1789948800,
     "payoutRatio": 0.0716,
     "beta": 1.279,
-    "trailingPE": 20.388945,
-    "forwardPE": 16.75115,
-    "volume": 19011217,
-    "regularMarketVolume": 19011217,
-    "averageVolume": 21037629,
-    "averageVolume10days": 14922200,
-    "averageDailyVolume10Day": 14922200,
+    "trailingPE": 20.123508,
+    "forwardPE": 16.533073,
+    "volume": 12129127,
+    "regularMarketVolume": 12129127,
+    "averageVolume": 21134718,
+    "averageVolume10days": 14928300,
+    "averageDailyVolume10Day": 14928300,
     "bid": 575.49,
-    "ask": 603.06,
+    "ask": 593.3,
     "bidSize": 1,
-    "askSize": 2,
-    "marketCap": 1527609688064,
+    "askSize": 1,
+    "marketCap": 1507722133504,
     "nonDilutedMarketCap": 1433642344332,
     "fiftyTwoWeekLow": 520.26,
     "fiftyTwoWeekHigh": 779.82,
     "allTimeHigh": 796.25,
     "allTimeLow": 17.55,
-    "fulldayPrice": 597.6,
-    "fulldayChange": 42.059998,
-    "fulldayChangePercent": 7.4994645,
-    "priceToSalesTrailing12Months": 6.322757,
-    "fiftyDayAverage": 676.6536,
-    "twoHundredDayAverage": 628.592,
+    "fulldayPrice": 589.82,
+    "fulldayChange": -14.389954,
+    "fulldayChangePercent": -2.4079576,
+    "priceToSalesTrailing12Months": 6.2404428,
+    "fiftyDayAverage": 675.2936,
+    "twoHundredDayAverage": 628.27264,
     "trailingAnnualDividendRate": 2.1,
-    "trailingAnnualDividendYield": 0.003744383,
+    "trailingAnnualDividendYield": 0.003514056,
     "currency": "USD",
     "tradeable": false,
-    "enterpriseValue": 1560897519616,
+    "enterpriseValue": 1540115267584,
     "profitMargins": 0.31145,
     "floatShares": 2211199809,
     "sharesOutstanding": 2214472367,
@@ -186,12 +186,12 @@
     "dateShortInterest": 1793318400,
     "sharesPercentSharesOut": 0.0295,
     "heldPercentInsiders": 0.0016699999,
-    "heldPercentInstitutions": 0.78690004,
+    "heldPercentInstitutions": 0.78692,
     "shortRatio": 3.42,
     "shortPercentOfFloat": 0.0341,
     "impliedSharesOutstanding": 2556241253,
     "bookValue": 106.567,
-    "priceToBook": 5.6077394,
+    "priceToBook": 5.5347342,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1790726400,
@@ -199,18 +199,18 @@
     "netIncomeToCommon": 75249000448,
     "trailingEps": 29.31,
     "forwardEps": 35.67516,
-    "pegRatio": 0.73,
-    "enterpriseToRevenue": 6.461,
-    "enterpriseToEbitda": 13.434,
-    "52WeekChange": -0.08516437,
-    "SandP52WeekChange": 0.0306139,
+    "pegRatio": 1.2,
+    "enterpriseToRevenue": 6.375,
+    "enterpriseToEbitda": 13.255,
+    "52WeekChange": -0.060702264,
+    "SandP52WeekChange": 0.06965685,
     "lastDividendValue": 0.525,
     "lastDividendDate": 1789948800,
     "quoteType": "EQUITY",
-    "currentPrice": 597.6,
+    "currentPrice": 589.82,
     "targetHighPrice": 1050.0,
     "targetLowPrice": 650.0,
-    "targetMeanPrice": 845.3814,
+    "targetMeanPrice": 842.53656,
     "targetMedianPrice": 850.0,
     "recommendationMean": 1.41935,
     "recommendationKey": "strong_buy",
@@ -242,58 +242,58 @@
     "quoteSourceName": "Nasdaq Real Time Price",
     "triggerable": true,
     "customPriceAlertConfidence": "HIGH",
-    "dividendDate": 1790553600,
-    "earningsTimestamp": 1792612800,
-    "earningsTimestampStart": 1801083600,
-    "earningsTimestampEnd": 1801083600,
+    "exchange": "NMS",
     "earningsCallTimestampStart": 1792612800,
     "earningsCallTimestampEnd": 1792612800,
     "isEarningsDateEstimate": true,
     "epsTrailingTwelveMonths": 29.31,
     "epsForward": 35.67516,
     "epsCurrentYear": 29.35775,
-    "priceEpsCurrentYear": 20.355783,
-    "fiftyDayAverageChange": -79.05365,
-    "fiftyDayAverageChangePercent": -0.116830304,
-    "twoHundredDayAverageChange": -30.992004,
-    "twoHundredDayAverageChangePercent": -0.04930385,
+    "priceEpsCurrentYear": 20.090776,
+    "fiftyDayAverageChange": -85.47357,
+    "fiftyDayAverageChangePercent": -0.12657246,
+    "twoHundredDayAverageChange": -38.452637,
+    "twoHundredDayAverageChangePercent": -0.06120374,
     "sourceInterval": 15,
     "exchangeDataDelayedBy": 15,
-    "exchange": "NMS",
-    "hasPrePostMarketData": true,
-    "firstTradeDateMilliseconds": 1337347800000,
-    "postMarketChangePercent": 0.33107692,
-    "postMarketPrice": 599.5785,
-    "postMarketChange": 1.9785156,
-    "regularMarketChange": 36.7599,
-    "regularMarketChangePercent": 6.55444,
-    "regularMarketPrice": 597.6,
-    "regularMarketDayRange": "579.78 - 602.46",
-    "fullExchangeName": "NasdaqGS",
-    "averageDailyVolume3Month": 21037629,
-    "fiftyTwoWeekLowChange": 77.339966,
-    "fiftyTwoWeekLowChangePercent": 0.14865637,
-    "fiftyTwoWeekRange": "520.26 - 779.82",
-    "fiftyTwoWeekHighChange": -182.22003,
-    "fiftyTwoWeekHighChangePercent": -0.23366934,
-    "fiftyTwoWeekChangePercent": -8.516437,
-    "shortName": "Meta Platforms, Inc.",
-    "longName": "Meta Platforms, Inc.",
-    "marketState": "PREPRE",
+    "ipoExpectedDate": "2022-06-09",
+    "prevName": "Facebook, Inc.",
+    "nameChangeDate": "2026-11-24",
+    "averageAnalystRating": "1.4 - Strong Buy",
+    "cryptoTradeable": false,
     "corporateActions": [],
-    "postMarketTime": 1795481971,
-    "regularMarketTime": 1795467601,
+    "postMarketTime": 1795568389,
+    "regularMarketTime": 1795554001,
     "messageBoardId": "finmb_20765463",
     "exchangeTimezoneName": "America/New_York",
     "exchangeTimezoneShortName": "EST",
     "gmtOffSetMilliseconds": -18000000,
     "market": "us_market",
     "esgPopulated": false,
-    "ipoExpectedDate": "2022-06-09",
-    "prevName": "Facebook, Inc.",
-    "nameChangeDate": "2026-11-23",
-    "averageAnalystRating": "1.4 - Strong Buy",
-    "cryptoTradeable": false,
+    "marketState": "POSTPOST",
+    "regularMarketChange": -7.77997,
+    "regularMarketChangePercent": -1.30187,
+    "regularMarketPrice": 589.82,
+    "regularMarketDayRange": "584.26 - 600.315",
+    "fullExchangeName": "NasdaqGS",
+    "averageDailyVolume3Month": 21134718,
+    "fiftyTwoWeekLowChange": 69.56,
+    "fiftyTwoWeekLowChangePercent": 0.13370237,
+    "fiftyTwoWeekRange": "520.26 - 779.82",
+    "fiftyTwoWeekHighChange": -190.0,
+    "fiftyTwoWeekHighChangePercent": -0.24364597,
+    "fiftyTwoWeekChangePercent": -6.0702267,
+    "dividendDate": 1790553600,
+    "earningsTimestamp": 1792612800,
+    "earningsTimestampStart": 1801083600,
+    "earningsTimestampEnd": 1801083600,
+    "postMarketChangePercent": -0.49845755,
+    "postMarketPrice": 586.88,
+    "postMarketChange": -2.9400024,
+    "shortName": "Meta Platforms, Inc.",
+    "longName": "Meta Platforms, Inc.",
+    "hasPrePostMarketData": true,
+    "firstTradeDateMilliseconds": 1337347800000,
     "displayName": "Meta Platforms",
     "isCMEFuture": false,
     "trailingPegRatio": 0.729
@@ -1597,30 +1597,30 @@
   },
   "news": [
     {
-      "id": "55753457-0bf1-4a3c-bbec-a05fbeffd966",
+      "id": "42e370bc-b889-423d-abe6-160f9477d964",
       "content": {
-        "id": "55753457-0bf1-4a3c-bbec-a05fbeffd966",
+        "id": "42e370bc-b889-423d-abe6-160f9477d964",
         "contentType": "VIDEO",
-        "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
-        "description": "<p>Market Hang tackles the top stories of the day. Including Nvidia's board unanimously reinstating Jensen Huang as CEO and what the White House's involvement says about accountability in corporate America, whether the government has effectively put a floor under the AI trade, and Anthropic falling as options on the stock begin trading for the first time.</p>\n<p>The panel, with Yahoo Finance's Julie Hyman, debates where everyone sits on a one-to-five bullishness scale, whether this is a stock picker's market or a CapEx bubble that precedes a secular bear, the risk of a politically driven slowdown in data center construction, and OpenAI's chief scientist calling for a speed limit on AI development, including whether an FDA-style regulator is the right model for AI.</p>",
-        "summary": "Market Hang tackles the top stories of the day. Including Nvidia's board unanimously reinstating Jensen Huang as CEO and what the White House's involvement says about accountability in corporate America, whether the government has effectively put a floor under the AI trade, and Anthropic falling as options on the stock begin trading for the first time.\n\nThe panel, with Yahoo Finance's Julie Hyman, debates where everyone sits on a one-to-five bullishness scale, whether this is a stock picker's market or a CapEx bubble that precedes a secular bear, the risk of a politically driven slowdown in data center construction, and OpenAI's chief scientist calling for a speed limit on AI development, including whether an FDA-style regulator is the right model for AI.",
-        "pubDate": "2026-11-23T18:59:49Z",
-        "displayTime": "2026-11-23T18:59:49Z",
+        "title": "Stocks give back gains as Anthropic dips below IPO price",
+        "description": "<p>Hosts Julie Hyman and Jake Conley, joined on the couch by Barron's markets reporter Jacob Sonenshine, tackle the top stories of the day. Including futures sliding after Monday's biggest rally since April 2025, Anthropic briefly trading below its $83 IPO price, a Wall Street Journal report that the U.S. is preparing new tariffs on China and dozens of other countries, and whether Jensen Huang's return leaves Nvidia owing a favor to the White House.</p>\n<p>The team is joined by Seaport Research Partners senior analyst Jay Goldberg and Creative Strategies CEO and principal analyst Ben Bajarin to discuss what Jensen Huang needs to tell shareholders, the competitive threat from Broadcom and AMD, and whether Nvidia's financing of neoclouds is a wobbly foundation. The show closes on Strategy trading below the value of its Bitcoin, Sanofi's $41 billion deal for Insmed, and a strong day for retail earnings from Best Buy, Dollar Tree, Dick's, Abercrombie, and Kohl's.</p>",
+        "summary": "Hosts Julie Hyman and Jake Conley, joined on the couch by Barron's markets reporter Jacob Sonenshine, tackle the top stories of the day. Including futures sliding after Monday's biggest rally since April 2025, Anthropic briefly trading below its $83 IPO price, a Wall Street Journal report that the U.S. is preparing new tariffs on China and dozens of other countries, and whether Jensen Huang's return leaves Nvidia owing a favor to the White House.\n\nThe team is joined by Seaport Research Partners senior analyst Jay Goldberg and Creative Strategies CEO and principal analyst Ben Bajarin to discuss what Jensen Huang needs to tell shareholders, the competitive threat from Broadcom and AMD, and whether Nvidia's financing of neoclouds is a wobbly foundation. The show closes on Strategy trading below the value of its Bitcoin, Sanofi's $41 billion deal for Insmed, and a strong day for retail earnings from Best Buy, Dollar Tree, Dick's, Abercrombie, and Kohl's.",
+        "pubDate": "2026-11-24T15:44:08Z",
+        "displayTime": "2026-11-24T15:44:08Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-11-23-at-15841-pm_3435.png",
+          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-11-24-at-104305-am_4990.png",
           "originalWidth": 3448,
           "originalHeight": 1908,
           "resolutions": [
             {
-              "url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-11-23-at-15841-pm_3435.png",
+              "url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-11-24-at-104305-am_4990.png",
               "width": 3448,
               "height": 1908,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/56943bc83fa4fa0619e534b57afdf843c9c5af8efae43af3a14955dcbdae4591/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-11-23-at-15841-pm_3435.png",
+              "url": "https://s.yimg.com/lo/mysterio/api/66885f0cb420dbe7b89b603ba17fdeb63692880dd1fce3238023c7bdae1a612a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-11-24-at-104305-am_4990.png",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -1632,10 +1632,10 @@
           "url": "https://finance.yahoo.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html"
+          "url": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html"
+          "url": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html"
         },
         "finance": {
           "premiumFinance": {
@@ -1652,399 +1652,109 @@
               "symbol": "AVGO"
             },
             {
-              "symbol": "MU"
-            },
-            {
-              "symbol": "TTWO"
-            },
-            {
-              "symbol": "SOL-USD"
-            },
-            {
-              "symbol": "KODK"
-            },
-            {
-              "symbol": "GS"
-            },
-            {
-              "symbol": "FDX"
-            },
-            {
-              "symbol": "KO"
-            },
-            {
-              "symbol": "CL"
-            },
-            {
-              "symbol": "COST"
+              "symbol": "AMD"
             },
             {
               "symbol": "WMT"
             },
             {
-              "symbol": "META"
+              "symbol": "TJX"
             },
             {
-              "symbol": "GOOG"
+              "symbol": "KSS"
+            },
+            {
+              "symbol": "DKS"
+            },
+            {
+              "symbol": "DLTR"
+            },
+            {
+              "symbol": "BBY"
+            },
+            {
+              "symbol": "NFLX"
+            },
+            {
+              "symbol": "IMAX"
+            },
+            {
+              "symbol": "BTC-USD"
+            },
+            {
+              "symbol": "MSTR"
+            },
+            {
+              "symbol": "META"
             },
             {
               "symbol": "AMZN"
             },
             {
-              "symbol": "MSFT"
+              "symbol": "GOOGL"
             },
             {
-              "symbol": "OPAI.PVT"
-            },
-            {
-              "symbol": "SPCX"
-            },
-            {
-              "symbol": "CRWV"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "2718c555-97dc-4998-9d7a-c21802cd8f0e",
-      "content": {
-        "id": "2718c555-97dc-4998-9d7a-c21802cd8f0e",
-        "contentType": "VIDEO",
-        "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
-        "description": "<p>The 8:30 team is joined by Roundhill Investments Chief Investment Strategist Drew Pettit to discuss why washed-out sentiment doesn't mean a fundamental bottom, his $50-to-$250 bull-bear range on Anthropic, and how to handicap the \"Jensen premium\" coming back into Nvidia. Deirdre Bosa Live host Deirdre Bosa also joins to break down Silicon Valley's reaction to Huang's return and what it means for the AI trade.</p>",
-        "summary": "The 8:30 team is joined by Roundhill Investments Chief Investment Strategist Drew Pettit to discuss why washed-out sentiment doesn't mean a fundamental bottom, his $50-to-$250 bull-bear range on Anthropic, and how to handicap the \"Jensen premium\" coming back into Nvidia. Deirdre Bosa Live host Deirdre Bosa also joins to break down Silicon Valley's reaction to Huang's return and what it means for the AI trade.",
-        "pubDate": "2026-11-23T16:13:39Z",
-        "displayTime": "2026-11-23T16:13:39Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-11-23-at-104400-am_6777.png",
-          "originalWidth": 3448,
-          "originalHeight": 1842,
-          "resolutions": [
-            {
-              "url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-11-23-at-104400-am_6777.png",
-              "width": 3448,
-              "height": 1842,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/856de87da6e73e52d36d6446775a8eacc8b62798500c0266968132be8246ad79/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-11-23-at-104400-am_6777.png",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Yahoo Finance Video",
-          "url": "https://finance.yahoo.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "ANT"
+              "symbol": "AAPL"
             },
             {
               "symbol": "ARM"
             },
             {
-              "symbol": "SFTBY"
-            },
-            {
-              "symbol": "NYT"
-            },
-            {
-              "symbol": "STT"
-            },
-            {
-              "symbol": "APO"
-            },
-            {
-              "symbol": "GS"
-            },
-            {
-              "symbol": "AAPL"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "GOOG"
-            },
-            {
               "symbol": "CRWV"
+            },
+            {
+              "symbol": "HPE"
             },
             {
               "symbol": "MU"
             },
             {
-              "symbol": "AMD"
+              "symbol": "^NDX"
             },
             {
-              "symbol": "AVGO"
+              "symbol": "SNY"
+            },
+            {
+              "symbol": "INSM"
+            },
+            {
+              "symbol": "^IXIC"
             },
             {
               "symbol": "^GSPC"
             },
             {
-              "symbol": "^IXIC"
+              "symbol": "ANF"
             }
           ]
         }
       }
     },
     {
-      "id": "8c68ad9b-640a-3c68-a19d-c120b333aee6",
+      "id": "5a0bfa63-d98e-3ad2-a30f-7bebfedde20a",
       "content": {
-        "id": "8c68ad9b-640a-3c68-a19d-c120b333aee6",
+        "id": "5a0bfa63-d98e-3ad2-a30f-7bebfedde20a",
         "contentType": "STORY",
-        "title": "1966 Or 1995: Which Way Does America's $2.1 Trillion Deficit Go?",
+        "title": "Your $300,000 in XLC Holds $130,206 in Just Meta and Alphabet",
         "description": null,
-        "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
-        "pubDate": "2026-11-24T05:06:42Z",
-        "displayTime": "2026-11-24T05:06:42Z",
+        "summary": "A fund labeled communication services sounds like a broad bet on telecom, media, and entertainment. The latest SEC filing shows something far narrower, and one company hides in plain sight by appearing on the holdings list twice.",
+        "pubDate": "2026-11-25T01:04:06Z",
+        "displayTime": "2026-11-25T01:04:06Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/cb1c36136a0bbca5ce715dcc5761edd8.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 857,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/trefis_142/cb1c36136a0bbca5ce715dcc5761edd8.jpg",
-              "width": 1280,
-              "height": 857,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/c07659d1721c5de7467d2f3757a72fe4b61cb203e4aff356e94970cb5616fdb9/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fcb1c36136a0bbca5ce715dcc5761edd8.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.trefis.com/stock/spy/articles/627413/1966-or-1995-which-way-does-america-s-2-1-trillion-deficit-go/2026-11-23"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/1966-1995-way-does-americas-050642358.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "SPY"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "AAPL"
-            },
-            {
-              "symbol": "XOM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "1b8b5d90-f49f-3577-912c-6e85847844b6",
-      "content": {
-        "id": "1b8b5d90-f49f-3577-912c-6e85847844b6",
-        "contentType": "STORY",
-        "title": "The Inflation Math, Updated: The Fed Is Fighting Oil",
-        "description": null,
-        "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
-        "pubDate": "2026-11-24T05:06:42Z",
-        "displayTime": "2026-11-24T05:06:42Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/19956e2e43895fe288313c73bd64b9e5.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 853,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/trefis_142/19956e2e43895fe288313c73bd64b9e5.jpg",
-              "width": 1280,
-              "height": 853,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/a160e10582f3a47e8f67fe07725ca0867aa6ddd9bae10cd808bcb8c9bb5f9573/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F19956e2e43895fe288313c73bd64b9e5.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Trefis",
-          "url": "https://www.trefis.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.trefis.com/stock/spy/articles/627433/the-inflation-math-updated-the-fed-is-fighting-oil/2026-11-23"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/inflation-math-updated-fed-fighting-050642342.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "SPY"
-            },
-            {
-              "symbol": "XOM"
-            },
-            {
-              "symbol": "CVX"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "57b84d1d-82ef-3372-b13f-daddaa32b083",
-      "content": {
-        "id": "57b84d1d-82ef-3372-b13f-daddaa32b083",
-        "contentType": "STORY",
-        "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants",
-        "description": null,
-        "summary": "AMD is not selling the shares itself and will not receive any proceeds from potential sales.",
-        "pubDate": "2026-11-24T03:47:48Z",
-        "displayTime": "2026-11-24T03:47:48Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/stocktwits_383/514f3ec6bd02b872ac26b40863f4c194.jpg",
-          "originalWidth": 594,
-          "originalHeight": 396,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/stocktwits_383/514f3ec6bd02b872ac26b40863f4c194.jpg",
-              "width": 594,
-              "height": 396,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/fb4c43de2bef791f9109ae8d1cb11fc765ad5c6ba2dbf12ae490a8336f49d852/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F514f3ec6bd02b872ac26b40863f4c194.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Stocktwits",
-          "url": "https://stocktwits.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://stocktwits.com/news-articles/markets/equity/amd-stock-dips-overnight-after-nvidia-triggered-rally-amd-registers-337-m-shares-for-resale-tied-to-open-ai-meta-warrants/cNbru6MR9jU"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-dips-overnight-nvidia-034748107.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "AMD"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "OPAI.PVT"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "2310f90a-bbc8-3824-a69f-d9559eafc669",
-      "content": {
-        "id": "2310f90a-bbc8-3824-a69f-d9559eafc669",
-        "contentType": "STORY",
-        "title": "Mark Zuckerberg Has Collected Nearly $2 Billion in Dividends From the Stock He Started in a Dorm Room. It Now Pays Him About $2 Million a Day",
-        "description": null,
-        "summary": "Mark Zuckerberg's latest Form 4 shows 341,117,213 Meta shares that earn the company's $2.10-a-share dividend: $716 million a year, about $2 million a day, from a payment Meta did not make until March 2024. He has collected $1.95 billion of it so far, before tax, while his salary stays at $1 and the stock sits 23% below its September high.",
-        "pubDate": "2026-11-24T02:43:06Z",
-        "displayTime": "2026-11-24T02:43:06Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/79b5f8fd17e4ba5feac54ed03f57185b.jpg",
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/83775dc9d7a477d3590895c6bd6e3986.jpg",
           "originalWidth": 1366,
-          "originalHeight": 767,
+          "originalHeight": 768,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/79b5f8fd17e4ba5feac54ed03f57185b.jpg",
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/83775dc9d7a477d3590895c6bd6e3986.jpg",
               "width": 1366,
-              "height": 767,
+              "height": 768,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/a7a5deee081bd8acf5ca271e2075edffcee4ff7294b6c0e786b5f55265d537d2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F79b5f8fd17e4ba5feac54ed03f57185b.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/2a8ee2e04709a0d4a825d766f3a3da20f4301714878ce5c725d0549700eaf008/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F83775dc9d7a477d3590895c6bd6e3986.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2056,137 +1766,16 @@
           "url": "https://247wallst.com/"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/23/mark-zuckerberg-has-collected-nearly-2-billion-in-dividends-from-the-stock-he-started-in-a-dorm-room-it-now-pays-him-about-2-million-a-day/"
+          "url": "https://247wallst.com/investing/etf/2026/11/24/your-300000-in-xlc-holds-130206-in-just-meta-and-alphabet/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-collected-nearly-2-024306817.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/300-000-xlc-holds-130-010406634.html"
         },
         "finance": {
           "premiumFinance": {
             "isPremiumNews": false
           },
           "stockTickers": [
-            {
-              "symbol": "META"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "7151b6c0-f825-335c-8507-345598dbbdab",
-      "content": {
-        "id": "7151b6c0-f825-335c-8507-345598dbbdab",
-        "contentType": "STORY",
-        "title": "'He's Not Quite a God': Palmer Luckey Opens Up About Facebook Firing, Explains Why He'd Still Make a Deal With Mark Zuckerberg",
-        "description": null,
-        "summary": "Anduril Industries Founder Palmer Luckey says former Oculus executives, rather than Meta Platforms, Inc. CEO Mark Zuckerberg, were responsible for his 2017 departure from Facebook. However, he remains open to partnering with Meta for U.S. military applications. Palmer Luckey Says...",
-        "pubDate": "2026-11-24T01:30:07Z",
-        "displayTime": "2026-11-24T01:30:07Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_79/1fad49a71781bd9cbdec0a772d16a266.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/benzinga_79/1fad49a71781bd9cbdec0a772d16a266.jpg",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/46e17a3f11e774b3b99676a8ba808b6beda909eb36b5486a9e9c2b2bcbbab81d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F1fad49a71781bd9cbdec0a772d16a266.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga",
-          "url": "https://www.benzinga.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/hes-not-quite-god-palmer-013007219.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/hes-not-quite-god-palmer-013007219.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "OVTZ"
-            },
-            {
-              "symbol": "META/USD"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "3ecb5e94-a54e-3371-aab0-c8d169500271",
-      "content": {
-        "id": "3ecb5e94-a54e-3371-aab0-c8d169500271",
-        "contentType": "STORY",
-        "title": "The Nasdaq Just Had Its Best Day Since April 2025. Anthropic Stock Fell Anyway.",
-        "description": null,
-        "summary": "Anthropic stock slipped on the Nasdaq Composite's best day since April 2025.",
-        "pubDate": "2026-11-24T00:42:02Z",
-        "displayTime": "2026-11-24T00:42:02Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/01fc421c498b2508b89f2d3f56939a86.jpg",
-          "originalWidth": 1290,
-          "originalHeight": 860,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/motleyfool.com/01fc421c498b2508b89f2d3f56939a86.jpg",
-              "width": 1290,
-              "height": 860,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/64642c7e52e5492c5717597cccc894253180cb6393fd553efbcf7db0b5eb30dd/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F01fc421c498b2508b89f2d3f56939a86.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Motley Fool",
-          "url": "http://www.fool.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.fool.com/investing/2026/11/23/the-nasdaq-just-had-its-best-day-since-april-2025-anthropic-stock-fell-anyway/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-just-had-best-day-004202329.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "ANT"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "^IXIC"
-            },
             {
               "symbol": "GOOGN"
             },
@@ -2194,40 +1783,232 @@
               "symbol": "META"
             },
             {
-              "symbol": "AMZN"
+              "symbol": "TTWO"
             },
             {
-              "symbol": "MU"
+              "symbol": "XLC"
+            },
+            {
+              "symbol": "NFLX"
             }
           ]
         }
       }
     },
     {
-      "id": "d4fff7f6-db99-363e-8a2f-bdc6a608e6b7",
+      "id": "ea296684-aee3-38f7-802f-5926351b900e",
       "content": {
-        "id": "d4fff7f6-db99-363e-8a2f-bdc6a608e6b7",
+        "id": "ea296684-aee3-38f7-802f-5926351b900e",
         "contentType": "STORY",
-        "title": "Is Amazon's Profit Riskier Than It Looks?",
+        "title": "5 Sleeper Blue-Chip Stock Picks for Steady Long-Term Gains",
         "description": null,
-        "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
-        "pubDate": "2026-11-24T00:25:13Z",
-        "displayTime": "2026-11-24T00:25:13Z",
+        "summary": "Forget the red-hot headline grabbers for a minute. We're dedicating space to high-quality sleeper stocks that have already delivered and could keep climbing.",
+        "pubDate": "2026-11-25T00:52:33Z",
+        "displayTime": "2026-11-25T00:52:33Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/trefis_142/197a162f5d169706f1de042eea786aec.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 720,
+          "originalUrl": "https://media.zenfs.com/en/kiplinger_425/b27f09d8012d38fac61bf572f8d7fdc9.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/trefis_142/197a162f5d169706f1de042eea786aec.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://media.zenfs.com/en/kiplinger_425/b27f09d8012d38fac61bf572f8d7fdc9.jpg",
+              "width": 1920,
+              "height": 1080,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/eaac62c42679d4d8e1c2713fab6337953a1c73032b0c98e0816c103d0a401b5e/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F197a162f5d169706f1de042eea786aec.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/7882ef69331fe1e98f67aa76e092db1747f2f95413e6420839ccb5609c0d0222/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkiplinger_425%2Fb27f09d8012d38fac61bf572f8d7fdc9.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Kiplinger",
+          "url": "https://www.kiplinger.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.kiplinger.com/investing/blue-chip-stocks/sleeper-blue-chip-stock-picks-for-steady-long-term-gains"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-sleeper-blue-chip-stock-121500278.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "SPCX"
+            },
+            {
+              "symbol": "MU"
+            },
+            {
+              "symbol": "GOOGN"
+            },
+            {
+              "symbol": "AAPL"
+            },
+            {
+              "symbol": "AZO"
+            },
+            {
+              "symbol": "TJX"
+            },
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73349a16-76f5-36cc-8fb9-22c8b2058f26",
+      "content": {
+        "id": "73349a16-76f5-36cc-8fb9-22c8b2058f26",
+        "contentType": "STORY",
+        "title": "Intel And 2 More AI Stocks To Watch",
+        "description": null,
+        "summary": "Jensen Huang’s rapid return to Nvidia and the sharp rebound in chip shares have reminded markets that AI is still the main story driving big money flows. When capital swings back toward the picks and shovels of the ChatGPT and AI boom, investors start hunting for quality businesses that have not yet been fully priced for that theme. This article highlights three such undervalued AI stocks across chips, software, and cloud. The three undervalued AI stocks covered below are just a sample, and...",
+        "pubDate": "2026-11-24T22:19:18Z",
+        "displayTime": "2026-11-24T22:19:18Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/d56b808aabb924bbac0805a3a17ead0a.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/simply_wall_st__316/d56b808aabb924bbac0805a3a17ead0a.jpg",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/cdede7d789c915bed63c6dfe60723dcfd259d07aac9d9e2d80b8fabb15c110b9/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fd56b808aabb924bbac0805a3a17ead0a.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-2-more-ai-stocks-221918630.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-2-more-ai-stocks-221918630.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "INTC"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "DELL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "23ba6d8d-2b5b-3376-abb2-910836a04247",
+      "content": {
+        "id": "23ba6d8d-2b5b-3376-abb2-910836a04247",
+        "contentType": "STORY",
+        "title": "UK financial watchdog delivers AI warning as Meta launches adapted Muse",
+        "description": null,
+        "summary": "LONDON, Nov 24 (Reuters) - Britain's financial watchdog has warned technology and social media companies that AI agents offering financial services could face regulatory ‌action, urging companies to engage early with supervisors. The statement on Tuesday coincided ‌with Meta's launch of its Muse AI agent into the UK.",
+        "pubDate": "2026-11-24T21:43:20Z",
+        "displayTime": "2026-11-24T21:43:20Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/reuters.com/e113922f63c73c43db22af44c426ef62.jpg_up.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/reuters.com/e113922f63c73c43db22af44c426ef62.jpg_up.jpg",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/ad861d3aae38d0f4726e6ef68d63c9424d2d64be301fea538ce4f8a976057abf/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe113922f63c73c43db22af44c426ef62.jpg_up.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Reuters",
+          "url": "https://www.reuters.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://uk.news.yahoo.com/ai-agents-could-trigger-financial-110122847.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://www.yahoo.com/news/articles/ai-agents-could-trigger-financial-110122847.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1cefdb6a-5565-3888-92c6-fff2f1fda9d1",
+      "content": {
+        "id": "1cefdb6a-5565-3888-92c6-fff2f1fda9d1",
+        "contentType": "STORY",
+        "title": "Anthropic IPO Shares: Flip Now Or Hold A Year?",
+        "description": null,
+        "summary": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
+        "pubDate": "2026-11-24T21:36:37Z",
+        "displayTime": "2026-11-24T21:36:37Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/trefis_142/e8be434bfcfc3e50c20615572ce79d82.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 853,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/trefis_142/e8be434bfcfc3e50c20615572ce79d82.jpg",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/411e9a60b0f0813fc8db895bec65d35edf6ffd5ed763bdb39a66b7efe2eba20b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fe8be434bfcfc3e50c20615572ce79d82.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2239,10 +2020,10 @@
           "url": "https://www.trefis.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.trefis.com/stock/amzn/articles/627559/is-amazon-s-profit-riskier-than-it-looks/2026-11-23"
+          "url": "https://www.trefis.com/stock/ant/articles/628272/anthropic-ipo-shares-flip-now-or-hold-a-year/2026-11-24"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-profit-riskier-looks-002513647.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-shares-flip-now-213637673.html"
         },
         "finance": {
           "premiumFinance": {
@@ -2253,58 +2034,114 @@
               "symbol": "ANT"
             },
             {
-              "symbol": "AMZN"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "^NDX"
-            },
-            {
-              "symbol": "GOOG"
-            },
-            {
-              "symbol": "MSFT"
-            },
-            {
-              "symbol": "WMT"
-            },
-            {
               "symbol": "META"
             },
             {
-              "symbol": "NFLX"
+              "symbol": "RIVN"
+            },
+            {
+              "symbol": "ARM"
+            },
+            {
+              "symbol": "UBER"
+            },
+            {
+              "symbol": "SNOW"
             }
           ]
         }
       }
     },
     {
-      "id": "17b7ea62-271e-3470-9aec-7b773eefd0bd",
+      "id": "45c45f24-1263-3741-81eb-869c7bc2a192",
       "content": {
-        "id": "17b7ea62-271e-3470-9aec-7b773eefd0bd",
+        "id": "45c45f24-1263-3741-81eb-869c7bc2a192",
         "contentType": "STORY",
-        "title": "SpaceX Is “Following the Exact Same Pattern That Meta Followed” After Its IPO, per Steve Jurvetson. Time to Buy?",
+        "title": "5 High-Conviction Stocks Billionaire Philippe Laffont Is Betting On for 2027",
         "description": null,
-        "summary": "Key TakeawaysSteve Jurvetson compared SpaceX to Meta, which fell below its IPO price after peaking and then came back. Meta’s slump ended in July 2013, when a quarterly report showed mobile ads had grown to 41% of its ad revenue.",
-        "pubDate": "2026-11-23T23:27:25Z",
-        "displayTime": "2026-11-23T23:27:25Z",
+        "summary": "Coatue Management’s November 16 regulatory filing puts billionaire Philippe Laffont’s positioning back in focus as investors look toward 2027. Its ten largest disclosed stock holdings represented 55.9% of a $54.5 billion reported portfolio at September 30, with chipmakers and equipment suppliers carrying much of the exposure. In its May 6 public-markets update, Coatue highlighted the […]",
+        "pubDate": "2026-11-24T21:23:07Z",
+        "displayTime": "2026-11-24T21:23:07Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/099942e823d7f584d446715ba56a1467",
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/7505e5702662cc7d5f21d11e1dc4964b.jpg",
+          "originalWidth": 1672,
+          "originalHeight": 941,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/insidermonkey.com/7505e5702662cc7d5f21d11e1dc4964b.jpg",
+              "width": 1672,
+              "height": 941,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/6410ed42fcbcfe272bcabc32a4b4a523b6252cb5f750958a0b3cad5a347e3347/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F7505e5702662cc7d5f21d11e1dc4964b.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Insider Monkey",
+          "url": "http://www.insidermonkey.com"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-conviction-stocks-billionaire-212307906.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-conviction-stocks-billionaire-212307906.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "LRCX"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "MU"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "e0cbf04b-2892-30fb-895b-04848ff204d8",
+      "content": {
+        "id": "e0cbf04b-2892-30fb-895b-04848ff204d8",
+        "contentType": "STORY",
+        "title": "Could Meta Actually Climb 30%? Or Is J.P. Morgan Totally Wrong?",
+        "description": null,
+        "summary": "Key TakeawaysJ. P. Morgan cut its Meta Platforms price target to $775 from $940 on Nov.",
+        "pubDate": "2026-11-24T21:15:57Z",
+        "displayTime": "2026-11-24T21:15:57Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/01b832b8a157e1250aed5904e6848242",
           "originalWidth": 1280,
           "originalHeight": 720,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/tikr_258/099942e823d7f584d446715ba56a1467",
+              "url": "https://media.zenfs.com/en/tikr_258/01b832b8a157e1250aed5904e6848242",
               "width": 1280,
               "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/3b5b4cd74ee78ed98040a3dee343274613c6dfa0aca1d6a59e312677cd1af79d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F099942e823d7f584d446715ba56a1467",
+              "url": "https://s.yimg.com/lo/mysterio/api/5f6c7438ee8a7e8f62248d34f5b4e6371c467930a57b768b09c20908dd1d50bd/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F01b832b8a157e1250aed5904e6848242",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -2316,10 +2153,10 @@
           "url": "https://www.tikr.com/"
         },
         "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/spacex-is-following-the-exact-same-pattern-that-meta-followed-after-its-ipo-per-steve-jurvetson-time-to-buy?ref=yahoofinance&tlnk=yf-261123-gjp9pmgx"
+          "url": "https://www.tikr.com/blog/could-meta-actually-climb-30-or-is-j-p-morgan-totally-wrong?ref=yahoofinance&tlnk=yf-261124-24hpvhqr"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-following-exact-same-pattern-232725701.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-meta-actually-climb-30-211557456.html"
         },
         "finance": {
           "premiumFinance": {
@@ -2327,16 +2164,140 @@
           },
           "stockTickers": [
             {
-              "symbol": "SPCX"
+              "symbol": "META"
+            },
+            {
+              "symbol": "JPM"
+            },
+            {
+              "symbol": "ANET"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "196bae29-fc7a-32a1-94b1-40d2f56e89d6",
+      "content": {
+        "id": "196bae29-fc7a-32a1-94b1-40d2f56e89d6",
+        "contentType": "STORY",
+        "title": "AI Regulation Could Put BILL Stock In Focus",
+        "description": null,
+        "summary": "AI agents are suddenly colliding with old rulebooks, as UK regulators turn a spotlight on how tools like Meta’s Muse might touch real money, real customers, and real liability. That tension between automation and accountability creates both friction and potential openings for investors watching regulated financial services. This article unpacks that story and then walks through three stocks exposed to this news, showing where the pressure and possibilities may sit. The stocks highlighted...",
+        "pubDate": "2026-11-24T21:11:52Z",
+        "displayTime": "2026-11-24T21:11:52Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/f9563a7ba9d7550a7453b52641b98e31.jpg",
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/simply_wall_st__316/f9563a7ba9d7550a7453b52641b98e31.jpg",
+              "width": 1600,
+              "height": 900,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/c944265abf120b56c5f12125d4f0fcf3cb6f1dfb7c39e5b715e5e9b46835e6f3/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Simply Wall St.",
+          "url": "https://simplywall.st/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-regulation-could-put-bill-211152422.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-regulation-could-put-bill-211152422.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "BILL"
             },
             {
               "symbol": "META"
             },
             {
-              "symbol": "NBIS"
+              "symbol": "BL"
             },
             {
-              "symbol": "ANT"
+              "symbol": "INTA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "29bd16a1-0829-3b28-af1a-5b144a782e86",
+      "content": {
+        "id": "29bd16a1-0829-3b28-af1a-5b144a782e86",
+        "contentType": "STORY",
+        "title": "These 4 Utility Stocks Pay Dividends While AI Drives Electricity Demand Higher",
+        "description": null,
+        "summary": "Four regulated power giants are cashing in on the data center boom, but only some of their dividends look built to last. One has already cut its payout, and another carries a risk that could hit shareholders first.",
+        "pubDate": "2026-11-24T20:17:39Z",
+        "displayTime": "2026-11-24T20:17:39Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/efddac9f4cb15521e85a76584eddf169.jpg",
+          "originalWidth": 1366,
+          "originalHeight": 768,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/efddac9f4cb15521e85a76584eddf169.jpg",
+              "width": 1366,
+              "height": 768,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/340245e504a4ae4170f40badbbe480e7be1928ecc0ba6ba75b56958659d8cad5/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fefddac9f4cb15521e85a76584eddf169.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/11/24/these-4-utility-stocks-pay-dividends-while-ai-drives-electricity-demand-higher/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-utility-stocks-pay-dividends-201739182.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "ETR"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "AEP"
+            },
+            {
+              "symbol": "D"
+            },
+            {
+              "symbol": "SO"
             }
           ]
         }
