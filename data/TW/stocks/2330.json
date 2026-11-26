@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-11-25T04:43:39.600433"
+    "ts": "2026-11-26T03:52:05.694702"
   },
   "financials": {
     "annual": {
@@ -27150,6 +27150,41 @@
         "buy": 4970501,
         "name": "Foreign_Investor",
         "sell": 9068889
+      },
+      {
+        "date": "2026-11-25",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-11-25",
+        "stock_id": "2330",
+        "buy": 938000,
+        "name": "Dealer_self",
+        "sell": 1755396
+      },
+      {
+        "date": "2026-11-25",
+        "stock_id": "2330",
+        "buy": 1660018,
+        "name": "Dealer_Hedging",
+        "sell": 1281518
+      },
+      {
+        "date": "2026-11-25",
+        "stock_id": "2330",
+        "buy": 25236046,
+        "name": "Foreign_Investor",
+        "sell": 52207697
+      },
+      {
+        "date": "2026-11-25",
+        "stock_id": "2330",
+        "buy": 4904392,
+        "name": "Investment_Trust",
+        "sell": 112992
       }
     ],
     "margin_trading": [],
@@ -27157,45 +27192,27 @@
   },
   "news": [
     {
-      "id": "136c4390-dd86-31a5-90cb-412ffc221901",
+      "id": "5da2dc44-2510-3b28-ab99-13887837a87b",
       "content": {
-        "id": "136c4390-dd86-31a5-90cb-412ffc221901",
+        "id": "5da2dc44-2510-3b28-ab99-13887837a87b",
         "contentType": "STORY",
-        "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
+        "title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
         "description": null,
-        "summary": "HONG KONG (AP) — Asian stocks mostly declined on Wednesday after heavy selling of stocks linked to artificial intelligence once again hit Wall Street. futures slipped and oil prices also fell.",
-        "pubDate": "2026-11-25T04:05:26Z",
-        "displayTime": "2026-11-25T04:05:26Z",
+        "summary": "Investing.com-- Asian semiconductor and technology stocks rallied on Thursday as bargain buyers stepped in to support a sector that was battered by mounting doubts over the long-term viability of the artificial intelligence trade.",
+        "pubDate": "2026-11-26T03:03:16Z",
+        "displayTime": "2026-11-26T03:03:16Z",
         "isHosted": true,
         "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/ap.org/431d86fd2bd0c1312c806ae235bb9c9e.jpg",
-          "originalWidth": 7732,
-          "originalHeight": 5155,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/ap.org/431d86fd2bd0c1312c806ae235bb9c9e.jpg",
-              "width": 7732,
-              "height": 5155,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/997fad70d31755cb5ad3ec151d21456d726b3f4cbde7c85ce233797dde065e9a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F431d86fd2bd0c1312c806ae235bb9c9e.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
+        "thumbnail": null,
         "provider": {
-          "displayName": "Associated Press",
-          "url": "https://apnews.com/"
+          "displayName": "Investing.com",
+          "url": "https://www.investing.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27203,25 +27220,13 @@
           },
           "stockTickers": [
             {
-              "symbol": "NVDA"
-            },
-            {
               "symbol": "TSM"
             },
             {
-              "symbol": "CL=F"
-            },
-            {
-              "symbol": "OPAI.PVT"
-            },
-            {
-              "symbol": "9984.T"
+              "symbol": "2317.TW"
             },
             {
               "symbol": "SKHY"
-            },
-            {
-              "symbol": "000001.SS"
             },
             {
               "symbol": "005930.KS"
@@ -27231,107 +27236,30 @@
       }
     },
     {
-      "id": "e54c70c9-bee0-3f68-8e8d-7a983b52d598",
+      "id": "83d674a8-8828-3366-9fff-d4631f309083",
       "content": {
-        "id": "e54c70c9-bee0-3f68-8e8d-7a983b52d598",
-        "contentType": "VIDEO",
-        "title": "Novanta Shares Just Jumped And We’re Buying This Robotics Play",
-        "description": "Just as early investors targeted foundational chipmakers like Taiwan Semiconductor (TSM), Nvidia (NVDA), and Broadcom (AVGO) at the start of the AI computing wave, investors are currently examining diversified industrial and sensor plays such as Regal Rexnord (RRX), Timken (TKR), Allegro MicroSystems (ALGM), Ouster (OUST), and STMicroelectronics (STM). During a recent episode of The AI Investor Podcast, hosts Eric Bleeker and Austin Smith took a closer look at Novanta, and shared why they are optimistic about the robotics manufacturer as an AI investment play to target in 2027.",
-        "summary": "Just as early investors targeted foundational chipmakers like Taiwan Semiconductor (TSM), Nvidia (NVDA), and Broadcom (AVGO) at the start of the AI computing wave, investors are currently examining diversified industrial and sensor plays such as Regal Rexnord (RRX), Timken (TKR), Allegro MicroSystems (ALGM), Ouster (OUST), and STMicroelectronics (STM). During a recent episode of The AI Investor Podcast, hosts Eric Bleeker and Austin Smith took a closer look at Novanta, and shared why they are optimistic about the robotics manufacturer as an AI investment play to target in 2027.",
-        "pubDate": "2026-11-24T22:59:22Z",
-        "displayTime": "2026-11-24T22:59:22Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st_video_956/e063c01c000e44828f0ca126263f4a92.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/24_7_wall_st_video_956/e063c01c000e44828f0ca126263f4a92.jpg",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/b7b6c27a17fcdc3d26655db1bec258dfd6c05955740d01802a09e6bb0b8ed9f8/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st_video_956%2Fe063c01c000e44828f0ca126263f4a92.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/videos/novanta-shares-just-jumped-and-were-buying-this-robotics-play/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/video/novanta-shares-just-jumped-buying-225922952.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "STM"
-            },
-            {
-              "symbol": "NOVT"
-            },
-            {
-              "symbol": "ALGM"
-            },
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "OUST"
-            },
-            {
-              "symbol": "RRX"
-            },
-            {
-              "symbol": "TKR"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "AVGO"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "45c45f24-1263-3741-81eb-869c7bc2a192",
-      "content": {
-        "id": "45c45f24-1263-3741-81eb-869c7bc2a192",
+        "id": "83d674a8-8828-3366-9fff-d4631f309083",
         "contentType": "STORY",
-        "title": "5 High-Conviction Stocks Billionaire Philippe Laffont Is Betting On for 2027",
+        "title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
         "description": null,
-        "summary": "Coatue Management’s November 16 regulatory filing puts billionaire Philippe Laffont’s positioning back in focus as investors look toward 2027. Its ten largest disclosed stock holdings represented 55.9% of a $54.5 billion reported portfolio at September 30, with chipmakers and equipment suppliers carrying much of the exposure. In its May 6 public-markets update, Coatue highlighted the […]",
-        "pubDate": "2026-11-24T21:23:07Z",
-        "displayTime": "2026-11-24T21:23:07Z",
+        "summary": "Markets have spent November punishing growth, but Wall Street analysts haven’t lost their nerve. That gap between falling prices and steady conviction is where next year’s leaders are often found. By November 19, the wider market had slipped about 8.5% from its 52-week high, and chip stocks took the hardest hit, with the semiconductor sector […]",
+        "pubDate": "2026-11-26T00:46:10Z",
+        "displayTime": "2026-11-26T00:46:10Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/7505e5702662cc7d5f21d11e1dc4964b.jpg",
-          "originalWidth": 1672,
-          "originalHeight": 941,
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/e1776b4982ff2002c7c18b5c75b94ab7.jpg",
+          "originalWidth": 1500,
+          "originalHeight": 1039,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/insidermonkey.com/7505e5702662cc7d5f21d11e1dc4964b.jpg",
-              "width": 1672,
-              "height": 941,
+              "url": "https://media.zenfs.com/en/insidermonkey.com/e1776b4982ff2002c7c18b5c75b94ab7.jpg",
+              "width": 1500,
+              "height": 1039,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/6410ed42fcbcfe272bcabc32a4b4a523b6252cb5f750958a0b3cad5a347e3347/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F7505e5702662cc7d5f21d11e1dc4964b.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/e20c559d6be23d8c6f7824a337844021d05442d0a10698b0bf68f0f9c2dfbac6/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe1776b4982ff2002c7c18b5c75b94ab7.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27343,10 +27271,10 @@
           "url": "http://www.insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-conviction-stocks-billionaire-212307906.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-conviction-stocks-billionaire-212307906.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27354,49 +27282,164 @@
           },
           "stockTickers": [
             {
-              "symbol": "LRCX"
-            },
-            {
-              "symbol": "META"
-            },
-            {
-              "symbol": "MSFT"
+              "symbol": "AVGO"
             },
             {
               "symbol": "MU"
             },
             {
               "symbol": "TSM"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "META"
             }
           ]
         }
       }
     },
     {
-      "id": "c78785a1-77d3-4ee5-810c-fc71b0d39f47",
+      "id": "b33af5c0-3fab-3dae-b87b-56b9175ee056",
       "content": {
-        "id": "c78785a1-77d3-4ee5-810c-fc71b0d39f47",
+        "id": "b33af5c0-3fab-3dae-b87b-56b9175ee056",
         "contentType": "STORY",
-        "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+        "title": "Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29%",
         "description": null,
-        "summary": "Chip giant Nvidia led semiconductor stocks lower on Tuesday.",
-        "pubDate": "2026-11-24T14:16:35Z",
-        "displayTime": "2026-11-24T21:03:43Z",
+        "summary": "Key TakeawaysNVIDIA (NVDA:NASDAQ) jumped 31. 5% on Monday after its board reinstated Jensen Huang as CEO, but it still traded at about 11x forward earnings at the close.",
+        "pubDate": "2026-11-25T23:39:02Z",
+        "displayTime": "2026-11-25T23:39:02Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/2026-11/b3f6c15b-9a31-459a-8adb-dc55613d3709",
-          "originalWidth": 6694,
-          "originalHeight": 4463,
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/5c8986a451a35a8dce55add1c35cd1d3",
+          "originalWidth": 1280,
+          "originalHeight": 720,
           "resolutions": [
             {
-              "url": "https://d29szjachogqwa.cloudfront.net/images/2026-11/b3f6c15b-9a31-459a-8adb-dc55613d3709",
-              "width": 6694,
-              "height": 4463,
+              "url": "https://media.zenfs.com/en/tikr_258/5c8986a451a35a8dce55add1c35cd1d3",
+              "width": 1280,
+              "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/2d9d24c8856fb2eb414cf6346256b1f33e48474690e99d486fae3b3697a6d995/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fb3f6c15b-9a31-459a-8adb-dc55613d3709",
+              "url": "https://s.yimg.com/lo/mysterio/api/3035d96758d91a611dfdf856586935a25b540a486e20caf88bcfbd52b34dac59/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F5c8986a451a35a8dce55add1c35cd1d3",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.tikr.com/blog/altimeters-brad-gerstner-says-nvidia-was-priced-for-negative-growth-for-2028-and-2029-wall-street-expects-29?ref=yahoofinance&tlnk=yf-261125-3qj6vf95"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/altimeter-brad-gerstner-says-nvidia-233902558.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "AMD"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d90e4a25-23e8-3a0f-98a8-74afa300002b",
+      "content": {
+        "id": "d90e4a25-23e8-3a0f-98a8-74afa300002b",
+        "contentType": "STORY",
+        "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories",
+        "description": null,
+        "summary": "WEST PALM BEACH, Florida (AP) — President Donald Trump, who has staked his economic policy on growth in the artificial intelligence sector, will travel to Arizona on Dec. 4 to speak at the groundbreaking for a new Taiwan Semiconductor Manufacturing Co.",
+        "pubDate": "2026-11-25T22:56:36Z",
+        "displayTime": "2026-11-25T22:56:36Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/ap.org/06a2d4b5fb74098a2d1ec9785918b913.jpg",
+          "originalWidth": 2360,
+          "originalHeight": 1574,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/ap.org/06a2d4b5fb74098a2d1ec9785918b913.jpg",
+              "width": 2360,
+              "height": 1574,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/278130fba2f6a0d190f9e28eb15998f00ce7c3d5bc178cd653b2086868a43327/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F06a2d4b5fb74098a2d1ec9785918b913.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Associated Press",
+          "url": "https://apnews.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/trump-heads-arizona-next-week-225636899.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/trump-heads-arizona-next-week-225636899.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "9352d6a2-29cd-420e-ad23-eb890bff5144",
+      "content": {
+        "id": "9352d6a2-29cd-420e-ad23-eb890bff5144",
+        "contentType": "STORY",
+        "title": "The $2 trillion chip rally is unraveling — here's what history says comes next",
+        "description": null,
+        "summary": "Two days after Nvidia's record rebound, chip stocks are back where they started.",
+        "pubDate": "2026-11-25T14:53:06Z",
+        "displayTime": "2026-11-25T21:28:53Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://d29szjachogqwa.cloudfront.net/images/2026-11/4f227f33-2d67-421a-8dd0-0fb2e363e579",
+          "originalWidth": 3500,
+          "originalHeight": 2258,
+          "resolutions": [
+            {
+              "url": "https://d29szjachogqwa.cloudfront.net/images/2026-11/4f227f33-2d67-421a-8dd0-0fb2e363e579",
+              "width": 3500,
+              "height": 2258,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/81440341ae8484c98a78af24f5a506ddef6632c280ec5b7c18a3e02168ab3924/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4f227f33-2d67-421a-8dd0-0fb2e363e579",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27408,10 +27451,10 @@
           "url": "https://finance.yahoo.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html"
+          "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html"
+          "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27420,311 +27463,107 @@
           "stockTickers": [
             {
               "symbol": "NVDA"
+            },
+            {
+              "symbol": "^SOX"
             },
             {
               "symbol": "AMD"
-            },
-            {
-              "symbol": "AVGO"
-            },
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "ASML"
-            },
-            {
-              "symbol": "ARM"
-            },
-            {
-              "symbol": "SNDK"
-            },
-            {
-              "symbol": "MU"
-            },
-            {
-              "symbol": "SKHY"
-            },
-            {
-              "symbol": "CRWV"
-            },
-            {
-              "symbol": "NBIS"
-            },
-            {
-              "symbol": "STX"
-            },
-            {
-              "symbol": "WDC"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "c1669d49-943e-348a-9246-7395220cc677",
-      "content": {
-        "id": "c1669d49-943e-348a-9246-7395220cc677",
-        "contentType": "STORY",
-        "title": "Trump’s Southeast Asia Chip Rule Has Cost Nvidia $44 Billion+ of Revenue, per Jefferies. Huang Can’t Undo It",
-        "description": null,
-        "summary": "Key TakeawaysJefferies estimates a new Commerce Department chip-rental rule could cut $44 billion to $62 billion from Nvidia’s data center revenue next year. Jensen Huang’s return as CEO won’t reopen that route, since Beijing expects no easing and Washington wants tighter rules.",
-        "pubDate": "2026-11-24T20:10:06Z",
-        "displayTime": "2026-11-24T20:10:06Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/a0f193e5c432dc6437a3cf9f32c8baac",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/a0f193e5c432dc6437a3cf9f32c8baac",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/b85372183b028b7bf1d3514452a4f948ed846b69f0e438aac406bae6230a3c5b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Fa0f193e5c432dc6437a3cf9f32c8baac",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/trumps-southeast-asia-chip-rule-has-cost-nvidia-44-billion-of-revenue-per-jefferies-huang-cant-undo-it?ref=yahoofinance&tlnk=yf-261124-8mwmqrw2"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-southeast-asia-chip-rule-201006903.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "AMD"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "daf9046a-73fb-39f5-b6eb-6150bad9e2a0",
-      "content": {
-        "id": "daf9046a-73fb-39f5-b6eb-6150bad9e2a0",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock May Be Reasonable After New Export Curbs",
-        "description": null,
-        "summary": "Taiwan Semiconductor Manufacturing has been through a sharp reset in recent weeks, after a multiyear surge that reshaped expectations for what its cash flows might be worth. With the share price sitting around US$363.60 at the last close, the key question is whether that market tag still lines up with the cash the business can generate. Over the past 3 years the stock has gained about 285.9%. That puts a lot of past optimism about future cash generation under the microscope. Recent news...",
-        "pubDate": "2026-11-24T20:09:04Z",
-        "displayTime": "2026-11-24T20:09:04Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0f9606c11fab5873fe681760ed38df34.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 900,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/simply_wall_st__316/0f9606c11fab5873fe681760ed38df34.jpg",
-              "width": 1600,
-              "height": 900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/30108562c75c8bc200994a2a1cb92710b6cc1b82997155fd47c7252c73a1be46/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F0f9606c11fab5873fe681760ed38df34.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-200904328.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-200904328.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "0981.HK"
-            },
-            {
-              "symbol": "NVDA"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "ed0542c2-3739-3d29-9308-4b7fcd0239c1",
-      "content": {
-        "id": "ed0542c2-3739-3d29-9308-4b7fcd0239c1",
-        "contentType": "STORY",
-        "title": "TSMC's $22.6 Billion Texas Chip Plant Hinges on Two Tax Breaks",
-        "description": null,
-        "summary": "TSMC (NYSE:TSM) is weighing a $22.6 billion semiconductor manufacturing facility in Texas, but says a property tax break could determine whether the investment goes there or to Arizona. The world’s largest contract chipmaker also faces a deadline in Washington. A...",
-        "pubDate": "2026-11-24T20:00:07Z",
-        "displayTime": "2026-11-24T20:00:07Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/benzinga_prediction_markets_613/f56dbb28ec079e26e263876be5a6ac0d.jpg",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/benzinga_prediction_markets_613/f56dbb28ec079e26e263876be5a6ac0d.jpg",
-              "width": 1920,
-              "height": 1080,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/211a5240011a57063d2dad2148babe84224ade4afe5793643f020d40617f50e5/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_prediction_markets_613%2Ff56dbb28ec079e26e263876be5a6ac0d.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Benzinga Prediction Markets",
-          "url": "https://www.benzinga.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63603822/tsmc-texas-chip-tax-breaks?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/economy/policy/articles/tsmcs-22-6-billion-texas-200007825.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "59862f83-03b8-3657-b65b-e2566093ba82",
-      "content": {
-        "id": "59862f83-03b8-3657-b65b-e2566093ba82",
-        "contentType": "STORY",
-        "title": "Trump Warns of “Paying 200 Percent on Chips” in Two Years. That Pushes TSMC Toward a $22.6 Billion Texas Plant",
-        "description": null,
-        "summary": "Key TakeawaysPresident Trump said foreign chips will face 200% tariffs in two years, and a filing shows TSMC weighing a $22. 6 billion Texas plant.",
-        "pubDate": "2026-11-24T19:59:22Z",
-        "displayTime": "2026-11-24T19:59:22Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/tikr_258/09bacdbd87654c31cf56df96d15898f9",
-          "originalWidth": 1280,
-          "originalHeight": 720,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/tikr_258/09bacdbd87654c31cf56df96d15898f9",
-              "width": 1280,
-              "height": 720,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/3471c865418bc2d27be6d4022684c520a5d6b0b819674061ef04cd777d5084b7/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F09bacdbd87654c31cf56df96d15898f9",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "TIKR",
-          "url": "https://www.tikr.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://www.tikr.com/blog/trump-warns-of-paying-200-percent-on-chips-in-two-years-that-pushes-tsmc-toward-a-22-6-billion-texas-plant?ref=yahoofinance&tlnk=yf-261124-hf56p374"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-warns-paying-200-percent-195922778.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
             },
             {
               "symbol": "INTC"
             },
             {
-              "symbol": "NVDA"
+              "symbol": "AVGO"
             },
             {
-              "symbol": "AAPL"
+              "symbol": "MU"
+            },
+            {
+              "symbol": "TSM"
             }
           ]
         }
       }
     },
     {
-      "id": "5ef2c8a4-d47c-313c-94a2-59361f4e5e80",
+      "id": "746b03ab-0df1-3d58-9b33-21e21e29208f",
       "content": {
-        "id": "5ef2c8a4-d47c-313c-94a2-59361f4e5e80",
+        "id": "746b03ab-0df1-3d58-9b33-21e21e29208f",
         "contentType": "STORY",
-        "title": "If You Invest $5,000 Into These 3 Stocks, You Could Have $10,000 by 2030",
+        "title": "TSMC eyes 3K-acre Aggieland site for $22.6B chip plant",
         "description": null,
-        "summary": "After a brutal selloff, three AI chip giants look cheap, but only some of them clear the doubling bar. A forecasting model splits bull, base and bear paths, and one name needs everything to go right.",
-        "pubDate": "2026-11-24T18:03:20Z",
-        "displayTime": "2026-11-24T18:03:20Z",
+        "summary": "DR. C.C. Wei of TSMC (Getty)Taiwan-based TSMC is sizing up a slice of land in Aggieland to build a $23 billion chipmaking plant. TSMC tipped their hand through a Texas Jobs, Energy, Technology and Innovation program application that revealed some details for the proposed campus. TSMC estimates that the proposed semiconductor manufacturing plant in College Station will generate $64 billion over a four decade operating period, according to the Houston Business Journal, who cited the application. I",
+        "pubDate": "2026-11-25T19:29:01Z",
+        "displayTime": "2026-11-25T19:29:01Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/db6a102165642075559ac2418bdd8666.jpg",
-          "originalWidth": 2560,
-          "originalHeight": 1440,
+          "originalUrl": "https://media.zenfs.com/en/the_real_deal_435/7431e88a6ad43edf58973d5d2da817d0.jpg",
+          "originalWidth": 1500,
+          "originalHeight": 1000,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/db6a102165642075559ac2418bdd8666.jpg",
-              "width": 2560,
-              "height": 1440,
+              "url": "https://media.zenfs.com/en/the_real_deal_435/7431e88a6ad43edf58973d5d2da817d0.jpg",
+              "width": 1500,
+              "height": 1000,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/b57ce3161156eaeb1ad0cfc5a2471980dc66df12786bb93c982889db2e9269db/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fdb6a102165642075559ac2418bdd8666.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/b0f1d3b54e59a255c42a74c321a7e5e38b001dbcb1eb92adf0080a714e88e0ea/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_real_deal_435%2F7431e88a6ad43edf58973d5d2da817d0.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "The Real Deal",
+          "url": "https://therealdeal.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-eyes-3k-acre-aggieland-192901231.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/tsmc-eyes-3k-acre-aggieland-192901231.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "2bb22154-7df5-37fc-86ac-c0048f20a232",
+      "content": {
+        "id": "2bb22154-7df5-37fc-86ac-c0048f20a232",
+        "contentType": "STORY",
+        "title": "If You Invest $1,000 in Taiwan Semiconductor Today, Here’s What It Could Be Worth by 2030",
+        "description": null,
+        "summary": "The world's largest chipmaker is running its fabs flat out, yet the stock has slid sharply in a month. Three forces could drive a big payoff for patient investors, but one risk could erase it all.",
+        "pubDate": "2026-11-25T17:33:01Z",
+        "displayTime": "2026-11-25T17:33:01Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/0d4b7578ab4417bc4b01f83689183d5b",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/0d4b7578ab4417bc4b01f83689183d5b",
+              "width": 1920,
+              "height": 1080,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/7f08735381cf6abea58fe01b692f479f9a6a8838f9020140fa42b948199d05d3/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0d4b7578ab4417bc4b01f83689183d5b",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27736,10 +27575,51 @@
           "url": "https://247wallst.com/"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/24/if-you-invest-5000-into-these-3-stocks-you-could-have-10000-by-2030/"
+          "url": "https://247wallst.com/investing/2026/11/25/if-you-invest-1000-in-taiwan-semiconductor-today-heres-what-it-could-be-worth-by-2030/"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invest-5-000-3-stocks-180320984.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invest-1-000-taiwan-semiconductor-173301234.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "SOFI"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "5086e50b-0979-3de7-a8e6-f637fb0ce9a5",
+      "content": {
+        "id": "5086e50b-0979-3de7-a8e6-f637fb0ce9a5",
+        "contentType": "STORY",
+        "title": "AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again",
+        "description": null,
+        "summary": "Nvidia, AMD Shares Sink as Wall Street's AI Rally Loses Steam",
+        "pubDate": "2026-11-25T17:02:36Z",
+        "displayTime": "2026-11-25T17:02:36Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-extend-brutal-170236621.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-extend-brutal-170236621.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27750,40 +27630,61 @@
               "symbol": "NVDA"
             },
             {
-              "symbol": "TSM"
+              "symbol": "AMD"
             },
             {
               "symbol": "AVGO"
             },
             {
               "symbol": "TSM"
+            },
+            {
+              "symbol": "INTC"
             }
           ]
         }
       }
     },
     {
-      "id": "2f5891df-397d-351b-a41a-91d93f6530e8",
+      "id": "797f389a-733e-3598-9545-ccef2412ebda",
       "content": {
-        "id": "2f5891df-397d-351b-a41a-91d93f6530e8",
+        "id": "797f389a-733e-3598-9545-ccef2412ebda",
         "contentType": "STORY",
-        "title": "Nvidia, AMD and Micron Lead AI Selloff as Chip Stocks Slide",
+        "title": "Chip stocks tumble as Nvidia-led AI rally unravels, tariff fears weigh",
         "description": null,
-        "summary": "Nvidia's Sharp Reversal Sparks a New Selloff in AI and Chip Stocks",
-        "pubDate": "2026-11-24T17:40:08Z",
-        "displayTime": "2026-11-24T17:40:08Z",
+        "summary": "Global chip stocks tumbled on Wednesday, with Nvidia and memory makers leading a broad retreat in technology shares as concerns over artificial intelligence valuations, US tariffs and interest rates weighed on investor sentiment. Nvidia Corp (NASDAQ:NVDA, XETRA:NVD) fell nearly 9%, reversing...",
+        "pubDate": "2026-11-25T16:49:00Z",
+        "displayTime": "2026-11-25T16:49:00Z",
         "isHosted": true,
         "previewUrl": null,
-        "thumbnail": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/proactive_us_504/d8fcea085139989acd5ebe888023c403.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/proactive_us_504/d8fcea085139989acd5ebe888023c403.jpg",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/9253d66b7b3e4b1e34d5ce8dcfda70bc3b8bf9feeed63b2545909bca42c20f4f/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2Fd8fcea085139989acd5ebe888023c403.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
         "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/"
+          "displayName": "Proactive",
+          "url": "https://www.proactiveinvestors.com/us"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-micron-lead-ai-174008056.html"
+          "url": "https://www.proactiveinvestors.com/companies/news/1102454/chip-stocks-tumble-as-nvidia-led-ai-rally-unravels-tariff-fears-weigh-1102454.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-micron-lead-ai-174008056.html"
+          "url": "https://finance.yahoo.com/technology/ai/articles/chip-stocks-tumble-nvidia-led-164900978.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27797,19 +27698,7 @@
               "symbol": "MU"
             },
             {
-              "symbol": "AMD"
-            },
-            {
-              "symbol": "ASML"
-            },
-            {
-              "symbol": "SKHY"
-            },
-            {
-              "symbol": "STX"
-            },
-            {
-              "symbol": "WDC"
+              "symbol": "ARM"
             },
             {
               "symbol": "TSM"
@@ -27818,10 +27707,84 @@
               "symbol": "ASML"
             },
             {
+              "symbol": "^IXIC"
+            },
+            {
+              "symbol": "^GSPC"
+            },
+            {
+              "symbol": "STX"
+            },
+            {
+              "symbol": "WDC"
+            },
+            {
+              "symbol": "SKHY"
+            },
+            {
               "symbol": "SNDK"
             },
             {
-              "symbol": "AVGO"
+              "symbol": "NVD"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "6312b81b-42a3-3163-87bc-ae5b4ab289d9",
+      "content": {
+        "id": "6312b81b-42a3-3163-87bc-ae5b4ab289d9",
+        "contentType": "STORY",
+        "title": "Billionaire Stanley Druckenmiller Sold 94% of His TSMC Stake and All of His Alphabet Shares in Q3. Here’s the Brilliant Stock He Added.",
+        "description": null,
+        "summary": "The market has changed since these moves were made.",
+        "pubDate": "2026-11-25T16:37:02Z",
+        "displayTime": "2026-11-25T16:37:02Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/motleyfool.com/d371a34f4a86f0522210bf6ce538236f.jpg",
+          "originalWidth": 1400,
+          "originalHeight": 787,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/motleyfool.com/d371a34f4a86f0522210bf6ce538236f.jpg",
+              "width": 1400,
+              "height": 787,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/edf9ba6791149715867f8d6e191416e5b0a3fe430376f3ef625ba3d849cca693/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd371a34f4a86f0522210bf6ce538236f.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "Motley Fool",
+          "url": "http://www.fool.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.fool.com/investing/2026/11/25/billionaire-stanley-druckenmiller-sold-94-of-his-tsmc-and-all-of-his-alphabet-here-s-the-brilliant-stock-he-added/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-sold-94-163702569.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "GOOGN"
             }
           ]
         }
@@ -27934,74 +27897,74 @@
     "executiveTeam": [],
     "maxAge": 86400,
     "priceHint": 2,
-    "previousClose": 2230.0,
+    "previousClose": 2150.0,
     "open": 2150.0,
-    "dayLow": 2020.0,
-    "dayHigh": 2170.0,
-    "regularMarketPreviousClose": 2230.0,
+    "dayLow": 2120.0,
+    "dayHigh": 2165.0,
+    "regularMarketPreviousClose": 2150.0,
     "regularMarketOpen": 2150.0,
-    "regularMarketDayLow": 2020.0,
-    "regularMarketDayHigh": 2170.0,
+    "regularMarketDayLow": 2120.0,
+    "regularMarketDayHigh": 2165.0,
     "dividendRate": 24.0,
-    "dividendYield": 1.18,
+    "dividendYield": 1.08,
     "exDividendDate": 1796860800,
     "payoutRatio": 0.24620001,
     "fiveYearAvgDividendYield": 1.51,
     "beta": 1.233,
-    "trailingPE": 21.904175,
-    "forwardPE": 14.2711,
-    "volume": 62756397,
-    "regularMarketVolume": 62756397,
-    "averageVolume": 27202191,
-    "averageVolume10days": 43032093,
-    "averageDailyVolume10Day": 43032093,
+    "trailingPE": 22.93285,
+    "forwardPE": 14.404787,
+    "volume": 30012743,
+    "regularMarketVolume": 30012743,
+    "averageVolume": 28283802,
+    "averageVolume10days": 47971304,
+    "averageDailyVolume10Day": 47971304,
     "bid": 2150.0,
-    "ask": 2140.0,
+    "ask": 2155.0,
     "bidSize": 0,
     "askSize": 0,
-    "marketCap": 55365601329152,
+    "marketCap": 55884247990272,
     "nonDilutedMarketCap": 60681734029800,
-    "fiftyTwoWeekLow": 1405.0,
+    "fiftyTwoWeekLow": 1410.0,
     "fiftyTwoWeekHigh": 2590.0,
     "allTimeHigh": 2590.0,
     "allTimeLow": 26.918774,
-    "fulldayPrice": 2135.0,
-    "fulldayChange": -95.0,
-    "fulldayChangePercent": -4.2505593,
-    "priceToSalesTrailing12Months": 11.196692,
-    "fiftyDayAverage": 2379.0,
-    "twoHundredDayAverage": 2252.05,
+    "fulldayPrice": 2155.0,
+    "fulldayChange": 5.0,
+    "fulldayChangePercent": 0.23310024,
+    "priceToSalesTrailing12Months": 11.301579,
+    "fiftyDayAverage": 2374.3,
+    "twoHundredDayAverage": 2253.225,
     "trailingAnnualDividendRate": 28.0,
-    "trailingAnnualDividendYield": 0.012556054,
+    "trailingAnnualDividendYield": 0.013023255,
     "currency": "TWD",
     "tradeable": false,
-    "enterpriseValue": 54927275589632,
+    "enterpriseValue": 52852684750848,
     "profitMargins": 0.51116,
     "floatShares": 23651872822,
     "sharesOutstanding": 25932364970,
     "heldPercentInsiders": 0.0005,
-    "heldPercentInstitutions": 0.43343,
+    "heldPercentInstitutions": 0.43359002,
     "impliedSharesOutstanding": 25932364970,
     "bookValue": 269.852,
-    "priceToBook": 7.9117446,
+    "priceToBook": 7.9858594,
     "lastFiscalYearEnd": 1767139200,
     "nextFiscalYearEnd": 1798675200,
     "mostRecentQuarter": 1790726400,
     "earningsQuarterlyGrowth": 0.687,
     "netIncomeToCommon": 2527571476480,
-    "trailingEps": 97.47,
+    "trailingEps": 93.97,
     "forwardEps": 149.60304,
     "pegRatio": 0.6,
     "lastSplitFactor": "1.005:1",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 11.108,
-    "enterpriseToEbitda": 15.257,
-    "52WeekChange": 0.5759717,
-    "SandP52WeekChange": 0.06965685,
+    "enterpriseToRevenue": 10.689,
+    "enterpriseToEbitda": 14.68,
+    "52WeekChange": 0.49305558,
+    "SandP52WeekChange": 0.057023644,
     "lastDividendValue": 9.0,
     "lastDividendDate": 1804723200,
     "quoteType": "EQUITY",
-    "currentPrice": 2135.0,
+    "currentPrice": 2155.0,
     "targetHighPrice": 5000.0,
     "targetLowPrice": 2700.0,
     "targetMeanPrice": 3402.5144,
@@ -28037,25 +28000,45 @@
     "triggerable": false,
     "customPriceAlertConfidence": "LOW",
     "exchange": "TAI",
-    "fiftyTwoWeekLowChangePercent": 0.519573,
-    "fiftyTwoWeekRange": "1405.0 - 2590.0",
-    "fiftyTwoWeekHighChange": -455.0,
-    "fiftyTwoWeekHighChangePercent": -0.17567568,
-    "fiftyTwoWeekChangePercent": 57.59717,
+    "hasPrePostMarketData": false,
+    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketChange": 5.0,
+    "regularMarketChangePercent": 0.23310024,
+    "regularMarketPrice": 2155.0,
+    "regularMarketDayRange": "2120.0 - 2165.0",
+    "fullExchangeName": "Taiwan",
+    "averageDailyVolume3Month": 28283802,
+    "epsTrailingTwelveMonths": 93.97,
+    "epsForward": 149.60304,
+    "epsCurrentYear": 110.62572,
+    "priceEpsCurrentYear": 19.4801,
+    "fiftyDayAverageChange": -219.30005,
+    "fiftyDayAverageChangePercent": -0.09236408,
+    "twoHundredDayAverageChange": -98.2251,
+    "twoHundredDayAverageChangePercent": -0.043593112,
+    "sourceInterval": 20,
+    "exchangeDataDelayedBy": 20,
+    "averageAnalystRating": "1.3 - Strong Buy",
+    "cryptoTradeable": false,
+    "messageBoardId": "finmb_380075",
+    "exchangeTimezoneName": "Asia/Taipei",
+    "exchangeTimezoneShortName": "CST",
+    "gmtOffSetMilliseconds": 28800000,
+    "market": "tw_market",
+    "esgPopulated": false,
+    "marketState": "REGULAR",
+    "fiftyTwoWeekLowChange": 745.0,
+    "fiftyTwoWeekLowChangePercent": 0.5283688,
+    "fiftyTwoWeekRange": "1410.0 - 2590.0",
+    "fiftyTwoWeekHighChange": -435.0,
+    "fiftyTwoWeekHighChangePercent": -0.16795367,
+    "fiftyTwoWeekChangePercent": 49.305557,
     "earningsTimestamp": 1792042200,
     "earningsTimestampStart": 1799904600,
     "earningsTimestampEnd": 1799904600,
     "earningsCallTimestampStart": 1792044000,
     "earningsCallTimestampEnd": 1792044000,
     "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 97.47,
-    "epsForward": 149.60304,
-    "epsCurrentYear": 110.62572,
-    "priceEpsCurrentYear": 19.29931,
-    "regularMarketTime": 1795580618,
-    "messageBoardId": "finmb_380075",
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "corporateActions": [
       {
         "header": "Dividend",
@@ -28067,29 +28050,9 @@
         }
       }
     ],
-    "marketState": "REGULAR",
-    "exchangeTimezoneName": "Asia/Taipei",
-    "exchangeTimezoneShortName": "CST",
-    "gmtOffSetMilliseconds": 28800000,
-    "market": "tw_market",
-    "esgPopulated": false,
-    "regularMarketChange": -95.0,
-    "regularMarketChangePercent": -4.2505593,
-    "regularMarketPrice": 2135.0,
-    "regularMarketDayRange": "2020.0 - 2170.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 27202191,
-    "fiftyTwoWeekLowChange": 730.0,
-    "fiftyDayAverageChange": -244.0,
-    "fiftyDayAverageChangePercent": -0.102564104,
-    "twoHundredDayAverageChange": -117.05005,
-    "twoHundredDayAverageChangePercent": -0.05197489,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
+    "regularMarketTime": 1795663924,
+    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "isCMEFuture": false,
     "trailingPegRatio": 0.5569
   }
