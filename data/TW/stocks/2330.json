@@ -2,7 +2,7 @@
   "metadata": {
     "ticker": "2330",
     "market": "TW",
-    "ts": "2026-11-27T03:53:24.733108"
+    "ts": "2026-11-28T03:40:01.977570"
   },
   "financials": {
     "annual": {
@@ -27220,6 +27220,41 @@
         "buy": 1363000,
         "name": "Investment_Trust",
         "sell": 186685
+      },
+      {
+        "date": "2026-11-27",
+        "stock_id": "2330",
+        "buy": 0,
+        "name": "Foreign_Dealer_Self",
+        "sell": 0
+      },
+      {
+        "date": "2026-11-27",
+        "stock_id": "2330",
+        "buy": 808020,
+        "name": "Dealer_self",
+        "sell": 251000
+      },
+      {
+        "date": "2026-11-27",
+        "stock_id": "2330",
+        "buy": 426613,
+        "name": "Dealer_Hedging",
+        "sell": 391210
+      },
+      {
+        "date": "2026-11-27",
+        "stock_id": "2330",
+        "buy": 20686833,
+        "name": "Foreign_Investor",
+        "sell": 29397392
+      },
+      {
+        "date": "2026-11-27",
+        "stock_id": "2330",
+        "buy": 1115061,
+        "name": "Investment_Trust",
+        "sell": 203010
       }
     ],
     "margin_trading": [],
@@ -27227,30 +27262,242 @@
   },
   "news": [
     {
-      "id": "fcd9efb6-8348-3fa7-a07c-a7e98f88ca84",
+      "id": "c36c6e9b-b1d7-3352-9580-cd29f2850cfe",
       "content": {
-        "id": "fcd9efb6-8348-3fa7-a07c-a7e98f88ca84",
+        "id": "c36c6e9b-b1d7-3352-9580-cd29f2850cfe",
         "contentType": "STORY",
-        "title": "TSMC (TSM) Is Building a Semiconductor Moat That Rivals May Struggle to Cross",
+        "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
         "description": null,
-        "summary": "We just published the list of the 10 Best Tech Stocks to Buy for 2027 According to Hedge Funds, and Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) ranked 6th on this list. Tech stocks aren’t lacking in growth stories for 2027. The problem is that smart money is increasingly selective about which companies it’s willing to […]",
-        "pubDate": "2026-11-27T03:11:14Z",
-        "displayTime": "2026-11-27T03:11:14Z",
+        "summary": "USTR proposed duties of up to 15% on Taiwanese goods, but semiconductors and servers appear exempt, with public comments due January 5.",
+        "pubDate": "2026-11-27T19:46:09Z",
+        "displayTime": "2026-11-27T19:46:09Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-climb-1-84-194609822.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-climb-1-84-194609822.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "4fcb188d-504e-3988-a68c-b185d9dba77a",
+      "content": {
+        "id": "4fcb188d-504e-3988-a68c-b185d9dba77a",
+        "contentType": "STORY",
+        "title": "Stanley Druckenmiller, David Tepper and 5 Other Famous Investors Own Taiwan Semiconductor. Here’s Who Sold Recently",
+        "description": null,
+        "summary": "Key TakeawaysSeven famous investors held Taiwan Semiconductor on Sept. 30, but Stanley Druckenmiller cut his stake 94% in the third quarter and Leopold Aschenbrenner sold all of his.",
+        "pubDate": "2026-11-27T18:28:19Z",
+        "displayTime": "2026-11-27T18:28:19Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/8e0b8358d7dfe085f2ad179f75d96a7d.jpg",
-          "originalWidth": 2622,
-          "originalHeight": 1748,
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/f0533cf034cfaf5013d4176fe2b3f609",
+          "originalWidth": 1280,
+          "originalHeight": 720,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/insidermonkey.com/8e0b8358d7dfe085f2ad179f75d96a7d.jpg",
-              "width": 2622,
-              "height": 1748,
+              "url": "https://media.zenfs.com/en/tikr_258/f0533cf034cfaf5013d4176fe2b3f609",
+              "width": 1280,
+              "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/b77e9ab7ef17606307a8c7b145faefa93702da7b995843530535734730f5f5b3/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F8e0b8358d7dfe085f2ad179f75d96a7d.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/7323bdc2bb2ddf401d37c7eb7bed8275f2172dab8bdbf10f15e961510a4422ae/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Ff0533cf034cfaf5013d4176fe2b3f609",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-5-other-famous-investors-own-taiwan-semiconductor-heres-who-sold-recently?ref=yahoofinance&tlnk=yf-261127-678h6x89"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-david-tepper-5-182819474.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "ASML"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ab05f1e3-2f42-36a8-b3e2-fecf2fb837c4",
+      "content": {
+        "id": "ab05f1e3-2f42-36a8-b3e2-fecf2fb837c4",
+        "contentType": "STORY",
+        "title": "Trump Is Heading to Arizona to Break Ground on TSMC’s Newest Chip Plant",
+        "description": null,
+        "summary": "A presidential ceremony is coming to the Arizona desert, yet TSMC's stock barely flinched after a brutal month. Behind the pageantry sit unanswered questions about chips, costs, and politics that could decide whether this expansion pays off.",
+        "pubDate": "2026-11-27T15:48:35Z",
+        "displayTime": "2026-11-27T15:48:35Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/48c81c58651097aff2c7637f65475254.jpg",
+          "originalWidth": 2560,
+          "originalHeight": 1707,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/48c81c58651097aff2c7637f65475254.jpg",
+              "width": 2560,
+              "height": 1707,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/b60692db2a7be3d736885df9f5f890a5d39ac73fc9a1315a8306d27d88b0b4d4/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F48c81c58651097aff2c7637f65475254.jpg",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/11/27/trump-is-heading-to-arizona-to-break-ground-on-tsmcs-newest-chip-plant/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/trump-heading-arizona-break-ground-154835652.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "NVDA"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "abc1e29d-f9c1-395b-a681-0630c88276d7",
+      "content": {
+        "id": "abc1e29d-f9c1-395b-a681-0630c88276d7",
+        "contentType": "STORY",
+        "title": "No Threat to TSMC Before 2028: Intel’s Foundry Gap Is Still Huge",
+        "description": null,
+        "summary": "Intel just posted its best data center growth in 15 years, yet its foundry still bleeds cash while TSMC says AI demand outruns supply. One missing signature from a big customer could change the story, and Intel has promised to deliver soon.",
+        "pubDate": "2026-11-27T15:45:12Z",
+        "displayTime": "2026-11-27T15:45:12Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/de649d3814ac7af1b5a00f60d508cf0d",
+          "originalWidth": 2560,
+          "originalHeight": 1440,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/24_7_wall_st__718/de649d3814ac7af1b5a00f60d508cf0d",
+              "width": 2560,
+              "height": 1440,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/8d4aa71e1e0ab6a617ea00d06320571554df2d6747913fff256fc833e467764e/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fde649d3814ac7af1b5a00f60d508cf0d",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "24/7 Wall St.",
+          "url": "https://247wallst.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://247wallst.com/investing/2026/11/27/no-threat-to-tsmc-before-2028-intels-foundry-gap-is-still-huge/"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/technology/articles/no-threat-tsmc-2028-intel-154512199.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "INTC"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "TSM"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "6b08e2e7-d719-3603-8f6c-1b189a50b0a2",
+      "content": {
+        "id": "6b08e2e7-d719-3603-8f6c-1b189a50b0a2",
+        "contentType": "STORY",
+        "title": "5 Strong Buy Stocks to Buy and Hold For the Next 5 Years",
+        "description": null,
+        "summary": "The S&P 500 fell 3.7% on Friday, November 20, its seventh straight losing session and its longest losing streak since the pandemic crash, according to Jared Blikre, global markets and data editor at Yahoo Finance. The index closed in correction territory, about $8 trillion below its October 6 record, and the Nasdaq-100 dropped 5.6% to […]",
+        "pubDate": "2026-11-27T14:23:57Z",
+        "displayTime": "2026-11-27T14:23:57Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/0799ef90fc0df3a617deeb4cf08e8880.png",
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/insidermonkey.com/0799ef90fc0df3a617deeb4cf08e8880.png",
+              "width": 1280,
+              "height": 720,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/81b474244edd990ba24f7f8b9f7d4c8da9e14c343d4d33a84fd376f573dbab68/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F0799ef90fc0df3a617deeb4cf08e8880.png",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27262,10 +27509,10 @@
           "url": "http://www.insidermonkey.com"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-tsm-building-semiconductor-moat-031114980.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-strong-buy-stocks-buy-142357618.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/tsmc-tsm-building-semiconductor-moat-031114980.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-strong-buy-stocks-buy-142357618.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27273,78 +27520,114 @@
           },
           "stockTickers": [
             {
+              "symbol": "^GSPC"
+            },
+            {
               "symbol": "TSM"
+            },
+            {
+              "symbol": "GOOG"
+            },
+            {
+              "symbol": "MSFT"
+            },
+            {
+              "symbol": "META"
+            },
+            {
+              "symbol": "AMZN"
             }
           ]
         }
       }
     },
     {
-      "id": "e7cf481f-a636-3786-9a5e-5c371062a999",
+      "id": "442e00b9-769c-3177-b49f-a3bbbe532338",
       "content": {
-        "id": "e7cf481f-a636-3786-9a5e-5c371062a999",
+        "id": "442e00b9-769c-3177-b49f-a3bbbe532338",
         "contentType": "STORY",
-        "title": "Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout",
+        "title": "Trump’s New Tariffs Hit Taiwan but Spare Its Chips. That’s Good News for TSMC and Apple",
         "description": null,
-        "summary": "TSMC fell 3.59% in Taipei as the Taiex posted its sixth-largest point drop on record, a day after a 9% rally.",
-        "pubDate": "2026-11-26T19:03:19Z",
-        "displayTime": "2026-11-26T19:03:19Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "GuruFocus.com",
-          "url": "http://www.gurufocus.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stocks-slip-1-190319001.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stocks-slip-1-190319001.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "2454.TW"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "3e97ba01-0f65-3d0a-ae04-ffe8da938e00",
-      "content": {
-        "id": "3e97ba01-0f65-3d0a-ae04-ffe8da938e00",
-        "contentType": "STORY",
-        "title": "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers",
-        "description": null,
-        "summary": "IQM's 54-qubit system marks a new chapter in quantum-AI infrastructure, putting MKS, Taiwan Semiconductor and RTX in focus ahead of 2027.",
-        "pubDate": "2026-11-26T19:00:00Z",
-        "displayTime": "2026-11-26T19:00:00Z",
+        "summary": "Key TakeawaysWashington proposed tariffs of up to 15% on Taiwan, or up to 25% if talks fail. Taiwan’s notice exempts chips, smartphones, PCs and servers, the core of TSMC’s, Apple’s and Qualcomm’s businesses.",
+        "pubDate": "2026-11-27T13:40:36Z",
+        "displayTime": "2026-11-27T13:40:36Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/53d9a3fd304ab73d580828e5367313eb.jpg_up.jpg",
+          "originalUrl": "https://media.zenfs.com/en/tikr_258/f7576db2f1768bad8bc5f44b2de52982",
           "originalWidth": 1280,
-          "originalHeight": 807,
+          "originalHeight": 720,
           "resolutions": [
             {
-              "url": "https://media.zenfs.com/en/zacks.com/53d9a3fd304ab73d580828e5367313eb.jpg_up.jpg",
+              "url": "https://media.zenfs.com/en/tikr_258/f7576db2f1768bad8bc5f44b2de52982",
               "width": 1280,
-              "height": 807,
+              "height": 720,
               "tag": "original"
             },
             {
-              "url": "https://s.yimg.com/lo/mysterio/api/812b58d54daba5a93689b337aef49acd2c5ce6f1820ac73e9cb3a62cb23aad88/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F53d9a3fd304ab73d580828e5367313eb.jpg_up.jpg",
+              "url": "https://s.yimg.com/lo/mysterio/api/c9be49b62f99bbdf79c353548c79a818089189b62576e51364de98aa6ab08061/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2Ff7576db2f1768bad8bc5f44b2de52982",
+              "width": 170,
+              "height": 128,
+              "tag": "170x128"
+            }
+          ]
+        },
+        "provider": {
+          "displayName": "TIKR",
+          "url": "https://www.tikr.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://www.tikr.com/blog/trumps-new-tariffs-hit-taiwan-but-spare-its-chips-thats-good-news-for-tsmc-and-apple?ref=yahoofinance&tlnk=yf-261127-wff3mmwm"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-tariffs-hit-taiwan-spare-134036384.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "AAPL"
+            },
+            {
+              "symbol": "QCOM"
+            },
+            {
+              "symbol": "INTC"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "7b49937c-74fb-376f-b3e5-aa9c8597703e",
+      "content": {
+        "id": "7b49937c-74fb-376f-b3e5-aa9c8597703e",
+        "contentType": "STORY",
+        "title": "Is TSMC (TSM) a Buy as Wall Street Analysts Look Optimistic?",
+        "description": null,
+        "summary": "According to the average brokerage recommendation (ABR), one should invest in TSMC (TSM). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+        "pubDate": "2026-11-27T13:30:04Z",
+        "displayTime": "2026-11-27T13:30:04Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": {
+          "originalUrl": "https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a.jpg_up.jpg",
+          "originalWidth": 1280,
+          "originalHeight": 835,
+          "resolutions": [
+            {
+              "url": "https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a.jpg_up.jpg",
+              "width": 1280,
+              "height": 835,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/lo/mysterio/api/2dea8772c824544e3080e8180a204f76296c1289a9d1217746ad689be0b0bc95/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F17a4db66bb13bdabcbf848550a6ea15a.jpg_up.jpg",
               "width": 170,
               "height": 128,
               "tag": "170x128"
@@ -27356,10 +27639,10 @@
           "url": "http://www.zacks.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-stocks-buy-2027-190000024.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-buy-wall-street-133004462.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-stocks-buy-2027-190000024.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-buy-wall-street-133004462.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27367,84 +27650,7 @@
           },
           "stockTickers": [
             {
-              "symbol": "MKSI"
-            },
-            {
               "symbol": "TSM"
-            },
-            {
-              "symbol": "RTX"
-            },
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "IQMX"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "9250429f-83cf-3432-b63e-26497f104784",
-      "content": {
-        "id": "9250429f-83cf-3432-b63e-26497f104784",
-        "contentType": "STORY",
-        "title": "This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here’s the Lesson for Investors.",
-        "description": null,
-        "summary": "Leopold Aschenbrenner called the AI boom right, and the companies he bet on kept posting record results. His fund still nearly collapsed. What went wrong, and how can ordinary investors avoid the same trap?",
-        "pubDate": "2026-11-26T16:55:13Z",
-        "displayTime": "2026-11-26T16:55:13Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/47730a8b654f4ec3b3773cee57695999.jpg",
-          "originalWidth": 1366,
-          "originalHeight": 768,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/47730a8b654f4ec3b3773cee57695999.jpg",
-              "width": 1366,
-              "height": 768,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/d2635485ecb5cb2d1df8af3df7df241dff0cc8bf6b195b9424d3963639860663/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F47730a8b654f4ec3b3773cee57695999.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/26/this-ai-investing-prodigy-lost-65-in-a-single-quarter-and-is-still-up-88-5-in-2026-heres-the-lesson-for-investors/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-investing-prodigy-lost-65-165513452.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "BE"
-            },
-            {
-              "symbol": "CORZ"
-            },
-            {
-              "symbol": "MU"
-            },
-            {
-              "symbol": "NBIS"
-            },
-            {
-              "symbol": "SNDK"
             },
             {
               "symbol": "TSM"
@@ -27454,45 +27660,27 @@
       }
     },
     {
-      "id": "72d53771-feb9-3d87-b080-efe1a363e7c1",
+      "id": "0b47e045-aa64-3928-821a-820b1d0403f1",
       "content": {
-        "id": "72d53771-feb9-3d87-b080-efe1a363e7c1",
+        "id": "0b47e045-aa64-3928-821a-820b1d0403f1",
         "contentType": "STORY",
-        "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
+        "title": "President Trump Says 'Huang Is Happy to Return as Nvidia CEO'",
         "description": null,
-        "summary": "A CEO resignation, a credit rating on watch, and export rules scrambling China-bound GPUs have rattled the AI trade's biggest name. Two very different futures now compete for NVIDIA shares, and the next catalysts could tip the balance.",
-        "pubDate": "2026-11-26T16:06:22Z",
-        "displayTime": "2026-11-26T16:06:22Z",
+        "summary": "Trump Calls Huang's Nvidia Comeback a Win as National Security Questions Mount",
+        "pubDate": "2026-11-27T11:10:35Z",
+        "displayTime": "2026-11-27T11:10:35Z",
         "isHosted": true,
         "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/51e07482402ef08b2952daebd0ae4397.jpg",
-          "originalWidth": 2560,
-          "originalHeight": 1696,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/24_7_wall_st__718/51e07482402ef08b2952daebd0ae4397.jpg",
-              "width": 2560,
-              "height": 1696,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/c6ffab0576bf608513740416cc90a08280b33c7f7e08910de1357a5693063708/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F51e07482402ef08b2952daebd0ae4397.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
+        "thumbnail": null,
         "provider": {
-          "displayName": "24/7 Wall St.",
-          "url": "https://247wallst.com/"
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/"
         },
         "canonicalUrl": {
-          "url": "https://247wallst.com/investing/2026/11/26/nvidia-just-dropped-31-in-a-month-will-nvda-stock-hit-125-or-200-first/"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/president-trump-says-huang-happy-111035641.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-dropped-31-month-160622729.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/president-trump-says-huang-happy-111035641.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27503,12 +27691,6 @@
               "symbol": "NVDA"
             },
             {
-              "symbol": "AMD"
-            },
-            {
-              "symbol": "AVGO"
-            },
-            {
               "symbol": "TSM"
             }
           ]
@@ -27516,127 +27698,15 @@
       }
     },
     {
-      "id": "066e095a-1713-34f7-b489-39b5f64ade9e",
+      "id": "e4efb47f-5e3f-35d1-940a-0d087837e243",
       "content": {
-        "id": "066e095a-1713-34f7-b489-39b5f64ade9e",
+        "id": "e4efb47f-5e3f-35d1-940a-0d087837e243",
         "contentType": "STORY",
-        "title": "TSMC (TSM) Upgraded to Strong Buy: Here's Why",
+        "title": "iShares A.I. Innovation and Tech Active ETF (BAI) Sells Broadcom and AMD on Wednesday",
         "description": null,
-        "summary": "TSMC (TSM) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #1 (Strong Buy).",
-        "pubDate": "2026-11-26T16:00:04Z",
-        "displayTime": "2026-11-26T16:00:04Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83.jpg_up.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 901,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83.jpg_up.jpg",
-              "width": 1280,
-              "height": 901,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/3bd83bebc5d238d4470c7837fffa35b35b7f8b5a76e113afc485cbde615dcf9d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2Fb369e357aa3d42cc28ac674490d4ae83.jpg_up.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Zacks",
-          "url": "http://www.zacks.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-upgraded-strong-buy-160004326.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-upgraded-strong-buy-160004326.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "c019dbaa-0fc3-3407-ae7e-8272a5ba568a",
-      "content": {
-        "id": "c019dbaa-0fc3-3407-ae7e-8272a5ba568a",
-        "contentType": "STORY",
-        "title": "Taiwan Semiconductor Manufacturing (TSM) May Make Its $22.6 Billion Texas Plant Conditional",
-        "description": null,
-        "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) is weighing a US$22.6b chip fabrication plant in Texas tied to new tax rules. The proposed facility in Austin depends on pending state property tax breaks and federal incentives still under consideration. Local legislators in Texas are working on new measures that would define how far property tax relief for TSMC can go. TSMC's Texas plan, which hinges on tax legislation, captures only one piece of what investors need to weigh on this...",
-        "pubDate": "2026-11-26T11:10:54Z",
-        "displayTime": "2026-11-26T11:10:54Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0f9606c11fab5873fe681760ed38df34.jpg",
-          "originalWidth": 1600,
-          "originalHeight": 900,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/simply_wall_st__316/0f9606c11fab5873fe681760ed38df34.jpg",
-              "width": 1600,
-              "height": 900,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/30108562c75c8bc200994a2a1cb92710b6cc1b82997155fd47c7252c73a1be46/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F0f9606c11fab5873fe681760ed38df34.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "Simply Wall St.",
-          "url": "https://simplywall.st/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-manufacturing-tsm-may-111054914.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-manufacturing-tsm-may-111054914.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "d5596186-1cfd-3aa0-aca8-f2a80e5377e4",
-      "content": {
-        "id": "d5596186-1cfd-3aa0-aca8-f2a80e5377e4",
-        "contentType": "STORY",
-        "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 24",
-        "description": null,
-        "summary": "ETFs sold a net $44.8 million of Taiwan Semiconductor (TSM) shares in Tuesday's session.",
-        "pubDate": "2026-11-26T11:03:18Z",
-        "displayTime": "2026-11-26T11:03:18Z",
+        "summary": "The fund sold $218.2 million of stock and bought nothing, cutting 40 positions while adding none.",
+        "pubDate": "2026-11-27T11:04:24Z",
+        "displayTime": "2026-11-27T11:04:24Z",
         "isHosted": true,
         "previewUrl": null,
         "thumbnail": null,
@@ -27645,10 +27715,57 @@
           "url": "http://www.gurufocus.com/"
         },
         "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-taiwan-semiconductor-110318756.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-tech-active-etf-110424675.html"
         },
         "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-taiwan-semiconductor-110318756.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-tech-active-etf-110424675.html"
+        },
+        "finance": {
+          "premiumFinance": {
+            "isPremiumNews": false
+          },
+          "stockTickers": [
+            {
+              "symbol": "AVGO"
+            },
+            {
+              "symbol": "AMD"
+            },
+            {
+              "symbol": "TSM"
+            },
+            {
+              "symbol": "MU"
+            },
+            {
+              "symbol": "BAI"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "4d7e0bb3-9765-3a84-91c1-e31b854430f3",
+      "content": {
+        "id": "4d7e0bb3-9765-3a84-91c1-e31b854430f3",
+        "contentType": "STORY",
+        "title": "ETFs Sold $34.5 Million of Taiwan Semiconductor (TSM) on Nov. 25",
+        "description": null,
+        "summary": "Six ETFs sold $34.5 million of Taiwan Semiconductor stock on Wednesday, while four bought.",
+        "pubDate": "2026-11-27T11:02:29Z",
+        "displayTime": "2026-11-27T11:02:29Z",
+        "isHosted": true,
+        "previewUrl": null,
+        "thumbnail": null,
+        "provider": {
+          "displayName": "GuruFocus.com",
+          "url": "http://www.gurufocus.com/"
+        },
+        "canonicalUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-sold-34-5-million-110229859.html"
+        },
+        "clickThroughUrl": {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-sold-34-5-million-110229859.html"
         },
         "finance": {
           "premiumFinance": {
@@ -27667,368 +27784,9 @@
           ]
         }
       }
-    },
-    {
-      "id": "f39e3157-9a3f-3e47-a43f-c5579eac7ec8",
-      "content": {
-        "id": "f39e3157-9a3f-3e47-a43f-c5579eac7ec8",
-        "contentType": "STORY",
-        "title": "Taiwan shares tumble 4.8% as AI chip stocks slump",
-        "description": null,
-        "summary": "Taiwan's benchmark Taiex lost 1,926. 92 points, or 4.",
-        "pubDate": "2026-11-26T03:51:11Z",
-        "displayTime": "2026-11-26T03:51:11Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": {
-          "originalUrl": "https://media.zenfs.com/en/intellinews_516/7c9203a3fd493a7e43659e887ce42c11.jpg_up.jpg",
-          "originalWidth": 1280,
-          "originalHeight": 726,
-          "resolutions": [
-            {
-              "url": "https://media.zenfs.com/en/intellinews_516/7c9203a3fd493a7e43659e887ce42c11.jpg_up.jpg",
-              "width": 1280,
-              "height": 726,
-              "tag": "original"
-            },
-            {
-              "url": "https://s.yimg.com/lo/mysterio/api/f94e5a0ef85a9972b32f5cfea0010d05d85cc90649b77cfd1c4c2c488e5ea6e6/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fintellinews_516%2F7c9203a3fd493a7e43659e887ce42c11.jpg_up.jpg",
-              "width": 170,
-              "height": 128,
-              "tag": "170x128"
-            }
-          ]
-        },
-        "provider": {
-          "displayName": "IntelliNews",
-          "url": "https://www.intellinews.com/"
-        },
-        "canonicalUrl": {
-          "url": "http://www.intellinews.com/taiwan-shares-tumble-4-8-as-ai-chip-stocks-slump-488520/"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-shares-tumble-4-8-035111984.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "5da2dc44-2510-3b28-ab99-13887837a87b",
-      "content": {
-        "id": "5da2dc44-2510-3b28-ab99-13887837a87b",
-        "contentType": "STORY",
-        "title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
-        "description": null,
-        "summary": "Investing.com-- Asian semiconductor and technology stocks rallied on Thursday as bargain buyers stepped in to support a sector that was battered by mounting doubts over the long-term viability of the artificial intelligence trade.",
-        "pubDate": "2026-11-26T03:03:16Z",
-        "displayTime": "2026-11-26T03:03:16Z",
-        "isHosted": true,
-        "previewUrl": null,
-        "thumbnail": null,
-        "provider": {
-          "displayName": "Investing.com",
-          "url": "https://www.investing.com/"
-        },
-        "canonicalUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html"
-        },
-        "clickThroughUrl": {
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html"
-        },
-        "finance": {
-          "premiumFinance": {
-            "isPremiumNews": false
-          },
-          "stockTickers": [
-            {
-              "symbol": "TSM"
-            },
-            {
-              "symbol": "2317.TW"
-            },
-            {
-              "symbol": "SKHY"
-            },
-            {
-              "symbol": "005930.KS"
-            }
-          ]
-        }
-      }
     }
   ],
   "info": {
-    "address1": "Hsinchu Science Park",
-    "address2": "No. 8, Li-Hsin Road 6",
-    "city": "Hsinchu City",
-    "zip": "300096",
-    "country": "Taiwan",
-    "phone": "886 3 563 6688",
-    "fax": "886 3 563 7000",
-    "website": "https://www.tsmc.com",
-    "industry": "Semiconductors",
-    "industryKey": "semiconductors",
-    "industryDisp": "Semiconductors",
-    "sector": "Technology",
-    "sectorKey": "technology",
-    "sectorDisp": "Technology",
-    "longBusinessSummary": "Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others. The company also involved in providing customer and engineering support services; manufacturing of masks; investment in technology start-up companies; research, designing, developing, manufacturing, packaging, testing, and sale of color filters; and investment activities. Its products are used in high performance computing, smartphones, Internet of things, automotive, and digital consumer electronics. Taiwan Semiconductor Manufacturing Company Limited was incorporated in 1987 and is headquartered in Hsinchu City, Taiwan.",
-    "fullTimeEmployees": 76907,
-    "companyOfficers": [
-      {
-        "maxAge": 1,
-        "name": "Dr. C. C.  Wei Ph.D.",
-        "title": "Chairman & CEO",
-        "fiscalYear": 2025,
-        "totalPay": 2055600000,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Mr. Jen-Chau  Huang",
-        "title": "Senior VP, CFO & Spokesperson",
-        "fiscalYear": 2025,
-        "totalPay": 297800000,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Mr. Y. P.  Chyn",
-        "title": "Executive VP & Co-COO",
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Dr. Y. J.  Mii",
-        "title": "Executive VP & Co-COO",
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Dr. Min  Cao",
-        "title": "VP of Research, Development, Pathfinding & Corporate Research and CTO",
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Dr. Horng-Dar  Lin",
-        "title": "Vice President of Corporate Information Technology & Chief Information Officer",
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Mr. Jeff  Su",
-        "title": "Director of Investor Relations",
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Ms. Sylvia  Fang",
-        "title": "Senior VP, General Counsel & Corporate Governance Officer",
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Mr. Pei-Hong  Chen",
-        "title": "Vice President of the Human Resources",
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      },
-      {
-        "maxAge": 1,
-        "name": "Dr. Wei-Jen  Lo",
-        "title": "Senior Vice President of Corporate Strategy Development",
-        "fiscalYear": 2025,
-        "exercisedValue": 0,
-        "unexercisedValue": 0
-      }
-    ],
-    "compensationAsOfEpochDate": 1767139200,
-    "irWebsite": "http://www.tsmc.com/english/investorRelations/index.htm",
-    "executiveTeam": [],
-    "maxAge": 86400,
-    "priceHint": 2,
-    "previousClose": 2145.0,
-    "open": 2145.0,
-    "dayLow": 2135.0,
-    "dayHigh": 2175.0,
-    "regularMarketPreviousClose": 2145.0,
-    "regularMarketOpen": 2145.0,
-    "regularMarketDayLow": 2135.0,
-    "regularMarketDayHigh": 2175.0,
-    "dividendRate": 24.0,
-    "dividendYield": 1.12,
-    "exDividendDate": 1796860800,
-    "payoutRatio": 0.24620001,
-    "fiveYearAvgDividendYield": 1.51,
-    "beta": 1.233,
-    "trailingPE": 22.31592,
-    "forwardPE": 14.471198,
-    "volume": 16603673,
-    "regularMarketVolume": 16603673,
-    "averageVolume": 28680298,
-    "averageVolume10days": 49275333,
-    "averageDailyVolume10Day": 49275333,
-    "bid": 2165.0,
-    "ask": 2170.0,
-    "bidSize": 0,
-    "askSize": 0,
-    "marketCap": 56273231937536,
-    "nonDilutedMarketCap": 60681734029800,
-    "fiftyTwoWeekLow": 1410.0,
-    "fiftyTwoWeekHigh": 2590.0,
-    "allTimeHigh": 2590.0,
-    "allTimeLow": 26.918774,
-    "fulldayPrice": 2170.0,
-    "fulldayChange": 25.0,
-    "fulldayChangePercent": 1.1655011,
-    "priceToSalesTrailing12Months": 11.380244,
-    "fiftyDayAverage": 2369.6,
-    "twoHundredDayAverage": 2254.375,
-    "trailingAnnualDividendRate": 28.0,
-    "trailingAnnualDividendYield": 0.013053613,
-    "currency": "TWD",
-    "tradeable": false,
-    "enterpriseValue": 52723022036992,
-    "profitMargins": 0.51116,
-    "floatShares": 23651872822,
-    "sharesOutstanding": 25932364970,
-    "heldPercentInsiders": 0.0005,
-    "heldPercentInstitutions": 0.4336,
-    "impliedSharesOutstanding": 25932364970,
-    "bookValue": 269.852,
-    "priceToBook": 8.041445,
-    "lastFiscalYearEnd": 1767139200,
-    "nextFiscalYearEnd": 1798675200,
-    "mostRecentQuarter": 1790726400,
-    "earningsQuarterlyGrowth": 0.687,
-    "netIncomeToCommon": 2527571476480,
-    "trailingEps": 97.24,
-    "forwardEps": 149.95303,
-    "pegRatio": 0.6,
-    "lastSplitFactor": "1.005:1",
-    "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 10.662,
-    "enterpriseToEbitda": 14.644,
-    "52WeekChange": 0.4947735,
-    "SandP52WeekChange": 0.04872036,
-    "lastDividendValue": 9.0,
-    "lastDividendDate": 1804723200,
-    "quoteType": "EQUITY",
-    "currentPrice": 2170.0,
-    "targetHighPrice": 5000.0,
-    "targetLowPrice": 2700.0,
-    "targetMeanPrice": 3402.5144,
-    "targetMedianPrice": 3320.0,
-    "recommendationMean": 1.30556,
-    "recommendationKey": "strong_buy",
-    "numberOfAnalystOpinions": 35,
-    "totalCash": 4016968302592,
-    "totalCashPerShare": 154.902,
-    "ebitda": 3600238510080,
-    "totalDebt": 1069741834240,
-    "quickRatio": 2.287,
-    "currentRatio": 2.584,
-    "totalRevenue": 4944817553408,
-    "debtToEquity": 15.188,
-    "revenuePerShare": 190.698,
-    "returnOnAssets": 0.20581,
-    "returnOnEquity": 0.4186,
-    "grossProfits": 3255971610624,
-    "freeCashflow": 1042594725888,
-    "operatingCashflow": 3127625383936,
-    "earningsGrowth": 0.687,
-    "revenueGrowth": 0.509,
-    "grossMargins": 0.65846,
-    "ebitdaMargins": 0.72808,
-    "operatingMargins": 0.57961,
-    "financialCurrency": "TWD",
-    "symbol": "2330.TW",
-    "language": "en-US",
-    "region": "US",
-    "typeDisp": "Equity",
-    "quoteSourceName": "Delayed Quote",
-    "triggerable": false,
-    "customPriceAlertConfidence": "LOW",
-    "exchange": "TAI",
-    "corporateActions": [
-      {
-        "header": "Dividend",
-        "message": "2330.TW announced a cash dividend of TWD 7.00 with an ex-date of Dec. 10, 2026",
-        "meta": {
-          "eventType": "DIVIDEND",
-          "dateEpochMs": 1796832000000,
-          "amount": "7.00"
-        }
-      }
-    ],
-    "regularMarketTime": 1795750401,
-    "marketState": "REGULAR",
-    "messageBoardId": "finmb_380075",
-    "exchangeTimezoneName": "Asia/Taipei",
-    "exchangeTimezoneShortName": "CST",
-    "gmtOffSetMilliseconds": 28800000,
-    "market": "tw_market",
-    "esgPopulated": false,
-    "hasPrePostMarketData": false,
-    "firstTradeDateMilliseconds": 946947600000,
-    "regularMarketChange": 25.0,
-    "regularMarketChangePercent": 1.1655011,
-    "regularMarketPrice": 2170.0,
-    "regularMarketDayRange": "2135.0 - 2175.0",
-    "fullExchangeName": "Taiwan",
-    "averageDailyVolume3Month": 28680298,
-    "fiftyTwoWeekLowChange": 760.0,
-    "fiftyTwoWeekLowChangePercent": 0.53900707,
-    "fiftyTwoWeekRange": "1410.0 - 2590.0",
-    "fiftyTwoWeekHighChange": -420.0,
-    "fiftyTwoWeekHighChangePercent": -0.16216215,
-    "fiftyTwoWeekChangePercent": 49.477352,
-    "earningsTimestamp": 1792042200,
-    "earningsTimestampStart": 1799904600,
-    "earningsTimestampEnd": 1799904600,
-    "earningsCallTimestampStart": 1792044000,
-    "earningsCallTimestampEnd": 1792044000,
-    "isEarningsDateEstimate": true,
-    "epsTrailingTwelveMonths": 97.24,
-    "epsForward": 149.95303,
-    "epsCurrentYear": 110.62572,
-    "priceEpsCurrentYear": 19.615692,
-    "fiftyDayAverageChange": -199.6001,
-    "fiftyDayAverageChangePercent": -0.084233664,
-    "twoHundredDayAverageChange": -84.375,
-    "twoHundredDayAverageChangePercent": -0.037427224,
-    "sourceInterval": 20,
-    "exchangeDataDelayedBy": 20,
-    "averageAnalystRating": "1.3 - Strong Buy",
-    "cryptoTradeable": false,
-    "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-    "longName": "Taiwan Semiconductor Manufacturing Company Limited",
-    "isCMEFuture": false,
     "trailingPegRatio": 0.5569
   }
 }
